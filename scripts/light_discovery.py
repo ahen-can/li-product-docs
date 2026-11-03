@@ -106,12 +106,13 @@ def page_links(url, tmp):
     links = []
     if code == 200 and os.path.exists(p):
         t = open(p, 'rb').read().decode('utf-8', 'ignore')
+        t = t.replace('\\u002F', '/').replace('\\/', '/')                 # links inside embedded JSON (Nuxt/Next data)
         for m in re.finditer(r'href=["\']([^"\'#]+)["\'][^>]*>(.*?)</a>', t, re.S | re.I):
             links.append((urllib.parse.urljoin(eff or url, html.unescape(m.group(1)).strip()),
                           re.sub(r'\s+', ' ', html.unescape(re.sub(r'<[^>]+>', ' ', m.group(2)))).strip()[:120]))
         for m in re.finditer(r'<loc>\s*([^<]+?\.pdf)\s*</loc>', t, re.I):     # PDF sitemaps (e.g. HDFC pdf-sitemap.xml)
             links.append((html.unescape(m.group(1)), ''))
-        for m in re.finditer(r'["\']((?:https?:)?//[^"\'\s]+?\.pdf|/[^"\'\s]+?\.pdf)["\']', t, re.I):   # PDFs referenced in scripts/data
+        for m in re.finditer(r'["\']((?:https?:)?//[^"\'\s\\]+?\.pdf|/[^"\'\s\\]+?\.pdf)(\?[^"\'\s\\]*)?\\?["\']', t, re.I):   # PDFs in scripts/data
             links.append((urllib.parse.urljoin(eff or url, m.group(1)), ''))
     _page_cache[url] = links
     return links
@@ -126,6 +127,7 @@ def score(url, text, prod, on_product_page=False):
     s = 0; u = urllib.parse.unquote(url).lower(); blob = u + ' ' + text.lower()
     if on_product_page and text and BROCHURE_WORDS.search(blob): s += 6     # 'Brochure' anchor on the product's own page
     if on_product_page and text and POLICY_WORDS.search(blob): s += 4       # 'Policy document' anchor on the product's own page
+    if on_product_page and not text and (BROCHURE_WORDS.search(blob) or POLICY_WORDS.search(blob)): s += 3   # same, from embedded page data
     code = prod['product_code'].lower()
     if code and code in blob.replace(' ', ''): s += 6
     if prod['uin'] and prod['uin'].lower() in blob.replace(' ', ''): s += 2
@@ -167,8 +169,21 @@ def find_desc(txt, pdf=None):
         flat = re.sub(r'\s+', ' ', part)
         for m in DESC.finditer(flat):
             d = m.group(0).strip()
-            if not RIDER.search(d) and re.search(r'individual|life|pension|annuity|savings|term|risk|health', d, re.I): return d
+            if not RIDER.search(d) and re.search(r'individual|life|pension|annuity|savings|term|risk|health|protection|endowment|micro', d, re.I): return d
     return ''
+
+def ocr_desc(pdf, pages=3):
+    """Description line printed inside an image: OCR the first pages (tesseract) and search them.
+    Tries 400 dpi, then 200 dpi (each misreads some layouts)."""
+    import tempfile, glob
+    for dpi in ('400', '200'):
+        with tempfile.TemporaryDirectory() as d:
+            subprocess.run(['pdftoppm', '-f', '1', '-l', str(pages), '-r', dpi, '-png', pdf, os.path.join(d, 'p')], capture_output=True)
+            txt = '\f'.join(subprocess.run(['tesseract', f, '-'], capture_output=True, text=True).stdout
+                            for f in sorted(glob.glob(os.path.join(d, 'p*.png'))))
+        desc = find_desc(txt)
+        if desc and classify_desc(desc)[0] != 'not stated' or desc and 'unit' in desc.lower(): return desc
+    return desc
 
 def classify_desc(desc):
     d = re.sub(r'\s*[\u2010-\u2015-]\s*', '-', desc.lower())
@@ -200,13 +215,20 @@ def main():
             ix = next((x for x in csv.DictReader(open('index.csv')) if x['uin'] == r['uin'] and x['product_name'] == r['product_name']), None)
             if not ix or not os.path.exists(ix['text_path']): continue
             txt = open(ix['text_path']).read()
-            desc = find_desc(txt, ix['file_path']); par, linked, ptype = classify_desc(desc) if desc else ('', '', '')
+            desc = find_desc(txt, ix['file_path'])
+            note = 'description line read by OCR from page image'
+            if not desc:
+                desc = ocr_desc(ix['file_path'])
+                if desc and note not in r['notes']: r['notes'] = '; '.join(x for x in (r['notes'], note) if x)
+            elif note in r['notes']:
+                r['notes'] = '; '.join(x for x in r['notes'].split('; ') if x != note)
+            par, linked, ptype = classify_desc(desc) if desc else ('', '', '')
             r.update(irdai_description_line=desc, par_flag_stated=par, linked_stated=linked, plan_type_stated=ptype,
                      features_keyword_hits=' '.join(k for k, rx in FEATURES.items() if re.search(rx, txt, re.I)))
         rows = list(csv.DictReader(open('index.csv')))
         for x in rows:
             r = next((v for v in done.values() if v['uin'] == x['uin'] and v['product_name'] == x['product_name'] and v['status'] == 'ok'), None)
-            if r: x['irdai_description_line'] = r['irdai_description_line']; x['par_flag'] = r['par_flag_stated']
+            if r: x['irdai_description_line'] = r['irdai_description_line']; x['par_flag'] = r['par_flag_stated']; x['notes'] = r['notes']
         write_index(rows, idx_cols)
         save(resf, done, M, checklist=(resf == 'results/light_discovery_results.csv')); return
     if a.merge is not None:
@@ -290,7 +312,9 @@ def main():
             pages_n = int(pages_n.group(1)) if pages_n else 0
             scanned = 'Y' if pages_n and len(txt.strip()) / pages_n < 200 else 'N'
             if not dup: open(tp, 'w').write(txt)
-            desc = find_desc(txt, fp)
+            desc = find_desc(txt, fp); ocr_note = ''
+            if not desc:
+                desc = ocr_desc(fp); ocr_note = 'description line read by OCR from page image' if desc else ''
             par, linked, ptype = classify_desc(desc) if desc else ('', '', '')
             hits = [k for k, rx in FEATURES.items() if re.search(rx, txt, re.I)]
             row = {c: '' for c in idx_cols}
@@ -300,7 +324,7 @@ def main():
                         'http_status': code, 'sha256': hashlib.sha256(body).hexdigest(), 'bytes': len(body), 'pages': pages_n,
                         'is_scanned': scanned, 'file_path': fp, 'text_path': tp, 'status': 'ok',
                         'notes': '; '.join(x for x in [('' if prod['uin'] in uins else f"document shows {','.join(uins)}"),
-                                                     ('scanned - OCR needed' if scanned == 'Y' else ''), o_note,
+                                                     ('scanned - OCR needed' if scanned == 'Y' else ''), o_note, ocr_note,
                                                      ('brochure not verified (UIN missing/different); policy document used' if doc_type == 'policy' else ''),
                                                      (f"same file as {dup['doc_id']}" if dup else '')] if x)})
             with open('index.csv', 'a', newline='') as fh: csv.DictWriter(fh, fieldnames=idx_cols).writerow(row)
