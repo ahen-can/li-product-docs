@@ -10,8 +10,11 @@ Known gaps:
 - **IRDAI page:** no files for LIC, SBI Life, Axis Max Life, Tata AIA, Pramerica or Go Digit; uses some old company names.
 
 ## master_list.csv: build status
-**v2 (3 Nov 2026):** website-first (`sources/websites/`, `scripts/website/`). The insurer website is the source of truth; the Council list is the cross-check. The IRDAI list is kept here for the record only and is **not used**: it is stale, e.g. all of Bharti's IRDAI-only products turned out to be withdrawn.
+**v3 (4 Nov 2026), current.** The backbone is the Life Council list (Sep-2026), which the user verified as accurate against official ICICI and Bharti lists. Patches:
+- **ICICI and Bharti:** the insurers' official lists (`official-lists/`). ICICI has 1 new product and 1 newer version; its names now read "ICICI Life".
+- **SBI:** the 27 product pages on its website ("Know about SBI Life - X UIN: ...").
+- **Bajaj:** its official "Plans Currently On Sale" page, individual section, 29 products (2 show UIN "NA").
 
-- **Categories:** never inferred from names.
-- **Not yet in v2:** par/non-par and the market category. These come from each brochure's IRDAI description line in the next pass.
-- **Blocked sites:** ICICI, Kotak, Star Union Dai-ichi and Go Digit carry Council data only, until the user supplies their product lists.
+Scope excludes the products the Council labels Health, Accident or Micro (`excluded_out_of_scope.csv`), plus riders and govt/combi codes. Saral/POS products are kept, tagged in `standard_or_pos_tag`. No category is inferred from product names; the brochure pass (`briefs/light_discovery_brief.md`) fills `irdai_description_line` and the par flag.
+
+v2 (website-vs-Council scrape, `websites/`) is kept as an audit trail only. The IRDAI list is kept for the record and is not used.

@@ -14,7 +14,10 @@ coverage.md            per-insurer coverage, plus a manual-download list for any
 docs/<insurer>/<UIN>/<doc_type>.pdf          original file, byte-for-byte as downloaded
 text/<insurer>/<UIN>/<doc_type>.txt          text extract (pdftotext -layout; OCR if the PDF is scanned)
 features/<category>.csv                      deep-extraction output (features with document and page citations)
-scripts/                                     downloader and text extraction
+scripts/                                     light_discovery.py (brochure pass), website/ (v2 audit scripts)
+briefs/                                      instructions for the second session (light_discovery_brief.md)
+results/                                     light-discovery results, manual checklists
+master_list.xlsx                             master list + blocked-sites checklist tab
 CLAUDE.md                                    operating rules for any agent working in this repo
 ```
 

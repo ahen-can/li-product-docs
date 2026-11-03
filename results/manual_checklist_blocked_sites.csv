@@ -1,0 +1,107 @@
+row_id,insurer,product_name,uin,what_to_download,where_to_look,save_as
+243,Go Digit Life,Digit Glow Lite Term Life Insurance,165N006V01,Sales brochure (and policy document if handy),https://www.godigit.com/life-insurance,docs/go-digit-life/165N006V01/brochure.pdf
+244,Go Digit Life,Digit Glow Plus Term Life Insurance,165N007V03,Sales brochure (and policy document if handy),https://www.godigit.com/life-insurance,docs/go-digit-life/165N007V03/brochure.pdf
+245,Go Digit Life,Digit Glow Term Life Insurance,165N005V01,Sales brochure (and policy document if handy),https://www.godigit.com/life-insurance,docs/go-digit-life/165N005V01/brochure.pdf
+246,Go Digit Life,Digit Icon,165N011V04,Sales brochure (and policy document if handy),https://www.godigit.com/life-insurance,docs/go-digit-life/165N011V04/brochure.pdf
+247,Go Digit Life,Digit Life Pension Plan,165N032V01,Sales brochure (and policy document if handy),https://www.godigit.com/life-insurance,docs/go-digit-life/165N032V01/brochure.pdf
+295,ICICI Life,ICICI Life Assured Savings Insurance Plan,105N144V14,Sales brochure (and policy document if handy),https://www.icicilife.com/insurance-plans/view-all-insurance-plans.html,docs/icici-life/105N144V14/brochure.pdf
+296,ICICI Life,ICICI Life Ezy Grow,105L189V08,Sales brochure (and policy document if handy),https://www.icicilife.com/insurance-plans/view-all-insurance-plans.html,docs/icici-life/105L189V08/brochure.pdf
+297,ICICI Life,ICICI Life Future Perfect,105N153V05,Sales brochure (and policy document if handy),https://www.icicilife.com/insurance-plans/view-all-insurance-plans.html,docs/icici-life/105N153V05/brochure.pdf
+298,ICICI Life,ICICI Life GIFT Assure,105N224V03,Sales brochure (and policy document if handy),https://www.icicilife.com/insurance-plans/view-all-insurance-plans.html,docs/icici-life/105N224V03/brochure.pdf
+299,ICICI Life,ICICI Life GIFT Pro,105N201V07,Sales brochure (and policy document if handy),https://www.icicilife.com/insurance-plans/view-all-insurance-plans.html,docs/icici-life/105N201V07/brochure.pdf
+300,ICICI Life,ICICI Life Gift Select,105N223V06,Sales brochure (and policy document if handy),https://www.icicilife.com/insurance-plans/view-all-insurance-plans.html,docs/icici-life/105N223V06/brochure.pdf
+301,ICICI Life,ICICI Life Gold,105N190V07,Sales brochure (and policy document if handy),https://www.icicilife.com/insurance-plans/view-all-insurance-plans.html,docs/icici-life/105N190V07/brochure.pdf
+302,ICICI Life,ICICI Life Gold Pension Savings,105N202V03,Sales brochure (and policy document if handy),https://www.icicilife.com/insurance-plans/view-all-insurance-plans.html,docs/icici-life/105N202V03/brochure.pdf
+303,ICICI Life,ICICI Life Guaranteed Income For Tomorrow,105N182V13,Sales brochure (and policy document if handy),https://www.icicilife.com/insurance-plans/view-all-insurance-plans.html,docs/icici-life/105N182V13/brochure.pdf
+304,ICICI Life,ICICI Life Guaranteed Income For Tomorrow (Long-term),105N185V17,Sales brochure (and policy document if handy),https://www.icicilife.com/insurance-plans/view-all-insurance-plans.html,docs/icici-life/105N185V17/brochure.pdf
+305,ICICI Life,ICICI Life Guaranteed Indexed Pension,105N226V02,Sales brochure (and policy document if handy),https://www.icicilife.com/insurance-plans/view-all-insurance-plans.html,docs/icici-life/105N226V02/brochure.pdf
+306,ICICI Life,ICICI Life Guaranteed Pension Plan,105N181V05,Sales brochure (and policy document if handy),https://www.icicilife.com/insurance-plans/view-all-insurance-plans.html,docs/icici-life/105N181V05/brochure.pdf
+307,ICICI Life,ICICI Life Guaranteed Pension Plan Flexi,105N187V11,Sales brochure (and policy document if handy),https://www.icicilife.com/insurance-plans/view-all-insurance-plans.html,docs/icici-life/105N187V11/brochure.pdf
+308,ICICI Life,ICICI Life Life Time Classic,105L155V10,Sales brochure (and policy document if handy),https://www.icicilife.com/insurance-plans/view-all-insurance-plans.html,docs/icici-life/105L155V10/brochure.pdf
+309,ICICI Life,ICICI Life PRU Signature Assure,105L196V01,Sales brochure (and policy document if handy),https://www.icicilife.com/insurance-plans/view-all-insurance-plans.html,docs/icici-life/105L196V01/brochure.pdf
+310,ICICI Life,ICICI Life Platinum,105L192V04,Sales brochure (and policy document if handy),https://www.icicilife.com/insurance-plans/view-all-insurance-plans.html,docs/icici-life/105L192V04/brochure.pdf
+311,ICICI Life,ICICI Life Protect N Gain,105L191V06,Sales brochure (and policy document if handy),https://www.icicilife.com/insurance-plans/view-all-insurance-plans.html,docs/icici-life/105L191V06/brochure.pdf
+312,ICICI Life,ICICI Life Protect N Gain Whole Life,105L208V01,Sales brochure (and policy document if handy),https://www.icicilife.com/insurance-plans/view-all-insurance-plans.html,docs/icici-life/105L208V01/brochure.pdf
+313,ICICI Life,ICICI Life Saral Jeevan Bima,105N183V03,Sales brochure (and policy document if handy),https://www.icicilife.com/insurance-plans/view-all-insurance-plans.html,docs/icici-life/105N183V03/brochure.pdf
+314,ICICI Life,ICICI Life Saral Pension,105N184V10,Sales brochure (and policy document if handy),https://www.icicilife.com/insurance-plans/view-all-insurance-plans.html,docs/icici-life/105N184V10/brochure.pdf
+315,ICICI Life,ICICI Life Sarv Jana Suraksha,105N081V06,Sales brochure (and policy document if handy),https://www.icicilife.com/insurance-plans/view-all-insurance-plans.html,docs/icici-life/105N081V06/brochure.pdf
+316,ICICI Life,ICICI Life Savings Suraksha,105N135V05,Sales brochure (and policy document if handy),https://www.icicilife.com/insurance-plans/view-all-insurance-plans.html,docs/icici-life/105N135V05/brochure.pdf
+317,ICICI Life,ICICI Life Signature,105L177V13,Sales brochure (and policy document if handy),https://www.icicilife.com/insurance-plans/view-all-insurance-plans.html,docs/icici-life/105L177V13/brochure.pdf
+318,ICICI Life,ICICI Life Signature Pension,105L194V04,Sales brochure (and policy document if handy),https://www.icicilife.com/insurance-plans/view-all-insurance-plans.html,docs/icici-life/105L194V04/brochure.pdf
+319,ICICI Life,ICICI Life Signature Secure,105L210V01,Sales brochure (and policy document if handy),https://www.icicilife.com/insurance-plans/view-all-insurance-plans.html,docs/icici-life/105L210V01/brochure.pdf
+320,ICICI Life,ICICI Life Smart Goal Assure,105L199V01,Sales brochure (and policy document if handy),https://www.icicilife.com/insurance-plans/view-all-insurance-plans.html,docs/icici-life/105L199V01/brochure.pdf
+321,ICICI Life,ICICI Life Smart Insurance Plan Plus,105L204V03,Sales brochure (and policy document if handy),https://www.icicilife.com/insurance-plans/view-all-insurance-plans.html,docs/icici-life/105L204V03/brochure.pdf
+322,ICICI Life,ICICI Life SmartKid 360,105N225V02,Sales brochure (and policy document if handy),https://www.icicilife.com/insurance-plans/view-all-insurance-plans.html,docs/icici-life/105N225V02/brochure.pdf
+323,ICICI Life,ICICI Life Sukh Samruddhi,105N188V03,Sales brochure (and policy document if handy),https://www.icicilife.com/insurance-plans/view-all-insurance-plans.html,docs/icici-life/105N188V03/brochure.pdf
+324,ICICI Life,ICICI Life Wealth Elite Pro,105L207V01,Sales brochure (and policy document if handy),https://www.icicilife.com/insurance-plans/view-all-insurance-plans.html,docs/icici-life/105L207V01/brochure.pdf
+325,ICICI Life,ICICI Life Wealth Forever,105N206V01,Sales brochure (and policy document if handy),https://www.icicilife.com/insurance-plans/view-all-insurance-plans.html,docs/icici-life/105N206V01/brochure.pdf
+326,ICICI Life,ICICI Life iProtect Care,105N209V03,Sales brochure (and policy document if handy),https://www.icicilife.com/insurance-plans/view-all-insurance-plans.html,docs/icici-life/105N209V03/brochure.pdf
+327,ICICI Life,ICICI Life iProtect Smart,105N151V16,Sales brochure (and policy document if handy),https://www.icicilife.com/insurance-plans/view-all-insurance-plans.html,docs/icici-life/105N151V16/brochure.pdf
+328,ICICI Life,ICICI Life iProtect Smart Plus,105N205V08,Sales brochure (and policy document if handy),https://www.icicilife.com/insurance-plans/view-all-insurance-plans.html,docs/icici-life/105N205V08/brochure.pdf
+329,ICICI Life,ICICI Life iProtect Smart Return of Premium,105N195V02,Sales brochure (and policy document if handy),https://www.icicilife.com/insurance-plans/view-all-insurance-plans.html,docs/icici-life/105N195V02/brochure.pdf
+330,ICICI Life,ICICI Life iProtect Super,105N197V03,Sales brochure (and policy document if handy),https://www.icicilife.com/insurance-plans/view-all-insurance-plans.html,docs/icici-life/105N197V03/brochure.pdf
+331,ICICI Life,ICICI Life iProtect Supreme,105N193V03,Sales brochure (and policy document if handy),https://www.icicilife.com/insurance-plans/view-all-insurance-plans.html,docs/icici-life/105N193V03/brochure.pdf
+332,ICICI Life,ICICI Life1 Wealth,105L175V10,Sales brochure (and policy document if handy),https://www.icicilife.com/insurance-plans/view-all-insurance-plans.html,docs/icici-life/105L175V10/brochure.pdf
+392,Kotak Mahindra Life,Kotak Assured Pension,107N123V13,Sales brochure (and policy document if handy),https://www.kotaklife.com/,docs/kotak-life/107N123V13/brochure.pdf
+393,Kotak Mahindra Life,Kotak Assured Savings Plan,107N081V09,Sales brochure (and policy document if handy),https://www.kotaklife.com/,docs/kotak-life/107N081V09/brochure.pdf
+394,Kotak Mahindra Life,Kotak Classic Endowment Plan,107N082V03,Sales brochure (and policy document if handy),https://www.kotaklife.com/,docs/kotak-life/107N082V03/brochure.pdf
+395,Kotak Mahindra Life,Kotak Confident Retirement Builder,107L136V02,Sales brochure (and policy document if handy),https://www.kotaklife.com/,docs/kotak-life/107L136V02/brochure.pdf
+396,Kotak Mahindra Life,Kotak Confident Retirement Savings Plan,107N162V01,Sales brochure (and policy document if handy),https://www.kotaklife.com/,docs/kotak-life/107N162V01/brochure.pdf
+397,Kotak Mahindra Life,Kotak Early Defined Guaranteed Earnings (EDGE),107N164V02,Sales brochure (and policy document if handy),https://www.kotaklife.com/,docs/kotak-life/107N164V02/brochure.pdf
+398,Kotak Mahindra Life,Kotak Fortune Maximiser,107N125V04,Sales brochure (and policy document if handy),https://www.kotaklife.com/,docs/kotak-life/107N125V04/brochure.pdf
+399,Kotak Mahindra Life,Kotak GAIN,107N141V03,Sales brochure (and policy document if handy),https://www.kotaklife.com/,docs/kotak-life/107N141V03/brochure.pdf
+400,Kotak Mahindra Life,Kotak Gen2Gen Income,107N163V01,Sales brochure (and policy document if handy),https://www.kotaklife.com/,docs/kotak-life/107N163V01/brochure.pdf
+401,Kotak Mahindra Life,Kotak Gen2Gen Protect,107N132V02,Sales brochure (and policy document if handy),https://www.kotaklife.com/,docs/kotak-life/107N132V02/brochure.pdf
+402,Kotak Mahindra Life,Kotak Guaranteed Fortune Builder,107N128V10,Sales brochure (and policy document if handy),https://www.kotaklife.com/,docs/kotak-life/107N128V10/brochure.pdf
+403,Kotak Mahindra Life,Kotak Guaranteed Savings Plan,107N100V06,Sales brochure (and policy document if handy),https://www.kotaklife.com/,docs/kotak-life/107N100V06/brochure.pdf
+404,Kotak Mahindra Life,Kotak Invest Maxima,107L073V05,Sales brochure (and policy document if handy),https://www.kotaklife.com/,docs/kotak-life/107L073V05/brochure.pdf
+405,Kotak Mahindra Life,Kotak Lifetime Income Plan,107N103V20,Sales brochure (and policy document if handy),https://www.kotaklife.com/,docs/kotak-life/107N103V20/brochure.pdf
+406,Kotak Mahindra Life,Kotak Platinum,107L067V07,Sales brochure (and policy document if handy),https://www.kotaklife.com/,docs/kotak-life/107L067V07/brochure.pdf
+407,Kotak Mahindra Life,Kotak Protect Advantage,107N144V01,Sales brochure (and policy document if handy),https://www.kotaklife.com/,docs/kotak-life/107N144V01/brochure.pdf
+408,Kotak Mahindra Life,Kotak Sampoorn Bima Micro-Insurance Plan,107N092V03,Sales brochure (and policy document if handy),https://www.kotaklife.com/,docs/kotak-life/107N092V03/brochure.pdf
+409,Kotak Mahindra Life,Kotak Saral Jeevan Bima Plan,107N120V01,Sales brochure (and policy document if handy),https://www.kotaklife.com/,docs/kotak-life/107N120V01/brochure.pdf
+410,Kotak Mahindra Life,Kotak Signature Legacy,107N135V02,Sales brochure (and policy document if handy),https://www.kotaklife.com/,docs/kotak-life/107N135V02/brochure.pdf
+411,Kotak Mahindra Life,Kotak Signature Term Plan,107N139V02,Sales brochure (and policy document if handy),https://www.kotaklife.com/,docs/kotak-life/107N139V02/brochure.pdf
+412,Kotak Mahindra Life,Kotak Single Invest Advantage,107L065V05,Sales brochure (and policy document if handy),https://www.kotaklife.com/,docs/kotak-life/107L065V05/brochure.pdf
+413,Kotak Mahindra Life,Kotak SmartLife Plan,107N102V05,Sales brochure (and policy document if handy),https://www.kotaklife.com/,docs/kotak-life/107N102V05/brochure.pdf
+414,Kotak Mahindra Life,Kotak T-ULIP Nxt,107L138V01,Sales brochure (and policy document if handy),https://www.kotaklife.com/,docs/kotak-life/107L138V01/brochure.pdf
+415,Kotak Mahindra Life,Kotak T.U.L.I.P,107L131V03,Sales brochure (and policy document if handy),https://www.kotaklife.com/,docs/kotak-life/107L131V03/brochure.pdf
+416,Kotak Mahindra Life,Kotak Term Plan,107N005V07,Sales brochure (and policy document if handy),https://www.kotaklife.com/,docs/kotak-life/107N005V07/brochure.pdf
+417,Kotak Mahindra Life,Kotak Value Protect,107N140V01,Sales brochure (and policy document if handy),https://www.kotaklife.com/,docs/kotak-life/107N140V01/brochure.pdf
+418,Kotak Mahindra Life,Kotak Vital Care,107N143V01,Sales brochure (and policy document if handy),https://www.kotaklife.com/,docs/kotak-life/107N143V01/brochure.pdf
+419,Kotak Mahindra Life,Kotak Wealth Optima Plan,107L118V03,Sales brochure (and policy document if handy),https://www.kotaklife.com/,docs/kotak-life/107L118V03/brochure.pdf
+420,Kotak Mahindra Life,Kotak e-Invest Plus,107L137V02,Sales brochure (and policy document if handy),https://www.kotaklife.com/,docs/kotak-life/107L137V02/brochure.pdf
+421,Kotak Mahindra Life,Kotak e-Term,107N129V04,Sales brochure (and policy document if handy),https://www.kotaklife.com/,docs/kotak-life/107N129V04/brochure.pdf
+563,Star Union Dai-ichi Life,POS - SUD Life Sanchay,142N058V05,Sales brochure (and policy document if handy),https://www.sudlife.in/,docs/sud-life/142N058V05/brochure.pdf
+564,Star Union Dai-ichi Life,SUD Life AADARSH,142N054V04,Sales brochure (and policy document if handy),https://www.sudlife.in/,docs/sud-life/142N054V04/brochure.pdf
+565,Star Union Dai-ichi Life,SUD Life Assured Returns Plan,142N127V01,Sales brochure (and policy document if handy),https://www.sudlife.in/,docs/sud-life/142N127V01/brochure.pdf
+566,Star Union Dai-ichi Life,SUD Life Assured Term Plan,142N102V02,Sales brochure (and policy document if handy),https://www.sudlife.in/,docs/sud-life/142N102V02/brochure.pdf
+567,Star Union Dai-ichi Life,SUD Life Centurion,142N101V02,Sales brochure (and policy document if handy),https://www.sudlife.in/,docs/sud-life/142N101V02/brochure.pdf
+568,Star Union Dai-ichi Life,SUD Life Century Assure,142N128V01,Sales brochure (and policy document if handy),https://www.sudlife.in/,docs/sud-life/142N128V01/brochure.pdf
+569,Star Union Dai-ichi Life,SUD Life Century Gold,142N087V04,Sales brochure (and policy document if handy),https://www.sudlife.in/,docs/sud-life/142N087V04/brochure.pdf
+570,Star Union Dai-ichi Life,SUD Life Century Income,142N100V03,Sales brochure (and policy document if handy),https://www.sudlife.in/,docs/sud-life/142N100V03/brochure.pdf
+571,Star Union Dai-ichi Life,SUD Life Century Plus,142N074V05,Sales brochure (and policy document if handy),https://www.sudlife.in/,docs/sud-life/142N074V05/brochure.pdf
+572,Star Union Dai-ichi Life,SUD Life Century Royale,142N083V05,Sales brochure (and policy document if handy),https://www.sudlife.in/,docs/sud-life/142N083V05/brochure.pdf
+573,Star Union Dai-ichi Life,SUD Life Century Star,142N075V04,Sales brochure (and policy document if handy),https://www.sudlife.in/,docs/sud-life/142N075V04/brochure.pdf
+574,Star Union Dai-ichi Life,SUD Life Fortune Plus,142N124V01,Sales brochure (and policy document if handy),https://www.sudlife.in/,docs/sud-life/142N124V01/brochure.pdf
+575,Star Union Dai-ichi Life,SUD Life Fortune Royale,142N086V03,Sales brochure (and policy document if handy),https://www.sudlife.in/,docs/sud-life/142N086V03/brochure.pdf
+576,Star Union Dai-ichi Life,SUD Life Guarantee Royale,142N122V02,Sales brochure (and policy document if handy),https://www.sudlife.in/,docs/sud-life/142N122V02/brochure.pdf
+577,Star Union Dai-ichi Life,SUD Life Immediate Annuity Plus,142N048V09,Sales brochure (and policy document if handy),https://www.sudlife.in/,docs/sud-life/142N048V09/brochure.pdf
+578,Star Union Dai-ichi Life,SUD Life Pension Plus,142L093V02,Sales brochure (and policy document if handy),https://www.sudlife.in/,docs/sud-life/142L093V02/brochure.pdf
+579,Star Union Dai-ichi Life,SUD Life Retirement Royale,142L099V02,Sales brochure (and policy document if handy),https://www.sudlife.in/,docs/sud-life/142L099V02/brochure.pdf
+580,Star Union Dai-ichi Life,SUD Life STAR TULIP,142L091V01,Sales brochure (and policy document if handy),https://www.sudlife.in/,docs/sud-life/142L091V01/brochure.pdf
+581,Star Union Dai-ichi Life,SUD Life Samriddhi,142N057V02,Sales brochure (and policy document if handy),https://www.sudlife.in/,docs/sud-life/142N057V02/brochure.pdf
+582,Star Union Dai-ichi Life,SUD Life Saral Jeevan Bima,142N079V01,Sales brochure (and policy document if handy),https://www.sudlife.in/,docs/sud-life/142N079V01/brochure.pdf
+583,Star Union Dai-ichi Life,SUD Life Saral Pension,142N081V02,Sales brochure (and policy document if handy),https://www.sudlife.in/,docs/sud-life/142N081V02/brochure.pdf
+584,Star Union Dai-ichi Life,SUD Life Sarva Suraksha Bima Plan,142N103V01,Sales brochure (and policy document if handy),https://www.sudlife.in/,docs/sud-life/142N103V01/brochure.pdf
+585,Star Union Dai-ichi Life,SUD Life Simple Term Plan,142N095V01,Sales brochure (and policy document if handy),https://www.sudlife.in/,docs/sud-life/142N095V01/brochure.pdf
+586,Star Union Dai-ichi Life,SUD Life Smart Guaranteed Pension Plan,142N123V01,Sales brochure (and policy document if handy),https://www.sudlife.in/,docs/sud-life/142N123V01/brochure.pdf
+587,Star Union Dai-ichi Life,SUD Life Smart Income Plan,142N126V01,Sales brochure (and policy document if handy),https://www.sudlife.in/,docs/sud-life/142N126V01/brochure.pdf
+588,Star Union Dai-ichi Life,SUD Life Smart Term Plan,142N096V01,Sales brochure (and policy document if handy),https://www.sudlife.in/,docs/sud-life/142N096V01/brochure.pdf
+589,Star Union Dai-ichi Life,SUD Life Smart Term Return of Premium,142N097V01,Sales brochure (and policy document if handy),https://www.sudlife.in/,docs/sud-life/142N097V01/brochure.pdf
+590,Star Union Dai-ichi Life,SUD Life Wealth Builder Plan,142L042V05,Sales brochure (and policy document if handy),https://www.sudlife.in/,docs/sud-life/142L042V05/brochure.pdf
+591,Star Union Dai-ichi Life,SUD Life Wealth Creator,142L077V01,Sales brochure (and policy document if handy),https://www.sudlife.in/,docs/sud-life/142L077V01/brochure.pdf
+592,Star Union Dai-ichi Life,SUD Life Wealth PRO,142L104V01,Sales brochure (and policy document if handy),https://www.sudlife.in/,docs/sud-life/142L104V01/brochure.pdf
+593,Star Union Dai-ichi Life,SUD Life e-Lifeline Term Insurance Plan,142N092V03,Sales brochure (and policy document if handy),https://www.sudlife.in/,docs/sud-life/142N092V03/brochure.pdf
+594,Star Union Dai-ichi Life,SUD Life e-Wealth Royale,142L082V03,Sales brochure (and policy document if handy),https://www.sudlife.in/,docs/sud-life/142L082V03/brochure.pdf
+595,Star Union Dai-ichi Life,Star Union Dai-ichi's Guaranteed Money Back Plan,142N036V06,Sales brochure (and policy document if handy),https://www.sudlife.in/,docs/sud-life/142N036V06/brochure.pdf
