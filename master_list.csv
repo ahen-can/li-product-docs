@@ -1,0 +1,983 @@
+insurer_code,insurer,product_name,uin,product_code,linked_flag,line_of_business,council_category,market_category_prelim,prelim_confidence,par_flag,irdai_description_line,market_category_final,pd_category,first_launch_irdai,current_version_opened_irdai,versions_in_irdai,in_council_sep2026,in_irdai_active_dec2025,notes
+101,HDFC Life,HDFC Life Smart Woman,101L082V03,101L082,L,Individual,ULIP,ULIP,high,,,,,2012-04-12,2020-01-31,3,Y,Y,
+101,HDFC Life,HDFC Life HDFC Life Click 2 Protect Optima Secure,101L093V02,101L093,L,Group,Unit Linked Pension Plan Group ULIP Combi Others - Combi 101Y122V05,OUT: group,high,,,,,2020-01-31,2024-10-01,2,Y,Y,
+101,HDFC Life,HDFC Life New,101L094V03,101L094,L,Group,Unit Linked Plan Group ULIP,OUT: group,high,,,,,2013-07-26,2024-10-01,3,Y,Y,
+101,HDFC Life,HDFC Life Click 2 Invest - ULIP,101L100V05,101L100,L,Individual?,,ULIP,high,,,,,2014-05-20,2023-10-11,5,N,Y,"Not in Council Sep-2026 list: check insurer website (may be withdrawn, group, or Council gap)"
+101,HDFC Life,HDFC Life Sampoorn Nivesh,101L103V03,101L103,L,Individual?,,ULIP,high,,,,,2015-03-02,2022-04-14,3,N,Y,"Not in Council Sep-2026 list: check insurer website (may be withdrawn, group, or Council gap)"
+101,HDFC Life,HDFC Life Click 2 Retire,101L108V05,101L108,L,Individual?,,ULIP,high,,,,,2015-06-18,2024-10-25,5,N,Y,"Not in Council Sep-2026 list: check insurer website (may be withdrawn, group, or Council gap)"
+101,HDFC Life,HDFC Life Click 2 Wealth,101L133V03,101L133,L,Individual,ULIP,ULIP,high,,,,,2018-12-19,2021-10-29,3,Y,Y,
+101,HDFC Life,HDFC Life Smart Pension Plan,101L164V09,101L164,L,Individual,Pension,ULIP,high,,,,,2022-10-04,2025-12-05,8,Y,Y,IRDAI latest version 101L164V08
+101,HDFC Life,HDFC Life,101L170V02,101L170,L,Group,Gratuity Product Group ULIP,OUT: group,high,,,,,2022-10-15,2024-10-01,2,Y,Y,
+101,HDFC Life,HDFC Life Smart Protect Plan,101L175V10,101L175,L,Individual?,,ULIP,high,,,,,2023-05-04,2025-11-21,10,N,Y,"Not in Council Sep-2026 list: check insurer website (may be withdrawn, group, or Council gap)"
+101,HDFC Life,HDFC Life Click 2 Invest,101L178V01,101L178,L,Individual?,,ULIP,high,,,,,2025-06-04,2025-06-04,1,N,Y,"Not in Council Sep-2026 list: check insurer website (may be withdrawn, group, or Council gap)"
+101,HDFC Life,HDFC Life Sampoorn Nivesh Plus,101L180V01,101L180,L,Individual,ULIP,ULIP,high,,,,,2025-02-28,2025-02-28,1,Y,Y,
+101,HDFC Life,HDFC Life,101L185V02,101L185,L,Group,ULIP Future Secure Plan Group ULIP,OUT: group,high,,,,,2023-09-08,2024-10-01,2,Y,Y,
+101,HDFC Life,HDFC Life Smart Protect Plus,101L187V04,101L187,L,Individual,ULIP,ULIP,high,,,,,,,0,Y,not listed,
+101,HDFC Life,HDFC Life Click 2 Invest Plus,101L191V02,101L191,L,Individual,ULIP,ULIP,high,,,,,,,0,Y,not listed,
+101,HDFC Life,HDFC Life Click 2 Retire Plus II,101L192V02,101L192,L,Individual,Pension,ULIP,high,,,,,,,0,Y,not listed,
+101,HDFC Life,HDFC Life,101N005V08,101N005,N,Group,Term Insurance Group Term,OUT: group,high,,,,,2001-06-07,2024-10-01,8,Y,Y,
+101,HDFC Life,HDFC Life SL,101N075V03,101N075,N,Group,Traditional Plan Group Savings,OUT: group,high,,,,,2011-02-10,2024-10-01,3,Y,Y,
+101,HDFC Life,HDFC Life Group Credit Protect,101N079V03,101N079,N,Group?,,OUT: group,high,,,,,2011-05-26,2019-11-10,3,N,Y,"Not in Council Sep-2026 list: check insurer website (may be withdrawn, group, or Council gap)"
+101,HDFC Life,HDFC Life New Immediate Annuity Plan,101N084V39,101N084,N,Individual,Annuity,Annuity,high,,,,,2012-10-19,2024-12-27,38,Y,Y,IRDAI latest version 101N084V38
+101,HDFC Life,HDFC Life ClassicAssure Plus,101N089V06,101N089,N,Individual,Savings,Savings (Par / Non-Par to confirm),low,,,,,2013-05-21,2024-12-31,6,Y,Y,
+101,HDFC Life,HDFC Life Personal Pension Plus,101N091V05,101N091,N,Individual,Pension,Annuity,high,,,,,2013-05-31,2024-12-31,5,Y,Y,
+101,HDFC Life,HDFC Life Guaranteed Pension Plan,101N092V16,101N092,N,Individual,Pension,Annuity,high,,,,,2013-05-31,2024-10-01,16,Y,Y,
+101,HDFC Life,HDFC Life,101N095V04,101N095,N,Group,Variable Employee Benefit Plan Group Savings,OUT: group,high,,,,,2013-08-23,2024-10-01,4,Y,Y,
+101,HDFC Life,HDFC Life,101N096V07,101N096,N,Group,Credit Protect Plus Insurance Plan Group Term,OUT: group,high,,,,,2013-08-30,2024-10-01,6,Y,Y,IRDAI latest version 101N096V06
+101,HDFC Life,HDFC Life Super Income Plan,101N098V06,101N098,N,Individual,Savings,Savings (Par / Non-Par to confirm),low,,,,,2013-12-11,2024-12-31,6,Y,Y,
+101,HDFC Life,HDFC Life YoungStar Udaan,101N099V05,101N099,N,Individual,Children's Plan,Savings (Par / Non-Par to confirm),low,,,,,2014-03-14,2024-12-31,5,Y,Y,
+101,HDFC Life,HDFC Life Sampoorn Samridhi Plus,101N102V06,101N102,N,Individual,Savings,Savings (Par / Non-Par to confirm),low,,,,,2014-12-02,2024-12-31,6,Y,Y,
+101,HDFC Life,HDFC Life Uday,101N105V05,101N105,N,Individual,Savings,Savings (Par / Non-Par to confirm),low,,,,,2015-04-30,2024-12-31,5,Y,Y,
+101,HDFC Life,HDFC Life,101N113V07,101N113,N,Group,Jeevan Suraksha (Micro Insurance Product) Group Term,OUT: group,high,,,,,2016-08-17,2024-10-01,6,Y,Y,IRDAI latest version 101N113V06
+101,HDFC Life,HDFC Life Pragati,101N114V05,101N114,N,Individual,Savings,Savings (Par / Non-Par to confirm),low,,,,,2016-11-18,2024-12-31,5,Y,Y,
+101,HDFC Life,HDFC Life,101N116V05,101N116,N,Group,Health Shield Group Health,OUT: group,high,,,,,2017-09-20,2024-10-01,5,Y,Y,
+101,HDFC Life,HDFC Life Pension Guaranteed Plan,101N118V13,101N118,N,Individual,Annuity,Annuity,high,,,,,2018-01-10,2025-07-24,13,Y,Y,
+101,HDFC Life,HDFC Life Guaranteed Savings Plan,101N131V04,101N131,N,Individual,Savings,Savings (Par / Non-Par to confirm),low,,,,,2018-07-17,2025-04-18,4,Y,Y,
+101,HDFC Life,HDFC Life Sanchay Plus,101N134V29,101N134,N,Individual,Savings,Savings (Par / Non-Par to confirm),low,,,,,2019-03-07,2025-07-04,26,Y,Y,IRDAI latest version 101N134V26
+101,HDFC Life,HDFC Life,101N135V04,101N135,N,Group,Suraksha (Micro-Insurance Product) Group Term,OUT: group,high,,,,,2019-06-06,2024-10-01,3,Y,Y,IRDAI latest version 101N135V03
+101,HDFC Life,HDFC Life Sanchay Par Advantage,101N136V04,101N136,N,Individual,Savings,Savings (Par / Non-Par to confirm),low,,,,,2019-11-15,2024-10-01,4,Y,Y,
+101,HDFC Life,HDFC Life,101N137V03,101N137,N,Group,Poorna Suraksha Group Term,OUT: group,high,,,,,2020-06-16,2024-10-01,3,Y,Y,
+101,HDFC Life,HDFC Life,101N138V03,101N138,N,Group,Poorna Credit Suraksha Group Term,OUT: group,high,,,,,2020-10-12,2024-10-01,4,Y,Y,
+101,HDFC Life,HDFC Life Click 2 Protect Life,101N139V09,101N139,N,Individual,Term,Protection,high,,,,,2020-12-28,2025-12-05,8,Y,Y,IRDAI latest version 101N139V08
+101,HDFC Life,HDFC Life Saral Jeevan Bima,101N140V02,101N140,N,Individual,Term,Protection,high,,,,,2021-02-12,2024-12-31,2,Y,Y,
+101,HDFC Life,HDFC Life Saral Pension,101N141V03,101N141,N,Individual,Annuity,Annuity,high,,,,,2021-04-28,2023-03-30,3,Y,Y,
+101,HDFC Life,HDFC Life Sanchay Fixed Maturity Plan,101N142V09,101N142,N,Individual,Savings,Savings (Par / Non-Par to confirm),low,,,,,2021-09-21,2025-06-04,8,Y,Y,IRDAI latest version 101N142V08
+101,HDFC Life,HDFC Life Systematic Retirement Plan,101N143V10,101N143,N,Individual,Annuity,Annuity,high,,,,,2021-12-08,2024-12-27,8,Y,Y,IRDAI latest version 101N143V08
+101,HDFC Life,HDFC Life Systematic Pension Plan,101N144V05,101N144,N,Individual,Pension,Annuity,high,,,,,2022-02-09,2025-05-22,5,Y,Y,
+101,HDFC Life,HDFC Life Click 2 Protect Super,101N145V08,101N145,N,Individual?,,Protection,low (name only),,,,,2022-09-10,2025-05-15,8,N,Y,"Not in Council Sep-2026 list: check insurer website (may be withdrawn, group, or Council gap)"
+101,HDFC Life,HDFC Life Guaranteed Income Insurance Plan,101N146V11,101N146,N,Individual,Savings,Savings (Par / Non-Par to confirm),low,,,,,2022-10-04,2025-09-19,8,Y,Y,IRDAI latest version 101N146V08
+101,HDFC Life,HDFC Life New Fulfilling Life,101N149V02,101N149,N,Individual,Savings,Savings (Par / Non-Par to confirm),low,,,,,2022-10-15,2024-12-31,2,Y,Y,
+101,HDFC Life,HDFC Life Assured Gain Plus,101N151V04,101N151,N,Individual,Savings,Savings (Par / Non-Par to confirm),low,,,,,2022-10-04,2025-02-13,4,Y,Y,
+101,HDFC Life,HDFC Life Income Advantage Plan,101N152V03,101N152,N,Individual,Savings,Savings (Par / Non-Par to confirm),low,,,,,2022-10-04,2024-12-31,3,Y,Y,
+101,HDFC Life,HDFC Life My Assured Income Plan,101N155V02,101N155,N,Individual,Savings,Savings (Par / Non-Par to confirm),low,,,,,2022-10-15,2025-01-17,2,Y,Y,
+101,HDFC Life,HDFC Life Sampoorna Jeevan,101N158V06,101N158,N,Individual,Savings,Savings (Par / Non-Par to confirm),low,,,,,2022-10-04,2024-10-01,6,Y,Y,
+101,HDFC Life,HDFC Life Saral Jeevan,101N160V05,101N160,N,Individual,Savings,Savings (Par / Non-Par to confirm),low,,,,,2022-10-04,2024-10-01,5,Y,Y,
+101,HDFC Life,HDFC Life Guaranteed Wealth Plus,101N165V13,101N165,N,Individual,Savings,Savings (Par / Non-Par to confirm),low,,,,,2022-10-04,2025-07-04,13,Y,Y,
+101,HDFC Life,HDFC Life Smart Income Plan,101N166V03,101N166,N,Individual,Savings,Savings (Par / Non-Par to confirm),low,,,,,2022-10-04,2024-12-31,3,Y,Y,
+101,HDFC Life,HDFC Life Star Saver,101N167V02,101N167,N,Individual,Savings,Savings (Par / Non-Par to confirm),low,,,,,2022-10-15,2024-12-31,2,Y,Y,
+101,HDFC Life,HDFC Life,101N169V03,101N169,N,Group,Term Life Group Term,OUT: group,high,,,,,2022-10-04,2024-10-01,3,Y,Y,
+101,HDFC Life,HDFC Life Smart Pension Plus,101N173V13,101N173,N,Individual,Annuity,Annuity,high,,,,,2022-12-28,2025-09-24,12,Y,Y,IRDAI latest version 101N173V12
+101,HDFC Life,HDFC Life,101N174V02,101N174,N,Group,Traditional Secure Plan Group Savings,OUT: group,high,,,,,2023-01-21,2024-10-01,2,Y,Y,
+101,HDFC Life,HDFC Life Click 2 Protect Elite,101N176V02,101N176,N,Individual?,,Protection,low (name only),,,,,2023-09-06,2024-10-01,2,N,Y,"Not in Council Sep-2026 list: check insurer website (may be withdrawn, group, or Council gap)"
+101,HDFC Life,HDFC Life Sanchay Legacy,101N177V04,101N177,N,Individual,Term,Protection,high,,,,,2023-09-22,2024-10-01,4,Y,Y,
+101,HDFC Life,HDFC Life Click 2 protect Ultimate,101N179V01,101N179,N,Individual,Term,Protection,high,,,,,2025-02-04,2025-02-04,1,Y,Y,
+101,HDFC Life,HDFC Life Click 2 Protect Elite Plus,101N182V01,101N182,N,Individual?,,Protection,low (name only),,,,,2025-02-28,2025-02-28,1,N,Y,"Not in Council Sep-2026 list: check insurer website (may be withdrawn, group, or Council gap)"
+101,HDFC Life,HDFC Life Click 2 Protect Supreme,101N183V01,101N183,N,Individual,Term,Protection,high,,,,,,,1,Y,Y,
+101,HDFC Life,HDFC Life,101N184V01,101N184,N,Group,Term Insurance Plus Group Term,OUT: group,high,,,,,2025-04-02,2025-04-02,1,Y,Y,
+101,HDFC Life,HDFC Life Click 2 Achieve,101N186V09,101N186,N,Individual,Savings,Savings (Par / Non-Par to confirm),low,,,,,2023-11-02,2025-04-24,6,Y,Y,IRDAI latest version 101N186V06
+101,HDFC Life,HDFC Life Click 2 Protect Supreme Plus,101N189V03,101N189,N,Individual,Term,Protection,high,,,,,,,0,Y,not listed,
+101,HDFC Life,HDFC Life Easy Protect,101N190V01,101N190,N,Individual,Health,OUT: health,high,,,,,,,0,Y,not listed,
+101,HDFC Life,HDFC Life Click 2 Protect Elite Pro,101N193V01,101N193,N,Individual,Term,Protection,high,,,,,,,0,Y,not listed,
+101,HDFC Life,Click 2 Achieve Par Advantage,101N207V01,101N207,N,Individual,Savings,Savings (Par / Non-Par to confirm),low,,,,,2024-12-20,2024-12-20,1,Y,Y,
+101,HDFC Life,HDFC Life Sanchay Aajeevan Guaranteed Advantage,101N208V04,101N208,N,Individual,Pension,Annuity,high,,,,,2025-01-07,2025-01-07,1,Y,Y,IRDAI latest version 101N208V01
+101,HDFC Life,HDFC Life Aajeevan Growth Nivesh and Income,101N209V01,101N209,N,Individual,Pension,Annuity,high,,,,,2025-11-21,2025-11-21,1,Y,Y,
+101,HDFC Life,HDFC Life Systematic Income Plan,101N210V03,101N210,N,Individual,Annuity,Annuity,high,,,,,,,0,Y,not listed,
+104,Axis Max Life,Axis Max Life Forever Young Pension Plan,104L075V11,104L075,L,Individual,Pension,ULIP,high,,,,,,,0,Y,not listed,
+104,Axis Max Life,Axis Max Life Fast Track Super,104L082V06,104L082,L,Individual,ULIP,ULIP,high,,,,,,,0,Y,not listed,
+104,Axis Max Life,Axis Max Life Shiksha Plus Super,104L084V20,104L084,L,Individual,ULIP,ULIP,high,,,,,,,0,Y,not listed,
+104,Axis Max Life,Axis Max Life,104L087V02,104L087,L,Group,Gratuity Premier Plan Group ULIP,OUT: group,high,,,,,,,0,Y,not listed,
+104,Axis Max Life,Axis Max Life Online Savings Plan,104L098V06,104L098,L,Individual,ULIP,ULIP,high,,,,,,,0,Y,not listed,
+104,Axis Max Life,Axis Max Life Flexi Wealth Plus,104L115V04,104L115,L,Individual,ULIP,ULIP,high,,,,,,,0,Y,not listed,
+104,Axis Max Life,Axis Max Life Flexi Wealth Advantage Plan,104L121V05,104L121,L,Individual,ULIP,ULIP,high,,,,,,,0,Y,not listed,
+104,Axis Max Life,Axis Max Life Smart Term with Additional Returns ULIP,104L128V01,104L128,L,Individual,ULIP,ULIP,high,,,,,,,0,Y,not listed,
+104,Axis Max Life,Axis Max Life Online Savings Plan Plus,104L131V03,104L131,L,Individual,ULIP,ULIP,high,,,,,,,0,Y,not listed,
+104,Axis Max Life,Axis Max Life Platinum Wealth Plan,104L133V01,104L133,L,Individual,ULIP,ULIP,high,,,,,,,0,Y,not listed,
+104,Axis Max Life,Axis Max Life,104N072V04,104N072,N,Group,Credit life Secure Group Term,OUT: group,high,,,,,,,0,Y,not listed,
+104,Axis Max Life,Axis Max Life Guaranteed Lifetime Income Plan,104N076V22,104N076,N,Individual,Annuity,Annuity,high,,,,,,,0,Y,not listed,
+104,Axis Max Life,Axis Max Life,104N088V04,104N088,N,Group,Super Life Premier Group Term,OUT: group,high,,,,,,,0,Y,not listed,
+104,Axis Max Life,Axis Max Life,104N095V03,104N095,N,Group,Credit Life Premier Group Term,OUT: group,high,,,,,,,0,Y,not listed,
+104,Axis Max Life,Axis Max Life Savings Advantage Plan,104N111V04,104N111,N,Individual,Endowment,Savings (Par / Non-Par to confirm),low,,,,,,,0,Y,not listed,
+104,Axis Max Life,Axis Max Life,104N112V04,104N112,N,Group,Term Life Platinum Assurance Group Term,OUT: group,high,,,,,,,0,Y,not listed,
+104,Axis Max Life,Axis Max Life,104N114V03,104N114,N,Group,Saral Suraksha Plan Group Microinsurance,OUT: group,high,,,,,,,0,Y,not listed,
+104,Axis Max Life,Axis Max Life Smart Wealth Plan,104N116V16,104N116,N,Individual,Endowment,Savings (Par / Non-Par to confirm),low,,,,,,,0,Y,not listed,
+104,Axis Max Life,Axis Max Life Saral Jeevan Bima,104N117V02,104N117,N,Individual,Term,Protection,high,,,,,,,0,Y,not listed,
+104,Axis Max Life,Axis Max Life Smart Secure Plus Plan,104N118V13,104N118,N,Individual,Term,Protection,high,,,,,,,0,Y,not listed,
+104,Axis Max Life,Axis Max Life Saral Pension,104N119V04,104N119,N,Individual,Pension,Annuity,high,,,,,,,0,Y,not listed,
+104,Axis Max Life,Axis Max Life Smart Wealth Income Plan,104N120V04,104N120,N,Individual,Endowment,Savings (Par / Non-Par to confirm),low,,,,,,,0,Y,not listed,
+104,Axis Max Life,Axis Max Life Smart Guaranteed Pension Plan,104N122V25,104N122,N,Group,Pension,OUT: group,high,,,,,,,0,Y,not listed,
+104,Axis Max Life,Axis Max Life Smart Fixed Return Digital Plan,104N123V07,104N123,N,Individual,Endowment,Savings (Par / Non-Par to confirm),low,,,,,,,0,Y,not listed,
+104,Axis Max Life,Axis Max Life Smart Wealth Advantage Guarantee Plan,104N124V17,104N124,N,Individual,Endowment,Savings (Par / Non-Par to confirm),low,,,,,,,0,Y,not listed,
+104,Axis Max Life,Axis Max Life Smart Total Elite Protection Plan,104N125V09,104N125,N,Individual,Term,Protection,high,,,,,,,0,Y,not listed,
+104,Axis Max Life,Axis Smart,104N126V01,104N126,N,Group,Term Life Plan Group Term,OUT: group,high,,,,,,,0,Y,not listed,
+104,Axis Max Life,Axis Max Life,104N129V01,104N129,N,Group,Smart Health Insurance Plan Group Health,OUT: group,high,,,,,,,0,Y,not listed,
+104,Axis Max Life,Axis Max Life Corporate Advantage in Retirement And Employee benefits Smart Plan,104N130V01,104N130,N,Group,Pension,OUT: group,high,,,,,,,0,Y,not listed,
+104,Axis Max Life,Axis Max Life Smart Term Plan Plus,104N132V01,104N132,N,Individual,Term,Protection,high,,,,,,,0,Y,not listed,
+104,Axis Max Life,Axis Max Life Smart Wealth Advantage Growth Par Plan,104N135V04,104N135,N,Individual,Endowment,Savings (Par / Non-Par to confirm),low,,,,,,,0,Y,not listed,
+104,Axis Max Life,Axis Max Life Secure Earnings & Wellness Advantage Plan,104N136V03,104N136,N,Individual,Endowment,Savings (Par / Non-Par to confirm),low,,,,,,,0,Y,not listed,
+104,Axis Max Life,Axis Max Life Smart Wealth Annuity Guaranteed Pension Plan,104N137V16,104N137,N,Individual,Pension,Annuity,high,,,,,,,0,Y,not listed,
+104,Axis Max Life,Axis Max Life Smart Wealth Advantage Guarantee Elite Plan,104N138V05,104N138,N,Individual,Endowment,Savings (Par / Non-Par to confirm),low,,,,,,,0,Y,not listed,
+104,Axis Max Life,Axis Max Life Smart Value Income & Benefit Enhancer Plan,104N159V05,104N159,N,Individual,Endowment,Savings (Par / Non-Par to confirm),low,,,,,,,0,Y,not listed,
+104,Axis Max Life,Axis Max Life Smart Retirement Income with Sustained Earnings Plan,104N160V01,104N160,N,Individual,Pension,Annuity,high,,,,,,,0,Y,not listed,
+105,ICICI Prudential Life,ICICI Pru,105L136V03,105L136,L,Group,Unit Linked Superannuation Group Pension,OUT: group,high,,,,,2013-09-06,2024-10-05,3,Y,Y,
+105,ICICI Prudential Life,ICICI Pru,105L137V04,105L137,L,Group,Unit Linked Employee Benefit Plan Group ULIP,OUT: group,high,,,,,2013-09-06,2024-10-01,4,Y,Y,
+105,ICICI Prudential Life,ICICI Pru Life Time Classic,105L155V10,105L155,L,Individual,ULIP,ULIP,high,,,,,2017-05-11,2024-09-20,10,Y,Y,
+105,ICICI Prudential Life,ICICI Pru1 Wealth,105L175V10,105L175,L,Individual,ULIP,ULIP,high,,,,,2018-07-04,2025-10-27,7,Y,Y,IRDAI latest version 105L175V07
+105,ICICI Prudential Life,ICICI Pru Signature,105L177V13,105L177,L,Individual,ULIP,ULIP,high,,,,,2019-03-07,2025-11-14,11,Y,Y,IRDAI latest version 105L177V11
+105,ICICI Prudential Life,ICICI Pru Ezy Grow,105L189V08,105L189,L,Individual,ULIP,ULIP,high,,,,,2022-11-28,2025-08-25,7,Y,Y,IRDAI latest version 105L189V07
+105,ICICI Prudential Life,ICICI Pru Protect N Gain,105L191V06,105L191,L,Individual,ULIP,ULIP,high,,,,,2023-06-21,2025-11-01,5,Y,Y,IRDAI latest version 105L191V05
+105,ICICI Prudential Life,ICICI Pru Platinum,105L192V04,105L192,L,Individual,ULIP,ULIP,high,,,,,2024-03-01,2025-08-25,4,Y,Y,
+105,ICICI Prudential Life,ICICI Pru Signature Pension,105L194V04,105L194,L,Individual,Pension,ULIP,high,,,,,2024-08-14,2025-07-17,2,Y,Y,IRDAI latest version 105L194V02
+105,ICICI Prudential Life,ICICI Pru Signature Assure,105L196V01,105L196,L,Individual,ULIP,ULIP,high,,,,,2024-11-18,2024-11-18,1,Y,Y,
+105,ICICI Prudential Life,ICICI Pru Smart Goal Assure,105L199V01,105L199,L,Individual,ULIP,ULIP,high,,,,,2025-01-17,2025-01-17,1,Y,Y,
+105,ICICI Prudential Life,ICICI Pru,105L200V02,105L200,L,Group,Unit Linked Superannuation Plus Group Pension,OUT: group,high,,,,,2025-02-28,2025-02-28,1,Y,Y,IRDAI latest version 105L200V01
+105,ICICI Prudential Life,ICICI Pru Smart Insurance Plan Plus,105L204V03,105L204,L,Individual,ULIP,ULIP,high,,,,,2025-06-06,2025-08-25,2,Y,Y,IRDAI latest version 105L204V02
+105,ICICI Prudential Life,ICICI Pru Wealth Elite Pro,105L207V01,105L207,L,Individual,ULIP,ULIP,high,,,,,,,0,Y,not listed,
+105,ICICI Prudential Life,ICICI Pru Protect N Gain Whole Life,105L208V01,105L208,L,Individual,ULIP,ULIP,high,,,,,,,0,Y,not listed,
+105,ICICI Prudential Life,ICICI Pru Siganture Secure,105L210V01,105L210,L,Individual,Endowment,ULIP,high,,,,,,,0,Y,not listed,
+105,ICICI Prudential Life,ICICI Pru Immediate Annuity,105N009V26,105N009,N,Group,Annuity,OUT: group,high,,,,,2001-03-26,2024-09-20,22,Y,Y,IRDAI latest version 105N009V22
+105,ICICI Prudential Life,ICICI Pru Sarv Jana Suraksha,105N081V06,105N081,N,Individual,Term,Protection,high,,,,,2008-06-02,2024-10-01,6,Y,Y,
+105,ICICI Prudential Life,ICICI Pru,105N119V08,105N119,N,Group,Term Plus Group Term,OUT: group,high,,,,,2010-12-13,2024-10-01,8,Y,Y,
+105,ICICI Prudential Life,ICICI Pru Savings Suraksha,105N135V05,105N135,N,Individual,Endowment,Savings (Par / Non-Par to confirm),low,,,,,2013-07-29,2025-10-01,5,Y,Y,
+105,ICICI Prudential Life,ICICI Pru Assured Savings Insurance Plan,105N144V14,105N144,N,Individual,Endowment,Savings (Par / Non-Par to confirm),low,,,,,2014-10-31,2025-07-11,12,Y,Y,IRDAI latest version 105N144V12
+105,ICICI Prudential Life,ICICI Pru,105N147V03,105N147,N,Group,Suraksha Plus Group Endowment,OUT: group,high,,,,,2015-06-02,2024-10-01,3,Y,Y,
+105,ICICI Prudential Life,ICICI Pru,105N148V03,105N148,N,Group,Suraksha Plus Superannuation Group Pension Endowment,OUT: group,high,,,,,2015-06-02,2024-10-05,3,Y,Y,
+105,ICICI Prudential Life,ICICI Pru iProtect Smart,105N151V16,105N151,N,Individual,Term,Protection,high,,,,,2015-12-02,2025-04-25,16,Y,Y,
+105,ICICI Prudential Life,ICICI Pru,105N152V04,105N152,N,Group,Loan Secure Group Term,OUT: group,high,,,,,2016-04-26,2024-10-01,4,Y,Y,
+105,ICICI Prudential Life,ICICI Pru Future Perfect,105N153V05,105N153,N,Individual,Endowment,Savings (Par / Non-Par to confirm),low,,,,,2016-06-29,2025-10-01,4,Y,Y,IRDAI latest version 105N153V04
+105,ICICI Prudential Life,ICICI Pru Shubh Raksha One,105N158V03,105N158,N,Group,Term,OUT: group,high,,,,,2018-03-20,2024-10-01,3,Y,Y,
+105,ICICI Prudential Life,ICICI Pru Shubh Raksha Credit,105N159V03,105N159,N,Group,Term,OUT: group,high,,,,,2018-03-20,2025-02-14,3,Y,Y,
+105,ICICI Prudential Life,ICICI Pru Shubh Raksha Life,105N160V03,105N160,N,Group,Term,OUT: group,high,,,,,2018-04-04,2024-10-01,3,Y,Y,
+105,ICICI Prudential Life,ICICI Pru POS iProtect Smart,105N173V04,105N173,N,Individual?,,Protection,low (name only),,,,,2018-04-18,2024-12-31,4,N,Y,"Not in Council Sep-2026 list: check insurer website (may be withdrawn, group, or Council gap)"
+105,ICICI Prudential Life,ICICI Pru Super Protect - Credit,105N176V03,105N176,N,Group,Term,OUT: group,high,,,,,2018-12-19,2025-07-11,3,Y,Y,
+105,ICICI Prudential Life,ICICI Pru Super Protect Life,105N180V02,105N180,N,Group,Term,OUT: group,high,,,,,2020-01-06,2024-12-31,2,Y,Y,
+105,ICICI Prudential Life,ICICI Pru Guaranteed Pension Plan,105N181V05,105N181,N,Individual,Annuity,Annuity,high,,,,,2020-12-11,2024-10-18,4,Y,Y,IRDAI latest version 105N181V04
+105,ICICI Prudential Life,ICICI Pru Guaranteed Income For Tomorrow,105N182V13,105N182,N,Individual,Endowment,Savings (Par / Non-Par to confirm),low,,,,,2020-12-29,2025-10-17,12,Y,Y,IRDAI latest version 105N182V12
+105,ICICI Prudential Life,ICICI Pru Saral Jeevan Bima,105N183V03,105N183,N,Individual,Term,Protection,high,,,,,2021-02-01,2025-11-01,3,Y,Y,
+105,ICICI Prudential Life,ICICI Pru Saral Pension,105N184V10,105N184,N,Individual,Annuity,Annuity,high,,,,,2021-05-13,2025-05-29,9,Y,Y,IRDAI latest version 105N184V09
+105,ICICI Prudential Life,ICICI Pru Guaranteed Income For Tomorrow (Long-term),105N185V17,105N185,N,Individual,Endowment,Savings (Par / Non-Par to confirm),low,,,,,2021-11-16,2025-10-17,17,Y,Y,
+105,ICICI Prudential Life,ICICI Pru Guaranteed Pension Plan Flexi,105N187V11,105N187,N,Individual,Annuity,Annuity,high,,,,,2022-03-29,2025-10-14,9,Y,Y,IRDAI latest version 105N187V09
+105,ICICI Prudential Life,ICICI Pru Sukh Samruddhi,105N188V03,105N188,N,Individual,Endowment,Savings (Par / Non-Par to confirm),low,,,,,2022-08-26,2025-09-04,3,Y,Y,
+105,ICICI Prudential Life,ICICI Pru Gold,105N190V07,105N190,N,Individual,Endowment,Savings (Par / Non-Par to confirm),low,,,,,2023-01-05,2025-09-04,5,Y,Y,IRDAI latest version 105N190V05
+105,ICICI Prudential Life,ICICI Pru iProtect Supreme,105N193V03,105N193,N,Individual,Term/Endowment,Savings (Par / Non-Par to confirm),low,,,,,2024-08-01,2025-07-01,2,Y,Y,IRDAI latest version 105N193V02
+105,ICICI Prudential Life,ICICI Pru iProtect Smart Return of Premium,105N195V02,105N195,N,Individual,Term/Endowment,Savings (Par / Non-Par to confirm),low,,,,,2024-10-26,2024-10-26,1,Y,Y,IRDAI latest version 105N195V01
+105,ICICI Prudential Life,ICICI Pru iProtect Super,105N197V03,105N197,N,Individual,Term,Protection,high,,,,,2024-12-13,2025-08-08,2,Y,Y,IRDAI latest version 105N197V02
+105,ICICI Prudential Life,ICICI Pru Wish,105N198V01,105N198,N,Individual,Health,OUT: health,high,,,,,2024-12-13,2024-12-13,1,Y,Y,
+105,ICICI Prudential Life,ICICI Pru GIFT Pro,105N201V07,105N201,N,Individual,Endowment,Savings (Par / Non-Par to confirm),low,,,,,2023-07-28,2025-10-17,6,Y,Y,IRDAI latest version 105N201V06
+105,ICICI Prudential Life,ICICI Pru Gold Pension Savings,105N202V03,105N202,N,Individual,Pension,Annuity,high,,,,,2024-01-18,2025-11-14,3,Y,Y,
+105,ICICI Prudential Life,ICICI Pru,105N203V02,105N203,N,Group,Nischit Aay Yojna Group Endowment,OUT: group,high,,,,,2025-04-18,2025-08-08,2,Y,Y,
+105,ICICI Prudential Life,ICICI Pru iProtect Smart Plus,105N205V07,105N205,N,Individual,Term,Protection,high,,,,,2025-06-20,2025-09-04,2,Y,Y,IRDAI latest version 105N205V02
+105,ICICI Prudential Life,ICICI Pru Wealth Forever,105N206V01,105N206,N,Individual,Term/Endowment,Savings (Par / Non-Par to confirm),low,,,,,,,0,Y,not listed,
+105,ICICI Prudential Life,ICICI Pru iProtect Care,105N209V03,105N209,N,Individual,Term,Protection,high,,,,,,,0,Y,not listed,
+105,ICICI Prudential Life,ICICI Pru Gift Select,105N223V06,105N223,N,Individual,Endowment,Savings (Par / Non-Par to confirm),low,,,,,2025-01-17,2025-06-06,3,Y,Y,IRDAI latest version 105N223V03
+105,ICICI Prudential Life,ICICI Pru Gift Assure,105N224V03,105N224,N,Individual,Endowment,Savings (Par / Non-Par to confirm),low,,,,,,,0,Y,not listed,
+105,ICICI Prudential Life,ICICI Pru SmartKid 360,105N225V02,105N225,N,Individual,Endowment,Savings (Par / Non-Par to confirm),low,,,,,,,0,Y,not listed,
+107,Kotak Mahindra Life,Kotak Gratuity,107L010V07,107L010,L,Group,Plan Group ULIP,OUT: group,high,,,,,2002-12-03,2018-02-27,7,Y,Y,
+107,Kotak Mahindra Life,Kotak Ace Investment,107L064V06,107L064,L,Individual?,,ULIP,high,,,,,2010-11-09,2023-09-02,6,N,Y,"Not in Council Sep-2026 list: check insurer website (may be withdrawn, group, or Council gap)"
+107,Kotak Mahindra Life,Kotak Single Invest Advantage,107L065V05,107L065,L,Individual,ULIP,ULIP,high,,,,,2010-12-27,2023-09-15,5,Y,Y,
+107,Kotak Mahindra Life,Kotak Platinum,107L067V07,107L067,L,Individual,ULIP,ULIP,high,,,,,2011-01-14,2023-09-15,7,Y,Y,
+107,Kotak Mahindra Life,Kotak Invest Maxima,107L073V05,107L073,L,Individual,ULIP,ULIP,high,,,,,2011-11-04,2023-09-15,5,Y,Y,
+107,Kotak Mahindra Life,Kotak Single invest Plus Plan,107L075V04,107L075,L,Individual?,,ULIP,high,,,,,2013-01-04,2023-09-14,4,N,Y,"Not in Council Sep-2026 list: check insurer website (may be withdrawn, group, or Council gap)"
+107,Kotak Mahindra Life,Kotak Superannuation Group Plan II,107L078V01,107L078,L,Group?,,OUT: group,high,,,,,2013-07-10,2013-07-10,1,N,Y,"Not in Council Sep-2026 list: check insurer website (may be withdrawn, group, or Council gap)"
+107,Kotak Mahindra Life,Kotak Leave Encashment Group Plan,107L088V02,107L088,L,Group?,,OUT: group,high,,,,,2014-03-28,2018-02-22,2,N,Y,"Not in Council Sep-2026 list: check insurer website (may be withdrawn, group, or Council gap)"
+107,Kotak Mahindra Life,Kotak Gratuity Plus Group Plan,107L091V01,107L091,L,Group?,,OUT: group,high,,,,,2015-01-02,2015-01-02,1,N,Y,"Not in Council Sep-2026 list: check insurer website (may be withdrawn, group, or Council gap)"
+107,Kotak Mahindra Life,Kotak Wealth Optima Plan,107L118V03,107L118,L,Individual,ULIP,ULIP,high,,,,,2020-10-29,2023-09-15,4,Y,Y,IRDAI latest version 107L118V04
+107,Kotak Mahindra Life,Kotak e-Invest,107L121V02,107L121,L,Individual?,,ULIP,high,,,,,2021-02-01,2024-08-27,2,N,Y,"Not in Council Sep-2026 list: check insurer website (may be withdrawn, group, or Council gap)"
+107,Kotak Mahindra Life,Kotak,107L122V01,107L122,L,Group,Secure Capital Plan Group ULIP,OUT: group,high,,,,,2021-03-19,2021-03-19,1,Y,Y,
+107,Kotak Mahindra Life,Kotak Corporate Benefit Plan,107L127V02,107L127,L,Group,ULIP,OUT: group,high,,,,,2022-09-19,2022-09-19,1,Y,Y,IRDAI latest version 107L127V01
+107,Kotak Mahindra Life,Kotak T.U.L.I.P,107L131V03,107L131,L,Individual,ULIP,ULIP,high,,,,,2023-12-20,2024-11-19,3,Y,Y,
+107,Kotak Mahindra Life,Kotak Confident Retirement Builder,107L136V02,107L136,L,Individual,Pension,ULIP,high,,,,,2025-02-17,2025-04-16,2,Y,Y,
+107,Kotak Mahindra Life,Kotak e-Invest Plus,107L137V02,107L137,L,Individual,ULIP,ULIP,high,,,,,2025-04-16,2025-04-21,2,Y,Y,
+107,Kotak Mahindra Life,Kotak T-ULIP Nxt,107L138V01,107L138,L,Individual,ULIP,ULIP,high,,,,,2025-05-23,2025-05-23,1,Y,Y,
+107,Kotak Mahindra Life,Kotak Term Plan,107N005V07,107N005,N,Individual,Term,Protection,high,,,,,2001-12-03,2025-10-08,7,Y,Y,
+107,Kotak Mahindra Life,Kotak Credit Term,107N006V05,107N006,N,Group,Plan Group Term,OUT: group,high,,,,,2001-12-13,2023-09-01,5,Y,Y,
+107,Kotak Mahindra Life,Kotak Term,107N007V11,107N007,N,Group,Plan Group Term,OUT: group,high,,,,,2001-12-18,2025-11-20,11,Y,Y,
+107,Kotak Mahindra Life,Kotak Complete Cover,107N018V09,107N018,N,Group,Plan Group Term,OUT: group,high,,,,,2003-11-25,2024-10-01,9,Y,Y,
+107,Kotak Mahindra Life,Kotak,107N050V07,107N050,N,Group,Shield Group Term,OUT: group,high,,,,,2008-11-25,2024-10-01,7,Y,Y,
+107,Kotak Mahindra Life,Kotak,107N051V05,107N051,N,Group,Assure Group Term,OUT: group,high,,,,,2008-11-25,2023-09-01,5,Y,Y,
+107,Kotak Mahindra Life,Kotak Premier endowment Plan,107N079V03,107N079,N,Individual?,,Savings (Par / Non-Par to confirm),low,,,,,2013-09-13,2023-09-02,3,N,Y,"Not in Council Sep-2026 list: check insurer website (may be withdrawn, group, or Council gap)"
+107,Kotak Mahindra Life,Kotak Assured Savings Plan,107N081V09,107N081,N,Individual,Endowment,Savings (Par / Non-Par to confirm),low,,,,,2013-09-27,2025-05-21,9,Y,Y,
+107,Kotak Mahindra Life,Kotak Classic Endowment Plan,107N082V03,107N082,N,Individual,Endowment,Savings (Par / Non-Par to confirm),low,,,,,2013-10-10,2024-12-31,3,Y,Y,
+107,Kotak Mahindra Life,Kotak Premier Moneyback Plan,107N083V02,107N083,N,Individual?,,Savings (Par / Non-Par to confirm),low,,,,,2013-10-24,2020-01-27,2,N,Y,"Not in Council Sep-2026 list: check insurer website (may be withdrawn, group, or Council gap)"
+107,Kotak Mahindra Life,Kotak Secure Return Superannuation Plan,107N086V04,107N086,N,Group,Pension,OUT: group,high,,,,,2014-03-05,2022-05-23,4,Y,Y,
+107,Kotak Mahindra Life,Kotak Secure Return Employee Benefit Plan,107N087V04,107N087,N,Group,Others,OUT: group,high,,,,,2014-03-05,2022-01-18,4,Y,Y,
+107,Kotak Mahindra Life,Kotak Assured Income Accelerator,107N089V04,107N089,N,Individual?,,Savings (Par / Non-Par to confirm),low,,,,,2014-07-01,2024-09-02,4,N,Y,"Not in Council Sep-2026 list: check insurer website (may be withdrawn, group, or Council gap)"
+107,Kotak Mahindra Life,Kotak Sampoorn Bima Micro-Insurance Plan,107N092V03,107N092,N,Individual,Endowment,OUT: accident/micro,high,,,,,2015-03-03,2024-12-31,3,Y,Y,
+107,Kotak Mahindra Life,Kotak Premier Pension Plan,107N094V02,107N094,N,Individual?,,Annuity,low (name only),,,,,2015-06-09,2017-02-02,2,N,Y,"Not in Council Sep-2026 list: check insurer website (may be withdrawn, group, or Council gap)"
+107,Kotak Mahindra Life,Kotak Premier Life Plan,107N096V04,107N096,N,Individual?,,Savings (Par / Non-Par to confirm),low,,,,,2016-01-01,2023-09-02,4,N,Y,"Not in Council Sep-2026 list: check insurer website (may be withdrawn, group, or Council gap)"
+107,Kotak Mahindra Life,Kotak,107N098V05,107N098,N,Group,Secure One Group Term,OUT: group,high,,,,,2016-06-30,2023-09-01,5,Y,Y,
+107,Kotak Mahindra Life,Kotak Premier Income Plan,107N099V02,107N099,N,Individual?,,Savings (Par / Non-Par to confirm),low,,,,,2017-01-27,2019-12-06,2,N,Y,"Not in Council Sep-2026 list: check insurer website (may be withdrawn, group, or Council gap)"
+107,Kotak Mahindra Life,Kotak Guaranteed Savings Plan,107N100V06,107N100,N,Individual,Endowment,Savings (Par / Non-Par to confirm),low,,,,,2017-01-31,2024-10-05,5,Y,Y,IRDAI latest version 107N100V05
+107,Kotak Mahindra Life,Kotak Raksha,107N101V05,107N101,N,Group,Micro Insurance Plan Group Term,OUT: group,high,,,,,2017-03-06,2023-09-01,5,Y,Y,
+107,Kotak Mahindra Life,Kotak SmartLife Plan,107N102V05,107N102,N,Individual,Endowment,Savings (Par / Non-Par to confirm),low,,,,,2017-09-01,2024-10-05,4,Y,Y,IRDAI latest version 107N102V04
+107,Kotak Mahindra Life,Kotak Lifetime Income Plan,107N103V20,107N103,N,Individual,Annuity,Annuity,high,,,,,2017-09-07,2025-09-01,19,Y,Y,IRDAI latest version 107N103V19
+107,Kotak Mahindra Life,Kotak e-Term Plan,107N104V03,107N104,N,Individual?,,Protection,low (name only),,,,,2017-10-17,2022-05-05,3,N,Y,"Not in Council Sep-2026 list: check insurer website (may be withdrawn, group, or Council gap)"
+107,Kotak Mahindra Life,Kotak Health Shield,107N105V01,107N105,N,Individual?,,OUT: health,low (name only),,,,,2020-08-04,2020-08-04,1,N,Y,"Not in Council Sep-2026 list: check insurer website (may be withdrawn, group, or Council gap)"
+107,Kotak Mahindra Life,Kotak POS Bachat Bima,107N117V01,107N117,N,Individual?,,Savings (Par / Non-Par to confirm),low,,,,,2018-01-19,2018-01-19,1,N,Y,"Not in Council Sep-2026 list: check insurer website (may be withdrawn, group, or Council gap)"
+107,Kotak Mahindra Life,Kotak Assured Return Employee Benefit Plan,107N119V01,107N119,N,Group,Others,OUT: group,high,,,,,2020-12-17,2020-12-17,1,Y,Y,
+107,Kotak Mahindra Life,Kotak Saral Jeevan Bima Plan,107N120V01,107N120,N,Individual,Term,Protection,high,,,,,2021-01-27,2021-01-27,1,Y,Y,
+107,Kotak Mahindra Life,Kotak Assured Pension,107N123V13,107N123,N,Individual,Annuity,Annuity,high,,,,,2021-04-06,2025-06-12,11,Y,Y,IRDAI latest version 107N123V11
+107,Kotak Mahindra Life,Kotak Saral Pension,107N124V01,107N124,N,Individual?,,Annuity,low (name only),,,,,2021-04-27,2021-04-27,1,N,Y,"Not in Council Sep-2026 list: check insurer website (may be withdrawn, group, or Council gap)"
+107,Kotak Mahindra Life,Kotak Fortune Maximiser,107N125V04,107N125,N,Individual,Endowment,Savings (Par / Non-Par to confirm),low,,,,,2021-12-28,2024-10-01,3,Y,Y,IRDAI latest version 107N125V03
+107,Kotak Mahindra Life,Kotak Guaranteed Fortune Builder,107N128V10,107N128,N,Individual,Endowment,Savings (Par / Non-Par to confirm),low,,,,,2022-12-19,2025-04-17,9,Y,Y,IRDAI latest version 107N128V09
+107,Kotak Mahindra Life,Kotak e-Term,107N129V04,107N129,N,Individual,Term,Protection,high,,,,,2023-03-01,2024-10-01,3,Y,Y,IRDAI latest version 107N129V03
+107,Kotak Mahindra Life,Kotak Protect India,107N130V01,107N130,N,Individual?,,Protection,low (name only),,,,,2023-03-15,2023-03-15,1,N,Y,"Not in Council Sep-2026 list: check insurer website (may be withdrawn, group, or Council gap)"
+107,Kotak Mahindra Life,Kotak Gen2Gen Protect,107N132V02,107N132,N,Individual,Endowment,Savings (Par / Non-Par to confirm),low,,,,,2024-06-11,2024-10-05,2,Y,Y,
+107,Kotak Mahindra Life,Kotak Assured Return Employee Benefit II,107N133V01,107N133,N,Group,Others,OUT: group,high,,,,,2025-07-09,2025-07-09,1,Y,Y,
+107,Kotak Mahindra Life,Kotak Secure Return Employee Benefit II,107N134V01,107N134,N,Group,Others,OUT: group,high,,,,,2025-07-09,2025-07-09,1,Y,Y,
+107,Kotak Mahindra Life,Kotak Signature Legacy,107N135V02,107N135,N,Individual,Term,Protection,high,,,,,,,0,Y,not listed,
+107,Kotak Mahindra Life,Kotak Signature Term Plan,107N139V02,107N139,N,Individual,Term,Protection,high,,,,,2025-07-16,2025-07-16,1,Y,Y,IRDAI latest version 107N139V01
+107,Kotak Mahindra Life,Kotak Value Protect,107N140V01,107N140,N,Individual,Term,Protection,high,,,,,,,0,Y,not listed,
+107,Kotak Mahindra Life,Kotak GAIN,107N141V03,107N141,N,Individual,Endowment,Savings (Par / Non-Par to confirm),low,,,,,2024-02-13,2024-10-05,2,Y,Y,IRDAI latest version 107N141V02
+107,Kotak Mahindra Life,Kotak Loan Protect Cover,107N142V01,107N142,N,Group,Term,OUT: group,high,,,,,,,0,Y,not listed,
+107,Kotak Mahindra Life,Kotak Vital Care,107N143V01,107N143,N,Individual,Term,Protection,high,,,,,,,0,Y,not listed,
+107,Kotak Mahindra Life,Kotak Protect Advantage,107N144V01,107N144,N,Individual,Term,Protection,high,,,,,,,0,Y,not listed,
+107,Kotak Mahindra Life,Kotak Confident Retirement Savings Plan,107N162V01,107N162,N,Individual,Pension,Annuity,high,,,,,2025-02-26,2025-02-26,1,Y,Y,
+107,Kotak Mahindra Life,Kotak Gen2Gen Income,107N163V01,107N163,N,Individual,Endowment,Savings (Par / Non-Par to confirm),low,,,,,2025-02-20,2025-02-20,1,Y,Y,
+107,Kotak Mahindra Life,Kotak Early Defined Guaranteed Earnings (EDGE),107N164V02,107N164,N,Individual,Endowment,Savings (Par / Non-Par to confirm),low,,,,,2025-09-10,2025-09-10,1,Y,Y,IRDAI latest version 107N164V01
+109,Aditya Birla Sun Life,ABSLI,109L036V05,109L036,L,Group,Unit Linked Plan Group ULIP,OUT: group,high,,,,,2007-11-26,2025-01-01,5,Y,Y,
+109,Aditya Birla Sun Life,ABSLI,109L055V05,109L055,L,Group,Value Plus Plan Group ULIP,OUT: group,high,,,,,2010-02-26,2025-01-01,5,Y,Y,
+109,Aditya Birla Sun Life,ABSLI Wealth Max Plan,109L073V05,109L073,L,Individual,ULIP,ULIP,high,,,,,2012-03-02,2020-02-20,5,Y,Y,
+109,Aditya Birla Sun Life,ABSLI Wealth Secure Plan,109L074V05,109L074,L,Individual,ULIP,ULIP,high,,,,,2012-03-16,2019-11-21,5,Y,Y,
+109,Aditya Birla Sun Life,ABSLI Empower Pension Plan,109L078V03,109L078,L,Individual?,,ULIP,high,,,,,2013-01-02,2020-02-29,3,N,Y,"Not in Council Sep-2026 list: check insurer website (may be withdrawn, group, or Council gap)"
+109,Aditya Birla Sun Life,ABSLI Fortune Elite Plan,109L090V05,109L090,L,Individual?,,ULIP,high,,,,,2014-04-02,2023-10-20,5,N,Y,"Not in Council Sep-2026 list: check insurer website (may be withdrawn, group, or Council gap)"
+109,Aditya Birla Sun Life,ABSLI Empower Pension - SP Plan,109L094V02,109L094,L,Individual?,,ULIP,high,,,,,2014-12-30,2020-02-29,2,N,Y,"Not in Council Sep-2026 list: check insurer website (may be withdrawn, group, or Council gap)"
+109,Aditya Birla Sun Life,ABSLI,109L097V03,109L097,L,Group,Superannuation Plan Group ULIP,OUT: group,high,,,,,2015-03-17,2025-01-01,3,Y,Y,
+109,Aditya Birla Sun Life,ABSLI Wealth Aspire Plan,109L100V06,109L100,L,Individual,ULIP,ULIP,high,,,,,2015-07-30,2019-11-21,5,Y,Y,IRDAI latest version 109L100V05
+109,Aditya Birla Sun Life,ABSLI,109L119V03,109L119,L,Group,Assured Pension Plan Group ULIP,OUT: group,high,,,,,2018-03-28,2024-12-26,3,Y,Y,
+109,Aditya Birla Sun Life,ABSLI Wealth Assure Plus,109L120V02,109L120,L,Individual?,,ULIP,high,,,,,2018-12-06,2019-11-21,2,N,Y,"Not in Council Sep-2026 list: check insurer website (may be withdrawn, group, or Council gap)"
+109,Aditya Birla Sun Life,ABSLI Wealth Infinia,109L129V03,109L129,L,Individual,ULIP,ULIP,high,,,,,2021-02-24,2021-02-24,1,Y,Y,IRDAI latest version 109L129V01
+109,Aditya Birla Sun Life,ABSLI Smart Growth Plan,109L133V01,109L133,L,Individual?,,ULIP,high,,,,,2021-09-03,2021-09-03,1,N,Y,"Not in Council Sep-2026 list: check insurer website (may be withdrawn, group, or Council gap)"
+109,Aditya Birla Sun Life,ABSLI Platinum Gain Plan,109L142V01,109L142,L,Individual,ULIP,ULIP,high,,,,,2023-11-10,2023-11-10,1,Y,Y,
+109,Aditya Birla Sun Life,ABSLI Fortune Wealth Plan,109L143V01,109L143,L,Individual,ULIP,ULIP,high,,,,,2023-12-13,2023-12-13,1,Y,Y,
+109,Aditya Birla Sun Life,ABSLI Salaried Suraksha,109L145V01,109L145,L,Individual,ULIP,ULIP,high,,,,,2024-05-07,2024-05-07,1,Y,Y,
+109,Aditya Birla Sun Life,ABSLI Wealth Smart Plus,109L147V02,109L147,L,Individual,ULIP,ULIP,high,,,,,2024-06-15,2024-10-01,2,Y,Y,
+109,Aditya Birla Sun Life,ABSLI Param Suraksha,109L149V01,109L149,L,Individual,ULIP,ULIP,high,,,,,2024-07-27,2024-07-27,1,Y,Y,
+109,Aditya Birla Sun Life,ABSLI,109L152V01,109L152,L,Group,Capital Growth Plan Group ULIP,OUT: group,high,,,,,2025-07-11,2025-07-11,1,Y,Y,
+109,Aditya Birla Sun Life,ABSLI,109L154V01,109L154,L,Group,Capital Enhancement Plan Group ULIP,OUT: group,high,,,,,,,0,Y,not listed,
+109,Aditya Birla Sun Life,ABSLI Smart Wealth Pension Plan,109L157V01,109L157,L,Individual,Pension -ULIP,ULIP,high,,,,,,,0,Y,not listed,
+109,Aditya Birla Sun Life,ABSLI,109N006V10,109N006,N,Group,Protection Solutions Group Term,OUT: group,high,,,,,2001-09-25,2024-10-01,10,Y,Y,
+109,Aditya Birla Sun Life,ABSLI,109N045V04,109N045,N,Group,Asset Assure Plan Group Others - Credit Life,OUT: group,high,,,,,2009-07-28,2024-10-01,4,Y,Y,
+109,Aditya Birla Sun Life,ABSLI,109N070V03,109N070,N,Group,Capital Assured Traditional Plan Group Traditional,OUT: group,high,,,,,2011-03-22,2024-10-01,3,Y,Y,
+109,Aditya Birla Sun Life,ABSLI Protector Plus Plan,109N071V03,109N071,N,Individual?,,Protection,low (name only),,,,,2011-05-26,2016-06-29,3,N,Y,"Not in Council Sep-2026 list: check insurer website (may be withdrawn, group, or Council gap)"
+109,Aditya Birla Sun Life,ABSLI Vision Life Income Plan,109N079V07,109N079,N,Individual,Whole Life,Savings (Par / Non-Par to confirm),low,,,,,2013-01-02,2024-10-10,7,Y,Y,
+109,Aditya Birla Sun Life,ABSLI,109N082V04,109N082,N,Group,CapSecure Pension Plan Group Traditional,OUT: group,high,,,,,2013-03-26,2024-10-01,4,Y,Y,
+109,Aditya Birla Sun Life,ABSLI,109N084V04,109N084,N,Group,CapSecure Plan Group Traditional,OUT: group,high,,,,,2013-07-25,2024-10-01,4,Y,Y,
+109,Aditya Birla Sun Life,ABSLI Vision Lifesecure Plan,109N087V04,109N087,N,Individual?,,Savings (Par / Non-Par to confirm),low,,,,,2013-10-04,2019-12-07,4,N,Y,"Not in Council Sep-2026 list: check insurer website (may be withdrawn, group, or Council gap)"
+109,Aditya Birla Sun Life,ABSLI Savings Plan,109N088V02,109N088,N,Individual?,,Savings (Par / Non-Par to confirm),low,,,,,2013-10-04,2020-02-01,2,N,Y,"Not in Council Sep-2026 list: check insurer website (may be withdrawn, group, or Council gap)"
+109,Aditya Birla Sun Life,ABSLI Income Assured Plan,109N089V06,109N089,N,Individual?,,Savings (Par / Non-Par to confirm),low,,,,,2014-03-07,2020-02-13,6,N,Y,"Not in Council Sep-2026 list: check insurer website (may be withdrawn, group, or Council gap)"
+109,Aditya Birla Sun Life,ABSLI Vision Endowment Plus Plan,109N092V06,109N092,N,Individual,Endowment,Savings (Par / Non-Par to confirm),low,,,,,2014-12-05,2024-10-01,6,Y,Y,
+109,Aditya Birla Sun Life,ABSLI Vision Money Back Plus Plan,109N093V04,109N093,N,Individual?,,Savings (Par / Non-Par to confirm),low,,,,,2014-12-05,2020-02-20,4,N,Y,"Not in Council Sep-2026 list: check insurer website (may be withdrawn, group, or Council gap)"
+109,Aditya Birla Sun Life,ABSLI Vision Star,109N096V03,109N096,N,Individual?,,Savings (Par / Non-Par to confirm),low,,,,,2015-01-13,2020-02-20,3,N,Y,"Not in Council Sep-2026 list: check insurer website (may be withdrawn, group, or Council gap)"
+109,Aditya Birla Sun Life,BSLI Group Savings Assurance Plan,109N098V01,109N098,N,Group?,,OUT: group,high,,,,,2015-04-21,2015-04-21,1,N,Y,"Not in Council Sep-2026 list: check insurer website (may be withdrawn, group, or Council gap)"
+109,Aditya Birla Sun Life,ABSLI SecurePlus Plan,109N102V14,109N102,N,Individual,Endowment,Savings (Par / Non-Par to confirm),low,,,,,2016-05-03,2025-09-11,14,Y,Y,
+109,Aditya Birla Sun Life,ABSLI Cancer Shield Plan,109N103V03,109N103,N,Individual,Health,OUT: health,high,,,,,2016-07-19,2021-10-07,3,Y,Y,
+109,Aditya Birla Sun Life,ABSLI CritiShield Plan,109N104V02,109N104,N,Individual?,,Savings (Par / Non-Par to confirm),low,,,,,2017-02-27,2019-11-21,2,N,Y,"Not in Council Sep-2026 list: check insurer website (may be withdrawn, group, or Council gap)"
+109,Aditya Birla Sun Life,BSLI Income Shield Plan,109N105V02,109N105,N,Individual?,,Savings (Par / Non-Par to confirm),low,,,,,2017-08-21,2019-12-07,2,N,Y,"Not in Council Sep-2026 list: check insurer website (may be withdrawn, group, or Council gap)"
+109,Aditya Birla Sun Life,ABSLI Guaranteed Milestone Plan,109N106V14,109N106,N,Individual,Endowment,Savings (Par / Non-Par to confirm),low,,,,,2017-10-04,2025-06-26,14,Y,Y,
+109,Aditya Birla Sun Life,ABSLI POS –Jeevan Bachat Plan,109N107V03,109N107,N,Individual?,,Savings (Par / Non-Par to confirm),low,,,,,2017-11-28,2020-02-01,3,N,Y,"Not in Council Sep-2026 list: check insurer website (may be withdrawn, group, or Council gap)"
+109,Aditya Birla Sun Life,ABSLI DigiShield Plan,109N108V13,109N108,N,Individual,Term,Protection,high,,,,,2017-12-15,2024-11-14,13,Y,Y,
+109,Aditya Birla Sun Life,ABSLI Life Shield Plan,109N109V06,109N109,N,Individual?,,Protection,low (name only),,,,,2017-12-22,2022-03-06,6,N,Y,"Not in Council Sep-2026 list: check insurer website (may be withdrawn, group, or Council gap)"
+109,Aditya Birla Sun Life,ABSLI Group Income Replacement Plan,109N110V01,109N110,N,Group?,,OUT: group,high,,,,,2018-10-29,2018-10-29,1,N,Y,"Not in Council Sep-2026 list: check insurer website (may be withdrawn, group, or Council gap)"
+109,Aditya Birla Sun Life,ABSLI UltimaTerm,109N121V02,109N121,N,Individual?,,Savings (Par / Non-Par to confirm),low,,,,,2018-12-28,2019-12-07,2,N,Y,"Not in Council Sep-2026 list: check insurer website (may be withdrawn, group, or Council gap)"
+109,Aditya Birla Sun Life,ABSLI Monthly Income Plan,109N122V02,109N122,N,Individual?,,Savings (Par / Non-Par to confirm),low,,,,,2019-01-10,2019-12-07,2,N,Y,"Not in Council Sep-2026 list: check insurer website (may be withdrawn, group, or Council gap)"
+109,Aditya Birla Sun Life,ABSLI,109N123V04,109N123,N,Group,Bima Yojana Group Micro,OUT: group,high,,,,,2019-10-21,2024-02-27,4,Y,Y,
+109,Aditya Birla Sun Life,ABSLI Child's Future Assured Plan,109N124V01,109N124,N,Individual?,,Savings (Par / Non-Par to confirm),low,,,,,2020-06-02,2020-06-02,1,N,Y,"Not in Council Sep-2026 list: check insurer website (may be withdrawn, group, or Council gap)"
+109,Aditya Birla Sun Life,ABSLI,109N125V02,109N125,N,Group,Smart Select Group Others - Credit Life,OUT: group,high,,,,,2020-07-27,2024-10-01,2,Y,Y,
+109,Aditya Birla Sun Life,ABSLI Assured FlexiSavings Plan,109N126V03,109N126,N,Individual?,,Savings (Par / Non-Par to confirm),low,,,,,2020-07-27,2021-10-07,3,N,Y,"Not in Council Sep-2026 list: check insurer website (may be withdrawn, group, or Council gap)"
+109,Aditya Birla Sun Life,ABSLI Assured Income Plus,109N127V19,109N127,N,Individual,Endowment,Savings (Par / Non-Par to confirm),low,,,,,2020-11-23,2025-08-14,19,Y,Y,
+109,Aditya Birla Sun Life,ABSLI Saral Jeevan Bima,109N128V01,109N128,N,Individual,Endowment,Savings (Par / Non-Par to confirm),low,,,,,2021-02-10,2021-02-10,1,Y,Y,
+109,Aditya Birla Sun Life,ABSLI Saral Pension,109N130V01,109N130,N,Individual,Annuity,Annuity,high,,,,,2021-04-22,2021-04-22,1,Y,Y,
+109,Aditya Birla Sun Life,ABSLI Vision Life Income Plus,109N131V02,109N131,N,Individual,Endowment,Savings (Par / Non-Par to confirm),low,,,,,2021-05-11,2024-12-12,2,Y,Y,
+109,Aditya Birla Sun Life,ABSLI Guaranteed Annuity Plus,109N132V18,109N132,N,Individual,Annuity,Annuity,high,,,,,2021-06-04,2025-10-09,17,Y,Y,IRDAI latest version 109N132V17
+109,Aditya Birla Sun Life,ABSLI Assured Savings Plan,109N134V15,109N134,N,Individual,Endowment,Savings (Par / Non-Par to confirm),low,,,,,2021-11-09,2025-08-14,13,Y,Y,IRDAI latest version 109N134V13
+109,Aditya Birla Sun Life,ABSLI Fixed Maturity Plan,109N135V06,109N135,N,Individual,Endowment,Savings (Par / Non-Par to confirm),low,,,,,2022-07-08,2024-10-19,6,Y,Y,
+109,Aditya Birla Sun Life,ABSLI Akshaya Plan,109N136V04,109N136,N,Individual,Endowment,Savings (Par / Non-Par to confirm),low,,,,,2022-08-22,2025-04-11,4,Y,Y,
+109,Aditya Birla Sun Life,ABSLI Nishchit Aayush Plan,109N137V15,109N137,N,Individual,Endowment,Savings (Par / Non-Par to confirm),low,,,,,2022-11-03,2025-01-06,12,Y,Y,IRDAI latest version 109N137V12
+109,Aditya Birla Sun Life,ABSLI Poorna Suraksha Kawach,109N138V04,109N138,N,Individual,Term,Protection,high,,,,,2023-01-17,2024-10-10,4,Y,Y,
+109,Aditya Birla Sun Life,ABSLI Anmol Suraksha Kawach,109N139V01,109N139,N,Individual?,,Savings (Par / Non-Par to confirm),low,,,,,2023-01-17,2023-01-17,1,N,Y,"Not in Council Sep-2026 list: check insurer website (may be withdrawn, group, or Council gap)"
+109,Aditya Birla Sun Life,ABSLI,109N140V01,109N140,N,Group,Smart Supreme Group Others - Credit Life,OUT: group,high,,,,,2023-09-12,2023-09-12,1,Y,Y,
+109,Aditya Birla Sun Life,ABSLI Salaried Term Plan,109N141V05,109N141,N,Individual,Protection,Protection,high,,,,,2023-10-09,2025-05-08,4,Y,Y,IRDAI latest version 109N141V04
+109,Aditya Birla Sun Life,ABSLI,109N144V02,109N144,N,Group,Assured Shield Plan Group Others - Credit Life,OUT: group,high,,,,,2025-01-02,2025-06-27,2,Y,Y,
+109,Aditya Birla Sun Life,ABSLI Income Suraksha Plan,109N146V02,109N146,N,Individual,Term,Protection,high,,,,,2024-08-23,2025-04-24,2,Y,Y,
+109,Aditya Birla Sun Life,ABSLI Insta Digi Term,109N148V03,109N148,N,Individual,Term,Protection,high,,,,,2024-11-14,2025-07-24,3,Y,Y,
+109,Aditya Birla Sun Life,ABSLI Nishchit Laabh,109N150V05,109N150,N,Individual,Endowment,Savings (Par / Non-Par to confirm),low,,,,,2023-05-11,2025-07-24,5,Y,Y,
+109,Aditya Birla Sun Life,ABSLI Nishchit Pension,109N151V04,109N151,N,Individual,Pension,Annuity,high,,,,,2023-05-11,2025-08-07,4,Y,Y,
+109,Aditya Birla Sun Life,ABSLI Super Term Plan,109N153V02,109N153,N,Individual,Term,Protection,high,,,,,2025-06-12,2025-06-12,1,Y,Y,IRDAI latest version 109N153V01
+109,Aditya Birla Sun Life,ABSLI Super Term Plus Plan,109N155V01,109N155,N,Individual,Term,Protection,high,,,,,,,0,Y,not listed,
+109,Aditya Birla Sun Life,ABSLI Index Guaranteed Annuity Plus,109N182V01,109N182,N,Individual,Annuity,Annuity,high,,,,,,,0,Y,not listed,
+109,Aditya Birla Sun Life,ABSLI Anmol Akshaya,109N183V01,109N183,N,Individual,Endowment,Savings (Par / Non-Par to confirm),low,,,,,,,0,Y,not listed,
+110,Tata AIA Life,Tata AIA Life Insurance Wealth Pro,110L111V05,110L111,L,Individual,ULIP,ULIP,high,,,,,,,0,Y,not listed,
+110,Tata AIA Life,Tata AIA Life Insurance Fortune Pro,110L112V07,110L112,L,Individual,ULIP,ULIP,high,,,,,,,0,Y,not listed,
+110,Tata AIA Life,Tata AIA Life Insurance Fortune Maxima,110L113V09,110L113,L,Individual,ULIP,ULIP,high,,,,,,,0,Y,not listed,
+110,Tata AIA Life,Tata AIA Life Insurance Wealth Maxima,110L114V05,110L114,L,Individual,ULIP,ULIP,high,,,,,,,0,Y,not listed,
+110,Tata AIA Life,Tata AIA Life Insurance,110L151V03,110L151,L,Group,Employee Benefit Plan Group ULIP,OUT: group,high,,,,,,,0,Y,not listed,
+110,Tata AIA Life,Tata AIA Life Insurance Smart Sampoorna Raksha,110L156V04,110L156,L,Individual,ULIP,ULIP,high,,,,,,,0,Y,not listed,
+110,Tata AIA Life,Tata AIA i Systematic Insurance Plan,110L164V11,110L164,L,Individual,ULIP,ULIP,high,,,,,,,0,Y,not listed,
+110,Tata AIA Life,Tata AIA Smart Health,110L168V04,110L168,L,Individual,ULIP - Health,OUT: health,high,,,,,,,0,Y,not listed,
+110,Tata AIA Life,Tata AIA Smart Sampoorna Raksha Pro,110L172V03,110L172,L,Individual,ULIP,ULIP,high,,,,,,,0,Y,not listed,
+110,Tata AIA Life,TATA AIA Smart SIP,110L174V02,110L174,L,Individual,ULIP,ULIP,high,,,,,,,0,Y,not listed,
+110,Tata AIA Life,Tata AIA Smart Fortune Plus,110L177V01,110L177,L,Individual,ULIP,ULIP,high,,,,,,,0,Y,not listed,
+110,Tata AIA Life,Tata AIA Smart Sampoorna Raksha Supreme,110L179V02,110L179,L,Individual,ULIP,ULIP,high,,,,,,,0,Y,not listed,
+110,Tata AIA Life,Tata AIA Health Pro,110L180V02,110L180,L,Individual,ULIP - Health,OUT: health,high,,,,,,,0,Y,not listed,
+110,Tata AIA Life,Tata AIA Smart Pension Secure,110L182V09,110L182,L,Individual,ULIP - Pension,ULIP,high,,,,,,,0,Y,not listed,
+110,Tata AIA Life,Tata AIA Health SIP,110L184V03,110L184,L,Individual,ULIP - Health,OUT: health,high,,,,,,,0,Y,not listed,
+110,Tata AIA Life,Tata AIA Smart Raksha,110L187V01,110L187,L,Individual,ULIP,ULIP,high,,,,,,,0,Y,not listed,
+110,Tata AIA Life,Tata AIA Shubh Wealth,110L188V01,110L188,L,Individual,ULIP,ULIP,high,,,,,,,0,Y,not listed,
+110,Tata AIA Life,Tata AIA Shubh SIP,110L190V01,110L190,L,Individual,ULIP,ULIP,high,,,,,,,0,Y,not listed,
+110,Tata AIA Life,Tata AIA Life Insurance,110N004V06,110N004,N,Group,Term Life Group Term,OUT: group,high,,,,,,,0,Y,not listed,
+110,Tata AIA Life,Tata AIA Life Insurance Fortune Guarantee,110N120V12,110N120,N,Individual,Endowment,Savings (Par / Non-Par to confirm),low,,,,,,,0,Y,not listed,
+110,Tata AIA Life,Tata AIA Life Insurance Saat Saath - Micro Insurance Product,110N123V04,110N123,N,Individual,Others - Micro,OUT: accident/micro,high,,,,,,,0,Y,not listed,
+110,Tata AIA Life,Tata AIA Life Insurance Smart Income Plus,110N126V09,110N126,N,Individual,Endowment,Savings (Par / Non-Par to confirm),low,,,,,,,0,Y,not listed,
+110,Tata AIA Life,Tata AIA Life Insurance,110N132V04,110N132,N,Group,Loan Protect Group Term,OUT: group,high,,,,,,,0,Y,not listed,
+110,Tata AIA Life,Tata AIA Life Insurance Diamond Savings Plan,110N133V06,110N133,N,Individual,Endowment,Savings (Par / Non-Par to confirm),low,,,,,,,0,Y,not listed,
+110,Tata AIA Life,Tata AIA Life Insurance POS Saat Saath - Micro Insurance Product,110N134V04,110N134,N,Individual,Endowment,OUT: accident/micro,high,,,,,,,0,Y,not listed,
+110,Tata AIA Life,Tata AIA Life Insurance POS Smart Income Plus,110N148V07,110N148,N,Individual,Endowment,Savings (Par / Non-Par to confirm),low,,,,,,,0,Y,not listed,
+110,Tata AIA Life,Tata AIA Life Insurance Smart Annuity Plan,110N150V08,110N150,N,Individual,Annuity,Annuity,high,,,,,,,0,Y,not listed,
+110,Tata AIA Life,Tata AIA Life Guaranteed Return Insurance Plan,110N152V16,110N152,N,Individual,Endwoment,Savings (Par / Non-Par to confirm),low,,,,,,,0,Y,not listed,
+110,Tata AIA Life,Tata AIA Life Insurance Value Income Plan,110N153V04,110N153,N,Individual,Endwoment,Savings (Par / Non-Par to confirm),low,,,,,,,0,Y,not listed,
+110,Tata AIA Life,Tata AIA Life Insurance,110N154V05,110N154,N,Group,Sampoorna Raksha Plan Group Term,OUT: group,high,,,,,,,0,Y,not listed,
+110,Tata AIA Life,Tata AIA Life Insurance Traditional,110N155V02,110N155,N,Group,Corporate Benefit Plan Group Endowment,OUT: group,high,,,,,,,0,Y,not listed,
+110,Tata AIA Life,Tata AIA Life Insurance Saral Jeevan Bima,110N157V02,110N157,N,Individual,Term,Protection,high,,,,,,,0,Y,not listed,
+110,Tata AIA Life,Tata AIA Life Insurance Fortune Guarantee Plus,110N158V14,110N158,N,Individual,Endowment,Savings (Par / Non-Par to confirm),low,,,,,,,0,Y,not listed,
+110,Tata AIA Life,Tata AIA Life Insurance Saral Pension,110N159V10,110N159,N,Individual,Annuity,Annuity,high,,,,,,,0,Y,not listed,
+110,Tata AIA Life,Tata AIA Life Insurance Sampoorna Raksha Supreme Plan,110N160V06,110N160,N,Individual,Term,Protection,high,,,,,,,0,Y,not listed,
+110,Tata AIA Life,Tata AIA Life Insurance Fortune Guarantee Pension,110N161V13,110N161,N,Individual,Annuity,Annuity,high,,,,,,,0,Y,not listed,
+110,Tata AIA Life,Tata AIA Life Insurance Smart Value Income Plan,110N162V03,110N162,N,Individual,Endwoment,Savings (Par / Non-Par to confirm),low,,,,,,,0,Y,not listed,
+110,Tata AIA Life,Tata AIA Fortune Guarantee Supreme,110N163V14,110N163,N,Individual,Endowment,Savings (Par / Non-Par to confirm),low,,,,,,,0,Y,not listed,
+110,Tata AIA Life,Tata AIA Life Insurance,110N165V02,110N165,N,Group,Micro Raksha Supreme Group Others - Micro,OUT: group,high,,,,,,,0,Y,not listed,
+110,Tata AIA Life,Tata AIA Bharat Suraksha Cover Micro Insurance Plan,110N169V01,110N169,N,Individual,Term - Micro,OUT: accident/micro,high,,,,,,,0,Y,not listed,
+110,Tata AIA Life,Tata AIA Employee Benefit Traditional Plan,110N170V02,110N170,N,Group,Endwoment,OUT: group,high,,,,,,,0,Y,not listed,
+110,Tata AIA Life,Tata AIA Maha Raksha Supreme Select,110N171V16,110N171,N,Individual,Term,Protection,high,,,,,,,0,Y,not listed,
+110,Tata AIA Life,Tata AIA,110N173V03,110N173,N,Group,Sampoorna Raksha Supreme Group Term,OUT: group,high,,,,,,,0,Y,not listed,
+110,Tata AIA Life,Tata AIA Fortune Guarantee Retirement Ready,110N175V04,110N175,N,Individual,Pension,Annuity,high,,,,,,,0,Y,not listed,
+110,Tata AIA Life,Tata AIA Sampoorna Raksha Promise,110N176V13,110N176,N,Individual,Term,Protection,high,,,,,,,0,Y,not listed,
+110,Tata AIA Life,Tata AIA Vitality Protect Advance,110N178V01,110N178,N,Individual,Others - Health,OUT: health,high,,,,,,,0,Y,not listed,
+110,Tata AIA Life,Tata AIA Vita Health,110N181V01,110N181,N,Individual,Others - Health,OUT: health,high,,,,,,,0,Y,not listed,
+110,Tata AIA Life,Tata AIA Health Buddy,110N183V02,110N183,N,Individual,Others - Health,OUT: health,high,,,,,,,0,Y,not listed,
+110,Tata AIA Life,Tata AIA Shubh Employee Protect,110N185V01,110N185,N,Individual,Term,Protection,high,,,,,,,0,Y,not listed,
+110,Tata AIA Life,Tata AIA Sampoorna Care,110N186V01,110N186,N,Individual,Health,OUT: health,high,,,,,,,0,Y,not listed,
+110,Tata AIA Life,Tata AIA,110N189V01,110N189,N,Group,Critical Illness Group Others - Health,OUT: group,high,,,,,,,0,Y,not listed,
+110,Tata AIA Life,Tata AIA Fortune Guarantee Secure,110N206V03,110N206,N,Individual,Endowment,Savings (Par / Non-Par to confirm),low,,,,,,,0,Y,not listed,
+110,Tata AIA Life,Tata AIA Shubh Flexi Income Plan,110N207V03,110N207,N,Individual,Endwoment,Savings (Par / Non-Par to confirm),low,,,,,,,0,Y,not listed,
+110,Tata AIA Life,TATA AIA Shubh Maha Life,110N208V04,110N208,N,Individual,Endowment,Savings (Par / Non-Par to confirm),low,,,,,,,0,Y,not listed,
+110,Tata AIA Life,Tata AIA Shubh Flexi Pension Plan,110N209V02,110N209,N,Individual,Annuity,Annuity,high,,,,,,,0,Y,not listed,
+110,Tata AIA Life,Tata AIA Shubh Smart Retire,110N210V01,110N210,N,Individual,Pension,Annuity,high,,,,,,,0,Y,not listed,
+116,Bajaj Life,Bajaj Allianz Retire Assured,116L114V01,116L114,L,Individual?,,ULIP,high,,,,,2012-12-26,2012-12-26,1,N,Y,"Not in Council Sep-2026 list: check insurer website (may be withdrawn, group, or Council gap)"
+116,Bajaj Life,Bajaj Allianz Retire Rich,116L126V02,116L126,L,Individual?,,ULIP,high,,,,,2014-10-21,2020-02-29,2,N,Y,"Not in Council Sep-2026 list: check insurer website (may be withdrawn, group, or Council gap)"
+116,Bajaj Life,Bajaj Allianz Life Principal Gain,116L137V02,116L137,L,Individual?,,ULIP,high,,,,,2016-02-10,2020-02-28,2,N,Y,"Not in Council Sep-2026 list: check insurer website (may be withdrawn, group, or Council gap)"
+116,Bajaj Life,Bajaj Allianz Life Group Employee Benefit,116L161V04,116L161,L,Group?,,OUT: group,high,,,,,2020-05-06,2025-05-15,4,N,Y,"Not in Council Sep-2026 list: check insurer website (may be withdrawn, group, or Council gap)"
+116,Bajaj Life,Bajaj Allianz Life Magnum Fortune Plus II,116L182V02,116L182,L,Individual?,,ULIP,high,,,,,2023-08-10,2024-09-25,2,N,Y,"Not in Council Sep-2026 list: check insurer website (may be withdrawn, group, or Council gap)"
+116,Bajaj Life,Bajaj Allianz Life Invest Protect Goal II,116L192V01,116L192,L,Individual?,,ULIP,high,,,,,2024-08-21,2024-08-21,1,N,Y,"Not in Council Sep-2026 list: check insurer website (may be withdrawn, group, or Council gap)"
+116,Bajaj Life,Bajaj Allianz Life Goal Assure III,116L193V01,116L193,L,Individual?,,ULIP,high,,,,,2024-09-01,2024-09-01,1,N,Y,"Not in Council Sep-2026 list: check insurer website (may be withdrawn, group, or Council gap)"
+116,Bajaj Life,Bajaj Allianz Life Smart Wealth Goal IV,116L194V01,116L194,L,Individual?,,ULIP,high,,,,,2024-09-01,2024-09-01,1,N,Y,"Not in Council Sep-2026 list: check insurer website (may be withdrawn, group, or Council gap)"
+116,Bajaj Life,Bajaj Allianz Life Future Wealth Gain III,116L195V01,116L195,L,Individual?,,ULIP,high,,,,,2024-09-01,2024-09-01,1,N,Y,"Not in Council Sep-2026 list: check insurer website (may be withdrawn, group, or Council gap)"
+116,Bajaj Life,Bajaj Allianz Life Fortune Gain II,116L196V02,116L196,L,Individual?,,ULIP,high,,,,,2024-10-17,2025-03-10,2,N,Y,"Not in Council Sep-2026 list: check insurer website (may be withdrawn, group, or Council gap)"
+116,Bajaj Life,Bajaj Allianz Life LongLife Goal II,116L197V01,116L197,L,Individual?,,ULIP,high,,,,,2024-10-01,2024-10-01,1,N,Y,"Not in Council Sep-2026 list: check insurer website (may be withdrawn, group, or Council gap)"
+116,Bajaj Life,Bajaj Allianz Life Smart Wealth Goal V,116L201V04,116L201,L,Individual?,,ULIP,high,,,,,2024-11-05,2025-09-06,4,N,Y,"Not in Council Sep-2026 list: check insurer website (may be withdrawn, group, or Council gap)"
+116,Bajaj Life,Bajaj Allianz Life Future Wealth Gain IV,116L202V01,116L202,L,Individual?,,ULIP,high,,,,,2024-11-05,2024-11-05,1,N,Y,"Not in Council Sep-2026 list: check insurer website (may be withdrawn, group, or Council gap)"
+116,Bajaj Life,Bajaj Allianz Life LongLife Goal III,116L203V01,116L203,L,Individual?,,ULIP,high,,,,,2024-11-05,2024-11-05,1,N,Y,"Not in Council Sep-2026 list: check insurer website (may be withdrawn, group, or Council gap)"
+116,Bajaj Life,Bajaj Allianz Life Goal Assure IV,116L204V01,116L204,L,Individual?,,ULIP,high,,,,,2024-12-01,2024-12-01,1,N,Y,"Not in Council Sep-2026 list: check insurer website (may be withdrawn, group, or Council gap)"
+116,Bajaj Life,Bajaj Allianz Life Invest Protect Goal III,116L205V01,116L205,L,Individual?,,ULIP,high,,,,,2024-12-01,2024-12-01,1,N,Y,"Not in Council Sep-2026 list: check insurer website (may be withdrawn, group, or Council gap)"
+116,Bajaj Life,Bajaj Allianz Life Goal Based Saving III,116L206V01,116L206,L,Individual?,,ULIP,high,,,,,2024-12-05,2024-12-05,1,N,Y,"Not in Council Sep-2026 list: check insurer website (may be withdrawn, group, or Council gap)"
+116,Bajaj Life,Bajaj Allianz Life Magnum Fortune Plus III,116L207V02,116L207,L,Individual?,,ULIP,high,,,,,2025-02-01,2025-03-10,2,N,Y,"Not in Council Sep-2026 list: check insurer website (may be withdrawn, group, or Council gap)"
+116,Bajaj Life,Bajaj Allianz Life Smart Pension,116L209V03,116L209,L,Individual?,,ULIP,high,,,,,2025-05-15,2025-10-01,3,N,Y,"Not in Council Sep-2026 list: check insurer website (may be withdrawn, group, or Council gap)"
+116,Bajaj Life,Bajaj Allianz Life Group Investment Plan,116L210V01,116L210,L,Group?,,OUT: group,high,,,,,2025-08-01,2025-08-01,1,N,Y,"Not in Council Sep-2026 list: check insurer website (may be withdrawn, group, or Council gap)"
+116,Bajaj Life,Bajaj Life Supreme,116L211V01,116L211,L,Individual?,,ULIP,high,,,,,2025-10-08,2025-10-08,1,N,Y,"Not in Council Sep-2026 list: check insurer website (may be withdrawn, group, or Council gap)"
+116,Bajaj Life,Bajaj Allianz Life Group Term Life,116N021V08,116N021,N,Group?,,OUT: group,high,,,,,2004-01-22,2025-06-05,8,N,Y,"Not in Council Sep-2026 list: check insurer website (may be withdrawn, group, or Council gap)"
+116,Bajaj Life,Bajaj Allianz Life Group Credit Protection Plus,116N094V08,116N094,N,Group?,,OUT: group,high,,,,,2010-08-10,2024-09-25,8,N,Y,"Not in Council Sep-2026 list: check insurer website (may be withdrawn, group, or Council gap)"
+116,Bajaj Life,Bajaj Allianz iSecure Loan Insurance Plan,116N106V03,116N106,N,Individual?,,Protection,low (name only),,,,,2011-04-21,2019-12-04,3,N,Y,"Not in Council Sep-2026 list: check insurer website (may be withdrawn, group, or Council gap)"
+116,Bajaj Life,Bajaj Allianz iSecure More Insurance Plan,116N108V03,116N108,N,Individual?,,Savings (Par / Non-Par to confirm),low,,,,,2011-05-31,2019-12-04,3,N,Y,"Not in Council Sep-2026 list: check insurer website (may be withdrawn, group, or Council gap)"
+116,Bajaj Life,Bajaj Allianz isecure Insurance Plan,116N109V05,116N109,N,Individual?,,Savings (Par / Non-Par to confirm),low,,,,,2011-10-07,2024-03-15,5,N,Y,"Not in Council Sep-2026 list: check insurer website (may be withdrawn, group, or Council gap)"
+116,Bajaj Life,Bajaj Allianz Life Group Superannuation Secure,116N115V05,116N115,N,Group?,,OUT: group,high,,,,,2013-01-16,2024-09-27,5,N,Y,"Not in Council Sep-2026 list: check insurer website (may be withdrawn, group, or Council gap)"
+116,Bajaj Life,Bajaj Allianz Save Assure Insurance Plan,116N118V02,116N118,N,Individual?,,Savings (Par / Non-Par to confirm),low,,,,,2013-10-03,2020-02-28,2,N,Y,"Not in Council Sep-2026 list: check insurer website (may be withdrawn, group, or Council gap)"
+116,Bajaj Life,Bajaj Allianz Invest Assure,116N121V02,116N121,N,Individual?,,Savings (Par / Non-Par to confirm),low,,,,,2013-11-28,2019-12-03,2,N,Y,"Not in Council Sep-2026 list: check insurer website (may be withdrawn, group, or Council gap)"
+116,Bajaj Life,Bajaj Allianz Life Elite Assure,116N127V04,116N127,N,Individual?,,Savings (Par / Non-Par to confirm),low,,,,,2015-03-02,2024-12-20,4,N,Y,"Not in Council Sep-2026 list: check insurer website (may be withdrawn, group, or Council gap)"
+116,Bajaj Life,Bajaj AllianzYoung Assure,116N128V02,116N128,N,Individual?,,Savings (Par / Non-Par to confirm),low,,,,,2015-03-02,2019-12-04,2,N,Y,"Not in Council Sep-2026 list: check insurer website (may be withdrawn, group, or Council gap)"
+116,Bajaj Life,Bajaj Allianz Lifestyle Secure,116N129V02,116N129,N,Individual?,,Savings (Par / Non-Par to confirm),low,,,,,2015-03-11,2020-02-28,2,N,Y,"Not in Council Sep-2026 list: check insurer website (may be withdrawn, group, or Council gap)"
+116,Bajaj Life,Bajaj Allianz life Secure,116N130V02,116N130,N,Individual?,,Savings (Par / Non-Par to confirm),low,,,,,2015-03-09,2019-12-04,2,N,Y,"Not in Council Sep-2026 list: check insurer website (may be withdrawn, group, or Council gap)"
+116,Bajaj Life,Bajaj Allianz Cash Assure,116N131V02,116N131,N,Individual?,,Savings (Par / Non-Par to confirm),low,,,,,2015-04-07,2019-12-04,2,N,Y,"Not in Council Sep-2026 list: check insurer website (may be withdrawn, group, or Council gap)"
+116,Bajaj Life,Bajaj Allianz Life Super Life Assure,116N134V03,116N134,N,Individual?,,Savings (Par / Non-Par to confirm),low,,,,,2015-09-30,2019-12-04,3,N,Y,"Not in Council Sep-2026 list: check insurer website (may be withdrawn, group, or Council gap)"
+116,Bajaj Life,Bajaj Allianz Life Group Sampoorna Suraksha Kavach,116N143V03,116N143,N,Group?,,OUT: group,high,,,,,2017-09-15,2024-09-27,3,N,Y,"Not in Council Sep-2026 list: check insurer website (may be withdrawn, group, or Council gap)"
+116,Bajaj Life,Bajaj Allianz Life Health Care Goal,116N144V02,116N144,N,Individual?,,OUT: health,low (name only),,,,,2018-06-28,2019-12-04,2,N,Y,"Not in Council Sep-2026 list: check insurer website (may be withdrawn, group, or Council gap)"
+116,Bajaj Life,Bajaj Allianz Life POS Goal Suraksha,116N155V16,116N155,N,Individual?,,Savings (Par / Non-Par to confirm),low,,,,,2018-08-10,2025-07-10,16,N,Y,"Not in Council Sep-2026 list: check insurer website (may be withdrawn, group, or Council gap)"
+116,Bajaj Life,Bajaj Allianz Life Guaranteed Savings Goal,116N158V04,116N158,N,Individual?,,Savings (Par / Non-Par to confirm),low,,,,,2019-06-14,2024-12-31,4,N,Y,"Not in Council Sep-2026 list: check insurer website (may be withdrawn, group, or Council gap)"
+116,Bajaj Life,Bajaj Allianz Life Group Employee Care,116N160V02,116N160,N,Group?,,OUT: group,high,,,,,2020-03-17,2024-09-27,2,N,Y,"Not in Council Sep-2026 list: check insurer website (may be withdrawn, group, or Council gap)"
+116,Bajaj Life,Bajaj Allianz Life Saral Jeevan Bima,116N165V01,116N165,N,Individual?,,Protection,low (name only),,,,,2021-02-01,2021-02-01,1,N,Y,"Not in Council Sep-2026 list: check insurer website (may be withdrawn, group, or Council gap)"
+116,Bajaj Life,Bajaj Allianz Life Group Sampoorna Jeevan Suraksha,116N166V02,116N166,N,Group?,,OUT: group,high,,,,,2021-02-08,2024-09-25,2,N,Y,"Not in Council Sep-2026 list: check insurer website (may be withdrawn, group, or Council gap)"
+116,Bajaj Life,Bajaj Allianz Life Saral Pension,116N169V14,116N169,N,Individual?,,Annuity,low (name only),,,,,2021-05-04,2025-09-11,14,N,Y,"Not in Council Sep-2026 list: check insurer website (may be withdrawn, group, or Council gap)"
+116,Bajaj Life,Bajaj Allianz Life Assured Wealth Goal,116N170V14,116N170,N,Individual?,,Savings (Par / Non-Par to confirm),low,,,,,2021-10-29,2025-07-01,14,N,Y,"Not in Council Sep-2026 list: check insurer website (may be withdrawn, group, or Council gap)"
+116,Bajaj Life,Bajaj Allianz Life Smart Protection Goal,116N174V05,116N174,N,Individual?,,Protection,low (name only),,,,,2023-03-06,2024-10-01,5,N,Y,"Not in Council Sep-2026 list: check insurer website (may be withdrawn, group, or Council gap)"
+116,Bajaj Life,Bajaj Allianz Life Group Superannuation Secure Plus,116N175V02,116N175,N,Group?,,OUT: group,high,,,,,2023-03-29,2024-09-27,2,N,Y,"Not in Council Sep-2026 list: check insurer website (may be withdrawn, group, or Council gap)"
+116,Bajaj Life,Bajaj Allianz Life Diabetic Term Plan II Sub 8 HbA1C,116N183V01,116N183,N,Individual?,,OUT: health,low (name only),,,,,2023-12-05,2023-12-05,1,N,Y,"Not in Council Sep-2026 list: check insurer website (may be withdrawn, group, or Council gap)"
+116,Bajaj Life,Bajaj Allianz Life Group Secure Return,116N184V02,116N184,N,Group?,,OUT: group,high,,,,,2023-12-05,2024-09-27,2,N,Y,"Not in Council Sep-2026 list: check insurer website (may be withdrawn, group, or Council gap)"
+116,Bajaj Life,Bajaj Allianz Life ACE,116N186V03,116N186,N,Individual?,,Savings (Par / Non-Par to confirm),low,,,,,2023-06-21,2024-12-20,3,N,Y,"Not in Council Sep-2026 list: check insurer website (may be withdrawn, group, or Council gap)"
+116,Bajaj Life,Bajaj Allianz Life Guaranteed Pension Goal II,116N187V07,116N187,N,Individual?,,Annuity,low (name only),,,,,2023-12-15,2025-08-26,7,N,Y,"Not in Council Sep-2026 list: check insurer website (may be withdrawn, group, or Council gap)"
+116,Bajaj Life,Bajaj Allianz Life Assured Wealth Goal Platinum,116N188V07,116N188,N,Individual?,,Savings (Par / Non-Par to confirm),low,,,,,2023-12-21,2025-10-08,7,N,Y,"Not in Council Sep-2026 list: check insurer website (may be withdrawn, group, or Council gap)"
+116,Bajaj Life,Bajaj Allianz Life ACE Advantage,116N189V02,116N189,N,Individual?,,Savings (Par / Non-Par to confirm),low,,,,,2024-01-31,2024-12-20,2,N,Y,"Not in Council Sep-2026 list: check insurer website (may be withdrawn, group, or Council gap)"
+116,Bajaj Life,Bajaj Allianz Life eTouch II,116N198V05,116N198,N,Individual?,,Savings (Par / Non-Par to confirm),low,,,,,2024-10-01,2025-08-14,5,N,Y,"Not in Council Sep-2026 list: check insurer website (may be withdrawn, group, or Council gap)"
+116,Bajaj Life,Bajaj Allianz Life Group Secure Shield,116N199V01,116N199,N,Group?,,OUT: group,high,,,,,2024-10-24,2024-10-24,1,N,Y,"Not in Council Sep-2026 list: check insurer website (may be withdrawn, group, or Council gap)"
+116,Bajaj Life,Bajaj Allianz Life Guaranteed Wealth Goal,116N200V06,116N200,N,Individual?,,Savings (Par / Non-Par to confirm),low,,,,,2024-09-27,2025-07-04,6,N,Y,"Not in Council Sep-2026 list: check insurer website (may be withdrawn, group, or Council gap)"
+116,Bajaj Life,Bajaj Allianz Life iSecure II,116N208V03,116N208,N,Individual?,,Savings (Par / Non-Par to confirm),low,,,,,2025-01-16,2025-08-31,3,N,Y,"Not in Council Sep-2026 list: check insurer website (may be withdrawn, group, or Council gap)"
+116,Bajaj Life,Bajaj Allianz Life Group Secure Shield Plus,116N212V01,116N212,N,Group?,,OUT: group,high,,,,,2025-09-24,2025-09-24,1,N,Y,"Not in Council Sep-2026 list: check insurer website (may be withdrawn, group, or Council gap)"
+116,Bajaj Life,Bajaj Allianz Life Flexi Guarantee,116N241V01,116N241,N,Individual?,,Savings (Par / Non-Par to confirm),low,,,,,2025-06-05,2025-06-05,1,N,Y,"Not in Council Sep-2026 list: check insurer website (may be withdrawn, group, or Council gap)"
+117,PNB MetLife,PNB MetLife Unit Linked Employee Benefits Plan,117L084V04,117L084,L,Group,Others,OUT: group,high,,,,,2014-01-22,2024-09-07,4,Y,Y,
+117,PNB MetLife,PNB MetLife Mera Wealth Plan,117L098V08,117L098,L,Individual,Ulip Endowment,ULIP,high,,,,,2016-04-28,2025-07-15,8,Y,Y,
+117,PNB MetLife,PNB MetLife Smart Platinum Plus,117L125V06,117L125,L,Individual,Ulip,ULIP,high,,,,,2020-06-16,2025-07-15,6,Y,Y,
+117,PNB MetLife,PNB MetLife Goal Ensuring Multiplier,117L133V09,117L133,L,Individual,Ulip,ULIP,high,,,,,2022-06-20,2025-07-15,7,Y,Y,IRDAI latest version 117L133V07
+117,PNB MetLife,PNB MetLife Term with Unit Linked Insurance Plan (TULIP),117L136V04,117L136,L,Individual,Ulip,ULIP,high,,,,,2024-12-16,2025-07-15,4,Y,Y,
+117,PNB MetLife,PNB MetLife Smart Invest Pension Plan,117L137V04,117L137,L,Individual,Pension Plan,ULIP,high,,,,,2025-02-01,2025-10-16,4,Y,Y,
+117,PNB MetLife,PNB MetLife Smart Invest Pension Plan Pro,117L138V05,117L138,L,Individual,Pension Plan,ULIP,high,,,,,2025-08-18,2025-10-16,3,Y,Y,IRDAI latest version 117L138V03
+117,PNB MetLife,PNB MetLife Smart Goal Ensuring Multiplier,117L139V04,117L139,L,Individual,Ulip,ULIP,high,,,,,2025-07-15,2025-07-15,1,Y,Y,IRDAI latest version 117L139V01
+117,PNB MetLife,PNB MetLife Group Protection Plan,117L140V01,117L140,L,Group?,,OUT: group,high,,,,,2025-09-22,2025-09-22,1,N,Y,"Not in Council Sep-2026 list: check insurer website (may be withdrawn, group, or Council gap)"
+117,PNB MetLife,PNB MetLife Smart Platinum Pro,117L142V02,117L142,L,Individual,Ulip,ULIP,high,,,,,,,0,Y,not listed,
+117,PNB MetLife,PNB MetLife 360 Health Savings Plan,117L143V02,117L143,L,Individual,Ulip,ULIP,high,,,,,,,0,Y,not listed,
+117,PNB MetLife,PNB MetLife,117N049V04,117N049,N,Group,Term Life Plus Group Term,OUT: group,high,,,,,2009-06-22,2024-12-31,4,Y,Y,
+117,PNB MetLife,MetLife  Superannuation,117N078V02,117N078,N,Individual?,,Savings (Par / Non-Par to confirm),low,,,,,2013-07-29,2017-05-19,2,N,Y,"Not in Council Sep-2026 list: check insurer website (may be withdrawn, group, or Council gap)"
+117,PNB MetLife,PNB MetLife Loan & Life Suraksha,117N080V03,117N080,N,Group,Term,OUT: group,high,,,,,2013-08-13,,3,Y,withdrawn,IRDAI list shows withdrawn (Dec-2025) but Council lists in-force (Sep-2026)
+117,PNB MetLife,PNB MetLife Traditional Employee Benefits Plan,117N085V03,117N085,N,Group,Others,OUT: group,high,,,,,2014-03-28,2024-09-07,3,Y,Y,
+117,PNB MetLife,PNB MetLife  Family Income Protector Plus,117N086V04,117N086,N,Individual?,,Savings (Par / Non-Par to confirm),low,,,,,2014-05-20,2020-02-21,4,N,Y,"Not in Council Sep-2026 list: check insurer website (may be withdrawn, group, or Council gap)"
+117,PNB MetLife,PNB MetLife Bachat Yojana,117N088V05,117N088,N,Individual,Deferred Endowment Plan,Savings (Par / Non-Par to confirm),low,,,,,2015-01-13,2024-12-16,5,Y,Y,
+117,PNB MetLife,PNB MetLife Retirement Savings Plan,117N091V03,117N091,N,Individual,Pension Plan,Annuity,high,,,,,2015-05-01,2024-10-01,3,Y,Y,
+117,PNB MetLife,PNB MetLife Complete Care Plus,117N093V06,117N093,N,Group,Term,OUT: group,high,,,,,2015-05-12,2024-09-07,6,Y,Y,
+117,PNB MetLife,PNB MetLife Immediate Annuity Plan,117N095V10,117N095,N,Individual,Immediate Annuity,Annuity,high,,,,,2016-01-11,2024-08-21,9,Y,Y,IRDAI latest version 117N095V09
+117,PNB MetLife,PNB MetLife Mera Jeevan Suraksha Plan,117N102V02,117N102,N,Individual?,,Savings (Par / Non-Par to confirm),low,,,,,2017-07-20,2019-09-14,2,N,Y,"Not in Council Sep-2026 list: check insurer website (may be withdrawn, group, or Council gap)"
+117,PNB MetLife,PNB MetLife Income Protection Plan,117N103V02,117N103,N,Individual?,,Savings (Par / Non-Par to confirm),low,,,,,2017-11-03,2020-02-21,2,N,Y,"Not in Council Sep-2026 list: check insurer website (may be withdrawn, group, or Council gap)"
+117,PNB MetLife,PNB MetLife Complete Loan Protection Plan,117N104V04,117N104,N,Group,Term,OUT: group,high,,,,,2018-03-21,2024-09-22,5,Y,Y,
+117,PNB MetLife,PNB MetLife - POS Suraksha,117N119V04,117N119,N,Individual,Term,Protection,high,,,,,2018-07-04,2024-10-01,4,Y,Y,
+117,PNB MetLife,PNB MetLife Bima Yojana -,117N120V02,117N120,N,Group,"Micro-Insurance Group Term, Microinsurance Plan",OUT: group,high,,,,,2018-09-05,2024-09-07,2,Y,Y,
+117,PNB MetLife,PNB MetLife Aajeevan Suraksha,117N122V06,117N122,N,Individual,Term,Protection,high,,,,,2019-03-08,2024-10-01,5,Y,Y,IRDAI latest version 117N122V05
+117,PNB MetLife,PNB MetLife Super Saver Plan,117N123V03,117N123,N,Individual,Endowment,Savings (Par / Non-Par to confirm),low,,,,,2019-05-07,2024-10-01,3,Y,Y,
+117,PNB MetLife,PNB MetLife Guaranteed Future Plan,117N124V17,117N124,N,Individual,Deferred Endowment Plan,Savings (Par / Non-Par to confirm),low,,,,,2020-06-16,2025-09-04,16,Y,Y,IRDAI latest version 117N124V16
+117,PNB MetLife,PNB MetLife Mera Term Plan Plus,117N126V04,117N126,N,Individual,Term,Protection,high,,,,,2020-07-09,2024-10-01,4,Y,Y,
+117,PNB MetLife,PNB MetLife,117N127V02,117N127,N,Group,Flexi Term Plus Group Term,OUT: group,high,,,,,2020-10-06,2024-09-07,2,Y,Y,
+117,PNB MetLife,PNB MetLife Saral Jeevan Bima,117N128V04,117N128,N,Individual,Term,Protection,high,,,,,2021-01-27,2024-08-21,4,Y,Y,
+117,PNB MetLife,PNB MetLife Century Plan,117N129V03,117N129,N,Individual,Par Whole Life,Par,high,,,,,2021-03-08,2024-10-01,2,Y,Y,IRDAI latest version 117N129V02
+117,PNB MetLife,PNB MetLife Saral Pension,117N130V02,117N130,N,Individual,Immediate Annuity,Annuity,high,,,,,2021-05-11,2024-08-21,2,Y,Y,
+117,PNB MetLife,PNB MetLife Guaranteed Goal Plan,117N131V06,117N131,N,Individual,Deferred Endowment Plan,Savings (Par / Non-Par to confirm),low,,,,,2021-11-01,2025-07-15,6,Y,Y,
+117,PNB MetLife,PNB MetLife,117N132V02,117N132,N,Group,Secured Gain Group Group Savings,OUT: group,high,,,,,2022-01-21,2024-09-07,2,Y,Y,
+117,PNB MetLife,PNB MetLife Grand Assured Income Plan,117N134V09,117N134,N,Individual,Deferred Annuity,Annuity,high,,,,,2022-06-20,2025-09-22,7,Y,Y,IRDAI latest version 117N134V07
+117,PNB MetLife,PNB MetLife Genius Plan,117N135V04,117N135,N,Individual,Deferred Income Plan,Savings (Par / Non-Par to confirm),low,,,,,2023-01-20,2025-02-15,4,Y,Y,
+117,PNB MetLife,PNB MetLife,117N140V01,117N140,N,Group,Protection Plan Group Term,OUT: group,high,,,,,,,0,Y,not listed,
+117,PNB MetLife,PNB MetLife DigiProtect Term Plan,117N141V03,117N141,N,Individual,Term,Protection,high,,,,,,,0,Y,not listed,
+117,PNB MetLife,PNB MetLife Long Income For Tomorrow,117N166V01,117N166,N,Individual,Deferred Income Plan,Savings (Par / Non-Par to confirm),low,,,,,2025-01-10,2025-01-10,1,Y,Y,
+117,PNB MetLife,PNB MetLife GROW Plan,117N167V01,117N167,N,Individual,Par Whole Life,Par,high,,,,,2025-02-28,2025-02-28,1,Y,Y,
+117,PNB MetLife,PNB MetLife Dhan Suraksha Yojna - Micro Insurance,117N168V01,117N168,N,Individual,Micro-Insurance Plan,OUT: accident/micro,high,,,,,2025-07-15,2025-07-15,1,Y,Y,
+117,PNB MetLife,PNB MetLife RISE Plan,117N169V01,117N169,N,Individual,Early Income Plan,Savings (Par / Non-Par to confirm),low,,,,,,,0,Y,not listed,
+121,IndusInd Nippon Life,IndusInd Nippon Life,121L081V03,121L081,L,Group,Unit Linked Employee Benefits Plan Group ULIP,OUT: group,high,,,,,2011-01-28,2024-09-25,4,Y,Y,
+121,IndusInd Nippon Life,IndusInd Nippon Life Classic Plan II,121L085V05,121L085,L,Individual,ULIP,ULIP,high,,,,,2012-01-31,2020-01-09,4,Y,Y,IRDAI latest version 121L085V04
+121,IndusInd Nippon Life,Reliance Nippon Life Smart Pension Plan,121L090V04,121L090,L,Individual?,,ULIP,high,,,,,2013-02-12,2020-02-29,4,N,Y,"Not in Council Sep-2026 list: check insurer website (may be withdrawn, group, or Council gap)"
+121,IndusInd Nippon Life,IndusInd Nippon Life Premier Wealth Insurance Plan,121L114V02,121L114,L,Individual,ULIP,ULIP,high,,,,,2016-01-25,2020-01-09,2,Y,Y,
+121,IndusInd Nippon Life,IndusInd Nippon Life Smart Savings Insurance Plan,121L117V02,121L117,L,Individual,ULIP,ULIP,high,,,,,2016-06-28,2024-07-23,2,Y,Y,
+121,IndusInd Nippon Life,IndusInd Nippon Life Prosperity Plus,121L134V03,121L134,L,Individual,ULIP,ULIP,high,,,,,2018-11-30,2025-03-25,3,Y,Y,
+121,IndusInd Nippon Life,IndusInd Nippon Life Wealth and Insurance Plan,121L146V02,121L146,L,Individual,ULIP,ULIP,high,,,,,2024-09-05,2024-09-05,1,Y,Y,IRDAI latest version 121L146V01
+121,IndusInd Nippon Life,IndusInd Nippon Life WealthNext,121L155V01,121L155,L,Individual,ULIP,ULIP,high,,,,,,,0,Y,not listed,
+121,IndusInd Nippon Life,IndusInd Nippon Life Immediate Annuity Plan,121N012V02,121N012,N,Individual,Annuity,Annuity,high,,,,,2003-10-02,2013-10-10,2,Y,Y,
+121,IndusInd Nippon Life,IndusInd Nippon Life Guaranteed Money Back Plan,121N084V05,121N084,N,Individual,Endowment,Savings (Par / Non-Par to confirm),low,,,,,2011-09-12,2024-10-08,5,Y,Y,
+121,IndusInd Nippon Life,IndusInd Nippon Life Super Endowment Plan,121N088V05,121N088,N,Individual,Endowment,Savings (Par / Non-Par to confirm),low,,,,,2012-10-19,2024-10-18,5,Y,Y,
+121,IndusInd Nippon Life,Reliance Nippon Life Super Money Back  Plan,121N098V03,121N098,N,Individual?,,Savings (Par / Non-Par to confirm),low,,,,,2013-10-24,2020-01-30,3,N,Y,"Not in Council Sep-2026 list: check insurer website (may be withdrawn, group, or Council gap)"
+121,IndusInd Nippon Life,Reliance Nippon Life Fixed Savings,121N101V03,121N101,N,Individual?,,Savings (Par / Non-Par to confirm),low,,,,,2014-08-21,2020-01-15,3,N,Y,"Not in Council Sep-2026 list: check insurer website (may be withdrawn, group, or Council gap)"
+121,IndusInd Nippon Life,RelianceNippon Life  Bluechip Savings Insurance Plan,121N103V02,121N103,N,Individual?,,Savings (Par / Non-Par to confirm),low,,,,,2014-12-02,2020-02-19,2,N,Y,"Not in Council Sep-2026 list: check insurer website (may be withdrawn, group, or Council gap)"
+121,IndusInd Nippon Life,IndusInd Nippon Life,121N104V02,121N104,N,Group,Term Assurance Plus Group Term,OUT: group,high,,,,,2015-01-13,2024-05-06,2,Y,Y,
+121,IndusInd Nippon Life,Reliance Nippon Life Fixed Money Back,121N107V02,121N107,N,Individual?,,Savings (Par / Non-Par to confirm),low,,,,,2015-04-01,2019-11-14,2,N,Y,"Not in Council Sep-2026 list: check insurer website (may be withdrawn, group, or Council gap)"
+121,IndusInd Nippon Life,IndusInd Nippon Life Increasing Income Insurance Plan,121N108V04,121N108,N,Individual,Endowment,Savings (Par / Non-Par to confirm),low,,,,,2015-04-21,2024-10-10,4,Y,Y,
+121,IndusInd Nippon Life,Reliance Nippon Life Future Income,121N109V02,121N109,N,Individual?,,Savings (Par / Non-Par to confirm),low,,,,,2015-07-20,2020-02-25,2,N,Y,"Not in Council Sep-2026 list: check insurer website (may be withdrawn, group, or Council gap)"
+121,IndusInd Nippon Life,Reliance Nippon Life Lifelong Savings,121N110V02,121N110,N,Individual?,,Savings (Par / Non-Par to confirm),low,,,,,2015-07-21,2020-01-30,2,N,Y,"Not in Council Sep-2026 list: check insurer website (may be withdrawn, group, or Council gap)"
+121,IndusInd Nippon Life,Reliance Nippon Life Increasing Money Back Plan,121N116V02,121N116,N,Individual?,,Savings (Par / Non-Par to confirm),low,,,,,2016-06-27,2020-01-03,2,N,Y,"Not in Council Sep-2026 list: check insurer website (may be withdrawn, group, or Council gap)"
+121,IndusInd Nippon Life,IndusInd Nippon Life Cancer Protection Plus,121N119V02,121N119,N,Individual,Health,OUT: health,high,,,,,2018-10-04,2024-12-30,2,Y,Y,
+121,IndusInd Nippon Life,IndusInd Nippon Life Milestone Plan,121N136V04,121N136,N,Individual,Endowment,Savings (Par / Non-Par to confirm),low,,,,,2019-07-03,2024-10-08,4,Y,Y,
+121,IndusInd Nippon Life,Reliance Nippon Life Protection Plus,121N137V01,121N137,N,Individual?,,Protection,low (name only),,,,,2019-11-11,2019-11-11,1,N,Y,"Not in Council Sep-2026 list: check insurer website (may be withdrawn, group, or Council gap)"
+121,IndusInd Nippon Life,IndusInd Nippon Life,121N138V02,121N138,N,Group,Employee Benefits Plan Group Fund Based Life Insurance,OUT: group,high,,,,,2020-09-07,2022-12-21,2,Y,Y,
+121,IndusInd Nippon Life,Reliance Nippon Life Super Bachat Plus Suraksha Plan,121N139V01,121N139,N,Individual?,,Savings (Par / Non-Par to confirm),low,,,,,2021-01-22,2021-01-22,1,N,Y,"Not in Council Sep-2026 list: check insurer website (may be withdrawn, group, or Council gap)"
+121,IndusInd Nippon Life,IndusInd Nippon Life Saral Jeevan Bima,121N140V01,121N140,N,Individual,Term,Protection,high,,,,,2021-01-27,2021-01-27,1,Y,Y,
+121,IndusInd Nippon Life,IndusInd Nippon Life Saral Pension,121N141V01,121N141,N,Individual,Annuity,Annuity,high,,,,,2021-06-25,2021-06-25,1,Y,Y,
+121,IndusInd Nippon Life,IndusInd Nippon Life Nishchit Samrudhi,121N142V03,121N142,N,Individual,Endowment,Savings (Par / Non-Par to confirm),low,,,,,2021-10-29,2024-10-12,3,Y,Y,
+121,IndusInd Nippon Life,IndusInd Nippon Life Smart Zindagi Plus,121N143V02,121N143,N,Individual,Endowment,Savings (Par / Non-Par to confirm),low,,,,,2022-02-14,2024-11-20,2,Y,Y,
+121,IndusInd Nippon Life,Reliance Nippon Life Super Suraksha,121N144V01,121N144,N,Individual?,,Savings (Par / Non-Par to confirm),low,,,,,2022-09-20,2022-09-20,1,N,Y,"Not in Council Sep-2026 list: check insurer website (may be withdrawn, group, or Council gap)"
+121,IndusInd Nippon Life,IndusInd Nippon Life Nishchit Bhavishya,121N145V02,121N145,N,Individual,Endowment,Savings (Par / Non-Par to confirm),low,,,,,2023-03-30,2024-10-05,2,Y,Y,
+121,IndusInd Nippon Life,IndusInd Nippon Life,121N147V01,121N147,N,Group,Jan Suraksha Kavach Group Term,OUT: group,high,,,,,2025-01-20,2025-01-20,1,Y,Y,
+121,IndusInd Nippon Life,IndusInd Nippon Life Super Suraksha Elite,121N148V01,121N148,N,Individual,Term,Protection,high,,,,,2025-03-06,2025-03-06,1,Y,Y,
+121,IndusInd Nippon Life,IndusInd Nippon Life Super Suraksha Plus,121N149V02,121N149,N,Individual,Term,Protection,high,,,,,2025-04-06,2025-04-06,1,Y,Y,IRDAI latest version 121N149V01
+121,IndusInd Nippon Life,IndusInd Nippon Life,121N150V01,121N150,N,Group,Employee Benefit Plus Group Fund Based Life Insurance,OUT: group,high,,,,,2025-03-10,2025-03-10,1,Y,Y,
+121,IndusInd Nippon Life,IndusInd Nippon Life,121N151V01,121N151,N,Group,Credit Protection Plus Group Term,OUT: group,high,,,,,2025-09-23,2025-09-23,1,Y,Y,
+121,IndusInd Nippon Life,IndusInd Nippon Life,121N152V01,121N152,N,Group,Traditional Superannuation Plus Group Pension,OUT: group,high,,,,,2025-08-15,2025-08-15,1,Y,Y,
+121,IndusInd Nippon Life,IndusInd Nippon Life Cancer Shield Plan,121N153V01,121N153,N,Individual,Health,OUT: health,high,,,,,,,0,Y,not listed,
+121,IndusInd Nippon Life,IndusInd Nippon Life Secure Shield Plan,121N154V01,121N154,N,Individual,Endowment,Savings (Par / Non-Par to confirm),low,,,,,,,0,Y,not listed,
+121,IndusInd Nippon Life,IndusInd Nippon Life Nishchit Samrudhi Plus,121N156V03,121N156,N,Individual,Endowment,Savings (Par / Non-Par to confirm),low,,,,,2023-05-26,2024-10-05,3,Y,Y,
+121,IndusInd Nippon Life,IndusInd Nippon Life Smart Total Advantage Return,121N157V02,121N157,N,Individual,Endowment,Savings (Par / Non-Par to confirm),low,,,,,2024-04-22,2024-12-13,2,Y,Y,
+121,IndusInd Nippon Life,IndusInd Nippon Life Nishchit Pension,121N158V03,121N158,N,Individual,Annuity,Annuity,high,,,,,2024-09-18,2025-12-05,3,Y,Y,
+121,IndusInd Nippon Life,IndusInd Nippon Life Super Assured Future Endowment,121N159V01,121N159,N,Individual,Endowment,Savings (Par / Non-Par to confirm),low,,,,,2024-09-25,2024-09-25,1,Y,Y,
+121,IndusInd Nippon Life,IndusInd Nippon Life Nishchit Ace,121N180V01,121N180,N,Individual,Endowment,Savings (Par / Non-Par to confirm),low,,,,,2024-12-01,2024-12-01,1,Y,Y,
+121,IndusInd Nippon Life,IndusInd Nippon Life Guaranteed Money Back Plus,121N181V02,121N181,N,Individual,Endowment,Savings (Par / Non-Par to confirm),low,,,,,2024-12-02,2025-06-06,2,Y,Y,
+121,IndusInd Nippon Life,IndusInd Nippon Life Guaranteed Advantage Income Plan,121N182V02,121N182,N,Individual,Endowment,Savings (Par / Non-Par to confirm),low,,,,,2025-06-26,2025-11-27,2,Y,Y,
+121,IndusInd Nippon Life,IndusInd Nippon Life Guaranteed Earnings for Milestone,121N183V02,121N183,N,Individual,Endowment,Savings (Par / Non-Par to confirm),low,,,,,,,0,Y,not listed,
+121,IndusInd Nippon Life,IndusInd Nippon Life Nishchit Pension Pro,121N184V01,121N184,N,Individual,Annuity,Annuity,high,,,,,,,0,Y,not listed,
+122,Aviva Life,Aviva,122L090V03,122L090,L,Group,Gratuity Advantage Group ULIP,OUT: group,high,,,,,2011-01-03,2020-02-03,3,Y,Y,
+122,Aviva Life,Aviva New,122L091V03,122L091,L,Group,Leave Encashment Group ULIP,OUT: group,high,,,,,2011-01-31,2020-02-03,3,Y,Y,
+122,Aviva Life,Aviva Affluence,122L111V03,122L111,L,Individual,ULIP,ULIP,high,,,,,2016-02-08,2024-02-01,3,Y,Y,
+122,Aviva Life,Aviva Fortune Plus,122L137V02,122L137,L,Individual,ULIP,ULIP,high,,,,,2021-07-05,2024-02-01,2,Y,Y,
+122,Aviva Life,Aviva Signature Investment Plan,122L144V02,122L144,L,Individual,ULIP,ULIP,high,,,,,2023-01-09,2023-08-11,2,Y,Y,
+122,Aviva Life,Aviva Signature Investment Plan-LP,122L150V03,122L150,L,Individual,ULIP,ULIP,high,,,,,2023-10-30,2025-03-05,3,Y,Y,
+122,Aviva Life,Aviva Signature Investment Plan-Platinum,122L151V01,122L151,L,Individual,ULIP,ULIP,high,,,,,2024-07-02,2024-07-02,1,Y,Y,
+122,Aviva Life,Annuity Plus,122N018V04,122N018,N,Individual?,,Annuity,low (name only),,,,,2003-01-21,2015-02-19,4,N,Y,"Not in Council Sep-2026 list: check insurer website (may be withdrawn, group, or Council gap)"
+122,Aviva Life,Aviva Corporate Life Plus,122N067V03,122N067,N,Individual?,,Savings (Par / Non-Par to confirm),low,,,,,2009-06-18,2013-05-15,3,N,Y,"Not in Council Sep-2026 list: check insurer website (may be withdrawn, group, or Council gap)"
+122,Aviva Life,Aviva,122N080V02,122N080,N,Group,Life Protect Group Term,OUT: group,high,,,,,2010-08-02,2013-05-15,2,Y,Y,
+122,Aviva Life,Aviva New Traditional Employee Benefit Plan,122N102V02,122N102,N,Group,Non Linked Endowment Fund Based,OUT: group,high,,,,,2013-07-08,2020-02-03,2,Y,Y,
+122,Aviva Life,Aviva Credit Assure,122N112V02,122N112,N,Individual?,,Protection,low (name only),,,,,2016-10-19,2017-11-08,2,N,Y,"Not in Council Sep-2026 list: check insurer website (may be withdrawn, group, or Council gap)"
+122,Aviva Life,Aviva,122N116V01,122N116,N,Group,Credit Life Group Term,OUT: group,high,,,,,2017-08-24,2017-08-24,1,Y,Y,
+122,Aviva Life,POS Aviva Dhan Suraksha,122N132V03,122N132,N,Individual,Endowment,Savings (Par / Non-Par to confirm),low,,,,,2018-06-06,2024-10-01,3,Y,Y,
+122,Aviva Life,Aviva Saral Jeevan Bima,122N135V01,122N135,N,Individual,Term,Protection,high,,,,,2021-01-27,2021-01-27,1,Y,Y,
+122,Aviva Life,Aviva Saral Pension,122N138V03,122N138,N,Individual,Annuity,Annuity,high,,,,,2021-05-19,2023-01-13,2,Y,Y,IRDAI latest version 122N138V02
+122,Aviva Life,Aviva New,122N141V03,122N141,N,Group,Term Life Group Term,OUT: group,high,,,,,2022-09-05,2023-10-30,3,Y,Y,
+122,Aviva Life,Aviva,122N143V01,122N143,N,Group,Micro Insurance Plan Group Term,OUT: group,high,,,,,2022-09-23,2022-09-23,1,Y,Y,
+122,Aviva Life,Aviva Signature Guaranteed Income Plan,122N146V03,122N146,N,Individual,Endowment,Savings (Par / Non-Par to confirm),low,,,,,2023-01-31,2024-10-07,3,Y,Y,
+122,Aviva Life,Aviva Pravasi Bhartiya Jeevan Bima Yojana,122N147V02,122N147,N,Group,Term,OUT: group,high,,,,,2023-05-19,2023-10-30,2,Y,Y,
+122,Aviva Life,Aviva Signature 3D Term Plan,122N148V02,122N148,N,Individual,Term,Protection,high,,,,,2023-08-18,2024-10-01,2,Y,Y,
+122,Aviva Life,Aviva New Corporate Life,122N149V01,122N149,N,Group,Term,OUT: group,high,,,,,2023-08-25,2023-08-25,1,Y,Y,
+122,Aviva Life,Aviva Signature,122N151V01,122N151,N,Group,"Traditional Employee Benefit Plan Group Non - Linked, Non - Participating Group Savings Plan",OUT: group,high,,,,,2024-10-01,2024-10-01,1,Y,Y,
+122,Aviva Life,Aviva Signature 3D Term Plan-Platinum,122N153V02,122N153,N,Individual,Term,Protection,high,,,,,2024-12-20,2025-04-07,2,Y,Y,
+122,Aviva Life,Aviva Signature Increasing Income Plan,122N158V01,122N158,N,Individual,Endowment,Savings (Par / Non-Par to confirm),low,,,,,2024-09-05,2024-09-05,1,Y,Y,
+122,Aviva Life,Aviva Smart Vitals,122N159V02,122N159,N,Individual,Health,OUT: health,high,,,,,2025-12-03,2025-12-03,1,Y,Y,IRDAI latest version 122N159V01
+122,Aviva Life,Aviva Affinity,122N160V01,122N160,N,Group,Term Life Group Term,OUT: group,high,,,,,,,0,Y,not listed,
+122,Aviva Life,Aviva Smart Return of Premium Term Plan,122N161V01,122N161,N,Individual,Term with Return of Premium,Protection,high,,,,,,,0,Y,not listed,
+122,Aviva Life,Aviva Bharat Parivar Vikas Yojana,122N179V02,122N179,N,Individual,"Non-Linked, Participating Life Insurance Plan",Savings (Par / Non-Par to confirm),low,,,,,2024-10-04,2025-01-27,2,Y,Y,
+122,Aviva Life,Aviva Bharat Bal Vikas Yojana,122N180V01,122N180,N,Individual,"Non - Linked, Non - Participating Life Insurance Plan",Savings (Par / Non-Par to confirm),low,,,,,2025-07-10,2025-07-10,1,Y,Y,
+122,Aviva Life,Aviva Smart Monthly Income Plan,122N181V01,122N181,N,Individual,"Non - Linked, Non - Participating Life Insurance Plan",Savings (Par / Non-Par to confirm),low,,,,,2025-10-29,2025-10-29,1,Y,Y,
+122,Aviva Life,Aviva Secure Nest Annuity Plan,122N182V01,122N182,N,Individual,Annuity,Annuity,high,,,,,,,0,Y,not listed,
+128,Shriram Life,Shriram Fortune Builder Insurance Plan,128L038V04,128L038,L,Individual,Ulip,ULIP,high,,,,,2011-05-12,2020-02-01,3,Y,Y,IRDAI latest version 128L038V03
+128,Shriram Life,Shriram Life New,128L043V01,128L043,L,Group,Gratuity Plan Group Ulip,OUT: group,high,,,,,2013-06-21,2013-06-21,1,Y,Y,
+128,Shriram Life,Shriram Life Pension Plus,128L065V03,128L065,L,Individual,Ulip,ULIP,high,,,,,2016-08-22,2020-02-01,3,Y,Y,
+128,Shriram Life,Shriram Life Growth Plus,128L066V04,128L066,L,Individual,Ulip,ULIP,high,,,,,2016-08-22,2020-02-01,3,Y,Y,IRDAI latest version 128L066V03
+128,Shriram Life,Shriram Life Golden Jubilee Plan,128L095V02,128L095,L,Individual,Ulip,ULIP,high,,,,,2023-05-11,2023-05-11,1,Y,Y,IRDAI latest version 128L095V01
+128,Shriram Life,Shriram Life Wealth Pro,128L096V02,128L096,L,Individual,Ulip,ULIP,high,,,,,2024-01-11,2024-01-11,1,Y,Y,IRDAI latest version 128L096V01
+128,Shriram Life,Shriram,128N040V02,128N040,N,Group,Term Insurance in lieu of EDLI Group Term,OUT: group,high,,,,,2012-08-24,2015-08-11,2,Y,Y,
+128,Shriram Life,Shriram,128N042V05,128N042,N,Group,Term Life Insurance Plan Group Term,OUT: group,high,,,,,2013-04-19,2017-05-22,4,Y,Y,IRDAI latest version 128N042V04
+128,Shriram Life,Shriram Life,128N044V04,128N044,N,Group,Life Potector Plan SP Group Term,OUT: group,high,,,,,2013-07-01,2022-11-02,4,Y,Y,
+128,Shriram Life,Shriram Life Cash Back term Plan,128N045V04,128N045,N,Individual,Term,Protection,high,,,,,2013-10-10,2024-10-15,4,Y,Y,
+128,Shriram Life,Shriram New Shri Life Plan,128N047V04,128N047,N,Individual,Endowment,Savings (Par / Non-Par to confirm),low,,,,,2013-10-24,2024-10-04,3,Y,Y,IRDAI latest version 128N047V03
+128,Shriram Life,Shriram New Shri Vidya,128N051V03,128N051,N,Individual,Endowment,Savings (Par / Non-Par to confirm),low,,,,,2014-02-28,2024-10-04,3,Y,Y,
+128,Shriram Life,Shriram Life Assured Income Plan,128N053V06,128N053,N,Individual,Endowment,Savings (Par / Non-Par to confirm),low,,,,,2014-11-14,2025-08-05,6,Y,Y,
+128,Shriram Life,Shriram Life,128N054V02,128N054,N,Group,Traditional Employee Benefit Plan Group Term,OUT: group,high,,,,,2015-01-13,2020-02-28,2,Y,Y,
+128,Shriram Life,Shriram Life Family Protection Plan,128N061V02,128N061,N,Individual,Term,Protection,high,,,,,2016-03-22,2022-01-13,2,Y,Y,
+128,Shriram Life,Shriram Jana Sahay,128N062V01,128N062,N,Group,Micro,OUT: group,high,,,,,2016-03-22,2016-03-22,1,Y,Y,
+128,Shriram Life,Shriram Life Immediate Annuity Plus,128N063V10,128N063,N,Individual,Annuity,Annuity,high,,,,,2016-04-29,2025-06-13,8,Y,Y,IRDAI latest version 128N063V08
+128,Shriram Life,Shriram Life,128N064V02,128N064,N,Group,Superannuation Plan Group Term,OUT: group,high,,,,,2016-06-13,2020-02-28,2,Y,Y,
+128,Shriram Life,Shriram Life Smart Protection Plan,128N069V05,128N069,N,Individual,Term,Protection,high,,,,,2017-09-11,2024-08-06,5,Y,Y,
+128,Shriram Life,Shiram Life Comprehensive Cancer Care,128N070V02,128N070,N,Individual,Term,OUT: health,low (name only),,,,,2017-10-24,2024-12-31,2,Y,Y,
+128,Shriram Life,Shriram Life Online Term Plan,128N072V01,128N072,N,Individual,Term,Protection,high,,,,,2018-01-10,2018-01-10,1,Y,Y,
+128,Shriram Life,Shriram Life My Spouse Term Plan,128N085V01,128N085,N,Individual,Term,Protection,high,,,,,2019-01-16,2019-01-16,1,Y,Y,
+128,Shriram Life,Shriram Life Sujana,128N086V01,128N086,N,Group,Micro,OUT: group,high,,,,,2019-01-16,2019-01-16,1,Y,Y,
+128,Shriram Life,Shriram Life Super Income Plan,128N087V04,128N087,N,Individual,Endowment,Savings (Par / Non-Par to confirm),low,,,,,2019-05-15,2024-12-31,4,Y,Y,
+128,Shriram Life,Shriram Life Assured Savings Plan,128N089V05,128N089,N,Individual,Endowment,Savings (Par / Non-Par to confirm),low,,,,,2020-10-01,2024-10-04,4,Y,Y,IRDAI latest version 128N089V04
+128,Shriram Life,Shriram Life Smart Protection Plan SP,128N090V03,128N090,N,Individual,Term,Protection,high,,,,,2020-10-29,2023-09-05,3,Y,Y,
+128,Shriram Life,Shriram Life Saral Jeevan Bima,128N091V01,128N091,N,Individual,Term,Protection,high,,,,,2021-02-12,2021-02-12,1,Y,Y,
+128,Shriram Life,Shriram Life Saral Pension,128N092V01,128N092,N,Individual,Pension,Annuity,high,,,,,2021-06-17,2021-06-17,1,Y,Y,
+128,Shriram Life,Shriram Life Early Cash Plan,128N093V04,128N093,N,Individual,Endowment,Savings (Par / Non-Par to confirm),low,,,,,2022-05-17,2025-04-16,3,Y,Y,IRDAI latest version 128N093V03
+128,Shriram Life,Shriram Life Premier Assured Benefit,128N094V07,128N094,N,Individual,Endowment,Savings (Par / Non-Par to confirm),low,,,,,2022-10-07,2025-11-03,6,Y,Y,
+128,Shriram Life,Shriram Life Smart Choice Plan,128N097V03,128N097,N,Individual,Term,Protection,high,,,,,,,0,Y,not listed,
+128,Shriram Life,Shriram Life Flexi Shield Plan,128N098V02,128N098,N,Individual,Term,Protection,high,,,,,2025-10-23,2025-10-23,1,Y,Y,IRDAI latest version 128N098V01
+128,Shriram Life,Shriram Life Deferred Annuity Plan,128N105V03,128N105,N,Individual,Annuity,Annuity,high,,,,,2024-02-16,2024-12-31,3,Y,Y,
+128,Shriram Life,Shriram Life Sunishchit Laabh,128N126V03,128N126,N,Individual,Endowment,Savings (Par / Non-Par to confirm),low,,,,,2024-09-30,2025-11-03,2,Y,Y,
+130,Bharti Life,Bharti AXA Life Future Invest,130L049V05,130L049,L,Individual,ULIP,ULIP,high,,,,,2011-11-04,2024-10-01,5,Y,Y,
+130,Bharti Life,Bharti AXA Life Unit Linked Employee Benefits Plan,130L074V03,130L074,L,Group,ULIP,OUT: group,high,,,,,2017-11-27,2024-10-01,3,Y,Y,
+130,Bharti Life,Bharti AXA Life Grow Wealth,130L088V04,130L088,L,Individual,ULIP,ULIP,high,,,,,2017-09-18,2023-09-18,4,Y,Y,
+130,Bharti Life,Bharti AXA Life Wealth Pro,130L100V03,130L100,L,Individual,ULIP,ULIP,high,,,,,2020-07-27,2023-09-18,3,Y,Y,
+130,Bharti Life,Bharti AXA Life Wealth Maximizer,130L121V01,130L121,L,Individual,ULIP,ULIP,high,,,,,2023-07-12,2023-07-12,1,Y,Y,
+130,Bharti Life,Bharti AXA Life Growth Shield Plus,130L123V01,130L123,L,Individual,ULIP,ULIP,high,,,,,2024-05-16,2024-05-16,1,Y,Y,
+130,Bharti Life,Bharti AXA Life Dream Shield Plus,130L125V01,130L125,L,Individual,ULIP,ULIP,high,,,,,2025-06-05,2025-06-05,1,Y,Y,
+130,Bharti Life,Bharti AXA Life Grow Wealth Ultra,130L128V01,130L128,L,Individual,ULIP,ULIP,high,,,,,2025-09-16,2025-09-16,1,Y,Y,
+130,Bharti Life,Bharti AXA Life loan Secure Plan,130N054V04,130N054,N,Individual?,,Protection,low (name only),,,,,2012-10-09,2021-02-24,4,N,Y,"Not in Council Sep-2026 list: check insurer website (may be withdrawn, group, or Council gap)"
+130,Bharti Life,Bharti AXA Life Flexi Save,130N055V03,130N055,N,Individual?,,Savings (Par / Non-Par to confirm),low,,,,,2013-06-07,2020-01-01,3,N,Y,"Not in Council Sep-2026 list: check insurer website (may be withdrawn, group, or Council gap)"
+130,Bharti Life,Bharti AXA Life Secure Income Plan,130N056V05,130N056,N,Individual?,,Savings (Par / Non-Par to confirm),low,,,,,2013-07-22,2020-05-28,5,N,Y,"Not in Council Sep-2026 list: check insurer website (may be withdrawn, group, or Council gap)"
+130,Bharti Life,Bharti AXA Life Monthly Income Plan+,130N057V03,130N057,N,Individual,Endowment,Savings (Par / Non-Par to confirm),low,,,,,2013-10-10,2024-10-01,3,Y,Y,
+130,Bharti Life,Bharti AXA Aajeevan Sampati +,130N058V03,130N058,N,Individual?,,Savings (Par / Non-Par to confirm),low,,,,,2013-11-11,2020-01-01,3,N,Y,"Not in Council Sep-2026 list: check insurer website (may be withdrawn, group, or Council gap)"
+130,Bharti Life,Bharti AXA Life Elite Advantage,130N060V09,130N060,N,Individual,Endowment,Savings (Par / Non-Par to confirm),low,,,,,2014-08-20,2025-06-05,9,Y,Y,
+130,Bharti Life,Bharti AXA Life Samriddhi,130N061V05,130N061,N,Individual,Endowment,Savings (Par / Non-Par to confirm),low,,,,,2014-12-02,2024-10-01,5,Y,Y,
+130,Bharti Life,Bharti AXA Life Child Advantage,130N065V04,130N065,N,Individual,Endowment,Savings (Par / Non-Par to confirm),low,,,,,2015-09-23,2024-10-01,4,Y,Y,
+130,Bharti Life,Bharti AXA Life Super Series,130N066V04,130N066,N,Individual?,,Savings (Par / Non-Par to confirm),low,,,,,2016-03-15,2021-10-14,4,N,Y,"Not in Council Sep-2026 list: check insurer website (may be withdrawn, group, or Council gap)"
+130,Bharti Life,Bharti AXA Life Monthly Advantage,130N068V05,130N068,N,Individual,Endowment,Savings (Par / Non-Par to confirm),low,,,,,2016-05-18,2024-10-01,5,Y,Y,
+130,Bharti Life,Bharti AXA Life Dhan Varsha,130N070V04,130N070,N,Individual?,,Savings (Par / Non-Par to confirm),low,,,,,2016-09-28,2020-01-01,4,N,Y,"Not in Council Sep-2026 list: check insurer website (may be withdrawn, group, or Council gap)"
+130,Bharti Life,Bharti AXA Life Super Endowment Plan,130N089V02,130N089,N,Individual?,,Savings (Par / Non-Par to confirm),low,,,,,2018-01-02,2020-01-01,2,N,Y,"Not in Council Sep-2026 list: check insurer website (may be withdrawn, group, or Council gap)"
+130,Bharti Life,Bharti AXA Life POS Saral Bachat Yojana,130N090V02,130N090,N,Individual?,,Savings (Par / Non-Par to confirm),low,,,,,2018-02-13,2020-02-29,2,N,Y,"Not in Council Sep-2026 list: check insurer website (may be withdrawn, group, or Council gap)"
+130,Bharti Life,Bharti AXA Life,130N092V02,130N092,N,Group,Loan Protect Group Term,OUT: group,high,,,,,2018-08-20,2024-10-01,2,Y,Y,
+130,Bharti Life,Bharti AXA Life Shining Stars,130N095V04,130N095,N,Individual,Endowment,Savings (Par / Non-Par to confirm),low,,,,,2019-01-25,2024-10-01,4,Y,Y,
+130,Bharti Life,Bharti AXA Life,130N097V02,130N097,N,Group,Term Insurance Plan Group Term,OUT: group,high,,,,,2019-07-02,2024-10-01,2,Y,Y,
+130,Bharti Life,Bharti AXA Life Grameen Jeevan Bima,130N098V02,130N098,N,Individual,Term,Protection,high,,,,,2020-03-31,2024-10-01,2,Y,Y,
+130,Bharti Life,Bharti AXA Life,130N099V03,130N099,N,Group,Term Micro Insurance Plan Group Term,OUT: group,high,,,,,2020-06-24,2024-10-01,3,Y,Y,
+130,Bharti Life,Bharti AXA Life Guaranteed Income Pro,130N101V02,130N101,N,Individual?,,Savings (Par / Non-Par to confirm),low,,,,,2020-11-23,2022-07-13,2,N,Y,"Not in Council Sep-2026 list: check insurer website (may be withdrawn, group, or Council gap)"
+130,Bharti Life,Bharti AXA Life Saral Jeevan Bima,130N102V02,130N102,N,Individual,Term,Protection,high,,,,,2021-01-22,2024-10-01,2,Y,Y,
+130,Bharti Life,Bharti AXA Life Flexi Term Pro,130N103V03,130N103,N,Individual,Term,Protection,high,,,,,2021-02-09,2024-10-01,3,Y,Y,
+130,Bharti Life,Bharti AXA Life Saral Pension,130N104V02,130N104,N,Individual,Annuity,Annuity,high,,,,,2021-05-12,2024-10-01,2,Y,Y,
+130,Bharti Life,Bharti AXA Life,130N105V02,130N105,N,Group,Credit Protection Pro Group Term,OUT: group,high,,,,,2021-07-28,2024-05-07,2,Y,Y,
+130,Bharti Life,Bharti AXA Life Unnati,130N106V02,130N106,N,Individual,Others - Endowment and Whole life,Savings (Par / Non-Par to confirm),low,,,,,2021-09-06,2024-10-01,2,Y,Y,
+130,Bharti Life,Bharti AXA Life Guaranteed Wealth Pro,130N107V13,130N107,N,Individual,Others - Endowment and Income,Savings (Par / Non-Par to confirm),low,,,,,2022-02-02,2025-06-05,10,Y,Y,IRDAI latest version 130N107V10
+130,Bharti Life,Bharti AXA Life Smart Invest Guaranteed Plan,130N108V03,130N108,N,Individual,Endowment,Savings (Par / Non-Par to confirm),low,,,,,2023-01-05,2025-06-05,3,Y,Y,
+130,Bharti Life,Bharti AXA Life Swabhimaan Retirement Plan,130N109V04,130N109,N,Individual,Annuity,Annuity,high,,,,,2023-01-05,2024-10-01,2,Y,Y,IRDAI latest version 130N109V02
+130,Bharti Life,Bharti AXA Life Suraksha,130N110V02,130N110,N,Individual,Term,Protection,high,,,,,2023-02-10,2024-10-01,2,Y,Y,
+130,Bharti Life,Bharti AXA Life Income Laabh,130N122V04,130N122,N,Individual,Others - Income,Savings (Par / Non-Par to confirm),low,,,,,2024-08-07,2025-06-05,4,Y,Y,
+130,Bharti Life,Bharti AXA Life,130N124V01,130N124,N,Group,Term Life – Employer Employee Group Term,OUT: group,high,,,,,2025-03-29,2025-03-29,1,Y,Y,
+130,Bharti Life,Bharti AXA Life,130N126V01,130N126,N,Group,Employee Benefit Builder Group Others - Savings,OUT: group,high,,,,,2025-09-16,2025-09-16,1,Y,Y,
+130,Bharti Life,Bharti AXA Life,130N127V01,130N127,N,Group,Superannuation Builder Group Pension,OUT: group,high,,,,,2025-09-16,2025-09-16,1,Y,Y,
+130,Bharti Life,Bharti AXA Life Secure InstaIncome Plan,130N143V01,130N143,N,Individual?,,Savings (Par / Non-Par to confirm),low,,,,,2024-12-28,2024-12-28,1,N,Y,"Not in Council Sep-2026 list: check insurer website (may be withdrawn, group, or Council gap)"
+130,Bharti Life,Bharti AXA Life Guaranteed Bachat Plan,130N144V01,130N144,N,Individual,Others - Income,Savings (Par / Non-Par to confirm),low,,,,,2025-07-10,2025-07-10,1,Y,Y,
+130,Bharti Life,Bharti AXA Life Insta Gain Plan,130N145V03,130N145,N,Individual,Others - Income,Savings (Par / Non-Par to confirm),low,,,,,2025-09-16,2025-09-16,1,Y,Y,IRDAI latest version 130N145V01
+130,Bharti Life,Bharti AXA Life Vantage Income Plan,130N146V01,130N146,N,Individual,Others - Income,Savings (Par / Non-Par to confirm),low,,,,,,,0,Y,not listed,
+133,Generali Central Life,Future Generali Select Insurance Plan,133L033V02,133L033,L,Individual?,,ULIP,high,,,,,2010-08-27,2013-09-28,2,N,Y,"Not in Council Sep-2026 list: check insurer website (may be withdrawn, group, or Council gap)"
+133,Generali Central Life,Generali Central Bima Advantage Plus,133L049V04,133L049,L,Individual,Ulip,ULIP,high,,,,,2014-01-08,2024-12-31,4,Y,Y,
+133,Generali Central Life,Generali Central Dhan Vridhi,133L050V04,133L050,L,Individual,Ulip,ULIP,high,,,,,2014-01-08,2024-11-21,4,Y,Y,
+133,Generali Central Life,Generali Central Comprehensive Employee Benefits Plan,133L080V02,133L080,L,Group,Ulip,OUT: group,high,,,,,2018-07-27,,2,Y,withdrawn,IRDAI list shows withdrawn (Dec-2025) but Council lists in-force (Sep-2026)
+133,Generali Central Life,Generali Central Big Dreams Plan,133L081V03,133L081,L,Individual,Ulip,ULIP,high,,,,,2018-10-12,2024-11-21,3,Y,Y,
+133,Generali Central Life,Generali Central Sampoorna Samadhaan Plan,133L102V01,133L102,L,Individual,Ulip,ULIP,high,,,,,,,0,Y,not listed,
+133,Generali Central Life,Generali Central,133N003V05,133N003,N,Group,Term Life Insurance Plan Group Term,OUT: group,high,,,,,2007-10-23,2024-10-29,5,Y,Y,
+133,Generali Central Life,Generali Central Care Plus,133N030V06,133N030,N,Individual,Term,Protection,high,,,,,2010-08-02,2024-12-05,6,Y,Y,
+133,Generali Central Life,Generali Central,133N043V04,133N043,N,Group,Superannuation Plan Group Endowment,OUT: group,high,,,,,2013-07-01,2024-10-16,4,Y,Y,
+133,Generali Central Life,Generali Central,133N044V04,133N044,N,Group,Leave Encashment Plan Group Endowment,OUT: group,high,,,,,2013-07-30,2024-10-16,4,Y,Y,
+133,Generali Central Life,Generali Central,133N045V04,133N045,N,Group,Gratuity Plan Group Endowment,OUT: group,high,,,,,2013-07-30,2024-10-16,4,Y,Y,
+133,Generali Central Life,Generali Central Assured Income Plan,133N054V05,133N054,N,Individual,Endowment,Savings (Par / Non-Par to confirm),low,,,,,2014-12-05,2024-12-31,5,Y,Y,
+133,Generali Central Life,Generali Central Assured Education Plan,133N057V03,133N057,N,Individual,Endowment,Savings (Par / Non-Par to confirm),low,,,,,2015-05-27,2024-12-31,3,Y,Y,
+133,Generali Central Life,Generali Central New Assure Plus,133N065V03,133N065,N,Individual,Endowment,Savings (Par / Non-Par to confirm),low,,,,,2017-06-05,2024-12-12,3,Y,Y,
+133,Generali Central Life,Generali Central Sampoorn Loan Suraksha,133N066V03,133N066,N,Group,Term,OUT: group,high,,,,,2017-07-31,2024-10-10,3,Y,Y,
+133,Generali Central Life,Future Generali Extra Term Life Plan,133N084V01,133N084,N,Individual?,,Protection,low (name only),,,,,2020-04-19,2020-04-19,1,N,Y,"Not in Council Sep-2026 list: check insurer website (may be withdrawn, group, or Council gap)"
+133,Generali Central Life,Generali Central New Assured Wealth Plan,133N085V05,133N085,N,Individual,Endowment,Savings (Par / Non-Par to confirm),low,,,,,2020-09-16,2025-09-18,4,Y,Y,IRDAI latest version 133N085V04
+133,Generali Central Life,Generali Central Lifetime Partner Plan,133N086V04,133N086,N,Individual,Whole Life,Savings (Par / Non-Par to confirm),low,,,,,2020-12-04,2024-10-24,3,Y,Y,IRDAI latest version 133N086V03
+133,Generali Central Life,Generali Central Saral Jeevan Bima,133N087V01,133N087,N,Individual,Term,Protection,high,,,,,2021-01-27,,1,Y,withdrawn,IRDAI list shows withdrawn (Dec-2025) but Council lists in-force (Sep-2026)
+133,Generali Central Life,Generali Central Money Back Super Plan,133N088V05,133N088,N,Individual,Endowment,Savings (Par / Non-Par to confirm),low,,,,,2021-03-27,2024-10-01,5,Y,Y,
+133,Generali Central Life,Generali Central Saral Pension,133N089V01,133N089,N,Individual,Annuity,Annuity,high,,,,,2021-05-05,,1,Y,withdrawn,IRDAI list shows withdrawn (Dec-2025) but Council lists in-force (Sep-2026)
+133,Generali Central Life,Generali Central Long Term Income Plan,133N090V07,133N090,N,Individual,Endowment,Savings (Par / Non-Par to confirm),low,,,,,2022-06-15,2025-08-07,6,Y,Y,IRDAI latest version 133N090V06
+133,Generali Central Life,Generali Central Single Premium Anchor Plan,133N101V02,133N101,N,Individual,Endowment,Savings (Par / Non-Par to confirm),low,,,,,2024-01-25,2024-12-31,2,Y,Y,
+133,Generali Central Life,Generali Central,133N103V01,133N103,N,Group,Term Micro Insurance Plan Group Term,OUT: group,high,,,,,,,0,Y,not listed,
+133,Generali Central Life,Generali Central,133N104V01,133N104,N,Group,Traditional Guarantee Plan Group Endowment,OUT: group,high,,,,,,,0,Y,not listed,
+133,Generali Central Life,Generali Central Saral Ashray Yojana,133N105V01,133N105,N,Individual,Term,Protection,high,,,,,,,0,Y,not listed,
+133,Generali Central Life,Generali Central Sunehra Pension Plan,133N122V01,133N122,N,Individual,Pension,Annuity,high,,,,,,,0,Y,not listed,
+135,Ageas Federal Life,Ageas Federal Life Insurance Wealth Gain Insurance Plan,135L047V06,135L047,L,Individual,ULIP,ULIP,high,,,,,2016-12-06,2024-10-01,4,Y,Y,IRDAI latest version 135L047V04
+135,Ageas Federal Life,Ageas Federal Life Insurance Guaranteed Wealth Plan,135L048V08,135L048,L,Individual?,,ULIP,high,,,,,2024-04-12,2024-04-12,1,N,Y,"Not in Council Sep-2026 list: check insurer website (may be withdrawn, group, or Council gap)"
+135,Ageas Federal Life,Ageas Federal Life Insurance,135L052V04,135L052,L,Group,Employee Benefit Plan Group Term,OUT: group,high,,,,,2017-08-04,2025-11-07,4,Y,Y,
+135,Ageas Federal Life,Ageas Federal Life Insurance Smart Growth Plan,135L053V07,135L053,L,Individual,ULIP,ULIP,high,,,,,2018-12-24,2025-11-07,7,Y,Y,
+135,Ageas Federal Life,Ageas Federal Life Insurance Wealthsurance Growth Insurance Plan SP II,135L082V02,135L082,L,Individual,ULIP,ULIP,high,,,,,2022-04-28,2023-11-10,2,Y,Y,
+135,Ageas Federal Life,Ageas Federal Life Insurance Platinum Wealth Builder Plan,135L089V02,135L089,L,Individual,ULIP,ULIP,high,,,,,2023-05-16,2024-02-01,2,Y,Y,
+135,Ageas Federal Life,Ageas Federal Life Insurance Golden Years Pension Plan,135L100V01,135L100,L,Individual,Pension,ULIP,high,,,,,2023-11-09,2023-11-09,1,Y,Y,
+135,Ageas Federal Life,Ageas Federal Life Insurance ProGrow Plan,135L101V01,135L101,L,Individual,ULIP,ULIP,high,,,,,2025-04-24,2025-04-24,1,Y,Y,
+135,Ageas Federal Life,Ageas Federal Termsurance Life Protection Insurance Plan,135N040V03,135N040,N,Individual,Term,Protection,high,,,,,2015-03-16,2024-12-31,3,Y,Y,
+135,Ageas Federal Life,Ageas Federal Life Insurance Guaranteed Wealth Plan,135N048V09,135N048,N,Individual,Endowment,Savings (Par / Non-Par to confirm),low,,,,,2017-03-01,2024-12-04,9,Y,Y,
+135,Ageas Federal Life,Ageas Federal Life Insurance Guaranteed Income Plan,135N050V05,135N050,N,Individual,Endowment,Savings (Par / Non-Par to confirm),low,,,,,2017-05-25,2024-12-24,4,Y,Y,IRDAI latest version 135N050V04
+135,Ageas Federal Life,AGEAS Federal Life Insurance Guaranteed Savings Plan,135N071V02,135N071,N,Individual?,,Savings (Par / Non-Par to confirm),low,,,,,2019-04-22,2019-11-06,2,N,Y,"Not in Council Sep-2026 list: check insurer website (may be withdrawn, group, or Council gap)"
+135,Ageas Federal Life,Ageas Federal Life Insurance Guaranteed Lifetime Income Plan,135N073V04,135N073,N,Individual,Annuity,Annuity,high,,,,,2019-07-16,2024-12-16,4,Y,Y,
+135,Ageas Federal Life,Ageas Federal Life Insurance Young Star Plus Plan,135N076V03,135N076,N,Individual,Endowment,Savings (Par / Non-Par to confirm),low,,,,,2020-11-06,2024-11-04,3,Y,Y,
+135,Ageas Federal Life,AGEAS Federal Life Insurance Guaranteed Lifetime Income Plan II,135N077V01,135N077,N,Individual?,,Savings (Par / Non-Par to confirm),low,,,,,2020-11-09,2020-11-09,1,N,Y,"Not in Council Sep-2026 list: check insurer website (may be withdrawn, group, or Council gap)"
+135,Ageas Federal Life,Ageas Federal Life Insurance Life Advantage Plus Plan,135N078V02,135N078,N,Individual,Endowment,Savings (Par / Non-Par to confirm),low,,,,,2021-02-02,2024-12-10,2,Y,Y,
+135,Ageas Federal Life,Ageas Federal Life Insurance Saral Jeevan Bima,135N079V01,135N079,N,Individual,Term,Protection,high,,,,,2021-02-10,2021-02-10,1,Y,Y,
+135,Ageas Federal Life,Ageas Federal Life Insurance Saral Pension,135N080V02,135N080,N,Individual,Annuity,Annuity,high,,,,,2021-04-19,2024-12-31,2,Y,Y,
+135,Ageas Federal Life,Ageas Federal Life Insurance,135N081V02,135N081,N,Group,Loan Secure Plan II Group Term,OUT: group,high,,,,,2022-04-13,2023-09-02,2,Y,Y,
+135,Ageas Federal Life,Ageas Federal Life Insurance Assured Income Plan,135N083V05,135N083,N,Individual,Endowment,Savings (Par / Non-Par to confirm),low,,,,,2022-05-26,2024-10-01,5,Y,Y,
+135,Ageas Federal Life,Ageas Federal Life Insurance Criti Care Plan,135N085V02,135N085,N,Individual,Health,OUT: health,high,,,,,2022-11-29,2024-12-31,2,Y,Y,
+135,Ageas Federal Life,Ageas Federal Life Insurance,135N086V03,135N086,N,Group,Microsurance Plan II Group Term,OUT: group,high,,,,,2023-01-13,2024-10-01,3,Y,Y,
+135,Ageas Federal Life,Ageas Federal Life Insurance,135N087V03,135N087,N,Group,Credit Shield Plan II Group Term,OUT: group,high,,,,,2023-02-04,2024-10-01,3,Y,Y,
+135,Ageas Federal Life,Ageas Federal Life Insurance iSecure Plan,135N088V02,135N088,N,Individual,Term,Protection,high,,,,,2023-04-25,2024-11-25,2,Y,Y,
+135,Ageas Federal Life,Ageas Federal Life Insurance,135N091V03,135N091,N,Group,Term Life Plan II Group Term,OUT: group,high,,,,,2023-09-06,2024-12-10,3,Y,Y,
+135,Ageas Federal Life,Ageas Federal Life Insurance,135N092V01,135N092,N,Group,Home Secure Plan Group Term,OUT: group,high,,,,,2024-07-01,2024-07-01,1,Y,Y,
+135,Ageas Federal Life,Ageas Federal Life Insuarnce MAGIC Savings Plan,135N098V04,135N098,N,Individual,Endowment,Savings (Par / Non-Par to confirm),low,,,,,2023-09-15,2025-05-08,3,Y,Y,IRDAI latest version 135N098V03
+135,Ageas Federal Life,Ageas Federal Life Insurance Super Cash Plan,135N099V02,135N099,N,Individual,Endowment,Savings (Par / Non-Par to confirm),low,,,,,2023-10-11,2024-10-01,2,Y,Y,
+135,Ageas Federal Life,Ageas Federal Life Insurance Super Protect Plan,135N102V01,135N102,N,Individual,Term,Protection,high,,,,,2025-10-15,2025-10-15,1,Y,Y,
+135,Ageas Federal Life,Ageas Federal Life Insurance Super Protect Plus Plan,135N104V01,135N104,N,Individual,Term,Protection,high,,,,,,,0,Y,not listed,
+135,Ageas Federal Life,Ageas Federal Life Insurance Super Cash Supreme Plan,135N121V01,135N121,N,Individual,Endowment,Savings (Par / Non-Par to confirm),low,,,,,2025-01-04,2025-01-04,1,Y,Y,
+135,Ageas Federal Life,Ageas Federal Life Insurance Easy Save Plan,135N122V01,135N122,N,Individual,Endowment,Savings (Par / Non-Par to confirm),low,,,,,2025-11-07,2025-11-07,1,Y,Y,
+135,Ageas Federal Life,Ageas Federal Life Insurance Retire Smart Plan,135N123V01,135N123,N,Individual,Pension,Annuity,high,,,,,,,0,Y,not listed,
+136,Canara HSBC Life,Canara HSBC Life Insurance Wealth Edge,136L085V04,136L085,L,Individual,Unit Linked Endowment,ULIP,high,,,,,2022-12-21,2025-11-10,4,Y,Y,
+136,Canara HSBC Life,Canara HSBC Life Insurance Alpha Wealth,136L088V02,136L088,L,Individual,Unit Linked Endowment,ULIP,high,,,,,2023-12-11,2025-03-10,2,Y,Y,
+136,Canara HSBC Life,Canara HSBC Life Insurance Promise4Growth,136L089V02,136L089,L,Individual,Unit Linked Endowment,ULIP,high,,,,,2024-03-21,2025-09-22,2,Y,Y,
+136,Canara HSBC Life,Canara HSBC Life Insurance SecureInvest,136L092V02,136L092,L,Individual,Unit Linked Endowment,ULIP,high,,,,,2025-07-20,2025-11-10,2,Y,Y,
+136,Canara HSBC Life,Canara HSBC Life Insurance Promise4Growth Plus,136L093V01,136L093,L,Individual,Unit Linked Endowment,ULIP,high,,,,,2025-04-04,2025-04-04,1,Y,Y,
+136,Canara HSBC Life,Canara HSBC Life Insurance EZ Pension,136L094V01,136L094,L,Individual,Individual Linked Pension,ULIP,high,,,,,2025-08-08,2025-08-08,1,Y,Y,
+136,Canara HSBC Life,Canara HSBC Life Insurance Legacy Builder,136L095V01,136L095,L,Individual,Unit Linked Pension Plan,ULIP,high,,,,,,,0,Y,not listed,
+136,Canara HSBC Life,Canara HSBC Life Insurance Promise4Wealth,136L096V01,136L096,L,Individual,Unit Linked Endowment,ULIP,high,,,,,,,0,Y,not listed,
+136,Canara HSBC Life,Canara HSBC Oriental Bank of Commerce Life Pure Term Plan,136N006V02,136N006,N,Individual?,,Protection,low (name only),,,,,2008-12-01,2013-09-17,2,N,Y,"Not in Council Sep-2026 list: check insurer website (may be withdrawn, group, or Council gap)"
+136,Canara HSBC Life,Canara HSBC Life,136N014V03,136N014,N,Group,Traditional Plan Group Non-Linked,OUT: group,high,,,,,2010-08-27,2024-10-01,3,Y,Y,
+136,Canara HSBC Life,Canara HSBC Life Insurance Sampoorna Kavach Plan,136N022V03,136N022,N,Group,Non-linked Term,OUT: group,high,,,,,2012-11-06,2024-10-01,3,Y,Y,
+136,Canara HSBC Life,Canara HSBC Life Insurance,136N024V07,136N024,N,Group,Secure Group Non-Linked Credit Life,OUT: group,high,,,,,2013-04-15,2024-09-09,7,Y,Y,
+136,Canara HSBC Life,Canara HSBC Life,136N070V02,136N070,N,Group,Term Edge Plan Group Non-linked Term,OUT: group,high,,,,,2019-11-25,2024-09-09,2,Y,Y,
+136,Canara HSBC Life,Canara HSBC Life Insurance Pension4life Plan,136N071V11,136N071,N,Individual,Non-Linked Annuity,Annuity,high,,,,,2019-12-19,2025-01-13,11,Y,Y,
+136,Canara HSBC Life,Canara HSBC Life Insurance Saral Jeevan Bima,136N075V02,136N075,N,Individual,Non-linked Term,Protection,high,,,,,2021-02-01,2024-08-12,2,Y,Y,
+136,Canara HSBC Life,Canara HSBC Life Insurance Saral Pension,136N076V03,136N076,N,Individual,Non-Linked Annuity,Annuity,high,,,,,2021-04-27,2024-08-12,3,Y,Y,
+136,Canara HSBC Life,Canara HSBC Life Insurance,136N077V02,136N077,N,Group,Advantage Term Plus Group Non-linked Term,OUT: group,high,,,,,2021-08-25,2024-09-09,2,Y,Y,
+136,Canara HSBC Life,Canara HSBC Life Insurance Guaranteed Suraksha Kavach,136N078V04,136N078,N,Individual,Endowment (Non- Par),Savings (Par / Non-Par to confirm),low,,,,,2021-08-25,2024-10-01,3,Y,Y,IRDAI latest version 136N078V03
+136,Canara HSBC Life,Canara HSBC Life Insurance iSelect Smart360 Term Plan,136N080V02,136N080,N,Individual,Non-linked Term,Protection,high,,,,,2022-02-10,2024-10-01,2,Y,Y,
+136,Canara HSBC Life,Canara HSBC Life Insurance iSelect Guaranteed Future,136N081V08,136N081,N,Individual,Endowment (Non- Par),Savings (Par / Non-Par to confirm),low,,,,,2022-04-01,2025-09-29,7,Y,Y,IRDAI latest version 136N081V07
+136,Canara HSBC Life,Canara HSBC Life Insurance,136N082V02,136N082,N,Group,Asset Secure Group Non-Linked Credit Life,OUT: group,high,,,,,2022-06-08,2024-09-09,2,Y,Y,
+136,Canara HSBC Life,Canara HSBC Life Insurance Guaranteed Fortune Plan,136N084V05,136N084,N,Individual,Endowment (Non- Par),Savings (Par / Non-Par to confirm),low,,,,,2022-11-28,2024-10-01,4,Y,Y,IRDAI latest version 136N084V04
+136,Canara HSBC Life,Canara HSBC Life Insurance Smart Guaranteed Pension,136N086V03,136N086,N,Individual,Non-Linked Annuity,Annuity,high,,,,,2023-01-18,2025-06-06,3,Y,Y,
+136,Canara HSBC Life,Canara HSBC Life Insurance Young Term Plan,136N087V03,136N087,N,Individual,Non-linked Term,Protection,high,,,,,2023-06-12,2024-10-01,3,Y,Y,
+136,Canara HSBC Life,Canara HSBC Life Insurance,136N090V01,136N090,N,Group,Secure Plus Group Non-Linked Credit Life,OUT: group,high,,,,,2025-01-13,2025-01-13,1,Y,Y,
+136,Canara HSBC Life,Canara HSBC Life Insurance Promise2Protect,136N091V01,136N091,N,Individual,Non-linked Term,Protection,high,,,,,2025-02-17,2025-02-17,1,Y,Y,
+136,Canara HSBC Life,Canara HSBC Life Insurance Guaranteed Assured INcome,136N097V04,136N097,N,Individual,Non-linked Endowment,Savings (Par / Non-Par to confirm),low,,,,,2023-07-28,2025-07-07,4,Y,Y,
+136,Canara HSBC Life,Canara HSBC Life Insurance iSelect Guaranteed Future Plus,136N098V06,136N098,N,Individual,Endowment (Non- Par),Savings (Par / Non-Par to confirm),low,,,,,2024-01-22,2025-07-20,3,Y,Y,IRDAI latest version 136N098V03
+136,Canara HSBC Life,Canara HSBC Life Insurance Promise2Secure,136N099V01,136N099,N,Individual,Non-linked Term,Protection,high,,,,,,,0,Y,not listed,
+136,Canara HSBC Life,Canara HSBC Life Insurance Promise4Future,136N119V01,136N119,N,Individual,Non-linked Endowment,Savings (Par / Non-Par to confirm),low,,,,,2024-08-14,2024-08-14,1,Y,Y,
+136,Canara HSBC Life,Canara HSBC Life Insurance Promise4Life,136N120V01,136N120,N,Individual,Endowment (Par),Par,high,,,,,,,0,Y,not listed,
+136,Canara HSBC Life,Canara HSBC Life Insurance IncomeNow,136N121V01,136N121,N,Individual,Endowment (Non- Par),Savings (Par / Non-Par to confirm),low,,,,,,,0,Y,not listed,
+138,Bandhan Life,Aegon Religare Future Protect Plan,138L023V03,138L023,L,Individual?,,ULIP,high,,,,,2010-08-26,2017-01-05,3,N,Y,"Not in Council Sep-2026 list: check insurer website (may be withdrawn, group, or Council gap)"
+138,Bandhan Life,Aegon  Future Protect Plus Plan,138L024V03,138L024,L,Individual?,,ULIP,high,,,,,2010-09-03,2017-01-05,4,N,Y,"Not in Council Sep-2026 list: check insurer website (may be withdrawn, group, or Council gap)"
+138,Bandhan Life,Aegon Religare Rising Star Plan,138L026V03,138L026,L,Individual?,,ULIP,high,,,,,2010-11-01,2017-01-17,3,N,Y,"Not in Council Sep-2026 list: check insurer website (may be withdrawn, group, or Council gap)"
+138,Bandhan Life,Bandhan Life iInvest II,138L089V01,138L089,L,Individual,ULIP,ULIP,high,,,,,2024-09-17,2024-09-17,1,Y,Y,
+138,Bandhan Life,Bandhan Life iInvest Advantage,138L090V01,138L090,L,Individual,ULIP,ULIP,high,,,,,2024-10-15,2024-10-15,1,Y,Y,
+138,Bandhan Life,Bandhan Life ULIP Plus,138L091V01,138L091,L,Individual,ULIP,ULIP,high,,,,,2024-12-30,2024-12-30,1,Y,Y,
+138,Bandhan Life,Bandhan Life iInvest Pension,138L092V01,138L092,L,Individual,ULIP,ULIP,high,,,,,2024-12-31,2024-12-31,1,Y,Y,
+138,Bandhan Life,Bandhan Life iInvest Ultima,138L098V01,138L098,L,Individual,ULIP,ULIP,high,,,,,,,0,Y,not listed,
+138,Bandhan Life,Bandhan Life iInvest Ultima Plus,138L099V01,138L099,L,Individual,ULIP,ULIP,high,,,,,,,0,Y,not listed,
+138,Bandhan Life,Bandhan Life Insta Pension Insurance Plan,138N011V03,138N011,N,Individual,Annuity,Annuity,high,,,,,2009-01-01,2024-12-30,3,Y,Y,
+138,Bandhan Life,Bandhan Life Rural Term Insurance Plan,138N048V02,138N048,N,Individual,Term,Protection,high,,,,,2013-03-14,2020-10-01,2,Y,Y,
+138,Bandhan Life,Bandhan Life,138N062V01,138N062,N,Group,Term Plus Insurance Plan Group Term,OUT: group,high,,,,,2017-07-25,2017-07-25,1,Y,Y,
+138,Bandhan Life,Bandhan Life Saral Jeevan Bima,138N077V01,138N077,N,Individual,Term,Protection,high,,,,,2021-02-01,2021-02-01,1,Y,Y,
+138,Bandhan Life,Bandhan Life Saral Pension,138N078V01,138N078,N,Individual,Annuity,Annuity,high,,,,,2021-04-09,2021-04-09,1,Y,Y,
+138,Bandhan Life,Bandhan Life,138N079V01,138N079,N,Group,Credit Protection Insurance Plan Group Term,OUT: group,high,,,,,2021-10-01,2021-10-01,1,Y,Y,
+138,Bandhan Life,Aegon Life iTerm Classic,138N080V01,138N080,N,Individual?,,Savings (Par / Non-Par to confirm),low,,,,,2022-06-14,2022-06-14,1,N,Y,"Not in Council Sep-2026 list: check insurer website (may be withdrawn, group, or Council gap)"
+138,Bandhan Life,Aegon Life Group Micro Insurance Plan,138N081V01,138N081,N,Group?,,OUT: group,high,,,,,2022-06-21,2022-06-21,1,N,Y,"Not in Council Sep-2026 list: check insurer website (may be withdrawn, group, or Council gap)"
+138,Bandhan Life,Bandhan Life iTerm Comfort,138N082V01,138N082,N,Individual,Term,Protection,high,,,,,2022-07-01,2022-07-01,1,Y,Y,
+138,Bandhan Life,Bandhan Life iGuarantee Max Savings,138N083V03,138N083,N,Individual?,,Savings (Par / Non-Par to confirm),low,,,,,2022-10-18,2024-10-01,3,N,Y,"Not in Council Sep-2026 list: check insurer website (may be withdrawn, group, or Council gap)"
+138,Bandhan Life,Bandhan Life iTerm Prime,138N084V03,138N084,N,Individual,Term,Protection,high,,,,,2022-12-23,2025-11-12,3,Y,Y,
+138,Bandhan Life,Aegon Life Group Credit Safety Insurance Plan,138N085V01,138N085,N,Group?,,OUT: group,high,,,,,2023-01-31,2023-01-31,1,N,Y,"Not in Council Sep-2026 list: check insurer website (may be withdrawn, group, or Council gap)"
+138,Bandhan Life,Bandhan Life Akhil Bharat Term Plan,138N086V01,138N086,N,Individual,Term,Protection,high,,,,,2023-05-25,2023-05-25,1,Y,Y,
+138,Bandhan Life,Bandhan Life,138N087V01,138N087,N,Group,iCredit Insurance Plan Group Term,OUT: group,high,,,,,2023-08-21,2023-08-21,1,Y,Y,
+138,Bandhan Life,Bandhan Life,138N088V01,138N088,N,Group,Care Micro Insurance Plan Group Term,OUT: group,high,,,,,2023-08-21,2023-08-21,1,Y,Y,
+138,Bandhan Life,Bandhan Life iTerm Return of Premium,138N094V01,138N094,N,Individual,Term,Protection,high,,,,,,,0,Y,not listed,
+138,Bandhan Life,Bandhan Life iTerm Elite,138N095V01,138N095,N,Individual,Term,Protection,high,,,,,,,0,Y,not listed,
+138,Bandhan Life,Bandhan Life iGuarantee Vishwas,138N096V04,138N096,N,Individual,Endowment,Savings (Par / Non-Par to confirm),low,,,,,2024-03-18,2025-02-28,3,Y,Y,IRDAI latest version 138N096V03
+138,Bandhan Life,Bandhan Life Shubh Samriddhi,138N097V01,138N097,N,Individual,Endowment,Savings (Par / Non-Par to confirm),low,,,,,2024-10-15,2024-10-15,1,Y,Y,
+138,Bandhan Life,Bandhan Life Guaranteed Income Plan,138N118V02,138N118,N,Individual,Endowment,Savings (Par / Non-Par to confirm),low,,,,,2024-12-23,2024-12-23,1,Y,Y,IRDAI latest version 138N118V01
+138,Bandhan Life,Bandhan Life iIncome Wealth,138N119V01,138N119,N,Individual,Endowment,Savings (Par / Non-Par to confirm),low,,,,,2025-04-21,2025-04-21,1,Y,Y,
+138,Bandhan Life,Bandhan Life iRetire,138N120V01,138N120,N,Individual,Annuity,Annuity,high,,,,,2025-09-02,2025-09-02,1,Y,Y,
+138,Bandhan Life,Bandhan Life iGuarantee Assurance,138N121V01,138N121,N,Individual,Endowment,Savings (Par / Non-Par to confirm),low,,,,,,,0,Y,not listed,
+138,Bandhan Life,Bandhan Life iGuarantee ChildAssure,138N122V01,138N122,N,Individual,Endowment,Savings (Par / Non-Par to confirm),low,,,,,,,0,Y,not listed,
+140,Pramerica Life,Pramerica Life Wealth+ Ace,140L025V03,140L025,L,Individual,ULIP,ULIP,high,,,,,,,0,Y,not listed,
+140,Pramerica Life,Pramerica Life Smart Wealth+,140L041V05,140L041,L,Individual,ULIP,ULIP,high,,,,,,,0,Y,not listed,
+140,Pramerica Life,Pramerica Life Wealth Maximiser,140L060V03,140L060,L,Individual,ULIP,ULIP,high,,,,,,,0,Y,not listed,
+140,Pramerica Life,Pramerica Life Wealth Enhancer,140L070V02,140L070,L,Individual,ULIP,ULIP,high,,,,,,,0,Y,not listed,
+140,Pramerica Life,Pramerica Life Smart Invest,140L081V01,140L081,L,Individual,ULIP,ULIP,high,,,,,,,0,Y,not listed,
+140,Pramerica Life,Pramerica Life Smart Invest 1 UP,140L084V04,140L084,L,Individual,ULIP,ULIP,high,,,,,,,0,Y,not listed,
+140,Pramerica Life,Pramerica Life NextGen Pension Plan,140L085V01,140L085,L,Individual,ULIP,ULIP,high,,,,,,,0,Y,not listed,
+140,Pramerica Life,Pramerica Life,140L086V01,140L086,L,Group,ULIP Employee Benefit Plan Group ULIP,OUT: group,high,,,,,,,0,Y,not listed,
+140,Pramerica Life,Pramerica Life Super Investment Plan,140L088V05,140L088,L,Individual,ULIP,ULIP,high,,,,,,,0,Y,not listed,
+140,Pramerica Life,Pramerica Life Invest Shield,140L093V01,140L093,L,Individual,ULIP,ULIP,high,,,,,,,0,Y,not listed,
+140,Pramerica Life,Pramerica Life,140N034V05,140N034,N,Group,Term Plan Group Term,OUT: group,high,,,,,,,0,Y,not listed,
+140,Pramerica Life,Pramerica Life Smart Assure,140N042V06,140N042,N,Individual,Endowment,Savings (Par / Non-Par to confirm),low,,,,,,,0,Y,not listed,
+140,Pramerica Life,Pramerica Life Smart Income,140N044V05,140N044,N,Individual,Endowment,Savings (Par / Non-Par to confirm),low,,,,,,,0,Y,not listed,
+140,Pramerica Life,Pramerica Life Magnum Assure,140N047V03,140N047,N,Individual,Endowment,Savings (Par / Non-Par to confirm),low,,,,,,,0,Y,not listed,
+140,Pramerica Life,Pramerica Life Cancer + Heart Shield,140N057V03,140N057,N,Individual,Health,OUT: health,high,,,,,,,0,Y,not listed,
+140,Pramerica Life,Pramerica Life,140N061V02,140N061,N,Group,Health Kavach Group Health,OUT: group,high,,,,,,,0,Y,not listed,
+140,Pramerica Life,Pramerica Life Saral Jeevan Bima,140N073V01,140N073,N,Individual,Term,Protection,high,,,,,,,0,Y,not listed,
+140,Pramerica Life,Pramerica Life Saral Pension,140N074V01,140N074,N,Individual,Annuity,Annuity,high,,,,,,,0,Y,not listed,
+140,Pramerica Life,Pramerica Life Rakshak Smart,140N075V04,140N075,N,Individual,Endowment,Savings (Par / Non-Par to confirm),low,,,,,,,0,Y,not listed,
+140,Pramerica Life,Pramerica Life,140N076V01,140N076,N,Group,Credit Shield Group Term,OUT: group,high,,,,,,,0,Y,not listed,
+140,Pramerica Life,Pramerica Life Guaranteed Return on Wealth,140N077V03,140N077,N,Individual,Endowment,Savings (Par / Non-Par to confirm),low,,,,,,,0,Y,not listed,
+140,Pramerica Life,Pramerica Life,140N078V01,140N078,N,Group,Secured Employee Benefit Plan Group Others,OUT: group,high,,,,,,,0,Y,not listed,
+140,Pramerica Life,Pramerica Life RockSolid Term Insurance,140N079V01,140N079,N,Individual,Term,Protection,high,,,,,,,0,Y,not listed,
+140,Pramerica Life,Pramerica Life Sarv Jan Suraksha,140N080V01,140N080,N,Group,Term,OUT: group,high,,,,,,,0,Y,not listed,
+140,Pramerica Life,Pramerica Life,140N082V01,140N082,N,Group,Total Protection Group Term,OUT: group,high,,,,,,,0,Y,not listed,
+140,Pramerica Life,Pramerica Life New,140N083V01,140N083,N,Group,Traditional Employee Benefit Plan Group Term,OUT: group,high,,,,,,,0,Y,not listed,
+140,Pramerica Life,Pramerica Life RockSolid Future,140N089V02,140N089,N,Individual,Endowment,Savings (Par / Non-Par to confirm),low,,,,,,,0,Y,not listed,
+140,Pramerica Life,Pramerica Life Flexi Income Plan,140N090V02,140N090,N,Individual,Endowment,Savings (Par / Non-Par to confirm),low,,,,,,,0,Y,not listed,
+140,Pramerica Life,Pramerica Life Signature Wealth,140N091V02,140N091,N,Individual,Endowment,Savings (Par / Non-Par to confirm),low,,,,,,,0,Y,not listed,
+140,Pramerica Life,Pramerica Life,140N092V01,140N092,N,Group,Term Elite Group Term,OUT: group,high,,,,,,,0,Y,not listed,
+140,Pramerica Life,Pramerica Life Assured Wealth Plus,140N112V01,140N112,N,Individual,Endowment,Savings (Par / Non-Par to confirm),low,,,,,,,0,Y,not listed,
+140,Pramerica Life,Pramerica Life Poorna Rakhak,140N113V01,140N113,N,Individual,Endowment,Savings (Par / Non-Par to confirm),low,,,,,,,0,Y,not listed,
+142,Star Union Dai-ichi Life,SUD Life Wealth Builder Plan,142L042V05,142L042,L,Individual,ULIP,ULIP,high,,,,,2014-01-28,2025-10-06,5,Y,Y,
+142,Star Union Dai-ichi Life,SUD Life,142L049V01,142L049,L,Group,Retirement Benefit Plan Group ULIP - Savings,OUT: group,high,,,,,2015-09-14,2015-09-14,1,Y,Y,
+142,Star Union Dai-ichi Life,SUD Life Wealth Creator,142L077V01,142L077,L,Individual,ULIP,ULIP,high,,,,,2020-02-01,2020-02-01,1,Y,Y,
+142,Star Union Dai-ichi Life,SUD Life e-Wealth Royale,142L082V03,142L082,L,Individual,ULIP,ULIP,high,,,,,2021-08-10,2024-09-05,3,Y,Y,
+142,Star Union Dai-ichi Life,SUD Life STAR TULIP,142L091V01,142L091,L,Individual,ULIP,ULIP,high,,,,,2024-09-09,2024-09-09,1,Y,Y,
+142,Star Union Dai-ichi Life,SUD Life Pension Plus,142L093V02,142L093,L,Individual,ULIP - Pension,ULIP,high,,,,,2025-02-18,2025-06-02,2,Y,Y,
+142,Star Union Dai-ichi Life,SUD Life Retirement Royale,142L099V02,142L099,L,Individual,ULIP - Pension,ULIP,high,,,,,2023-11-08,2025-02-04,2,Y,Y,
+142,Star Union Dai-ichi Life,SUD Life Wealth PRO,142L104V01,142L104,L,Individual,ULIP,ULIP,high,,,,,,,0,Y,not listed,
+142,Star Union Dai-ichi Life,Star Union Dai-ichi's Guaranteed Money Back Plan,142N036V06,142N036,N,Individual,Endowment,Savings (Par / Non-Par to confirm),low,,,,,2013-07-02,2024-10-01,6,Y,Y,
+142,Star Union Dai-ichi Life,SUD Life Assured Income Plan,142N045V04,142N045,N,Individual?,,Savings (Par / Non-Par to confirm),low,,,,,2015-03-16,2023-08-07,4,N,Y,"Not in Council Sep-2026 list: check insurer website (may be withdrawn, group, or Council gap)"
+142,Star Union Dai-ichi Life,SUD Life,142N046V04,142N046,N,Group,Term Insurance Plus Group Term,OUT: group,high,,,,,2015-03-24,2023-02-09,4,Y,Y,
+142,Star Union Dai-ichi Life,SUD Life Immediate Annuity Plus,142N048V09,142N048,N,Individual,Annuity,Annuity,high,,,,,2015-06-24,2025-08-09,7,Y,Y,IRDAI latest version 142N048V08
+142,Star Union Dai-ichi Life,SUD Life AAYUSHMAAN,142N050V01,142N050,N,Individual?,,Savings (Par / Non-Par to confirm),low,,,,,2015-10-09,2015-10-09,1,N,Y,"Not in Council Sep-2026 list: check insurer website (may be withdrawn, group, or Council gap)"
+142,Star Union Dai-ichi Life,SUD Life Guaranteed Pension Plan,142N052V01,142N052,N,Individual?,,Annuity,low (name only),,,,,2016-05-09,2016-05-09,1,N,Y,"Not in Council Sep-2026 list: check insurer website (may be withdrawn, group, or Council gap)"
+142,Star Union Dai-ichi Life,SUD Life Aashirwaad,142N053V02,142N053,N,Individual?,,Savings (Par / Non-Par to confirm),low,,,,,2016-07-18,2022-01-17,2,N,Y,"Not in Council Sep-2026 list: check insurer website (may be withdrawn, group, or Council gap)"
+142,Star Union Dai-ichi Life,SUD Life AADARSH,142N054V04,142N054,N,Individual,Endowment,Savings (Par / Non-Par to confirm),low,,,,,2016-09-06,2024-10-01,4,Y,Y,
+142,Star Union Dai-ichi Life,SUD Life - Praptee,142N056V01,142N056,N,Individual?,,Savings (Par / Non-Par to confirm),low,,,,,2017-05-12,2017-05-12,1,N,Y,"Not in Council Sep-2026 list: check insurer website (may be withdrawn, group, or Council gap)"
+142,Star Union Dai-ichi Life,SUD Life Samriddhi,142N057V02,142N057,N,Individual,Endowment,Savings (Par / Non-Par to confirm),low,,,,,2017-08-08,2024-08-06,2,Y,Y,
+142,Star Union Dai-ichi Life,POS - SUD Life Sanchay,142N058V05,142N058,N,Individual,Endowment,Savings (Par / Non-Par to confirm),low,,,,,2017-10-30,2024-10-01,5,Y,Y,
+142,Star Union Dai-ichi Life,SUD Life Elite Assure Plus,142N059V03,142N059,N,Individual?,,Savings (Par / Non-Par to confirm),low,,,,,2018-01-08,2023-08-07,3,N,Y,"Not in Council Sep-2026 list: check insurer website (may be withdrawn, group, or Council gap)"
+142,Star Union Dai-ichi Life,SUD Life Century Plus,142N074V05,142N074,N,Individual,Endowment,Savings (Par / Non-Par to confirm),low,,,,,2018-11-29,2024-10-01,5,Y,Y,
+142,Star Union Dai-ichi Life,SUD Life Century Star,142N075V04,142N075,N,Individual,Endowment,Savings (Par / Non-Par to confirm),low,,,,,2019-11-21,2024-10-01,4,Y,Y,
+142,Star Union Dai-ichi Life,SUD Life Akshay,142N076V01,142N076,N,Individual?,,Savings (Par / Non-Par to confirm),low,,,,,2020-02-07,2020-02-07,1,N,Y,"Not in Council Sep-2026 list: check insurer website (may be withdrawn, group, or Council gap)"
+142,Star Union Dai-ichi Life,SUD Life Saral Jeevan Bima,142N079V01,142N079,N,Individual,Term,Protection,high,,,,,2021-01-20,2021-01-20,1,Y,Y,
+142,Star Union Dai-ichi Life,SUD Life Group Employee Benefit Plan,142N080V01,142N080,N,Group?,,OUT: group,high,,,,,2021-01-29,2021-01-29,1,N,Y,"Not in Council Sep-2026 list: check insurer website (may be withdrawn, group, or Council gap)"
+142,Star Union Dai-ichi Life,SUD Life Saral Pension,142N081V02,142N081,N,Individual,Annuity,Annuity,high,,,,,2021-04-22,2025-06-02,2,Y,Y,
+142,Star Union Dai-ichi Life,SUD Life Century Royale,142N083V05,142N083,N,Individual,Endowment,Savings (Par / Non-Par to confirm),low,,,,,2021-10-20,2024-12-16,5,Y,Y,
+142,Star Union Dai-ichi Life,SUD Life Sampoorna Loan Suraksha Plus,142N084V02,142N084,N,Group,Term,OUT: group,high,,,,,2022-03-09,2023-12-15,2,Y,Y,
+142,Star Union Dai-ichi Life,SUD Life Protect Shield,142N085V02,142N085,N,Individual?,,Protection,low (name only),,,,,2022-06-02,2023-08-07,2,N,Y,"Not in Council Sep-2026 list: check insurer website (may be withdrawn, group, or Council gap)"
+142,Star Union Dai-ichi Life,SUD Life Fortune Royale,142N086V03,142N086,N,Individual,Endowment,Savings (Par / Non-Par to confirm),low,,,,,2022-10-21,2025-07-21,3,Y,Y,
+142,Star Union Dai-ichi Life,SUD Life Century Gold,142N087V04,142N087,N,Individual,Endowment,Savings (Par / Non-Par to confirm),low,,,,,2022-11-19,2025-08-07,4,Y,Y,
+142,Star Union Dai-ichi Life,SUD Life Protect Shield Plus,142N088V03,142N088,N,Individual?,,Protection,low (name only),,,,,2023-03-01,2024-08-06,3,N,Y,"Not in Council Sep-2026 list: check insurer website (may be withdrawn, group, or Council gap)"
+142,Star Union Dai-ichi Life,SUD Life Smart Healthcare,142N089V01,142N089,N,Individual,Others (Health),OUT: health,high,,,,,2023-08-10,2023-08-10,1,Y,Y,
+142,Star Union Dai-ichi Life,SUD Life,142N090V01,142N090,N,Group,Employee Benefit Plus Group Saving,OUT: group,high,,,,,2024-03-06,2024-03-06,2,Y,Y,
+142,Star Union Dai-ichi Life,SUD Life e-Lifeline Term Insurance Plan,142N092V03,142N092,N,Individual,Term,Protection,high,,,,,2024-11-22,2025-08-07,2,Y,Y,IRDAI latest version 142N092V02
+142,Star Union Dai-ichi Life,SUD Life,142N094V01,142N094,N,Group,Micro Term Insurance Plan Group Term,OUT: group,high,,,,,2025-02-25,2025-02-25,1,Y,Y,
+142,Star Union Dai-ichi Life,SUD Life Simple Term Plan,142N095V01,142N095,N,Individual,Term,Protection,high,,,,,,,0,Y,not listed,
+142,Star Union Dai-ichi Life,SUD Life Smart Term Plan,142N096V01,142N096,N,Individual,Term,Protection,high,,,,,2025-06-17,2025-06-17,1,Y,Y,
+142,Star Union Dai-ichi Life,SUD Life Smart Term Return of Premium,142N097V01,142N097,N,Individual,Term,Protection,high,,,,,,,0,Y,not listed,
+142,Star Union Dai-ichi Life,SUD Life Health Assure,142N098V01,142N098,N,Individual,Others (Health),OUT: health,high,,,,,,,0,Y,not listed,
+142,Star Union Dai-ichi Life,SUD Life Century Income,142N100V03,142N100,N,Individual,Endowment,Savings (Par / Non-Par to confirm),low,,,,,2024-01-24,2025-03-03,3,Y,Y,
+142,Star Union Dai-ichi Life,SUD Life Centurion,142N101V02,142N101,N,Individual,Endowment,Savings (Par / Non-Par to confirm),low,,,,,2024-02-09,2024-10-01,2,Y,Y,
+142,Star Union Dai-ichi Life,SUD Life Assured Term Plan,142N102V02,142N102,N,Individual,Term,Protection,high,,,,,,,0,Y,not listed,
+142,Star Union Dai-ichi Life,SUD Life Sarva Suraksha Bima Plan,142N103V01,142N103,N,Individual,Term,Protection,high,,,,,,,0,Y,not listed,
+142,Star Union Dai-ichi Life,SUD Life Guarantee Royale,142N122V02,142N122,N,Individual,Endowment,Savings (Par / Non-Par to confirm),low,,,,,2024-12-13,2024-12-13,1,Y,Y,IRDAI latest version 142N122V01
+142,Star Union Dai-ichi Life,SUD Life Smart Guaranteed Pension Plan,142N123V01,142N123,N,Individual,Pension,Annuity,high,,,,,2025-03-20,2025-03-20,1,Y,Y,
+142,Star Union Dai-ichi Life,SUD Life Fortune Plus,142N124V01,142N124,N,Individual,Endowment,Savings (Par / Non-Par to confirm),low,,,,,2025-09-08,2025-09-08,1,Y,Y,
+142,Star Union Dai-ichi Life,SUD Life Smart Income Plan,142N126V01,142N126,N,Individual,Endowment,Savings (Par / Non-Par to confirm),low,,,,,2025-11-10,2025-11-10,1,Y,Y,
+142,Star Union Dai-ichi Life,SUD Life Assured Returns Plan,142N127V01,142N127,N,Individual,Endowment,Savings (Par / Non-Par to confirm),low,,,,,,,0,Y,not listed,
+142,Star Union Dai-ichi Life,SUD Life Century Assure,142N128V01,142N128,N,Individual,Endowment,Savings (Par / Non-Par to confirm),low,,,,,,,0,Y,not listed,
+143,IndiaFirst Life,IndiaFirst Employee Benefit Plan,143L013V02,143L013,L,Group,Others - Fund based Gratuity / Leave Encashment,OUT: group,high,,,,,2011-01-20,2013-07-30,2,Y,Y,
+143,IndiaFirst Life,IndiaFirst Life Money Balance Plan,143L017V07,143L017,L,Individual,Ulip,ULIP,high,,,,,2011-08-23,2024-09-19,7,Y,Y,
+143,IndiaFirst Life,IndiaFirst Life Wealth Maximizer Plan,143L029V05,143L029,L,Individual,Ulip,ULIP,high,,,,,2016-10-07,2024-10-01,5,Y,Y,
+143,IndiaFirst Life,IndiaFirst Life,143L060V01,143L060,L,Group,UL Superannuation Plan Group Others - Fund based Superannuation,OUT: group,high,,,,,2020-12-11,2020-12-11,1,Y,Y,
+143,IndiaFirst Life,IndiaFirst Life Radiance Smart Invest Plan,143L067V01,143L067,L,Individual,Ulip,ULIP,high,,,,,2022-03-29,2022-03-29,1,Y,Y,
+143,IndiaFirst Life,IndiaFirst Life Term with Unit Linked Insurance Plan,143L072V02,143L072,L,Individual,Ulip,ULIP,high,,,,,2024-07-30,2024-09-13,2,Y,Y,
+143,IndiaFirst Life,IndiaFirst Life Term with ULIP Plus (TULIP Plus),143L073V02,143L073,L,Individual,Ulip,ULIP,high,,,,,2024-11-18,2025-01-06,2,Y,Y,
+143,IndiaFirst Life,IndiaFirst Life Smart Retirement Plan,143L076V02,143L076,L,Individual,Ulip,ULIP,high,,,,,2025-07-21,2025-07-21,1,Y,Y,IRDAI latest version 143L076V01
+143,IndiaFirst Life,IndiaFirst Life TULIP Pro Plan,143L077V01,143L077,L,Individual,Ulip,ULIP,high,,,,,2025-07-11,2025-07-11,1,Y,Y,
+143,IndiaFirst Life,IndiaFirst,143N006V06,143N006,N,Group,Term Plan Group Term,OUT: group,high,,,,,2010-03-15,2023-06-09,6,Y,Y,
+143,IndiaFirst Life,IndiaFirst Life Plan,143N007V03,143N007,N,Individual,Term,Protection,high,,,,,2010-06-15,2023-10-21,3,Y,Y,
+143,IndiaFirst Life,IndiaFirst Life Cash Back Plan,143N024V05,143N024,N,Individual,Endowment,Savings (Par / Non-Par to confirm),low,,,,,2015-03-09,2024-10-01,5,Y,Y,
+143,IndiaFirst Life,IndiaFirst Life Guaranteed Retirement Plan,143N026V02,143N026,N,Individual,Pension,Annuity,high,,,,,2016-01-01,2024-12-31,2,Y,Y,
+143,IndiaFirst Life,IndiaFirst Immediate Annuity Plan,143N027V02,143N027,N,Individual?,,Annuity,low (name only),,,,,2016-03-01,2024-12-31,2,N,Y,"Not in Council Sep-2026 list: check insurer website (may be withdrawn, group, or Council gap)"
+143,IndiaFirst Life,IndiaFirst Life Little Champ Plan,143N035V02,143N035,N,Individual,Endowment,Savings (Par / Non-Par to confirm),low,,,,,2017-10-25,2024-12-31,2,Y,Y,
+143,IndiaFirst Life,IndiaFirst Life,143N039V02,143N039,N,Group,HospiCare (Microinsurance) Plan Group Health,OUT: group,high,,,,,2020-04-27,2024-12-31,2,Y,Y,
+143,IndiaFirst Life,IndiaFirst Life,143N040V02,143N040,N,Group,Living Benefits Plan Group Health,OUT: group,high,,,,,2020-09-24,2024-12-31,2,Y,Y,
+143,IndiaFirst Life,IndiaFirst Life Waiver of Premium Rider,143N049V01,143N049,N,Individual?,,Savings (Par / Non-Par to confirm),low,,,,,2019-02-19,2019-02-19,1,N,Y,"Not in Council Sep-2026 list: check insurer website (may be withdrawn, group, or Council gap)"
+143,IndiaFirst Life,IndiaFirst Life Guaranteed Annuity Plan,143N050V08,143N050,N,Individual,Annuity,Annuity,high,,,,,2019-05-10,2025-12-10,7,Y,Y,IRDAI latest version 143N050V07
+143,IndiaFirst Life,IndiaFirst Life Smart Pay Plan,143N051V04,143N051,N,Individual,Endowment,Savings (Par / Non-Par to confirm),low,,,,,2019-05-28,2024-10-01,4,Y,Y,
+143,IndiaFirst Life,IndiaFirst Life Micro Bachat Plan,143N052V03,143N052,N,Individual?,,OUT: accident/micro,high,,,,,2019-11-25,2024-12-31,3,N,Y,"Not in Council Sep-2026 list: check insurer website (may be withdrawn, group, or Council gap)"
+143,IndiaFirst Life,IndiaFirst Life,143N053V03,143N053,N,Group,Micro Insurance Plan Group Term,OUT: group,high,,,,,2019-12-03,2023-08-18,3,Y,Y,
+143,IndiaFirst Life,IndiaFirst Life Long Guaranteed Income Plan,143N054V06,143N054,N,Individual,Endowment,Savings (Par / Non-Par to confirm),low,,,,,2020-02-07,2024-10-01,6,Y,Y,
+143,IndiaFirst Life,IndiaFirst Life,143N055V02,143N055,N,Group,Loan Protect Plan Group Term,OUT: group,high,,,,,2020-02-28,2023-05-16,2,Y,Y,
+143,IndiaFirst Life,IndiaFirst Life Guaranteed Benefit Plan,143N056V10,143N056,N,Individual,Endowment,Savings (Par / Non-Par to confirm),low,,,,,2020-03-18,2025-06-02,8,Y,Y,IRDAI latest version 143N056V08
+143,IndiaFirst Life,IndiaFirst Life “INSURANCE KHATA” Plan (MicroInsuranceProduct),143N057V03,143N057,N,Individual,Endowment,OUT: accident/micro,high,,,,,2020-03-31,2024-12-31,3,Y,Y,
+143,IndiaFirst Life,IndiaFirst Life Mahajeevan Plus Plan,143N059V03,143N059,N,Individual,Endowment,Savings (Par / Non-Par to confirm),low,,,,,2020-10-22,2024-10-01,3,Y,Y,
+143,IndiaFirst Life,IndiaFirst Life Saral Jeevan Bima Plan,143N061V01,143N061,N,Individual,Term,Protection,high,,,,,2021-01-29,,1,Y,withdrawn,IRDAI list shows withdrawn (Dec-2025) but Council lists in-force (Sep-2026)
+143,IndiaFirst Life,IndiaFirst Life Saral Pension Plan,143N062V01,143N062,N,Individual,Annuity,Annuity,high,,,,,2021-04-26,,1,Y,withdrawn,IRDAI list shows withdrawn (Dec-2025) but Council lists in-force (Sep-2026)
+143,IndiaFirst Life,IndiaFirst Life Saral Bachat Bima Plan,143N063V02,143N063,N,Individual,Endowment,Savings (Par / Non-Par to confirm),low,,,,,2021-07-23,2024-11-25,2,Y,Y,
+143,IndiaFirst Life,IndiaFirst Life Fortune Plus Plan,143N065V03,143N065,N,Individual,Endowment,Savings (Par / Non-Par to confirm),low,,,,,2022-02-08,2024-10-01,3,Y,Y,
+143,IndiaFirst Life,IndiaFirst Life Guaranteed Pension Plan,143N066V06,143N066,N,Individual,Annuity,Annuity,high,,,,,2022-02-22,2024-10-01,4,Y,Y,IRDAI latest version 143N066V04
+143,IndiaFirst Life,IndiaFirst Life Guaranteed Single Premium Plan,143N068V04,143N068,N,Individual,Endowment,Savings (Par / Non-Par to confirm),low,,,,,2022-07-28,2024-12-31,4,Y,Y,
+143,IndiaFirst Life,IndiaFirst Life Elite Term Plan,143N070V01,143N070,N,Individual,Term,Protection,high,,,,,2024-05-17,2024-05-17,1,Y,Y,
+143,IndiaFirst Life,IndiaFirst Life,143N071V01,143N071,N,Group,Benefit Plan Group Others - Fund based Gratuity / Leave Encashment / Superannuation,OUT: group,high,,,,,2024-05-30,2024-05-30,1,Y,Y,
+143,IndiaFirst Life,IndiaFirst Life Protect Shield Plan,143N074V01,143N074,N,Individual?,,Protection,low (name only),,,,,2025-02-26,2025-02-26,1,N,Y,"Not in Council Sep-2026 list: check insurer website (may be withdrawn, group, or Council gap)"
+143,IndiaFirst Life,IndiaFirst Life Super Protection Plan,143N075V01,143N075,N,Individual,Term,Protection,high,,,,,2025-04-15,2025-04-15,1,Y,Y,
+143,IndiaFirst Life,IndiaFirst Life Protect Shield Plus Plan,143N078V01,143N078,N,Individual,Term,Protection,high,,,,,,,0,Y,not listed,
+143,IndiaFirst Life,IndiaFirst Life,143N079V01,143N079,N,Group,Credit Protect Plan Group Term,OUT: group,high,,,,,,,0,Y,not listed,
+143,IndiaFirst Life,IndiaFirst Life Guarantee of Life Dreams Plan,143N080V03,143N080,N,Individual,Endowment,Savings (Par / Non-Par to confirm),low,,,,,2023-07-19,2025-02-03,3,Y,Y,
+143,IndiaFirst Life,IndiaFirst Life Guardian of Life Dreams Term Plan,143N081V01,143N081,N,Individual,Term,Protection,high,,,,,,,0,Y,not listed,
+143,IndiaFirst Life,IndiaFirst Life Value Shield Plus,143N082V01,143N082,N,Individual,Term,Protection,high,,,,,,,0,Y,not listed,
+143,IndiaFirst Life,IndiaFirst Life Assured Income for Milestone Plan,143N101V01,143N101,N,Individual,Endowment,Savings (Par / Non-Par to confirm),low,,,,,2025-04-03,2025-04-03,1,Y,Y,
+143,IndiaFirst Life,IndiaFirst Life Growth of Life Dreams Plus Plan,143N102V01,143N102,N,Individual,Endowment / Whole Life,Savings (Par / Non-Par to confirm),low,,,,,,,0,Y,not listed,
+147,Edelweiss Life,Edelweiss Life -,147L014V02,147L014,L,Group,Wealth Accumulation Group Others - Fund Based Savings,OUT: group,high,,,,,2012-11-05,2013-06-21,2,Y,Y,
+147,Edelweiss Life,Edelweiss Life - Easy Pension,147L034V04,147L034,L,Individual,ULIP/Pension,ULIP,high,,,,,2016-01-06,2024-12-25,4,Y,Y,
+147,Edelweiss Life,Edelweiss Life - Wealth Ultima,147L037V04,147L037,L,Individual,ULIP,ULIP,high,,,,,2017-01-10,2025-01-06,4,Y,Y,
+147,Edelweiss Life,Edelweiss Life - Wealth Plus,147L055V04,147L055,L,Individual,ULIP,ULIP,high,,,,,2017-10-31,2023-10-05,4,Y,Y,
+147,Edelweiss Life,Edelweiss Tokio Life -Wealth Secure+,147L062V02,147L062,L,Individual?,,ULIP,high,,,,,2019-11-20,2023-10-05,2,N,Y,"Not in Council Sep-2026 list: check insurer website (may be withdrawn, group, or Council gap)"
+147,Edelweiss Life,Edelweiss Life - Wealth Premier,147L066V03,147L066,L,Individual,ULIP,ULIP,high,,,,,2020-09-09,2024-02-10,3,Y,Y,
+147,Edelweiss Life,Edelweiss Life - Wealth Rise+,147L076V02,147L076,L,Individual,ULIP,ULIP,high,,,,,2022-10-19,2023-10-05,2,Y,Y,
+147,Edelweiss Life,Edelweiss Life -,147N008V05,147N008,N,Group,Life Protection Group Term,OUT: group,high,,,,,2012-01-25,2020-02-01,5,Y,Y,
+147,Edelweiss Life,Edelweiss Tokio Life - Raksha Kavach (Micro Insurance Plan),147N012V02,147N012,N,Individual?,,OUT: accident/micro,high,,,,,2012-08-03,2013-09-20,2,N,Y,"Not in Council Sep-2026 list: check insurer website (may be withdrawn, group, or Council gap)"
+147,Edelweiss Life,Edelweiss Tokio Life - Single Pay Endowment Assurance Plan,147N018V04,147N018,N,Individual?,,Savings (Par / Non-Par to confirm),low,,,,,2013-02-14,2023-10-05,4,N,Y,"Not in Council Sep-2026 list: check insurer website (may be withdrawn, group, or Council gap)"
+147,Edelweiss Life,Edelweiss Life - POS Saral Nivesh,147N038V05,147N038,N,Individual,Endowment,Savings (Par / Non-Par to confirm),low,,,,,2017-04-21,2024-10-05,5,Y,Y,
+147,Edelweiss Life,Edelweiss Life - Jan Suraksha,147N058V02,147N058,N,Group,Term,OUT: group,high,,,,,2018-12-10,2020-02-01,2,Y,Y,
+147,Edelweiss Life,Edelweiss Life -,147N059V03,147N059,N,Group,Total Secure Group Term,OUT: group,high,,,,,2018-12-10,2024-10-01,3,Y,Y,
+147,Edelweiss Life,Edelweiss Tokio Life - Group Employee Benefit Plus,147N064V01,147N064,N,Group?,,OUT: group,high,,,,,2020-05-26,2020-05-26,1,N,Y,"Not in Council Sep-2026 list: check insurer website (may be withdrawn, group, or Council gap)"
+147,Edelweiss Life,Edelweiss Tokio Life – Forever Pension,147N068V02,147N068,N,Individual?,,Annuity,low (name only),,,,,2020-12-22,2023-10-05,2,N,Y,"Not in Council Sep-2026 list: check insurer website (may be withdrawn, group, or Council gap)"
+147,Edelweiss Life,Edelweiss Life - Saral Jeevan Bima,147N069V02,147N069,N,Individual,Term,Protection,high,,,,,2020-12-30,2023-10-05,2,Y,Y,
+147,Edelweiss Life,Edelweiss Life - Saral Pension,147N070V02,147N070,N,Individual,Annuity,Annuity,high,,,,,2021-04-08,2023-10-05,2,Y,Y,
+147,Edelweiss Life,Edelweiss Tokio Life - Premier Guaranteed Income,147N072V03,147N072,N,Individual?,,Savings (Par / Non-Par to confirm),low,,,,,2021-08-25,2023-10-05,3,N,Y,"Not in Council Sep-2026 list: check insurer website (may be withdrawn, group, or Council gap)"
+147,Edelweiss Life,Edelweiss Life - Guaranteed Income Star,147N073V03,147N073,N,Individual,Endowment,Savings (Par / Non-Par to confirm),low,,,,,2022-02-09,2024-10-04,3,Y,Y,
+147,Edelweiss Life,Edelweiss Life - Guaranteed Savings STAR,147N074V03,147N074,N,Individual?,,Savings (Par / Non-Par to confirm),low,,,,,2022-05-25,2024-10-04,3,N,Y,"Not in Council Sep-2026 list: check insurer website (may be withdrawn, group, or Council gap)"
+147,Edelweiss Life,Edelweiss Life - Flexi-Savings Plan,147N075V04,147N075,N,Individual,Endowment,Savings (Par / Non-Par to confirm),low,,,,,2022-06-09,2025-04-16,4,Y,Y,
+147,Edelweiss Life,Edelweiss Life - Premier Guaranteed STAR,147N077V05,147N077,N,Individual,Endowment,Savings (Par / Non-Par to confirm),low,,,,,2022-12-22,2025-02-05,5,Y,Y,
+147,Edelweiss Life,Edelweiss Tokio Life – Zindagi Protect,147N078V02,147N078,N,Individual?,,Protection,low (name only),,,,,2023-04-26,2023-10-05,2,N,Y,"Not in Council Sep-2026 list: check insurer website (may be withdrawn, group, or Council gap)"
+147,Edelweiss Life,Edelweiss Tokio Life - Gramin Bima,147N079V01,147N079,N,Individual?,,Savings (Par / Non-Par to confirm),low,,,,,2024-03-20,2024-03-20,1,N,Y,"Not in Council Sep-2026 list: check insurer website (may be withdrawn, group, or Council gap)"
+147,Edelweiss Life,Edelweiss Life - Zindagi Protect Plus,147N080V01,147N080,N,Individual,Term/Endowment,Savings (Par / Non-Par to confirm),low,,,,,2024-10-29,2024-10-29,1,Y,Y,
+147,Edelweiss Life,Edelweiss Life - Raksha Kavach Bima Yojana (Micro Insurance Plan),147N081V01,147N081,N,Individual?,,OUT: accident/micro,high,,,,,2025-03-28,2025-03-28,1,N,Y,"Not in Council Sep-2026 list: check insurer website (may be withdrawn, group, or Council gap)"
+147,Edelweiss Life,Edelweiss Life - Pradhan Mantri Jeevan Jyoti Bima Yojana,147N082V01,147N082,N,Group,Term,OUT: group,high,,,,,2025-11-20,2025-11-20,1,Y,Y,
+147,Edelweiss Life,Edelweiss Life - Suraksha Kavach Bima Yojana (Micro Insurance Plan),147N083V01,147N083,N,Individual,Term,OUT: accident/micro,high,,,,,,,0,Y,not listed,
+147,Edelweiss Life,Edelweiss Life - Bharat Savings STAR,147N088V03,147N088,N,Individual,Endowment,Savings (Par / Non-Par to confirm),low,,,,,2023-06-05,2024-10-04,3,Y,Y,
+147,Edelweiss Life,Edelweiss Tokio Life – Guaranteed Growth Plan,147N089V01,147N089,N,Individual?,,Savings (Par / Non-Par to confirm),low,,,,,2023-12-15,2023-12-15,1,N,Y,"Not in Council Sep-2026 list: check insurer website (may be withdrawn, group, or Council gap)"
+147,Edelweiss Life,Edelweiss Life - Legacy Plus,147N090V02,147N090,N,Individual?,,Savings (Par / Non-Par to confirm),low,,,,,2024-02-07,2024-10-11,2,N,Y,"Not in Council Sep-2026 list: check insurer website (may be withdrawn, group, or Council gap)"
+147,Edelweiss Life,Edelweiss Life - Active Pension Plus,147N091V01,147N091,N,Individual?,,Annuity,low (name only),,,,,2024-07-22,2024-07-22,1,N,Y,"Not in Council Sep-2026 list: check insurer website (may be withdrawn, group, or Council gap)"
+147,Edelweiss Life,Edelweiss Life - Guaranteed Flexi STAR,147N112V01,147N112,N,Individual,Endowment,Savings (Par / Non-Par to confirm),low,,,,,2025-01-06,2025-01-06,1,Y,Y,
+147,Edelweiss Life,Edelweiss Life - Active Pension Plus Advantage,147N113V03,147N113,N,Individual,Annuity,Annuity,high,,,,,2025-03-06,2025-08-29,2,Y,Y,IRDAI latest version 147N113V02
+147,Edelweiss Life,Edelweiss Life - Flexi Dream Plan,147N114V01,147N114,N,Individual,Endowment,Savings (Par / Non-Par to confirm),low,,,,,2025-07-16,2025-07-16,1,Y,Y,
+147,Edelweiss Life,Edelweiss Life - Premier Guaranteed STAR Pro,147N115V02,147N115,N,Individual,Endowment,Savings (Par / Non-Par to confirm),low,,,,,2025-11-14,2025-11-14,1,Y,Y,IRDAI latest version 147N115V01
+147,Edelweiss Life,Edelweiss Life - Assured Income STAR,147N116V01,147N116,N,Individual,Endowment,Savings (Par / Non-Par to confirm),low,,,,,,,0,Y,not listed,
+147,Edelweiss Life,Edelweiss Life - Flexi Goal Secure,147N117V01,147N117,N,Individual,Endowment,Savings (Par / Non-Par to confirm),low,,,,,,,0,Y,not listed,
+163,CreditAccess Life,CreditAccess Raksha Kavach Sukshm (Micro-Insurance Product),163N001V02,163N001,N,Group,Term,OUT: group,high,,,,,2023-05-26,2024-07-25,2,Y,Y,
+163,CreditAccess Life,CreditAccess Suraksha Sukshm (Micro-Insurance Product).,163N002V02,163N002,N,Group,Term,OUT: group,high,,,,,2023-05-31,2024-09-16,2,Y,Y,
+163,CreditAccess Life,CreditAccess Suraksha-2,163N003V02,163N003,N,Group,Term,OUT: group,high,,,,,2023-05-31,2024-10-18,2,Y,Y,
+163,CreditAccess Life,CreditAccess Raksha Chakra,163N004V02,163N004,N,Group,Term,OUT: group,high,,,,,2023-07-19,2024-12-31,2,Y,Y,
+163,CreditAccess Life,CreditAccess Sanrakshan Sukshm (Micro-Insurance Product),163N005V01,163N005,N,Individual?,,OUT: accident/micro,high,,,,,2023-12-29,2023-12-29,1,N,Y,"Not in Council Sep-2026 list: check insurer website (may be withdrawn, group, or Council gap)"
+163,CreditAccess Life,CreditAccess Group Sanrakshan Sukshm (Micro-Insurance),163N006V01,163N006,N,Group?,,OUT: group,high,,,,,2024-01-24,2024-01-24,1,N,Y,"Not in Council Sep-2026 list: check insurer website (may be withdrawn, group, or Council gap)"
+163,CreditAccess Life,CreditAccess Sarvochchah Nidhi_V2,163N007V02,163N007,N,Group,Others: Fund based Gratuity,OUT: group,high,,,,,2024-03-27,2024-07-18,2,Y,Y,
+163,CreditAccess Life,CreditAccess Life - Samunnati Suraksha (Micro-Insurance Product),163N008V01,163N008,N,Group,Term,OUT: group,high,,,,,2024-07-31,2024-07-31,1,Y,Y,
+163,CreditAccess Life,Anantha Suraksha Sukshm (Micro-Insurance product),163N009V01,163N009,N,Group,Term,OUT: group,high,,,,,2024-12-16,2024-12-16,1,Y,Y,
+163,CreditAccess Life,Suraksha Bharosa Sukshm (Micro-Insurance Product),163N010V01,163N010,N,Group,Term,OUT: group,high,,,,,2025-05-16,2025-05-16,1,Y,Y,
+163,CreditAccess Life,CreditAccess Nitya Sanchay (Micro-Insurance Product),163N011V01,163N011,N,Individual?,,OUT: accident/micro,high,,,,,2023-12-13,2023-12-13,1,N,Y,"Not in Council Sep-2026 list: check insurer website (may be withdrawn, group, or Council gap)"
+163,CreditAccess Life,CreditAccess Life - Grameen Sanchay (Micro-Insurance Product).,163N012V01,163N012,N,Group,Savings,OUT: group,high,,,,,2024-08-29,2024-08-29,1,Y,Y,
+163,CreditAccess Life,CreditAccess Life - Raksha Chakra Poorna,163N013V01,163N013,N,Group,Term,OUT: group,high,,,,,2025-06-06,2025-06-06,1,Y,Y,
+163,CreditAccess Life,CreditAccess Anantha Suraksha Sukshm,163N014V01,163N014,N,Group,Term,OUT: group,high,,,,,2025-07-14,2025-07-14,1,Y,Y,
+163,CreditAccess Life,CreditAccess Life - Raksha Kavach Plus,163N015V01,163N015,N,Group,Term,OUT: group,high,,,,,,,0,Y,not listed,
+164,Acko Life,Acko Life,164N001V02,164N001,N,Group,Credit Protect Group Term,OUT: group,high,,,,,2023-08-12,2024-12-21,2,Y,Y,
+164,Acko Life,Acko Life,164N002V01,164N002,N,Group,Credit Protect (Micro Insurance Product) Group Term,OUT: group,high,,,,,2023-08-11,2023-08-11,1,Y,Y,
+164,Acko Life,Acko Life Flexi Term Plan,164N003V01,164N003,N,Individual,Term,Protection,high,,,,,2023-12-06,2023-12-06,1,Y,Y,
+164,Acko Life,Acko Life Saral Jeevan Bima,164N009V01,164N009,N,Individual,Term,Protection,high,,,,,2024-12-30,2024-12-30,1,Y,Y,
+164,Acko Life,Acko Life,164N010V01,164N010,N,Group,Term Protect Group Term,OUT: group,high,,,,,2025-08-29,2025-08-29,1,Y,Y,
+164,Acko Life,Acko Life,164N011V01,164N011,N,Group,Term Protect (Micro-Insurance) Product Group Term,OUT: group,high,,,,,,,0,Y,not listed,
+164,Acko Life,Acko Life,164N012V01,164N012,N,Group,Term Life Secure Group Term,OUT: group,high,,,,,,,0,Y,not listed,
+165,Go Digit Life,Digit Life,165N002V01,165N002,N,Group,Long Term Plan Group Term,OUT: group,high,,,,,,,0,Y,not listed,
+165,Go Digit Life,Digit Life,165N004V01,165N004,N,Group,Term Life Insurance Group Term,OUT: group,high,,,,,,,0,Y,not listed,
+165,Go Digit Life,Digit Glow Term Life Insurance,165N005V01,165N005,N,Individual,Term,Protection,high,,,,,,,0,Y,not listed,
+165,Go Digit Life,Digit Glow Lite Term Life Insurance,165N006V01,165N006,N,Individual,Term,Protection,high,,,,,,,0,Y,not listed,
+165,Go Digit Life,Digit Glow Plus Term Life Insurance,165N007V03,165N007,N,Individual,Term,Protection,high,,,,,,,0,Y,not listed,
+165,Go Digit Life,Digit Life,165N008V01,165N008,N,Group,Micro Term Life Insurance Group Term,OUT: group,high,,,,,,,0,Y,not listed,
+165,Go Digit Life,Digit Icon,165N011V04,165N011,N,Individual,Endowment,Savings (Par / Non-Par to confirm),low,,,,,,,0,Y,not listed,
+165,Go Digit Life,Digit Life Pension Plan,165N032V01,165N032,N,Group,Annuity,OUT: group,high,,,,,,,0,Y,not listed,
+512,LIC,LIC’s Nivesh Plus,512L317V02,512L317,L,Individual,ULIP,ULIP,high,,,,,,,0,Y,not listed,
+512,LIC,LIC's SIIP,512L334V02,512L334,L,Individual,ULIP,ULIP,high,,,,,,,0,Y,not listed,
+512,LIC,LIC's New Pension Plus,512L347V01,512L347,L,Individual,ULIP Pension,ULIP,high,,,,,,,0,Y,not listed,
+512,LIC,LIC's Index Plus,512L354V01,512L354,L,Individual,ULIP,ULIP,high,,,,,,,0,Y,not listed,
+512,LIC,LIC's Protection Plus,512L361V01,512L361,L,Individual,ULIP,ULIP,high,,,,,,,0,Y,not listed,
+512,LIC,LIC's New,512N274V03,512N274,N,Group,Superannuation Cash Accumulation Plan Group Savings,OUT: group,high,,,,,,,0,Y,not listed,
+512,LIC,LIC's New One Year Renewable,512N275V04,512N275,N,Group,Term Assurance Plan I Group Term RIDERS,OUT: group,high,,,,,,,0,Y,not listed,
+512,LIC,LIC's New One Year Renewable,512N276V04,512N276,N,Group,Term Assurance Plan II Group Term,OUT: group,high,,,,,,,0,Y,not listed,
+512,LIC,LIC's New Endowment Plan,512N277V03,512N277,N,Individual,Endowment,Savings (Par / Non-Par to confirm),low,,,,,,,0,Y,not listed,
+512,LIC,LIC's New Money Back Plan- 25 years,512N278V03,512N278,N,Individual,Money Back,Savings (Par / Non-Par to confirm),low,,,,,,,0,Y,not listed,
+512,LIC,LIC's New Jeevan Anand,512N279V03,512N279,N,Individual,Combination of Whole life & Endowment,Savings (Par / Non-Par to confirm),low,,,,,,,0,Y,not listed,
+512,LIC,LIC's New Money Back Plan-20 years,512N280V03,512N280,N,Individual,Money Back,Savings (Par / Non-Par to confirm),low,,,,,,,0,Y,not listed,
+512,LIC,LIC's New,512N281V04,512N281,N,Group,Gratuity Cash Accumulation Plan Group Savings,OUT: group,high,,,,,,,0,Y,not listed,
+512,LIC,LIC's New,512N282V04,512N282,N,Group,Leave Encashment Plan Group Savings,OUT: group,high,,,,,,,0,Y,not listed,
+512,LIC,LIC's Single Premium Endowment Plan,512N283V03,512N283,N,Individual,Endowment,Savings (Par / Non-Par to confirm),low,,,,,,,0,Y,not listed,
+512,LIC,LIC's New Children's Money Back Plan,512N296V03,512N296,N,Individual,Money Back,Savings (Par / Non-Par to confirm),low,,,,,,,0,Y,not listed,
+512,LIC,LIC's Jeevan Lakshya,512N297V03,512N297,N,Individual,Endowment,Savings (Par / Non-Par to confirm),low,,,,,,,0,Y,not listed,
+512,LIC,LIC's Single Premium,512N298V02,512N298,N,Group,Insurance Plan Group Term,OUT: group,high,,,,,,,0,Y,not listed,
+512,LIC,LIC's Jeevan Tarun,512N299V03,512N299,N,Individual,Money Back,Savings (Par / Non-Par to confirm),low,,,,,,,0,Y,not listed,
+512,LIC,LIC'S,512N302V02,512N302,N,Group,Credit Life Insurance Plan Group Term,OUT: group,high,,,,,,,0,Y,not listed,
+512,LIC,LIC's Jeevan Labh Plan,512N304V03,512N304,N,Individual,Endowment,Savings (Par / Non-Par to confirm),low,,,,,,,0,Y,not listed,
+512,LIC,LIC's Jeevan Umang,512N312V03,512N312,N,Individual,Whole Life,Savings (Par / Non-Par to confirm),low,,,,,,,0,Y,not listed,
+512,LIC,LIC's Bima Shree,512N316V03,512N316,N,Individual,Money Back,Savings (Par / Non-Par to confirm),low,,,,,,,0,Y,not listed,
+512,LIC,LIC's Micro Bachat,512N329V03,512N329,N,Individual,Endowment,OUT: accident/micro,high,,,,,,,0,Y,not listed,
+512,LIC,LIC's One Year Renewable,512N335V01,512N335,N,Group,Micro Term Assurance Plan Group Term,OUT: group,high,,,,,,,0,Y,not listed,
+512,LIC,LIC's Jeevan Akshay -VII,512N337V07,512N337,N,Individual,Annuity,Annuity,high,,,,,,,0,Y,not listed,
+512,LIC,LIC's New Jeevan Shanti,512N338V08,512N338,N,Individual,Annuity,Annuity,high,,,,,,,0,Y,not listed,
+512,LIC,LIC's Saral Jeevan Bima,512N341V01,512N341,N,Individual,Term,Protection,high,,,,,,,0,Y,not listed,
+512,LIC,LIC's Saral Pension,512N342V05,512N342,N,Individual,Annuity,Annuity,high,,,,,,,0,Y,not listed,
+512,LIC,LIC's New Tech -Term,512N351V02,512N351,N,Individual,Term,Protection,high,,,,,,,0,Y,not listed,
+512,LIC,LIC,512N352V01,512N352,N,Group,Post Retirement Medical Benefit Scheme Group Savings,OUT: group,high,,,,,,,0,Y,not listed,
+512,LIC,LIC’s Yuva Term,512N355V02,512N355,N,Individual,Term,Protection,high,,,,,,,0,Y,not listed,
+512,LIC,LIC’s Digi Term,512N356V02,512N356,N,Individual,Term,Protection,high,,,,,,,0,Y,not listed,
+512,LIC,LIC’s Yuva Credit Life,512N357V01,512N357,N,Individual,Term,Protection,high,,,,,,,0,Y,not listed,
+512,LIC,LIC’s Digi Credit Life,512N358V01,512N358,N,Individual,Term,Protection,high,,,,,,,0,Y,not listed,
+512,LIC,LIC Single Premium,512N359V01,512N359,N,Group,Micro Term Insurance Plan Group Term,OUT: group,high,,,,,,,0,Y,not listed,
+512,LIC,LIC's Bima Kavach,512N360V01,512N360,N,Individual,Term,Protection,high,,,,,,,0,Y,not listed,
+512,LIC,LIC's Jeevan Utsav,512N363V02,512N363,N,Individual,Whole Life,Savings (Par / Non-Par to confirm),low,,,,,,,0,Y,not listed,
+512,LIC,LIC's Amritbaal,512N365V02,512N365,N,Individual,Endowment,Savings (Par / Non-Par to confirm),low,,,,,,,0,Y,not listed,
+512,LIC,LIC's,512N366V01,512N366,N,Group,Term Ease Plan Group Term,OUT: group,high,,,,,,,0,Y,not listed,
+512,LIC,LIC's,512N367V01,512N367,N,Group,Benefit Secure Plan Group Savings,OUT: group,high,,,,,,,0,Y,not listed,
+512,LIC,LIC’s Jeevan Raksha,512N368V01,512N368,N,Individual,Term,Protection,high,,,,,,,0,Y,not listed,
+512,LIC,LIC'S Smart Pension Plan,512N386V01,512N386,N,Group,Savings/Immediate Annuity,OUT: group,high,,,,,,,0,Y,not listed,
+512,LIC,LIC's Nav Jeevan Shree,512N387V02,512N387,N,Individual,Endowment,Savings (Par / Non-Par to confirm),low,,,,,,,0,Y,not listed,
+512,LIC,LIC's Jan Suraksha,512N388V01,512N388,N,Individual,Endowment,Savings (Par / Non-Par to confirm),low,,,,,,,0,Y,not listed,
+512,LIC,LIC’s Bima Lakshmi,512N389V01,512N389,N,Individual,Money Back,Savings (Par / Non-Par to confirm),low,,,,,,,0,Y,not listed,
+512,LIC,LIC’s Jeevan Utsav Single Premium,512N392V01,512N392,N,Individual,Whole Life,Savings (Par / Non-Par to confirm),low,,,,,,,0,Y,not listed,
+512,LIC,LIC’s New Jeevan Sathi – Single Premium,512N393V01,512N393,N,Individual,Endowment,Savings (Par / Non-Par to confirm),low,,,,,,,0,Y,not listed,
+512,LIC,LIC’s New Jeevan Sathi – Limited Premium,512N394V01,512N394,N,Individual,Endowment,Savings (Par / Non-Par to confirm),low,,,,,,,0,Y,not listed,
+512,LIC,LIC’s New Bima Jyoti,512N395V01,512N395,N,Individual,Endowment,Savings (Par / Non-Par to confirm),low,,,,,,,0,Y,not listed,
+512,LIC,LIC’s Bima Platinum,512N397V01,512N397,N,Individual,Endowment,Savings (Par / Non-Par to confirm),low,,,,,,,0,Y,not listed,
