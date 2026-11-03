@@ -24,7 +24,8 @@ BLOCKED = {'icici-life', 'kotak-life', 'sud-life', 'go-digit-life'}
 # Insurer document/download pages that list brochures (seed pages). Product page URL from master_list is tried first.
 SEEDS = {
     'lic': ['https://licindia.in/products'],
-    'hdfc-life': ['https://www.hdfclife.com/life-insurance-plans'],
+    'hdfc-life': ['https://www.hdfclife.com/brochures', 'https://www.hdfclife.com/policy-documents',
+                  'https://www.hdfclife.com/life-insurance-plans', 'https://www.hdfclife.com/pdf-sitemap.xml'],
     'axis-max-life': ['https://www.axismaxlife.com/all-insurance-plans'],
     'tata-aia': ['https://www.tataaia.com/active-and-withdrawn-product-status.html'],
     'bajaj-life': ['https://www.bajajlifeinsurance.com/on-sale-plans.html'],
@@ -108,6 +109,8 @@ def page_links(url, tmp):
         for m in re.finditer(r'href=["\']([^"\'#]+)["\'][^>]*>(.*?)</a>', t, re.S | re.I):
             links.append((urllib.parse.urljoin(eff or url, html.unescape(m.group(1)).strip()),
                           re.sub(r'\s+', ' ', html.unescape(re.sub(r'<[^>]+>', ' ', m.group(2)))).strip()[:120]))
+        for m in re.finditer(r'<loc>\s*([^<]+?\.pdf)\s*</loc>', t, re.I):     # PDF sitemaps (e.g. HDFC pdf-sitemap.xml)
+            links.append((html.unescape(m.group(1)), ''))
         for m in re.finditer(r'["\']((?:https?:)?//[^"\'\s]+?\.pdf|/[^"\'\s]+?\.pdf)["\']', t, re.I):   # PDFs referenced in scripts/data
             links.append((urllib.parse.urljoin(eff or url, m.group(1)), ''))
     _page_cache[url] = links
@@ -126,12 +129,13 @@ def score(url, text, prod, on_product_page=False):
     if code and code in blob.replace(' ', ''): s += 6
     if prod['uin'] and prod['uin'].lower() in blob.replace(' ', ''): s += 2
     toks = name_tokens(prod['product_name'])
-    if toks: s += 4 * sum(1 for t in toks if t in blob) / len(toks)
+    if toks: s += 8 * sum(1 for t in toks if t in blob) / len(toks)
     if BROCHURE_WORDS.search(blob): s += 3
     if POLICY_WORDS.search(blob): s += 1
     if BAD_WORDS.search(blob): s -= 5
     if re.search(r'\bto\s+\d{1,2}[/.-]\d{1,2}[/.-]\d{2,4}|\bold\b|\bprevious\b|\barchive', text, re.I): s -= 3   # dated-out version (e.g. LIC 'From .. To ..')
     if re.search(r'onwards|latest|revised', text, re.I): s += 1
+    if re.search(r'[-_/]live/', u): s += 2                                  # HDFC '...-live/' folders hold current files
     return s
 
 def pdf_text(p):
@@ -251,7 +255,7 @@ def main():
         allr = sorted(((v[0], u, v[1], v[2]) for u, v in cands.items() if v[0] >= 4), reverse=True)
         is_pol = lambda u, t: bool(POLICY_WORDS.search(urllib.parse.unquote(u) + ' ' + t)) and not BROCHURE_WORDS.search(urllib.parse.unquote(u) + ' ' + t)
         # brochures first; a policy document only as a fallback (brief: same description line)
-        ranked = [x for x in allr if not is_pol(x[1], x[3])][:5] + [x for x in allr if is_pol(x[1], x[3])][:3]
+        ranked = [x for x in allr if not is_pol(x[1], x[3])][:8] + [x for x in allr if is_pol(x[1], x[3])][:3]
         if a.dry_run:
             print(prod['product_name'], prod['uin'], '->', [(round(s, 1), u[-80:]) for s, u, _, _ in ranked]); continue
         ok = False; big = ''

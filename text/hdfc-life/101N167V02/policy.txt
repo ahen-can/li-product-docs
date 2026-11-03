@@ -1,0 +1,1541 @@
+                                          HDFC Life Star Saver-Terms & Conditions
+                          (An Individual Non-Linked, Non-Participating, Savings Life Insurance Plan)
+
+                                                               Part A
+<<01 January 2024>>
+<<Policyholder’s Name>>
+<<Policyholder’s Address>>
+<<Policyholder’s Contact Number>>
+
+Dear <<Policyholder’s Name>>,
+
+Sub: Your Policy no. <<>>
+We are glad to inform you that your proposal has been accepted and the HDFC Life Guaranteed Wealth Plus Policy (“Policy”) being
+this Policy, has been issued. We have made every effort to design your Policy in a simple format. We have highlighted items of
+importance so that you may recognise them easily.
+
+
+
+Policy document:
+As an evidence of the insurance contract between HDFC Life Insurance Company Limited and you, the Policy is enclosed herewith.
+Please preserve this document safely and also inform your Nominees about the same. A copy of your proposal form submitted by
+you is enclosed for your information and record.
+
+Cancellation in the Free-Look Period:
+In case you are not agreeable to any of the terms and conditions stated in the Policy, you have the option to return the Policy to
+us for cancellation stating the reasons thereof, within 30 days from the date of receipt of the Policy, whether received electronically
+or otherwise. On receipt of your letter along with the original Policy (original Policy Document is not required for policies in
+dematerialised form or where policy is issued only in electronic form), we shall arrange to refund the Premium paid by you, subject
+to deduction of the proportionate risk Premium for the period of cover and the expenses incurred by us on medical examination
+(if any) and stamp duty charges.
+
+Contacting us:
+In case you wish to contact us, our correspondence address is specified below. We kindly request you to quote your Policy number
+as it helps us serve you better. If you are keen to know more about our products and services, you may reach out to our Certified
+Financial Consultant (Insurance Agent) who has advised you while taking this Policy. The details of your Certified Financial
+Consultant including contact details are also listed below. Or you may call us on our toll-free number 1800 266 9777 or email us
+@ onlinequery@hdfclife.in. You can also get in touch with us via social media:
+https://www.youtube.com/user/hdfclife10
+http://www.linkedin.com/company/19117
+https://twitter.com/HDFClife
+https://www.facebook.com/HDFClife
+
+To contact us in case of any grievance, please refer to Part G. In case you are not satisfied with our response, you can also
+approach the Insurance Ombudsman in your region.
+
+Thanking you for choosing HDFC Life Insurance Company Limited and looking forward to serving you in the years ahead,
+
+
+Yours sincerely,
+
+
+<< Designation of the Authorised Signatory >>
+
+ Branch Address: <<Branch Address>>
+ Agency/Intermediary Code: <<Agency/Intermediary Code>>
+ Agency/Intermediary Name: <<Agency/Intermediary Name>>
+ Agency/Intermediary Telephone Number: <<Agency/Intermediary mobile & landline number>>
+ Agency/Intermediary Contact Details: <<Agency address>>
+
+Address for Correspondence: HDFC Life Insurance Company Limited, 11th Floor Lodha Excelus, Apollo Mills Compound, N.M. Joshi
+Marg, Mahalaxmi, Mumbai-400011.
+
+
+
+
+                                                  Page 1 of 29
+                                         HDFC Life Star Saver-Terms & Conditions
+                         (An Individual Non-Linked, Non-Participating, Savings Life Insurance Plan)
+Registered Office: HDFC Life Insurance Company Limited, Lodha Excelus, 13th Floor, Lodha Excelus, Apollo Mills Compound, N.M.
+Joshi Marg, Mahalaxmi, Mumbai-400011.
+Call 022-68446530 (charges apply) Available Mon-Sat 10 am to 7 pm IST. DO NOT prefix any country code e.g. +91 or 00. |
+Website: www.hdfclife.com. | Email – service@hdfclife.com | NRIservice@hdfclife.com (For NRI customers only) | NRI Helpline
+number +91 89166 94100 (Call charges apply) Available Mon-Sat 10 am to 9 pm IST | CIN: L65110MH2000PLC128245.
+
+
+
+
+                                          POLICY DOCUMENT- HDFC Life Star Saver
+
+                                       Unique Identification Number: <<101N167V02>>
+
+
+Your Policy is an individual non-linked non-participating savings life insurance Plan.This document is the evidence of a contract
+between HDFC Life Insurance Company Limited and the Policyholder as described in the Policy Schedule given below. This Policy
+is based on the proposal made by the within named Policyholder and submitted to the Company along with the required documents,
+declarations, statements, any response given to medical questionnaire by the Life Assured, applicable medical evidence and other
+information received by the Company from the Policyholder, Life Assured or on behalf of the Policyholder (“Proposal”). This Policy
+is effective upon receipt and realisation, by the Company, of the consideration payable as First Premium under the Policy. This
+Policy is written under and will be governed by the applicable laws in force in India and all Premiums and Benefits are expressed
+and payable in Indian Rupees.
+
+
+                                                      POLICY SCHEDULE
+
+  Name of the Policy:                                HDFC Life Star Saver
+  UIN No. of the Product                             101N167V02
+  Policy Number
+  Date of the Proposal
+  Policy Commencement Date
+
+  Risk Commencement Date
+
+  Policy Maturity Date
+
+  Auto Vesting if Life Assured is minor
+  Basic Sum Assured
+  Sum Assured on Death
+
+  Guaranteed Addition
+
+  Loyalty Benefit
+                                                      Description               Sum Assured (INR)      Cessation Date
+                                                      «COMPDESC_002»            «SUMINS_002»           «CESSDATE_002»
+  Rider (s)
+                                                      «COMPDESC_003»            «SUMINS_003»           «CESSDATE_003»
+                                                      «COMPDESC_004»            «SUMINS_004»           «CESSDATE_004»
+  UIN of the Rider
+
+  Premium Amount
+
+  Frequency of Premium Payment                       <Annual> <Half – Yearly> <Monthly>
+
+  Due Date of Premium Payment
+  Premium Payment Term
+  Policy Term
+  Date of Last Installment Premium
+
+
+
+                                                Page 2 of 29
+                                       HDFC Life Star Saver-Terms & Conditions
+                       (An Individual Non-Linked, Non-Participating, Savings Life Insurance Plan)
+                                                 «sownername»
+                                                 «address1»
+Name and Address of the Policyholder
+                                                 «address2»
+                                                 «address3»
+                                                 «address4»
+Date of Birth of the Policyholder
+
+Name and Address of the Life Assured
+
+Age of Life Assured At Entry
+Date of Birth
+Whether Age admitted?
+
+                                                 Name of         Age of        Relationship to
+                                                                                                 Proportion (%)
+                                                 Nominee/(s)     Nominee/(s)   Life Assured
+
+
+Name of Nominee(s) and relationship to Life
+Assured
+
+
+
+
+Name of Appointee, If Nominee is Minor
+
+Date of Birth of Appointee
+
+Age of Appointee
+
+
+                                                 «ZENDFLD_001»
+                                                 «ZENDFLD_002»
+Special Conditions                               «ZENDFLD_003»
+                                                 «ZENDFLD_004»
+                                                 «ZENDFLD_005»
+
+
+
+Stamp Duty of Rs. «ADDAMT» /- is paid as provided under Article 47D(iii) of Indian Stamp Act, 1899 and
+included in Consolidated Stamp Duty Paid to the Government of Maharashtra Treasury vide Order of Addl.
+Controller Of Stamps, Mumbai at General Stamp Office, Fort, Mumbai - 400001., vide this Order
+No.(_/_/_/_/Validity Period Dt.__ To Dt.__ (O/w.No.__)/Date: __/_/__).
+
+   The Modal Premium shown in the Policy Schedule above is exclusive of Goods and Services Tax (GST). GST
+   at the applicable rates will be charged on Premiums paid.
+
+   «Legend_schedule»«ADDAMT»
+
+
+
+
+                                              Page 3 of 29
+                                            HDFC Life Star Saver-Terms & Conditions
+                            (An Individual Non-Linked, Non-Participating, Savings Life Insurance Plan)
+   PART B
+
+B.1.        DEFINITIONS
+
+In this Policy the following definitions shall be applicable:
+
+       1.   Accident is defined as sudden, unforeseen and involuntary event caused by external and visible means.
+
+       2.   Additional Accidental Death Benefit means additional payout in case of accidental death which is equal to the Sum
+            Assured on Death plus Guaranteed Additions accrued till date of death.
+
+       3.   Age shall be Age of Life Assured at Policy Commencement Date as at last birthday i.e. the Age in completed years and
+            is recorded in the Policy Schedule based on the details provided by the Policyholder.
+
+       4.   Annualized Premium shall be the Premium amount payable in a year, excluding taxes, rider premiums, underwriting
+            extra premiums and loadings for modal Premiums.
+
+       5.   Assignee is the person to whom the rights and Benefits under this Policy are transferred by virtue of an Assignment.
+
+       6.   Assignment is the process of transferring the rights and Benefits to an “Assignee,” in accordance with the provisions of
+            Section 38 of Insurance Act, 1938, as amended from time to time.
+
+       7.   Assignor means the person who transfers the rights and Benefits under this Policy to the Assignee.
+
+       8.   Authority/ IRDAI means Insurance Regulatory and Development Authority of India; established under the provisions
+            of section 3 of the Insurance Regulatory and Development Authority Act, 1999.
+
+       9.   Basic Sum Assured means an absolute amount chosen by the Policyholder at the Date of Inception of Policy and as
+            specified in the Policy Schedule.
+
+       10. Benefit/s means the Death Benefit, Maturity Benefit, Survival Benefit, Surrender Benefit or any other benefit as under
+           the terms of this Policy.
+
+       11. Death Benefit means the benefit which is payable on death of Life Assured, as stated in the policy document under
+           Part C.
+
+       12. Eligible Person means the Policyholder, including assignees under Section 38 of the Insurance Act, 1938 as amended
+           from time to time, or Nominees under Section 39 of the Insurance Act, 1938 as amended from time to time, or proving
+           executors of administration or other legal representatives, as per the applicable Regulations.
+
+       13. Grace Period for other than single premium policies means the time granted by the insurer from the due date of
+           payment of premium, without any penalty or late fee, during which time the policy is considered to be in-force with the
+           risk cover without any interruption, as per the terms & conditions of the policy. The grace period for payment of the
+           premium for all types of life insurance policies shall be fifteen days, where the policyholder pays the premium on a
+           monthly basis and 30 days in all other cases.
+
+       14. Guaranteed Income if the Policyholder has chosen the ‘Income Variant’ means a series of annual payouts as specified
+           in the Policy Schedule, calculated as a fixed percentage of the Annualized Premium shall be payable as per the Guaranteed
+           Income Payout Mode selected by the policyholder during the Payout Term as per Clause C.3.2.
+
+       15. Guaranteed Income Payout Mode / Payout Frequency means the frequency in which survival benefits under
+           Income Variant will be paid to the Policyholder as specified in the Policy Schedule. The Policyholder will have an option
+           to change the payout frequency on any policy anniversary. This shall be allowed only on policy anniversary subject to
+           receipt of written request from the Policyholder 60 days prior to such policy anniversary.
+
+       16. Force Majeure Event shall mean an event beyond the control of the Company by which performance of any of Our
+           obligations are prevented or hindered as a consequence of, including but not limited to act of God (such as, but not
+           limited to, fires, explosions, earthquakes, drought, and floods or other natural disasters), act of war, invasion or terrorism,
+
+
+
+
+                                                     Page 4 of 29
+                                     HDFC Life Star Saver-Terms & Conditions
+                     (An Individual Non-Linked, Non-Participating, Savings Life Insurance Plan)
+    rebellion, revolution, or civil war, labour dispute, riot, strikes, lock outs or disorder, epidemic, acts and regulations of the
+    Government of India or any of its authorized agencies.
+
+17. Grace Period means the time granted by the Company from the due date for the payment of Premium without levy of
+    any interest or penalty during which time the Policy is considered to be In Force. The Grace Period so granted is 15
+    (fifteen) days for monthly Premium payment mode and 30 (thirty) days for other available Premium payment modes from
+    the respective Premium payment due date;
+
+18. Guaranteed Additions (GA) means series of additions to the Benefits as specified in the Policy Schedule, calculated
+    as a fixed percentage of the Sum Assured on Maturity, payable to the Policyholder as mentioned in part C of the terms
+    of this Policy;
+
+19. Guaranteed Surrender Value (GSV) means the minimum guaranteed amount that is payable in the event of the Policy
+    being surrendered as mentioned in Clause D.3.2.2. of the terms of this Policy;
+
+20. In Force means the status of the Policy being active, all due Premiums have been paid and the Policy is not terminated.
+
+21. Lapse means a non-active life insurance contract on account of nonpayment of Premium within the Grace Period;
+
+22. Life Assured means the person as stated in the Policy Schedule on whose life the contingent events have to occur for
+    the Benefits to be payable. The Life Assured may be the Policyholder.
+
+23. Maturity Benefit means sum assured on maturity, any additional and accrued benefit, which is payable on maturity in
+    accordance with the terms and conditions of the policy.
+
+24. Loyalty Benefit means a payout at maturity as specified in the Policy Schedule, calculated as a fixed percentage of the
+    Sum Assured on Maturity, payable to Policyholder as mentioned in part C of the terms of this Policy subject to his survival
+    till the end of Policy Term.
+
+25. Nomination is the process of nominating a person(s) in accordance with provisions of Section 39 of the Insurance Act,
+    1938 as amended from time to time
+
+26. Nominee/s means the person/(s) named in the Policy Schedule who has/have been nominated by the Policyholder (who
+    is also the Life Insured in the Policy) in accordance with the Section 39 of the Insurance Act, 1938 as amended from time
+    to time to receive the benefits in respect of this Policy.
+
+27. Non-Linked insurance products are the products other than Linked insurance products
+
+28. Non-par products or Products without participation in profits means products where policies are not entitled for
+    any share in surplus (profits) during the term of the policy.
+
+29. Policy means the contract of insurance entered into between the Policyholder and the insurer as evidenced by the Policy
+    Document;
+
+30. Policyholder means or refers to the Policyholder stated in the Policy Schedule.
+
+31. Policy Commencement Date/ Date of Inception of the Policy means the Date, Month, and Year the Policy comes
+    into effect and is specified as such in the Policy Schedule.
+
+32. Policy Document means and includes the necessary document, the Annexure, the signed Proposal form, the Policy
+    Schedule and any attached endorsements or supplements together with all addendums.
+
+33. Policy Maturity Date means the date of completion of the Policy Term as specified in the Policy Schedule.
+
+34. Policy Schedule means the Schedule issued by the Company that sets out the details of this Policy and is attached to
+    and forming part of this Policy.
+
+35. Policy Term means the tenure of this Policy as specified in the Policy Schedule.
+
+
+
+
+                                             Page 5 of 29
+                                     HDFC Life Star Saver-Terms & Conditions
+                     (An Individual Non-Linked, Non-Participating, Savings Life Insurance Plan)
+36. Policy Year means a period of twelve (12) consecutive months starting from the Policy Commencement Date and ending
+    on the day immediately preceding the following Policy anniversary date and each subsequent period of twelve (12)
+    consecutive months thereafter.
+
+37. Premium/(s)/ Single Premium means an amount stated in the Policy Schedule, payable by you to us in the manner
+    stated in the Policy Schedule, to secure the benefits under this Policy, excluding applicable taxes and levies.
+
+38. Premium Payment Term (PPT) means the period as stated in the Policy Schedule, in years, over which Premiums are
+    payable.
+
+39. Proposal means the proposal form submitted to the Company for issuance of this Policy.
+
+40. Regulations means IRDAI (Insurance Products) Regulations, 2024 as amended from time to time and applicable to this
+    Policy, including without limitation the Regulations and directions issued by the Insurance Regulatory and Development
+    Authority of India (‘IRDAI’) from time to time..
+
+41. Revival of Policy means restoration of the Policy, which was discontinued due to non-payment of the Premium, by the
+    Company with all the Benefits mentioned in the Policy Document, with or without Rider Benefits, if any, upon receipt of
+    all the Premiums due and other charges/late fee, if any, during the revival period, as per the terms and conditions of the
+    Policy, upon the Company being satisfied as to the continued insurability of the Life insured /Policyholder on the basis of
+    the information, documents and reports furnished by the Policyholder in accordance with the board approved underwriting
+    policy.
+
+42. Revival Period shall means the period of five consecutive complete years from the due date of first unpaid Premium.
+
+43. Rider means the Rider(s), if any, which provides additional cover which can be opted by the Life Assured/Policyholder
+    and issued by the Company, attached to and forming part of this Policy;
+
+44. Rider Benefits means the amount of Benefit payable on a specified event offered under the Rider and is allowed as
+    add-on Benefit to Benefit under base product, and may include waiver of premium benefit on other applicable Riders.
+
+
+45. Rider Endorsement Letter means the letter issued by the Company on a Policy anniversary date to which the Rider
+    Policy is attached to and forms a part of the Policy.
+
+46. Risk Commencement Date/Date of Commencement of Risk means the date from which risk is assumed by the
+    Company and as specified in the Policy Schedule;
+
+47. Savings products means those products other than “Pure risk products”.
+
+48. Special Surrender Value (SSV) means the value that may be payable on surrender of this Policy in accordance of the
+    terms and conditions of this Policy as mentioned in Part D.
+
+49. Sum Assured on Death means an absolute amount of Benefit which is guaranteed to become payable on death of the
+    Life Assured in accordance with the terms and conditions specified in of the Policy.
+
+50. Sum Assured on Maturity means the amount which is guaranteed to become payable on maturity of the Policy, in
+    accordance with the terms and conditions of the Policy.
+
+51. Surrender means complete withdrawal/termination of the entire Policy.
+
+52. Surrender Value means an amount, if any, that becomes payable on surrender of a policy during its term, in accordance
+    with the terms and conditions of the policy.
+
+53. Survival Benefit/s means the Benefit/s and amount/s that are payable on survival of Life Assured as specified in Clause
+    C.3
+
+54. 40. Total Premiums Paid means total of all the premiums paid under the base product, excluding any extra premium
+    and taxes, if collected explicitly.
+
+
+
+
+                                            Page 6 of 29
+                                   HDFC Life Star Saver-Terms & Conditions
+                   (An Individual Non-Linked, Non-Participating, Savings Life Insurance Plan)
+55. Underwriting Extra Premiums shall mean any Premium charged in addition to standard Premium which is based on
+    underwriting and as intimated to the Policyholder at the time of inception of the Policy.
+
+56. “We”, “Us”, “Our” and "Company" refers to HDFC Life Insurance Company Limited.
+
+57. “You”, “He”, “She” and “Your” refers to the Policyholder.
+
+
+
+
+                                        Page 7 of 29
+                                       HDFC Life Star Saver-Terms & Conditions
+                       (An Individual Non-Linked, Non-Participating, Savings Life Insurance Plan)
+  PART C
+
+  PRODUCT CORE BENEFITS
+
+  BENEFITS PAYABLE UNDER THIS POLICY
+
+
+
+C.1.   Death Benefit: Subject to terms and conditions of this Policy and the Policy remaining in full force and effect, in the
+       event of unfortunate demise of the Life Assured after Risk Commencement Date but before Policy Maturity Date, the
+       Company shall pay Sum Assured on Death plus accrued Guaranteed Additions till date of death plus Additional Accidental
+       Death Benefit, if applicable, to the Eligible Person after deducting the Premiums, if any due for the Policy Year in which
+       the death has occurred.
+
+
+       C.1.1. Sum Assured on Death: Sum Assured on death is calculated as highest of the following:
+
+       (a) ‘X’* times the Annualized Premium; or
+       (b) Sum Assured on Maturity; or
+       (c) 105% of Total Premiums Paid as on the date of death.
+
+
+       *The multiple of ‘X’ times is defined as follows:
+
+
+           For entry Age of Life Assured being less than or           For entry Age of Life Assured being 51 years and
+                          equal to 50 years                                                 above
+                               10 times,                                                     7 or 10 times,
+                    as specified in Policy Schedule                                as specified in Policy Schedule
+
+
+       C.1.2. Additional Accidental Death Benefit: In case of accidental death the Policy pays additional Accidental Death
+       Benefit. The cover with regard to Additional Accidental Death Benefit will commence on the date of Life Assured attaining
+       age 18 years. The conditions for Accidental Death and related exclusions are provided in Annexure IV.
+
+C.2.   Maturity Benefit: Subject to the terms and conditions of this Policy and the Policy remaining in force and effect on the
+       Policy Maturity Date, the Company shall pay to the Eligible Person the following Benefits on survival of the Life Assured
+       as on Policy Maturity Date:
+
+       C.2.1.   Sum Assured on Maturity; plus
+       C.2.2.   Guaranteed Additions (GA); plus
+       C.2.3.   Loyalty Benefit (LB).
+
+
+C.3.   Guaranteed Additions (GA) and Loyalty Benefit (LB): The plan offers Guaranteed Additions, accrued as a
+       percentage of Sum Assured on Maturity. The Guaranteed Additions are calculated at a simple rate for each completed
+       Policy Year. The GA are accrued over the Policy term and shall be payable on death or maturity or surrender. For monthly
+       Premium payment mode the GA band will be determined on the basis of Annualized Premium as defined in C.1.1. Loyalty
+       Benefit will be calculated as a percentage of Sum Assured on Maturity and payable only at Maturity. The GA rate and LB
+       rate based on the opted Policy Term and Premium are as follows:
+
+
+
+
+                                                Page 8 of 29
+                                         HDFC Life Star Saver-Terms & Conditions
+                         (An Individual Non-Linked, Non-Participating, Savings Life Insurance Plan)
+ Policy Term (Years)/    24,000 to 59,999 p.a         60,000 to 119,999 p.a       120,000 to 179,999       180,000 and above p.a
+ Annualized Premium                                                               p.a
+ Band (Rs.)
+
+                         GA (% of       LB (% of      GA (% of      LB (% of      GA (% of     LB (% of    GA (% of      LB (% of
+                         Sum            Sum           Sum           Sum           Sum          Sum         Sum           Sum
+                         Assured on     Assured on    Assured       Assured       Assured      Assured     Assured       Assured
+                         Maturity)      Maturity)     on            on            on           on          on            on
+                                                      Maturity)     Maturity)     Maturity)    Maturity    Maturity)     Maturity)
+                                                                                               )
+ 10                      7%             5%            7.50%         12.5%         7.50%        20%         8%            20%
+ 12                      7%             6%            7.50%         15%           7.50%        24%         8%            24%
+ 15                      7%             7.5%          7.50%         18.75%        7.50%        30%         8%            30%
+
+
+
+C.4.     Rider Benefits: If any Riders are opted and attached to this Policy as specified in the Policy Schedule or in the Rider
+         Endorsement Letter, the Rider Benefit shall become eligible, subject to the Rider terms and conditions.
+
+
+C.5      Payment and cessation of Premiums
+
+C.5.1. The first Premium must be paid along with the submission of your completed application. Subsequent Premiums are due in
+full on the due dates as per the Frequency of Premium Payment set out in your Policy Schedule.
+
+C.5.2. Premiums under the Policy can be paid on yearly, half-yearly, quarterly or monthly basis as per the chosen Frequency of
+Premium Payment and as set out in the Policy Schedule or as amended subsequently.
+
+C.5.3. Advance Premium
+The Premiums that fall due in the same financial year can be paid in advance. However, where the Premium due in one financial
+year is paid in advance in earlier financial year, we may collect the same for a maximum period of three months in advance of the
+due date of the premium.
+
+Any Premiums paid before the Due Date will be deemed to have been received on the Due Date for that Regular Premium.
+
+
+C.6.      C.6.1. The recipients of Benefits under this Policy shall be as specified below:
+C.6.1.1. Death Benefit shall be payable to the registered Nominee(s), if the Policyholder and the Life Assured are the same; or to
+the Policyholder if the Life Assured is other than the Policyholder.
+C.6.1.2. All other Benefits shall be payable to the Policyholder.
+C.6.1.3. If the Policy has been assigned, all Benefits shall be payable to the Assignee under absolute assignment.
+
+C.7.     Mode of payment of Benefits:
+
+         C.7.1.   All Benefits and other sums under this Policy shall be payable in the manner and currency allowed/permitted
+                  under the Regulations and shall be payable by NEFT, account payee cheque or other permissible modes.
+
+         C.7.2.   The Company shall pay the applicable Benefits and other sums payable under this Policy. Any discharge given
+                  by the Eligible Person, or by any person authorized by the Eligible Person in writing in respect of the Benefits or
+                  the sums payable under this Policy shall constitute a valid discharge to the Company in respect of such payment.
+                  The Company’s liability under the Policy shall be discharged by such payment.
+
+         C.7.3.   Apart from the Benefits mentioned hereinabove in Part C the Company shall not be liable to pay any other
+                  Benefits to the Eligible Person.
+
+C.8      Grace Period:
+         Grace period is not applicable for Single Premium. The grace period of 15 days (where the premium is paid on a monthly
+         basis) and 30 days (where the premium is paid in quarterly/half-yearly/annual basis) is available on the premium due
+         date, to pay the premium. We will not accept part payment of the Premium. The policy is considered to be in-force with
+         the risk cover during the grace period without any interruption as per the terms and conditions of the policy.
+
+
+
+                                                 Page 9 of 29
+                                HDFC Life Star Saver-Terms & Conditions
+                (An Individual Non-Linked, Non-Participating, Savings Life Insurance Plan)
+
+A Premium will be deemed to remain unpaid if the Premium amount has not been realised by us. If any Premium remains
+unpaid after the expiry of the grace period, your Policy may lapse or become Paid-Up, as described in Part D.3, with
+effect from the due date of the first unpaid Premium. In that event, the Benefits under such Policy shall be payable in
+accordance with Part D.3.
+
+Premiums are payable by you without any obligation on us to issue a reminder notice to you.
+
+The application of the Premiums received is conditional upon the realisation of the proceeds of the instrument of payment,
+including electronic mode.
+
+
+
+
+                                       Page 10 of 29
+                                          HDFC Life Star Saver-Terms & Conditions
+                          (An Individual Non-Linked, Non-Participating, Savings Life Insurance Plan)
+  PART D
+  Policy Servicing Related Aspects
+
+D.1.     Free Look Provisions:
+
+
+         In case the Policyholder is not agreeable to any of the provisions stated in the Policy, the Policyholder has the option to
+         return the Policy to the Company stating the reasons thereof, within 30 days from the date of receipt of the Policy,
+         whether received electronically or otherwise. On receipt of the Policyholder’s letter along with the original Policy document
+         (original Policy Document is not required for policies in dematerialised form or where policy is issued only in electronic
+         form), the Company shall arrange to refund the Premium paid, subject to deduction of the proportionate risk Premium
+         for the period of cover and the expenses incurred by the Company on medical examination (if any) and stamp duty
+         charges.
+
+
+D.2.     Revival of the Policy:
+
+D.2.1.
+         If your Policy has been discontinued due to the non-payment of Premium,, it would be revived/restored by the Insurer
+         with all the benefits mentioned in the Policy document, with or without rider benefits, if any, upon the receipt of all the
+         Premiums due and other charges/late fee, if any, during the revival period, as per the terms and conditions of the Policy,
+         upon being satisfied as to the continued insurability of the insured/Policyholder on the basis of the information, documents
+         and reports furnished by the Policyholder; in accordance with Board approved Underwriting Policy. Currently, the
+         application for the revival should be made within five years from the due date of the first unpaid Premium and before the
+         expiry of the Policy Term. The current rate of interest for revival is 9.5% p.a. Any change in the revival interest rates will
+         be in accordance with the following formula: Average Annualised 10-year benchmark G-Sec Yield (over last 6 months&
+         rounded upto the nearest 50 bps)+ 2%, at the time of the review. The source of 10-year benchmark G-sec yield shall be
+         RBI Negotiated Dealing System-Order Matching segment (NDS-OM).
+         During revival campaigns, the Company may offer reduced interest rates subject to the rules of the special revival
+         campaign. The reduced interest rates offered during the revival campaign may vary from year to year. The maximum
+         interest rate waiver may be set up to the prevailing revival interest rate. Once the Policy is revived, you are entitled to
+         receive all contractual Benefits.
+
+
+D.3.     Non-Forfeiture options:
+
+
+            I.    Forfeiture: If at least one full year Premiums have not been paid, the Policy will lapse on the expiry of Grace
+                  Period until the Policy is revived for full Benefits within the Revival Period. No Benefits will be paid to the
+                  Policyholder or the Eligible Person if the Policy is in Lapse stage.
+
+
+          II.     Non-Forfeiture: If at least one full year Premiums have been paid, and if any subsequent Premium which is due
+                  has not been paid, the Policyholder will be eligible for Reduced Paid-up Value as explained in section D.3.1. and
+                  Surrender Value as explained in section D.3.2.
+
+D.3.1.   Reduced Paid-up Value:
+
+         If at least 1 full year Premium has been paid and no further Premiums are paid and the Policy is not surrendered, the
+         Policy will acquire the status of Reduced Paid up on the date of expiry of Grace Period up till the Policy is revived for full
+         Benefits. Once the Policy attains the status of Reduced Paid up, the Death Benefit will be reduced as per the formula
+         mentioned below:
+
+
+
+
+         Reduced Paid-up Death Benefit =     Number of premiums paid            x (Sum Assured on Death + Accrued Guaranteed Additions)
+                                             Total number of premiums payable
+
+
+
+
+                                                 Page 11 of 29
+                                            HDFC Life Star Saver-Terms & Conditions
+                            (An Individual Non-Linked, Non-Participating, Savings Life Insurance Plan)
+          During the Reduced paid-up state of the Policy, the Reduced Paid-up Death Benefit will be paid on death of Life
+          Assured.
+
+          D.3.1.1 Additional Accidental Death Benefit in case of Reduced Paid-up Death Benefit shall be calculated as per
+          the formula mentioned below:
+
+
+
+                                                                                      x (Sum Assured on Death + Accrued Guaranteed Additions )
+                                                         Number of premiums paid
+                   Reduced Paid - up             =
+                                                     Total Number of premiums payable
+           Additional Accidental Death Benefit
+
+
+
+
+          D.3.1.2 Reduced paid-up maturity benefit will be calculated as per the formula mentioned below:
+
+
+
+                                             Number of premiums paid         Sum Assured on Maturity + Accrued Guaranteed Additions 
+           Reduced Paid - up        =                                     x                                                        
+            Maturity Benefit
+                                         Total Number of premiums payable     + Loyalty Benefit                                      
+
+
+
+
+          D.3.1.3 Guaranteed Additions shall accrue till the date of death in case of death or Policy Maturity Date in case of
+          maturity.
+          Instead of continuing with the reduced paid-up Policy one can surrender the policy.
+
+D.3.2.    Surrender of the Policy:
+         The Policyholder may surrender the policy during the Policy Term. The Surrender Benefit will be higher of GSV (Guaranteed
+         Surrender Value) and SSV (Special Surrender Value).
+
+          Policies with limited pay the policy shall acquire a Surrender Value after completion of first policy year provided one full
+          year premium has been received. The Policy cannot be surrendered after the death of the Life Assured. Upon payment
+          of the Surrender Value, the Policy shall stand terminated with no further Benefits payable under the Policy and the
+          Company shall be relieved and discharged from all obligations under this Policy thereafter.
+
+          The Surrender Value is payable immediately on Surrender and the Policy shall be terminated upon payment of Surrender
+          Value.
+          In the event of non-payment of two full years Premiums, the policy shall lapse and no surrender benefit shall be payable.
+
+D.3.2.1. Surrender Value: The Policy acquires a Surrender Value which is higher of Guaranteed Surrender Value or Special
+        Surrender Value (SSV).
+
+D.3.2.2. Guaranteed Surrender Value (GSV): If at least one full year Premium have been paid, the Policy acquires a
+        Guaranteed Surrender Value. The Guaranteed Surrender Value will be the sum of the following:
+
+          a)   GSV as a percentage of Premiums paid: GSV factor 1 multiplied by the Total Premiums Paid and
+          b)   GSV as a percentage of accrued Guaranteed Additions and applicable loyalty benefit: GSV factor 2 multiplied by the
+               total value of accrued Guaranteed Additions and loyalty benefit applicable to the Policy.
+
+               The Guaranteed Surrender Value factors with respect to the Policy Term are tabulated as below:
+
+
+                                        GSV Factor 1                                                 GSV Factor 2
+
+
+
+
+                                                       Page 12 of 29
+                                           HDFC Life Star Saver-Terms & Conditions
+                           (An Individual Non-Linked, Non-Participating, Savings Life Insurance Plan)
+                   Policy                                                  Policy
+                                 Term        Term        Term                             Term        Term        Term
+                  Year of                                                 Year of
+                                  10          12          15                               10          12          15
+                 surrender                                               surrender
+                      1           0%          0%           0%                 1            0%          0%          0%
+                      2           30%         30%         30%                 2           10%         10%          10%
+                      3           35%         35%         35%                 3           12%         12%          12%
+                      4           50%         50%         50%                 4           12%         14%          14%
+                      5           50%         50%         50%                 5           14%         14%          14%
+                      6           50%         50%         50%                 6           16%         16%          16%
+                      7           50%         50%         50%                 7           16%         18%          18%
+                      8           70%         60%         55%                 8           18%         20%          20%
+                      9           90%         70%         60%                 9           18%         20%          20%
+                      10          90%         80%         65%                 10          20%         22%          22%
+                      11                      90%         75%                 11                      24%          24%
+                      12                      90%         80%                 12                      25%          26%
+                      13                                  85%                 13                                   26%
+                      14                                  90%                 14                                   28%
+                      15                                  90%                 15                                   30%
+
+
+
+D.3.2.3. Special Surrender Value (SSV):
+
+       Special Surrender Value (SSV) shall become payable after completion of first policy year provided one full year premium
+       has been received.
+       For single premium policies, SSV shall become payable immediately after receipt of single premium.
+       SSV shall be at least equal to the expected present value of the
+       (a) paid-up sum assured on all contingencies covered and
+       (b) paid-up future benefits (such as income benefits), if any, and
+       (c) accrued/vested benefits, duly allowing for survival benefits already paid, if any.
+
+D.4.     Policy Loan:
+
+         Policy loans will be available during the Policy Term subject to such terms and conditions as the Company may specify
+         from time to time. Our current terms and conditions are stated below:
+         • The loan amount will be subject to a maximum of 80% of the surrender value.
+         • The current interest rate on loan is 9.5%p.a.The interest rate on loan shall be calculated as the Average Annualised
+             10-year benchmark G-Sec Yield (over last 6 months & rounded up to the nearest 50 bps) + 2%. The interest rate
+             shall be reviewed half-yearly and any change in the interest rate shall be effective from 25th February and 25th
+             August each year.
+         • In case upon review the interest rate is revised, the same shall apply until next revision. The source of 10-year
+             benchmark G-sec yield shall be RBI Negotiated Dealing System-Order Matching segment (NDS-OM). Any change in
+             the methodology of calculation of interest rate shall be done with prior approval of the Authority.
+         • Before any Benefits are paid out, loan outstanding together with the interest thereon will be deducted and the balance
+             amount will be payable
+An in-force or fully Paid-up policy shall not be foreclosed for non re-payment of loan.
+
+
+D5. Issuance of Duplicate Policy:
+
+The Policyholder can request for a duplicate copy of the Policy at HDFC Life offices or through Certified Financial Consultant
+(Insurance Agent) who advised you while taking this Policy. While making an application for duplicate Policy the Policyholder is
+
+
+
+                                                Page 13 of 29
+                                        HDFC Life Star Saver-Terms & Conditions
+                        (An Individual Non-Linked, Non-Participating, Savings Life Insurance Plan)
+required to submit a notarized original indemnity bond on stamp paper. Additional charges may be applicable for issuance of the
+duplicate Policy.
+
+D.6. Alterations
+No alterations are permissible under the Policy except change in Premium Payment Mode and Payout Frequency. Alteration in the
+Premium Payment Mode may lead to a change in the Premium. Such alteration will be in accordance with the Board approved
+underwriting policy.
+
+
+
+
+                                               Page 14 of 29
+                                         HDFC Life Star Saver-Terms & Conditions
+                         (An Individual Non-Linked, Non-Participating, Savings Life Insurance Plan)
+   PART E
+   All the applicable Charges, Fund Name, Fund Options etc. (Applicable especially for ULIP Policies)
+
+E.1. Not Applicable as this is a Non-linked individual product.
+
+
+
+
+                                                Page 15 of 29
+                                             HDFC Life Star Saver-Terms & Conditions
+                             (An Individual Non-Linked, Non-Participating, Savings Life Insurance Plan)
+  PART F
+  General Terms and Conditions
+
+F.1.         Incorrect Information and Non-Disclosure: In issuing this Policy, the Company has relied on, and would rely on,
+             accuracy and completeness of the information provided by the Policyholder/Life Assured and any other declarations or
+             statements made or as may be made hereafter, by the Policyholder/Life Assured.
+
+             In case of fraud or misstatement, the Policy shall be treated in accordance with the provisions of Section 45 of the
+             Insurance Act 1938 as amended from time to time.
+
+             [A Leaflet containing the simplified version of the provisions of Section 45 is enclosed as Annexure I for
+             reference]
+
+F.2.         Age Admitted
+                The Company has calculated the Premiums under the Policy on the basis of the age of the Life Assured as declared
+                in the Proposal. In case you have not provided proof of age of the Life Assured with the Proposal, you will be required
+                to furnish such proof of age of the Life Assured as is acceptable to us and have the age admitted. In the event the
+                age so admitted (“Correct Age”) during the Policy Term is found to be different from the age declared in the Proposal,
+                without prejudice to our rights and remedies including those under the Insurance Act, 1938 as amended from time
+                to time, we shall take one of the following actions:
+       (i)      if the Correct Age makes the Life Assured ineligible for this Policy, we will offer you an alternative plan as per our
+                underwriting norms. If you do not wish to opt for the alternative plan or if it is not possible for us to grant any other
+                plan, the Policy will stand cancelled from the date of issuance and the Premiums paid under the Policy will be
+                returned(without interest) subject to the deduction of expenses incurred by the Company and the Policy will
+                terminate on the said payment; or (ii) if the Correct Age makes the Life Assured eligible for the Policy, the revised
+                Premium depending upon the Correct Age will be payable on the next Policy Anniversary date and the revised
+                Premium will continue for the rest of the Premium Paying Term. The provisions of Section 45 of the Insurance Act,
+                1938 as amended from time to time shall be applicable.
+
+F.3.         Assignment: Assignment should be in accordance with provisions of Section 38 of the Insurance Act 1938 as amended
+             from time to time.
+
+             [A Leaflet containing the simplified version of the provisions of Section 38 is enclosed as Annexure II for
+             reference].
+
+F.4.         Nomination: Nomination should be in accordance with provisions of Section 39 of the Insurance Act 1938 as amended
+             from time to time.
+
+             [A Leaflet containing the simplified version of the provisions of Section 39 is enclosed as Annexure III for
+             reference].
+
+F.5.         Review, revision: The Company reserves the right to review, revise, delete and/ or alter any of the terms and conditions
+             of this Policy, including without limitation the Benefits, the Premiums with the prior approval of IRDAI.
+
+F.6.         Release and discharge: The Policy will terminate automatically on payment of the refund from Free Look Cancellation,
+             Surrender Value, Death Benefit, Maturity Benefit or on Lapse of the Policy or on the happening of the events that the
+             Policy reads specifically that the Policy shall terminate, as the case may be, and the Company will be relieved and
+             discharged from all obligations under this Policy thereafter.
+
+F.7.       Taxes
+        (1) Indirect Taxes
+        Taxes and levies shall be levied as applicable. Any taxes and levies becoming applicable in future may become payable by
+        you by any method including by levy of an additional monetary amount in addition to premium and or charges.
+
+        (2) Direct Taxes
+        Tax, if any will be deducted at the applicable rate from the payments made under the Policy, as per the provisions of the
+        Income Tax Act, 1961 as amended from time to time.
+
+F.8.         Notice
+
+
+
+
+                                                    Page 16 of 29
+                                            HDFC Life Star Saver-Terms & Conditions
+                            (An Individual Non-Linked, Non-Participating, Savings Life Insurance Plan)
+        Any notice, direction or instruction given to us, under the Policy, shall be in writing and delivered by hand, post, facsimile or
+        from registered electronic mail ID to:
+
+        HDFC Life Insurance Company Limited, 11th Floor, Lodha Excelus, Apollo Mills Compound, N.M. Joshi Marg, Mahalaxmi,
+        Mumbai - 400011.
+
+        Registered Office: Lodha Excelus, 13th Floor, Apollo Mills Compound, N.M. Joshi Marg, Mahalaxmi, Mumbai - 400011.
+        E-mail: service@hdfclife.com
+        Or any of our HDFC Life Branches and such other address as may be informed by us.
+        Similarly, any notice, direction or instruction to be given by us, under the Policy, shall be in writing and delivered by hand,
+        post, courier, facsimile or registered electronic mail ID to the updated address in the records of the Company.
+           You are requested to communicate any change in address, to the Company supported by the required address proofs to
+           enable the Company to carry out the change of address in its systems. The onus of intimation of change of address lies
+           with the Policyholder. An updated contact detail of the Policyholder will ensure that correspondences from the Company
+           are correctly addressed to the Policyholder at the latest updated address.
+
+F.9.       Entire Contract: This Policy comprises of the terms and conditions set forth in this Policy Document, the Policy Schedule,
+           and the endorsements, if any, made on or applicable to this Policy, which shall form an integral part and the entire
+           contract evidenced by this Policy. The liability of the Company is at all times subject to the terms and conditions of this
+           Policy and the endorsements made from time to time.
+
+F.10.      Governing Law and Jurisdiction: This Policy shall be governed by and interpreted in accordance with the laws of
+           India. All actions, suits and proceedings under this Policy shall be subject to the exclusive jurisdiction of the courts in
+           India.
+
+F.11.      Risk Factors:
+           a) This is a An Individual Non- Linked, Non-Participating Savings Life Insurance Plan.
+           b) HDFC Life Insurance Company Limited is only the name of the Insurance Company and HDFC Life Star Saver is only
+               the name of the product does not in any way indicate the quality of the product, its future prospects or returns.
+
+F.12.      Death benefit for Minor Life: If Age of the Life Assured is greater than or equal to 12 years, the risk will commence
+           immediately from the Date of Commencement of Risk. If the Age of Life Assured is less than 12 years, the risk will
+           commence under the Policy (that is, full death benefit will become payable on death of Life Assured) on the last day of
+           second Policy Year. If the Age of Life Assured is less than 12 years and if the Life Assured dies before the last day of the
+           second Policy Year, the Death Benefit shall be restricted to the Total Premiums Paid.
+
+F.13.      Suicide Exclusion: In case of death due to suicide within 12 months from the Date of Commencement of Risk under
+           the policy or from the date of Revival of the policy, as applicable, the nominee or beneficiary of the policyholder shall be
+           entitled to at least 80% of the Total Premiums Paid till the date of death or the Surrender Value available as on the date
+           of death whichever is higher, provided the policy is in force.
+
+F.14.
+
+F.14.1. Maturity Benefit - The Maturity Benefit will be paid if
+
+(i)        The Policy has matured and the Life Assured is alive on the Maturity Date,
+(ii)       No claim has been made on the Policy, except any survival benefit, if any,
+(iii)      The Policy has not been discontinued or surrendered or cancelled or terminated; and
+(iv)       All relevant documents including the original Policy document in support of your claim have been provided to the
+           Company.
+
+Basic documentation for maturity claims:
+a) Original Policy Document
+b) NEFT mandate / discharge voucher
+c) NEFT supporting
+d) KYC documents
+
+F.14.2. Death Benefit - The Death Benefit will be paid if
+
+(i)        The death of the Life Assured has occurred before the Maturity Date,
+
+
+
+                                                   Page 17 of 29
+                                         HDFC Life Star Saver-Terms & Conditions
+                         (An Individual Non-Linked, Non-Participating, Savings Life Insurance Plan)
+(ii)     The standard Policy provisions specified in Part F Clause F.13. (Exclusions) and Clause F.1. (Incorrect Information and
+         Non Disclosure) are not attracted,
+(iii)    The Policy has not been discontinued or surrendered or cancelled or terminated; and
+(iv)     All relevant documents in support of the claim have been provided to the Company.
+
+Basic documentation if death is due to Natural Cause:
+a. Completed claim form, (including NEFT details and bank account proof as specified in the claim form);
+b. Original Policy;
+c. Original or copy Death Certificate issued by Municipal Authority/ Gram Panchayat / Tehsildar (attested by issuing authority);
+d. Claimant’s identity and residence proof.
+
+Basic documentation if death is due to Un-Natural Cause:
+a. Completed claim form, (including NEFT details and bank account proof as specified in the claim form);
+b. Original Policy;
+c. Original or copy Death Certificate issued by Municipal Authority/ Gram Panchayat / Tehsildar (attested by issuing authority);
+d. Claimant’s identity and residence proof.
+e. Original or copy of First Information Report, Police Panchnama report attested by Police authorities; and
+f. Original or copy of Postmortem report attested by Hospital authority.
+
+Note:
+             a.   In case original documents are submitted, attestation on the document by authorities is not required.
+             b.   Depending on the circumstances of the death, further documents may be called for as we deem fit.
+
+         The claim is required to be intimated to us within a period of 90 days from the date of death. However, we may condone
+         the delay in claim intimation, if any, where the claim is genuine and the delay is proved to be for reasons beyond the
+         control of the claimant.
+
+F.14.    Issuance of Duplicate Policy: In the event if the Policyholder loses/misplaces /destroys the original Policy bond, the
+         Policyholder shall immediately inform the Company, the Company after obtaining satisfactory evidence shall issue
+         duplicate Policy by collecting necessary charges not exceeding INR 250.
+
+F.15.    Force Majeure: During Force Majeure Event, the performance of the Policy may be wholly or partially suspended under
+         an intimation and prior approval of the IRDAI. We will resume Our obligations under the Policy after the Force Majeure
+         Event ceases to exist.
+
+F.16.    Policy on the Life of the Minor:
+
+         F.17.1. Vesting of the Policy: If the Policy is issued on the life of a minor, the Policy will vest on him/her, as specified
+         in the Policy Schedule and on his/her attainment of Age of majority and on such vesting, the Company will recognize
+         him/her to be the holder of the Policy.
+
+F.18. Modification, Amendment, Re-enactment of or to the Insurance laws and rules, regulations, guidelines,
+clarifications, circulars etc. thereunder
+
+F.18.1. This Policy is subject to
+     (i) The Insurance Act 1938, as amended from time to time,
+     (ii) Amendments, modifications (including re-enactment) as may be made from time to time, and
+     (iii) Other such relevant Regulations, Rules, Laws, Guidelines, Circulars, Enactments etc. as may be introduced thereunder
+           from time to time.
+F.18.2. We reserve the right to change any of these Policy Provisions / terms and conditions in accordance with changes in
+applicable Regulations or Laws, and where required, with IRDAI’s approval.
+F.18.3. We are required to obtain prior approval from the IRDAI before making any material changes to these provisions, except
+for changes of regulatory / statutory nature.
+F.18.4. We reserve the right to require submission by you of such documents and proof at all life stages of the Policy as may be
+necessary to meet the requirements under Anti- money Laundering/Know Your Customer norms and as may be laid down by
+IRDAI and other regulators from time to time.
+
+
+
+
+                                                Page 18 of 29
+                                           HDFC Life Star Saver-Terms & Conditions
+                           (An Individual Non-Linked, Non-Participating, Savings Life Insurance Plan)
+      PART G
+      Grievance Redressal Mechanism, List of Ombudsman and Other Annexures
+
+
+       G.1.           Grievance Redressal Process
+
+(i)    The customer can contact us at any of our touchpoints or write to us at the below mentioned address in case of any complaint/
+       grievance:
+       Grievance Redressal Officer
+       HDFC Life Insurance Company Limited
+       11th Floor, Lodha Excelus, Apollo Mills Compound,
+        N. M. Joshi Marg, Mahalaxmi, Mumbai, Maharashtra - 400011
+        Helpline number: 18602679999 (Call charges apply) | NRI Helpline Number: +91 8916694100 (Call Charges Apply)
+        E-mail: service@hdfclife.com |nriservice@hdfclife.com (For NRI customers only)
+(ii) All grievances (Service and sales) received by the Company will be responded to within the prescribed regulatory Turn Around
+       Time (TAT) of 14 days.
+(iii) Written request or email from the registered email id is mandatory.
+(iv) If required, we will investigate the complaints by taking inputs from the customer over the telephone or through personal
+       meetings.
+(v) We will issue an acknowledgement to the customer immediately on receipt of complaint.
+(vi) The acknowledgement that is sent to the customer has the details of the complaint number, the Policy number and the
+       Grievance Redressal department who will be handling the complaint of the customer.
+(vii) If the customer’s complaint is addressed before the acknowledgement, the resolution communication will also act as the
+       acknowledgment of the complaint.
+(viii) The final letter of resolution will offer redressal or rejection of the complaint along with the appropriate reason for the same.
+(ix) In case the customer is not satisfied with the decision sent to him or her, he or she may contact our Grievance Redressal
+       Officer within 8 weeks of the receipt of the communication at any of the touch points mentioned in the document, failing
+       which, we will consider the complaint to be satisfactorily resolved.
+(x) The following is the escalation matrix in case there is no response within the prescribed timelines or if you are not satisfied
+       with the response. The number of days specified in the below- mentioned escalation matrix will be applicable from the date
+       of escalation.
+
+                                                             Response
+              Level                  Designation                                  Email ID                         Address
+                                                          Time
+                                 Chief Manager or                                                                 11th    Floor,
+                                                              10 working
+              1st Level          above – Customer                            escalation1@hdfclife.com         Lodha     Excelus,
+                                                          days
+                                 Relations                                                                    Apollo        Mills
+                                                                                                              Compound, N M
+            2nd Level (for
+                                 VP    or     above–          7 working                                       Joshi    Marg     ,
+        response not received                                                escalation2@hdfclife.com
+                                 Customer Relations       days                                                Mahalakshmi,
+        from Level 1)
+                                                                                                              Mumbai 400011
+
+       You are requested to follow the aforementioned matrix to receive satisfactory response from us.
+
+(xi) If you are not satisfied with the response or do not receive a response from us within 15 14days, you may approach the
+Grievance Cell of IRDAI on the following contact details:
+     •    IRDAI Grievance Call Centre (IGCC) TOLL FREE NO: 155255/ 18004254732
+     •    Email ID: complaints@irdai.gov.in
+     •    Online- You can register your complaint online at /https://bimabharosa.irdai.gov.in/
+     •    Address for communication for complaints by fax/paper:
+     General Manager
+     Insurance Regulatory and Development Authority of India (IRDAI)
+     Policyholder’s protection & Grievance Redressal Department – Grievance Redressal Cell.
+     Sy No. 115/1, Financial District,
+     Nanakramguda, Gachibowli,
+     Hyderabad – 500 032
+
+
+
+                                                  Page 19 of 29
+                                       HDFC Life Star Saver-Terms & Conditions
+                       (An Individual Non-Linked, Non-Participating, Savings Life Insurance Plan)
+
+2. In the event you are dissatisfied with the response provided by us, you may approach the Insurance Ombudsman in your
+region. The details of the existing offices of the Insurance Ombudsman are provided at http://www.cioins.co.in/.
+
+    a. Details and addresses of Insurance Ombudsman
+
+      Office of the
+                            Contact Details                              Areas of Jurisdiction
+      Ombudsman
+                            AHMEDABAD - Shri Kuldip Singh
+                            Office of the Insurance Ombudsman,
+                            Jeevan Prakash Building, 6th floor,          Gujarat,
+      AHMEDABAD             Tilak Marg, Relief Road,                     Dadra & Nagar Haveli,
+                            Ahmedabad – 380 001.                         Daman and Diu.
+                            Tel.: 079 - 25501201/02/05/06
+                            Email: bimalokpal.ahmedabad@cioins.co.in
+                            Office of the Insurance Ombudsman,
+                            1st floor, "Jeevan Shikha",
+                            60-B,Hoshangabad Road, Opp. Gayatri          Madhya Pradesh
+      BHOPAL
+                            Mandir, Bhopal – 462 011.                    Chattisgarh.
+                            Tel.: 0755 - 2769201 / 2769202
+                            Email: bimalokpal.bhopal@cioins.co.in
+
+                            Office of the Insurance Ombudsman,
+                            62, Forest park,
+      BHUBANESHWAR          Bhubneshwar – 751 009.                       Orissa.
+                            Tel.: 0674 - 2596461 /2596455
+                            Fax: 0674 - 2596429
+                            Email: bimalokpal.bhubaneswar@cioins.co.in
+                            Office of the Insurance Ombudsman,
+                            Jeevan Soudha Building,PID No. 57-27-N-19
+                            Ground Floor, 19/19, 24th Main Road,
+      BENGALURU             JP Nagar, Ist Phase,                         Karnataka.
+                            Bengaluru – 560 078.
+                            Tel.: 080 - 26652048 / 26652049
+                            Email: bimalokpal.bengaluru@cioins.co.in
+                            Office of the Insurance Ombudsman,
+                                                                         Punjab,
+                            S.C.O. No. 101, 102 & 103, 2nd Floor,
+                                                                         Haryana(excluding Gurugram, Faridabad,
+                            Batra Building, Sector 17 – D,
+                                                                         Sonepat and Bahadurgarh)
+      CHANDIGARH            Chandigarh – 160 017.
+                                                                         Himachal Pradesh, Union Territories of
+                            Tel.: 0172 - 2706196 / 2706468
+                                                                         Jammu & Kashmir,
+                            Fax: 0172 - 2708274
+                                                                         Ladakh & Chandigarh.
+                            Email: bimalokpal.chandigarh@cioins.co.in
+                            Office of the Insurance Ombudsman,
+                            Fatima Akhtar Court, 4th Floor, 453,
+                                                                         Tamil Nadu,
+                            Anna Salai, Teynampet,
+                                                                         Tamil Nadu
+      CHENNAI               CHENNAI – 600 018.
+                                                                         PuducherryTown and
+                            Tel.: 044 - 24333668 / 24335284
+                                                                         Karaikal (which are part of Puducherry).
+                            Fax: 044 - 24333664
+                            Email: bimalokpal.chennai@cioins.co.in
+                            Office of the Insurance Ombudsman,
+                            2/2 A, Universal Insurance Building,
+                                                                         Delhi &
+                            Asaf Ali Road,
+      DELHI                                                              Following Districts of Haryana - Gurugram,
+                            New Delhi – 110 002.
+                                                                         Faridabad, Sonepat & Bahadurgarh.
+                            Tel.: 011 - 23232481/23213504
+                            Email: bimalokpal.delhi@cioins.co.in
+                            Office of the Insurance Ombudsman,           Assam,
+                            Jeevan Nivesh, 5th Floor,                    Meghalaya,
+      GUWAHATI
+                            Nr. Panbazar over bridge, S.S. Road,         Manipur,
+                            Guwahati – 781001(ASSAM).                    Mizoram,
+
+
+
+                                              Page 20 of 29
+                            HDFC Life Star Saver-Terms & Conditions
+            (An Individual Non-Linked, Non-Participating, Savings Life Insurance Plan)
+                Tel.: 0361 - 2632204 / 2602205              Arunachal Pradesh,
+                Email: bimalokpal.guwahati@cioins.co.in     Nagaland and Tripura.
+                Office of the Insurance Ombudsman,
+                6-2-46, 1st floor, "Moin Court",
+                Lane Opp. Saleem Function Palace,           Andhra Pradesh,
+                A. C. Guards, Lakdi-Ka-Pool,                Telangana,
+HYDERABAD
+                Hyderabad - 500 004.                        Yanam and
+                Tel.: 040 - 23312122                        part of Union Territory of Puducherry.
+                Fax: 040 - 23376599
+                Email: bimalokpal.hyderabad@cioins.co.in
+                Office of the Insurance Ombudsman,
+                Jeevan Nidhi – II Bldg., Gr. Floor,
+                Bhawani Singh Marg,
+JAIPUR                                                      Rajasthan.
+                Jaipur - 302 005.
+                Tel.: 0141 - 2740363
+                Email: bimalokpal.jaipur@cioins.co.in
+                Office of the Insurance Ombudsman,
+                10th Floor, Jeevan Prakash, LIC Building,   Kerala,
+KOCHI           Opp to Maharaja's College, M.G.Road,        Lakshadweep,
+                Kochi- 682 011.                             Mahe-a part of Union Territory of
+                Tel.: 0484 – 2358759                        Puducherry.
+                Email: bimalokpal.ernakulam@cioins.co.in
+                Office of the Insurance Ombudsman,
+                Hindustan Bldg. Annexe, 4th Floor,
+                4, C.R. Avenue,                             West Bengal,
+KOLKATA         KOLKATA - 700 072.                          Sikkim,
+                Tel.: 033 - 22124339 / 22124340             Andaman & Nicobar Islands.
+                Fax : 033 - 22124341
+                Email: bimalokpal.kolkata@cioins.co.in
+                                                            Districts of Uttar Pradesh :
+                                                            Lalitpur, Jhansi, Mahoba, Hamirpur,
+                                                            Banda, Chitrakoot, Allahabad, Mirzapur,
+                Office of the Insurance Ombudsman,          Sonbhabdra, Fatehpur, Pratapgarh,
+                6th Floor, Jeevan Bhawan, Phase-II,         Jaunpur,Varanasi, Gazipur, Jalaun, Kanpur,
+                Nawal Kishore Road, Hazratganj,             Lucknow, Unnao, Sitapur, Lakhimpur,
+LUCKNOW         Lucknow - 226 001.                          Bahraich, Barabanki, Raebareli, Sravasti,
+                Tel.: 0522 - 2231330 / 2231331              Gonda, Faizabad, Amethi, Kaushambi,
+                Fax: 0522 - 2231310                         Balrampur, Basti, Ambedkarnagar,
+                Email: bimalokpal.lucknow@cioins.co.in      Sultanpur, Maharajgang, Santkabirnagar,
+                                                            Azamgarh, Kushinagar, Gorkhpur, Deoria,
+                                                            Mau, Ghazipur, Chandauli, Ballia,
+                                                            Sidharathnagar.
+                Office of the Insurance Ombudsman,
+                3rd Floor, Jeevan Seva Annexe,
+                S. V. Road, Santacruz (W),
+                                                            Goa,
+                Mumbai - 400 054.
+MUMBAI                                                      Mumbai Metropolitan Region
+                Tel.:
+                                                            excluding Navi Mumbai & Thane.
+                69038821/23/24/25/26/27/28/28/29/30/31
+                Fax: 022 - 26106052
+                Email: bimalokpal.mumbai@cioins.co.in
+                                                            State of Uttaranchal and the following
+                Office of the Insurance Ombudsman,
+                                                            Districts of Uttar Pradesh:
+                Bhagwan Sahai Palace
+                                                            Agra, Aligarh, Bagpat, Bareilly, Bijnor,
+                4th Floor, Main Road,
+                                                            Budaun, Bulandshehar, Etah, Kanooj,
+                Naya Bans, Sector 15,
+NOIDA                                                       Mainpuri, Mathura, Meerut, Moradabad,
+                Distt: Gautam Buddh Nagar,
+                                                            Muzaffarnagar, Oraiyya, Pilibhit, Etawah,
+                U.P-201301.
+                                                            Farrukhabad, Firozbad,
+                Tel.: 0120-2514252 / 2514253
+                                                            Gautambodhanagar, Ghaziabad, Hardoi,
+                Email: bimalokpal.noida@cioins.co.in
+                                                            Shahjahanpur, Hapur, Shamli, Rampur,
+
+
+
+                                Page 21 of 29
+                                         HDFC Life Star Saver-Terms & Conditions
+                         (An Individual Non-Linked, Non-Participating, Savings Life Insurance Plan)
+                                                                                 Kashganj, Sambhal, Amroha, Hathras,
+                                                                                 Kanshiramnagar, Saharanpur.
+                               Office of the Insurance Ombudsman,
+                               2nd Floor, Lalit Bhawan,
+      PATNA                    Bailey Road,                                      Bihar,
+                               Patna 800 001.                                    Jharkhand.
+                               Tel.: 0612-2547068
+                               Email: bimalokpal.patna@cioins.co.in
+                               Office of the Insurance Ombudsman,
+                               Jeevan Darshan Bldg., 3rd Floor,
+                               C.T.S. No.s. 195 to 198,                          Maharashtra,
+      PUNE                     N.C. Kelkar Road, Narayan Peth,                   Area of Navi Mumbai and Thane
+                               Pune – 411 030.                                   excluding Mumbai Metropolitan Region.
+                               Tel.: 020-41312555
+                               Email: bimalokpal.pune@cioins.co.in
+
+ b. Insurance Ombudsman-
+1) The Ombudsman shall receive and consider complaints alleging deficiency in performance required of an insurer (including
+    its agents and intermediaries) or an insurance broker, on any of the following grounds—
+(a) delay in settlement of claims, beyond the time specified in the regulations, framed under the Insurance Regulatory and
+    Development Authority of India Act, 1999;
+(b) any partial or total repudiation of claims by the life insurer, general insurer or the health insurer;
+(c) disputes over Premium paid or payable in terms of insurance Policy;
+(d) misrepresentation of Policy terms and conditions at any time in the Policy document or Policy contract;
+(e) legal construction of insurance policies in so far as the dispute relates to claim;
+(f) Policy servicing related grievances against insurers and their agents and intermediaries;
+(g) issuance of life insurance Policy, general insurance Policy including health insurance Policy which is not in conformity with the
+    proposal form submitted by the proposer;
+(h) non-issuance of insurance Policy after receipt of Premium in life insurance and general insurance including health insurance;
+    and
+(i) any other matter arising from non-observance of or non-adherence to the provisions of any regulations made by the Authority
+    with regard to protection of policyholders’ interests or otherwise, or of any circular, guideline or instruction issued by the
+    Authority, or of the terms and conditions of the policy contract, insofar as such matter relates to issues referred to in clauses
+    (a) to (h).
+
+c. Manner in which complaint is to be made -
+1) Any person who has a grievance against an insurer or insurance broker, may himself or through his legal heirs, nominee or
+     assignee, make a complaint in writing to the Insurance Ombudsman within whose territorial jurisdiction the branch or office
+     of the insurer or the insurance broker, as the case may be, complained against or the residential address or place of residence
+     of the complainant is located.
+2) The complaint shall be in writing, duly signed or made by way of electronic mail or online through the website of the Council
+     for Insurance Ombudsmen, by the complainant or through his legal heirs, nominee or assignee and shall state clearly the
+     name and address of the complainant, the name of the branch or office of the insurer against whom the complaint is made,
+     the facts giving rise to the complaint, supported by documents, the nature and extent of the loss caused to the complainant
+     and the relief sought from the Insurance Ombudsman.
+3) No complaint to the Insurance Ombudsman shall lie unless—
+(a) the complainant has made a representation in writing or through electronic mail or online through website of the insurer or
+     insurance broker concerned to the insurer or insurance broker, as the case may be, named in the complaint and—
+i. either the insurer or insurance broker, as the case may be, had rejected the complaint; or
+ii. the complainant had not received any reply within a period of one month after the insurer or insurance broker, as the case
+     may be, received his representation; or
+iii. the complainant is not satisfied with the reply given to him by the insurer or insurance broker, as the case may be;
+(b) The complaint is made within one year—
+i. after the order of the insurer or insurance broker, as the case may be, rejecting the representation is received; or
+
+
+
+
+                                                 Page 22 of 29
+                                         HDFC Life Star Saver-Terms & Conditions
+                         (An Individual Non-Linked, Non-Participating, Savings Life Insurance Plan)
+ii.    after receipt of decision of the insurer or insurance broker, as the case may be, which is not to the satisfaction of the
+       complainant;
+ iii. after expiry of a period of one month from the date of sending the written representation to the insurer or insurance broker,
+       as the case may be, if the insurer named fails to furnish reply to the complainant.
+4) The Ombudsman shall be empowered to condone the delay in such cases as he may consider necessary, after calling for
+       objections of the insurer or insurance broker, as the case may be, against the proposed condonation and after recording
+       reasons for condoning the delay and in case the delay is condoned, the date of condonation of delay shall be deemed to be
+       the date of filing of the complaint, for further proceedings under these rules.
+5) No complaint before the Insurance Ombudsman shall be maintainable on the same subject matter on which proceedings are
+       pending before or disposed of by any court or consumer forum or arbitrator.
+            The Council for Insurance Ombudsmen shall develop a complaints management system, which shall include an online
+            platform developed for the purpose of online submission and tracking of the status of complaints made under rule 14 of
+            Insurance Ombudsman Rules, 2017.
+
+d) Implementation of Ombudsman Award -
+
+The Insurer is required to comply with the award of the Insurance Ombudsman within 30 days of receipt of award by the Insurer.
+In case the Insurer does not honour the ombudsman award, a penalty of Rs. 5000/- per day shall be payable to the complainant.
+Such penalty is in addition to the penal interest liable to be paid by the Insurer under the Insurance Ombudsman Rules, 2017.
+This provision will not be applicable in case insurer chooses to appeal against the award of the Insurance Ombudsman.
+
+
+
+
+                                                Page 23 of 29
+                                          HDFC Life Star Saver-Terms & Conditions
+                          (An Individual Non-Linked, Non-Participating, Savings Life Insurance Plan)
+ANNEXURE – I
+
+Section 45 – Policy shall not be called in question on the ground of misstatement after three years
+
+Provisions regarding policy not being called into question in terms of Section 45 of the Insurance Act, 1938, as amended from
+time to time are as follows:
+
+01. No Policy of Life Insurance shall be called in question on any ground whatsoever after expiry of 3 years from
+a. the date of issuance of Policy or
+b. the date of commencement of risk or
+c. the date of revival of Policy or
+d. the date of rider to the Policy
+whichever is later.
+
+02. On the ground of fraud, a policy of Life Insurance may be called in question within 3 years from
+a. the date of issuance of Policy or
+b. the date of commencement of risk or
+c. the date of revival of Policy or
+d. the date of rider to the Policy
+whichever is later.
+
+For this, the insurer should communicate in writing to the insured or legal representative or nominee or assignees of insured, as
+applicable, mentioning the ground and materials on which such decision is based.
+
+03. Fraud means any of the following acts committed by insured or by his agent, with the intent to deceive the insurer or to induce
+the insurer to issue a life insurance Policy:
+
+a. The suggestion, as a fact of that which is not true and which the insured does not believe to be true;
+b. The active concealment of a fact by the insured having knowledge or belief of the fact;
+c. Any other act fitted to deceive; and
+d. Any such act or omission as the law specifically declares to be fraudulent.
+
+04. Mere silence is not fraud unless, depending on circumstances of the case, it is the duty of the insured or his agent keeping
+silence to speak or silence is in itself equivalent to speak.
+
+05. No Insurer shall repudiate a life insurance Policy on the ground of Fraud, if the Insured / claimant can prove that the
+misstatement was true to the best of his knowledge and there was no deliberate intention to suppress the fact or that such
+misstatement of or suppression of material fact are within the knowledge of the insurer. Onus of disproving is upon the
+Policyholder, if alive, or claimant.
+
+06. Life insurance Policy can be called in question within 3 years on the ground that any statement of or suppression of a fact
+material to expectancy of life of the insured was incorrectly made in the proposal or other document basis which Policy was issued
+or revived or rider issued. For this, the insurer should communicate in writing to the insured or legal representative or nominee or
+assignees of insured, as applicable, mentioning the ground and materials on which decision to repudiate the Policy of life insurance
+is based.
+
+07. In case repudiation is on ground of misstatement and not on fraud, the Premium collected on Policy till the date of repudiation
+shall be paid to the insured or legal representative or nominee or assignees of insured, within a period of 90 days from the date
+of repudiation.
+
+08. Fact shall not be considered material unless it has a direct bearing on the risk undertaken by the insurer. The onus is on insurer
+to show that if the insurer had been aware of the said fact, no life insurance Policy would have been issued to the insured.
+
+09. The insurer can call for proof of age at any time if he is entitled to do so and no Policy shall be deemed to be called in question
+merely because the terms of the Policy are adjusted on subsequent proof of age of life insured. So, this Section will not be
+applicable for questioning age or adjustment based on proof of age submitted subsequently.
+
+[Disclaimer: This is not a comprehensive list of amendments. Policyholders are advised to refer to Section 45 of
+the Insurance Act, 1938, as amended from time to time for complete and accurate details].
+
+
+
+
+                                                 Page 24 of 29
+                                          HDFC Life Star Saver-Terms & Conditions
+                          (An Individual Non-Linked, Non-Participating, Savings Life Insurance Plan)
+
+ANNEXURE – II
+
+
+Section 38 - Assignment and Transfer of Insurance Policies:
+
+Provisions regarding assignment or transfer of a Policy in terms of Section 38 of the Insurance Act, 1938, as amended from time
+to time are as follows:
+
+01. This Policy may be transferred/assigned, wholly or in part, with or without consideration.
+
+02. An Assignment may be effected in a policy by an endorsement upon the Policy itself or by a separate instrument under notice
+to the Insurer.
+
+03. The instrument of assignment should indicate the fact of transfer or assignment and the reasons for the assignment or transfer,
+antecedents of the assignee and terms on which assignment is made.
+
+04. The assignment must be signed by the transferor or assignor or duly authorized agent and attested by at least one witness.
+
+05. The transfer of assignment shall not be operative as against an insurer until a notice in writing of the transfer or assignment
+and either the said endorsement or instrument itself or copy there of certified to be correct by both transferor and transferee or
+their duly authorised agents have been delivered to the insurer.
+
+06. Fee to be paid for assignment or transfer can be specified by the Authority through Regulations.
+
+07. On receipt of notice with fee, the Insurer should Grant a written acknowledgement of receipt of notice. Such notice shall be
+conclusive evidence against the Insurer of duly receiving the notice.
+
+08. If the insurer maintains one or more places of business, such notices shall be delivered only at the place where the Policy is
+being serviced.
+
+09. The insurer may accept or decline to act upon any transfer or assignment or endorsement, if it has sufficient reasons to believe
+that it is
+a. not bonafide or
+b. not in the interest of the Policyholder or
+c. not in public interest or
+d. is for the purpose of trading of the insurance policy.
+
+10. Before refusing to act upon endorsement, the Insurer should record the reasons in writing and communicate the same in
+writing to Policyholder within 30 days from the date of Policyholder giving a notice of transfer or assignment.
+
+11. In case of refusal to act upon the endorsement by the Insurer, any person aggrieved by the refusal may prefer a claim to
+IRDAI within 30 days of receipt of the refusal letter from the Insurer.
+
+12. The priority of claims of persons interested in an insurance policy would depend on the date on which the notices of assignment
+or transfer is delivered to the Insurer; where there are more than one instruments of transfer or assignment, the priority will
+depend on dates of delivery of such notices. Any dispute in this regard as to priority should be referred to Authority.
+
+13. Every assignment or transfer shall be deemed to be absolute assignment or transfer and the assignee or transferee shall be
+deemed to be absolute assignee or transferee, except
+
+a. where assignment or transfer is subject to terms and conditions of transfer or assignment OR
+
+b. where the transfer or assignment is made upon condition that
+
+i. the proceeds under the Policy shall become payable to Policyholder or nominee(s) in the event of assignee or transferee dying
+before the insured OR
+
+ii. the insured surviving the term of the Policy
+
+
+
+
+                                                   Page 25 of 29
+                                         HDFC Life Star Saver-Terms & Conditions
+                         (An Individual Non-Linked, Non-Participating, Savings Life Insurance Plan)
+Such conditional assignee will not be entitled to obtain a loan on policy or surrender the Policy. This provision will prevail
+notwithstanding any law or custom having force of law which is contrary to the above position.
+
+14. In other cases, the insurer shall, subject to terms and conditions of assignment, recognize the transferee or assignee named
+in the notice as the absolute transferee or assignee and such person
+
+a. shall be subject to all liabilities and equities to which the transferor or assignor was subject to at the date of transfer or
+assignment and
+
+b. may institute any proceedings in relation to the Policy
+
+c. obtain loan under the Policy or surrender the Policy without obtaining the consent of the transferor
+or assignor or making him a party to the proceedings
+
+15. Any rights and remedies of an assignee or transferee of a life insurance policy under an assignment or transfer effected before
+commencement of the Insurance Laws (Amendment) Ordinance,2014 shall not be affected by this section.
+
+[Disclaimer: This is not a comprehensive list of amendments. Policyholders are advised to refer to Section 38 of
+the Insurance Act, 1938, as amended from time to time for complete and accurate details].
+
+
+
+
+                                                 Page 26 of 29
+                                         HDFC Life Star Saver-Terms & Conditions
+                         (An Individual Non-Linked, Non-Participating, Savings Life Insurance Plan)
+ANNEXURE – III
+
+
+Section 39 – Nomination by Policyholder
+
+Provisions regarding nomination of a Policy in terms of Section 39 of the Insurance Act, 1938, as amended from time to time are
+as follows:
+
+01. The Policyholder of a life insurance on his own life may nominate a person or persons to whom money secured by the Policy
+shall be paid in the event of his death.
+
+02. Where the nominee is a minor, the Policyholder may appoint any person to receive the money secured by the Policy in the
+event of Policyholder’s death during the minority of the nominee. The manner of appointment is to be laid down by the insurer.
+
+03. Nomination can be made at any time before the maturity of the Policy.
+
+04. Nomination may be incorporated in the text of the Policy itself or may be endorsed on the Policy communicated to the insurer
+and can be registered by the insurer in the records relating to the Policy.
+
+05. Nomination can be cancelled or changed at any time before Policy matures, by an endorsement or a further endorsement or
+a will as the case may be.
+
+06. A notice in writing of Change or Cancellation of nomination must be delivered to the Insurer for the Insurer to be liable to
+such nominee. Otherwise, Insurer will not be liable if a bona fide payment is made to the person named in the text of the Policy
+or in the registered records of the Insurer.
+
+07. Fee to be paid to the Insurer for registering change or cancellation of a nomination can be specified by the Authority through
+Regulations.
+
+08. On receipt of notice with fee, the Insurer should grant a written acknowledgement to the Policyholder of having registered a
+nomination or cancellation or change thereof.
+
+09. A transfer or assignment made in accordance with Section 38 shall automatically cancel the nomination except in case of
+assignment to the insurer or other transferee or assignee for purpose of loan or against security or its reassignment after
+repayment. In such case, the nomination will not get cancelled to the extent of insurer’s or transferee’s or assignee’s interest in
+the policy. The nomination will get revived on repayment of the loan.
+
+10. The right of any creditor to be paid out of the proceeds of any Policy of life insurance shall not be affected by the nomination.
+
+11. In case of nomination by Policyholder whose life is insured, if the nominees die before the Policyholder, the proceeds are
+payable to Policyholder or his heirs or legal representatives or holder of succession certificate.
+
+12. In case nominee(s) survive the person whose life is insured, the amount secured by the Policy shall be paid to such survivor(s).
+
+13. Where the Policyholder whose life is insured nominates his
+a.   Parents, or
+b.   Spouse, or
+c.   Children, or
+d.   Spouse, and children
+e.   or any of them
+
+the nominees are beneficially entitled to the amount payable by the Insurer to the Policyholder unless it is proved that Policyholder
+could not have conferred such beneficial title on the nominee having regard to the nature of his title.
+
+14. If nominee(s) die after the Policyholder but before his share of the amount secured under the Policy is paid, the share of the
+expired nominee(s) shall be payable to the heirs or legal representative of the nominee or holder of succession certificate of such
+nominee(s).
+
+15. The provisions of sub-section 7 and 8 (13 and 14 above) shall apply to all life insurance Policies maturing for payment after
+the commencement of Insurance Laws (Amendment) Act 2015.
+
+
+
+                                                 Page 27 of 29
+                                         HDFC Life Star Saver-Terms & Conditions
+                         (An Individual Non-Linked, Non-Participating, Savings Life Insurance Plan)
+
+16. If Policyholder dies after maturity but the proceeds and benefit of the Policy has not been paid to him because of his death,
+his nominee(s) shall be entitled to the proceeds and benefit of the Policy.
+
+17. The provisions of Section 39 are not applicable to any life insurance Policy to which Section 6 of Married Women’s Property
+Act, 1874 applies or has at any time applied except where before or after Insurance Laws (Amendment) Act 2015, a nomination
+is made in favour of spouse or children or spouse and children whether or not on the face of the Policy it is mentioned that it is
+made under Section 39. Where nomination is intended to be made to spouse or children or spouse and children under Section 6
+of MWP Act, it should be specifically mentioned on the Policy. In such a case only, the provisions of Section 39 will not apply.
+
+[Disclaimer: This is not a comprehensive list of amendments. Policyholders are advised to refer to Section 39 of
+the Insurance Act, 1938, as amended from time to time for complete and accurate details].
+
+
+
+
+                                                Page 28 of 29
+                                         HDFC Life Star Saver-Terms & Conditions
+                         (An Individual Non-Linked, Non-Participating, Savings Life Insurance Plan)
+Annexure – IV
+
+Accidental Death: For the accident death benefit to be payable, death due to the accident must occur within 180 days of the
+accident. The cover with regard to Additional Accidental Death Benefit will commence on the date of life assured attaining age 18
+years.
+
+Injury: means the accidental physical bodily harm excluding illness or disease solely and directly caused by external, violent and
+visible and evident means which is verified and certified by a registered independent medical practitioner.
+No accidental death benefit is payable if death is caused directly or indirectly by any of the following:
+
+1.  Infection: Death or Disability caused or contributed to by any infection, except infection caused by an external visible wound
+    accidentally sustained.
+2.  Drug Abuse: Member under the influence of Alcohol or solvent abuse or use of drugs except under the direction of a registered
+    independent medical practitioner.
+3.  Suicide or Self-inflicted Injury: Intentional self- Inflicted injury.
+4.  Criminal acts: Member involvement in Criminal and/or unlawful acts with criminal intent.
+5.  War and Civil Commotion: War, invasion, hostilities, (whether war is declared or not), civil war, rebellion, revolution or taking
+    part in a riot or civil commotion.
+6.  Nuclear Contamination: The radioactive, explosive or hazardous nature of nuclear fuel materials or property contaminated
+    by nuclear fuel materials or accident arising from such nature.
+7.  Aviation: Member participation in any flying activity, other than as a passenger in a commercially licensed aircraft.
+8.  Hazardous sports and pastimes: Taking part or practicing for any hazardous hobby, pursuit or any race not previously declared
+    and accepted by the Company.
+9.  Poison: Taking or absorbing any poison with an intention of committing suicide.
+10. Toxic Gases: Inhaling any gas or fumes, with an intention of committing suicide.
+11. Physical handicap or mental infirmity existing at the time of insurance application.
+
+The above exclusions shall not be applicable in case of basic death benefit.
+
+
+
+
+                                                 Page 29 of 29
+
