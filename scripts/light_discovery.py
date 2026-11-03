@@ -32,7 +32,7 @@ SEEDS = {
     'absli': ['https://lifeinsurance.adityabirlacapital.com/forms-and-downloads/brochures-and-specimen-contracts/'],
     'pnb-metlife': ['https://www.pnbmetlife.com/life-insurance-plans.html', 'https://www.pnbmetlife.com/downloads.html'],
     'canara-hsbc': ['https://www.canarahsbclife.com/product-list'],
-    'indiafirst': ['https://www.indiafirstlife.com/life-insurance-plans'],
+    'indiafirst': ['https://www.indiafirstlife.com/life-insurance-plans', 'https://www.indiafirstlife.com/pdf-sitemap.xml'],
     'indusind-nippon': ['https://www.indusindnipponlife.com/all-plans'],
     'shriram-life': ['https://www.shriramlife.com/life-insurance', 'https://www.shriramlife.com/child-plans'],
     'ageas-federal': ['https://www.ageasfederal.com/brochures-list'],
@@ -45,7 +45,7 @@ SEEDS = {
     'aviva-life': ['https://www.avivaindia.com/form-and-resource-help-desk', 'https://www.avivaindia.com/life-insurance-plans'],
     'bandhan-life': ['https://www.bandhanlife.com/find-your-plan', 'https://www.bandhanlife.com/savings-plans'],
     'sbi-life': [],
-    'acko-life': ['https://www.acko.com/life-insurance/'],
+    'acko-life': ['https://www.acko.com/life/download/', 'https://www.acko.com/life-insurance/'],
     'creditaccess-life': ['https://www.creditaccesslife.in/savings_product.php'],
 }
 BROCHURE_WORDS = re.compile(r'brochure|sales[-_ ]?lit|prospectus|leaflet|\bsl\b|_sl_|-sl-|one[-_ ]?pager|product[-_ ]?info', re.I)
@@ -133,6 +133,8 @@ def score(url, text, prod, on_product_page=False):
     if prod['uin'] and prod['uin'].lower() in blob.replace(' ', ''): s += 2
     toks = name_tokens(prod['product_name'])
     if toks: s += 8 * sum(1 for t in toks if t in blob) / len(toks)
+    slug = re.sub(r'[^a-z0-9]+', '-', prod['product_name'].lower().replace("'", '')).strip('-')
+    if slug and re.search(r'(^|[/_-])' + re.escape(slug) + r'([._-]|$)', u.rsplit('/', 1)[-1] + '/' + u): s += 6   # full name as a file/folder slug
     if BROCHURE_WORDS.search(blob): s += 3
     if POLICY_WORDS.search(blob): s += 1
     if BAD_WORDS.search(blob): s -= 5
@@ -149,7 +151,7 @@ WRONG_KIND = re.compile(r'customer information sheet|know your policy|benefit il
 def doc_kind_problem(txt, prod):
     """Why this is not the product's brochure/policy document ('' if it looks right)."""
     pages = txt.split('\f')
-    top = re.sub(r'\s+', ' ', ' '.join(pages[:2]))[:600]
+    top = re.sub(r'\s+', ' ', ' '.join(pages[:2]))[:250]                 # titles only: brochures mention 'proposal form' in body text
     if WRONG_KIND.search(top): return 'looks like ' + WRONG_KIND.search(top).group(0).lower()
     toks = name_tokens(prod['product_name'])
     z = lambda x: x.replace('z', 's')                                   # Maximizer / Maximiser
@@ -172,15 +174,26 @@ def find_desc(txt, pdf=None):
             if not RIDER.search(d) and re.search(r'individual|life|pension|annuity|savings|term|risk|health|protection|endowment|micro', d, re.I): return d
     return ''
 
+def tess(png):
+    try: return subprocess.run(['tesseract', png, '-'], capture_output=True, text=True, timeout=120).stdout
+    except subprocess.TimeoutExpired: return ''
+
+def ocr_text(pdf, dpi='300'):
+    """Full-document OCR (pdftoppm + tesseract), pages separated by form feeds like pdftotext."""
+    import tempfile, glob
+    with tempfile.TemporaryDirectory() as d:
+        subprocess.run(['pdftoppm', '-r', dpi, '-scale-to', str(int(dpi) * 12), '-png', pdf, os.path.join(d, 'p')], capture_output=True)
+        return '\f'.join(tess(f) for f in sorted(glob.glob(os.path.join(d, 'p*.png'))))
+
 def ocr_desc(pdf, pages=3):
     """Description line printed inside an image: OCR the first pages (tesseract) and search them.
     Tries 400 dpi, then 200 dpi (each misreads some layouts)."""
     import tempfile, glob
     for dpi in ('400', '200'):
         with tempfile.TemporaryDirectory() as d:
-            subprocess.run(['pdftoppm', '-f', '1', '-l', str(pages), '-r', dpi, '-png', pdf, os.path.join(d, 'p')], capture_output=True)
-            txt = '\f'.join(subprocess.run(['tesseract', f, '-'], capture_output=True, text=True).stdout
-                            for f in sorted(glob.glob(os.path.join(d, 'p*.png'))))
+            subprocess.run(['pdftoppm', '-f', '1', '-l', str(pages), '-r', dpi, '-scale-to', str(int(dpi) * 12), '-png', pdf,
+                            os.path.join(d, 'p')], capture_output=True)   # cap: huge pages would stall tesseract
+            txt = '\f'.join(tess(f) for f in sorted(glob.glob(os.path.join(d, 'p*.png'))))
         desc = find_desc(txt)
         if desc and classify_desc(desc)[0] != 'not stated' or desc and 'unit' in desc.lower(): return desc
     return desc
@@ -232,8 +245,11 @@ def main():
         write_index(rows, idx_cols)
         save(resf, done, M, checklist=(resf == 'results/light_discovery_results.csv')); return
     if a.merge is not None:
+        slug_of = {m['row_id']: m['insurer_slug'] for m in M}
         for f in a.merge:
+            own = os.path.basename(f).rsplit('.', 1)[0]           # <slug>.csv: take only that insurer's rows
             for r in csv.DictReader(open(f)):
+                if own in slug_of.values() and slug_of.get(r['row_id']) != own: continue
                 if r['status'] == 'ok' or done.get(r['row_id'], {}).get('status') != 'ok': done[r['row_id']] = r
         save(resf, done, M); return
     idx_cols = open('index.csv').readline().strip().split(',')
@@ -281,13 +297,22 @@ def main():
         ranked = [x for x in allr if not is_pol(x[1], x[3])][:8] + [x for x in allr if is_pol(x[1], x[3])][:3]
         if a.dry_run:
             print(prod['product_name'], prod['uin'], '->', [(round(s, 1), u[-80:]) for s, u, _, _ in ranked]); continue
-        ok = False; big = ''
+        ok = False; big = ''; ocr_tries = 0
         for sc, u, pg, t in ranked:
             tmp = os.path.join(a.tmp, 'dl.pdf')
             code, eff = fetch(u, tmp)
             body = open(tmp, 'rb').read() if os.path.exists(tmp) else b''
             if code != 200 or body[:4] != b'%PDF': continue
-            txt = pdf_text(tmp); flat = re.sub(r'\s+', '', txt)
+            txt = pdf_text(tmp); ocr_used = ''
+            npg = re.search(r'Pages:\s+(\d+)', subprocess.run(['pdfinfo', tmp], capture_output=True, text=True).stdout)
+            npg = int(npg.group(1)) if npg else 1
+            code_seen = prod['product_code'] and re.search(''.join('[0O]' if c == '0' else c for c in prod['product_code']), re.sub(r'\s+', '', txt))
+            scanned_like = len(txt.strip()) / npg < 200
+            if npg <= 60 and ocr_tries < 2 and sc >= 9 and (scanned_like or (not code_seen and len(txt.strip()) / npg < 1500)):
+                ocr_tries += 1                                        # one OCR attempt per product, strong candidates only
+                txt = ocr_text(tmp, '200')                                   # scanned / image-heavy: read it by OCR
+                ocr_used = 'scanned - text by OCR' if len(pdf_text(tmp).strip()) / npg < 200 else 'UIN and text read by OCR (image-heavy PDF)'
+            flat = re.sub(r'\s+', '', txt)
             code_rx = ''.join('[0O]' if c == '0' else c for c in prod['product_code']) + r'V\d{2}'   # some PDFs print letter O for zero
             raw_uins = sorted(set(re.findall(code_rx, flat))) if prod['product_code'] else []
             uins = sorted(set(x[:4] + x[4:].replace('O', '0') for x in raw_uins))
@@ -310,7 +335,7 @@ def main():
                 open(fp, 'wb').write(body)
             pages_n = re.search(r'Pages:\s+(\d+)', subprocess.run(['pdfinfo', fp], capture_output=True, text=True).stdout)
             pages_n = int(pages_n.group(1)) if pages_n else 0
-            scanned = 'Y' if pages_n and len(txt.strip()) / pages_n < 200 else 'N'
+            scanned = 'Y' if ocr_used.startswith('scanned') else 'N'
             if not dup: open(tp, 'w').write(txt)
             desc = find_desc(txt, fp); ocr_note = ''
             if not desc:
@@ -324,7 +349,7 @@ def main():
                         'http_status': code, 'sha256': hashlib.sha256(body).hexdigest(), 'bytes': len(body), 'pages': pages_n,
                         'is_scanned': scanned, 'file_path': fp, 'text_path': tp, 'status': 'ok',
                         'notes': '; '.join(x for x in [('' if prod['uin'] in uins else f"document shows {','.join(uins)}"),
-                                                     ('scanned - OCR needed' if scanned == 'Y' else ''), o_note, ocr_note,
+                                                     ocr_used, o_note, ocr_note,
                                                      ('brochure not verified (UIN missing/different); policy document used' if doc_type == 'policy' else ''),
                                                      (f"same file as {dup['doc_id']}" if dup else '')] if x)})
             with open('index.csv', 'a', newline='') as fh: csv.DictWriter(fh, fieldnames=idx_cols).writerow(row)
