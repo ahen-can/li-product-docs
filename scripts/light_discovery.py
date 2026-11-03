@@ -117,7 +117,8 @@ def name_tokens(name):
 
 def score(url, text, prod, on_product_page=False):
     s = 0; u = urllib.parse.unquote(url).lower(); blob = u + ' ' + text.lower()
-    if on_product_page and BROCHURE_WORDS.search(blob): s += 6     # 'Brochure' link on the product's own page
+    if on_product_page and text and BROCHURE_WORDS.search(blob): s += 6     # 'Brochure' anchor on the product's own page
+    if on_product_page and text and POLICY_WORDS.search(blob): s += 4       # 'Policy document' anchor on the product's own page
     code = prod['product_code'].lower()
     if code and code in blob.replace(' ', ''): s += 6
     if prod['uin'] and prod['uin'].lower() in blob.replace(' ', ''): s += 2
@@ -144,11 +145,24 @@ def main():
     ap.add_argument('--insurer', default='all'); ap.add_argument('--limit', type=int, default=0)
     ap.add_argument('--dry-run', action='store_true'); ap.add_argument('--skip-blocked', action='store_true')
     ap.add_argument('--tmp', default='/tmp/ld_cache')
+    ap.add_argument('--redo', default='', help='comma list of row_ids to clear (result, index row, stored files) and fetch again')
     a = ap.parse_args(); os.makedirs(a.tmp, exist_ok=True); os.makedirs('results', exist_ok=True)
     M = list(csv.DictReader(open('master_list.csv')))
     resf = 'results/light_discovery_results.csv'
     done = {r['row_id']: r for r in csv.DictReader(open(resf))} if os.path.exists(resf) else {}
     idx_cols = open('index.csv').readline().strip().split(',')
+    for rid in [x for x in a.redo.split(',') if x]:
+        old = done.pop(rid, None)
+        if not old: continue
+        rows = list(csv.DictReader(open('index.csv')))
+        drop = [r for r in rows if r['uin'] == old['uin'] and r['product_name'] == old['product_name']]
+        keep = [r for r in rows if r not in drop]
+        for r in drop:   # delete the stored file only if no other index row points to it
+            if not any(k['file_path'] == r['file_path'] for k in keep):
+                for f in (r['file_path'], r['text_path']):
+                    if f and os.path.exists(f): os.remove(f)
+        with open('index.csv', 'w', newline='') as fh:
+            w = csv.DictWriter(fh, fieldnames=idx_cols); w.writeheader(); w.writerows(keep)
     targets = [r for r in M if (a.insurer == 'all' or r['insurer_slug'] in a.insurer.split(','))
                and not (a.skip_blocked and r['insurer_slug'] in BLOCKED) and done.get(r['row_id'], {}).get('status') != 'ok']
     if a.limit: targets = targets[:a.limit]
@@ -175,28 +189,42 @@ def main():
                     if toks and not u.lower().endswith('.pdf') and not BROCHURE_WORDS.search(u) and sum(1 for k in toks if k in (u + ' ' + t).lower()) >= max(1, len(toks) - 1) \
                             and urllib.parse.urlparse(u).netloc == urllib.parse.urlparse(pg).netloc and u not in pages and len(pages) < 8:
                         pages.append(u); prod_pages.add(u)
-        ranked = sorted(((v[0], u, v[1], v[2]) for u, v in cands.items() if v[0] >= 4), reverse=True)[:5]
+        allr = sorted(((v[0], u, v[1], v[2]) for u, v in cands.items() if v[0] >= 4), reverse=True)
+        is_pol = lambda u, t: bool(POLICY_WORDS.search(urllib.parse.unquote(u) + ' ' + t)) and not BROCHURE_WORDS.search(urllib.parse.unquote(u) + ' ' + t)
+        # brochures first; a policy document only as a fallback (brief: same description line)
+        ranked = [x for x in allr if not is_pol(x[1], x[3])][:5] + [x for x in allr if is_pol(x[1], x[3])][:3]
         if a.dry_run:
             print(prod['product_name'], prod['uin'], '->', [(round(s, 1), u[-80:]) for s, u, _, _ in ranked]); continue
-        ok = False
+        ok = False; big = ''
         for sc, u, pg, t in ranked:
             tmp = os.path.join(a.tmp, 'dl.pdf')
             code, eff = fetch(u, tmp)
             body = open(tmp, 'rb').read() if os.path.exists(tmp) else b''
             if code != 200 or body[:4] != b'%PDF': continue
             txt = pdf_text(tmp); flat = re.sub(r'\s+', '', txt)
-            uins = sorted(set(re.findall(prod['product_code'] + r'V\d{2}', flat))) if prod['product_code'] else []
+            code_rx = ''.join('[0O]' if c == '0' else c for c in prod['product_code']) + r'V\d{2}'   # some PDFs print letter O for zero
+            raw_uins = sorted(set(re.findall(code_rx, flat))) if prod['product_code'] else []
+            uins = sorted(set(x[:4] + x[4:].replace('O', '0') for x in raw_uins))
+            o_note = f"UIN printed as {','.join(x for x in raw_uins if 'O' in x[4:])} (letter O for zero)" if any('O' in x[4:] for x in raw_uins) else ''
             if prod['product_code'] and not uins: continue            # wrong document: product code not in text
+            if len(body) > 95 * 1024 * 1024:
+                big = u; continue                                     # CLAUDE.md: never add a file over 95 MB
+            if subprocess.run(['pdfinfo', tmp], capture_output=True).returncode != 0: continue   # pdfinfo must open it
             doc_type = 'brochure' if BROCHURE_WORDS.search(urllib.parse.unquote(u) + ' ' + t) or not POLICY_WORDS.search(urllib.parse.unquote(u) + ' ' + t) else 'policy'
             uin_dir = prod['uin'] or ('NOUIN-' + re.sub(r'[^a-z0-9]+', '-', prod['product_name'].lower())[:40])
             d_doc = os.path.join('docs', slug, uin_dir); d_txt = os.path.join('text', slug, uin_dir)
             os.makedirs(d_doc, exist_ok=True); os.makedirs(d_txt, exist_ok=True)
             fp = os.path.join(d_doc, doc_type + '.pdf'); tp = os.path.join(d_txt, doc_type + '.txt')
-            open(fp, 'wb').write(body)
+            sha = hashlib.sha256(body).hexdigest()
+            dup = next((r for r in csv.DictReader(open('index.csv')) if r['sha256'] == sha and r['file_path']), None)
+            if dup:                                                   # sha256 dedupe: one stored file, two index rows
+                fp, tp = dup['file_path'], dup['text_path']
+            else:
+                open(fp, 'wb').write(body)
             pages_n = re.search(r'Pages:\s+(\d+)', subprocess.run(['pdfinfo', fp], capture_output=True, text=True).stdout)
             pages_n = int(pages_n.group(1)) if pages_n else 0
             scanned = 'Y' if pages_n and len(txt.strip()) / pages_n < 200 else 'N'
-            open(tp, 'w').write(txt)
+            if not dup: open(tp, 'w').write(txt)
             first = re.sub(r'\s+', ' ', ' '.join(txt.split('\f')[:3]))
             m = DESC.search(first) or DESC.search(re.sub(r'\s+', ' ', txt))
             desc = re.sub(r'\s+', ' ', m.group(0)).strip() if m else ''
@@ -208,14 +236,19 @@ def main():
                         'pd_category': '', 'doc_type': doc_type, 'source_url': eff or u, 'found_on_page_url': pg, 'download_date_utc': now,
                         'http_status': code, 'sha256': hashlib.sha256(body).hexdigest(), 'bytes': len(body), 'pages': pages_n,
                         'is_scanned': scanned, 'file_path': fp, 'text_path': tp, 'status': 'ok',
-                        'notes': ('' if prod['uin'] in uins else f"document shows {','.join(uins)}") + ('; scanned - OCR needed' if scanned == 'Y' else '')})
+                        'notes': '; '.join(x for x in [('' if prod['uin'] in uins else f"document shows {','.join(uins)}"),
+                                                     ('scanned - OCR needed' if scanned == 'Y' else ''), o_note,
+                                                     ('brochure not verified (UIN missing/different); policy document used' if doc_type == 'policy' else ''),
+                                                     (f"same file as {dup['doc_id']}" if dup else '')] if x)})
             with open('index.csv', 'a', newline='') as fh: csv.DictWriter(fh, fieldnames=idx_cols).writerow(row)
             res.update(status='ok', doc_type=doc_type, source_url=eff or u, found_on_page_url=pg, uin_in_document=','.join(uins),
                        irdai_description_line=desc, par_flag_stated=par, linked_stated=linked, plan_type_stated=ptype, pages=pages_n,
                        features_keyword_hits=' '.join(hits), notes=row['notes'])
             ok = True; break
         if not ok:
-            res.update(status='not found', notes=f'{len(cands)} PDF links seen on {len(pages)} pages; none verified (product code not in text or no match)')
+            res.update(status='manual' if big else 'not found',
+                       notes=(f'file over 95 MB, download by hand: {big}' if big else
+                              f'{len(cands)} PDF links seen on {len(pages)} pages; none verified (product code not in text or no match)'))
         done[prod['row_id']] = res
         print(f"{res['status']:9} {slug:16} {prod['uin']:11} {prod['product_name'][:45]:45} {res['irdai_description_line'][:70]}", flush=True)
     if a.dry_run: return
