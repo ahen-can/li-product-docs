@@ -10,12 +10,8 @@ Known gaps:
 - **IRDAI page:** no files for LIC, SBI Life, Axis Max Life, Tata AIA, Pramerica or Go Digit; uses some old company names.
 
 ## master_list.csv: build status
-**v1 (3 Nov 2026), draft:** built from the two lists above only (`scripts/build_master.py`). One row per current product code (UIN without its version suffix).
+**v2 (3 Nov 2026):** website-first (`sources/websites/`, `scripts/website/`). The insurer website is the source of truth; the Council list is the cross-check. The IRDAI list is kept here for the record only and is **not used**: it is stale, e.g. all of Bharti's IRDAI-only products turned out to be withdrawn.
 
-- `market_category_prelim` is provisional. It comes from the UIN (L = ULIP), the Council category and, failing those, the product name (`prelim_confidence` = `low (name only)`).
-- Par vs non-par is **not yet known** for most savings products.
-- **To do in v2:**
-  - add SBI Life (in neither list) from its website;
-  - verify the IRDAI-only rows on insurer websites (all of Bajaj's, plus ~100 others);
-  - fill `irdai_description_line` and `par_flag` from each brochure;
-  - set `market_category_final`.
+- **Categories:** never inferred from names.
+- **Not yet in v2:** par/non-par and the market category. These come from each brochure's IRDAI description line in the next pass.
+- **Blocked sites:** ICICI, Kotak, Star Union Dai-ichi and Go Digit carry Council data only, until the user supplies their product lists.

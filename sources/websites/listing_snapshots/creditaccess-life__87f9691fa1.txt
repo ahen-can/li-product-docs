@@ -1,0 +1,31 @@
+URL: https://www.creditaccesslife.in/pdf/Our_Products/withdrawn_product_list/CreditAccess_Life_Withdrawn_Products_V1.6.pdf
+FINAL_URL: https://www.creditaccesslife.in/pdf/Our_Products/withdrawn_product_list/CreditAccess_Life_Withdrawn_Products_V1.6.pdf
+FETCHED_UTC: 2026-11-03T20:05:53Z
+HTTP_STATUS: 200
+PAGE_TYPE: withdrawn
+
+                                                             Withdrawn Products
+                                                                                                                                   Date of      Withdrawn
+S.No.             Name of the Product                                       Type of Product                        Product UIN
+                                                                                                                                   Launch          Date
+        CreditAccess Raksha Kavach Sukshm              Non-Linked Non-Participating Group Credit Life Micro-
+1                                                                                                                 163N001V01      26-May-23       25-Jul-24
+        (Micro-Insurance Product).                     Insurance Plan
+                                                       Single Premium Non-Linked Non-Participating Group
+2       CreditAccess Raksha Chakra                                                                                163N004V01      19-Jul-23       25-Jul-24
+                                                       Credit-Linked Life Insurance Plan
+3       CreditAccess Sarvochchah Nidhi                 Non-Linked, Non-participating Life Group Gratuity Plan     163N007V01      27-Mar-24       18-Jul-24
+4       CreditAccess Suraksha Sukshm                   Group Term Life-Micro Insurance Product                    163N002V01      31-May-23      16-Sep-24
+5       CreditAccess Suraksha                          Group Term Life Product                                    163N003V01      31-May-23      17-Oct-24
+6       CreditAccess Nitya Sanchay                     Group Savings – Micro Insurance Product                    163N011V01      01-Jan-24      26-Mar-25
+7       CreditAccess Sanrakshan Sukshm                 Individual Life – Non-Credit Term Product                  163N005V01      29-Dec-23      26-Mar-25
+8       CreditAccess Group Sanrakshan Sukshm           Group Life – Non-Credit Term Product                       163N006V01      24-Jan-24      26-Mar-25
+        CreditAccess Raksha Kavach Sukshm
+9                                                      Non-Linked Non-Participating Group Credit Life Plan        163N001V02      25-Jul-24       31-Jul-26
+        (Micro-Insurance Product).
+
+
+                                                                                                                Document Last updated date: 03rd Aug 2026
+
+For more details visit IRDAI website at https://irdai.gov.in/list-of-life-products
+

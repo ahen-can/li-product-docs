@@ -1,0 +1,7 @@
+URL: https://www.generalicentrallife.com/documents/withdrawn-products
+FINAL_URL: https://www.generalicentrallife.com/documents/withdrawn-products
+FETCHED_UTC: 2026-11-03T20:05:45Z
+HTTP_STATUS: 200
+PAGE_TYPE: withdrawn
+
+Generali Central Life Insurance - Withdrawn Products
