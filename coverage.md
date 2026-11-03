@@ -29,9 +29,12 @@ could be verified. "Not found" means the script and a manual look at the site di
 | SBI Life | 27 | 1 | 26 | 0 | 0 | 0 | 0 | 0 |
 | Shriram Life | 26 | 0 | 0 | 0 | 0 | 0 | 0 | 26 |
 | Star Union Dai-ichi Life | 33 | 0 | 0 | 0 | 0 | 0 | 0 | 33 |
-| Tata AIA Life | 38 | 0 | 0 | 0 | 0 | 0 | 0 | 38 |
-| **Total** | 633 | 8 | 148 | 0 | 0 | 0 | 0 | 477 |
+| Tata AIA Life | 38 | 1 | 34 | 0 | 3 | 0 | 0 | 0 |
+| **Total** | 633 | 9 | 182 | 0 | 3 | 0 | 0 | 439 |
 
 ## Manual-download list
 Products whose documents could not be fetched automatically. Each line gives the product, UIN, the insurer page to visit, and which document is missing.
 
+- **Tata AIA Life**: Tata AIA Life Insurance POS Saat Saath - Micro Insurance Product (`110N134V04`): brochure missing (not found). Visit (no product page found; see notes). 18 PDF links seen on 1 pages; none verified (product code not in text or no match); POS variant: listed Active on tataaia.com/active-and-withdrawn-product-status.html but no product page or document link on tataaia.com (sitemap, status page, base-product page checked)
+- **Tata AIA Life**: Tata AIA Life Insurance POS Smart Income Plus (`110N148V07`): brochure missing (not found). Visit (no product page found; see notes). 18 PDF links seen on 1 pages; none verified (product code not in text or no match); POS variant: listed Active on tataaia.com/active-and-withdrawn-product-status.html but no product page or document link on tataaia.com (sitemap, status page, base-product page checked)
+- **Tata AIA Life**: Tata AIA Life Insurance Sampoorna Raksha Supreme Plan (`110N160V06`): brochure missing (not found). Visit https://www.tataaia.com/sampoorna-raksha-supreme/non-linked-comprehensive-protection.html. 37 PDF links seen on 8 pages; none verified (product code not in text or no match); listed Active (V06) on tataaia.com status page; product pages tataaia.com/sampoorna-raksha-supreme.html and /sampoorna-raksha-supreme/non-linked-comprehensive-protection.html link no brochure or policy document

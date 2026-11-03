@@ -117,8 +117,9 @@ def page_links(url, tmp):
     return links
 
 def name_tokens(name):
-    n = re.sub(r"lic'?s|life|insurance|plan|the|sbi|hdfc|icici|bharti|axa|tata|aia|bajaj|absli|kotak|pnb|metlife|canara|hsbc|"
-               r"indiafirst|sud|indusind|nippon|shriram|ageas|federal|generali|central|edelweiss|pramerica|aviva|bandhan|axis|max", ' ', name.lower())
+    n = re.sub(r"\b(?:lic'?s|life|insurance|plan|the|sbi|hdfc|icici|bharti|axa|tata|aia|bajaj|absli|kotak|pnb|metlife|canara|hsbc|"
+               r"indiafirst|sud|indusind|nippon|shriram|ageas|federal|generali|central|edelweiss|pramerica|aviva|bandhan|axis|max)\b",
+               ' ', name.lower().replace('\u2019', "'"))
     return [w for w in re.findall(r'[a-z0-9]+', n) if len(w) > 2]
 
 def score(url, text, prod, on_product_page=False):
