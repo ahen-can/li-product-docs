@@ -23,14 +23,14 @@ could be verified. "Not found" means the script and a manual look at the site di
 | IndiaFirst Life | 31 | 0 | 0 | 0 | 0 | 0 | 0 | 31 |
 | IndusInd Nippon Life | 28 | 0 | 0 | 0 | 0 | 0 | 0 | 28 |
 | Kotak Mahindra Life | 30 | 0 | 0 | 0 | 0 | 0 | 0 | 30 |
-| LIC | 39 | 0 | 0 | 0 | 0 | 0 | 0 | 39 |
+| LIC | 39 | 0 | 39 | 0 | 0 | 0 | 0 | 0 |
 | PNB MetLife | 27 | 0 | 0 | 0 | 0 | 0 | 0 | 27 |
 | Pramerica Life | 22 | 0 | 0 | 0 | 0 | 0 | 0 | 22 |
 | SBI Life | 27 | 0 | 0 | 0 | 0 | 0 | 0 | 27 |
 | Shriram Life | 26 | 0 | 0 | 0 | 0 | 0 | 0 | 26 |
 | Star Union Dai-ichi Life | 33 | 0 | 0 | 0 | 0 | 0 | 0 | 33 |
 | Tata AIA Life | 38 | 0 | 0 | 0 | 0 | 0 | 0 | 38 |
-| **Total** | 633 | 1 | 25 | 0 | 0 | 0 | 0 | 607 |
+| **Total** | 633 | 1 | 64 | 0 | 0 | 0 | 0 | 568 |
 
 ## Manual-download list
 Products whose documents could not be fetched automatically. Each line gives the product, UIN, the insurer page to visit, and which document is missing.

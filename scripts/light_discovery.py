@@ -51,8 +51,11 @@ BROCHURE_WORDS = re.compile(r'brochure|sales[-_ ]?lit|prospectus|leaflet|\bsl\b|
 POLICY_WORDS = re.compile(r'policy[-_ ]?(doc|wording|bond|contract)|terms[-_ ]?and[-_ ]?conditions|specimen|\bpd\b|_pd_|-pd-', re.I)
 BAD_WORDS = re.compile(r'hindi|marathi|tamil|telugu|kannada|gujarati|bengali|malayalam|odia|punjabi|regional|claim|form|proposal|'
                        r'fund[-_ ]?fact|factsheet|newsletter|withdrawn|rider', re.I)
-DESC = re.compile(r'(?:an?\s+)?(?:unit[\s-]*linked|non[\s-]*linked|linked)[\s,]+(?:(?:non[\s-]*participating|participating|non[\s-]*par\b|par\b)[\s,]+)?'
-                  r'(?:individual|group)?[^.]{0,120}?(?:plan|product)\b', re.I)
+D_ = r'\s*[-‐-―]?\s*'          # hyphen / en-dash / em-dash, with stray spaces ("Non –Linked", "Non- Linked")
+PAR_ = r'(?:non' + D_ + r'(?:participating|par)\b|participating|par\b|with' + D_ + r'profits?)'
+PARX_ = PAR_ + r'(?:\s*\([^()]{0,30}\))?[\s,]+(?:and\s+)?'   # "Non-Participating (without profits), " / "non-participating and "
+DESC = re.compile(r'(?:an?\s+)?(?:individual[\s,]+)?(?:single premium[\s,]+)?(?:' + PARX_ + r')?(?:unit' + D_ + r'linked|non' + D_ + r'linked|linked)[\s,]+(?:' + PARX_ + r')?'
+                  r'(?:individual|group)?(?:[^.()]|\([^()]{0,30}\)){0,140}?(?:plan|product|policy)\b', re.I)
 FEATURES = {  # keyword scan only - presence of the phrase in the brochure, NOT a verified feature
     'return_of_premium': r'return of (total )?premium|\bROP\b|premium back',
     'whole_life': r'whole[- ]life|(up ?to|till) age (99|100)',
@@ -127,16 +130,47 @@ def score(url, text, prod, on_product_page=False):
     if BROCHURE_WORDS.search(blob): s += 3
     if POLICY_WORDS.search(blob): s += 1
     if BAD_WORDS.search(blob): s -= 5
+    if re.search(r'\bto\s+\d{1,2}[/.-]\d{1,2}[/.-]\d{2,4}|\bold\b|\bprevious\b|\barchive', text, re.I): s -= 3   # dated-out version (e.g. LIC 'From .. To ..')
+    if re.search(r'onwards|latest|revised', text, re.I): s += 1
     return s
 
 def pdf_text(p):
     return subprocess.run(['pdftotext', '-layout', p, '-'], capture_output=True, text=True).stdout
 
+WRONG_KIND = re.compile(r'customer information sheet|know your policy|benefit illustration|illustration of benefits|proposal form|'
+                        r'mortality (rate|charge)s? (table|for)|fund fact ?sheet|premium rate(s)? table|annuity rate(s)? table|surrender value factor', re.I)
+def doc_kind_problem(txt, prod):
+    """Why this is not the product's brochure/policy document ('' if it looks right)."""
+    pages = txt.split('\f')
+    top = re.sub(r'\s+', ' ', ' '.join(pages[:2]))[:600]
+    if WRONG_KIND.search(top): return 'looks like ' + WRONG_KIND.search(top).group(0).lower()
+    toks = name_tokens(prod['product_name'])
+    z = lambda x: x.replace('z', 's')                                   # Maximizer / Maximiser
+    flat = z(' '.join(pages[:4]).lower().replace('\u2019', "'").replace("'", ''))
+    words = set(re.findall(r'[a-z0-9]+', flat))
+    need = -(-2 * len(toks) // 3)            # about two thirds of the name words (whole word, or a 5+ letter part of one)
+    if toks and sum(1 for t in map(z, toks) if t in words or (len(t) >= 5 and t in flat)) < need:
+        return 'product name not on first 4 pages'
+    return ''
+
+RIDER = re.compile(r'rider|benefit rider', re.I)
+def find_desc(txt, pdf=None):
+    """First description line in the first 3 pages (else anywhere) that is not a rider's line.
+    Layout text first; then plain pdftotext output, which keeps two-column pages in reading order."""
+    raw = subprocess.run(['pdftotext', pdf, '-'], capture_output=True, text=True).stdout if pdf and os.path.exists(pdf) else ''
+    for part in (' '.join(txt.split('\f')[:3]), ' '.join(raw.split('\f')[:3]), txt, raw):
+        flat = re.sub(r'\s+', ' ', part)
+        for m in DESC.finditer(flat):
+            d = m.group(0).strip()
+            if not RIDER.search(d) and re.search(r'individual|life|pension|annuity|savings|term|risk|health', d, re.I): return d
+    return ''
+
 def classify_desc(desc):
-    d = desc.lower()
+    d = re.sub(r'\s*[\u2010-\u2015-]\s*', '-', desc.lower())
     par = 'Non-Par' if re.search(r'non[\s-]*(participating|par\b)', d) else ('Par' if re.search(r'participating|\bpar\b', d) else 'not stated')
     linked = 'Linked' if re.search(r'unit[\s-]*linked|(?<!non[\s-])linked', d) and not re.search(r'non[\s-]*linked', d) else 'Non-Linked'
-    ptype = next((t for t in ['pension', 'annuity', 'term', 'protection', 'health', 'savings', 'endowment', 'whole life', 'money back']
+    ptype = next((t for t in ['pension', 'immediate annuity', 'deferred annuity', 'annuity', 'pure risk', 'term', 'protection', 'health',
+                              'micro', 'savings', 'endowment', 'whole life', 'money back', 'variable']
                   if t in d), 'not stated')
     return par, linked, ptype
 
@@ -145,11 +179,36 @@ def main():
     ap.add_argument('--insurer', default='all'); ap.add_argument('--limit', type=int, default=0)
     ap.add_argument('--dry-run', action='store_true'); ap.add_argument('--skip-blocked', action='store_true')
     ap.add_argument('--tmp', default='/tmp/ld_cache')
+    ap.add_argument('--results', default='results/light_discovery_results.csv', help='results file (use one per parallel process, then --merge)')
+    ap.add_argument('--merge', nargs='*', help='merge these results files into --results and rebuild the manual checklist, then exit')
+    ap.add_argument('--only', default='', help='comma list of row_ids to process (others untouched)')
+    ap.add_argument('--reextract', action='store_true', help='recompute description lines and keyword hits from stored text')
     ap.add_argument('--redo', default='', help='comma list of row_ids to clear (result, index row, stored files) and fetch again')
     a = ap.parse_args(); os.makedirs(a.tmp, exist_ok=True); os.makedirs('results', exist_ok=True)
     M = list(csv.DictReader(open('master_list.csv')))
-    resf = 'results/light_discovery_results.csv'
+    resf = a.results
+    idx_cols = open('index.csv').readline().strip().split(',')
     done = {r['row_id']: r for r in csv.DictReader(open(resf))} if os.path.exists(resf) else {}
+    if a.reextract:   # recompute description line / flags / keyword hits from stored text, no downloads
+        for r in done.values():
+            if r['status'] != 'ok' or a.insurer not in ('all', next((m['insurer_slug'] for m in M if m['row_id'] == r['row_id']), '')): continue
+            ix = next((x for x in csv.DictReader(open('index.csv')) if x['uin'] == r['uin'] and x['product_name'] == r['product_name']), None)
+            if not ix or not os.path.exists(ix['text_path']): continue
+            txt = open(ix['text_path']).read()
+            desc = find_desc(txt, ix['file_path']); par, linked, ptype = classify_desc(desc) if desc else ('', '', '')
+            r.update(irdai_description_line=desc, par_flag_stated=par, linked_stated=linked, plan_type_stated=ptype,
+                     features_keyword_hits=' '.join(k for k, rx in FEATURES.items() if re.search(rx, txt, re.I)))
+        rows = list(csv.DictReader(open('index.csv')))
+        for x in rows:
+            r = next((v for v in done.values() if v['uin'] == x['uin'] and v['product_name'] == x['product_name'] and v['status'] == 'ok'), None)
+            if r: x['irdai_description_line'] = r['irdai_description_line']; x['par_flag'] = r['par_flag_stated']
+        write_index(rows, idx_cols)
+        save(resf, done, M, checklist=(resf == 'results/light_discovery_results.csv')); return
+    if a.merge is not None:
+        for f in a.merge:
+            for r in csv.DictReader(open(f)):
+                if r['status'] == 'ok' or done.get(r['row_id'], {}).get('status') != 'ok': done[r['row_id']] = r
+        save(resf, done, M); return
     idx_cols = open('index.csv').readline().strip().split(',')
     for rid in [x for x in a.redo.split(',') if x]:
         old = done.pop(rid, None)
@@ -161,10 +220,10 @@ def main():
             if not any(k['file_path'] == r['file_path'] for k in keep):
                 for f in (r['file_path'], r['text_path']):
                     if f and os.path.exists(f): os.remove(f)
-        with open('index.csv', 'w', newline='') as fh:
-            w = csv.DictWriter(fh, fieldnames=idx_cols); w.writeheader(); w.writerows(keep)
+        write_index(keep, idx_cols)
     targets = [r for r in M if (a.insurer == 'all' or r['insurer_slug'] in a.insurer.split(','))
                and not (a.skip_blocked and r['insurer_slug'] in BLOCKED) and done.get(r['row_id'], {}).get('status') != 'ok']
+    if a.only: targets = [r for r in targets if r['row_id'] in a.only.split(',')]
     if a.limit: targets = targets[:a.limit]
     for prod in targets:
         slug = prod['insurer_slug']; now = datetime.datetime.now(datetime.timezone.utc).strftime('%Y-%m-%dT%H:%M:%SZ')
@@ -207,6 +266,7 @@ def main():
             uins = sorted(set(x[:4] + x[4:].replace('O', '0') for x in raw_uins))
             o_note = f"UIN printed as {','.join(x for x in raw_uins if 'O' in x[4:])} (letter O for zero)" if any('O' in x[4:] for x in raw_uins) else ''
             if prod['product_code'] and not uins: continue            # wrong document: product code not in text
+            if doc_kind_problem(txt, prod): continue                  # CIS / BI / rate table / rider / other product
             if len(body) > 95 * 1024 * 1024:
                 big = u; continue                                     # CLAUDE.md: never add a file over 95 MB
             if subprocess.run(['pdfinfo', tmp], capture_output=True).returncode != 0: continue   # pdfinfo must open it
@@ -225,9 +285,7 @@ def main():
             pages_n = int(pages_n.group(1)) if pages_n else 0
             scanned = 'Y' if pages_n and len(txt.strip()) / pages_n < 200 else 'N'
             if not dup: open(tp, 'w').write(txt)
-            first = re.sub(r'\s+', ' ', ' '.join(txt.split('\f')[:3]))
-            m = DESC.search(first) or DESC.search(re.sub(r'\s+', ' ', txt))
-            desc = re.sub(r'\s+', ' ', m.group(0)).strip() if m else ''
+            desc = find_desc(txt, fp)
             par, linked, ptype = classify_desc(desc) if desc else ('', '', '')
             hits = [k for k, rx in FEATURES.items() if re.search(rx, txt, re.I)]
             row = {c: '' for c in idx_cols}
@@ -250,11 +308,25 @@ def main():
                        notes=(f'file over 95 MB, download by hand: {big}' if big else
                               f'{len(cands)} PDF links seen on {len(pages)} pages; none verified (product code not in text or no match)'))
         done[prod['row_id']] = res
+        save(resf, done, M, checklist=False)
         print(f"{res['status']:9} {slug:16} {prod['uin']:11} {prod['product_name'][:45]:45} {res['irdai_description_line'][:70]}", flush=True)
     if a.dry_run: return
+    save(resf, done, M, checklist=(resf == 'results/light_discovery_results.csv'))
+
+def write_index(rows, cols):
+    """Rewrite index.csv via a temp file, so a crash can never leave it empty."""
+    with open('index.csv.tmp', 'w', newline='') as fh:
+        w = csv.DictWriter(fh, fieldnames=cols); w.writeheader(); w.writerows(rows)
+    os.replace('index.csv.tmp', 'index.csv')
+
+def save(resf, done, M, checklist=True):
     cols = list(next(iter(done.values())).keys()) if done else []
-    with open(resf, 'w', newline='') as fh:
-        w = csv.DictWriter(fh, fieldnames=cols); w.writeheader(); w.writerows(done.values())
+    order = {m['row_id']: i for i, m in enumerate(M)}
+    rows = sorted(done.values(), key=lambda r: order.get(r['row_id'], 1e9))
+    with open(resf + '.tmp', 'w', newline='') as fh:
+        w = csv.DictWriter(fh, fieldnames=cols); w.writeheader(); w.writerows(rows)
+    os.replace(resf + '.tmp', resf)
+    if not checklist: return
     with open('results/manual_checklist.csv', 'w', newline='') as fh:
         w = csv.writer(fh); w.writerow(['insurer', 'product_name', 'uin', 'reason', 'where_to_look'])
         for r in done.values():
