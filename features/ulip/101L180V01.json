@@ -79,49 +79,98 @@
  },
  "eligibility": {
   "entry_age_min": {
-   "value": "30 days (Classic Life, Classic Plus); 18 years (other options)",
-   "status": "n/a",
-   "doc": "Download Brochure",
-   "page": 4,
-   "quote": "Classic Benefit (Life Option) 0 years (30 days)*",
-   "note": null
-  },
-  "entry_age_max": {
    "value": {
-    "Classic Life": "56 (5 pay) / 65",
-    "Classic Extra Life": "53 / 58",
-    "Classic Plus": "48 / 50",
-    "Classic Waiver": "49 / 52",
-    "Classic Waiver Plus": "50"
+    "Classic Life": "30 days",
+    "Classic Extra Life": "18 years",
+    "Classic Plus": "30 days",
+    "Classic Waiver": "18 years",
+    "Classic Waiver Plus": "18 years"
    },
    "status": "n/a",
    "doc": "Download Brochure",
    "page": 4,
-   "quote": "Classic Benefit (Life Option) 56 years 65 years",
+   "quote": "Classic Benefit (Life Option) 0 years (30 days)* Classic Benefit (Extra Life Option) 18 years Classic Plus Benefit 0 years (30 days)* Classic Waiver Benefit 18 years Classic Waiver Plus Benefit 18 years",
+   "note": null
+  },
+  "entry_age_max": {
+   "value": {
+    "Classic Life": {
+     "5 pay": 56,
+     "other": 65
+    },
+    "Classic Extra Life": {
+     "5 pay": 53,
+     "other": 58
+    },
+    "Classic Plus": {
+     "5 pay": 48,
+     "other": 50
+    },
+    "Classic Waiver": {
+     "5 pay": 49,
+     "other": 52
+    },
+    "Classic Waiver Plus": 50
+   },
+   "status": "n/a",
+   "doc": "Download Brochure",
+   "page": 4,
+   "quote": "Classic Benefit (Life Option) 56 years 65 years Classic Benefit (Extra Life Option) 53 years 58 years Classic Plus Benefit 48 years 50 years Classic Waiver Benefit 49 years 52 years Classic Waiver Plus Benefit 50 years",
    "note": null
   },
   "maturity_age_min": {
-   "value": "18 years (Classic Life, Classic Plus); 28 years (other options)",
+   "value": {
+    "Classic Life": 18,
+    "Classic Extra Life": 28,
+    "Classic Plus": 18,
+    "Classic Waiver": 28,
+    "Classic Waiver Plus": 28
+   },
    "status": "n/a",
    "doc": "Download Brochure",
    "page": 4,
-   "quote": "Classic Benefit (Extra Life Option) 28 years",
+   "quote": "Classic Benefit (Life Option) 18 years Classic Benefit (Extra Life Option) 28 years Classic Plus Benefit 18 years Classic Waiver Benefit 28 years Classic Waiver Plus Benefit 28 years",
    "note": null
   },
   "maturity_age_max": {
-   "value": "fixed term: 85 (Classic Life), 63/68 (Extra Life), 58/60 (Classic Plus), 69/85 (Classic Waiver), 80 (Classic Waiver Plus); whole of life: 99",
+   "value": {
+    "fixed term": {
+     "Classic Life": {
+      "5 pay": 85,
+      "other": 85
+     },
+     "Classic Extra Life": {
+      "5 pay": 63,
+      "other": 68
+     },
+     "Classic Plus": {
+      "5 pay": 58,
+      "other": 60
+     },
+     "Classic Waiver": {
+      "5 pay": 69,
+      "other": 85
+     },
+     "Classic Waiver Plus": 80
+    },
+    "whole of life (Classic, Classic Plus)": 99
+   },
    "status": "n/a",
    "doc": "Download Brochure",
    "page": 4,
-   "quote": "Classic Waiver Plus Benefit 80 years",
+   "quote": "Classic Benefit (Life Option) 85 years 85 years Classic Benefit (Extra Life Option) 63 years 68 years Classic Plus Benefit 58 years 60 years Classic Waiver Benefit 69 years 85 years Classic Waiver Plus Benefit 80 years",
    "note": null
   },
   "policy_term_options": {
-   "value": "fixed term: 10 to 35 years (single pay) or up to 85 minus entry age (limited/regular); whole of life: 99 minus entry age",
+   "value": {
+    "fixed term, single pay": "10 to 35 years",
+    "fixed term, limited/regular": "up to 85 minus entry age, within the option maximum maturity age",
+    "whole of life (Classic, Classic Plus)": "99 minus entry age"
+   },
    "status": "n/a",
    "doc": "Download Brochure",
    "page": 3,
-   "quote": "Fixed Term: 10 to 35 years for Single Pay",
+   "quote": "Policy Term 1. Fixed Term: 10 to 35 years for Single Pay (85 minus Age at Entry) for Limited/Regular Pay (Subject to Maximum Age at Maturity for the chosen Death Benefit Option)",
    "note": null
   },
   "ppt_options": {
@@ -133,11 +182,16 @@
    "note": null
   },
   "premium_min_annual": {
-   "value": "Rs 12,000 annual / 6,000 half-yearly / 3,000 quarterly / 1,000 monthly",
+   "value": {
+    "annual": 12000,
+    "half-yearly": 6000,
+    "quarterly": 3000,
+    "monthly": 1000
+   },
    "status": "n/a",
    "doc": "Download Brochure",
    "page": 3,
-   "quote": "Annual: Rs. 12,000",
+   "quote": "Premiums Single: Rs. 12,000 Annual: Rs. 12,000 Half-yearly: Rs 6,000 No limit5 Quarterly: Rs 3,000 Monthly: Rs 1,000",
    "note": null
   },
   "premium_min_single": {
@@ -157,12 +211,24 @@
    "note": null
   },
   "sum_assured_rule": {
-   "value": "single: 1.25x SP (< 50) or 1.10x (>= 50); regular/limited: 7x AP (< 50) or 5x AP (>= 50)",
+   "value": {
+    "single (options other than Classic Waiver and Waiver Plus)": {
+     "entry < 50": "1.25 x SP",
+     "entry >= 50": "1.10 x SP"
+    },
+    "regular/limited": {
+     "entry < 50": "7 x AP",
+     "entry >= 50": "5 x AP"
+    },
+    "maximum": "no limit, subject to underwriting"
+   },
    "status": "built-in",
    "doc": "Download Brochure",
    "page": 3,
-   "quote": "1.25 times the Single Premium",
-   "note": null
+   "quote": "less than 1.25 times the Single Premium Assured Options except 50 years or Top-up premium# – Single Classic Waiver Premium and Classic Entry Age Waiver Plus 1.10 times the Single Premium equal to Benefit Options or Top-up premium# 50 years",
+   "note": "brochure table read in layout order",
+   "quote_2": "Entry Age 7x annualized premium^ acceptance sured – Plus Benefit – 18 to 49 of any case Regular years is subject to & Limited Board Approved Premium Entry Age 5x annualized premium^ Underwriting – 50 years Policy (BAUP).",
+   "page_2": 3
   },
   "premium_modes": {
    "value": "single, yearly, half-yearly, quarterly, monthly",
@@ -184,30 +250,95 @@
  "charges": {
   "premium_allocation_charge": {
    "value": {
-    "annual mode, year 1 by band (<1L / 1-5L / 5-10L / 10L+)": "9 / 6 / 5 / 4%",
-    "years 2-3": "7 / 6 / 5 / 4%",
-    "years 4-5": "6 / 6 / 5 / 4%",
-    "year 6+": "5 / 3 / 3 / 3%",
-    "non-annual mode": "year 1: 7 / 6 / 5 / 4%; years 2-3: 6 / 6 / 5 / 4%; years 4-5: 5 / 5 / 5 / 4%; year 6+: 5 / 3 / 3 / 3%",
-    "single pay": "3% (<10L), 1.5% (10-25L), 1% (25L+)"
+    "limited/regular, annual mode (bands: AP < 1L / 1-5L / 5-10L / 10L+)": {
+     "Y1": [
+      9,
+      6,
+      5,
+      4
+     ],
+     "Y2-3": [
+      7,
+      6,
+      5,
+      4
+     ],
+     "Y4-5": [
+      6,
+      6,
+      5,
+      4
+     ],
+     "Y6+": [
+      5,
+      3,
+      3,
+      3
+     ]
+    },
+    "limited/regular, non-annual mode": {
+     "Y1": [
+      7,
+      6,
+      5,
+      4
+     ],
+     "Y2-3": [
+      6,
+      6,
+      5,
+      4
+     ],
+     "Y4-5": [
+      5,
+      5,
+      5,
+      4
+     ],
+     "Y6+": [
+      5,
+      3,
+      3,
+      3
+     ]
+    },
+    "single pay (SP < 10L / 10-25L / 25L+)": [
+     3,
+     1.5,
+     1
+    ],
+    "unit": "% of premium",
+    "cap": "12.5% of AP in any year"
    },
    "status": "built-in",
    "doc": "HDFC Life Sampoorn Nivesh Plus 101L180V01- Policy Document",
    "page": 19,
-   "quote": "The Premium allocation charge is capped at 12.5% of annualized premium in any year.",
-   "note": "checked against the -layout text"
+   "quote": "For Annual Mode: Premium Bands Premium Due in Policy Year Band 1 Band 2 Band 3 Band 4 1 9% 6% 5% 4% 2&3 7% 6% 5% 4% 4&5 6% 6% 5% 4% 6 & above 5% 3% 3% 3%",
+   "note": "checked against the -layout text",
+   "quote_2": "For Non Annual Mode: Premium Bands Premium Due in Policy Year Band 1 Band 2 Band 3 1 7% 6% 5% 2&3 6% 6% 5% 4&5 5% 5% 5% 6 & above 5% 3% 3% Band 4 4% 4% 4% 3%",
+   "page_2": 19,
+   "quote_3": "For Singe Pay: Bands 1 2 3 Single Pay Allocation Charge Less than 10 Lakh 10 Lakh - 24,99,999 25 Lakh and above 3% 1.5% 1%",
+   "page_3": 19
   },
   "policy_administration_charge": {
    "value": {
-    "limited/regular pay": "nil for 5 years, then 0.35% of AP per month rising 5% a year",
-    "single pay": "0.12% of SP per month for 5 years, then 0.07% rising 5% a year",
+    "limited/regular pay": {
+     "Y1-5": "nil",
+     "Y6+": "0.35% of AP per month, rising 5% a year"
+    },
+    "single pay": {
+     "Y1-5": "0.12% of SP per month",
+     "Y6+": "0.07% of SP per month, rising 5% a year"
+    },
     "cap": "Rs 500 per month"
    },
    "status": "built-in",
    "doc": "HDFC Life Sampoorn Nivesh Plus 101L180V01- Policy Document",
    "page": 20,
-   "quote": "After five years: 0.35%per month of Annualized Premium, increasing at 5% p.a. on each Policy",
-   "note": null
+   "quote": "For Limited Pay: • For first five years: Nil • After five years: 0.35%per month of Annualized Premium, increasing at 5% p.a. on each Policy Anniversary",
+   "note": null,
+   "quote_2": "For Single Pay: • For first five years: 0.12% per month of the single Premium • After five years: 0.07% per month of the single Premium increasing at 5% per annum on each Policy Anniversary. The maximum policy administration charge that can be levied shall be Rs.500/- per month.",
+   "page_2": 20
   },
   "fund_management_charge": {
    "value": {
@@ -221,47 +352,112 @@
    "note": null
   },
   "mortality_charge": {
-   "value": "sum at risk x rate, deducted monthly; sum at risk depends on the benefit option",
+   "value": {
+    "basis": "sum at risk x Appendix 1 rate, deducted monthly; sum at risk depends on the benefit option",
+    "unit": "annual rate per Rs 1,000 sum at risk",
+    "sample_rates": {
+     "age 30": 1.3722,
+     "age 40": 2.3433,
+     "age 76": 56.11
+    },
+    "guaranteed": true
+   },
    "status": "built-in",
    "doc": "HDFC Life Sampoorn Nivesh Plus 101L180V01- Policy Document",
-   "page": 20,
-   "quote": "Mortality charge is calculated as the Sum at Risk multiplied by the appropriate risk benefit charge rate.",
-   "note": null
+   "page": 21,
+   "quote": "The Mortality Charges are specified in Appendix-1 and are guaranteed for the duration of the Policy.",
+   "note": "Appendix 1 rate table on policy pages 27-28",
+   "quote_2": "30 1.3722 76 56.1100",
+   "page_2": 28,
+   "quote_3": "40 2.3433 86 129.9090",
+   "page_3": 28,
+   "quote_4": "Annual Mortality Charge Rates per Rs. 1,000 of Sum at Risk",
+   "page_4": 28
   },
   "discontinuance_charge": {
    "value": {
-    "regular/limited": "AP up to Rs 50,000: lower of 20/15/10/5% x (AP or FV), max Rs 3,000/2,000/1,500/1,000; above: 6/4/3/2%, max Rs 6,000/5,000/4,000/2,000; nil from Y5",
-    "single": "SP up to Rs 3 lakh: 2/1.5/1/0.5%, max Rs 3,000/2,000/1,500/1,000; above: 1/0.7/0.5/0.35%, max Rs 6,000/5,000/4,000/2,000"
+    "regular/limited, AP up to Rs 50,000": {
+     "Y1": "lower of 20% x (AP or FV), max Rs 3,000",
+     "Y2": "lower of 15%, max Rs 2,000",
+     "Y3": "lower of 10%, max Rs 1,500",
+     "Y4": "lower of 5%, max Rs 1,000",
+     "Y5+": "nil"
+    },
+    "regular/limited, AP above Rs 50,000": {
+     "Y1": "lower of 6%, max Rs 6,000",
+     "Y2": "lower of 4%, max Rs 5,000",
+     "Y3": "lower of 3%, max Rs 4,000",
+     "Y4": "lower of 2%, max Rs 2,000",
+     "Y5+": "nil"
+    },
+    "single, SP up to Rs 3 lakh": {
+     "Y1": "lower of 2% x (SP or FV), max Rs 3,000",
+     "Y2": "1.5%, max Rs 2,000",
+     "Y3": "1%, max Rs 1,500",
+     "Y4": "0.5%, max Rs 1,000",
+     "Y5+": "nil"
+    },
+    "single, SP above Rs 3 lakh": {
+     "Y1": "1%, max Rs 6,000",
+     "Y2": "0.7%, max Rs 5,000",
+     "Y3": "0.5%, max Rs 4,000",
+     "Y4": "0.35%, max Rs 2,000",
+     "Y5+": "nil"
+    }
    },
    "status": "built-in",
    "doc": "HDFC Life Sampoorn Nivesh Plus 101L180V01- Policy Document",
    "page": 22,
-   "quote": "Lower of 20% * (AP or FV)",
-   "note": null
+   "quote": "Lower of 20% * (AP or FV) subject to maximum of Rs.3,000/Lower of 15% * (AP or FV) subject to maximum of Rs.2,000/Lower of 10% * (AP or FV) subject to maximum of Rs.1,500/Lower of 5% * (AP or FV) subject to maximum of Rs.1,000/ 5 and onwards NIL",
+   "note": null,
+   "quote_2": "Lower of 6% * (AP or FV) subject to maximum of Rs.6,000/Lower of 4% * (AP or FV) subject to maximum of Rs.5,000/Lower of 3% * (AP or FV) subject to maximum of Rs.4,000/Lower of 2% * (AP or FV) subject to maximum of Rs.2,000/NIL",
+   "page_2": 22,
+   "quote_3": "Lower of 2% * (SP or FV) subject to maximum of Rs.3,000/Lower of 1.5% * (SP or FV) subject to maximum of Rs.2,000/Lower of 1% * (SP or FV) subject to maximum of Rs.1,500/Lower of 0.5% * (SP or FV) subject to maximum of Rs.1,000/ 5 and onwards NIL",
+   "page_3": 22,
+   "quote_4": "Lower of 1% * (SP or FV) subject to maximum of Rs.6,000/Lower of 0.7% * (SP or FV) subject to maximum of Rs.5,000/Lower of 0.5% * (SP or FV) subject to maximum of Rs.4,000/Lower of 0.35% * (SP or FV) subject to maximum of Rs.2,000/NIL",
+   "page_4": 22
   },
   "switching_charge": {
-   "value": "first 4 a year free; then Rs 250 (Rs 25 online)",
+   "value": {
+    "free": "4 requests a policy year",
+    "then": "Rs 250 per request",
+    "online": "Rs 25 per request"
+   },
    "status": "built-in",
    "doc": "HDFC Life Sampoorn Nivesh Plus 101L180V01- Policy Document",
    "page": 23,
    "quote": "The Policyholder will not be charged for the first four fund switch requests in each Policy year.",
-   "note": null
+   "note": null,
+   "quote_2": "Thereafter, any fund switch request from the Policyholder will attract a charge of Rs 250 per request or a reduced charge of Rs 25 per request if executed through the",
+   "page_2": 23
   },
   "partial_withdrawal_charge": {
-   "value": "first 4 a year free; then Rs 250 (Rs 25 online)",
+   "value": {
+    "free": "4 requests a policy year",
+    "then": "Rs 250 per request",
+    "online": "Rs 25 per request"
+   },
    "status": "built-in",
    "doc": "HDFC Life Sampoorn Nivesh Plus 101L180V01- Policy Document",
    "page": 23,
    "quote": "The Policyholder will not be charged for the first four Partial Withdrawal requests in each Policy year.",
-   "note": null
+   "note": null,
+   "quote_2": "Thereafter, any Partial Withdrawal request from the Policyholder will attract a charge of Rs 250 per request or a reduced charge of Rs 25 per request if executed through the",
+   "page_2": 23
   },
   "premium_redirection_charge": {
-   "value": "first 4 a year free; then Rs 250 (Rs 25 online)",
+   "value": {
+    "free": "4 requests a policy year",
+    "then": "Rs 250 per request",
+    "online": "Rs 25 per request"
+   },
    "status": "built-in",
    "doc": "HDFC Life Sampoorn Nivesh Plus 101L180V01- Policy Document",
    "page": 23,
    "quote": "The Policyholder will not be charged for the first four premium redirection requests in each Policy year.",
-   "note": null
+   "note": null,
+   "quote_2": "Thereafter, any premium redirection request from the Policyholder will attract a charge of Rs 250 per request or a reduced charge of Rs 25 per request if executed through the",
+   "page_2": 23
   },
   "miscellaneous_charge": {
    "value": "Rs 250 per alteration (cap Rs 500)",
@@ -288,12 +484,22 @@
    "note": null
   },
   "any_charge_returned": {
-   "value": "Classic Waiver Plus: 0.5x or 1x of mortality charges returned at maturity, by entry age and term",
+   "value": {
+    "Classic Waiver Plus only": {
+     "entry 18-45, PT 10": "none",
+     "entry 18-44, PT 11-19": "0.5x",
+     "entry 18-44, PT 20-30": "1x",
+     "entry 45-50, PT 11-30": "1x"
+    },
+    "unit": "multiple of total mortality charges, at maturity"
+   },
    "status": "built-in",
    "doc": "HDFC Life Sampoorn Nivesh Plus 101L180V01- Policy Document",
    "page": 11,
    "quote": "Return of mortality charges will be applicable only under Classic Waiver Plus option",
-   "note": null
+   "note": null,
+   "quote_2": "Return of mortality Age (years) Policy Term (years) charges 18-45 10 NA 11-19 0.5x 18-44 20-30 1x 45-50 11-30 1x",
+   "page_2": 11
   }
  },
  "benefits": {
@@ -320,16 +526,34 @@
   },
   "loyalty_additions": {
    "value": {
-    "limited pay, annual / other modes": "PPT 5-6: 1.8% / 1.6%; PPT 7-9: 1.2% / 1.0%; PPT 10+: 1.2% / 1.0%",
-    "regular pay, annual / other modes": "1.2% / 1.0%",
+    "limited pay (annual / other modes)": {
+     "PPT 5-6": [
+      "1.8%",
+      "1.6%"
+     ],
+     "PPT 7-9": [
+      "1.2%",
+      "1.0%"
+     ],
+     "PPT 10+": [
+      "1.2%",
+      "1.0%"
+     ]
+    },
+    "regular pay (annual / other modes)": [
+     "1.2%",
+     "1.0%"
+    ],
     "timing": "every alternate year from the end of year 11, % of 12-month average fund value",
     "single pay": "1.50% each year from year 10 to 14"
    },
    "status": "built-in",
    "doc": "HDFC Life Sampoorn Nivesh Plus 101L180V01- Policy Document",
    "page": 11,
-   "quote": "every alternate year starting from the end of 11th policy year for limited and regular premium paying",
-   "note": "checked against the -layout text"
+   "quote": "Percentage of loyalty addition is specified in the table below: Premium Paying Term 5 to 6 years 7 to 9 years 10 years and above Regular Pay Frequency of Premium Payment Other than Annual Annual 1.8% 1.6% 1.2% 1.0% 1.2% 1.2% 1.0% 1.0%",
+   "note": "checked against the -layout text, where the rows read PPT 5-6 1.8%/1.6%, 7-9 1.2%/1.0%, 10+ 1.2%/1.0%, regular 1.2%/1.0%",
+   "quote_2": "For single pay policies, the Loyalty Addition will be 1.50% of the average fund value.",
+   "page_2": 11
   },
   "wealth_boosters_or_guaranteed_additions": {
    "value": "direct marketing channel: Loyalty Reward at maturity of 1.5% x policy term x AP",
@@ -340,12 +564,20 @@
    "note": null
   },
   "return_of_mortality_charges": {
-   "value": "Classic Waiver Plus only: entry age 18-45 with PT 10: none; 18-44 with PT 11-19: 0.5x; 18-44 with PT 20-30: 1x; 45-50 with PT 11-30: 1x",
+   "value": {
+    "Classic Waiver Plus only": {
+     "entry 18-45, PT 10": "none",
+     "entry 18-44, PT 11-19": "0.5x",
+     "entry 18-44, PT 20-30": "1x",
+     "entry 45-50, PT 11-30": "1x"
+    },
+    "when": "at maturity, with the fund value"
+   },
    "status": "built-in",
    "doc": "HDFC Life Sampoorn Nivesh Plus 101L180V01- Policy Document",
    "page": 11,
-   "quote": "A percentage of total mortality charges deducted during the policy term (excluding underwriting extra",
-   "note": "checked against the -layout text"
+   "quote": "Return of mortality Age (years) Policy Term (years) charges 18-45 10 NA 11-19 0.5x 18-44 20-30 1x 45-50 11-30 1x",
+   "note": null
   },
   "return_of_premium_allocation_charges": {
    "value": null,

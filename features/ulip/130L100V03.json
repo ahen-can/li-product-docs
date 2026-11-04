@@ -76,20 +76,45 @@
  },
  "eligibility": {
   "entry_age_min": {
-   "value": "Growth: 8 yrs (PT 10), 3 yrs (PT 15), 91 days (PT 20/25/30); Legacy: 91 days",
+   "value": {
+    "Growth": {
+     "PT 10": "8 years",
+     "PT 15": "3 years",
+     "PT 20": "91 days",
+     "PT 25": "91 days",
+     "PT 30": "91 days"
+    },
+    "Legacy": "91 days"
+   },
    "status": "n/a",
    "doc": "Download Brochure",
    "page": 2,
-   "quote": "Minimum age at entry",
+   "quote": "Growth 10 years 8 years Minimum age at entry 15 years 3 years (Age Last Birthday) 20 years 0 years (91 days) 25 years 0 years (91 days) 30 years 0 years (91 days)",
    "note": null
   },
   "entry_age_max": {
-   "value": "Growth: 65/60/55/50/45 for PT 10/15/20/25/30; Legacy: 44 (PPT 5), 57 (PPT 7), 65 (PPT 10), 53 (pay to age 60)",
+   "value": {
+    "Growth": {
+     "PT 10": 65,
+     "PT 15": 60,
+     "PT 20": 55,
+     "PT 25": 50,
+     "PT 30": 45
+    },
+    "Legacy": {
+     "PPT 5": 44,
+     "PPT 7": 57,
+     "PPT 10": 65,
+     "PPT to age 60": 53
+    }
+   },
    "status": "n/a",
    "doc": "Download Brochure",
    "page": 2,
-   "quote": "Maximum age at entry",
-   "note": null
+   "quote": "10 years 65 years 15 years 60 years Growth 20 years 55 years Maximum age at entry 25 years 50 years (Age Last Birthday) 30 years 45 years",
+   "note": null,
+   "quote_2": "5 years 44 years Legacy 99 minus 7 years 57 years Age at entry 10 years 65 years To Age 60 years 53 years",
+   "page_2": 2
   },
   "maturity_age_min": {
    "value": null,
@@ -119,9 +144,9 @@
    "value": "Growth: single, 5, 7, 10, 15 years or regular (by PT); Legacy: 5, 7, 10 years or to age 60 (no single pay)",
    "status": "n/a",
    "doc": "Download Brochure",
-   "page": 2,
-   "quote": "Single Pay op on not available for Legacy variant.",
-   "note": "full PT x PPT grid on brochure p.3"
+   "page": 3,
+   "quote": "Policy Premium Payment Term op ons Term Single 5 Years 7 Years 10 Years 15 Years 20 Years op ons Pay 10 Years - - 15 Years * - 20 Years",
+   "note": "the grid marks which PT and PPT pairs are allowed; the ticks do not survive text extraction, so read the grid on brochure p.3"
   },
   "premium_min_annual": {
    "value": "Rs 1,200 (limited/regular, both variants, online and other channels)",
@@ -153,7 +178,9 @@
    "doc": "Policy Bond",
    "page": 3,
    "quote": "All 10 * Annualized Premium#",
-   "note": null
+   "note": null,
+   "quote_2": "Option 1: 125% * Single Premium Option 2: 10 * Single Premium",
+   "page_2": 3
   },
   "premium_modes": {
    "value": "annual, half-yearly, quarterly, monthly",
@@ -218,8 +245,10 @@
    "status": "built-in",
    "doc": "Policy Bond",
    "page": 13,
-   "quote": "The Company will levy an Allocation Charge as a percentage of the Annualised Premium.",
-   "note": "returned at maturity in Growth variant (RoPAC)"
+   "quote": "For Online Channel: Policy Year Single Premium Limited/ Regular Premium Annual Mode Year 1 1.0% 6.0% Limited/ Regular Premium Non Annual Mode 4.5% Year 2 5.0% 3.0% Year 3 4.0% 3.0% Year 4 3.0% 2.0% Year 5+ 2.0% 2.0%",
+   "note": "returned at maturity in Growth variant (RoPAC)",
+   "quote_2": "For Other Channels Policy Year Single Premium Limited/ Regular Premium Annual Mode Year 1 Year 2 Year 3 Year 4 Year 5 + 3% 9.0% 7.0% 5.0% 3.0% 2.0% Limited/ Regular Premium Non Annual Mode 7.5% 5.0% 4.0% 2.0% 2.0%",
+   "page_2": 13
   },
   "policy_administration_charge": {
    "value": {
@@ -240,7 +269,9 @@
    "doc": "Policy Bond",
    "page": 13,
    "quote": "The Policy administration charge is subject to a maximum of Rs 500 per month.",
-   "note": null
+   "note": null,
+   "quote_2": "Policy Year Single Premium Limited/Regular Premium 1-5 0.15% 0.15% 6 - 10 Nil 0.45% 11+ Nil Nil",
+   "page_2": 13
   },
   "fund_management_charge": {
    "value": {
@@ -256,12 +287,24 @@
    "note": null
   },
   "mortality_charge": {
-   "value": "per 1000 sum at risk per annum by attained age, deducted monthly; full table published in the policy bond; rates guaranteed for the term; 3-year setback for female lives",
+   "value": {
+    "basis": "annual rate per 1,000 sum at risk by attained age (age last birthday), deducted monthly",
+    "female": "3-year setback",
+    "guaranteed": true,
+    "sample_rates": {
+     "age 30": 0.977,
+     "age 40": 1.68,
+     "age 50": 4.436,
+     "age 60": 11.162
+    }
+   },
    "status": "built-in",
    "doc": "Policy Bond",
-   "page": 13,
-   "quote": "The rates of mortality charges are guaranteed to remain the same during the policy term.",
-   "note": "table on policy bond p.14; returned at maturity in Growth variant (RoMC)"
+   "page": 14,
+   "quote": "Mortality rates* Per 1000 sum at risk per annum",
+   "note": "rate table for ages 0 to 99 on policy bond p.14; returned at maturity in Growth variant (RoMC)",
+   "quote_2": "*There is a 3-year setback for female lives.",
+   "page_2": 14
   },
   "discontinuance_charge": {
    "value": {
@@ -281,13 +324,32 @@
       "Y5+": "nil"
      }
     },
-    "single": "separate table on policy bond p.15 (single premium up to / above Rs 3,00,000)"
+    "single": {
+     "SP up to Rs 3,00,000": {
+      "Y1": "lower of 2% SP, 2% FV, Rs 3,000",
+      "Y2": "lower of 1.5% SP, 1.5% FV, Rs 2,000",
+      "Y3": "lower of 1% SP, 1% FV, Rs 1,500",
+      "Y4": "lower of 0.5% SP, 0.5% FV, Rs 1,000",
+      "Y5+": "nil"
+     },
+     "SP above Rs 3,00,000": {
+      "Y1": "lower of 1% SP, 1% FV, Rs 6,000",
+      "Y2": "lower of 0.7% SP, 0.7% FV, Rs 5,000",
+      "Y3": "lower of 0.5% SP, 0.5% FV, Rs 4,000",
+      "Y4": "lower of 0.35% SP, 0.35% FV, Rs 2,000",
+      "Y5+": "nil"
+     }
+    }
    },
    "status": "built-in",
    "doc": "Policy Bond",
    "page": 14,
-   "quote": "The Discontinuance Charge shall be levied at the time of Surrender or on Discontinuance of Premium whichever is earlier.",
-   "note": null
+   "quote": "Lower of Lower of a) 20% of Annualized Premium b) 20% of Fund Value a) 6% of Annualized Premium b) 6% of Fund Value c) Rs. 3,000 c) Rs. 6,000 Lower of Lower of a) 15% of Annualized Premium b) 15% of Fund Value a) 4% of Annualized Premium b) 4% of Fund Value c) Rs. 2,000 c) Rs. 5,000",
+   "note": "years 3 and 4 of the regular table come out in scrambled order in the text (quote_3); values read from the layout table",
+   "quote_2": "Lower of Lower of a) 2% of Single Premium a) 1% of Single Premium b) 2% of Fund Value b) 1% of Fund Value c) Rs. 3,000 c) Rs. 6,000 Lower of Lower of a) 1.5% of Single Premium a) 0.7% of Single Premium b) 1.5% of Fund Value b) 0.7% of Fund Value c) Rs. 2,000 c) Rs. 5,000",
+   "page_2": 15,
+   "quote_3": "Lower of Lower of a) 10% of Annualized Premium b) 10% of Fund Value a) c) Rs. 1,500 c) Rs. 4,000 Lower of Lower of 3% of Annualized Premium b) 3% of Fund Value b) 5% of Fund Value a) 2% of Annualized Premium b) 2% of Fund Value c) Rs. 1,000 c) Rs. 2,000 NIL NIL a) 5% of Annualized Premium",
+   "page_3": 14
   },
   "switching_charge": {
    "value": "unlimited free switches",
@@ -364,35 +426,53 @@
    "note": null
   },
   "loyalty_additions": {
-   "value": "Legacy only: 0.75% of fund value at the end of each year from year 10 to one year before maturity",
+   "value": {
+    "Legacy": {
+     "rate": "0.75% of policy fund value",
+     "when": "end of each policy year from year 10 to one year before maturity"
+    },
+    "Growth": "none"
+   },
    "status": "built-in",
    "doc": "Policy Bond",
    "page": 3,
    "quote": "Loyalty Additions will be credited to the Policy at the end of each Policy Year starting from the end of tenth Policy Year till one year before the date of maturity.",
-   "note": "not credited after the policy becomes paid-up"
+   "note": "not credited after the policy becomes paid-up",
+   "quote_2": "Legacy 0.75%",
+   "page_2": 3
   },
   "wealth_boosters_or_guaranteed_additions": {
-   "value": "both variants: 0.25% of fund value at end of year 5 and 1.25% at maturity (Growth: 1.25% of fund value before adding back RoMC and RoPAC)",
+   "value": {
+    "end of year 5": "0.25% of policy fund value",
+    "at maturity": "1.25% of policy fund value (Growth: before adding back RoMC and RoPAC)",
+    "variants": "Growth and Legacy"
+   },
    "status": "built-in",
    "doc": "Policy Bond",
    "page": 4,
-   "quote": "Wealth Booster will be credited to the Policy at the end of fifth policy year and at Maturity date.",
+   "quote": "Variant Growth & Legacy Policy Year % of Policy Fund Value* as at end of Policy Year End of 5h Policy Year 0.25% At date of Maturity 1.25%",
    "note": null
   },
   "return_of_mortality_charges": {
-   "value": "Growth only: 100% of mortality charges deducted, at maturity",
+   "value": {
+    "Growth": "total mortality charges deducted over the term (excluding extra mortality and taxes), credited at maturity",
+    "Legacy": "none"
+   },
    "status": "built-in",
    "doc": "Policy Bond",
    "page": 4,
-   "quote": "Return of Mortality Charges (RoMC) and Return of Premium Allocation Charge (RoPAC) (Applicable only in Growth Variant)",
+   "quote": "the total amount of Mortality charges (excluding any extra Mortality charge & or any applicable tax/cess levied) and total Premium Allocation Charges (excluding any applicable tax/cess levied) deducted during the Policy Term will be credited to the Policy at maturity.",
    "note": null
   },
   "return_of_premium_allocation_charges": {
-   "value": "Growth only: 100% of premium allocation charges deducted, at maturity",
+   "value": {
+    "Growth": "total premium allocation charges deducted over the term (excluding taxes), credited at maturity",
+    "Legacy": "none"
+   },
    "status": "built-in",
    "doc": "Policy Bond",
    "page": 4,
-   "quote": "Return of Mortality Charges (RoMC) and Return of Premium Allocation Charge (RoPAC) (Applicable only in Growth Variant)",
+   "quote": "the total amount of Mortality charges (excluding any extra Mortality charge & or any applicable tax/cess levied) and total Premium Allocation Charges (excluding any applicable tax/cess levied) deducted during the Policy Term will be credited to the Policy at maturity.",
    "note": null
   },
   "return_of_policy_admin_charges": {

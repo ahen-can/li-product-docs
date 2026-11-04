@@ -25,7 +25,8 @@ Last updated: 4 Nov 2026 by S2. S1's project memory is in `PROJECT_MEMORY.md`. L
 - **Quote rule.** S1 asked that every quote contain the value itself; a label such as "Minimum Entry Age:" alone is not evidence. If the value is in a table, quote the table row.
   - Apply the rule from Bajaj onwards.
   - Redo the older quotes at the end of wave 1.
-- **Exception, before Bajaj.** Redo now only the charge, eligibility and addition fields for the six products S1's calculator uses:
+- **Extra quotes.** A table too long for one 300-character quote uses `quote_2` to `quote_4` (with `page_2` to `page_4`) in `F(...)`. The validator checks all of them.
+- **Exception, before Bajaj (done 4 Nov).** Redo now only the charge, eligibility and addition fields for the six products S1's calculator uses:
   - 130L100V03, 130L123V01, 130L121V01, 111L147V01, 101L133V03, 101L180V01.
   - Charge tables become nested numbers read from the layout text.
   - The mortality charge note gives the page range of the rate table in the policy document.
@@ -47,6 +48,8 @@ Last updated: 4 Nov 2026 by S2. S1's project memory is in `PROJECT_MEMORY.md`. L
      - `tdig.py UIN [areas]` is a Tata-style digest by clause.
      - `rd.sh PDF a b` prints compact pages.
      - `tata.sh` prints the text between two headings.
+     - `rowq.py PDF PAGE REGEX N` joins N layout lines into one quote string for a table row.
+   - Dashes and hyphens at line ends vanish in the validator's matching, so leave them out of quotes ("Year 2 5.0%", not "Year 2 - 5.0%").
    - `scripts/ulip_digest.py` is a general reading aid.
    - Read charge tables with `pdftotext -layout`. Take quotes from the plain reading-order text.
 3. **Spec.** Write `scripts/ulip_specs/<UIN>.py` with `F(value, status, doc_label, page, quote, note)` and `NS()` from `scripts/ulip_json.py`.

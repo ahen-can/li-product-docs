@@ -5,7 +5,7 @@
 
 For every field object {value, status, doc, page, quote, note}:
   - status must be one of the schema's status_values;
-  - a quote must be <= 300 characters and appear verbatim (whitespace and hyphenation at line ends ignored) on the
+  - a quote (and optional extra quotes quote_2 to quote_4 on page_2 to page_4) must be <= 300 characters and appear verbatim (whitespace and hyphenation at line ends ignored) on the
     cited page of the cited document; 'doc' is the website label, resolved to a file via documents_inventory;
   - 'not stated in public documents' must have a null value.
 Also checks that every schema group and field is present. Exit code 1 if anything fails.
@@ -61,6 +61,12 @@ def check(path):
                 t = page_text(o.get('doc'), o.get('page'))
                 if t is None: errs.append(f'{g}.{f}: cannot resolve doc {o.get("doc")!r} page {o.get("page")!r}')
                 elif not found(q, t): errs.append(f'{g}.{f}: quote not found on {o.get("doc")} p.{o.get("page")}: {q[:70]!r}')
+            for n in (2, 3, 4):
+                q2 = o.get(f'quote_{n}')
+                if not q2: continue
+                if len(q2) > 300: errs.append(f'{g}.{f}: quote_{n} longer than 300 characters')
+                t2 = page_text(o.get('doc'), o.get(f'page_{n}'))
+                if t2 is None or not found(q2, t2): errs.append(f'{g}.{f}: quote_{n} not found on {o.get("doc")} p.{o.get(f"page_{n}")}: {q2[:70]!r}')
     for k in ('new_features_not_in_schema', 'data_not_public'):
         if not isinstance(j.get(k), list): errs.append(f'{k} must be a list')
     for nf in j.get('new_features_not_in_schema', []):

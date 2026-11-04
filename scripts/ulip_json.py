@@ -15,8 +15,11 @@ sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 SCHEMA = json.load(open('briefs/ulip_feature_schema.json'))
 GROUPS = [k for k, v in SCHEMA.items() if isinstance(v, dict) and k != '_about']
 
-def F(value, status, doc=None, page=None, quote=None, note=None):
-    return {'value': value, 'status': status, 'doc': doc, 'page': page, 'quote': quote, 'note': note}
+def F(value, status, doc=None, page=None, quote=None, note=None, quote_2=None, page_2=None, quote_3=None, page_3=None, quote_4=None, page_4=None):
+    o = {'value': value, 'status': status, 'doc': doc, 'page': page, 'quote': quote, 'note': note}
+    for n, q, pg in ((2, quote_2, page_2), (3, quote_3, page_3), (4, quote_4, page_4)):   # extra verbatim quotes when a table does not fit in 300 characters
+        if q: o[f'quote_{n}'] = q; o[f'page_{n}'] = pg
+    return o
 
 def NS(note=None):
     return F(None, 'not stated in public documents', note=note)
@@ -61,6 +64,10 @@ def locate_pages(j):
         if o.get('quote') and o.get('doc') and not o.get('page') and o['doc'] in paths:
             for i, t in enumerate(pages_of(paths[o['doc']]), 1):
                 if V.found(o['quote'], t): o['page'] = i; break
+        for n in (2, 3, 4):
+            if o.get(f'quote_{n}') and o.get('doc') and not o.get(f'page_{n}') and o['doc'] in paths:
+                for i, t in enumerate(pages_of(paths[o['doc']]), 1):
+                    if V.found(o[f'quote_{n}'], t): o[f'page_{n}'] = i; break
 
 def build(uin, spec, new_features=(), not_public=(), extra_notes=None):
     j = {}

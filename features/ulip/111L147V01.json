@@ -182,7 +182,10 @@
    "note": "guaranteed for the term"
   },
   "policy_administration_charge": {
-   "value": "Rs 100 per month; cap Rs 500 per month",
+   "value": {
+    "charge": "Rs 100 per month",
+    "cap": "Rs 500 per month"
+   },
    "status": "built-in",
    "doc": "Policy Document",
    "page": 39,
@@ -202,46 +205,90 @@
    "note": null
   },
   "mortality_charge": {
-   "value": "per Rs 1,000 sum at risk by attained age, monthly; full table published; guaranteed for the term",
+   "value": {
+    "basis": "annual rate per Rs 1,000 sum at risk by age last birthday, deducted monthly (annual rate x sum at risk / 12)",
+    "guaranteed": true,
+    "sample_rates": {
+     "age 5": 0.2,
+     "age 18": 0.96,
+     "age 30": 1.07,
+     "age 36": 1.4,
+     "age 49": 4.35,
+     "age 61": 13.17
+    }
+   },
    "status": "built-in",
    "doc": "Policy Document",
-   "page": 42,
-   "quote": "Premium Allocation Charges and Mortality Charges, are guaranteed for the entire Policy Term.",
-   "note": "sum at risk = higher of (sum assured less APW, 105% of premiums) minus fund value"
+   "page": 41,
+   "quote": "5 0.20 36 1.40",
+   "note": "rate table for ages 5 to 64 on policy document p.41; no separate female rates stated; sum at risk = higher of (sum assured less APW, 105% of premiums) minus fund value",
+   "quote_2": "30 1.07 61 13.17",
+   "page_2": 41
   },
   "discontinuance_charge": {
    "value": {
-    "AP up to Rs 50,000": "lower of 20/15/10/5% x (AP or FV), max Rs 3,000/2,000/1,500/1,000 in Y1-4; nil from Y5",
-    "AP above Rs 50,000": "lower of 6/4/3/2% x (AP or FV), max Rs 6,000/5,000/4,000/2,000; nil from Y5"
+    "AP up to Rs 50,000": {
+     "Y1": "lower of 20% x (AP or FV), max Rs 3,000",
+     "Y2": "lower of 15% x (AP or FV), max Rs 2,000",
+     "Y3": "lower of 10% x (AP or FV), max Rs 1,500",
+     "Y4": "lower of 5% x (AP or FV), max Rs 1,000",
+     "Y5+": "nil"
+    },
+    "AP above Rs 50,000": {
+     "Y1": "lower of 6% x (AP or FV), max Rs 6,000",
+     "Y2": "lower of 4% x (AP or FV), max Rs 5,000",
+     "Y3": "lower of 3% x (AP or FV), max Rs 4,000",
+     "Y4": "lower of 2% x (AP or FV), max Rs 2,000",
+     "Y5+": "nil"
+    }
    },
    "status": "built-in",
    "doc": "Policy Document",
    "page": 40,
-   "quote": "We will recover Discontinuance Charges as a percentage of the Fund Value or as a percentage of Annualized Premium.",
-   "note": null
+   "quote": "Lower of 20% × (Annualized Lower of 6% × (Annualized Premium or 1 Premium or Fund Value) subject Fund Value) subject to maximum of to maximum of Rs. 3,000 Rs. 6,000",
+   "note": "two-column table read in text order; one quote per policy year",
+   "quote_2": "Lower of 15% × (Annualized Lower of 4% × (Annualized Premium or 2 Premium or Fund Value) subject Fund Value) subject to maximum of to maximum of Rs. 2,000 Rs. 5,000",
+   "page_2": 40,
+   "quote_3": "Lower of 10% × (Annualized Lower of 3% × (Annualized Premium or 3 Premium or Fund Value) subject Fund Value) subject to maximum of to maximum of Rs.1,500 Rs. 4,000",
+   "page_3": 40,
+   "quote_4": "Lower of 5% × (Annualized Lower of 2% × (Annualized Premium or 4 Premium or Fund Value) subject Fund Value) subject to maximum of to maximum of Rs.1,000 Rs. 2,000 5 onwards Nil Nil",
+   "page_4": 40
   },
   "switching_charge": {
-   "value": "2 free switches a year, then Rs 100 per switch (cap Rs 500); Active Strategy only",
+   "value": {
+    "free": "2 switches a year",
+    "charge": "Rs 100 per switch from the 3rd",
+    "cap": "Rs 500 per switch",
+    "applies to": "Active Strategy only"
+   },
    "status": "built-in",
    "doc": "Policy Document",
    "page": 40,
-   "quote": "We will charge You Rs.100 per Switch from 3rd Switch onwards in the same Policy Year.",
-   "note": null
+   "quote": "17.5.1. We will charge You Rs.100 per Switch from 3rd Switch onwards in the same Policy Year.",
+   "note": null,
+   "quote_2": "The Switching Charge would be subject to a cap of Rs.500 per Switch.",
+   "page_2": 40
   },
   "partial_withdrawal_charge": {
-   "value": "first withdrawal in a year free, the second Rs 100 (cap Rs 500)",
+   "value": {
+    "free": "first withdrawal in a policy year",
+    "charge": "Rs 100 per withdrawal from the second",
+    "cap": "Rs 500 per transaction"
+   },
    "status": "built-in",
    "doc": "Policy Document",
    "page": 40,
    "quote": "We will charge Rs.100 per withdrawal from the second Partial Withdrawal in any Policy Year.",
-   "note": null
+   "note": null,
+   "quote_2": "The Partial Withdrawal charge would be subject to a cap of Rs.500 per transaction.",
+   "page_2": 40
   },
   "premium_redirection_charge": {
-   "value": "nil (cap Rs 500 if introduced)",
+   "value": "nil",
    "status": "built-in",
    "doc": "Policy Document",
    "page": 40,
-   "quote": "Presently, the Premium Re-direction charges are nil.",
+   "quote": "17.7.1. Presently, the Premium Re-direction charges are nil.",
    "note": null
   },
   "miscellaneous_charge": {
