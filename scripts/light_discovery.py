@@ -371,7 +371,7 @@ def main():
                         'pd_category': '', 'doc_type': doc_type, 'source_url': eff or u, 'found_on_page_url': pg, 'download_date_utc': now,
                         'http_status': code, 'sha256': hashlib.sha256(body).hexdigest(), 'bytes': len(body), 'pages': pages_n,
                         'is_scanned': scanned, 'file_path': fp, 'text_path': tp, 'status': 'ok',
-                        'notes': '; '.join(x for x in [('' if prod['uin'] in uins else f"document shows {','.join(uins)}"),
+                        'notes': '; '.join(x for x in [('' if not uins or prod['uin'] in uins else f"document shows {','.join(uins)}"),
                                                      ocr_used, o_note, ocr_note,
                                                      ('brochure not verified (UIN missing/different); policy document used' if doc_type == 'policy' else ''),
                                                      ('no verified brochure or policy document; leaflet used' if doc_type == 'leaflet' else ''),
