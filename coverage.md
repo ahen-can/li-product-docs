@@ -18,7 +18,7 @@ could be verified. "Not found" means the script and a manual look at the site di
 | Edelweiss Life | 20 | 0 | 18 | 0 | 2 | 0 | 0 | 0 |
 | Generali Central Life | 17 | 0 | 17 | 0 | 0 | 0 | 0 | 0 |
 | Go Digit Life | 5 | 0 | 0 | 0 | 0 | 0 | 0 | 5 |
-| HDFC Life | 47 | 6 | 41 | 0 | 0 | 0 | 0 | 0 |
+| HDFC Life | 47 | 4 | 43 | 0 | 0 | 0 | 0 | 0 |
 | ICICI Life | 38 | 0 | 0 | 0 | 0 | 0 | 0 | 38 |
 | IndiaFirst Life | 31 | 0 | 31 | 0 | 0 | 0 | 0 | 0 |
 | IndusInd Nippon Life | 28 | 0 | 27 | 0 | 1 | 0 | 0 | 0 |
@@ -30,7 +30,7 @@ could be verified. "Not found" means the script and a manual look at the site di
 | Shriram Life | 26 | 1 | 25 | 0 | 0 | 0 | 0 | 0 |
 | Star Union Dai-ichi Life | 33 | 0 | 0 | 0 | 0 | 0 | 0 | 33 |
 | Tata AIA Life | 38 | 1 | 34 | 0 | 3 | 0 | 0 | 0 |
-| **Total** | 633 | 20 | 495 | 0 | 11 | 0 | 0 | 106 |
+| **Total** | 633 | 18 | 497 | 0 | 11 | 0 | 0 | 106 |
 
 ## Manual-download list
 Products whose documents could not be fetched automatically. Each line gives the product, UIN, the insurer page to visit, and which document is missing.
