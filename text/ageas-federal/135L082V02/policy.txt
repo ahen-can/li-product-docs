@@ -1,0 +1,1978 @@
+                Ageas Federal Life Insurance Wealthsurance Growth Insurance Plan SP II
+             A Single Premium, Non-participating, Unit Linked, Individual Life Insurance Plan
+                                           UIN: 135L082V02
+                                                   PART B
+
+DEFINITIONS
+“Age”
+ Age is defined as age as on last birthday.
+
+“Allocation”
+Allocation” for linked insurance product means the process of allocating premium to create units, at the
+prevailing unit price, in the segregated funds offered under the linked insurance product, as and when the
+premiums are received or switches from one fund to another fund are made.
+
+“Allocation of units”
+The premiums are applied to allocate units in one or more unit-linked funds in the proportions as
+specified. The number of units for allocation is determined using the applicable unit price as specified in
+the general terms and conditions. The minimum amount of premium allocated to any unit linked fund at
+the time of policy inception should be at least 15% of the Single Premium.
+
+“Appointee”
+Appointee is the person to whom the proceeds/benefits secured under the Policy are payable if the
+benefit becomes payable to the nominee and nominee is minor as on the date of claim payment.
+
+“Assignee”
+Assignee is the person to whom the rights and benefits are transferred by virtue of an Assignment under
+Section 38 of the Insurance Act, 1938, as amended from time to time.
+
+“Assignment”
+Assignment under the policy will be governed by Section 38 of the Insurance Act, 1938 as amended from
+time to time. Please refer Annexure A of the Policy Document for further details.
+
+“Assignor”
+Assignor means the person who transfers the rights of the life insurance policy to the Assignee.
+
+“Beneficiary”
+Beneficiary means the person who is entitled to receive benefits under this Policy. The Beneficiary may
+be Life Assured or Policyholder or his Assignee or Nominees or proved Executors or Administrators or
+other Legal Representatives as the case may be.
+
+“Child policy”
+This insurance policy has been issued on the life of a minor, i.e. less than 18 years of age. For such a policy,
+the policyholder has to be an adult. Only Parent, Grandparent or Legal Guardian can be the Policyholder.
+The ownership of the policy shall vest in Life Assured on his/her attaining of the age of majority.
+
+“Claimant”
+Claimant is the policy holder of the policy.
+In case of assignment, the assignee would be the claimant.
+
+
+
+
+AFLI_WEB PD_Wealthsurance Growth Insurance Plan SP II_v2.7                                        Page 1 of 42
+                  Ageas Federal Life Insurance Wealthsurance Growth Insurance Plan SP II
+               A Single Premium, Non-participating, Unit Linked, Individual Life Insurance Plan
+                                              UIN: 135L082V02
+If the Life assured is different from the policy holder, in case of death of the life assured the claimant
+would be the policy holder.
+If the Life assured is same as the policy holder, in case of death of the life assured the nominee would
+be the claimant.
+
+
+
+“Date of commencement of policy”
+It is same as date of inception and is mentioned in the policy schedule.
+
+ “Date of commencement of risk”
+It is the date specified in the policy schedule from which the risk cover of the Life Assured commences
+under the Policy. The date of commencement of risk is the same as the date of commencement of
+policy for all policies including Child policies.
+
+“Date of Payment of Premium”
+Date of payment of premium means the date on which premium payment is received by the company in
+accordance with the provisions of Section 64 VB (2) of the insurance Act1938.
+
+“Death Benefit”
+Death benefit means the benefit which is payable on death of life assured, as stated in the policy
+document.
+
+“Discontinuance”
+It means the state of a policy that could arise on account of surrender of the policy.
+
+“Discontinued policy fund”
+Discontinued Policy Fund means the segregated fund of the insurer constituted by the fund value, as
+applicable, of all the linked insurance policies discontinued during lock-in period.
+
+“Fund value”
+ Fund Value means the total value of the units at a point of time in a segregated fund i.e. total number of
+units under a policy multiplied by the Net Asset Value (NAV) per unit of that fund.
+
+“Life Assured”
+It means the person on whose life the risk is undertaken as shown in the schedule.
+
+“Lock-in-period”
+It is the period of 5 consecutive completed years from the policy commencement date during which
+period, the proceeds of the policies will not be paid by us to the policyholder or to the life assured, as the
+case may be except in the case of death or upon the happening of any other contingency covered under
+the policy.
+
+“Maturity date”
+Maturity Date means the means expiry of the policy term as specified in the Policy Schedule.
+
+“Net Asset value”
+
+
+
+AFLI_WEB PD_Wealthsurance Growth Insurance Plan SP II_v2.7                                       Page 2 of 42
+                Ageas Federal Life Insurance Wealthsurance Growth Insurance Plan SP II
+             A Single Premium, Non-participating, Unit Linked, Individual Life Insurance Plan
+                                            UIN: 135L082V02
+Net Asset value means the price per unit of the segregated fund.
+
+“Nominee”
+Nominee is the person who has been nominated by the Life Assured in accordance with Section 39 of the
+Insurance Act, 1938 as amended from time to time.
+
+“Nomination”
+Nomination under the Policy will be governed by Section 39 of the Insurance Act, 1938 as amended from
+time to time. Please refer to Annexure B of the policy document for further details
+
+“Partial Withdrawals”
+Partial Withdrawals means any amount withdrawn partially out of unit fund by the policyholder during
+the term of the policy.
+
+“Policy”
+It means the contractual arrangement as established by the policy document.
+
+“Policyholder”
+It means the owner of the plan who is eligible to receive the benefits under the policy as shown in the
+schedule, unless the policy is assigned.
+
+“Policy Anniversary”
+It means the annual anniversary of the Date of Commencement of Risk.
+
+“Policy document”
+It is a comprehensive document inclusive of statement and warranties as per the proposal form along
+with amendments. It also includes policy benefits, general terms and conditions, policy schedule,
+applicable funds and charges, account statement, premium receipt and any other document provided
+from time to time for issue of this policy.
+
+“Policy month”
+ It is the period of one month following the policy commencement date and every subsequent month.
+
+“Policy term”
+ It is the term of the Policy as specified in the Schedule during which the Policy coverage continues.
+
+“Policy year”
+It is the year commencing from the Policy Commencement Date or Policy Anniversary thereof.
+
+“Premium paying frequency”
+It is the frequency option available for making premium payments.
+
+“Premium payment term”
+It is the number of years for which premium has to be paid under the policy by the policyholder.
+
+“Proceeds of the discontinued policy”
+
+
+
+
+AFLI_WEB PD_Wealthsurance Growth Insurance Plan SP II_v2.7                                      Page 3 of 42
+                Ageas Federal Life Insurance Wealthsurance Growth Insurance Plan SP II
+             A Single Premium, Non-participating, Unit Linked, Individual Life Insurance Plan
+                                           UIN: 135L082V02
+Proceeds of the discontinued policies means the fund value as on the date the policy was discontinued,
+after addition of applicable interest.
+
+“Proposal Form”
+It means a form to be filled in by the prospect in written or electronic or any other format as approved by
+the IRDAI, for furnishing all information as required by the Company in respect of a risk, in order to enable
+the Company to take an informed decision in the context of underwriting the risk, and in the event of
+acceptance of the risk, to determine the rates, advantages, terms and conditions of the cover to be
+granted.
+
+“Rider”
+Rider means the optional Insurance cover(s) added to base policy for additional premium.
+
+“Rider Benefits”
+Rider Benefits means an amount of benefit payable on occurrence of a specified event covered under the
+rider and is an additional benefit to the benefit under the base policy.
+
+“Schedule”
+It means the policy schedule issued by us for this policy containing all relevant details of the policy along
+with any amendments to the schedule which we may issue from time to time.
+
+“Segregated Fund”
+Segregated Fund means funds earmarked under linked insurance business.
+
+"Settlement Option“
+Settlement Options means a facility made available to receive the maturity or death proceeds in
+instalments in accordance with the terms and conditions stated in advance at the inception of the
+contract.
+
+“Single Premium”
+Single Premium is the premium paid in lumpsum by the policyholder at the inception of the policy,
+excluding the taxes, rider premiums and underwriting extra premium on riders, if any.
+
+“Sum assured on death”
+Sum assured on death means an absolute amount of benefit which is guaranteed to become payable on
+death of the life assured in accordance with the terms and conditions of the policy.
+It is shown as death sum assured in the schedule.
+
+“Surrender”
+It means complete withdrawal or termination of the entire policy as mentioned under Section 10 of Part
+D.
+
+“Surrender value”
+Surrender value means an amount, if any, that becomes payable on surrender of a policy during its term,
+in accordance with the terms and conditions of the policy.
+
+
+
+
+AFLI_WEB PD_Wealthsurance Growth Insurance Plan SP II_v2.7                                      Page 4 of 42
+                Ageas Federal Life Insurance Wealthsurance Growth Insurance Plan SP II
+             A Single Premium, Non-participating, Unit Linked, Individual Life Insurance Plan
+                                           UIN: 135L082V02
+“Switches”
+Switches mean a facility allowing the policyholder to move from one segregated fund, either wholly or in
+part, to other segregated fund(s) amongst the segregated funds offered as per the terms and conditions
+of the policy.
+
+“Unit”
+Unit means a specific portion or part of the underlying segregated linked fund which represents
+policyholder’s entitlement in such funds.
+
+“Unit fund value”
+Unit fund value means summation of number of units in each segregated fund multiplied by the net asset
+value (NAV) for respective segregated fund under that policy.
+
+“We/Our/Us/The Company”
+These refer to Ageas Federal Life Insurance Company Limited.
+
+“You/Your”
+These refer to the policyholder named in the schedule or his/her legal personal representative. In the case
+of a child policy, these refer to the child once he/she has attained the vesting age shown in the schedule.
+
+
+
+
+AFLI_WEB PD_Wealthsurance Growth Insurance Plan SP II_v2.7                                      Page 5 of 42
+                Ageas Federal Life Insurance Wealthsurance Growth Insurance Plan SP II
+             A Single Premium, Non-participating, Unit Linked, Individual Life Insurance Plan
+                                           UIN: 135L082V02
+                                                  PART C
+
+POLICY BENEFITS
+
+Linked insurance products do not offer any liquidity during the first 5 years of the contract. The
+policyholder will not be able to withdraw the monies invested in linked insurance products completely
+or partially until the end of the 5th year.
+The policy benefit section is part C of your policy document. It includes detailed description of the
+following:
+
+1. Maturity Benefit
+2. Death Benefit
+3. Rider Benefits
+
+1.      Maturity benefit
+        On survival of the Life Assured till the date of Maturity, Fund Value including Loyalty Additions
+        shall be paid on the date of Maturity, provided the policy is in force.
+
+        On payment of Maturity benefit, the policy will terminate and all rights, benefits and interests
+        under the policy will stand extinguished.
+
+        Loyalty additions
+        The funds will be credited with loyalty additions at the end of 6th policy year, 10th policy year and
+        every 5 years thereafter subject to the policy being in force:
+
+            Loyalty additions as % of average fund value
+
+                          3.0%
+
+        Loyalty additions will be a percentage of the average fund value in the last 36 months preceding
+        the loyalty addition date. If you have invested in multiple funds the loyalty additions will be added
+        to each fund in the same proportion as the fund value in each fund bears to the total fund value.
+
+2.      Death benefit
+        In case of death of the Life Assured during the policy term provided the policy is in force, the
+        below Death Benefit will be paid to the claimant:
+
+        Higher of
+        • Death Sum Assured, or
+        • the Fund Value1 or
+        • 105% of the Single Premium2 Paid,
+         1
+          Fund Value will be as on the date of valid notification of the death to us,
+        2
+         Single Premium is the premium paid in lumpsum by the policyholder at the inception of the
+        policy, excluding the taxes, rider premiums and underwriting extra premium on riders, if any.
+
+        Reduction in death benefit following a partial withdrawal
+
+
+
+
+AFLI_WEB PD_Wealthsurance Growth Insurance Plan SP II_v2.7                                      Page 6 of 42
+              Ageas Federal Life Insurance Wealthsurance Growth Insurance Plan SP II
+           A Single Premium, Non-participating, Unit Linked, Individual Life Insurance Plan
+                                         UIN: 135L082V02
+       The minimum Death Benefit is 105% of the Single Premium paid till the date of death. Mortality
+       Charge shall be calculated corresponding to the applicable Sum at Risk.
+
+       The Death Sum Assured under this option shall be reduced to the extent of partial withdrawals
+       made during the two year period immediately preceding the death of the life assured. Mortality
+       Charge shall be calculated corresponding to the applicable Sum at Risk.
+
+       In case of death of the Life Assured when the policy is in Discontinued Policy Fund, Discontinued
+       Policy Fund Value will be payable as Death Benefit to the claimant.
+
+       On payment of Death Benefit, the policy will terminate and all rights, benefits and interests
+       under the policy will stand extinguished.
+
+3.     Rider Benefits
+       The benefits and the terms and conditions of the Rider, if opted by the Policyholder will be as
+       per the Rider Policy Document, provided along with this Policy Document.
+
+
+
+
+AFLI_WEB PD_Wealthsurance Growth Insurance Plan SP II_v2.7                                   Page 7 of 42
+               Ageas Federal Life Insurance Wealthsurance Growth Insurance Plan SP II
+            A Single Premium, Non-participating, Unit Linked, Individual Life Insurance Plan
+                                          UIN: 135L082V02
+                                                PART D
+
+POLICY TERMS AND CONDITIONS
+
+The policy’s terms and conditions section is part D of your policy document. It includes detailed
+description of the following:
+
+ 1. Fund Management
+ 2. Alteration to the Death Sum Assured
+ 3. Alteration to the Premium
+ 4. Top-up Premium
+ 5. Direction and Redirection of Premiums
+ 6. Free Look
+ 7. Switching
+ 8. Partial Withdrawals
+ 9. Discontinuing your Policy
+ 10.    Surrender
+ 11.    Vesting Rights under a child policy
+ 12.    Settlement option
+ 13.    Loans
+ 14.    Participation in profits
+ 15.    Termination of your policy
+
+1. Fund Management
+
+This section includes detailed description of the following:
+
+ a) Tools for building your wealth
+ b) Systematic Allocator
+ c) Units
+ d) Market Value
+ e) Account Statement
+
+a.       Tools for building your wealth
+This plan offers 10 unit linked funds. You may choose one or more unit linked funds based on your risk
+profile. Unit linked funds invest in equity and/or debt as per their investment objectives. The Net Asset
+Value (NAV) of each fund is published on a daily basis. You can invest your premiums into, switch into or
+switch out of any fund(s) at any time at the prevailing day’s NAV. You can also switch and change your
+investment options, any number of times free of charge, as per your requirements. Information on
+available funds is provided on our website www.ageasfederal.com.
+
+Manage your investment:
+
+Types of investment options
+We offer two ways in which you may manage your investments:
+
+
+
+
+AFLI_WEB PD_Wealthsurance Growth Insurance Plan SP II_v2.7                                     Page 8 of 42
+                    Ageas Federal Life Insurance Wealthsurance Growth Insurance Plan SP II
+                 A Single Premium, Non-participating, Unit Linked, Individual Life Insurance Plan
+                                                 UIN: 135L082V02
+          o Do-it-yourself: You may decide to invest in the various funds and change them from time to time,
+            as per your wish. This option is suitable only if you know precisely where you wish to invest and
+            you have the time & inclination to manage your investments from time to time.
+
+         o   Leave-it-to-us: You may leave it to us to manage your investments by opting for Systematic
+             Allocator. It is a programmed investment solution where the fund mix becomes more
+             conservative as the plan approaches maturity. For detailed information, please refer” Systematic
+             Allocator” under point b of this section.
+
+   These unit-linked funds are open-ended funds which invest in equity and/or debt as per their investment
+   objectives. The Net Asset Value (NAV) of each fund is published on a daily basis. You may invest your
+   premiums into, switch into or switch out of any fund(s) at any time at the prevailing day’s NAV. Your gain
+   or loss is the difference between the value at which you invested and the value at which you exited.
+   Remember, the NAV depends on the market value of the underlying investments. Nevertheless, the
+   expected risk and returns vary from fund to fund. We offer the following funds:
+
+ i.Equity Growth Fund SFIN: ULIF04111/01/08EQOPP135
+    Investment Objective and Strategy                             Asset Category                   Allocation
+    Equity Growth Fund invests in listed stocks and aims to       Cash and Money Market            0 – 50%
+    generate high returns by picking stocks that have             Equities and Equity-linked       50 – 100%
+    growth prospects. It aims to diversify risk by investing in   instruments
+    large-cap as well as mid-cap stocks and across multiple       Returns and Risk
+                                                                  The returns from the Equity Growth Fund
+    sectors.
+                                                                  are likely to be high but the risk is also high.
+    The fund will usually have a high proportion of
+    investments in equities and equity-linked instruments
+    other than in market conditions that warrant
+    diversification into cash and money market.
+    Fund Management Charge. 1.35% p.a.
+
+ii.Midcap Fund SFIN: ULIF06824/11/09MIDCAP135
+    Investment Objective and Strategy                             Asset Category                   Allocation
+    Midcap Fund invests in midcap stocks with attractive          Cash and Money Market            0 – 50%
+    growth prospects. It aims to diversify risk by investing in   Mid-cap Stocks                   50 – 100%
+    large cap as well as in cash and money market                 Large-cap Stocks                 0 – 50%
+    investments when required.                                    Returns and Risk
+    Fund Management Charge. 1.35% p.a.                            The returns from the Midcap Fund are likely
+                                                                  to be high and the risk is also high.
+
+iii.      Multicap Fund SFIN: ULIF080061223MULTICAP135
+       Investment Objective and Strategy                                 Asset Category        Allocation
+
+
+
+
+   AFLI_WEB PD_Wealthsurance Growth Insurance Plan SP II_v2.7                                         Page 9 of 42
+                     Ageas Federal Life Insurance Wealthsurance Growth Insurance Plan SP II
+                  A Single Premium, Non-participating, Unit Linked, Individual Life Insurance Plan
+                                                 UIN: 135L082V02
+      The Multicap Fund is an open-ended Fund which aims to            Cash and Money 0 – 50%
+      generate good returns by investing in a diversified portfolio of Market
+      listed companies across market cap. The Fund aims to achieve
+      capital appreciation through investments in well-established     Equities and         50 – 100%
+      blue-chip companies, emerging blue-chip companies, mid-cap Equity-linked
+      companies and select small cap companies.                        instruments.
+
+      The investments will be made with a medium to long term             Returns and Risk
+      perspective. The Fund will diversify the risk by investing across   The Fund intends to generate high
+      stocks in multiple sectors.                                         returns through asset allocation and
+                                                                          stock selection. Risk involved is from
+                                                                          moderate to high. However, Fund
+                                                                          will diversify the risk by investing
+                                                                          across stocks in multiple sectors.
+
+
+iv.      Momentum Growth Fund SFIN: ULIF081240125MOMENTUM135
+      Investment Objective and Strategy                              Asset Category              Allocation
+      The investment objective of the Momentum Fund is to Cash and Money Market 0 – 10%
+      generate returns by investing in a diversified portfolio of
+                                                                     Equities and Equity- 90%– 100%
+      equity and equity-related instruments. The Fund will invest in
+                                                                     linked instruments.
+      momentum stocks which are identified based on their recent
+                                                                     Returns and Risk
+      returns and price volatility. The Fund is in the nature of an
+                                                                     The returns from Momentum Growth
+      Index Fund and will track Nifty 500 Momentum 50 Index.
+                                                                     Fund are likely to be high but the risk is
+      Fund Management Charge. 1.35% p.a.
+                                                                     also high.
+
+v.       India Sector Leaders Fund SFIN: ULIF082070725ISLF135
+      Investment Objective and Strategy                                Asset Category            Allocation
+
+      The investment objective of the India Sector Leaders Fund        Cash and Money            0 – 10%
+      is to generate returns by investing in a diversified portfolio   Market
+      of equity and equity-related instruments. The Fund will          Equities and Equity-      90% – 100%
+      invest in the stocks which are a part of the BSE India Sector    linked instruments
+      Leaders Index. Top stocks based on total market
+      capitalisation across sectors as defined in India Industry       Returns and Risk
+                                                                       The returns from India Sector Leaders
+      Classification Structure, will be invested. The Fund is in the
+                                                                       Fund are likely to be high but the risk is
+      nature of an Index Fund and will track BSE India Sector
+                                                                       also high.
+      Leaders Index.
+      Fund Management Charge. 1.35% p.a
+
+
+vi.     Enhanced Value Fund SFIN: ULIF083071125ENVF135
+
+
+
+  AFLI_WEB PD_Wealthsurance Growth Insurance Plan SP II_v2.7                                         Page 10 of 42
+                   Ageas Federal Life Insurance Wealthsurance Growth Insurance Plan SP II
+                A Single Premium, Non-participating, Unit Linked, Individual Life Insurance Plan
+                                              UIN: 135L082V02
+        Investment Objective and Strategy                        Asset Category            Allocation
+
+        The investment objective of the Enhanced Value Fund is to     Cash and Money 0 – 10%
+        generate returns by investing in a diversified portfolio of   Market
+        equity stocks. The Fund will invest in the stocks which are   Equities and Equity- 90% – 100%
+        a part of the BSE 500 Enhanced Value 50 Index. Top 50         linked instruments
+        companies among BSE 500 companies based on VALUE
+        parameter (Book-to-Price, Earnings-to-Price and Sales-to-     Returns and Risk
+                                                                      The returns from Enhanced Value Fund
+        Price), will be invested. The Fund is in the nature of an
+                                                                      are likely to be high but the risk is also
+        Index Fund and will track BSE 500 Enhanced Value 50
+                                                                      high.
+        Index.
+        Fund Management Charge. 1.35% p.a
+
+
+vii.      Pure Fund SFIN: ULIF07205/08/10PURE135
+        Investment Objective and Strategy                        Asset Category                  Allocation
+        Pure Fund invests in Money Market, Equity and            Cash and Money Market           0 – 20%
+        Equity linked instruments. The investments are made      Equities and Equity-linked      80 – 100%
+        in those companies that do not belong to certain         instruments.
+        sectors engaged in activities which are considered       Returns and Risk
+        harmful for society at large and aims to generate high   The expected returns from the Pure Fund
+        returns by picking stocks with medium to long term       are high but the risk is high too.
+        growth prospects.
+
+        Examples of activities considered harmful to the
+        society include gambling, speculative investments,
+        tobacco and alcohol.
+        Fund Management Charge. 1.35% p.a.
+
+viii.    Aggressive Asset Allocator Fund SFIN: ULIF04811/01/08AGGRESSIVE135
+        Investment Objective and Strategy                      Asset Category                 Allocation
+        Aggressive Asset Allocator fund aims to generate Fixed Income                         0 – 50%
+        returns by taking asset allocation decisions between Money Market                     0 – 50%
+        the money market, fixed income and equity within the Equity                           50 – 100%
+        specified range. Equity investments would be made Returns and Risk
+        with an aim to generate high returns by picking stocks The possible returns from the Aggressive
+        that have growth prospects.                            Asset Allocator Fund are high but the risk is
+        Fund Management Charge. 1.35% p.a.                     high too.
+
+ ix.     Moderate Asset Allocator Fund SFIN: ULIF04911/01/08MODERATE135
+        Investment Objective and Strategy                   Asset Category                          Allocation
+                                                            Fixed Income                            50 – 100%
+
+
+
+    AFLI_WEB PD_Wealthsurance Growth Insurance Plan SP II_v2.7                                     Page 11 of 42
+                    Ageas Federal Life Insurance Wealthsurance Growth Insurance Plan SP II
+                 A Single Premium, Non-participating, Unit Linked, Individual Life Insurance Plan
+                                                UIN: 135L082V02
+                                                                Money Market                      0– 50%
+       Moderate Asset Allocator fund aims to generate returns Equity                              0 – 50%
+       by taking asset allocation decisions between money Returns and Risk
+       market, fixed income and equity within the specified The possible returns from the Moderate
+       range. Equity investments would be made with an aim Asset Allocator Fund are high but the risk is
+       to generate high returns by up picking stocks that have high as well. However, the returns and risks
+       growth prospects.                                        may be lower than the Aggressive Asset
+       Fund Management Charge. 1.35% p.a.                       Allocator fund in view of lower exposure to
+                                                                equity assets.
+
+x.      Bond Fund II SFIN: ULIF07731/10/17BOND2135
+       Investment Objective and Strategy                        Asset Category                   Allocation
+       Bond Fund II aims to generate returns by investing in    Fixed Income                     50– 100%
+       a portfolio of fixed income securities and money         Money Market Investment          0 – 50%
+       markets. It aims of generating returns through           Returns and Risk
+       coupon flows, capital appreciation through interest      The returns from the Bond Fund II are likely to
+       rate calls and credit spreads.                           be moderate and the risk is also moderate.
+       Fund Management Charge. 1.25% p.a.
+
+
+
+
+     Discontinued Policy Fund ULIF07301/07/10DISCON135
+     The Discontinued Policy Fund is available only upon discontinuance of the policy within the first 5 years
+     of the policy.
+        Investment Objective and Strategy                          Asset Category           Allocation
+        The objective of the fund is to invest in a portfolio of Money           Market 0 to 40%
+        money market and Government Securities, in order to        instrument
+        generate minimum returns as prescribed by IRDAI from Government                     60 to 100%
+        time to time.                                              Securities
+                                                                   Returns and Risk
+        To keep the volatility of returns low, the fund invests in
+        instruments with minimal market risk, and to minimize the The expected returns from the fund
+        credit risk, the fund invests in money market and highly would be low and the risk is low as well.
+        quality fixed income instruments.
+        Fund Management Charge. 0.50% p.a.
+
+     Note: Fixed Income Investments include Dated Central Government Securities, State Development Loans,
+     miscellaneous GOI Paper like Oil Bonds, UTI bonds, Term Deposit with Banks, Bonds, Debentures,
+     Infrastructure Debt Funds and Asset Backed Securities or any other instrument as notified by IRDAI from
+     time to time.
+
+     Equity and Equity linked instruments are defined as investments in securities which are in the nature of
+     equity or equity linked instruments out of instruments listed under Insurance Act, 1938, (‘Insurance Act’)
+
+
+     AFLI_WEB PD_Wealthsurance Growth Insurance Plan SP II_v2.7                                  Page 12 of 42
+                Ageas Federal Life Insurance Wealthsurance Growth Insurance Plan SP II
+             A Single Premium, Non-participating, Unit Linked, Individual Life Insurance Plan
+                                           UIN: 135L082V02
+or in IRDAI (Actuarial, Finance and Investment Functions of Insurers) Regulations,2024 including any
+circular/guidelines issued by IRDAI as amended from time to time.
+
+New Funds:
+We may offer you new unit-linked funds and also modify the existing ones; subject to necessary approvals
+as required by IRDAI.
+
+We may withdraw one or more unit-linked funds in future. However, you will be intimated in advance to
+select a new fund (or funds).
+
+Although the Funds are open ended, we may, as per Board approved policy, and subject to necessary
+approvals as required by the Regulator, completely close any of the Funds on the happening of any event,
+which in our sole opinion requires the said Fund to be closed. The policyholder shall be given at least three
+months prior written notice of our intention to close any of the Funds completely or partially except in
+Force Majeure conditions, where we may give a shorter notice. In case of complete closure of a Fund, on
+and from the date of such closure, we shall cease to issue and cancel units of the said Fund and cease to
+carry on activities in respect of the said Fund, except such acts as are required to complete the closure. In
+such an event if the units are not switched to another Fund by the policyholder, we will switch the said
+units to any other appropriate Fund with similar characteristics as per Board approved policy, with due
+weightage for the respective NAVs at the time of switching, subject to necessary approvals as required by
+the Regulator.
+However, no fee would be charged by us for switching to another Fund or exiting from the policy in the
+event of complete closure of Funds.
+We will inform you of changes to this range from time to time.
+
+Foreclosure:
+Policy shall be foreclosed, if the charges exceed the Fund Value of the policy. On foreclosure, Fund Value
+(if any) shall be payable and the policy shall terminate.
+
+b.       Systematic Allocator
+The Systematic Allocator is a programmed investment solution in which the fund mix becomes more
+conservative as the investment goal approaches. The funds will be invested in the Equity Growth fund and
+Bond Fund II based on the balance time for the plan to attain maturity. This strategy moves the fund
+allocation towards Bond Fund II as the plan approaches the maturity date. However, by reducing exposure
+to Equity Growth fund, the risk of a sudden drop in the equity market affecting the accumulated value,
+diminishes.
+
+Balance / Residual time to maturity (in years, rounded up to the nearest integer) of the plan is used to
+determine the proportion of allocation to the Equity Growth fund and Bond Fund II. This proportion is
+pre-defined by the Systemic Allocator "Glide Path". “Glide Path” is the proportion allocated to the Equity
+Growth Fund and Bond Fund II based on the time remaining for the plan to attain maturity as shown in
+the table below. The premiums will be allocated as per this Glide Path and at each policy anniversary, the
+Fund Value will be rebalanced as per the residual maturity of the plan.
+
+                                    Systematic Allocator “Glide Path”
+
+
+
+
+AFLI_WEB PD_Wealthsurance Growth Insurance Plan SP II_v2.7                                    Page 13 of 42
+                   Ageas Federal Life Insurance Wealthsurance Growth Insurance Plan SP II
+                A Single Premium, Non-participating, Unit Linked, Individual Life Insurance Plan
+                                               UIN: 135L082V02
+             Balance / Residual         Proportion allocated to         Proportion allocated to
+             time to maturity of          Equity Growth fund                  Bond Fund II
+              the plan (in years)
+                      1                          5.00%                           95.00%
+                      2                         10.00%                           90.00%
+                      3                         15.00%                           85.00%
+                      4                         20.00%                           80.00%
+                      5                         25.00%                           75.00%
+                      6                         30.00%                           70.00%
+                      7                         35.00%                           65.00%
+                      8                         45.00%                           55.00%
+                      9                         50.00%                           50.00%
+                      10                        55.00%                           45.00%
+                      11                        60.00%                           40.00%
+                      12                        65.00%                           35.00%
+                      13                        70.00%                           30.00%
+                      14                        75.00%                           25.00%
+                15 and above                    80.00%                           20.00%
+
+
+                Rules for Systematic Allocator:
+               • You may choose the Systematic Allocator at inception of the plan or switch to this option
+                   on any policy anniversary.
+               • Once the Systematic Allocator is chosen you will not be allowed to do a manual
+                   switch/AutoSwitcher or premium re-direction (if applicable) between the funds.
+               • You may also opt out of the Systematic Allocator at any time and use the “Do it yourself”
+                   option in order to manage the funds.
+               • There are no additional charges for the Systematic Allocator, the underlying fund
+                   management charges of the Equity Growth fund and Bond Fund II will continue to apply.
+                   Other charges as mentioned in Section E shall also continue to apply. The switches under
+                   Systematic Allocator shall be treated as free switch.
+
+c.       Units
+Each unit-linked fund is divided into number of units of equal value. The value of each unit is called the
+unit price which is determined on a daily basis. To create cash inflows to the fund, the new units are
+created at the prevailing unit price and to meet the cash outflows, existing units in the fund are realised.
+
+Unit price (Net Asset Value) formula:
+
+The Net Asset Value (NAV) ) of each segregated fund shall be computed as
+              Market Value of investments held by the fund + Value of current assets – Value of current liabilities & provisions, if any
+NAV =
+                                      Number of Units existing on valuation date (before creation/redemption of units)
+
+
+
+
+AFLI_WEB PD_Wealthsurance Growth Insurance Plan SP II_v2.7                                                                Page 14 of 42
+                Ageas Federal Life Insurance Wealthsurance Growth Insurance Plan SP II
+             A Single Premium, Non-participating, Unit Linked, Individual Life Insurance Plan
+                                           UIN: 135L082V02
+Fund Management Charge is levied as a percentage of the value of assets and will be appropriated by
+adjusting the NAV on a daily basis.
+
+The uniform cut-off timings for applicability of net asset value in respect of allocations and redemptions
+will be 3:00 p.m. NAV and its calculation shall be in compliance with Computation of Net Asset Value (NAV)
+from IRDAI (Insurance Products) Regulations, 2024, as amended from time to time and any other relevant
+circulars/guidelines/regulations/directions from the IRDAI from time to time.
+
+d.      Market value
+We will determine the market value of assets in accordance with the regulatory requirements. We reserve
+the right to suspend unit pricing if it is not possible for us to value some or all of the assets of a unit linked
+fund due to Force Majeure conditions. Further the unit pricing will be resumed within 2 working days from
+the day markets resume or conditions return to normal, whichever is earlier.
+
+The suspension of unit pricing will be only on external events to the company.
+
+e.      Account Statement:
+We will send you the Account Statement at each Policy Anniversary.
+
+    2. Alterations to Death Sum assured
+     We may agree to increase your death sum assured subject to satisfying our death sum assured limits
+     and underwriting requirements at the time of alteration. Any increase in the death sum assured may
+     result in higher mortality charges
+     You may request us to reduce your death sum assured but not to less than our minimum death sum
+     assured requirements corresponding to your single premium.
+     There will not be any alteration charge.
+
+    3. Alteration to the Premium
+    Not applicable
+
+    4. Top-up Premium
+    The policy does not have an option of Top-up premium.
+
+    5. Direction and Redirection of Premiums
+    Not applicable
+
+    6. Free Look
+    You are entitled to a free look period of 30 days beginning from the date of receipt of the policy
+    document (whether received electronically or otherwise), to review the terms and conditions of the
+    policy. In case you do not agree to any of the policy terms and conditions, or otherwise and have not
+    made any claim, you have the option to return the policy to us for cancellation by communicating the
+    same in writing stating the reasons for cancellation. We will refund you the premium paid after
+    deducting the proportionate risk premium for the period of cover provided and the expenses, if any,
+    incurred by us in respect of medical examination and stamp duty charges. The Company shall also be
+    obligated to repurchase the units at the Net Asset Value (NAV) of the units on the date of cancellation.
+
+
+
+AFLI_WEB PD_Wealthsurance Growth Insurance Plan SP II_v2.7                                         Page 15 of 42
+               Ageas Federal Life Insurance Wealthsurance Growth Insurance Plan SP II
+            A Single Premium, Non-participating, Unit Linked, Individual Life Insurance Plan
+                                             UIN: 135L082V02
+   All the benefits under the policy will stand extinguished immediately on the cancellation of the Policy
+   under the free look.
+
+   7. Switching
+  At any time during the policy term and the settlement period, you may instruct us in writing to switch
+  some or all of your units from one unit-linked fund to other unit-linked fund(s). We will cancel the units
+  in the old fund and allocate units to the new fund(s) to activate the switch. Switches advised up to 3:00
+  pm will be processed at that day’s NAV, while switches advised after 3:00 pm will be processed at the
+  following day’s NAV. There is no restriction on number of switches allowed in a policy year. Switching
+  is not allowed if Policyholder has opted for Systematic Allocator
+
+   AutoSwitcher facility
+   AutoSwitcher facility is a value added service available with this plan whereby it switches the funds
+   automatically as per set of instructions given by the You. AutoSwitcher can be used to make
+   programmed switches each month. A fixed amount can be switched monthly from one fund to
+   another fund on a fixed date. You can specify the funds from which the desired amounts are to be
+   switched out and the funds to which the amounts are to be credited. There are no additional charges
+   for availing Auto Switcher facility, the underlying fund management charges of the funds chosen
+   under Auto switcher will continue to apply. Other charges as mentioned in Section E shall also
+   continue to apply. The switches under Auto Switcher shall be treated as free switch.
+
+   Eligibility criteria for AutoSwitcher
+       Parameters                        Minimum               Maximum
+       Transfer Amount                   Rs. 500              No maximum
+                                         15% of transfer      Sum allocated to all funds should be
+       Allocation in each Target Fund
+                                         amount               100% of transfer amount
+       Period of Transfer                6 months             Up to end of policy term
+
+   Conditions for AutoSwitcher
+    1. The AutoSwitcher will commence on the transfer date subsequent to our acceptance of the
+       AutoSwitcher application form and we will confirm the same to the customer
+    2. The AutoSwitcher, will switch the required number of units by cancelling units from the
+       accumulation fund and allocating units in the target fund(s)*
+    3. Any units remaining in funds other than target funds and accumulation fund will not be affected
+       by AutoSwitcher
+    4. In case the value of units in the accumulation fund is lesser than the transfer amount:
+         • No funds will be switched
+         • On the next transfer date and each subsequent transfer date the AutoSwitcher would check
+              for fund availability, whenever funds are available on the subsequent transfer dates it will
+              switch the funds, in case funds are not available in the accumulation fund on the
+              subsequent transfer dates, no funds will be switched
+    5. If the transfer date happens to fall on a non business day then the corresponding switches will
+       take place on the next business day.
+    6. Only one AutoSwitcher instruction can be active for a policy, if you give more than one request
+       for AutoSwitcher the earlier AutoSwitcher instruction will be stopped and the latest request will
+       be processed.
+    7. The AutoSwitcher will stop in the event of any one of the following scenarios:
+
+
+AFLI_WEB PD_Wealthsurance Growth Insurance Plan SP II_v2.7                                   Page 16 of 42
+               Ageas Federal Life Insurance Wealthsurance Growth Insurance Plan SP II
+            A Single Premium, Non-participating, Unit Linked, Individual Life Insurance Plan
+                                           UIN: 135L082V02
+         • If the policy is in Discontinued Policy fund
+         • If we accept a death claim
+         • At the end of the policy term
+         • On completion of the period for AutoSwitcher.
+    8. Policyholder can give a written request 15 days in advance of the transfer date to stop the
+       AutoSwitcher service.
+    9. Manual switch and premium redirection (if applicable) can be done even if AutoSwitcher is opted.
+    10.To change or amend the AutoSwitcher instruction the Policyholder must first request to stop the
+       earlier AutoSwitcher instruction and issue a new instruction. A policy can have only one
+       AutoSwitcher instruction active at any given time.
+    11.Any available fund under this plan can be chosen as target funds for AutoSwitcher and any fund
+       can be chosen as an accumulation fund for AutoSwitcher.
+
+   Explanation of terms
+    • Transfer amount: Amount to be transferred each month, shall be selected by the Policyholder.
+    • Accumulation fund: Any one fund chosen by the Policyholder from which the funds will be
+       switched out.
+    • Target fund(s): Any fund(s) chosen by the policyholder in which the transfer amount will be
+       switched-in (Other than the accumulation fund, minimum allocation to any fund must be at least
+       15% of transfer amount).
+    • Transfer date: Date on which the transfer will occur every month. Policyholder can choose any
+       one date in a month from choice of 4 available transfer dates 1st, 7th, 14th, 21st.
+    • Allocation: Policyholder selects the allocation to each of the target funds (minimum allocation
+       15% of transfer amount).
+    • Period for AutoSwitcher: This is the duration for which the AutoSwitcher facility will be active. The
+       Auto switcher facility can be chosen for a minimum period of 6 months and maximum till the end
+       of policy term.
+
+   8. Partial Withdrawals
+       Partial withdrawals shall be allowed only after completion of lock-in period with any frequency, if
+       the policy is in force. The partial withdrawals which would result in termination of a contract shall
+       not be allowed.
+       • The maximum partial withdrawal allowed in a year is 20% of the fund value at the beginning
+            of that policy year.
+       • The minimum amount of any partial withdrawal is Rs 10,000.
+       • The fund value after the partial withdrawal should not be less than Rs 10,000.
+            If the fund value after partial withdrawals falls below Rs 10,000, either because of a charge
+            or due to a fall in NAV, the policy will continue whilst the fund value remains positive.
+       • We will cancel units from the unit-linked funds to the value of each withdrawal according to
+            the proportions that you specify.
+       • In case of a “child policy”, partial withdrawals shall not be allowed until the minor Life
+            Assured attains majority i.e. on or after the attainment of age18 .
+
+       Reduction in death benefit following a partial withdrawal
+       The minimum Death Benefit is 105% of the single premium paid till the date of death. .
+       The Death Sum Assured under this option shall be reduced to the extent of partial withdrawals
+       made during the two year period immediately preceding the death of the life assured.
+
+
+AFLI_WEB PD_Wealthsurance Growth Insurance Plan SP II_v2.7                                   Page 17 of 42
+              Ageas Federal Life Insurance Wealthsurance Growth Insurance Plan SP II
+           A Single Premium, Non-participating, Unit Linked, Individual Life Insurance Plan
+                                         UIN: 135L082V02
+       The company will calculate the mortality charge corresponding to the applicable of sum at risk.
+
+
+   9. Discontinuing your policy
+
+       Discontinuing your policy within 5 years of the policy commencement date
+       The policyholder has an option to surrender any time during the lock-in period. Upon receipt of
+       request for surrender, the fund value, after deducting the applicable discontinuance charges,
+       shall be credited to the discontinued policy fund.
+
+       1.      Such discontinuance charges are mentioned in Part E of the Policy Document.
+       2.      The policy shall continue to be invested in the discontinued policy fund and the
+               proceeds from the Discontinued policy fund shall be paid at the end of lock-in period.
+               Only Fund Management Charge can be deducted from this fund during this period.
+               Further, no risk cover shall be available on such policy during the discontinuance period.
+
+       Segregated Discontinued Policy Fund:
+       The Discontinued Policy Fund will provide a minimum guaranteed interest rate of 4% p.a. from
+       the date of discontinuance of the policy or such rate as specified by the Competent Authority from
+       time to time. The excess income earned in the discontinued policy fund over and above the
+       minimum guaranteed interest rate shall also be apportioned to the discontinued policy fund in
+       arriving at the proceeds of discontinued policies and shall not be made available to the
+       shareholders. We will also recover the Fund Management Charge levied on the Discontinued
+       Policy Fund after ensuring the guaranteed return.
+
+       Policy discontinuance after five years from the policy commencement date:
+       After the five years from the policy commencement date, if the policy owner exercises the option
+       of complete withdrawal/surrender, we will terminate the policy and pay the fund value and the
+       insurance benefits would cease.
+
+   10. Surrender
+       Your policy will have a lock-in period of 5 years from the date of inception. If the policy is
+       surrendered within the lock in period, a discontinuance charge will be applicable as mentioned
+       under part E - ‘Charges for Discontinuance’. We will credit the fund value less the discontinuance
+       charge, to the discontinued policy fund and the insurance benefit will cease. At the end of the
+       lock-in period, we will terminate your policy and refund the proceeds of the discontinued policy
+       fund.
+
+       After completion of the 5 year lock-in period you may also surrender your policy at any time and
+       there is no surrender charge; we will pay you the entire fund value as on date of surrender. Once
+       the policy is surrendered, it cannot be revived.
+
+   11. Vesting Rights under a Child Policy
+    For child policies, wherein the Life Assured is a minor, at the vesting age of 18 years, the ownership
+    of the policy passes to the Life Assured. In the event of the death of the policyholder of a “child
+
+
+
+
+AFLI_WEB PD_Wealthsurance Growth Insurance Plan SP II_v2.7                                  Page 18 of 42
+                Ageas Federal Life Insurance Wealthsurance Growth Insurance Plan SP II
+             A Single Premium, Non-participating, Unit Linked, Individual Life Insurance Plan
+                                             UIN: 135L082V02
+    policy”, the legal guardian of the child shall act as the policyholder until the child becomes a major.
+    In such case the legal guardian shall then have the following options:
+    • continue to hold the policy, or
+    • surrender the policy, provided the lock in period of 5 years has been completed.
+    Assignment will not be permitted in “child policies” during the time that the Life Assured is a minor.
+
+   12. Settlement option
+       At least 3 months before the maturity date you may opt for a settlement option up to a maximum
+       period of 5 years. This means that you have the option to take maturity proceeds in periodic
+       instalments within a maximum period of 5 years from the date of maturity. The instalments shall
+       be paid annually, at beginning of each year with instalment of first year being paid at maturity.
+
+       Throughout the settlement period, funds shall continue to remain invested as on maturity date,
+       unless switching has been exercised by the policyholder. Further, the policy shall participate in
+       the performance of funds and investment risk is borne by the recipient of the Maturity Benefit.
+       Switching shall be allowed during this period and switching charges (as applicable) shall be levied.
+       The mortality charges as applicable shall be deducted. FMC shall continued to be levied. No other
+       charges shall be levied. No Loyalty Additions shall be added during this period. Partial withdrawal
+       shall not be allowed during this period.
+
+       During the settlement period, in case of death of the life assured, higher of available Fund Value
+       or 105% of Single Premium paid till the date of death shall be paid.
+
+       The recipient of Maturity Benefit has the option to take the remaining fund value as a lump sum
+       payment at any time during the settlement period. No charges shall be levied on such withdrawal.
+
+       On such payment the policy shall terminate and all rights, benefits and interests under the policy
+       shall stand extinguished.
+
+       You may choose from any of the settlement options listed below:
+
+                Choice of                                      Instalment paid
+                 Settlement            (expressed as a percentage of Fund Value available including
+                    period                loyalty additions at the end of each year during settlement
+                (in years)                                            period)
+                                    Year 1        Year           Year 3          Year 4          Year 5
+                                                      2
+                    2                50%          100%              -               -               -
+                    3                33%           50%           100%               -               -
+                    4                25%           33%            50%            100%               -
+                    5                20%           25%            33%             50%            100%
+
+   13. Loans
+     No policy loans are available under this policy.
+
+
+
+
+AFLI_WEB PD_Wealthsurance Growth Insurance Plan SP II_v2.7                                   Page 19 of 42
+               Ageas Federal Life Insurance Wealthsurance Growth Insurance Plan SP II
+            A Single Premium, Non-participating, Unit Linked, Individual Life Insurance Plan
+                                               UIN: 135L082V02
+   14. Participation in profits
+     Since this is a unit linked plan, participation in profits is not applicable.
+
+   15. Termination of your policy
+        This policy will terminate in the event of the occurrence any of the following, whichever is earliest:
+       • upon discontinuance of your policy and payment of the proceeds of the discontinued policy
+            fund;
+       • upon payment of the surrender value;
+       • upon payment of the death benefit;
+       • upon payment of the maturity benefit at the maturity date or by periodical payments under
+            the settlement option;
+       • in the case of fraud or misstatement, where the policy shall be cancelled immediately by
+            paying the surrender value, subject to the fraud or misstatement being established by us in
+            accordance with Section 45 of the Insurance Act, 1938.
+       • On Free Look cancellation of the policy
+
+
+
+
+AFLI_WEB PD_Wealthsurance Growth Insurance Plan SP II_v2.7                                     Page 20 of 42
+               Ageas Federal Life Insurance Wealthsurance Growth Insurance Plan SP II
+            A Single Premium, Non-participating, Unit Linked, Individual Life Insurance Plan
+                                          UIN: 135L082V02
+                                                PART E
+
+
+CHARGES
+
+This part of the policy document contains charges under Wealthsurance Growth Insurance Plan SP II. It
+includes detailed description of the following:
+
+1. Charges
+   a. Premium Allocation Charge
+   b. Policy Administration Charge
+   c. Mortality Charge
+   d. Fund Management Charge
+   e. Switching Charge
+   f. Partial Withdrawal Charge, if any
+   g. Discontinuance charge
+
+       a. Premium Allocation Charge
+          We deduct the premium allocation charge from the premium paid and the balance is
+          proportionately invested in funds that you opt for. We will also deduct Goods & Services tax
+          and cess as applicable to the premium allocation charge.
+
+           Premium Allocation Charge as a percentage of the Single Premium is given below:
+                        Premium Allocation Charge                     Year 1
+                        % of Single Premium                           0.50%
+
+       b. Policy Administration Charge
+          We deduct the policy administration charge monthly by cancelling units from your investment
+          account at the beginning of each policy month. We will also deduct Goods & Services tax and
+          cess as applicable to the policy administration charge.
+          Policy Administration Charge as a percentage of the Single Premium is given below:
+                                                                         Year 6 onwards till the
+                       Policy year                   First 5 years
+                                                                         end of the policy term
+             Premium administration charge
+                                                  0.10% p.m.                              0.05% p.m.
+             as % of single premium
+           The maximum policy administration charge is Rs.500 per month.
+
+       c. Mortality Charge
+          At the beginning of each policy month we will calculate the mortality charge for your policy.
+                                           One-twelfth of the mortality charge X sum at risk*
+           •   The mortality charge is =
+                                                            1,000
+
+          The mortality rate is determined as per the age (in years) and gender of the Life Assured at the
+          beginning of the month for which the mortality charge is being calculated.
+
+
+AFLI_WEB PD_Wealthsurance Growth Insurance Plan SP II_v2.7                                       Page 21 of 42
+               Ageas Federal Life Insurance Wealthsurance Growth Insurance Plan SP II
+            A Single Premium, Non-participating, Unit Linked, Individual Life Insurance Plan
+                                           UIN: 135L082V02
+               *For ascertaining the sum at risk, we consider the higher amount between the death sum
+               assured and 105% of Single premium paid up to the date of death. If the higher amount
+               exceeds the fund value, then the excess amount is called sum at risk.
+           • If your total fund value is higher than both the death sum assured and 105% of the Single
+               premiums paid up to the date of death, then the sum at risk is nil and we will not deduct
+               any mortality charge.
+           • We will deduct the mortality charge from the total fund value by cancelling units.
+
+          The Mortality Charges are guaranteed for the duration of the policy.
+          We will also deduct Goods & Services tax and cess as applicable to the mortality charge.
+          The mortality rates are as given in the following table:
+                    Mortality Charge Rates per Rs 1,000 sum at risk - Age last birthday
+         Age          Male               Female             Age       Male             Female
+          0             0.92                  0.92           41             1.82              1.45
+          1             0.92                  0.92           42             1.97              1.56
+          2             0.92                  0.92           43             2.14              1.68
+          3             0.47                  0.92           44             2.35              1.82
+          4             0.27                  0.92           45             2.58              1.97
+          5             0.19                  0.92           46             2.85              2.14
+          6             0.15                  0.47           47             3.17              2.35
+          7             0.15                  0.27           48             3.54              2.58
+          8             0.17                  0.19           49             3.96              2.85
+          9             0.21                  0.15           50             4.44              3.17
+         10             0.27                  0.15           51             4.97              3.54
+         11             0.34                  0.17           52             5.55              3.96
+         12             0.43                  0.21           53             6.17              4.44
+         13             0.52                  0.27           54             6.83              4.97
+         14             0.61                  0.34           55             7.51              5.55
+         15             0.70                  0.43           56             8.21              6.17
+         16             0.77                  0.52           57             8.93              6.83
+         17             0.83                  0.61           58             9.65              7.51
+         18             0.87                  0.70           59            10.39              8.21
+         19             0.91                  0.77           60            11.16              8.93
+         20             0.92                  0.83           61            11.97              9.65
+         21             0.93                  0.87           62            12.83             10.39
+         22             0.94                  0.91           63            13.77             11.16
+         23             0.94                  0.92           64            14.79             11.97
+         24             0.93                  0.93           65            15.93             12.83
+         25             0.93                  0.94           66            17.21             13.77
+         26             0.93                  0.94           67            18.64             14.79
+         27             0.93                  0.93           68            20.24             15.93
+         28             0.94                  0.93           69            22.04             17.21
+         29             0.96                  0.93           70            24.06             18.64
+
+
+
+AFLI_WEB PD_Wealthsurance Growth Insurance Plan SP II_v2.7                                Page 22 of 42
+              Ageas Federal Life Insurance Wealthsurance Growth Insurance Plan SP II
+           A Single Premium, Non-participating, Unit Linked, Individual Life Insurance Plan
+                                         UIN: 135L082V02
+          30            0.98                0.93          71                26.31             20.24
+          31            1.01                0.94          72                28.83             22.04
+          32            1.04                0.96          73                31.64             24.06
+          33            1.09                0.98          74                34.76             26.31
+          34            1.14                1.01          75                38.22             28.83
+          35            1.20                1.04          76                42.06             31.64
+          36            1.28                1.09          77                46.32             34.76
+          37            1.36                1.14          78                51.02             38.22
+          38            1.45                1.20          79                56.23             42.06
+          39            1.56                1.28          80                61.99             46.32
+          40            1.68                1.36          81                68.34             51.02
+
+      d. Fund Management Charge
+         We deduct the fund management charge which is a percentage of the total value of assets
+         held in each unit-linked fund. We will determine the charge for each day by dividing the annual
+         rate by 365 and will deduct this amount from the assets of the unit-linked fund before we
+         calculate the unit price.
+
+          Fund management charge for each investment fund available will be applied as given below.
+          Also, we will deduct from your investment amount Goods and Services tax and cess as
+          applicable.
+                          Funds               Fund management
+                                                    charge
+             Equity growth fund
+             Midcap fund
+             Multicap Fund
+             Momentum Growth Fund
+             India Sector Leaders Fund            1.35% p.a.
+             Enhanced Value Fund
+             Pure Fund
+             Aggressive asset allocator fund
+             Moderate asset allocator fund
+             Bond Fund II                         1.25% p.a.
+             Discontinued policy fund             0.50% p.a.
+
+          This charge is levied as a percentage of the value of assets and will be appropriated by
+          adjusting the NAV on a daily basis.
+
+      e. Switching Charge
+         There are currently no charges for switching between funds.
+
+          However, we reserve the right to introduce switching charge of up to Rs 500 per request,
+          with the necessary approvals as required by IRDAI. In case of the introduction of such a
+          charge, we will also deduct Goods & Services tax and cess as applicable to the switching
+          charge.
+
+
+
+AFLI_WEB PD_Wealthsurance Growth Insurance Plan SP II_v2.7                                Page 23 of 42
+                 Ageas Federal Life Insurance Wealthsurance Growth Insurance Plan SP II
+              A Single Premium, Non-participating, Unit Linked, Individual Life Insurance Plan
+                                             UIN: 135L082V02
+      f.     Partial Withdrawal Charge
+             There are currently no charges for partial withdrawals.
+             However, we reserve the right to introduce partial withdrawal charge of up to Rs.500 per
+             request, with the necessary approvals as required by IRDAI. In case of the introduction of such
+             a charge, we will also deduct Goods & Services tax and cess as applicable to the partial
+             withdrawal charge.
+
+      g. Discontinuance Charge
+         In case you discontinue your policy within 5 years from the commencement of the policy, we
+         will credit the fund value less the discontinuance charge to the Discontinued Policy Fund. The
+         discontinuance charge will be decided based on the policy year in which the policy is
+         discontinued.
+
+            Policy                 Discontinuance                             Discontinuance Charges
+           year in          Charges for the policies having                 for the policies having Single
+            which             Single Premium up to Rs.                     Premium above Rs. 3,00,000/-
+             the                      3,00,000/-
+           policy is
+           disconti
+            nued
+              1        Lower of 2%* (SP or FV) subject to a           Lower of 1% *(SP or FV) subject to a
+                       maximum of Rs 3,000                            maximum of Rs.6000/-
+              2        Lower of 1.5%* (SP or FV) subject to a         Lower of 0.70% *(SP or FV) subject
+                       maximum of Rs 2,000                            to a maximum of Rs. 5000/-
+              3        Lower of 1%* (SP or FV) subject to a           Lower of 0.50%* (SP or FV) subject
+                       maximum of Rs 1,500                            to a maximum of Rs. 4000/-
+              4        Lower of 0.5%* (SP or FV) subject to a         Lower of 0.35% *(SP or FV) subject
+                       maximum of Rs 1,000                            to a maximum of Rs. 2000/-
+             5                            Nil                                           Nil
+           onward
+             s
+
+     *In the above table SP- denotes single premium and FV – denotes Fund Value on the date of
+     discontinuance
+     We will also deduct Goods & Services tax and cess as applicable to the discontinuance charge.
+
+     Risk Factors and Disclaimers. This policy is underwritten by Ageas Federal Life Insurance Company
+     Limited. This is a Single Premium, Non-participating, Unit Linked, Individual Life, Insurance Plan.
+     Ageas Federal Life Insurance Company Limited, Ageas Federal Wealthsurance Growth Insurance
+     Plan SP II, Equity Growth Fund, Mid Cap Fund, Multicap Fund, Momentum Growth Fund, India
+     Sector Leaders Fund, Enhanced Value Fund, Pure Fund, Bond Fund II, Moderate and Aggressive
+     Asset Allocator Funds, are only the names of the company, policy and unit-linked funds respectively
+     and do not in any way indicate the quality of the policy, unit-linked funds or their future prospects
+     or returns. The charges mentioned above are applicable to all the unit-linked funds offered at
+     present. We can modify the fund management charge subject to the specified limits and the
+     necessary approvals as required by IRDAI. The value of the unit-linked fund reflects the value of the
+
+
+AFLI_WEB PD_Wealthsurance Growth Insurance Plan SP II_v2.7                                    Page 24 of 42
+               Ageas Federal Life Insurance Wealthsurance Growth Insurance Plan SP II
+            A Single Premium, Non-participating, Unit Linked, Individual Life Insurance Plan
+                                           UIN: 135L082V02
+     underlying investments. These investments are subject to market risks and change in fundamentals
+     such as economic conditions tax rates, etc. affecting the investment portfolio.
+     The Policyholder is responsible for his or her decisions. We reserve the right to recover levies such
+     as goods and services tax and cess as applicable levied by the authorities on insurance transactions.
+     If there be any additional levies, they too will be recovered from you. The various funds offered
+     under this plan are the names of the funds and do not in any way indicate the quality of these plans,
+     their future prospectus and returns. The premiums paid in these policies are subject to investment
+     risks associated with capital markets and the NAVs of the units may go up or down based on the
+     performance of fund and factors influencing the capital market. Life insurance cover is available
+     under this product. The past performance of the funds is not indicative of the future performance.
+     Please know the associated risks and the applicable charges from your Insurance Agent or the
+     Intermediary or from this policy document issued by us. UIN: 135L082V02.
+
+
+
+
+AFLI_WEB PD_Wealthsurance Growth Insurance Plan SP II_v2.7                                  Page 25 of 42
+                  Ageas Federal Life Insurance Wealthsurance Growth Insurance Plan SP II
+               A Single Premium, Non-participating, Unit Linked, Individual Life Insurance Plan
+                                             UIN: 135L082V02
+                                                     PART F
+
+GENERAL TERMS AND CONDITIONS
+This policy is subject to our general terms and conditions for conducting business with our Policyholders.
+These are binding on you, and us. We may amend the general terms and conditions with necessary
+approvals as required by IRDAI, where required, for the sake of compliance, good governance, the
+security of our policy owners, and administrative efficiency. We may also be required by law, rule,
+regulations, and statute to change the general terms and conditions. We will advise you of any changes
+to the general terms and conditions which are also available on request at any of our official branches and
+offices.
+
+    1.       Suicide exclusion
+         In case of death due to suicide within 12 months from the date of commencement of the policy or
+         from the date of revival of the policy, as applicable, the nominee or the beneficiary of the
+         policyholder shall be only entitled to the fund value, as available on the date of intimation of death.
+         Further any charges other than FMC recovered subsequent to the date of death shall be added back
+         to the fund value as available on the date of intimation of death.
+
+    2.    Claims requirements
+    For Death Claim
+    Claims are payable to beneficiary (Policy Owner/Claimant/legal heir) in case of death claim. The
+    following need to be produced in case of a claim:
+
+    •     Original policy document
+    •     Death Claim Form to be signed and attested by the party to whom benefits are payable
+    •     Death Certificate issued by Municipal Corporation / Gram Panchayat
+    •     Bank Account details with IFSC code of Beneficiary
+    •     Claimant's PAN CARD
+    •     Relationship Proof between Insured member and Claimant
+    •     O/s Loan Schedule as on date of Death
+    •     Officially Valid Documents of the claimant
+
+    List of officially valid documents.
+         1. Masked Aadhaar Card , Valid Passport, Valid Voter ID, Valid Driving Licence
+         2. Job card issued by NREGA duly signed by an officer of the State Government
+         3. Letter issued by the National Population Register containing details of name and address.
+
+    In case of an unnatural death, we will ask for the below:
+    • First Information Report
+    • Post Mortem report
+    • Panchnama
+    • Police Final Investigation Report
+
+    Any further documentation or information that we may need in support of the claim before we can
+    process the claim.
+
+
+AFLI_WEB PD_Wealthsurance Growth Insurance Plan SP II_v2.7                                       Page 26 of 42
+              Ageas Federal Life Insurance Wealthsurance Growth Insurance Plan SP II
+           A Single Premium, Non-participating, Unit Linked, Individual Life Insurance Plan
+                                         UIN: 135L082V02
+
+   In exceptional circumstances company may waive the requirement of any or all of the above
+   documents.
+
+   We may conduct any investigation that we consider necessary for this purpose.
+   Any Death claim should be notified to us within 90 days from the date of insured event. If the delay
+   occurs due to events beyond the control of the claimant, we may overlook the delay.
+
+   For Maturity
+   Maturity benefit is payable to the policyholder in case of maturity. The following need to be produced
+   in case of a Maturity claim:
+   • Original Policy Pack (In case, the policy is in electronic form, a policy document is not required)
+   • Maturity Form (available on https://www.ageasfederal.com/services/policy-servicing-forms)
+   • Updated Bank details (A copy of Personalized Cancelled Cheque or Bank statement duly attested
+       by the Bank), in case the benefit payout needs to be processed in your NRE Bank account, then
+       we would require confirmation from your bank that all the premiums are paid from NRE account.
+   • Self-Attested PAN and any one of the following valid KYC:
+            o Passport Copy
+            o Voter Id
+            o Driving License Copy
+            o Job Card Issued by NREGA
+            o Letter issued by National Population Register
+            o Any Other document as notified by Central Government
+            o Masked Aadhaar Card Copy
+   • FATCA_CRS Declaration (available on https://www.ageasfederal.com/services/policy-servicing-
+       forms
+   • Above details of Life Assured in case of policy being auto-vested.
+   • In case your policy is assigned, then provide an NOC from the assignee, else payment will be
+       processed in favour of the assignee.
+   • In case your policy is under MWPA, the above details of the trustee are required.
+
+   Please note that all payouts have to be mandatorily processed via NEFT hence would request you to
+   keep your bank and contact details updated in our records.
+
+    We reserve the right to call for further documentation or information as may be needed before
+processing of
+    maturity payout.
+
+   We urge you to ensure the safe storage of this policy document for a smooth claim settlement.
+
+   Any claim should be notified to us within 90 days from the date of insured event and submit the claim
+   documents to:
+
+   Ageas Federal Life Insurance Company Limited
+   22nd Floor, A Wing, Marathon Futurex,
+   N. M. Joshi Marg, Lower Parel – East,
+   Mumbai 400 013. Maharashtra.
+
+
+AFLI_WEB PD_Wealthsurance Growth Insurance Plan SP II_v2.7                                 Page 27 of 42
+                  Ageas Federal Life Insurance Wealthsurance Growth Insurance Plan SP II
+               A Single Premium, Non-participating, Unit Linked, Individual Life Insurance Plan
+                                             UIN: 135L082V02
+
+   3.      Assignment
+        Assignment and transfer of insurance policies will be allowed as per provisions of Section 38 of the
+        Insurance Act, 1938 as amended from time to time. Please refer Annexure A for further details
+
+   4.       Nomination
+        Nomination will be allowed as per provisions of Section 39 of the Insurance Act, 1938 as amended
+        from time to time. Please refer Annexure B for further details.
+
+   5.      Endorsements
+        The terms and conditions of this policy cannot be waived or changed except by an endorsement
+        approved and signed by our authorised officials.
+
+   6.       Travel, residence and occupation
+        This policy is free from all restrictions as to travel, residence and occupation unless specifically
+        restricted in the Policy Schedule.
+
+   7.       Procedures for unit-linked policies
+        The cut off times for determining the applicable unit price for processing transactions as specified
+        by regulation are described in the following table:
+           Transaction type                           Time of transaction advice Applicable unit price
+           Allocations:
+           New business premiums                      Policy start date after As on policy start
+                                                      completion of the proposal date
+           Renewal premiums:                          Day of realisation of Same day in case of
+               o Outstation cheque                    cheque or demand draft        NAV day else the next
+               o Outstation demand draft                                            NAV day
+           Switches in and associated switch Upto 3:00 pm                           Same day in case of
+           charges                                                                  NAV day else the next
+                                                                                    NAV day
+                                                      After 3:00 pm                 Next business day
+           Redemptions:
+           Receipt of valid notification and Upto 3:00 pm                           Same day
+           instructions at our designated office:
+               o Switches out                         After 3:00 pm                 Next business NAV day
+               o Partial withdrawals
+               o Surrenders
+               o Death
+               o Associated charges
+           Maturities                                 Maturity date                 Same day
+           Cancellation of units for                  Due date of charge            Same day
+               o Mortality charges
+               o Policy administration charge
+               o Miscellaneous charges
+
+        To meet our charges as they fall due, we will cancel units of aggregate value equal to each charge
+        from among the funds in which you hold the units. Our current procedure is that charges are
+
+
+AFLI_WEB PD_Wealthsurance Growth Insurance Plan SP II_v2.7                                    Page 28 of 42
+                  Ageas Federal Life Insurance Wealthsurance Growth Insurance Plan SP II
+               A Single Premium, Non-participating, Unit Linked, Individual Life Insurance Plan
+                                                 UIN: 135L082V02
+        recovered proportionately from all the funds in which you hold the units. The value of units
+        cancelled in a particular fund will be in the same proportion to the total charge as the value of units
+        you hold in that fund is to the total value of units that you hold across all specified funds from which
+        charges are to be recovered.
+
+   8.      Force Majeure Condition
+        Force Majeure: Means an event beyond the control of the Company. Under Force Majeure events
+        we may suspend unit pricing in the general interest of the holders of unit linked policies with
+        necessary approvals as required by IRDAI.
+
+            a. Ageas Federal Life Insurance Co. Ltd., will value the Funds (SFIN) on each day for which the
+               financial markets are open. However, Ageas Federal Life Insurance Co. Ltd., may value the
+               SFIN less frequently in extreme circumstances external to Ageas Federal Life Insurance Co.
+               Ltd., i.e. in force majeure events, where the value of the assets is too uncertain. In such
+               circumstances, Ageas Federal Life Insurance Co. Ltd., may defer the valuation of assets for
+               up to 30 days until Ageas Federal Life Insurance Co. Ltd., is certain that valuation of SFIN
+               can be resumed.
+            b. Ageas Federal Life Insurance Co. Ltd., shall inform IRDAI of such deferment in the valuation
+               of assets. During the continuance of the force majeure events, all request for servicing the
+               policy including policy related payment shall be kept in abeyance.
+            c. Ageas Federal Life Insurance Co. Ltd., shall continue to invest as per the fund mandates
+               given in Part D-1 above. However, Ageas Federal Life Insurance Co. Ltd., shall reserve its
+               right to change the exposure of all or any part of the Fund to Money Market Instruments
+               (as defined under Regulation no. 1.(8) of Schedule III of IRDAI (Actuarial, Finance and
+               Investment Functions of Insurers) Regulations, 2024) in circumstances mentioned Sub-
+               Section a) and Sub-Section b) above. The exposure of the fund as per the fund mandates
+               submitted in Part D-1 above shall be reinstated within reasonable timelines once the force
+               majeure situation ends.
+            d. Few examples of circumstances as mentioned in Sub-Section a) & Sub-Section b) above are:
+                   • When one or more stock exchanges which provide a basis for valuation of the assets
+                         of the Fund are closed otherwise than for ordinary holidays.
+                   • When, as a result of political, economic, monetary or any circumstances out of the
+                         control of Ageas Federal Life Insurance Co. Ltd., the disposal of the assets of the
+                         Fund would be detrimental to the interests of the continuing Policyholders.
+                   • In the event of natural calamities, strikes, war, civil unrest, riots and bandhs.
+                   • In the event of any force majeure or disaster that affects the normal functioning of
+                         Ageas Federal Life Insurance Co. Ltd.
+            e. In such an event, an intimation of such force majeure event shall be uploaded on the Ageas
+               Federal Life Insurance Co. Ltd.,‘s website for information.
+
+
+   9.    Changes in applicable law
+    Notwithstanding anything contained in this policy, the provisions herein shall stand altered,
+    amended, modified or super ceded to such extent and in such a manner as may be required by any
+    change in the applicable law (including but not limited to any regulations made or directions or
+    instructions or guidelines issued by the IRDAI or any other statutory bodies) or as may be necessary
+    under a judgment or order of a court of law.
+
+
+AFLI_WEB PD_Wealthsurance Growth Insurance Plan SP II_v2.7                                       Page 29 of 42
+               Ageas Federal Life Insurance Wealthsurance Growth Insurance Plan SP II
+            A Single Premium, Non-participating, Unit Linked, Individual Life Insurance Plan
+                                          UIN: 135L082V02
+
+  10.      Changes in taxes
+  In the event that any government or authority introduces or changes any form of tax, surcharge,
+  cess, levy, duty, or impost on the premiums, charges, benefits, investment returns of your policy,
+  then we may pass the same to you directly or by adjusting the premiums, charges, fees or benefits
+  payable under your policy. Ageas Federal Life Insurance Company Ltd. does not assume responsibility
+  on tax implication. Kindly connect with your tax consultant.
+
+   11.    Fraud, Misstatement and Suppression:
+   Fraud, Misstatement and suppression would be dealt with in accordance with provisions of Section
+   45 of the Insurance Act 1938 as amended from time to time. Please refer to the Annexure C for further
+   details.
+
+   12.   Currency and place of payment
+   Indian Rupee is the currency of this policy. We will make or accept payments at any of our offices in
+   India or such other locations as determined by us from time to time.
+
+   13.    Loss of policy document
+     If the policy document is lost then we will, pursuant to a written request duly signed by you
+     addressed to our registered office and upon being satisfied as to the fact and cause of the loss,
+     provide a duplicate copy of the policy document. If a duplicate copy is issued, the original policy
+     document will cease to be of any legal effect. You agree to keep us indemnified and hold us harmless
+     from any costs, expenses, claims, awards or judgments arising out of or howsoever connected with
+     the original policy document. Currently we do not levy any charge for providing a duplicate copy of
+     the policy document. However, we may levy charges in the future with necessary approval as
+     required by IRDAI.
+
+
+   14.   Governing law and jurisdiction
+     Indian law shall govern this policy and the relationship between you and us. The Parties shall be
+     subject to the exclusive jurisdiction of the courts in India for all matters and disputes arising from,
+     relating to or concerning the policy.
+
+
+
+
+AFLI_WEB PD_Wealthsurance Growth Insurance Plan SP II_v2.7                                   Page 30 of 42
+               Ageas Federal Life Insurance Wealthsurance Growth Insurance Plan SP II
+            A Single Premium, Non-participating, Unit Linked, Individual Life Insurance Plan
+                                          UIN: 135L082V02
+                                                PART G
+
+GRIEVANCES
+
+      1. Notices
+     All notices meant for us whether under this policy or otherwise must be in writing and delivered to
+     us at the address mentioned below, or such other address as we may notify to you from time to
+     time.
+     All notices meant for you will be in writing and we will send the same to the most recent address
+     registered with us. If you change address, you must notify us immediately.
+     Please notify us immediately in case of any change in postal/permanent address/contact details
+     along with relevant KYC documents. This will enable the Company to send you regular updates on
+     your policy.
+
+      2. Grievances
+     In case you have any query, request or complaint/grievance, you may approach any of our
+     branches.
+      For the list of branches and their address, please visit www.ageasfederal.com
+
+     Alternatively, you may contact our head office at the following address:
+       Head Office Address:
+       Manager-Customer & Sales Support
+       Ageas Federal Life Insurance Company Limited
+       22nd Floor, A Wing, Marathon Futurex
+       N. M. Joshi Marg, Lower Parel – East,
+       Mumbai - 400 013.
+       Toll free No.: 1800 209 0502(From Monday to Saturday, 8 am to 8 pm)
+       Email ID: support@ageasfederal.com
+
+        You can also lodge your grievances by logging into IGMS Portal i.e
+     (https://bimabharosa.irdai.gov.in/Home/Home)
+
+       You can also lodge online complaint through the website of Council for Insurance Ombudsman
+       (CIO) (www.cioins.co.in)
+
+     2. 1 In case you are not satisfied with the decision of the above office, or have not received any
+     response within 10 days, you may contact the following official for resolution:
+
+       Chief Operations Officer
+       Ageas Federal Life Insurance Company Limited
+       22nd Floor, A Wing, Marathon Futurex,
+       N. M. Joshi Marg, Lower Parel – East,
+       Mumbai 400 013.
+       Contact No.: 022 23029200
+
+
+AFLI_WEB PD_Wealthsurance Growth Insurance Plan SP II_v2.7                                 Page 31 of 42
+              Ageas Federal Life Insurance Wealthsurance Growth Insurance Plan SP II
+           A Single Premium, Non-participating, Unit Linked, Individual Life Insurance Plan
+                                         UIN: 135L082V02
+       Email ID: grievance@ageasfederal.com
+
+     2. 2 If you are not satisfied with the response or do not receive a response from us within 15 days,
+     you may approach the Grievance Cell of IRDAI on the following contact details:
+     IRDAI Grievance Call Centre (IGCC) TOLL FREE NO: 155255 or 1800 4254 732
+     Email ID: complaints@irdai.gov.in
+
+     You can also lodge your grievances by logging into IGMS Portal
+     i.e (https://bimabharosa.irdai.gov.in/Home/Home)
+
+     Address for communication for complaints
+     General Manager
+     Insurance Regulatory and Development Authority of India (IRDAI)
+     Policyholder's protection & Grievance Redressal Department – Grievance Redressal Cell
+     Sy No. 115/1, Financial District, Nanakramguda,
+     Gachibowli, Hyderabad - 500 032.
+
+   2.3 The Ombudsman shall receive and consider complaints or disputes relating to—
+       (a) delay in settlement of claims, beyond the time specified in the regulations, framed under the
+       Insurance
+       Regulatory and Development Authority of India Act, 1999;
+       (b) any partial or total repudiation of claims by the life insurer;
+       (c) disputes over premium paid or payable in terms of insurance policy;
+       (d) misrepresentation of policy terms and conditions at any time in the policy document or policy
+       contract;
+       (e) legal construction of insurance policies in so far as the dispute relates to claim;
+       (f) policy servicing related grievances against insurers and their agents and intermediaries;
+       (g) issuance of life insurance policy, which is not in conformity with the proposal form submitted
+       by the proposer;
+       (h) non-issuance of insurance policy after receipt of premium in life insurance; and
+       (i) any other matter resulting from the violation of provisions of the Insurance Act, 1938 as
+       amended from time to time or the regulations, circulars, guidelines or instructions issued by the
+       IRDAI from time to time or the terms and conditions of the policy contract, in so far as they relate
+       to issues mentioned at clauses (a) to (f).
+
+     2.4 Any person who has a grievance against an insurer, may himself or through his legal heirs,
+     nominee or
+     assignee, make a complaint in writing to the Insurance Ombudsman within whose territorial
+     jurisdiction the
+     branch or office of the insurer complained against or the residential address or place of residence
+     of the
+     complainant is located.
+
+     2.5 The complaint shall be in writing, duly signed by the complainant or through his legal heirs,
+     nominee or
+
+
+AFLI_WEB PD_Wealthsurance Growth Insurance Plan SP II_v2.7                                   Page 32 of 42
+                Ageas Federal Life Insurance Wealthsurance Growth Insurance Plan SP II
+             A Single Premium, Non-participating, Unit Linked, Individual Life Insurance Plan
+                                            UIN: 135L082V02
+     assignee and shall state clearly the name and address of the complainant, the name of the branch
+     or office of the insurer against whom the complaint is made, the facts giving rise to the complaint,
+     supported by
+     documents, the nature and extent of the loss caused to the complainant and the relief sought from
+     the
+     Insurance Ombudsman.
+
+     2.6 No complaint to the Insurance Ombudsman shall lie unless—
+       (a) the complainant makes a written representation to the insurer named in the complaint and—
+                (i) either the insurer had rejected the complaint; or
+                (ii) the complainant had not received any reply within a period of one month after the
+       insurer received his
+                representation; or
+                (iii) the complainant is not satisfied with the reply given to him by the insurer;
+       (b) The complaint is made within one year—
+                (i) after the order of the insurer rejecting the representation is received; or
+                (ii) after receipt of decision of the insurer which is not to the satisfaction of the
+       complainant;
+                (iii) after expiry of a period of one month from the date of sending the written
+                representation to the insurer if the insurer named fails to furnish reply to the complainant
+                .
+    2.7 No complaint before the Insurance Ombudsman shall be maintainable on the same subject
+    matter on which proceedings are pending before or disposed of by any court or consumer forum or
+    arbitrator.
+
+    2.8 In case you are not satisfied with the decision/resolution of IRDAI, you may approach the
+    Insurance Ombudsman at the address given below. Address of Insurance Ombudsman
+                  CONTACT DETAILS                                        JURISDICTION
+ AHMEDABAD                                              Gujarat, Dadra & Nagar Haveli and Daman & Diu.
+ Office of the Insurance Ombudsman,
+ Jeevan Prakash Building, 6th floor,
+ Tilak Marg, Relief Road,
+ Ahmedabad – 380 001.
+ Tel.: 079 - 25501201/02/05/06
+ Email: bimalokpal.ahmedabad@cioins.co.in
+ BENGALURU                                              Karnataka.
+ Office of the Insurance Ombudsman,
+ Jeevan Soudha Building,
+ PID No.57-27-N-19,
+ Ground Floor, 19/19, 24th Main Road,JP Nagar,
+ 1st Phase,
+ Bengaluru-560 078.
+ Tel.:- 080-26652048 / 26652049
+ Email:- bimalokpal.bengaluru@cioins.co.in
+
+
+
+
+AFLI_WEB PD_Wealthsurance Growth Insurance Plan SP II_v2.7                                   Page 33 of 42
+                 Ageas Federal Life Insurance Wealthsurance Growth Insurance Plan SP II
+              A Single Premium, Non-participating, Unit Linked, Individual Life Insurance Plan
+                                            UIN: 135L082V02
+ BHOPAL                                                Madhya Pradesh and Chattisgarh.
+ Office of the Insurance Ombudsman,
+ 1st floor,"Jeevan Shikha",
+ 60-B,Hoshangabad Road, Opp. Gayatri Mandir,
+ Bhopal – 462 011.
+ Tel.: 0755 - 2769201 / 2769202
+ Email: bimalokpal.bhopal@cioins.co.in
+ BHUBANESWAR                                           Odisha.
+ Office of the Insurance Ombudsman,
+ 62, Forest park,
+ Bhubaneswar – 751 009.
+ Tel.:- 0674-2596461 / 2596455
+ Fax:- 0674-2596429
+ Email:- bimalokpal.bhubaneswar@cioins.co.in
+ CHANDIGARH                                            Punjab, Haryana (excluding Gurugram,
+ Office of the Insurance Ombudsman,                    Faridabad, Sonepat and Bahadurgarh)
+ Jeevan Deep Building SCO 20-27                        Himachal Pradesh, Union Territories of Jammu &
+ Ground Floor Sector- 17 A,                            Kashmir,
+ Chandigarh – 160 017.                                 Ladakh & Chandigarh
+ Tel.: 0172 - 4646394 / 2706468
+ Email:- bimalokpal.chandigarh@cioins.co.in
+ CHENNAI                                               Tamil Nadu, Pondicherry Town and Karaikal
+ Office of the Insurance Ombudsman,                    (which are part of Pondicherry).
+ Fatima Akhtar Court,
+ 4th Floor, 453 , Anna Salai,
+ Teynampet,
+ CHENNAI – 600 018.
+ Tel.:- 044-24333668 / 24333678
+ Fax:- 044-24333664
+ Email:- bimalokpal.chennai@cioins.co.in
+ DELHI                                                 Delhi &
+ Office of the Insurance Ombudsman,                    Following Districts of Haryana - Gurugram,
+ 2/2 A, Universal Insurance Building,                  Faridabad, Sonepat & Bahadurgarh
+ Asaf Ali Road, New Delhi – 110 002.
+ Tel.:- 011 - 23237539
+ Fax:- 011-23230858
+ Email:- bimalokpal.delhi@cioins.co.in
+ GUWAHATI                                              Assam, Meghalaya, Manipur, Mizoram,
+ Office of the Insurance Ombudsman,                    Arunachal Pradesh, Nagaland and Tripura.
+ Jeevan Nivesh, 5th Floor,
+ Nr. Panbazar over bridge, S.S. Road,
+ Guwahati – 781001(ASSAM).
+ Tel.:- 0361- 2632204 / 2602205
+ Fax:- 0361-2732937
+ Email:- bimalokpal.guwahati@cioins.co.in
+
+
+
+
+AFLI_WEB PD_Wealthsurance Growth Insurance Plan SP II_v2.7                               Page 34 of 42
+                 Ageas Federal Life Insurance Wealthsurance Growth Insurance Plan SP II
+              A Single Premium, Non-participating, Unit Linked, Individual Life Insurance Plan
+                                            UIN: 135L082V02
+ HYDERABAD                                             Andhra Pradesh, Telangana and Yanam and part
+ Office of the Insurance Ombudsman,                    of Territory
+ 6-2-46, 1st floor, "Moin Court"                       of Puducherry.
+ Lane Opp. Saleem Function Palace,
+ A. C. Guards, Lakdi-Ka-Pool,
+ Hyderabad - 500 004.
+ Tel.:- 040-23312122
+ Fax:- 040-23376599
+ Email:- bimalokpal.hyderabad@cioins.co.in
+ JAIPUR                                                Rajasthan.
+ Office of the Insurance Ombudsman,
+ JeevanNidhi-II Bldg.,
+ Ground Floor,
+ Bhawani Singh Marg,
+ Jaipur - 302005.
+ Tel.:- 0141-2740363/2740798
+ Email:- bimalokpal.jaipur@cioins.co.in
+  KOCHI                                                Kerala,
+ Office of the Insurance Ombudsman,                    Lakshadweep,
+ 10th Floor, Jeevan Prakash,LIC Building,              Mahe-a part of Union Territory of Puducherry.
+ Opp to Maharaja's College,M.G.Road,
+ Kochi - 682 011.
+ Tel.: 0484 - 2358759
+ Fax: 0484 - 2359336
+ Email: bimalokpal.ernakulam@cioins.co.in
+ KOLKATA                                               West Bengal, Sikkim and Andaman & Nicobar
+ Office of the Insurance Ombudsman,                    Islands.
+ Hindustan Building Annexe,
+  7th floor, 4, CR Avenue,
+ Kolkata - 700 072.
+ Tel.:- 033-22124339 / 22124341
+ Fax:- 033-22124341
+ Email:- bimalokpal.kolkata@cioins.co.in
+ LUCKNOW                                               District of Uttar Pradesh: Lalitpur, Jhansi,
+ Office of the Insurance Ombudsman,                    Mahoba, Hamirpur, Banda, Chitrakoot,
+ 6th Floor, Jeevan Bhawan,                             Allahabad, Mirzapur, Sonbhabdra, Fatehpur,
+ Phase-II, Nawal Kishore Road,
+                                                       Pratapgarh, Jaunpur, Varansi, Gazipur, Jalaun,
+ Hazratganj,
+ Lucknow-226 001.                                      Kanpur, Lucknow, Unnao, Sitapur, Lakhimpur,
+ Tel.:- 0522- 4002082 / 3500613                        Bahraich, Barabanki, Raebareli, Sravasti, Gonda,
+ Fax:- 0522-2231310.                                   Faizabad, Amethi, Kaushambi, Balrampur, Basti,
+ Email:- bimalokpal.lucknow@cioins.co.in               Ambedkarnagar, Sulanpur, Maharajganj,
+                                                       Santkabirnagar, Azamgarh, Kaushinagar,
+                                                       Gorkhpur, Deoria, Mau, Chandauli, Ballia,
+                                                       Sidharathnagar.
+ MUMBAI                                                Goa, Mumbai Metropolitan Region excluding
+ Office of the Insurance Ombudsman,                    Navi Mumbai & Thane.
+
+
+AFLI_WEB PD_Wealthsurance Growth Insurance Plan SP II_v2.7                                 Page 35 of 42
+                 Ageas Federal Life Insurance Wealthsurance Growth Insurance Plan SP II
+              A Single Premium, Non-participating, Unit Linked, Individual Life Insurance Plan
+                                            UIN: 135L082V02
+ 3rd Floor, Jeevan Seva Annexe,
+ S. V. Road, Santacruz (W),
+ Mumbai - 400 054.
+ Tel.:- 022- 69038800/27/29/31/32/33
+ Fax:- 022-26106052
+ Email:- bimalokpal.mumbai@cioins.co.in
+ NOIDA                                                 States of Uttaranchal and the following Districts
+ Office of the Insurance Ombudsman,                    of Uttar Pradesh:. Agra, Aligarh, Bagpat, Bareilly,
+ Bhagwan Sahai Palace,                                 Bijnor, Budaun, Bulandshehar, Etah, Kanooj,
+ 4th Floor, Main Road,
+                                                       Mainpuri, Mathura, Meerut, Moradabad,
+ Naya Bans, Sector-15,
+ Distt; Gautam Buddh Nagar, U.P.- 201301               Muzaffarnagar, Oraiyya, Pilibhit, Etawah,
+ Tel.: 0120-2514252 / 2514253                          Farrukhabad, Firozabad, Gautambodh Nagar,
+ Email:- bimalokpal.noida@cioins.co.in                 Ghaziabad, Hardoi, Shahjahanpur, Hapur,
+                                                       Shamli, Rampur, Kashganj, Sambhal, Amroha,
+                                                       Hathras, Kanshiramnagar, Saharanpur.
+ PATNA                                                 Bihar and Jharkhand.
+ Office of the Insurance Ombudsman,
+ 2nd Floor, Lalit Bhawan,
+ Bailey Road,
+ Patna 800 001.
+ Tel.: 0612- 2547068
+ Email:- bimalokpal.patna@cioins.co.in
+ PUNE                                                  Maharashtra,
+ Office of the Insurance Ombudsman,                    Area of Navi Mumbai and Thane
+ Jeevan Darshan Building, 3rd Floor,                   excluding Mumbai Metropolitan Region
+ C.T.S. Nos. 195 to 198,
+ N.C. Kelkar Road, Narayan Peth,
+ Pune - 411 030
+ Tel: 020 – 24471175
+ Email:- bimalokpal.pune@cioins.co.in
+
+
+
+
+AFLI_WEB PD_Wealthsurance Growth Insurance Plan SP II_v2.7                                   Page 36 of 42
+                Ageas Federal Life Insurance Wealthsurance Growth Insurance Plan SP II
+             A Single Premium, Non-participating, Unit Linked, Individual Life Insurance Plan
+                                           UIN: 135L082V02
+                                                  Annexure A
+A. Section 38 - Assignment and Transfer of Insurance Policies
+Assignment or transfer of a policy will be in accordance with Section 38 of the Insurance Act, 1938 as
+amended from time to time. The extant provisions in this regard are as follows:
+ 1. This policy may be transferred/assigned, wholly or in part, with or without consideration.
+ 2. An Assignment may be effected in a policy by an endorsement upon the policy itself or by a separate
+       instrument under notice to the Company
+ 3. The instrument of assignment should indicate the fact of transfer or assignment and the reasons for
+       the assignment or transfer, antecedents of the assignee and terms on which assignment is made.
+ 4. The assignment must be signed by the transferor or assignor or duly authorized agent and attested
+       by at least one witness.
+ 5. The transfer of assignment shall not be operative as against the company until a notice in writing of
+       the transfer or assignment and either the said endorsement or instrument itself or copy there of
+       certified to be correct by both transferor and transferee or their duly authorised agents have been
+       delivered to the Company
+ 6. Fee to be paid for assignment or transfer can be specified by the Authority through Regulations.
+ 7. On receipt of notice with fee, we will grant a written acknowledgement of receipt of notice. Such
+       notice shall be conclusive evidence against the Company of duly receiving the notice.
+ 8. The policyholder may send such notice to our office address as mentioned in the policy document
+       where the policy is being serviced.
+ 9. We may accept or decline to act upon any transfer or assignment or endorsement, if it has sufficient
+       reasons to believe that it is
+ a) not bonafide or
+ b) not in the interest of the policyholder or
+ c) not in public interest or
+ d) is for the purpose of trading of the insurance policy.
+ 10. Before refusing to act upon endorsement, we will record the reasons in writing and communicate
+       the same in writing to policyholder within 30 days from the date of policyholder giving a notice of
+       transfer or assignment.
+ 11. In case of refusal to act upon the endorsement by the Company, any person aggrieved by the refusal
+       may prefer a claim to IRDAI within 30 days of receipt of the refusal letter from the Company
+ 12. The priority of claims of persons interested in an insurance policy would depend on the date on which
+       the notices of assignment or transfer is delivered to the Company; where there are more than one
+       instruments of transfer or assignment, the priority will depend on dates of delivery of such notices.
+       Any dispute in this regard as to priority shall be referred to Authority.
+ 13. Every assignment or transfer shall be deemed to be absolute assignment or transfer and the assignee
+       or transferee shall be deemed to be absolute assignee or transferee, except
+ a) where assignment or transfer is subject to terms and conditions of transfer or assignment OR
+ b) where the transfer or assignment is made upon condition that
+    i. the proceeds under the policy shall become payable to policyholder or nominee(s) in the event of
+       assignee or transferee dying before the insured OR
+   ii. the insured surviving the term of the policy
+       Such conditional assignee will not be entitled to obtain a loan on policy or surrender the policy. This
+       provision will prevail notwithstanding any law or custom having force of law which is contrary to
+       the above position.
+ 14. In other cases, we will, subject to terms and conditions of assignment, recognize the transferee or
+       assignee named in the notice as the absolute transferee or assignee and such person
+
+
+
+AFLI_WEB PD_Wealthsurance Growth Insurance Plan SP II_v2.7                                     Page 37 of 42
+               Ageas Federal Life Insurance Wealthsurance Growth Insurance Plan SP II
+            A Single Premium, Non-participating, Unit Linked, Individual Life Insurance Plan
+                                              UIN: 135L082V02
+a) shall be subject to all liabilities and equities to which the transferor or assignor was subject to at the
+    date of transfer or assignment and
+b) may institute any proceedings in relation to the policy
+c) obtain loan under the policy or surrender the policy without obtaining the consent of the transferor
+    or assignor or making him a party to the proceedings
+15. Any rights and remedies of an assignee or transferee of a life insurance policy under an assignment
+    or transfer effected before commencement of the Insurance Laws (Amendment) Act, 2015 shall not
+    be affected by this section.
+
+    Please note: This is not a comprehensive list of amendments of Insurance Laws (Amendment) Act,
+    2015 and only a simplified version prepared for general information. Policyholders are advised to
+    refer to Insurance Laws (Amendment) Act, 2015 Gazette Notification dated March 23, 2015 for
+    complete and accurate details.
+
+
+
+
+AFLI_WEB PD_Wealthsurance Growth Insurance Plan SP II_v2.7                                    Page 38 of 42
+                Ageas Federal Life Insurance Wealthsurance Growth Insurance Plan SP II
+             A Single Premium, Non-participating, Unit Linked, Individual Life Insurance Plan
+                                           UIN: 135L082V02
+                                                Annexure B
+B. Section 39 - Nomination by policyholder
+Nomination of a life insurance Policy is as below in accordance with Section 39 of the Insurance Act, 1938
+as amended from time to time. The extant provisions in this regard are as follows:
+      1. The policyholder of a life insurance on his own life may nominate a person or persons to whom
+          money secured by the policy shall be paid in the event of his death.
+      2. Where the nominee is a minor, the policyholder may appoint any person to receive the money
+          secured by the policy in the event of policyholder’s death during the minority of the nominee.
+      3. Nomination can be made at any time before the maturity of the policy.
+      4. Nomination may be incorporated in the text of the policy itself or may be endorsed on the policy
+          communicated to the company and can be registered by the company in the records relating to
+          the policy.
+      5. Nomination can be cancelled or changed at any time before policy matures, by an endorsement
+          or a further endorsement or a will as the case may be.
+      6. A notice in writing of Change or Cancellation of nomination must be delivered to the Company for
+          the Company to be liable to such nominee. Otherwise, we will not be liable if a bonafide payment
+          is made to the person named in the policy or in the registered records of the company.
+      7. Fee to be paid to the Company for registering change or cancellation of a nomination can be
+          specified by the Authority through Regulations.
+      8. On receipt of notice with fee, we will grant a written acknowledgement to the policyholder of
+          having registered a nomination or cancellation or change thereof.
+      9. A transfer or assignment made in accordance with Section 38 shall automatically cancel the
+          nomination except in case of assignment to the Company or other transferee or assignee for
+          purpose of loan or against security or its reassignment after repayment. In such case, the
+          nomination will not get cancelled to the extent of the Company’s or transferee’s or assignee’s
+          interest in the policy. The nomination will get revived on repayment of the loan.
+      10. The right of any creditor to be paid out of the proceeds of any policy of life insurance shall not be
+          affected by the nomination.
+      11. In case of nomination by policyholder whose life is insured, if the nominees die before the
+          policyholder, the proceeds are payable to policyholder or his heirs or legal representatives or
+          holder of succession certificate.
+      12. In case nominee(s) survive the person whose life is insured, the amount secured by the policy
+          shall be paid to such survivor(s).
+      13. Where the policyholder whose life is insured nominates his
+                   a. parents or b. spouse or c. children or d. spouse and children e. or any of them
+the nominees are beneficially entitled to the amount payable by the Company to the policyholder unless
+it is proved that policyholder could not have conferred such beneficial title on the nominee having regard
+to the nature of his title.
+      14. If nominee(s) die after the policyholder but before his share of the amount secured under the
+          policy is paid, the share of the expired nominee(s) shall be payable to the heirs or legal
+          representative of the nominee or holder of succession certificate of such nominee(s).
+      15. The provisions of sub-section 7 and 8 (13 and 14 above) shall apply to all life insurance policies
+          maturing for payment after the commencement of Insurance Laws (Amendment) Act, 2015.
+
+
+
+
+AFLI_WEB PD_Wealthsurance Growth Insurance Plan SP II_v2.7                                      Page 39 of 42
+                Ageas Federal Life Insurance Wealthsurance Growth Insurance Plan SP II
+            A Single Premium, Non-participating, Unit Linked, Individual Life Insurance Plan
+                                            UIN: 135L082V02
+   16. If policyholder dies after maturity but the proceeds and benefit of the policy has not been paid to
+       him because of his death, his nominee(s) shall be entitled to the proceeds and benefit of the
+       policy.
+   17. The provisions of Section 39 are not applicable to any life insurance policy to which Section 6 of
+       Married Women’s Property Act, 1874 (MWP Act) applies or has at any time applied except where
+       before or after Insurance Laws (Amendment) Act, 2015 a nomination is made in favour of spouse
+       or children or spouse and children whether or not on the face of the policy it is mentioned that it
+       is made under Section 39. Where nomination is intended to be made to spouse or children or
+       spouse and children under Section 6 of MWP Act, it should be specifically mentioned on the policy.
+       In such a case only, the provisions of Section 39 will not apply.
+
+Please note: This is not a comprehensive list of amendments of Insurance Laws (Amendment) Act, 2015
+and only a simplified version prepared for general information. Policyholders are advised to refer to
+Insurance Laws (Amendment) Act, 2015 Gazette Notification dated March 23, 2015 for complete and
+accurate details.
+
+
+
+
+AFLI_WEB PD_Wealthsurance Growth Insurance Plan SP II_v2.7                                  Page 40 of 42
+                Ageas Federal Life Insurance Wealthsurance Growth Insurance Plan SP II
+             A Single Premium, Non-participating, Unit Linked, Individual Life Insurance Plan
+                                           UIN: 135L082V02
+                                              Annexure C
+Section 45 – Policy shall not be called in question on the ground of mis-statement after three years
+
+Provisions regarding policy not being called into question in terms of Section 45 of the Insurance Act,
+1938, as amended from time to time are as follows:
+    1. No Policy of Life Insurance shall be called in question on any ground whatsoever after expiry of 3
+        yrs from
+        a) the date of issuance of policy or
+        b) the date of commencement of risk or
+        c) the date of revival of policy or
+        d) the date of rider to the policy
+
+whichever is later.
+
+   2. On the ground of fraud, a policy of Life Insurance may be called in question within 3 years from
+       a) the date of issuance of policy or
+       b) the date of commencement of risk or
+       c) the date of revival of policy or
+       d) the date of rider to the policy
+whichever is later.
+
+For this, we will communicate in writing to the insured or legal representative or nominee or assignees
+of insured, as applicable, mentioning the ground and materials on which such decision is based.
+
+    3. Fraud means any of the following acts committed by insured or by his agent, with the intent to
+       deceive the Company or to induce the Company to issue a life insurance policy:
+       a) The suggestion, as a fact of that which is not true and which the insured does not believe to
+          be true;
+       b) The active concealment of a fact by the insured having knowledge or belief of the fact;
+       c) Any other act fitted to deceive; and
+       d) Any such act or omission as the law specifically declares to be fraudulent.
+
+    4. Mere silence is not fraud unless, depending on circumstances of the case, it is the duty of the
+       insured or his agent keeping silence to speak or silence is in itself equivalent to speak.
+    5. We will not repudiate a life insurance Policy on the ground of fraud, if the Insured / beneficiary
+       can prove that the misstatement was true to the best of his knowledge and there was no
+       deliberate intention to suppress the fact or that such mis-statement of or suppression of material
+       fact are within the knowledge of the Company. Onus of disproving is upon the policyholder, if
+       alive, or beneficiaries.
+    6. Life insurance Policy can be called in question within 3 years on the ground that any statement of
+       or suppression of a fact material to expectancy of life of the insured was incorrectly made in the
+       proposal or other document basis which policy was issued or revived or rider issued. For this, the
+       Company will communicate in writing to the insured or legal representative or nominee or
+       assignees of insured, as applicable, mentioning the ground and materials on which decision to
+       repudiate the policy is based.
+
+
+
+
+AFLI_WEB PD_Wealthsurance Growth Insurance Plan SP II_v2.7                                  Page 41 of 42
+               Ageas Federal Life Insurance Wealthsurance Growth Insurance Plan SP II
+            A Single Premium, Non-participating, Unit Linked, Individual Life Insurance Plan
+                                            UIN: 135L082V02
+   7. In case repudiation is on ground of mis-statement and not on fraud, the premium collected on
+      policy till the date of repudiation shall be paid to the insured or legal representative or nominee
+      or assignees of insured, within a period of 90 days from the date of repudiation.
+   8. Fact shall not be considered material unless it has a direct bearing on the risk undertaken by the
+      Company. The onus is on the Company to show that if the Company had been aware of the said
+      fact, no life insurance policy would have been issued to the insured.
+   9. The insurer can call for proof of age at any time if it is entitled to do so and no policy shall be
+      deemed to be called in question merely because the terms of the policy are adjusted on
+      subsequent proof of age of life insured. So, this Section will not be applicable for questioning age
+      or adjustment based on proof of age submitted subsequently.
+
+Please note: This is not a comprehensive list of amendments of Insurance Laws (Amendment) Act,
+2015 and only a simplified version prepared for general information. Policyholders are advised to refer
+to Insurance Laws (Amendment) Act, 2015 Gazette Notification dated March 23, 2015 for complete
+and accurate details.
+
+
+
+
+AFLI_WEB PD_Wealthsurance Growth Insurance Plan SP II_v2.7                                  Page 42 of 42
+

@@ -1,0 +1,1329 @@
+                                                PRAMERICA LIFE WEALTH+ ACE
+                     (A UNIT LINKED NON PARTICIPATING INDIVIDUAL SAVINGS LIFE INSURANCE PLAN)
+------------------------------------------------------------------------------------------------------------------------------------------
+                                                                PART B
+                                                                Definitions
+
+Words or phrases appearing in the Policy Document in initial               Charges means collectively the Allocation Charges, the
+capitals will have the meanings given to them below:                       Mortality Charges, the Policy Administration Charges, the
+                                                                           Fund Management Charges, the Discontinuance/Surrender
+Where appropriate, any reference to the singular includes
+                                                                           Charges, Miscellaneous Charges and any other charges that
+references to the plural, references to the male include
+references to the female and references to any statute include             may be levied by the Company from time to time under this
+references to any subsequent changes to that statute.                      Policy
+
+In case of any conflict between the interpretations of any of the          Company/Insurer/Us/We/Our means or refers to Pramerica
+terms of this Policy Document, the Part C (Specific Terms and              Life Insurance Limited.
+Conditions) shall override Part B (Definitions) of this Policy
+Document.                                                                  Customer Reference Number means a unique code that can
+                                                                           be alternatively used and referred instead of the Policy number
+General Terms
+                                                                           to initiate service requests for the Policy.
+Act means the Insurance Act, 1938 (4 of 1938)
+                                                                           Coverage Commencement Date means the date as
+Age means age at last birthday as on last policy anniversary               specified in the Schedule from which the risk cover starts
+                                                                           under this Policy.
+Allocation means the process of allocating premium to create
+units, at the prevailing unit price, in the segregated funds               Claimant shall mean the Life Insured (or) the Policyholder (or)
+offered under the linked insurance product, as and when the                the assignee (or) the Nominee where a valid nomination has
+premiums are received or switches from one fund to another                 been effected or the Legal Heirs of the Policyholder/Nominee,
+fund are made.                                                             as the case may be.
+
+Application Form/Proposal Form means the application                       Coverage Sum Assured / Sum Assured is the absolute
+form and any other information / document provided by the                  amount of benefit arrived at by applying the methodology as
+Policyholder to the Company before the inception of this                   approved by the Regulator, i.e. IRDAI, and is specified in the
+Policy.                                                                    attached Policy Schedule. Eligibility for the Sum Assured is
+                                                                           determined according to the terms and conditions of this
+Appointee means the person named by the Policyholder to                    Policy.
+receive payment, under this Policy if the Nominee is a minor
+at the time payment becomes due.
+                                                                           Death Benefit means the benefit which is payable on death of
+Assignee means the person to whom the rights and benefits
+                                                                           life assured, as stated in the policy document
+under this policy are transferred by virtue of assignment under
+section 38 of the Insurance Act,1938, as amended from time
+to time.                                                                   Death Sum Assured means the amount payable in case of
+                                                                           death of the Life Insured according to the terms and conditions
+Assignment means a provision wherein the policyholder can                  of this Policy.
+assign or transfer a policy in accordance with Section 38 of the
+Insurance Act, 1938, as amended from time to time.                         Discontinuance means the state of a policy that could arise
+                                                                           on account of surrender of the policy or non-payment of the
+Authority means the Insurance Regulatory and Development                   contractual premium due before the expiry of the grace period.
+Authority of India established under the provisions of section 3
+of the Insurance Regulatory and Development Authority Act,                 Discontinued Policy Fund means the segregated fund of the
+1999                                                                       insurer constituted by the fund value, as applicable, of all the
+                                                                           linked insurance policies discontinued during lock-in period.
+
+Benefit Illustration means an Annexure along with the Policy               Free Look Period is the period of 30 days from the date of
+Schedule that illustrates the premiums, guarantees, returns,               receipt of the Policy Document by the Policyholder to review
+benefits and values of the proposed policy. This Benefit                   the terms and conditions of this policy and where the
+Illustration complies with IRDAI Regulations and contains clear            Policyholder disagrees to any of those terms and conditions,
+disclosure of both guaranteed and non-guaranteed benefits, if              he/ she has the option to return this policy as detailed in
+any, of the Policy                                                         Section Seven of Part D of this Policy Document.
+
+Benefits means the Death Benefit, Maturity Benefit, Surrender              Funds mean the internal investment funds established and
+Benefit or any other benefit, as the case may be, applicable in            managed by the Company in accordance with the terms and
+the terms and conditions of this Policy                                    conditions of this Policy. It also refer as the Segregated Fund
+                                                                           that are earmarked under linked insurance business
+Business Day is the day other than Saturday and Sunday and
+                                                                           Fund Value means the total number of Units held in the Unit
+days when the Company’s corporate office is closed.                        Account multiplied by their respective Unit Price. It also refers
+                                                                           as Unit fund value that is the summation of number of units in
+
+
+
+
+                                            Pramerica Life Wealth + Ace (UIN: 140L025V03)
+                                                PRAMERICA LIFE WEALTH+ ACE
+                     (A UNIT LINKED NON PARTICIPATING INDIVIDUAL SAVINGS LIFE INSURANCE PLAN)
+------------------------------------------------------------------------------------------------------------------------------------------
+each segregated fund multiplied by the net asset value (NAV)
+for respective segregated fund under that policy.                          Policy Discontinuance means the state of the Policy that
+                                                                           could arise on account of Surrender of the Policy
+Force Majeure includes but is not limited to any extraordinary
+circumstances, such as extreme volatility of the value of the              Policy Document means the Terms & Conditions, the
+investments of an investment Fund, extended suspension of                  Application Form and the Schedule as amended from time to
+trading on the stock exchanges, natural calamities, riots and              time.
+any other similar events beyond the control of the Company.
+                                                                           Policy Month means the 1 month period starting from the Risk
+Goods and Service Tax (GST) means applicable tax which is                  Commencement Date and accordingly thereafter every
+charged based in the type of policy communication address of               subsequent Policy month.
+the policyholder as stated in the schedule and amended from
+                                                                           Policy Term means the period between                  the   Risk
+time to time. The rates charged may change subject to change               Commencement Date and Policy Expiry Date.
+in rate and/or the state mentioned in the communication
+address of the policyholder as on date of adjustment.                      Policy Year means the 12 months period starting from the
+                                                                           Risk Commencement Date and accordingly thereafter every
+IRDAI means the Insurance Regulatory and Development                       subsequent Policy Anniversary.
+Authority of India.
+                                                                           Policyholder means the person named in the Schedule who
+Life Assured/Insured means the person on whose life this                   has concluded this Policy with the Company. Policyholder is
+Policy is effected and is named in the Schedule.                           the owner of the Policy. In case of absolute assignment, the
+                                                                           assignee will become the Policyholder. In case of partial or
+Lock-in Period means the period of five consecutive                        conditional assignment, the assignee will have the first right in
+completed years from the date of commencement of the policy,               the Policy extent to the assignment done.
+during which period the proceeds of the discontinued policies
+cannot be paid by the company to the Policyholder or to the                Premium means the amount of premium payable by the
+Life Assured, as the case may be, except in the case of death              Policyholder. The Schedule details the amount payable (Policy
+or upon the happening of any other contingency covered under               Installment Premium), when it is to be paid (Premium
+the policy.                                                                Frequency) and the term over which it is to be paid (Premium
+                                                                           Paying Period).
+Maturity Benefit means sum assured on maturity, any
+additional and accrued benefit, which is payable on maturity in            Risk Commencement Date means the date as specified in
+                                                                           the Schedule from which the risk cover starts under this Policy.
+accordance with the terms and conditions of the policy
+                                                                           Schedule means the document attached to this Policy which
+Maturity Date means the Policy Expiry Date specified in the                provides a snapshot of the Policy and benefits details and any
+Schedule and when the coverage under the Policy ends.                      annexure attached to it from time to time and any
+                                                                           endorsements the Company has made and, if more than one,
+Minor in this policy means any person who is below 18 years                then the latest in time.
+of age.
+                                                                           Settlement Option means a facility made available to receive
+Mortality Charge means the cost of life or health insurance                the maturity or death proceeds in instalments in accordance
+cover. It is exclusive of any expense loadings and is levied by            with the terms and conditions stated in advance at the
+cancellation of units. This charge, if any, shall be levied at the         inception of the contract.
+beginning of each policy month from the fund.
+                                                                           Senior citizen shall have the same meaning assigned to it
+Net Asset Value(NAV) or Unit Price the price per unit of the               under Maintenance and Welfare of Parents and Senior
+segregated fund.                                                           Citizens Act, 2007.
+Nominee means the person named in the Policy Schedule                      Surrender means withdrawal or termination of the entire
+who has been nominated in accordance with Section 39 of the                policy
+Insurance Act, 1938, as amended from time to time, to receive
+the Death Benefit. Nomination can be effected only if                      Surrender Value means an amount or Fund Value, if any that
+Policyholder is same as Life Insured                                       becomes payable on surrender of the Policy in accordance
+                                                                           with the terms and conditions of the Policy.
+Nomination is the process of nominating a person(s) in
+accordance with provisions of Section 39 of the Insurance Act,             Switches means a facility allowing the policyholder to move
+1938 as amended from time to time                                          from one segregated fund, either wholly or in part, to other
+                                                                           segregated fund(s) amongst the segregated funds offered as
+Partial Withdrawal means any amount withdrawn partially out                per the terms and conditions of the policy.
+of unit fund by the policyholder during the term of the policy.
+                                                                           Total premiums paid means total of all the premiums
+Policy means this contract of insurance as evidence by the
+                                                                           received under the base product including top-ups premium
+Policy Document.
+                                                                           paid, if any.
+Policy Anniversary means the anniversary of the Risk
+Commencement Date.                                                         Unique identification number (UIN) means a unique number
+                                                                           allotted to each product which is required to be disclosed in
+Policy Commencement Date means the date when this                          product related literature, policy documents and any other
+Policy is issued and is specified in the Schedule.                         supporting documents for such product.
+
+                                             Pramerica Life Wealth + Ace (UIN: 140L025V03)
+                                                PRAMERICA LIFE WEALTH+ ACE
+                     (A UNIT LINKED NON PARTICIPATING INDIVIDUAL SAVINGS LIFE INSURANCE PLAN)
+------------------------------------------------------------------------------------------------------------------------------------------
+Unit means a specific portion or part of the underlying
+segregated linked fund which represents policyholder’s
+entitlement in such funds.
+
+Unit Account means a notional account in which Units are
+allocated or redeemed for the sole purpose of determining the
+benefits under the Policy.
+
+Unit Price means the price at which the Company allocates or
+redeems Units in each of the Funds, in accordance with the
+terms and conditions of the Policy.
+
+Valuation Date is the date on which the value of assets in the
+Funds is determined as described in the terms and conditions
+of the Policy.
+
+
+
+
+                                            Pramerica Life Wealth + Ace (UIN: 140L025V03)
+                                                PRAMERICA LIFE WEALTH+ ACE
+                     (A UNIT LINKED NON PARTICIPATING INDIVIDUAL SAVINGS LIFE INSURANCE PLAN)
+------------------------------------------------------------------------------------------------------------------------------------------
+                                                                     PART C
+                                                    Specific Terms and Conditions
+
+Section One: Policy Benefits                                              has been opted by the Policyholder in accordance with the
+                                                                          terms and conditions of the Policy.
+(a)     Benefit Payable on Death                                          .
+If the Life Insured dies at any time before the Maturity Date,            (c)   Persistency Units
+while the Policy is in force for full Policy benefits, the Company
+will pay the Death Sum Assured.                                           If the Policy remains in force, the Policyholder will be entitled
+                                                                          to Persistency Units at the end of 10th, 15th, 20th and 25th
+The Death Sum Assured shall be higher of the following:
+                                                                          Policy Anniversaries. An amount equivalent to ‘X’ percentage
+  a)    Sum Assured* (OR)                                                 of average of the Fund Values at the beginning of the
+  b)    Fund Value (including the value of the Persistency                immediately preceding 36 Policy months will be allocated to
+        Units) (OR)
+                                                                          Policyholder’s Unit Account to create Persistency Units.
+  c)    105% of total Premiums paid till the date of death
+                                                                          Where ‘X’ shall be as under:
+
+*Sum Assured will be reduced to the extent of partial                                                            Persistency
+withdrawals made in the last 2 years immediately preceding                      Premium Band (INR)                Units (%)
+the date of death                                                                                                    ‘X’
+If the Life Insured dies at any time before the Maturity Date,                  65,000 - 199,999                    1.50%
+while the Policy is in Discontinued Policy Fund, the Company                    200,000 and above                   2.00%
+will pay the death benefit equal to the value of units in the
+Discontinued Policy Fund.
+                                                                          Section Two: Payment of Premium
+All benefits shall be paid to the Claimant. In the absence of a
+                                                                          Premium shall be deemed to have been paid only when
+Claimant, the benefits will be paid to the legal heirs of the
+                                                                          received and realized by the Company.
+Claimant.
+On attainment of majority the ownership of Policy will
+automatically vest on the Life Insured. However, the right of
+Appointee will extinguish on the attainment of majority of Life
+Insured.
+
+
+(b) Benefit Payable on Maturity
+On survival of Life Insured to the Maturity Date and provided
+Policy is In-force for full Policy benefits, the Company will pay
+the Fund Value (including the value of the Persistency Units)
+as at that date to the Claimant, unless the Settlement Option
+
+
+
+
+                                             Pramerica Life Wealth + Ace (UIN: 140L025V03)
+                                                PRAMERICA LIFE WEALTH+ ACE
+                     (A UNIT LINKED NON PARTICIPATING INDIVIDUAL SAVINGS LIFE INSURANCE PLAN)
+------------------------------------------------------------------------------------------------------------------------------------------
+                                                                          PART D
+                                                                     Policy Servicing
+
+Section One: Partial Withdrawals                                                                   the Unit Price of the respective Funds that applies
+                                                                                                   on the day of that transaction.
+  a)          The Policyholder may make partial withdrawals in
+              accordance with this Article after the completion of the                  vi)        The minimum amount to be switched is as specified
+              lock-in period (5 years after the commencement of the                                in the Schedule except where 100% value of a
+              policy), subject to the following:                                                   Fund is to be switched to another Fund.
+
+                 i)      In case, the Life Insured is minor, the request         Section Three: Settlement Option
+                         for partial withdrawal can only be placed after
+                         the Life Insured attains majority i.e. the age of
+                         18 years or above                                       a.     The Policyholder may opt to exercise the settlement
+                                                                                        option to receive the benefit payable on Maturity Date,
+                 ii)     A total of 5 partial withdrawals will be permitted             by giving the Company a written notice at least 7 days
+                         during the entire Policy Term. The gap                         before the Maturity Date together with any information or
+                         between any 2 partial withdrawals shall not be                 documentation that the Company may require,
+                         less than 2 years from the date of previous                    specifying the following:
+                         partial withdrawal.
+                                                                                              i)  The settlement period which could be a period of
+                 iii)    The minimum withdrawal amount for a single                               1, 2, 3, 4 or 5 years from the Maturity Date, and,
+                         partial withdrawal is as specified in the                            ii) The frequency of periodic payments which could
+                         Schedule.                                                                be annually, semi-annually, quarterly or monthly.
+
+                 iv)     The maximum withdrawal for a single partial               b.    If the policyholder opts for settlement option, payments
+                         withdrawal shall not exceed 20% of the                          will be made in installments, based on settlement
+                         Premium paid.                                                   period and frequency of payouts chosen, with the first
+                                                                                         installment payable on the date of maturity. For e.g. if
+                 v)      The partial withdrawals shall not be allowed                    the policyholder choose settlement period of 1 year with
+                         which would result in termination of a contract                 monthly frequency, the first installment will be paid on
+                                                                                         the Maturity Date, second installment will be paid upon
+            b)        The partial withdrawal shall be met by cancelling                  completion of one month from date of maturity and so
+                      Units The Sum Assured under the Policy shall be                    on.
+                      reduced to the extent of partial withdrawals made            c.    During the settlement period, the inherent risk in the
+                      during two-year period immediately preceding the                   underlying investment funds will be borne by the
+                      date of death of Life Insured. The partial                         policyholder.
+                      withdrawals with respect to the fund values from             d.    The period of settlement shall not in any case be
+                      the base premiums shall only be counted for the                    extended beyond a period of five years from the date of
+                      purpose of adjusting the sum assured to be                         maturity.
+                      payable on death.                                            e.    In the settlement period after maturity, the risk cover
+                                                                                         shall be maintained at 105% of the total premiums paid.
+Section Two: Switching                                                                   Accordingly mortality charges will be deducted
+                                                                                   f.    Policyholder has the option to switch the funds during
+The Policyholder may switch Units between available Funds                                the settlement period
+subject to the following:                                                          g.    No partial withdrawals are allowed during the
+                                                                                         settlement period. However The policyholder can take
+       i)        The Policyholder gives prior written notice to the                      complete withdrawal at any time during the settlement
+                 Company of the switch he/she wishes to make.                            period and no charge will be levied for such withdrawal
+                                                                                   h.    The charges levied during the settlement period are
+       ii)       Four switches may be made in a Policy Year                              Fund Management Charge, Switch Charge and
+                 without any charge, but any subsequent switch will                      Mortality Charge, if any. No other charge shall be levied
+                 attract the charges as specified in Part E                        i.    The policy will terminate once the fund value falls below
+                                                                                         the minimum amount specified in the Schedule during
+       iii)      Switches will only be effective once the Company                        settlement period or at the end of settlement period by
+                 has confirmed the same.                                                 paying fund value at that time.
+
+       iv)       Unutilized free switches in a Policy Year cannot be             Section Four: Surrender Value
+                 carried forward to any subsequent Policy Year.
+                                                                                         a)         A Policy issued under this plan will acquire
+       v)        The Company will make a switch by redeeming                                        Surrender Value immediately on payment of
+                 Units from the Fund the Policyholder wishes to                                     Single Premium. However no Surrender Value will
+                 switch out and by allocating Units in the Fund the                                 be payable during the Lock-in Period. Which is a
+                 Policyholder wishes to switch in, equivalent to the                                period of five consecutive Policy years from the
+                 amount the Policyholder wishes to be switched                                      date of commencement of the Policy.
+                 after the deduction of any applicable switching                         b)         Upon receipt of request for surrender during the
+                 charge. For each transaction, the Company will use                                 lock in period, the fund value, after deducting the
+
+                                                     Pramerica Life Wealth + Ace (UIN: 140L025V03)
+                                                PRAMERICA LIFE WEALTH+ ACE
+                     (A UNIT LINKED NON PARTICIPATING INDIVIDUAL SAVINGS LIFE INSURANCE PLAN)
+------------------------------------------------------------------------------------------------------------------------------------------
+            applicable discontinuance charges shall be
+            credited to the discontinued policy fund
+         i)      Such discontinuance charges shall not exceed             Section Six: Unit Encashment Conditions
+                 the charges stipulated in Part E of this
+                 document.                                                Subject to any changes notified by the IRDA of India or any
+         ii) The policy shall continue to be invested in the              such body authorised by the Government of India to notify
+                 discontinued policy fund and the proceeds                such changes, receipt of Premium (excluding outstation
+                 from the discontinuance fund shall be paid at            cheques or demand drafts) or valid requests for Unit
+                 the end of lock in period. Only fund                     switching, surrender of the Policy, partial withdrawal or benefit
+                 management charge shall be deducted from                 payments received at Company’s address specified below or
+                 this fund during this period. Further, no risk           at any of Company’s branch offices:
+                 cover shall be available on such policy during
+                 the discontinuance period.                                 i)    at or before 3:00 p.m. on a particular Business day will
+      c) While the funds are in Discontinued Policy Fund                          be processed at the closing Unit Price on that day, and
+         i)      A Fund Management Charge of 0.5% on the
+                 Discontinued Policy Fund will be made. No                  ii)   after 3:00 p.m. on a particular Business day will be
+                 other charges will apply.                                        processed at the closing Unit Price on the next
+         ii) From the date funds enter the Discontinued                           Business Day.
+                 Policy Fund till the date they leave, a minimum
+                 guaranteed interest rate declared by IRDAI               Notwithstanding anything stated above, if any payment
+                 from time to time will apply. The current                received by the Company is in the form of an outstation
+                 minimum guaranteed interest rate is 4% per               cheque or demand draft, the payment will be processed at the
+                 annum.                                                   closing Unit Price on the day of realisation of that instrument.
+         iii) The excess income earned in the
+                 Discontinued Policy Fund over and above the
+                 minimum guaranteed interest rate shall also              Section Seven: Free Look Period
+                 be apportioned to the Discontinued Policy
+                 Fund.                                                    You have a period of 30 days from the date of receipt of the
+      d) Upon receipt of request for surrender after the                  Policy Document, to review the terms and conditions of the
+            completion of first five Policy Years, the Company            Policy. If you disagree to any of these terms or conditions, you
+            will pay the Fund Value as on the date of surrender           have an option to return the Policy stating the reasons for
+            and the Policy will terminate.                                objection. The Policy will accordingly be cancelled and the
+      e) If, after the completion of first five Policy Years, the         Company will refund an amount which shall be equal to non-
+            Fund Value is not sufficient to pay the Charges i.e.          allocated premiums plus charges levied by cancellation of
+            if the Fund Value is less than the Charges to be              units plus Policy Fund Value at the date of cancellation less
+            deducted, the Policy will terminate immediately               Proportionate risk premium for the period on cover, the
+            and the Company will pay the remaining Fund                   medical expenses, if any incurred by the insurer and stamp
+            Value.                                                        duty charges.
+                                                                          .
+Section Five: Loan
+Loan facility is not available under this Policy
+
+
+
+
+                                            Pramerica Life Wealth + Ace (UIN: 140L025V03)
+                                                PRAMERICA LIFE WEALTH+ ACE
+                     (A UNIT LINKED NON PARTICIPATING INDIVIDUAL SAVINGS LIFE INSURANCE PLAN)
+------------------------------------------------------------------------------------------------------------------------------------------
+                                                                      Part E
+                                                      Charges, Fund Options etc.
+
+Section One: Units and Unit Account
+                                                                                    b)    In case the Policyholder opts for STP, the
+On the Policy Commencement Date, the Company will open                                    Premium (net of Premium Allocation Charge) will
+a Unit Account for the Policyholder in which Units attributable                           be first allocated to Liquid Fund, and then at the
+to the Premium paid by the Policyholder will be allocated, in                             beginning of each Policy Month, a portion will be
+the Fund Allocation proportion as specified in the Schedule,                              systematically switched to the Funds chosen by
+to the Funds chosen by the Policyholder and after deduction                               the Policyholder at inception.
+of applicable Premium Allocation Charges. The Fund
+Allocation proportion for any Fund chosen by the Policyholder                       c)    At the beginning of every Policy Month, 1/n of units
+may range between 10% and 100%.                                                           will be transferred from Liquid fund to other Funds
+                                                                                          as per the Fund allocation proportion chosen by
+The Company may revise the minimum Fund Allocation                                        the Policyholder.
+proportion for any Fund by giving written notice to the
+Policyholder of not less than three months.                                               where n = number of months remaining under the
+                                                                                          STP scheme.
+Section Two: Funds
+                                                                                    d)    No Switching Charge will be levied for switching
+     a)    The Funds available for the Policyholder to invest                             from Liquid Fund to other Funds under STP.
+           in, their investment objectives and respective risk
+           profile are described in Annexure II.                               Section Four: Charges
+
+     b)    The Company reserves the right to introduce new                     The Company will levy the policy charges in the following
+           Funds, amend the investment objectives of any                       manner.
+           existing Fund or to close (terminate the Fund and                        a)    Premium Allocation Charge: This charge is a
+           encashment of all Units held in the Fund), withdraw                            percentage of Premium and is deducted from the
+           (no further investment from the Policyholder will be                           Premium at the time of the receipt of Premium.
+           accepted into the Fund, but existing Units held in                             This charge is guaranteed not to change.
+           the Fund will continue to exist in that Fund), split or
+                                                                                 Band      Single Premium               Policy Term
+           combine existing Funds with the approval of the
+           IRDA of India. The Company shall send written                                                       10 years 15, 20 & 25 years
+           notification to the Policyholder in advance in case                 Band 1     65,000 to 1,99,999    4.00%           3.50%
+           of any such change.
+                                                                               Band 2     2,00,000 onwards      3.00%           2.50%
+     c)    Upon the closure of a Fund, the Company will
+           switch the existing Units in to the Debt Fund.                           b)    Policy Administration Charge: This is an
+                                                                                          administration charge expressed as a percentage
+           Upon the withdrawal of a Fund, the existing Units                              of Premium as at inception and deducted by the
+           held in the Fund will continue to exist in that Fund.                          cancellation of Units from the Unit Account at the
+                                                                                          applicable Unit Price at the beginning of each
+           The Policyholder can switch to any other available                             Policy month. Policy administration charges are
+           Funds without charges being applied within three                               guaranteed.
+           month of the closure or withdrawal of a Fund.
+                                                                                 Policy Year             Percentage of Premium
+     d)    A Fund is composed of Units, which will be created                                     0.18% (Band 1) / 0.075% (Band 2) of
+           when assets of an equivalent value are added to
+           the portfolio of assets against which the Fund is                        1–3         Premium (Single) subject to maximum of
+           referenced. The assets and any income arising                                                 Rs. 150/- per month
+           from these assets shall remain the Company’s
+           property at all times and the Policy does not directly
+                                                                                   4 and
+                                                                                                                     Nil
+           or indirectly confer on the Policyholder or any other                  onwards
+           person any title to or beneficial interest in any of the
+           Company’s assets or to any income from these
+                                                                                    c)    Mortality Charge: This charge is deducted by
+           assets or to the profits of the Company.
+                                                                                          cancellation of Units from the Unit Account at
+                                                                                          applicable Unit Price at the beginning of each
+     e)  The price or value of any Unit and Fund will
+                                                                                          Policy month and is guaranteed not to change.
+         fluctuate depending on the performance of the
+                                                                                          Please refer to Annexure I for details
+         underlying assets. The Company does not
+                                                                                    d)    Fund Management Charge: This charge is levied
+         guarantee the price or value of any Units.
+                                                                                          on a daily basis by adjustment to the NAV and is
+Section Three: Systematic Transfer Plan (STP) Option
+                                                                                          reviewable subject to prior approval of the IRDA of
+                                                                                          India.
+      a)    Policyholder has an option to exercise STP option
+            at the inception of the Policy, for investment of the                                                                  Fund
+            Premium. STP option can be exercised for 6 / 12                                      Fund Name                    Managemen
+            months.                                                                                                              t Charge
+
+
+                                             Pramerica Life Wealth + Ace (UIN: 140L025V03)
+                                                PRAMERICA LIFE WEALTH+ ACE
+                     (A UNIT LINKED NON PARTICIPATING INDIVIDUAL SAVINGS LIFE INSURANCE PLAN)
+------------------------------------------------------------------------------------------------------------------------------------------
+    Debt Fund (SFIN:                                                                   This charge is reviewable with upper limit of Rs.
+                                                    1.20%                              500/- subject to prior approval from IRDA of India.
+    ULIF00127/08/08FIXEDIFUND140)
+                                                                                       No Switching Charge shall be applicable for
+    Balance Fund (SFIN:                                                                switching from Liquid Fund to other Funds under
+                                                    1.35%
+    ULIF00227/08/08BALANCFUND140)                                                      STP.
+    Growth Fund (SFIN:                                                           g)    Goods and Service taxes as applicable are
+                                                    1.35%
+    ULIF00327/08/08GROWTHFUND140)                                                      deducted by cancellation of Units attributable to
+    Large-Cap Equity Fund (SFIN:                                                       Unit Account when the respective facility is used
+                                                    1.35%                              and are subject to change from time to time
+    ULIF00427/08/08LARCAPFUND140)
+    Liquid Fund
+    (ULIF00920/01/11LIQUIDFUND140)                  1.20%                 Charges deducted on monthly basis from the Unit Account will
+    (in case of STP only)                                                 be deducted from the Funds held in respect of the Unit
+    Balanced Equilibrium Fund (SFIN:                                      Account in proportion to the Fund Value at the time of such
+                                                    1.35%
+    ULIF016010223BALEQIBFND140)                                           deduction.
+    Growth Momentum Fund (SFIN:
+                                                    1.35%
+    ULIF015010223GROWMOMFND140)
+                                                                          Section Five: Valuation of Funds and Unit Price
+    Large Cap Advantage Fund (SFIN:
+                                                    1.35%
+    ULIF013010223LARCPADFND140)                                                  a)    The Unit Price of Units of each Fund shall be
+    Flexi Cap Opportunities Fund (SFIN:                                                determined as per the guidelines issued by the
+                                                    1.35%                              IRDA of India from time to time.
+    ULIF014010223FLEXIOPFND140)
+    Pramerica Nifty Mid Cap 50
+    Correlation Fund                                                             b)    As per the current guidelines issued by the IRDA
+                                                    1.25%                              of India, the Company will determine the Unit Price
+    (SFIN:ULIF017260423NIFMIDICOR14
+    0)                                                                                 of each Fund on each Business Day according to
+                                                                                       the following formula: -
+    Discontinued Policy Fund
+                                                    0.50%
+    (ULIF01024/02/11DISCONFUND140)
+                                                                                        Unit Price (or NAV) = {market value of
+                                                                                        investments held by the Fund plus the value of
+      e)    Discontinuance Charge: This charge is deducted                              any current assets less the value of any current
+            from the value of Units attributable to Unit Account                        liabilities and provisions#, if any} divided by the
+            at the time of discontinuance of the Policy and is                          number of Units existing in the Fund on the
+            guaranteed not to change.                                                   Valuation Date (before any new Units are
+                                                                                        created or redeemed).
+Policy Year in
+                SP Up to           SP Above                                             #
+                                                                                         Provisions shall include expenses for brokerage
+which policy is
+                Rs.3,00,000/-      Rs.3,00,000/-                                        and transaction cost, NPA, Fund Management
+discontinued
+                                                                                        Charges (FMC) and any other charges approved
+                Lower of 2% of                                                          by the IRDA of India.
+                                   Lower of 1% of (SP
+                (SP or FV)
+                                   or FV) subject to a
+        1       subject to a                                                          The Unit Price will be rounded by not less than
+                                   maximum of Rs.
+                maximum of                                                            three decimal places.
+                                   6000
+                Rs.3000
+                Lower of 1.5% of Lower of 0.7% of                                c)    The value of assets underlying unit linked funds
+                (SP or FV) subject (SP or FV) subject                                  will be based on Indian market practice or fair
+        2                                                                              value in accordance with the regulations /
+                to a maximum of to a maximum of                                        guidelines / directives from the IRDA of India.
+                Rs.2000            Rs. 5000
+                Lower of 1% of                                                         The company will value the fund on each day
+                                   Lower of 0.5% of
+                (SP or FV)                                                              when the financial markets are open. However,
+                                   (SP or FV) subject
+        3       subject to a                                                            the company may value the fund less frequently
+                                   to a maximum of
+                maximum of                                                              in extreme circumstances external to the
+                                   Rs. 4000
+                Rs.1500                                                                 company when the valuation of assets is too
+                Lower of 0.5% of                                                        uncertain. In such circumstances, the Company
+                                   Lower of 0.35% of                                    may defer the valuation of assets for up to 30
+                (SP or FV)
+                                   (SP or FV) subject to                                days until the company feels that certainty as
+        4       subject to a                                                            the value of assets has been resumed. The
+                                   a maximum of Rs.
+                maximum of                                                              deferment of valuation of assets will be with
+                                   2000
+                Rs.1000                                                                 prior consultations with the IRDA of India.
+ 5 and onwards NIL                 NIL                                                 The Company will make investments as per the
+SP: Single Premium, FV: Fund Value                                                      fund mandate given in Annexure II . However,
+                                                                                        the company will reserve the right to change the
+      f)     Switching Charge: This charge is deducted by                               exposure of all/any fund to money market
+            cancellation of Units attributable to Unit Account                          instruments to 100% only in extreme situations
+            when the respective facility is used. First 4                               external to the company keeping in view market
+            switches in a Policy Year are free, every                                   conditions, political situation, economic
+            subsequent switch shall be charged Rs. 250/-.
+                                           Pramerica Life Wealth + Ace (UIN: 140L025V03)
+                                                PRAMERICA LIFE WEALTH+ ACE
+                     (A UNIT LINKED NON PARTICIPATING INDIVIDUAL SAVINGS LIFE INSURANCE PLAN)
+------------------------------------------------------------------------------------------------------------------------------------------
+              situations, war/war-like situations, terror                                     would be detrimental to the interests of the
+              situations. The same will be put back as per the                                remaining policyholders
+              base mandate once the situations has                                        o   In the case of natural calamity, riots, civil
+              corrected.                                                                      unrest, war and bandhs
+            Some examples of such circumstance are                                       o   In the event of any force majeure or
+              o When one or more stock exchanges which                                        disaster that effects the normal functioning
+                provide a basis for valuation of assets for                                   of the company, if so directed by the IRDA
+                substantial portion the assets of the fund                                    of India.
+                are closed otherwise than for ordinary
+                holiday.                                                              The Company also reserves the right not to value
+              o When as a result of political/economic                                one or more investment Funds under any of the
+                monitoring or any circumstances out of the                            above circumstances.
+                control of the company, the disposal of
+                assets of the fund was not reasonable or                              The policyholders shall be notified of such
+                would not reasonably be practicable                                   situations if it arises.
+                without the detrimental impact to the
+                interests of the remaining policyholders.                        d)    The Company will make all decisions about the
+              o During periods of extreme market volatility                            selection and valuation of the assets to which a
+                during which surrenders and switches                                   Fund is referenced.
+
+
+
+
+                                           Pramerica Life Wealth + Ace (UIN: 140L025V03)
+                                                PRAMERICA LIFE WEALTH+ ACE
+                     (A UNIT LINKED NON PARTICIPATING INDIVIDUAL SAVINGS LIFE INSURANCE PLAN)
+------------------------------------------------------------------------------------------------------------------------------------------
+Annexure II
+
+   Fund Name                    Investment objectives                      Asset Allocation                                       Risk
+                                                                                                                                  Profile
+
+   Debt fund                    To generate steady return at lower         Government securities: 50% to 100%                     Low
+   (SFIN:ULIF00127/08/08        risk by investing in a range of debt       Corporate bonds: 0% to 50%
+   FIXEDIFUND140)               securities.                                Money Market/cash: 0% to 40%
+
+   Balance Fund                 To generate balance return by              Equity: 10% to 50%                                     High
+   (SFIN:ULIF00227/08/08        investing in debt securities to            Government securities: 20% to 50%
+   BALANCFUND140)               provide stability and by investing in      Corporate bonds: 0% to 50%
+                                equities to provide potential to           Money Market/cash: 0% to 40%
+                                enhance the return through capital
+                                appreciation.
+
+   Growth Fund                  To generate higher return through          Equity: 40% to 80%                                     High
+   (SFIN:ULIF00327/08/08        capital appreciation in long term by       Government securities: 10% to 30%
+   GROWTHFUND140)               investing in a diversified portfolio of    Corporate bonds: 0% to 30%
+                                equities. Debt investment will             Money Market/cash: 0% to 40%
+                                provide some stability and
+                                diversification.
+   Large Cap Equity Fund        To generate higher return through          Equity: 60% to 100%                                    High
+   (SFIN:ULIF00427/08/08        capital appreciation in long term          Money Market/cash: 0% to 40%
+   LARCAPFUND140)               from a portfolio invested
+                                predominantly in large cap equities.
+
+   Liquid Fund                  To generate steady return at lower         T-Bill/Money Market/Cash: 100%                         Low
+   (SFIN:ULIF00920/01/11        risk by investing in a range of short-
+   LIQUIDFUND140)-              term debt/liquid money market
+   (only in case of STP)
+                                securities
+
+
+   Balanced Equilibrium         Generate stable returns from a             Equity and Equity Related Instruments: 65% to          Medium
+   Fund (SFIN:                  prudent combination of equity and          75% Govt. Security / Corporate bonds / Money
+   ULIF016010223BALEQI          fixed income investment with the           Market Instruments: 25% to 35%
+   BFND140)                     possibility of increasing the fixed
+                                income contribution to 35%
+
+   Growth Momentum              Generate superior long-term returns        Equity and Equity Related Instruments: 75% to          High
+   Fund (SFIN:                  from a diversified portfolio of equity     85% Govt. Security / Corporate bonds / Money
+   ULIF015010223GROW            and debt securities. The fixed             Market Instruments: 15% to 25%
+   MOMFND140)                   income allocation can be increased
+                                to 25% depending upon market
+                                conditions to afford stability to the
+                                fund
+   Large Cap Advantage          To generate long-term capital              Equity and Equity Related Instruments: 85% to          High
+   Fund (SFIN:                  appreciation from investment in            100% Govt. Security / Corporate bonds / Money
+   ULIF013010223LARCP           large cap stocks which are                 Market Instruments: 0% to 15%
+   ADFND140)                    constituents of the Nifty 100, subject
+                                to the regulatory limits on investee
+                                companies, their groups and
+                                industry sectors with the objective of
+                                beating the respective benchmark
+                                returns. The fund will have the
+                                flexibility of moving into fixed
+                                income instruments to the extent of
+                                15% during more volatile periods.
+   Flexi Cap Opportunities      Dynamic capital appreciation               Equity and Equity Related Instruments: 85% to          High
+   Fund (SFIN:                  through diversified investments in         100% Govt. Security / Corporate bonds / Money
+   ULIF014010223FLEXIO          companies across the market                Market Instruments: 0% to 15%
+   PFND140)                     capitalisation spectrum. The fund
+                                will have the flexibility of moving into
+                                fixed income instruments to the
+
+                                           Pramerica Life Wealth + Ace (UIN: 140L025V03)
+                                                PRAMERICA LIFE WEALTH+ ACE
+                     (A UNIT LINKED NON PARTICIPATING INDIVIDUAL SAVINGS LIFE INSURANCE PLAN)
+------------------------------------------------------------------------------------------------------------------------------------------
+                                extent of 15% during more volatile
+                                periods.
+
+
+
+
+   Pramerica Nifty Mid Cap      To invest in equity and equity            Equity & equity oriented instruments: 90-100%           High
+   50 Correlation Fund          oriented instruments in order to          Money Market Instruments: 0-10%
+   (SFIN:                       generate returns that closely
+   ULIF017260423NIFMIDI         corresponds to the returns of the
+   COR140)                      Nifty Mid Cap 50 Index subject to
+                                tracking errors. The fund would
+                                invest in securities that form part of
+                                the NIFTY Mid Cap 50 Index to
+                                achieve high correlation with the
+                                index within the regulatory
+                                framework permitted.
+   Discontinued Policy          To generate steady return at lower        Government Securities: 60% to 100%                      Low
+   Fund                         risk when the policyholder                Money Market/cash: 0% to 40%
+   (SFIN:ULIF01024/02/11        surrenders the policy or
+   DISCONFUND140)               discontinues premium payment
+                                during the lock in period. The
+                                currently prevailing minimum
+                                guaranteed rate of interest
+                                applicable to discontinued fund is
+                                4% percent per annum.
+
+
+
+
+                                           Pramerica Life Wealth + Ace (UIN: 140L025V03)
+                                                PRAMERICA LIFE WEALTH+ ACE
+                     (A UNIT LINKED NON PARTICIPATING INDIVIDUAL SAVINGS LIFE INSURANCE PLAN)
+------------------------------------------------------------------------------------------------------------------------------------------
+                                                                 PART F
+                                                   General Terms and Conditions
+
+Section One: Suicide Clause                                                    v.    Copies of the First Information Report and the Final
+                                                                                     Investigation Report thereof, duly attested by the
+If death occurs due to suicide or attempted suicide, whether                         concerned police officials
+sane or insane, within twelve months of the Policy                             vi.   Copy of the post-mortem report duly attested by the
+Commencement Date, then the Company’s only obligation                                concerned officials, as applicable
+under this Policy shall be to pay an amount equal to Fund
+Value as on the date of intimation of death and the charges
+other than Fund Management Charges and Guarantee                                The Company may on a case to case basis and subject
+Charges, if any, levied by the Company subsequent to the                        to exceptional circumstances may condone the
+date of death shall be added back to the fund value as                          submission of any of the above mentioned documents/
+available on the date of intimation of death.                                   information while processing the claim.
+
+Section Two: Termination of the Policy                                    Section Four: Maturity Claim Processing
+                                                                          The Company shall be under no obligation to make any
+This Policy shall immediately and automatically terminate on              payment w.r.t. Maturity Benefit unless and until the Company
+the occurrence of the first of the following events and the               has received from the Claimant the information and
+applicable amount, if any have been paid in accordance with               documentation it requests, including but not limited to:
+the terms and conditions of this Policy:                                  a)       The Claimant's proof of entitlement to receive
+                                                                          payment under the Policy.
+ a) The Maturity Date                                                     b)       Original Policy Document.
+ b) The date of intimation of the death of the Life Insured               c)       Any other document as asked for by the Company
+ c) The day the Policy is surrendered (after completion of                depending on the facts and circumstances of each case.
+    first 5 policy years)
+ d) Upon cancellation of the Policy under the free look option            Without prejudice to the right of the Company to insist for any
+    and                                                                   of the documents as mentioned herein above to examine the
+ e) Any other condition as specified in the Policy Document.              admissibility of claim for the benefits under the Policy, the
+                                                                          Company may consider claims where the Claimant is unable
+Section Three: Death Claim Processing                                     to submit required documents.
+
+In order for the Company to make any payment under the                    Basic documentation for Maturity Claim:
+Policy that it is necessary that the Company:                                  a) NEFT Mandate
+                                                                               b) Cancelled cheque
+a)    is immediately notified of the Life Insured’s death in                   c) KYC Documents
+      writing, and preferably within 90 days of death. Company
+      may condone the delay in filing a claim beyond 90 days
+      where the claimant can establish that the delay was due             Section Five: Assignment
+      to unforeseen circumstances and beyond the control of
+      the claimant.                                                       A ) The provisions of Assignment are governed by Section 38
+                                                                          of Insurance Act, 1938 as amended from time to time.
+b)    is provided with the opportunity of establishing to its
+      satisfaction that a claim is payable.                               B) A Leaflet containing the simplified version of the provisions
+                                                                          of Section 38 of the Insurance Act 1938 is enclosed as
+c)    receives all reasonable cooperation and is entitled to              Annexure A for reference.
+      seek any documentation and information, including but
+      not limited to:                                                     Section Six: Nomination
+     Basic documentation if death is due to natural Cause
+       i. The Company’s claim form duly completed.                        A ) The provisions of nomination are governed by Section 39
+      ii. The Policy Document in original.                                of the Insurance Act, 1938 as amended from time to time.
+     iii. Evidence of the date of birth of the Life Insured if the
+          Company has not admitted the age of the Life                    B )A Leaflet containing the simplified version of the provisions
+          Insured.                                                        of Section 39 of the Insurance Act 1938 is enclosed as
+     iv. The original or a legalised copy of the death                    Annexure B for reference.
+          certificate showing the circumstances, cause and the
+          date of death of the Life Insured.                              Section Seven: Miscellaneous
+
+     Basic documentation if death is due to Un-natural cause              a)    Loss of the Policy Document
+       i.  The Company’s claim form duly completed.
+      ii.  The Policy Document in original.                               i)    If the Policy Document is lost or destroyed then the
+     iii.  Evidence of the date of birth of the Life Insured if                 Company reserves the right to make such investigations
+           the Company has not admitted the age of the Life                     into and call for such evidence of the loss of the Policy
+           Insured.                                                             Document, at the Policyholder’s expense, as the
+     iv.   The original or a legalised copy of the death                        Company considers necessary before issuing a
+           certificate showing the circumstances, cause and                     duplicate Policy Document.
+           the date of death of the Life Insured.
+
+                                             Pramerica Life Wealth + Ace (UIN: 140L025V03)
+                                                PRAMERICA LIFE WEALTH+ ACE
+                     (A UNIT LINKED NON PARTICIPATING INDIVIDUAL SAVINGS LIFE INSURANCE PLAN)
+------------------------------------------------------------------------------------------------------------------------------------------
+ii)    If the Company agrees to issue a duplicate Policy                  The Policy Document comprises the entire contract between
+       Document then:                                                     the Policyholder and the Company, and it cannot be changed
+                                                                          or altered unless the Company approves it in writing by
+       1.   The Policyholder agrees to pay an amount not                  endorsement on the Schedule and, where required, the
+            exceeding Rs. 250/- towards the Company’s fee for             approval of the IRDA of India has been obtained.
+            the issue of a duplicate, and
+                                                                          The insurance agent is authorised to arrange the completion
+       2.   The original Policy Document will cease to be of any          and submission of the Policyholder’s Application Form. The
+            legal effect and the Policyholder shall indemnify             insurance agent is not authorised to amend the Policy
+            and keep the Company indemnified and hold the                 Document, or to accept any notice on the Company’s behalf
+            Company harmless from and against any costs,                  or to accept payments on the Company’s behalf. If any money
+            expenses, claims, awards or judgments arising out             meant for the Company in any form is paid to an insurance
+            of or howsoever connected to the original Policy              agent then such payment is made at the Policyholder’s risk
+            Document.                                                     and the agent will be acting only as the Policyholder’s
+                                                                          representative.
+b) Notices
+
+i)     All notices meant for the Company whether under this               g) Taxes
+       Policy or otherwise must be in writing and delivered to
+       the Company at the address as mentioned below.                     In respect of any payment made or to be made under this
+ii)    All notices meant for the Policyholder will be in writing          Policy, the Company shall deduct or charge taxes (including
+       and will be sent by the Company to the Policyholder’s              GST) and other levies as applicable from time to time, at such
+       address shown in the Schedule or any such other                    rates as notified by the Government of India or a body
+       address as may be communicated to the Company by                   authorised by the Government of India from time to time.
+       the Policyholder.
+iii)   The Company shall not be responsible for any                       h) Fraud and Mis-statement
+       consequences related to or arising out of non intimation
+       of changes to the Policyholder’s address.                          Fraud, misrepresentation and forfeiture shall be dealt with in
+                                                                          accordance with Section 45 of the Insurance Act, 1938, as
+c) Misstatement of Age                                                    amended from time to time.
+
+If the correct age of the Life Insured is different from that             A Leaflet containing the simplified version of the provisions of
+mentioned in the Application Form, the Company will assess                Section 45 of the Insurance Act 1938 is enclosed as Annexure
+the eligibility of the Life Insured for the Policy in accordance          C for reference.
+with the correct age of the Life Insured.
+                                                                           Section Eight: Force Majeure
+If on the basis of correct age, the Life Insured is not eligible           1. As per Schedule I(2)(A)(v) of the IRDAI (Insurance
+for the Policy, the Policy shall be cancelled immediately by                  Products) Regulations, 2024, the company will declare a
+refunding the Premium received by the Company under the                       ‘Single’ Net Asset Value (NAV) for each segregated fund
+Policy as per the provisions of section 45 of Insurance Act as
+                                                                              on a day-to-day basis.
+amended from time to time.
+                                                                           2. The company specifies that, in the event of certain force
+If the age of the Life Insured is higher than the age specified               majeure conditions, the declaration of NAV on a day-to-
+in the Application Form, the Company will decrease the Base                   day basis may be deferred and could include other actions
+Sum Assured and other benefits based on the correct age of                    as a part of investment strategy (e.g. taking exposure of
+Life Insured.                                                                 any Segregated Fund (SFIN) upto 100% in Money Market
+If the age of the Life Insured is lower than the age specified                Instruments [[as defined under Schedule III (Part I)(1)(8)
+mentioned in the Application Form, the Company will refund                    of IRDAI (Actuarial, Finance & Investment functions of
+the excess Premium received (without interest) under the                      Insurers) Regulations 2024)]
+Policy based on the correct age of Life Insured.                           3. The company shall value the Funds (SFIN) on each day
+                                                                              for which the financial markets are open. However, the
+                                                                              company may value the SFIN less frequently in extreme
+d) Currency & Territorial Limits
+                                                                              circumstances external to the company i.e. in force
+                                                                              majeure events, where the value of the assets is too
+All Premium and any amounts payable under the Policy are
+payable within India and in the currency of the Policy specified              uncertain. In such circumstances, the company may defer
+in the Schedule.                                                              the valuation of assets for up to 30 days until the company
+                                                                              is certain that the valuation of SFIN can be resumed
+e) Governing Law & Jurisdiction                                         4.      The company shall inform IRDAI of such deferment in
+                                                                                the valuation of assets. During the continuance of the
+Any and all disputes or differences arising out of or in respect                force majeure events, all request for servicing the policy
+of this Policy shall be governed by and determined in                           including policy related payment shall be kept in
+accordance with Indian law and shall be subject to the                          abeyance.
+jurisdiction of Indian Courts.                                          5.    The company shall continue to invest as per the fund
+                                                                              mandates. However, the company shall reserve its right
+f) Entire Contract & Agent’s Authority                                        to change the exposure of all or any part of the Fund to
+                                                                              Money Market Instruments [a as defined under Schedule
+                                                                              III (Part I)(1)(8) of IRDAI (Actuarial, Finance & Investment
+                                            Pramerica Life Wealth + Ace (UIN: 140L025V03)
+                                                 PRAMERICA LIFE WEALTH+ ACE
+                      (A UNIT LINKED NON PARTICIPATING INDIVIDUAL SAVINGS LIFE INSURANCE PLAN)
+ ------------------------------------------------------------------------------------------------------------------------------------------
+     functions    of Insurers) Regulations 2024)]                in
+     circumstances mentioned under points (3 and 4) above.
+     The exposure of the fund as per the fund mandates shall
+     be reinstated within reasonable timelines once the force
+     majeure situation ends
+6.    Few examples of circumstances as mentioned [in point
+      3 & 4 above] are:
+      a)     When one or more stock exchanges which
+             provide a basis for valuation of the assets of the
+             fund are closed otherwise than for ordinary
+             holidays.
+      b)     When, as a result of political, economic, monetary
+             or any circumstances which are not in the control
+             of the company, the disposal of the assets of the
+             fund would be detrimental to the interests of the
+             continuing Policyholders.
+      c)     In the event of natural calamities, strikes, war, civil
+             unrest, riots and bandhs.
+      d)     In the event of any force majeure or disaster that
+             affects the normal functioning of the company.
+7.    In such an event, an intimation of such force majeure
+      event shall be uploaded on company’s website for
+      information
+
+
+
+
+                                              Pramerica Life Wealth + Ace (UIN: 140L025V03)
+                                                PRAMERICA LIFE WEALTH+ ACE
+                     (A UNIT LINKED NON PARTICIPATING INDIVIDUAL SAVINGS LIFE INSURANCE PLAN)
+------------------------------------------------------------------------------------------------------------------------------------------
+                                                               PART G
+                                                            Other Details
+                                                                       Any person who has a grievance against an insurer, may
+Grievance Redressal                                                    himself or through his legal heirs, nominee or assignee, make
+                                                                       a complaint in writing to the Insurance Ombudsman within
+I)   In case of any clarification or query please contact your         whose territorial jurisdiction the branch or office of the insurer
+     Company Salesperson. Any concern may also be raised               complained against or the residential address or place of
+     at any of the branch offices of the Company, the                  residence of the complainant is located.
+     addresses of the branch offices are available on the
+     official website of the company                                   The complaint shall be in writing, duly signed by the
+                                                                       complainant or through his legal heirs, nominee or assignee
+II) The Company may be contacted at:                                   and shall state clearly the name and address of the
+     Customer Service Help Line: 1860-500-7070 / or 011                complainant, the name of the branch or office of the insurer
+     48187070 (local charges apply) (9.30 am to 6.30 pm                against whom the complaint is made, the facts giving rise to
+     from Monday to Saturday)                                          the complaint, supported by documents, the nature and extent
+     Email: contactus@pramericalife.in                                 of the loss caused to the complainant and the relief sought
+     Email for Senior Citizen: seniorcitizen@pramericalife.in          from the Insurance Ombudsman.
+     Website: www.pramericalife.in
+                                                                       You may approach the Insurance Ombudsman if your
+     Communication Address:                                            grievance pertains to any of the following:
+     Customer Service
+     Pramerica Life Insurance Ltd.                                     a. Delay in settlement of claim beyond the time specified in
+     4th Floor, Building No. 9 B, Cyber City,                             the regulations, framed under the Insurance Regulatory
+     DLF City Phase III, Gurgaon– 122002                                  and Development Authority of India Act, 1999
+     Office hours: 9.30 am to 6.30 pm from Monday to Friday            b. Any partial or total repudiation of claims
+                                                                       c. Disputes over premium paid or payable in terms of
+III) Grievance Redressal Officer :                                        insurance policy
+     If the response received from the Company is                      d. Misrepresentation of policy terms and conditions
+     not satisfactory or no response is received within two            e. Legal construction of insurance policies in so far as the
+     weeks (Business Days) of contacting the Company,                     dispute relates to claim
+     the matter may be escalated to:                                   f. Policy servicing related grievances against insurers and
+     Email- customerfirst@pramericalife.in                                their agents and intermediaries
+                                                                       g. Issuance of Life insurance policy, which is not in conformity
+     Grievance Redressal Officer,                                         with the proposal form submitted by the proposer
+     Pramerica Life Insurance Ltd.,                                    h. Non-issuance of insurance policy after receipt of premium
+     4th Floor, Building No. 9 B, Cyber City,                          i. Any other matter resulting from the violation of provisions
+     DLF City Phase III, Gurgaon– 122002                                  of the Insurance Act, 1938 or the regulations, circulars,
+     GRO Contact Number: 0124 – 4697069                                   guidelines or instructions issued by the IRDAI from time to
+     Email – gro@pramericalife.in                                         time or the terms and conditions of the policy contract, in so
+     Office hours 9.30 am to 6.30 pm from Monday to Friday                far as they relate to issues mentioned at clauses (a) to (f)
+
+IV) IRDAI- Grievance Redressal Cell:                                      No complaint to the Insurance Ombudsman shall lie unless
+    If after contacting the Company, the Policyholders query
+    or concern is not resolved satisfactorily or within                   (a) The complainant makes a written representation to the
+    timelines the Grievance Redressal Cell of the IRDAI may               insurer named in the complaint and—
+    be contacted.                                                            (i) Either the insurer had rejected the complaint, or
+    Bima Bharosa Toll Free number – 155255 or 1800-425-                      (ii) The complainant had not received any reply within a
+    4732                                                                     period of one month after the insurer received his
+    Email Id- complaints@irdai.gov.in                                        representation, or
+    Website: https://bimabharosa.irdai.gov.in                                (iii) The complainant is not satisfied with the reply given to
+                                                                             him by the insurer
+     Complaints against Life Insurance Companies: Insurance               (b) The complaint is made within one year—
+     Regulatory and Development Authority of India                           (i) After the order of the insurer rejecting the representation
+     Policyholder's protection & Grievance Redressal                         is received, or
+     Department (PPGR)                                                       (ii) After receipt of decision of the insurer which is not to the
+     Sy. No. 115/1                                                           satisfaction of the complainant, or
+     Financial District                                                      (iii) After expiry of a period of one month from the date of
+     Nanakramguda, Gachibowli                                                sending the written representation to the insurer if the
+     Hyderabad – 500032                                                      insurer named fails to furnish reply to the complainant.
+
+V)   Insurance Ombudsman:                                                 The address of the Insurance Ombudsman are attached
+     The office of the Insurance Ombudsman has been                       herewith and may also be obtained from the following link on
+     established by the Government of India for the                       the internet Link https://www.cioins.co.in/ombudsman
+     redressal of any grievance in respect of life insurance
+     policies.
+
+
+
+                                           Pramerica Life Wealth + Ace (UIN: 140L025V03)
+                                                PRAMERICA LIFE WEALTH+ ACE
+                     (A UNIT LINKED NON PARTICIPATING INDIVIDUAL SAVINGS LIFE INSURANCE PLAN)
+------------------------------------------------------------------------------------------------------------------------------------------
+                                            Address & Contact Details of Ombudsmen Centres
+
+Council for Insurance Ombudsmen
+ (Monitoring Body for Offices of Insurance Ombudsman)
+3rd Floor, Jeevan Seva Annexe, S.V Road , Santacruz(West), Mumbai – 400054. Tel no: 022-69038801/03/04/05/06/07/08/09.
+Email id: inscoun@cioins.co.in         website: www.cioins.co.in
+=================================================================================
+If you have a grievance, approach the grievance cell of Insurance Company first.
+If complaint is not resolved/ not satisfied/not responded for 30 days then
+You can approach The Office of the Insurance Ombudsman (Bimalokpal)
+Please visit our website for details to lodge complaint with Ombudsman.
+
+
+
+ Office Details                                   Jurisdiction of Office    Office Details                                     Jurisdiction of Office
+                                                  Union Territory, District                                                    Union Territory, District
+
+ Office of the Insurance Ombudsman,                        Gujarat,                        Office of the Insurance Ombudsman, Madhya Pradesh
+ Jeevan Prakash Building, 6th floor,                       Dadra & Nagar Haveli,           Janak Vihar Complex, 2nd Floor,           Chattisgarh
+ Tilak Marg, Relief Road,                                  Daman and Diu                   6, Malviya Nagar, Opp. Airtel Office,
+       You have
+ Ahmedabad      – 380
+                   first001.
+                         approached your insurance company with the complaint and          Near New Market, Bhopal – 462 003.
+ Tel.: 079 - 25501201/02/05/06
+                  They have not resolved it                                               Tel.: 0755 - 2769201 / 2769202
+ Email:bimalokpal.ahmedabad@cioins.                                                        Fax: 0755 - 2769203
+ co.in
+                  Not resolved it to your satisfaction or
+                                                                                           Email:bimalokpal.bhopal@ cioins.co.in
+                  Not responded
+ Office of the Insurance     Ombudsman, to it at all for 30 days
+                                                           Orissa                          Office of the Insurance Ombudsman, Punjab,
+       Your
+ 62, Forest     complaint pertains to any policy you have taken in your capacity as an individual
+             park,                                                                         S.C.O. and No. 101, 102 & 103, 2nd Floor, Haryana, (excluding
+
+       The value– of751
+ Bhubneshwar           the 009.
+                           claim including expenses claimed is not above Rs 20 lakh        Batra Building, Sector 17 – D,            Gurugram, Faridabad,
+ Tel.: 0674 - 2596461 /2596455                                                             Chandigarh – 160 017.                     Sonepat and
+ Fax: 0674 - 2596429                                                                       Tel.: 0172 - 2706196 / 2706468            Bahadurgarh)
+ Email:bimalokpal.bhubaneswar@                                                             Fax: 0172 - 2708274                       Himachal Pradesh,
+ cioins.co.in                                                                              Email:bimalokpal.chandigarh@cioins.c Union Territories of
+                                                                                           o.in                                      Jammu & Kashmir,
+                                                                                                                                     Ladakh &
+                                                                                                                                     Chandigarh
+ Office of the Insurance Ombudsman,                        Tamil Nadu,                     Office of the Insurance Ombudsman, Delhi & Following Districts
+ Fatima Akhtar Court, 4th Floor, 453,                      Pondicherry Town and            2/2 A, Universal Insurance Building,      of Haryana - Gurugram,
+ Anna Salai, Teynampet,                                    Karaikal (which are part Asaf Ali Road,                                   Faridabad, Sonepat &
+                                                                                                                                     Bahadurgarh.
+ Chennai – 600 018.                                        of Pondicherry).                New Delhi – 110 002.
+ Tel.: 044 - 24333668 / 24335284                                                           Tel.: 011 - 23232481 / 23213504
+ Fax: 044 - 24333664                                                                       Email: bimalokpal.delhi@cioins.co.in
+ Email:bimalokpal.chennai@cioins.co.in
+ Office of the Insurance Ombudsman,                        Districts of Uttar Pradesh Office of the Insurance Ombudsman, Andhra Pradesh,
+ 6th Floor, Jeevan Bhawan, Phase-II,                       :                               6-2-46, 1st floor, "Moin Court",          Telangana,
+ Nawal Kishore Road, Hazratganj,                           Lalitpur, Jhansi, Mahoba, Lane Opp. Saleem Function Palace, Yanam and
+                                                           Hamirpur, Banda,
+ Lucknow - 226 001.                                                                        A. C. Guards, Lakdi-Ka-Pool,              part of UnionTerritory of
+                                                           Chitrakoot, Allahabad,
+ Tel.: 0522 - 2231330 / 2231331                                                            Hyderabad       - 500 004.                Pondicherry
+                                                           Mirzapur, Sonbhabdra,
+ Fax: 0522 - 2231310                                       Fatehpur, Pratapgarh,           Tel.: 040 - 23312122
+ Email:                                                    Jaunpur,Varanasi,               Fax: 040 - 23376599
+ bimalokpal.lucknow@cioins.co.in                           Gazipur, Jalaun, Kanpur, Email:bimalokpal.hyderabad@cioins.c
+                                                           Lucknow, Unnao,                 o.in
+                                                           Sitapur, Lakhimpur,
+                                                           Bahraich, Barabanki,
+                                                           Raebareli, Sravasti,
+                                                           Gonda, Faizabad,
+                                                           Amethi, Kaushambi,
+                                                           Balrampur, Basti,
+                                                           Ambedkarnagar,
+                                                           Sultanpur, Maharajgang,
+                                                           Santkabirnagar,
+                                                           Azamgarh, Kushinagar,
+                                                           Gorkhpur, Deoria, Mau,
+
+
+                                               Pramerica Life Wealth + Ace (UIN: 140L025V03)
+                                                PRAMERICA LIFE WEALTH+ ACE
+                     (A UNIT LINKED NON PARTICIPATING INDIVIDUAL SAVINGS LIFE INSURANCE PLAN)
+------------------------------------------------------------------------------------------------------------------------------------------
+                                              Ghazipur, Chandauli,
+                                              Ballia, Sidharathnagar.
+
+
+
+
+ Office of the Insurance Ombudsman,           Assam, Meghalaya,           Office of the Insurance Ombudsman, Goa, Mumbai Metropolitan
+ Jeevan Nivesh, 5th Floor,                    Manipur, Mizoram,           3rd Floor, Jeevan Seva Annexe,       Region excluding Navi
+ Nr. Panbazar over bridge, S.S. Road,         Arunachal Pradesh,          S. V. Road, Santacruz (W),           Mumbai & Thane
+ Guwahati – 781001(ASSAM).                    Nagaland and Tripura        Mumbai - 400 054.
+ Tel.: 0361 - 2132204 / 2132205                                           Tel.:
+ Email:bimalokpal.guwahati@cioins.co.i                                    69038821/23/24/25/26/27/28/28/29/30/
+ n                                                                        31
+                                                                          Fax: 022 - 26106052
+                                                                          Email:bimalokpal.mumbai@cioins.co.i
+                                                                          n
+ Office of the Insurance Ombudsman,           Rajasthan                   Office of the Insurance Ombudsman,       Maharashtra,
+ Jeevan Nidhi – II Bldg., Gr. Floor,                                      Jeevan Darshan Bldg., 3rd Floor,         Area of Navi Mumbai and
+ Bhawani Singh Marg,                                                      C.T.S. No.s. 195 to 198,                 Thane excluding Mumbai
+ Jaipur - 302 005.                                                        N.C. Kelkar Road, Narayan Peth,          Metropolitan Region
+ Tel.: 0141 - 2740363                                                     Pune – 411 030.
+ Email:bimalokpal.jaipur@cioins.co.in                                     Tel.: 020-41312555
+                                                                          Email:bimalokpal.pune@cioins.co.in
+ Office of the Insurance Ombudsman,           Karnataka                   Office of the Insurance Ombudsman,       State of Uttaranchal and
+ Jeevan Soudha Building,PID No. 57-                                       Bhagwan Sahai Palace                     the following Districts of
+ 27-N-19                                                                  4th Floor, Main Road,                    Uttar Pradesh:
+                                                                                                                   Agra, Aligarh, Bagpat,
+ Ground Floor, 19/19, 24th Main Road,                                     Naya Bans, Sector 15,
+                                                                                                                   Bareilly, Bijnor, Budaun,
+ JP Nagar, Ist Phase,                                                     Distt: Gautam Buddh Nagar,               Bulandshehar, Etah,
+ Bengaluru – 560 078.                                                     U.P-201301.                              Kanooj, Mainpuri,
+ Tel.: 080 - 26652048 / 26652049                                          Tel.: 0120- 2514252 / 2514253            Mathura, Meerut,
+ Email:                                                                   Email: bimalokpal.noida@cioins.co.in     Moradabad,
+ bimalokpal.bengaluru@cioins.co.in                                                                                 Muzaffarnagar, Oraiyya,
+                                                                                                                   Pilibhit, Etawah,
+                                                                                                                   Farrukhabad, Firozbad,
+                                                                                                                   Gautambodhanagar,
+                                                                                                                   Ghaziabad, Hardoi,
+                                                                                                                   Shahjahanpur, Hapur,
+                                                                                                                   Shamli, Rampur,
+                                                                                                                   Kashganj, Sambhal,
+                                                                                                                   Amroha, Hathras,
+                                                                                                                   Kanshiramnagar,
+                                                                                                                   Saharanpur.
+ Office of the Insurance Ombudsman,           Bihar, Jharkhand            Office of the Insurance Ombudsman,       Kerala, Lakshadweep,
+ 1st Floor,Kalpana Arcade Building,,                                      2nd Floor, Pulinat Building              Mahe- A part of Union
+ Bazar Samiti Road,                                                       Opp. Cochin Shipyard, M.G Road,          Territory of Pondicherry
+                                                                          Ernakulam – 682015
+ Bahadurpur,
+                                                                          Tel: 0484-2358759/2359338
+ Patna 800 006.                                                           Fax: 0484-2359336
+ Tel.: 0612-2680952                                                       Email:
+ Email: bimalokpal.patna@cioins.co.in                                     bimalokpal.ernakulam@cioins.co.in
+ Office of Insurance Ombudsman,               West Bengal, Sikkim and
+ 4th Floor, Hindusthan Building Annexe,       Andaman & Nicobar
+ 4, C.R. Avenure,                             Islands
+ Kolkata – 700072
+ Tel:033-22124339/22124340
+ Fax: 033-22124341
+ Email: bimalokpal.kolkata@cioins.co.in
+
+
+
+
+                                                                          Annexure – ‘A’
+
+
+                                           Pramerica Life Wealth + Ace (UIN: 140L025V03)
+                                                PRAMERICA LIFE WEALTH+ ACE
+                     (A UNIT LINKED NON PARTICIPATING INDIVIDUAL SAVINGS LIFE INSURANCE PLAN)
+------------------------------------------------------------------------------------------------------------------------------------------
+Section 38 - Assignment and Transfer of Insurance                                 i) the proceeds under the policy shall become payable
+Policies (as amended from time to time)                                                to policyholder or nominee(s) in the event of
+                                                                                       assignee or transferee dying before the insured OR
+Assignment or transfer of a policy should be in accordance                        ii) the insured surviving the term of the policy
+with Section 38 of the Insurance Act, 1938 as amended by                               Such conditional assignee will not be entitled to
+Insurance Laws (Amendment) Act, 2015. The extant                                       obtain a loan on policy or surrender the policy. This
+provisions in this regard are as follows:                                              provision will prevail notwithstanding any law or
+                                                                                       custom having force of law which is contrary to the
+  1. This policy may be transferred/assigned, wholly or in                             above position.
+     part, with or without consideration.                                   14. In other cases, the insurer shall, subject to terms and
+  2. An Assignment may be effected in a policy by an                            conditions of assignment, recognize the transferee or
+     endorsement upon the policy itself or by a        separate                 assignee named in the notice as the absolute transferee
+     instrument under notice to the Insurer.                                    or assignee and such person
+  3. The instrument of assignment should indicate the fact                          a. shall be subject to all liabilities and equities to
+     of transfer or assignment and the reasons for the                                   which the transferor or assignor was        subject
+     assignment or transfer, antecedents of the assignee                                 to at the date of transfer or assignment and
+     and terms on which assignment is made.                                         b. may institute any proceedings in relation to the
+  4. The assignment must be signed by the transferor or                                  policy
+     assignor or duly authorized agent and attested by at                           c. obtain loan under the policy or surrender the policy
+     least one witness.                                                                  without obtaining the consent of the transferor or
+  5. The transfer of assignment shall not be operative as                                assignor or making him a party to the proceedings
+     against an insurer until a notice in writing of the transfer           15. Any rights and remedies of an assignee or transferee
+     or assignment and either the said endorsement or                             of a life insurance policy under an Assignment or
+     instrument itself or copy there of certified to be correct                   transfer effected before          commencement of the
+     by both transferor and transferee or their duly                              Insurance Laws (Amendment) Act, 2015 shall not be
+     authorized agents have been delivered to the insurer.                        affected by this section.
+  6. Fee to be paid for assignment or transfer can be
+     specified by the Authority through Regulations.                      [Disclaimer: This is not a comprehensive list of amendments
+  7. On receipt of notice with fee, the insurer should Grant              of Insurance Laws (Amendment) Act, 2015 and only a
+     a written acknowledgement of receipt of notice. Such                 simplified version prepared for general information. Policy
+     notice shall be conclusive evidence against the insurer              Holders are advised to refer to the insurance Act as amended
+     of duly receiving the notice.                                        from time to time for complete and accurate details.]
+  8. If the insurer maintains one or more places of business,
+     such notices shall be delivered only
+     at the place where the policy is being serviced.
+  9. The insurer may accept or decline to act upon any
+     transfer or assignment or endorsement, if it has
+     sufficient reasons to believe that it is-
+      a. not bonafide or
+      b. not in the interest of the policyholder or
+      c. not in public interest or
+      d. is for the purpose of trading of the insurance policy.
+ 10. Before refusing to act upon endorsement, the Insurer
+     should record the reasons in writing and communicate
+     the same in writing to Policyholder within 30 days from
+     the date of policyholder giving a notice of transfer or
+     assignment.
+ 11. In case of refusal to act upon the endorsement by the
+     Insurer, any person aggrieved by the refusal may prefer
+     a claim to IRDAI within 30 days of receipt of the refusal
+     letter from the Insurer.
+ 12. The priority of claims of persons interested in an
+     insurance policy would depend on the date on which
+     the notices of assignment or transfer is delivered to the
+     insurer; where there are more than one instruments of
+     transfer or assignment, the priority will depend on dates
+     of delivery of such notices. Any dispute in this regard
+     as to priority should be referred to Authority.
+ 13. Every assignment or transfer shall be deemed to be
+     absolute assignment or transfer and the assignee or
+     transferee shall be deemed to be absolute assignee
+     or transferee, except
+  a. where assignment or transfer is subject to terms and
+     conditions of transfer or assignment OR
+  b. where the transfer or assignment is made               upon
+     condition that
+
+
+                                            Pramerica Life Wealth + Ace (UIN: 140L025V03)
+                                                PRAMERICA LIFE WEALTH+ ACE
+                     (A UNIT LINKED NON PARTICIPATING INDIVIDUAL SAVINGS LIFE INSURANCE PLAN)
+------------------------------------------------------------------------------------------------------------------------------------------
+Annexure – ‘B’                                                                   the nominees are beneficially entitled to the amount
+                                                                                 payable by the insurer to the policyholder unless it is
+Section 39 - Nomination by policyholder (as amended                              proved that policyholder could not have conferred
+from time to time)                                                               such beneficial title on the nominee having regard to
+                                                                                 the nature of his title.
+Nomination of a life insurance Policy is as below in                        14.   If nominee(s) die after the policyholder but before his
+accordance with Section 39 of the Insurance Act, 1938 as                         share of the amount secured under the policy is paid,
+amended by Insurance Laws (Amendment) Act, 2015. The                             the share of the expired nominee(s) shall be payable
+extant provisions in this regard are as follows:                                 to the heirs or legal representative of the nominee or
+                                                                                 holder of succession certificate of such nominee(s).
+  1. The policyholder of a life insurance on his own life may               15. The provisions of sub-section 7 and 8 (13 and 14 above)
+      nominate a person or persons to whom money                                 shall apply to all life insurance policies maturing for
+      secured by the policy shall be paid in the event of his                    payment after the commencement of Insurance Laws
+      death.                                                                     (Amendment) Act, 2015.
+  2. Where the nominee is a minor, the policyholder may
+                                                                            16. If policyholder dies after maturity but the proceeds and
+      appoint any person to receive the money secured by
+                                                                                 benefit of the policy has not been paid to him because
+      the policy in the event of policyholder’s death during
+                                                                                 of his death, his nominee(s) shall be entitled to the
+      the minority of the nominee. The manner of
+                                                                                 proceeds and benefit of the policy.
+      appointment to be laid down by the insurer.
+  3. Nomination can be made at any time before the maturity                 17. The provisions of Section 39 are not applicable to any
+      of the policy.                                                             life insurance policy to which Section 6 of Married
+  4. Nomination may be incorporated in the text of the policy                    Women’s Property Act, 1874 applies or has at any
+      itself or may be endorsed on the policy communicated                       time applied except where before or after Insurance
+      to the insurer and can be registered by the insurer in                     Laws Act, 2015, a nomination is made in favour of
+      the records relating to the policy.                                        spouse or children or spouse and children whether or
+  5. Nomination can be cancelled or changed at any time                          not on the face of the policy it is mentioned that it is
+      before policy matures, by an endorsement or a further                      made under Section 39. Where nomination is
+      endorsement or a will as the case may be.                                  intended to be made to spouse or children or spouse
+  6. A notice in writing of Change or Cancellation of                            and children under Section 6 of MWP Act, it should be
+      nomination must be delivered to the insurer for the                        specifically mentioned on the policy. In such a case
+      insurer to be liable to such nominee. Otherwise, insurer                   only, the provisions of Section 39 will not apply.
+      will not be liable if a bonafide payment is made to the
+      person named in the text of the policy or in the                    [Disclaimer: This is not a comprehensive list of amendments
+      registered records of the insurer.                                  of Insurance Laws (Amendment) Act, 2015 and only a
+  7. Fee to be paid to the insurer for registering change or              simplified version prepared for general information. Policy
+      cancellation of a nomination can be specified by the                Holders are advised to refer to the insurance Act as amended
+      Authority through Regulations.                                      from time to time for complete and accurate details.]
+  8. On receipt of notice with fee, the insurer should grant a
+      written acknowledgement to the policyholder of having
+      registered a nomination or cancellation or change
+      thereof.
+  9. A transfer or assignment made in accordance with
+      Section 38 shall automatically cancel the nomination
+      except in case of assignment to the insurer or other
+      transferee or assignee for purpose of loan or against
+      security or its reassignment after repayment. In such
+      case, the nomination will not get cancelled to the extent
+      of insurer’s or transferee’s or assignee’s     interest in
+      the policy. The nomination will get revived on
+      repayment of the loan.
+ 10. The right of any creditor to be paid out of the proceeds
+      of any policy of life insurance shall not be affected by
+      the nomination.
+ 11. In case of nomination by policyholder whose life is
+      insured, if the nominees die before the policyholder,
+      the proceeds are payable to policyholder or his heirs or
+      legal representatives or holder of succession
+      certificate.
+ 12. In case nominee(s) survive the person whose life is
+      insured, the amount secured by the policy shall be paid
+      to such survivor(s).
+ 13. Where the policyholder whose life is insured nominates
+      his
+         a. parents or
+        b. spouse or
+        c. children or
+        d. spouse and children
+        e. or any of them
+
+                                           Pramerica Life Wealth + Ace (UIN: 140L025V03)
+                                                PRAMERICA LIFE WEALTH+ ACE
+                     (A UNIT LINKED NON PARTICIPATING INDIVIDUAL SAVINGS LIFE INSURANCE PLAN)
+------------------------------------------------------------------------------------------------------------------------------------------
+Annexure – ‘C’                                                               6.   Life insurance Policy can be called in question within
+                                                                                  3 years on the ground that any statement of or
+Section 45 – Policy shall not be called in question on the                        suppression of a fact material to expectancy of life of
+ground of mis-statement after three years (as amended                             the insured was incorrectly made in the proposal or
+from time to time)                                                                other document basis which policy was issued or
+                                                                                  revived. For this, the insurer should communicate in
+Provisions regarding policy not being called into question in                     writing to the insured or legal representative or
+terms of Section 45 of the Insurance Act, 1938, as amended                        nominee or assignees of insured, as applicable,
+by Insurance Laws (Amendment) Act, 2015 are as follows:                           mentioning the ground and materials on which
+                                                                                  decision to repudiate the policy of life insurance is
+     1. No Policy of Life Insurance shall be called in question                   based.
+         on any ground whatsoever after expiry of 3 yrs from
+          a. the date of issuance of policy or                               7.   In case repudiation is on ground of mis-statement and
+          b. the date of commencement of risk or                                   not on fraud, the premium collected on policy till the
+          c. the date of revival of policy or                                      date of repudiation shall be paid to the insured or legal
+          d. the date of rider to the policy                                       representative or nominee or assignees of insured,
+        whichever is later.                                                        within a period of 90 days from the date of repudiation.
+     2. On the ground of fraud, a policy of Life Insurance may
+        be called in question within 3 years from                            8.   Fact shall not be considered material unless it has a
+         a. the date of issuance of policy or                                     direct bearing on the risk undertaken by the insurer.
+         b. the date of commencement of risk or                                   The onus is on insurer to show that if the insurer had
+         c. the date of revival of policy or                                      been aware of the said fact, no life insurance policy
+         d. the date of rider to the policy                                       would have been issued to the insured.
+       whichever is later.
+                                                                            9.     The insurer can call for proof of age at any time if he
+       For this, the insurer should communicate in writing to the                 is entitled to do so and no policy shall be deemed to
+       insured or legal representative or          nominee or                     be called in question merely because the terms of the
+       assignees of insured, as applicable, mentioning the                        policy are adjusted on subsequent proof of age of life
+       ground and materials on which        such decision is                      insured. So, this Section will not be applicable for
+       based.                                                                     questioning age or adjustment based on proof of age
+                                                                                  submitted subsequently.
+3.      Fraud means any of the following acts committed by
+       insured or by his agent, with the intent to    deceive the         [Disclaimer: This is not a comprehensive list of amendments
+       insurer or to induce the insurer to issue a life insurance         of Insurance Laws (Amendment) Act, 2015 and only a
+       policy:                                                            simplified version prepared for general information. Policy
+       a. The suggestion, as a fact of that which is not true and         Holders are advised to refer to the insurance Act as amended
+           which the insured does not believe to be true;                 from time to time for complete and accurate details.]
+       b. The active concealment of a fact by the insured having
+           knowledge or belief of the fact;
+       c. Any other act fitted to deceive; and
+       d. Any such act or omission as the law specifically
+           declares to be fraudulent.
+
+4.       Mere silence is not fraud unless, depending on
+        circumstances of the case, it is the duty of the
+        insured or his agent keeping silence to speak or silence
+        is in itself equivalent to speak
+
+5.      No Insurer shall repudiate a life insurance Policy on the
+        ground of Fraud, if the Insured /beneficiary can prove
+        that the misstatement was true to the best of his
+        knowledge and there was no deliberate intention to
+        suppress the fact or that such mis-statement of or
+        suppression of material fact are within the knowledge
+        of the insurer. Onus of disproving is upon the
+        policyholder, if alive, or beneficiaries.
+
+
+
+
+                                             Pramerica Life Wealth + Ace (UIN: 140L025V03)
+                                                PRAMERICA LIFE WEALTH+ ACE
+                     (A UNIT LINKED NON PARTICIPATING INDIVIDUAL SAVINGS LIFE INSURANCE PLAN)
+------------------------------------------------------------------------------------------------------------------------------------------
+Annexure I- Mortality Charges (per 1000 of Sum At Risk)
+     Attained                                      Attained
+                     Male        Female                          Male       Female
+       Age                                           Age
+         0           1.6188      1.6188               41        2.9163       2.4488
+         1           1.0188      1.6188               42        3.1375       2.6875
+         2           0.8063      1.6188               43        3.3963       2.9163
+         3           0.6813      1.0188               44        3.7138       3.1375
+         4           0.5563      0.8063               45        4.0925       3.3963
+         5           0.5000      0.6813               46        4.5338       3.7138
+         6           0.4875      0.5563               47        5.0375       4.0925
+         7           0.5000      0.5000               48        5.6013       4.5338
+         8           0.5000      0.4875               49        6.2275       5.0375
+         9           0.4875      0.5000               50        6.9150       5.6013
+        10           0.5188      0.5000               51        7.6638       6.2275
+        11           0.6125      0.4875               52        8.4750       6.9150
+        12           0.7375      0.5188               53        9.3475       7.6638
+        13           0.8525      0.6125               54       10.2813       8.4750
+        14           0.9275      0.7375               55       11.2775       9.3475
+        15           0.9963      0.8525               56       12.3300      10.2813
+        16           1.0600      0.9275               57       13.3250      11.2775
+        17           1.1200      0.9963               58       14.3600      12.3300
+        18           1.1750      1.0600               59       15.6400      13.3250
+        19           1.2250      1.1200               60       17.1650      14.3600
+        20           1.2700      1.1750               61       18.9350      15.6400
+        21           1.3100      1.2250               62       20.9475      17.1650
+        22           1.3463      1.2700               63       23.2050      18.9350
+        23           1.3775      1.3100               64       25.7075      20.9475
+        24           1.4038      1.3463               65       27.7125      23.2050
+        25           1.4250      1.3775               66       30.2138      25.7075
+        26           1.4413      1.4038               67       34.0250      27.7125
+        27           1.4538      1.4250               68       38.2475      30.2138
+        28           1.4600      1.4413               69       42.9163      34.0250
+        29           1.4625      1.4538               70       48.0738      38.2475
+        30           1.4638      1.4600               71       53.7600      42.9163
+        31           1.4825      1.4625               72       60.0200      48.0738
+        32           1.5300      1.4638               73       66.9025      53.7600
+        33           1.5963      1.4825               74       74.4575      60.0200
+        34           1.6850      1.5300               75       82.7400      66.9025
+        35           1.7938      1.5963               76       91.8038      74.4575
+        36           1.9225      1.6850               77       101.709       82.74
+        37           2.0713      1.7938               78       112.514      91.8038
+        38           2.2413      1.9225               79       124.281      101.709
+        39           2.4488      2.0713               80       137.078      112.514
+        40           2.6875      2.2413
+
+
+
+
+                                           Pramerica Life Wealth + Ace (UIN: 140L025V03)
+
