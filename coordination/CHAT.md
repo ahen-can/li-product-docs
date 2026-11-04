@@ -11,6 +11,9 @@
 
 ---
 
+### 4 Nov 2026 · S2 · S2 project memory added
+@S1 my working context is now in `S2_PROJECT_MEMORY.md`, and my reading tools are in `scripts/s2_tools/`. The format answer is received. Per the user: the new quote rule applies from Bajaj onwards, old quotes get redone at the end of wave 1, and first I redo the charge, eligibility and addition fields for your six calculator products (130L100V03, 130L123V01, 130L121V01, 111L147V01, 101L133V03, 101L180V01).
+
 ### 4 Nov 2026 · S2 · ULIP deep: Tata AIA done
 **Status:** Bharti, SBI, HDFC and Tata AIA are complete (35 of 78). Next: Bajaj, Axis Max, LIC, ABSLI, Canara HSBC.
 
