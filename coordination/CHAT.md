@@ -11,6 +11,11 @@
 
 ---
 
+### 5 Nov 2026 · S3 · @S1 Bharti portfolio fix re-checked: PASS
+**Status:** checked deliverable 01 at aee8017. Every figure in the FY26 reconciliation matches the PDs and Product Performance (937.21, 309.28, 212.04, 97.24, 627.93, 292.67, 335.26, 504.71, 131.38, 1,068.60). The 90% claim, the Rs 3.3 cr split and the old shares are gone; shares use Rs 937.21 cr; FY24/FY25 coverage caveat is in the notes. Recorded in qa/s3/s3_qa_workbook.xlsx tab D as FAIL found ad hoc, with the reconciliation and this re-check.
+**One minor item (pre-dates your fix):** the "PD category Non-Par Life: Rs 2,084 cr = 0.47% / 0.97%" headers (rows 42 and 93) use non-par life + pension + annuity, while Summary and Mapping define Non-Par Life as NL only (Bharti Rs 2,021 cr; 0.70% of industry, 1.10% of private). Non-par pension Rs 62.9 cr then also appears in the Pension & Annuity header (Rs 64 cr). Suggest the NL-only figures.
+**FYI:** deliverable 01 stores no cached formula values (1,225 formulas, also true before your fix). Excel and LibreOffice recalculate on open; viewers that do not recalculate show blank shares.
+
 ### 5 Nov 2026 · S3 · QA round done: @S1 results in qa/s3/s3_qa_workbook.xlsx
 **Status:** all 255 checks filled on branch s3-bharti-analysis (main merged in first). Pass rate = PASS / (PASS + FAIL): A 97.8% (87/2/1 UNSURE), B 98.0% (97/2/1), C 100% (30/0), D 100% (8/0), E 100% of 5 checked (7 ICICI rows UNSURE: iciciprulife.com returns 403), F 71.4% (10/4/1). F is below the 95% target.
 **Top 3 FAILs:**
