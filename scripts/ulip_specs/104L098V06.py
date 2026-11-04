@@ -1,0 +1,95 @@
+import sys; sys.path.insert(0, 'scripts'); sys.path.insert(0, 'scripts/ulip_specs')
+from ulip_json import F, NS, build
+import axis_funds
+P, B = 'Policy Contract', 'OSP_Prospectus_035b336976.pdf'
+FUNDS = [dict(f, asset_allocation='see prospectus fund table', risk_label=None) for f in axis_funds.parse('104L098V06')]
+RIDERS = ['Axis Max Life Critical Illness and Disability Secure Rider (104A034V02)', 'Axis Max Life Smart Ultra Protect Rider (104A049V03)']
+NOTE_DOC = 'policy document and CIS are linked from the Online Savings Plan Plus page; they print 104L098V06'
+spec = {
+ 'product': {
+  'uin': F('104L098V06', 'n/a', P, None, 'UIN [104L098V06]', NOTE_DOC),
+  'uin_in_brochure': F('104L098V06', 'n/a', B, None, 'UIN: 104L098V06'),
+  'product_name': F('Axis Max Life Online Savings Plan', 'n/a', B, None, 'Axis Max Life Online Savings Plan'),
+  'irdai_description_line': F('Unit Linked Non Participating Individual Life Insurance Plan', 'n/a', B, None, 'Unit Linked Non Participating Individual Life Insurance Plan'),
+  'launch_or_version_date': NS(), 'target_segment_stated': NS(),
+  'variants_or_plan_options': F(['Variant 1 (higher of sum assured, 105% of premiums and fund value on death)', 'Variant 2 (lump sum, family income benefit and funded premiums on death)'], 'optional (at inception)', B, None, 'Step 4: Choose from the following two Product Variants'),
+  'online_offline': NS(),
+ },
+ 'eligibility': {
+  'entry_age_min': F(18, 'n/a', B, None, '18 years'),
+  'entry_age_max': F({'variant 1': 60, 'variant 2': 54}, 'n/a', B, None, 'Maximum Age of Life Variant 1: 60 years', quote_2='Variant 2: 54 years'),
+  'maturity_age_min': NS(),
+  'maturity_age_max': F({'variant 1': 85, 'variant 2': 64}, 'n/a', B, None, 'Maximum Maturity Age of Variant 1: 85 Years', quote_2='Variant 2: 64 years'),
+  'policy_term_options': F({'variant 1': 'minimum 5 years, maximum 52 years for maturity age 70 or less; minimum 10 and maximum 67 years for maturity age above 70', 'variant 2': '5 to 30 years'}, 'n/a', B, None,
+                           'Minimum 5 years; Maximum 52 years for Maturity Age <=70 Years Policy Term', quote_2='Minimum 10 years; Maximum 67 years for Maturity Age > 70 years', quote_3='Variant 2- Minimum – 5 years; Maximum – 30 years'),
+  'ppt_options': F('same range as the policy term for each variant', 'n/a', B, None, 'Pick a Premium Payment Term: -'),
+  'premium_min_annual': F({'annual': 12000, 'semi-annual': 6000, 'quarterly': 3000, 'monthly': 1000}, 'n/a', B, None, 'Annual Mode: ₹ 12,000 Semi Annual mode: ₹ 6,000 Quarterly mode: ₹ 3,000 Minimum Annualized Monthly mode: ₹ 1,000'),
+  'premium_min_single': NS(),
+  'premium_max': F('no limit, subject to underwriting', 'n/a', B, None, 'No limit, subject to the limits determined in accordance with the Board'),
+  'sum_assured_rule': F({'sum assured': 'higher of cover multiple x annualized premium and 0.5 x policy term x annualized premium', 'cover multiples': {'variant 1': {'18-45': '7, 10, 15, 20', '46-49': '7, 10, 15', '50-55': '5, 7, 10, 15', '56+': '5, 7, 10'}, 'variant 2': {'18-49': '7, 10', '50+': '5, 7, 10'}}, 'minimum sum assured': 60000}, 'built-in', B, None,
+                        'higher of Cover multiple times the Annualized premium or 0.5 times the product of Policy Term and Annualized Premium', quote_2='Age at Entry Cover multiple (Age last birthday) allowed 18 – 45 7, 10, 15, 20', quote_3='the minimum Sum Assured for both the variants is₹ 60,000'),
+  'premium_modes': F('annual, semi-annual, quarterly, monthly', 'n/a', B, None, 'Annual, Semi-Annual, Quarterly and Monthly.'),
+  'life_cover_multiple_choice': F('cover multiple chosen at inception from the entry-age table', 'optional (at inception)', B, None, 'Choose from the available Sum Assured Multiple depending on chosen Product Variants'),
+ },
+ 'charges': {
+  'premium_allocation_charge': F('nil', 'built-in', B, None, '1. Premium Allocation Charge Nil'),
+  'policy_administration_charge': F('nil', 'built-in', B, None, '2. Policy Administration Charge (All Years) Nil'),
+  'fund_management_charge': F({'1.35%': 'High Growth II, Growth Super II, Diversified Equity II, BSE 500 Value 50 Index II, BSE Dividend Stability Index, India Sector Leaders Opportunities, Rising India Manufacturing, Flexi Cap', '1.25%': 'older equity and index funds, India Consumption Opportunities', '1.10%': 'Balanced Fund', '1.00%': 'Nifty Smallcap Quality Index Fund', '0.90%': 'Dynamic Bond, Secure and Money Market II funds', '0.50%': 'Discontinuance Policy Fund'},
+                              'built-in', B, None, 'Balanced Fund (SFIN: ULIF00225/06/04LIFEBALANC104) 1.10%', 'full list in the funds group', quote_2='NIFTY Smallcap Quality Index Fund (SFIN:ULIF02702/08/23NIFTYSMALL104) 1.00%', quote_3='Money Market II Fund (SFIN: ULIF02301/01/20LIFEMONMK2104) 0.90%', quote_4='Flexi Cap Fund (SFIN: ULIF05123/09/26FLXICAPFND104) 1.35%'),
+  'mortality_charge': F({'basis': 'per INR 1,000 sum at risk on attained age; unisex; guaranteed for the term', 'sum at risk': {'variant 1': 'max(max(sum assured, 105% of premiums paid) minus fund value, 0)', 'variant 2': 'higher of sum assured and 105% of premiums, plus present value of the family income benefit and funded premiums at 5.5%'}}, 'built-in', P, None,
+                        'Mortality Charge per INR 1,000 Sum at Risk Mortality Rate Age 0.64 55 0.68 56 0.71 57 0.74 58', 'Part E table of rates by attained age on Policy Contract p.18', quote_2='Mortality Charge: The Mortality Charge shall be levied in accordance with the table specified below and are guaranteed for the Policy Term'),
+  'discontinuance_charge': F({'annualized premium up to Rs 50,000': {'Y1': 'lower of 20% x (AP or FV), max Rs 3,000', 'Y2': '15%, max Rs 2,000', 'Y3': '10%, max Rs 1,500', 'Y4': '5%, max Rs 1,000', 'Y5+': 'nil'}, 'annualized premium above Rs 50,000': {'Y1': '6%, max Rs 6,000', 'Y2': '4%, max Rs 5,000', 'Y3': '3%, max Rs 4,000', 'Y4': '2%, max Rs 2,000', 'Y5+': 'nil'}}, 'built-in', B, None,
+                             '1 20% 3000 6% 6000 2 15% 2000 4% 5000 3 10% 1500 3% 4000 4 5% 1000 2% 2000 5 and onwards Nil Nil'),
+  'switching_charge': F('nil; no limit on switches', 'built-in', B, None, 'All switches will be free of charge.'),
+  'partial_withdrawal_charge': F('nil', 'built-in', B, None, 'Partial withdrawals are free of any charge.'),
+  'premium_redirection_charge': F('nil; up to 6 a year', 'built-in', B, None, 'There is no charge for premium redirection.'),
+  'miscellaneous_charge': F('none', 'built-in', B, None, 'There are no miscellaneous charges.'),
+  'guarantee_charge': NS(), 'rider_charges': NS(), 'any_charge_returned': F(None, 'not offered', note='no return of charges'),
+ },
+ 'benefits': {
+  'death_benefit_formula': F({'variant 1': 'highest of sum assured, 105% of premiums paid and fund value', 'variant 2': 'lump sum (higher of sum assured and 105% of premiums), then Family Income Benefit of 1% of sum assured a month (36 to 120 payments), company funds all future premiums, fund value paid at maturity'}, 'built-in', B, None,
+                             'iii. Total Fund Value (as on the date of death)', quote_2='A Family Income Benefit equal to 1% of the Sum Assured (5,000) payable monthly'.replace(' (5,000) payable monthly', '') , quote_3='subject to a minimum of 36 monthly payments and a maximum of 120 monthly payments'),
+  'maturity_benefit': F('fund value at maturity; settlement option up to 5 years', 'built-in', B, None, 'equal to the Fund Value, where the Fund Value will be calculated as:'),
+  'loyalty_additions': F(None, 'not offered', note='the prospectus describes no loyalty additions'),
+  'wealth_boosters_or_guaranteed_additions': NS(), 'return_of_mortality_charges': NS(), 'return_of_premium_allocation_charges': NS(), 'return_of_policy_admin_charges': NS(), 'other_additions': NS(),
+ },
+ 'flexibility': {
+  'fund_switching': F('unlimited free switches; minimum Rs 5,000', 'optional (during term)', B, None, 'subject to a minimum Switch amount of ₹ 5,000.'),
+  'premium_redirection': F('up to 6 free redirections a year', 'optional (during term)', B, None, 'A maximum of six premium redirections are allowed in any Policy year.'),
+  'partial_withdrawals': F({'from': 'after 5 policy years', 'frequency': 'up to 2 a year', 'minimum': 'Rs 5,000', 'maximum': '50% of fund value in a policy year; fund must stay at least one annualized premium'}, 'optional (during term)', B, None,
+                           'The minimum amount of partial withdrawal allowed per transaction is ₹5,000.', quote_2='The maximum amount of partial withdrawal allowed in any policy year is 50% of the Fund Value', quote_3='A maximum of two partial withdrawals are allowed in any policy year.'),
+  'systematic_withdrawal_plan': NS(),
+  'top_up_premiums': F('not available', 'n/a', B, None, 'Top Up Not available in this plan'),
+  'settlement_option': F('maturity proceeds in instalments for up to 5 years, with risk cover of 105% of premiums paid', 'optional (during term)', B, None, 'with risk cover equal to 105% of the total'),
+  'premium_holiday_or_offset': NS(),
+  'increase_decrease_cover': F('reduce premium by up to 50% after year 5, once; sum assured falls in proportion', 'optional (during term)', B, None, 'you have an option to decrease the premium up to 50%'),
+  'change_ppt_or_term': NS(),
+  'policy_loan': F('not available', 'n/a', B, None, 'Policy loan Provisions Not available in this plan'),
+  'auto_portfolio_strategies': F([{'name': 'Dynamic Fund Allocation', 'mechanics': 'Growth Super Fund (or II) and Secure Fund in a split that moves to Secure Fund as maturity nears: 80/20 with 16 to 30 years left, 60/40, 40/60, 20/80 with 0 to 5 years left; chosen at inception only'}], 'optional (at inception)', B, None,
+                                 '16 – 30 80% 20% 11 – 15 60% 40% 6 - 10 40% 60% 0-5 20% 80%'),
+ },
+ 'funds': {
+  'fund_count': F(29, 'n/a', note='count from the prospectus charge table, excluding the Discontinuance Policy Fund'),
+  'fund_list': F(FUNDS, 'n/a', B, None, 'Balanced Fund (SFIN: ULIF00225/06/04LIFEBALANC104) 1.10%', 'name, SFIN and FMC from the prospectus charge table'),
+  'index_or_thematic_funds': F('BSE 500 Value 50 Index II, BSE Dividend Stability Index, Rising India Manufacturing, India Sector Leaders Opportunities, Midcap Momentum Index, Nifty Alpha 50, Nifty 500 Momentum 50, Nifty Momentum Quality 50, Sustainable Wealth 50 Index, Nifty 500 Multifactor 50 Index, BSE 500 Value 50 Index, BSE 500 Dividend Leaders 50 Index, Nifty Smallcap Quality Index funds; India Consumption Opportunities, Smart Innovation', 'n/a', B, None, 'Midcap Momentum Index Fund (SFIN: ULIF02801/01/24MIDMOMENTM104) 1.25%'),
+  'discontinued_policy_fund': F({'name': 'Discontinuance Policy Fund', 'SFIN': 'ULIF02021/06/13LIFEDISCON104', 'FMC': '0.50%', 'guaranteed return': '4.0% p.a.'}, 'built-in', B, None, 'The minimum guaranteed return on this Fund is 4.0% per annum'),
+ },
+ 'protection_add_ons': {
+  'waiver_of_premium_inbuilt': F('Variant 2: the company funds all future premiums after the death of the life insured', 'optional (at inception)', B, None, 'Funding of Premium: Under this benefit, the Company will fund all future outstanding'),
+  'critical_illness': F('via rider', 'rider', B, None, 'Axis Max Life Critical Illness and Disability Secure Rider (UIN: 104A034V02)'),
+  'accidental_death': F('via rider (Smart Ultra Protect, variants 2 and 3)', 'rider', B, None, 'Rider benefit variant 2 - Accidental Death Benefit'),
+  'terminal_illness': F('via rider (Smart Ultra Protect, variant 1)', 'rider', B, None, 'Term Booster with Accelerated Terminal Illness'),
+  'spouse_or_child_cover': NS(),
+  'riders_available': F(RIDERS, 'rider', B, None, 'Axis Max Life Smart Ultra Protect Rider (UIN: 104A049V03)', quote_2='Axis Max Life Critical Illness and Disability Secure Rider (UIN: 104A034V02)'),
+ },
+ 'surrender_revival': {
+  'lock_in_years': F(5, 'built-in', B, None, 'No Surrender/Discontinuance charge shall be levied from 5th Policy Year onwards.'),
+  'discontinuance_rules': F('discontinuance in the first 5 years moves the fund, less the charge, to the Discontinuance Policy Fund', 'built-in', B, None, 'available only on surrender or discontinuance of policy in first five policy years'),
+  'revival_period': NS(),
+  'surrender_value_rule': NS(),
+ },
+}
+build('104L098V06', spec,
+  new_features=[{'feature': 'Zero allocation and administration charge', 'description': 'Online savings plan with no allocation, admin or miscellaneous charge; only mortality and fund management charges apply', 'quote': '1. Premium Allocation Charge Nil', 'doc': B, 'page': None},
+                {'feature': 'Variant 2 Family Income Benefit', 'description': 'On death the company pays a lump sum, then 1% of sum assured monthly for 36 to 120 months, and funds all future premiums', 'quote': 'subject to a minimum of 36 monthly payments and a maximum of 120 monthly payments', 'doc': B, 'page': None}],
+  not_public=[])
