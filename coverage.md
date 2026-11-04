@@ -15,7 +15,7 @@ could be verified. "Not found" means the script and a manual look at the site di
 | Bandhan Life | 22 | 0 | 22 | 0 | 0 | 0 | 0 | 0 |
 | Bharti Life | 26 | 1 | 25 | 0 | 0 | 0 | 0 | 0 |
 | Canara HSBC Life | 24 | 0 | 0 | 0 | 0 | 0 | 0 | 24 |
-| Edelweiss Life | 20 | 0 | 0 | 0 | 0 | 0 | 0 | 20 |
+| Edelweiss Life | 20 | 0 | 18 | 0 | 2 | 0 | 0 | 0 |
 | Generali Central Life | 17 | 0 | 17 | 0 | 0 | 0 | 0 | 0 |
 | Go Digit Life | 5 | 0 | 0 | 0 | 0 | 0 | 0 | 5 |
 | HDFC Life | 47 | 6 | 41 | 0 | 0 | 0 | 0 | 0 |
@@ -30,12 +30,14 @@ could be verified. "Not found" means the script and a manual look at the site di
 | Shriram Life | 26 | 1 | 25 | 0 | 0 | 0 | 0 | 0 |
 | Star Union Dai-ichi Life | 33 | 0 | 0 | 0 | 0 | 0 | 0 | 33 |
 | Tata AIA Life | 38 | 1 | 34 | 0 | 3 | 0 | 0 | 0 |
-| **Total** | 633 | 14 | 310 | 0 | 4 | 0 | 0 | 305 |
+| **Total** | 633 | 14 | 328 | 0 | 6 | 0 | 0 | 285 |
 
 ## Manual-download list
 Products whose documents could not be fetched automatically. Each line gives the product, UIN, the insurer page to visit, and which document is missing.
 
 - **Ageas Federal Life**: Ageas Federal Life Insurance Guaranteed Lifetime Income Plan (`135N073V04`): brochure missing (not found). Visit (no product page found; see notes). 47 PDF links seen on 1 pages; none verified (product code not in text or no match); no product page or document on ageasfederal.com (sitemap and savings-plans pages checked)
+- **Edelweiss Life**: Edelweiss Life - Flexi-Savings Plan (`147N075V04`): brochure missing (not found). Visit (no product page found; see notes). 18 PDF links seen on 7 pages; none verified (product code not in text or no match); edelweisslife.in/flexi-savings-plan returns 404 although listed in sitemap.xml; no brochure found elsewhere on the site
+- **Edelweiss Life**: Edelweiss Life - Premier Guaranteed STAR Pro (`147N115V02`): brochure missing (not found). Visit (no product page found; see notes). 7 PDF links seen on 2 pages; none verified (product code not in text or no match); not on edelweisslife.in product listing or sitemap; /premier-guaranteed-star is a different product (147N077V05)
 - **Tata AIA Life**: Tata AIA Life Insurance POS Saat Saath - Micro Insurance Product (`110N134V04`): brochure missing (not found). Visit (no product page found; see notes). 18 PDF links seen on 1 pages; none verified (product code not in text or no match); POS variant: listed Active on tataaia.com/active-and-withdrawn-product-status.html but no product page or document link on tataaia.com (sitemap, status page, base-product page checked)
 - **Tata AIA Life**: Tata AIA Life Insurance POS Smart Income Plus (`110N148V07`): brochure missing (not found). Visit (no product page found; see notes). 18 PDF links seen on 1 pages; none verified (product code not in text or no match); POS variant: listed Active on tataaia.com/active-and-withdrawn-product-status.html but no product page or document link on tataaia.com (sitemap, status page, base-product page checked)
 - **Tata AIA Life**: Tata AIA Life Insurance Sampoorna Raksha Supreme Plan (`110N160V06`): brochure missing (not found). Visit https://www.tataaia.com/sampoorna-raksha-supreme/non-linked-comprehensive-protection.html. 37 PDF links seen on 8 pages; none verified (product code not in text or no match); listed Active (V06) on tataaia.com status page; product pages tataaia.com/sampoorna-raksha-supreme.html and /sampoorna-raksha-supreme/non-linked-comprehensive-protection.html link no brochure or policy document
