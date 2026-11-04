@@ -1,0 +1,471 @@
+[
+ {
+  "feature": "ppt_single_pay",
+  "applies_to": "ALL",
+  "regex": "single (premium|pay)\\b",
+  "exclude": null,
+  "definition": "Single premium payment option"
+ },
+ {
+  "feature": "ppt_limited_pay",
+  "applies_to": "ALL",
+  "regex": "limited (premium|pay)",
+  "exclude": null,
+  "definition": "Limited premium payment option"
+ },
+ {
+  "feature": "ppt_regular_pay",
+  "applies_to": "ALL",
+  "regex": "regular (premium|pay)",
+  "exclude": null,
+  "definition": "Regular premium payment option"
+ },
+ {
+  "feature": "pay_till_60",
+  "applies_to": "Protection",
+  "regex": "pay till (age )?60|premium payment.{0,20}till age 60",
+  "exclude": null,
+  "definition": "Pay till age 60 option"
+ },
+ {
+  "feature": "monthly_mode",
+  "applies_to": "ALL",
+  "regex": "\\bmonthly\\b",
+  "exclude": "monthly income|monthly annuity|monthly payout",
+  "definition": "Monthly premium mode available"
+ },
+ {
+  "feature": "whole_life_cover",
+  "applies_to": "Protection",
+  "regex": "whole life|up ?to (age )?(99|100)|till (age )?(99|100)",
+  "exclude": null,
+  "definition": "Cover to age 99/100"
+ },
+ {
+  "feature": "return_of_premium",
+  "applies_to": "Protection",
+  "regex": "return of (total )?premium|\\bROP\\b|premiums? (paid )?(back|returned) on (survival|maturity)",
+  "exclude": null,
+  "definition": "Return of premium on survival"
+ },
+ {
+  "feature": "zero_cost_exit",
+  "applies_to": "Protection",
+  "regex": "zero cost|special exit|smart exit|exit option|early exit",
+  "exclude": null,
+  "definition": "Zero-cost / special exit (premiums back mid-term)"
+ },
+ {
+  "feature": "increasing_cover",
+  "applies_to": "Protection",
+  "regex": "increasing (sum assured|cover|life cover)",
+  "exclude": null,
+  "definition": "Increasing cover option"
+ },
+ {
+  "feature": "decreasing_cover",
+  "applies_to": "Protection",
+  "regex": "decreasing (sum assured|cover)|reducing cover",
+  "exclude": null,
+  "definition": "Decreasing / reducing cover option"
+ },
+ {
+  "feature": "life_stage_increase",
+  "applies_to": "ALL",
+  "regex": "(increase|enhance)\\w*.{0,50}(cover|sum assured).{0,80}(marriage|birth|child|home loan)|life ?stage (event|benefit|option|cover)|(marriage|childbirth|birth of).{0,60}(increase|enhance)",
+  "exclude": null,
+  "definition": "Increase cover at life events"
+ },
+ {
+  "feature": "top_up_cover",
+  "applies_to": "Protection",
+  "regex": "top[- ]?up (sum assured|cover)",
+  "exclude": null,
+  "definition": "Top-up of cover"
+ },
+ {
+  "feature": "spouse_joint_cover",
+  "applies_to": "Protection",
+  "regex": "(cover|insure|protect)\\w*.{0,40}(spouse|joint life)|(spouse|joint life).{0,40}(cover|protection)",
+  "exclude": "nominat",
+  "definition": "Spouse / joint life cover"
+ },
+ {
+  "feature": "terminal_illness",
+  "applies_to": "ALL",
+  "regex": "terminal illness",
+  "exclude": null,
+  "definition": "Terminal illness benefit"
+ },
+ {
+  "feature": "critical_illness_inbuilt_or_option",
+  "applies_to": "ALL",
+  "regex": "critical illness",
+  "exclude": null,
+  "definition": "Critical illness (inbuilt, option or rider)"
+ },
+ {
+  "feature": "accidental_death_extra",
+  "applies_to": "ALL",
+  "regex": "accident(al)? death",
+  "exclude": null,
+  "definition": "Accidental death benefit (option or rider)"
+ },
+ {
+  "feature": "disability_benefit",
+  "applies_to": "ALL",
+  "regex": "disabilit",
+  "exclude": null,
+  "definition": "Disability benefit / waiver"
+ },
+ {
+  "feature": "waiver_of_premium",
+  "applies_to": "ALL",
+  "regex": "waiver of premium|premium waiver|wop\\b",
+  "exclude": null,
+  "definition": "Waiver of premium (inbuilt/option/rider)"
+ },
+ {
+  "feature": "death_benefit_as_income",
+  "applies_to": "ALL",
+  "regex": "(monthly|regular|annual) income.{0,40}(nominee|family|death)|death benefit.{0,60}(instal|income)",
+  "exclude": null,
+  "definition": "Death benefit payable as income / instalments"
+ },
+ {
+  "feature": "women_specific_rates",
+  "applies_to": "Protection",
+  "regex": "(lower|discount|special|preferential).{0,30}(women|female)|(women|female).{0,30}(discount|lower premium|rates)",
+  "exclude": null,
+  "definition": "Discount / special rates for women"
+ },
+ {
+  "feature": "non_smoker_rates",
+  "applies_to": "Protection",
+  "regex": "non[- ]?smoker|tobacco",
+  "exclude": null,
+  "definition": "Smoker / non-smoker differentiated rates"
+ },
+ {
+  "feature": "online_discount",
+  "applies_to": "ALL",
+  "regex": "online.{0,30}discount|discount.{0,30}online",
+  "exclude": null,
+  "definition": "Online purchase discount"
+ },
+ {
+  "feature": "high_sa_rebate",
+  "applies_to": "ALL",
+  "regex": "high sum assured (rebate|discount)|large sum assured",
+  "exclude": null,
+  "definition": "High sum-assured rebate"
+ },
+ {
+  "feature": "salaried_discount",
+  "applies_to": "ALL",
+  "regex": "salaried",
+  "exclude": null,
+  "definition": "Salaried discount / variant"
+ },
+ {
+  "feature": "free_health_checkup_wellness",
+  "applies_to": "ALL",
+  "regex": "health check|wellness|second (medical )?opinion",
+  "exclude": null,
+  "definition": "Health check-up / wellness services"
+ },
+ {
+  "feature": "guaranteed_income",
+  "applies_to": "Non-Par Savings,Par",
+  "regex": "guaranteed (monthly |regular |annual )?income",
+  "exclude": null,
+  "definition": "Guaranteed income payouts"
+ },
+ {
+  "feature": "lump_sum_maturity",
+  "applies_to": "Non-Par Savings,Par",
+  "regex": "lump ?sum.{0,60}(maturity|on survival|survival)|(maturity|survival) benefit.{0,80}lump ?sum",
+  "exclude": "death benefit.{0,40}lump|nominee",
+  "definition": "Lump-sum maturity option"
+ },
+ {
+  "feature": "income_plus_lumpsum",
+  "applies_to": "Non-Par Savings,Par",
+  "regex": "income.{0,40}(and|plus|\\+).{0,20}lump ?sum|lump ?sum.{0,40}(and|plus|\\+).{0,20}income",
+  "exclude": null,
+  "definition": "Income + lump-sum combination"
+ },
+ {
+  "feature": "whole_life_income",
+  "applies_to": "Non-Par Savings,Par",
+  "regex": "(till|up ?to) (age )?(99|100)|whole life",
+  "exclude": null,
+  "definition": "Income/cover to age 99/100 (whole-life)"
+ },
+ {
+  "feature": "immediate_income",
+  "applies_to": "Non-Par Savings,Par",
+  "regex": "(income|payout)s? (start|begin|from).{0,25}(1st|first|2nd|second) (policy )?year|immediate income|early income",
+  "exclude": null,
+  "definition": "Income starting from year 1-2"
+ },
+ {
+  "feature": "deferment_choice",
+  "applies_to": "Non-Par Savings,Par",
+  "regex": "deferment period|deferred period",
+  "exclude": null,
+  "definition": "Choice of deferment period"
+ },
+ {
+  "feature": "return_of_premiums_at_end",
+  "applies_to": "Non-Par Savings,Par",
+  "regex": "(return|refund) of (total |100% of )?premiums? (paid|payable)|premiums? (paid )?(returned|back) at (the end|maturity)",
+  "exclude": "proportionate risk|objection|medical exam|stamp duty|death benefit|suicide|restricted",
+  "definition": "Premiums returned at end of income period"
+ },
+ {
+  "feature": "guaranteed_additions",
+  "applies_to": "Non-Par Savings,Par",
+  "regex": "guaranteed addition",
+  "exclude": null,
+  "definition": "Guaranteed additions"
+ },
+ {
+  "feature": "loyalty_additions",
+  "applies_to": "ALL",
+  "regex": "loyalty addition",
+  "exclude": null,
+  "definition": "Loyalty additions"
+ },
+ {
+  "feature": "cash_bonus",
+  "applies_to": "Par",
+  "regex": "cash bonus",
+  "exclude": null,
+  "definition": "Cash bonus (par)"
+ },
+ {
+  "feature": "reversionary_bonus",
+  "applies_to": "Par",
+  "regex": "reversionary bonus",
+  "exclude": null,
+  "definition": "Reversionary bonus (par)"
+ },
+ {
+  "feature": "terminal_bonus",
+  "applies_to": "Par",
+  "regex": "terminal bonus",
+  "exclude": null,
+  "definition": "Terminal bonus (par)"
+ },
+ {
+  "feature": "survival_benefit_money_back",
+  "applies_to": "Par,Non-Par Savings",
+  "regex": "survival benefits? (of|equal to|is|are|shall be|will be|payable).{0,80}(%|every|end of (each|the|policy year))|money ?back",
+  "exclude": "no survival benefit|survival benefit:? (is )?(not|nil)",
+  "definition": "Periodic survival benefits (money-back)"
+ },
+ {
+  "feature": "premium_offset_or_holiday",
+  "applies_to": "ALL",
+  "regex": "premium (offset|holiday)",
+  "exclude": null,
+  "definition": "Premium offset / premium holiday"
+ },
+ {
+  "feature": "policy_loan",
+  "applies_to": "Non-Par Savings,Par,Annuity",
+  "regex": "policy loan|loan (facility|available|against)",
+  "exclude": null,
+  "definition": "Policy loan available"
+ },
+ {
+  "feature": "child_payor_benefit",
+  "applies_to": "ALL",
+  "regex": "payor|parent.{0,30}(death|waiv)|(death|waiv).{0,30}parent|proposer.{0,30}death",
+  "exclude": null,
+  "definition": "Payor / parent waiver (inbuilt or via rider)"
+ },
+ {
+  "feature": "fund_switch",
+  "applies_to": "ULIP",
+  "regex": "switch",
+  "exclude": null,
+  "definition": "Fund switching"
+ },
+ {
+  "feature": "free_switches_unlimited",
+  "applies_to": "ULIP",
+  "regex": "unlimited (free )?switch|switch(es)?.{0,30}unlimited|free of (any )?charge.{0,40}switch",
+  "exclude": null,
+  "definition": "Unlimited free switches"
+ },
+ {
+  "feature": "premium_redirection",
+  "applies_to": "ULIP",
+  "regex": "premium redirection|redirect",
+  "exclude": null,
+  "definition": "Premium redirection"
+ },
+ {
+  "feature": "partial_withdrawal",
+  "applies_to": "ULIP,Non-Par Savings",
+  "regex": "partial withdrawal",
+  "exclude": null,
+  "definition": "Partial withdrawals"
+ },
+ {
+  "feature": "systematic_withdrawal",
+  "applies_to": "ULIP",
+  "regex": "systematic withdrawal|swp\\b",
+  "exclude": null,
+  "definition": "Systematic withdrawal plan"
+ },
+ {
+  "feature": "top_up_premium",
+  "applies_to": "ULIP",
+  "regex": "top[- ]?up premium",
+  "exclude": null,
+  "definition": "Top-up premiums"
+ },
+ {
+  "feature": "return_of_mortality_charges",
+  "applies_to": "ULIP",
+  "regex": "return of mortality|mortality charges?.{0,30}(return|refund|added back)",
+  "exclude": null,
+  "definition": "Return of mortality charges (TULIP feature)"
+ },
+ {
+  "feature": "return_of_allocation_charges",
+  "applies_to": "ULIP",
+  "regex": "return of (premium )?allocation|allocation charges?.{0,40}(return|refund|added back)",
+  "exclude": null,
+  "definition": "Return of premium allocation charges"
+ },
+ {
+  "feature": "wealth_boosters",
+  "applies_to": "ULIP",
+  "regex": "wealth booster|booster",
+  "exclude": null,
+  "definition": "Wealth boosters"
+ },
+ {
+  "feature": "auto_strategies",
+  "applies_to": "ULIP",
+  "regex": "systematic transfer|life ?cycle|auto(matic)? (asset|rebalanc|trigger)|stp\\b|portfolio strateg|trigger",
+  "exclude": null,
+  "definition": "Automatic portfolio strategies (life-cycle, STP, triggers)"
+ },
+ {
+  "feature": "settlement_option",
+  "applies_to": "ULIP",
+  "regex": "settlement option",
+  "exclude": null,
+  "definition": "Settlement option at maturity"
+ },
+ {
+  "feature": "nil_premium_allocation_charge",
+  "applies_to": "ULIP",
+  "regex": "(premium allocation charge|allocation charge).{0,60}\\b(nil|zero|0\\s*%)",
+  "exclude": null,
+  "definition": "Nil premium allocation charge"
+ },
+ {
+  "feature": "nil_policy_admin_charge",
+  "applies_to": "ULIP",
+  "regex": "(policy administration charge|admin(istration)? charge).{0,60}\\b(nil|zero)",
+  "exclude": null,
+  "definition": "Nil policy admin charge"
+ },
+ {
+  "feature": "pension_ulip_guaranteed_vesting",
+  "applies_to": "ULIP",
+  "regex": "vesting",
+  "exclude": null,
+  "definition": "Pension vesting (pension ULIP)"
+ },
+ {
+  "feature": "annuity_life",
+  "applies_to": "Annuity",
+  "regex": "life annuity|annuity (for|payable for) life",
+  "exclude": null,
+  "definition": "Life annuity"
+ },
+ {
+  "feature": "return_of_purchase_price",
+  "applies_to": "Annuity",
+  "regex": "return of (the )?purchase price|\\bROP\\b|purchase price.{0,30}(returned|refund)",
+  "exclude": null,
+  "definition": "Return of purchase price"
+ },
+ {
+  "feature": "joint_life_annuity",
+  "applies_to": "Annuity",
+  "regex": "joint life",
+  "exclude": null,
+  "definition": "Joint life annuity"
+ },
+ {
+  "feature": "increasing_annuity",
+  "applies_to": "Annuity",
+  "regex": "(increas|escalat)ing annuity|annuity (increas|escalat)",
+  "exclude": null,
+  "definition": "Increasing / escalating annuity"
+ },
+ {
+  "feature": "deferred_annuity",
+  "applies_to": "Annuity",
+  "regex": "deferred annuity|deferment period",
+  "exclude": null,
+  "definition": "Deferred annuity"
+ },
+ {
+  "feature": "nps_annuity",
+  "applies_to": "Annuity",
+  "regex": "\\bNPS\\b|national pension",
+  "exclude": null,
+  "definition": "NPS-linked annuity purchase"
+ },
+ {
+  "feature": "critical_illness_rop_annuity",
+  "applies_to": "Annuity",
+  "regex": "critical illness",
+  "exclude": null,
+  "definition": "Purchase price back on critical illness"
+ },
+ {
+  "feature": "top_up_annuity",
+  "applies_to": "Annuity",
+  "regex": "top[- ]?up",
+  "exclude": null,
+  "definition": "Top-up annuity"
+ },
+ {
+  "feature": "riders_available",
+  "applies_to": "ALL",
+  "regex": "\\brider",
+  "exclude": "no riders?|riders? (are )?not (available|allowed)",
+  "definition": "Riders available"
+ },
+ {
+  "feature": "tax_benefit_mention",
+  "applies_to": "ALL",
+  "regex": "tax benefit",
+  "exclude": null,
+  "definition": "Tax benefit stated"
+ },
+ {
+  "feature": "nri_available",
+  "applies_to": "ALL",
+  "regex": "\\bNRI\\b|non[- ]resident",
+  "exclude": null,
+  "definition": "Available to NRIs / mentions NRI"
+ },
+ {
+  "feature": "pos_variant",
+  "applies_to": "ALL",
+  "regex": "\\bPOS\\b|point of sales?",
+  "exclude": null,
+  "definition": "POS variant / channel"
+ }
+]
