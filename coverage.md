@@ -20,7 +20,7 @@ could be verified. "Not found" means the script and a manual look at the site di
 | Go Digit Life | 5 | 0 | 0 | 0 | 0 | 0 | 0 | 5 |
 | HDFC Life | 47 | 6 | 41 | 0 | 0 | 0 | 0 | 0 |
 | ICICI Life | 38 | 0 | 0 | 0 | 0 | 0 | 0 | 38 |
-| IndiaFirst Life | 31 | 0 | 0 | 0 | 0 | 0 | 0 | 31 |
+| IndiaFirst Life | 31 | 0 | 31 | 0 | 0 | 0 | 0 | 0 |
 | IndusInd Nippon Life | 28 | 0 | 0 | 0 | 0 | 0 | 0 | 28 |
 | Kotak Mahindra Life | 30 | 0 | 0 | 0 | 0 | 0 | 0 | 30 |
 | LIC | 39 | 0 | 39 | 0 | 0 | 0 | 0 | 0 |
@@ -30,7 +30,7 @@ could be verified. "Not found" means the script and a manual look at the site di
 | Shriram Life | 26 | 1 | 25 | 0 | 0 | 0 | 0 | 0 |
 | Star Union Dai-ichi Life | 33 | 0 | 0 | 0 | 0 | 0 | 0 | 33 |
 | Tata AIA Life | 38 | 1 | 34 | 0 | 3 | 0 | 0 | 0 |
-| **Total** | 633 | 14 | 328 | 0 | 6 | 0 | 0 | 285 |
+| **Total** | 633 | 14 | 359 | 0 | 6 | 0 | 0 | 254 |
 
 ## Manual-download list
 Products whose documents could not be fetched automatically. Each line gives the product, UIN, the insurer page to visit, and which document is missing.
