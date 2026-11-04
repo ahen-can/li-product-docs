@@ -138,6 +138,113 @@ for i, (t, f) in enumerate(notes, 1):
         c.font = f
 ws.column_dimensions['A'].width = 160
 
+# ---- EoM breach, forbearance, show-cause notice: quotes and references
+EOM_Q = [
+    # (year, point, exact quote, source file, page, who, check status)
+    ('FY21', 'Excess charged to shareholders; industry forbearance application',
+     "We draw attention to Note No. 23 (c) of Notes forming part of financial statements regarding expenses incurred in excess of limits specified by IRDAI Expenses of Management Rules 2016, aggregating to Rs. 20,04,007 ('000) pertaining to FY 2020-21 charged to Shareholders Account. An application has been made by Life Council to IRDAI seeking forbearance on behalf of several life insurance companies.",
+     'fy21-annual-report', '60', 'Auditors (emphasis of matter)', 'Text layer'),
+    ('FY17-FY20', 'Forbearance history',
+     'The Company has received forbearance as per EOM Regulations, 2016 for the FY 2016-17, FY 2017-18 and FY 2018-19.The company has received forbearance for FY 2019-20 vide Letter No. 446/16/F&A-L/EoM/2019-20/ dated 23rd November 2020.',
+     'fy21-annual-report', '130', 'Company (notes to accounts)', 'Text layer'),
+    ('FY22', 'Excess charged; company applies for forbearance',
+     "...aggregating to ` 23,14,373 ('000) pertaining to F.Y. 2021-22 charged to Shareholders Account. An application has been made by the Company to IRDAI seeking forbearance of expenses in excess of the limits incurred for the F.Y: 2021-22 u/s 64K(l) of the IRDA Act.",
+     'fy22-annual-report.pdf', '43', 'Auditors (emphasis of matter)', 'Text layer'),
+    ('FY17-FY21', 'Forbearance granted up to FY21',
+     'The Company has received forbearance as per EOM Regulations, 2016 for the FY 2016-17, FY 2017-18, FY 201819, FY 2019-20 & FY 2020-21.',
+     'fy22-annual-report.pdf', '79', 'Company (notes to accounts)', 'Text layer'),
+    ('FY22', 'Forbearance application date',
+     'The company has applied to IRDAI for forbearance for F.Y. 2021-22 vide letter dated 14th March 2022, which is awaited.',
+     'fy22-annual-report.pdf', '80', 'Company (notes to accounts)', 'Text layer'),
+    ('FY23', 'Excess charged; company applies for forbearance',
+     "...aggregating to Rs. 20,97,385 ('000) pertaining to FY. 2022-23 charged to Shareholders Account. An application has been made by the Company to IRDAI seeking forbearance of expenses in excess of the limits incurred for the F.Y. 2022-23 u/s 64K(1) of the IRDA Act.",
+     'fy23-annual-report.pdf', '53', 'Auditors (emphasis of matter)', 'OCR; user checked the scan'),
+    ('FY22, FY23', 'FY22 forbearance granted; FY23 applied',
+     'IRDAI vide letter dated 7th December, 2022 having Ref no. 446/20/F&I-L/EoM/2021-22/75 have granted Forbearance for Expense of Management for FY 2021-22. The company has applied to IRDAI for forbearance for F.Y. 2022-23 vide letter dated 31st March 2023, which is awaited.',
+     'fy23-annual-report.pdf', '120', 'Company (notes to accounts)', 'OCR; wording as read by the user from the scan'),
+    ('FY23, FY24', 'Auditors flag both years',
+     'We draw attention to Note No. 23 (b) of Schedule 16 of Notes to Accounts forming part of financial statements on excess of Expense of Management for F.Y. 2022-2023 and F.Y. 2023-2024. Our opinion is not modified in respect of above matter.',
+     'fy24-annual-report.pdf', '51', 'Auditors (emphasis of matter)', 'Text layer'),
+    ('FY24', 'Excess charged; forbearance applied for FY23 and FY24',
+     "...such excess has been charged to shareholder account which amounts to Rs. 10,03,754 ('000) [Previous Year 20,97,387 ('000)]. ... The company has applied to IRDAI for forbearance for F.Y. 2022-23 vide letter dated 31st March 2023 & for F.Y. 2023-24 vide letter dated 22nd March 2024, which is awaited.",
+     'fy24-annual-report.pdf', '106', 'Company (notes to accounts)', 'Text layer'),
+    ('FY25', 'EoM over the 2024 Regulations limit; forbearance applied through Life Council',
+     "...with respect to the Company's 'Expense of Management' (EoM') ratio, which is in excess of the limits as per Insurance Regulatory and Development Authority of India (Expenses of Management, including Commission, of Insurers) Regulations, 2024. The Company has filed an application for forbearance for exceeding the EoM beyond the allowable limits for the financial year ended March 31, 2025, with IRDAI (through Life Council) vide email dated March 27, 2025. The grant of such forbearance is at IRDAI's discretion and so the impact of the same on the financial statements will depend on the final communication from IRDAI.",
+     'fy25-annual-report.pdf', '36-37', 'Auditors (emphasis of matter)', 'OCR'),
+    ('FY24, FY26', 'Forbearance up to FY24; 3-year plan to reach the limit by FY26',
+     'The Company has received forbearance as per EOM Regulations till Financial Year 2023-24. The company has applied to IRDAI for forbearance for Financial Year 2024-2025 vide email dated March 27, 2025. ... The Company has submitted the 3 years Board approved business plan on August 07, 2023 to bring the EOM within the prescribed limits by Financial Year 2025-2026.',
+     'fy25-annual-report.pdf', '87', 'Company (notes to accounts)', 'OCR; user checked the scan (OCR typos corrected)'),
+    ('FY25', 'EoM ratio 101%; par within limits',
+     'As at 31st March 2025, the EOM ratio at Company Level is 101%, Rs 879 lakhs and at Individual Participating segment it is within limits at 99%, The Company anticipates that EOM ratio for Financial Year 2025-2026 will be within the regulatory limit of 100%.',
+     'fy25-annual-report.pdf', '87', 'Company (notes to accounts)', 'OCR; user checked the scan'),
+    ('FY25', 'Show-cause notice received, response filed (auditors)',
+     "During the year, the Company has received a show-cause notice from the IRDAI against which the Company has filed its response. The grant of such forbearance is at IRDAI's discretion and so the impact of the same on the financial statements will depend on the final communication from IRDAI. Our opinion is not modified in respect of this matter.",
+     'fy26-annual-report.pdf', '40-41', 'Auditors (emphasis of matter)', 'OCR'),
+    ('FY26', 'Within the limit',
+     'Actual expenses incurred for FY 2025-26 are within the allowable limit so no amount have been charged to shareholder account towards the excess expense over the allowable limit as per IRDAI (Expenses of Management of Insurers transacting life insurance business) Regulations, 2024.',
+     'fy26-annual-report.pdf', '100', 'Company (notes to accounts)', 'OCR; user checked the scan'),
+    ('FY25', 'Show-cause notice date',
+     'The Company have received show-cause notice for FY 24-25 on 15th January, 2026 and response for same has been filed. The Company believes that they shall get this approval in accordance with applicable Expense of Management Regulations.',
+     'fy26-annual-report.pdf', '101', 'Company (notes to accounts)', 'OCR; user checked the scan'),
+    ('Rule', 'Forbearance is normally only for insurers in their first 5 years',
+     "16. Life Insurers: The Authority may exercise forbearance in case a Life insurer exceeds the limits of expenses of management on an overall basis in the Participating and Non-Participating (including Linked) business. Such forbearance may be exercised on a case to case basis in respect of insurers having 'duration of business' up to 5 years.",
+     'IRDAI (Expenses of Management, including Commission, of Insurers) Regulations, 2024; Gazette 23 Jan 2024, F. No. IRDAI/Reg/2/196/2024', '18', 'Regulator (regulation 16)', 'Downloaded from irdai.gov.in, document-detail?documentId=4359902'),
+    ('Rule', 'Transition route for insurers over the limit in FY24: back within limits by FY26',
+     '17. In case of an insurer having actual expenses of management more than the allowable expenses of management for the financial year 2023-24, the Authority, having regard to the business model of the insurer, may grant forbearance subject to the confirmation by its board that it shall bring its actual expenses within the allowable limits, within a period of 2 years i.e. by the end of financial year 2025-26.',
+     'IRDAI EoM Regulations 2024', '18', 'Regulator (regulation 17)', 'irdai.gov.in'),
+    ('Rule', 'Variable pay for MD/CEO/KMPs',
+     'In case the actual expenses of management of an insurer exceeds by 10 percent or more of the projected expenses of management levels as per the Business plan formulated in terms of Regulation 5, no variable pay shall be payable to Managing Director (MD) / Chief Executive Officer (CEO) / Whole-Time Directors (WTD) and Key Management Persons (KMPs) for the said financial year.',
+     'IRDAI EoM Regulations 2024', '19', 'Regulator (regulation 21)', 'irdai.gov.in'),
+    ('Rule', 'What IRDAI can do on a breach',
+     '22. Additional compliance: (1) In case an Insurer exceeds the limits of expenses as specified in these regulations or is not in compliance with the directions issued by the Authority in this regard; it may be subject to one or more of the following: (a) Excess to be charged to Profit and Loss Account; (b) Restrictions on opening of new places of business; (c) Administer a warning to the insurer; (d) Cause a valuation of the insurer to evaluate its financial health and soundness; (e) Penal action under section 102 of the Act; (f) Restriction of performance incentive to ... (KMPs); (g) Removal of Managerial Personnel and / or appointment of Administrator; (h) Any other action as specified in the Act. (2) ... also direct the insurer not to underwrite new business in one or more segments in case of repeated breach of the limits of expenses...',
+     'IRDAI EoM Regulations 2024', '19', 'Regulator (regulation 22)', 'irdai.gov.in'),
+    ('FY25 industry', '8 of 25 life insurers exceeded the limit in FY25 (not named)',
+     'During the year 2024-25, out of 25 life insurers in operation, 17 were compliant with the aforementioned regulations. Eight life insurers had exceeded the limits of expenses on an overall basis in Par/Non-Par (including Linked) business.',
+     'IRDAI Annual Report 2024-25 (lifeinscouncil.org/component/IRDAI Annual Report 2024-25.pdf)', 'PDF 40, para I.2.2.10', 'Regulator', 'Text layer'),
+    ('Aug 2026', 'What IRDAI did to two life insurers in the same position',
+     'The Insurance Regulatory and Development Authority of India (IRDAI) passed Orders against Edelweiss Life Insurance Co. Limited and Pramerica Life Insurance Limited for exceeding the permissible Expenses of Management (EoM) limits ... The insurers were warned for their failure to remain within the prescribed EoM limits and directed not to open any new place of business for a period of six months from the date of the Order, under Regulation 22(1)(b) and (c) of the EoM Regulations, 2024.',
+     'IRDAI press release, 21 Aug 2026 (irdai.gov.in document-detail?documentId=9753023)', '1', 'Regulator', 'irdai.gov.in'),
+    ('Aug 2026', 'Same action against two non-life insurers',
+     'The Insurance Regulatory and Development Authority of India (IRDAI) passed Orders against Acko General Insurance Limited and Niva Bupa Health Insurance Co. Limited for exceeding the permissible Expenses of Management (EoM) limits ...',
+     'IRDAI press release, 20 Aug 2026 (irdai.gov.in document-detail?documentId=9748708)', '1', 'Regulator', 'irdai.gov.in'),
+    ('Status 5 Nov 2026', 'No published IRDAI order against Bharti Life',
+     'IRDAI Warnings and Penalties page, page 1 (entries 25-11-2025 to 15-10-2026), lists orders against Edelweiss Life, Pramerica Life, Canara HSBC Life, Acko General, Niva Bupa and others. None names Bharti, Bharti AXA or Bharti Life.',
+     'irdai.gov.in/warnings-and-penalties', 'page 1 of 21', 'Our check', 'Checked 5 Nov 2026'),
+]
+OPEN_Q = [
+    'Has IRDAI decided the FY25 show-cause notice? No order was published as of 5 Nov 2026. Edelweiss Life and Pramerica Life got a warning and a 6-month ban on new branches in Aug 2026 for the same breach; ask whether Bharti received a similar order that is not yet published.',
+    'Why a show-cause notice at all? Regulation 17 gives insurers over the limit in FY24 until the end of FY26 to comply, subject to a board confirmation. Bharti\'s 7 Aug 2023 plan targets FY26. Did Bharti apply under regulation 17, and did IRDAI accept the plan?',
+    'Were FY23 and FY24 forbearance formally granted? The FY25 report says forbearance was received "till Financial Year 2023-24" but quotes no IRDAI letter reference for those years (FY22 has one: 446/20/F&I-L/EoM/2021-22/75).',
+    'Is Bharti one of the 8 life insurers that exceeded the limit in FY25 (IRDAI Annual Report 2024-25, para I.2.2.10)? Very likely at 101%, but the report does not name them.',
+    'Regulation 21: was EoM 10% or more above Bharti\'s business-plan projection in any year since FY25? If so, no variable pay for MD/CEO/KMPs that year. Check remuneration disclosures.',
+    'FY27 run-rate: Q1 FY27 EoM to gross premium was 47.7% (Q1 FY26: 38.4%). Q1 ratios are seasonally high, but worth tracking against the limit.',
+    'Proposed lower EoM limits: news reports in Oct 2026 (e.g. Business Standard) describe an IRDAI consultation paper cutting life EoM limits. Not yet checked on irdai.gov.in.',
+    'Other regulatory items in the FY26 annual report: an IND AS forbearance application (p14, p114); a Maharashtra GST order for FY2018-19 of Rs 3,452 lakh plus interest and penalty, dated 26 Apr 2024 (p90); transfer of a 15% stake by Bharti Life Ventures to 360 ONE funds during FY26 (p90).',
+]
+r0 = len(notes) + 3
+ws.cell(r0, 1, 'EoM breach, forbearance and the FY25 show-cause notice: quotes and references').font = TITLE
+ws.cell(r0 + 1, 1, 'Quotes are verbatim from the page cited (PDF page numbers). Annual reports are in Desktop/for-liprodanal-agent; IRDAI documents are on irdai.gov.in. "..." marks omitted text.')
+hdr = ['Year', 'Point', 'Exact quote', 'Source', 'Page', 'Who says it', 'Text quality / check']
+for j, h in enumerate(hdr, 1):
+    c = ws.cell(r0 + 2, j, h)
+    c.font = BOLD
+    c.fill = HFILL
+for i, row in enumerate(EOM_Q, r0 + 3):
+    for j, v in enumerate(row, 1):
+        c = ws.cell(i, j, v)
+        c.alignment = WRAP
+r1 = r0 + 3 + len(EOM_Q) + 1
+ws.cell(r1, 1, 'Open questions to look into').font = BOLD
+for i, q in enumerate(OPEN_Q, r1 + 1):
+    ws.cell(i, 1, f'{i - r1}.')
+    c = ws.cell(i, 2, q)
+    c.alignment = WRAP
+ws.column_dimensions['A'].width = 16
+for col, w in zip('BCDEFG', (34, 90, 36, 10, 22, 22)):
+    ws.column_dimensions[col].width = w
+for i in range(1, len(notes) + 1):
+    ws.cell(i, 1).alignment = Alignment(wrap_text=False)
+
 # ------------------------------------------------------------------ Bharti trend
 s = Sheet(wb.create_sheet('Bharti trend'))
 s.title('Bharti Life: premium trend FY21 to FY26, with Q1 FY26 and Q1 FY27',
