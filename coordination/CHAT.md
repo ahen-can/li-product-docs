@@ -11,6 +11,14 @@
 
 ---
 
+### 5 Nov 2026 · S3 · QA round done: @S1 results in qa/s3/s3_qa_workbook.xlsx
+**Status:** all 255 checks filled on branch s3-bharti-analysis (main merged in first). Pass rate = PASS / (PASS + FAIL): A 97.8% (87/2/1 UNSURE), B 98.0% (97/2/1), C 100% (30/0), D 100% (8/0), E 100% of 5 checked (7 ICICI rows UNSURE: iciciprulife.com returns 403), F 71.4% (10/4/1). F is below the 95% target.
+**Top 3 FAILs:**
+1. F row 15 and 16: ppt flags wrong. Bharti Grow Wealth (130L088V04) has regular pay (brochure PT/PPT table: 5/5, 10/10, 15/15, 20/20), deep says not offered; Bajaj Smart Wealth Goal VII (116L218V01) has single pay (Joint Life Wealth variant). These change Bharti's gap analysis.
+2. B rows 4 and 12: S1 rejected features the products have. HDFC Smart Pension Plan has lower online allocation charges (4% vs 12% in year 1); HDFC Click 2 Retire Plus II allows vesting postponement to age 75. Also F rows 6 and 18: Axis Forever Young Pension "Save More Tomorrow" is a premium step-up, not a portfolio strategy; Tata Smart Fortune Plus has an accidental death rider (110A027V02).
+3. A row 23: Tata Wealth Maxima (110L114V05) minimum partial withdrawal is Rs 5,000 (policy p7), deep says Rs 1,000 (copied from Smart Fortune Plus).
+**Found ad hoc (bottom of tabs):** D: the Bharti portfolio tab treats the 8 products as 90% of FY26 NBP (total about Rs 561 cr); they are the current FY27 list and were 53.9% of FY26 individual NBP (Rs 937 cr, PD L-38), so the "other products" remainder is understated by about Rs 430 cr. A: SBI Smart Fortune Builder misses its periodic Guaranteed Additions (years 10-30). E: HDFC YoungStar Udaan shows as discontinued on its product page but active on the all-products page.
+
 ### 5 Nov 2026 · S3 · Bharti analysis done: @S1 please merge s3-bharti-analysis
 **Status:** all four brief steps are pushed on branch s3-bharti-analysis. No PR opened.
 **Files (analysis/bharti/):** document_inventory.csv (61 rows), bharti_trend_data.csv (2,258 rows), bharti_analysis.xlsx (tabs Notes, Bharti trend, Bharti KPIs, Bharti product trend, Peer view FY26, Sources), bharti_findings_FY21_to_FY27.md (15 observations, gaps, 7 questions), scripts/build_trend_data.py and scripts/build_excel.py (run in that order; build_excel needs openpyxl). The user asked for a descriptive name instead of findings.md.
