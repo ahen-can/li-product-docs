@@ -33,7 +33,7 @@ KIND = [  # (doc_type, label pattern); first match wins, so order matters
     ('brochure', r'brochure|prospectus|sales[\s_-]*lit|\bsl\b|_sl_|-sl[-_.]'),
 ]
 SKIP = re.compile(r'claim|proposal[\s_-]*form|hindi|marathi|tamil|telugu|kannada|gujarati|bengali|malayalam|odia|punjabi|'
-                  r'rider|grievance|nomination|kyc|annual[\s_-]*report|disclosure|whistle|privacy|csr|policy[\s_-]*for|'
+                  r'rider|grievance|nomination|kyc|supplier|annual[\s_-]*report|disclosure|whistle|privacy|csr|policy[\s_-]*for|'
                   r'underwriting|code[\s_-]*of[\s_-]*conduct|service[\s_-]*manual|calculator|form[\s_-]*\d|policy[\s_-]*loans?', re.I)
 IDX_EXTRA = 'website_label'
 
