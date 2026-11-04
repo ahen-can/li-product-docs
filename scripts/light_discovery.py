@@ -92,6 +92,7 @@ def polite(domain):
     _last[domain] = time.time()
 
 def fetch(url, dest):
+    url = urllib.parse.quote(url, safe=":/?&=%#+@,;~!$*()'[]")      # raw spaces etc. in hrefs (Pramerica) break curl
     polite(urllib.parse.urlparse(url).netloc)
     r = subprocess.run(['curl', '-sSL', '--compressed', '--max-time', '90', '-A', UA, '-H', 'Accept-Language: en-IN,en;q=0.9',
                         '-o', dest, '-w', '%{http_code}\t%{url_effective}', url], capture_output=True, text=True)
@@ -153,7 +154,8 @@ def pdf_text(p):
     return subprocess.run(['pdftotext', '-layout', p, '-'], capture_output=True, text=True).stdout
 
 WRONG_KIND = re.compile(r'customer information sheet|know your policy|benefit illustration|illustration of benefits|proposal form|'
-                        r'mortality (rate|charge)s? (table|for)|fund fact ?sheet|premium rate(s)? table|annuity rate(s)? table|surrender value factor', re.I)
+                        r'mortality (rate|charge)s? (table|for)|fund fact ?sheet|premium rate(s)? table|annuity rate(s)? table|surrender value factor|'
+                        r'^\W*appendix|guaranteed maturity benefit (table|factor)', re.I)
 def doc_kind_problem(txt, prod):
     """Why this is not the product's brochure/policy document ('' if it looks right)."""
     pages = txt.split('\f')
@@ -298,7 +300,7 @@ def main():
                     sc = score(u, t, prod, on_product_page=(pg in prod_pages))
                     if u not in cands or sc > cands[u][0]: cands[u] = (sc, pg, t)
             # also follow the product's own page if a seed page links to it by name (one hop)
-            if pg in SEEDS.get(slug, []):
+            if pg in SEEDS.get(slug, []) and not prod.get('website_product_page_url'):   # only when the product page is unknown
                 toks = name_tokens(prod['product_name'])
                 for u, t in page_links(pg, a.tmp):
                     if toks and not u.lower().endswith('.pdf') and not BROCHURE_WORDS.search(u) and sum(1 for k in toks if k in (u + ' ' + t).lower()) >= max(1, len(toks) - 1) \
@@ -327,8 +329,10 @@ def main():
                 ocr_used = 'scanned - text by OCR' if len(pdf_text(tmp).strip()) / npg < 200 else 'UIN and text read by OCR (image-heavy PDF)'
             flat = re.sub(r'\s+', '', txt)
             code_rx = ''.join('[0O]' if c == '0' else c for c in prod['product_code']) + r'V\d{2}'   # some PDFs print letter O for zero
+            if ocr_used and prod['product_code']:                     # OCR may also insert a stray 'O' after N/L (136NO084V05)
+                code_rx = prod['product_code'][:4] + 'O?' + ''.join('[0O]' if c == '0' else c for c in prod['product_code'][4:]) + r'V\d{2}'
             raw_uins = sorted(set(re.findall(code_rx, flat))) if prod['product_code'] else []
-            uins = sorted(set(x[:4] + x[4:].replace('O', '0') for x in raw_uins))
+            uins = sorted(set(x[:4] + x[4:].replace('O', '0')[-6:] if ocr_used else x[:4] + x[4:].replace('O', '0') for x in raw_uins))
             o_note = f"UIN printed as {','.join(x for x in raw_uins if 'O' in x[4:])} (letter O for zero)" if any('O' in x[4:] for x in raw_uins) else ''
             if prod['product_code'] and not uins: continue            # wrong document: product code not in text
             if doc_kind_problem(txt, prod): continue                  # CIS / BI / rate table / rider / other product
