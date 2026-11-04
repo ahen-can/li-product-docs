@@ -1,0 +1,97 @@
+import sys; sys.path.insert(0, 'scripts'); sys.path.insert(0, 'scripts/ulip_specs')
+from ulip_json import F, NS, build
+from ageas_common import funds, mortality
+B = 'Prospectus'
+MORT = mortality('text/ageas-federal/135L082V02/brochure.txt', 'Mortality Charge Rates per Rs 1,000')
+FMC = {'Equity Growth Fund': 1.35, 'Midcap Fund': 1.35, 'Multicap Fund': 1.35, 'Momentum Growth Fund': 1.35, 'India Sector Leaders Fund': 1.35, 'Enhanced Value Fund': 1.35, 'Pure Fund': 1.35,
+       'Aggressive Asset Allocator Fund': 1.35, 'Moderate Asset Allocator Fund': 1.35, 'Bond Fund II': 1.25}
+RISK = {'Equity Growth Fund': 'returns likely high, risk high', 'Midcap Fund': 'returns likely high, risk high', 'Multicap Fund': 'risk moderate to high', 'Momentum Growth Fund': 'returns likely high, risk high',
+        'India Sector Leaders Fund': 'returns likely high, risk high', 'Enhanced Value Fund': 'returns likely high, risk high', 'Pure Fund': 'returns likely high, risk high', 'Bond Fund II': 'returns likely moderate, risk moderate',
+        'Aggressive Asset Allocator Fund': 'returns high, risk high', 'Moderate Asset Allocator Fund': 'returns high, risk high, lower than Aggressive'}
+ALLOC = {'Equity Growth Fund': 'equity 50-100%, cash and money market 0-50%', 'Midcap Fund': 'mid cap stocks 50-100%, large cap 0-50%, cash and money market 0-50%', 'Multicap Fund': 'equity 50-100%, cash and money market 0-50%',
+         'Momentum Growth Fund': 'equity 90-100%, cash and money market 0-10%', 'India Sector Leaders Fund': 'equity 90-100%, cash and money market 0-10%', 'Enhanced Value Fund': 'equity 90-100%, cash and money market 0-10%',
+         'Pure Fund': 'equity 80-100%, cash and money market 0-20%', 'Bond Fund II': 'fixed income 50-100%, money market 0-50%', 'Aggressive Asset Allocator Fund': 'equity 50-100%, money market 0-50%, fixed income 0-50%',
+         'Moderate Asset Allocator Fund': 'fixed income 50-100%, money market 0-50%, equity 0-50%'}
+spec = {
+ 'product': {
+  'uin': F('135L082V02', 'n/a', B, None, '(UIN: 135L082V02)'),
+  'uin_in_brochure': F('135L082V02', 'n/a', B, None, '(UIN: 135L082V02)'),
+  'product_name': F('Ageas Federal Life Insurance Wealthsurance Growth Insurance Plan SP II', 'n/a', B, None, 'Wealthsurance Growth Insurance Plan SP II'),
+  'irdai_description_line': F('A Single Premium, Non-participating, Unit Linked, Individual Life, Insurance Plan', 'n/a', B, None, 'A Single Premium, Non-participating, Unit Linked, Individual Life, Insurance Plan'),
+  'launch_or_version_date': NS(), 'target_segment_stated': NS(),
+  'variants_or_plan_options': NS(),
+  'online_offline': NS(),
+ },
+ 'eligibility': {
+  'entry_age_min': F('1 month completed', 'n/a', B, None, 'Minimum 1 month completed'),
+  'entry_age_max': F(70, 'n/a', B, None, 'Maximum 70 years'),
+  'maturity_age_min': F(18, 'n/a', B, None, 'Minimum 18 years'),
+  'maturity_age_max': F(76, 'n/a', B, None, 'Maximum 76 years'),
+  'policy_term_options': F('6, 10, 15, 20 or 25 years', 'n/a', B, None, 'Fixed options 6 years / 10 years/ 15 years/ 20 years/ 25 years'),
+  'ppt_options': F('single premium', 'n/a', B, None, 'Premium paying term Single premium'),
+  'premium_min_annual': F(None, 'not offered', note='single premium only'),
+  'premium_min_single': F(50000, 'n/a', B, None, 'Minimum Rs 50,000'),
+  'premium_max': F('no limit, subject to the Board approved underwriting policy', 'n/a', B, None, 'No Limit (subject to Board approved underwriting policy)'),
+  'sum_assured_rule': F({'age at maturity up to 48': '1.25 times or 10 times the single premium', 'age at maturity over 48': '1.25 times the single premium'}, 'built-in', B, None, '1.25 times or 10 times Single premium', quote_2='1.25 times Single Premium'),
+  'premium_modes': F(['single'], 'n/a', B, None, 'Premium paying term Single premium'),
+  'life_cover_multiple_choice': F('death sum assured multiple chosen by the policyholder', 'optional (at inception)', B, None, 'Choose the death sum assured'),
+ },
+ 'charges': {
+  'premium_allocation_charge': F({'year 1': '0.50% of the single premium'}, 'built-in', B, None, '% of Single Premium 0.50% p.a'),
+  'policy_administration_charge': F({'first 5 policy years': '0.10% of the single premium a month', 'year 6 to the end of the term': '0.05% of the single premium a month', 'cap': 'Rs 500 a month'}, 'built-in', B, None,
+                                    'First 5 years Year 6 onwards till the end of the policy term', quote_2='0.10% p.m. 0.05% p.m.', quote_3='The maximum policy administration charge is Rs.500 per month.'),
+  'fund_management_charge': F({k: f'{v:.2f}%' for k, v in FMC.items()} | {'Discontinued Policy Fund': '0.50%'}, 'built-in', B, None, '1.35% p.a.', quote_2='Bond Fund II 1.25% p.a.', quote_3='Discontinued policy fund 0.50% p.a.'),
+  'mortality_charge': F({'basis': '1/12 of the annual rate per 1,000 sum at risk, by age and gender; guaranteed for the policy term', 'rate_per_1000_sum_at_risk_by_age': {'male': MORT['male'], 'female': MORT['female']}}, 'built-in', B, None,
+                        '0 0.92 0.92 28 0.94 0.93 56 8.21 6.17', 'full table, ages 0 to 81', quote_2='26 0.93 0.94 54 6.83 4.97'),
+  'discontinuance_charge': F({'single premium up to Rs 3,00,000': {'Y1': 'lower of 2% of SP or FV, max Rs 3,000', 'Y2': '1.5%, Rs 2,000', 'Y3': '1%, Rs 1,500', 'Y4': '0.5%, Rs 1,000', 'Y5+': 'nil'},
+                              'single premium above Rs 3,00,000': {'Y1': 'lower of 1%, max Rs 6,000', 'Y2': '0.70%, Rs 5,000', 'Y3': '0.50%, Rs 4,000', 'Y4': '0.35%, Rs 2,000', 'Y5+': 'nil'}}, 'built-in', B, None,
+                             'Lower of 2%* (SP or FV) Lower of 1% *(SP or FV)', quote_2='Lower of 1.5%* (SP or FV) Lower of 0.70% *(SP or FV)', quote_3='Lower of 1%* (SP or FV) Lower of 0.50%* (SP or FV)', quote_4='Lower of 0.5%* (SP or FV) Lower of 0.35% *(SP or FV)'),
+  'switching_charge': F('nil now; the insurer may introduce up to Rs 500 per request', 'built-in', B, None, 'There are currently no charges for switching between funds.', quote_2='switching charge of up to Rs 500 per request'),
+  'partial_withdrawal_charge': F('nil now; the insurer may introduce up to Rs 500 per request', 'built-in', B, None, 'There are currently no charges for partial withdrawals.', quote_2='partial withdrawal charge of up to Rs.500 per request'),
+  'premium_redirection_charge': NS(), 'miscellaneous_charge': NS(), 'guarantee_charge': NS(), 'rider_charges': NS(), 'any_charge_returned': NS(),
+ },
+ 'benefits': {
+  'death_benefit_formula': F('higher of death sum assured, fund value and 105% of the single premium paid', 'built-in', B, None, '105% of the Single Premium2 Paid', quote_2='Death Sum Assured, or'),
+  'maturity_benefit': F('fund value including loyalty additions at maturity', 'built-in', B, None, 'Fund Value including Loyalty Additions shall be paid on the'),
+  'loyalty_additions': F({'rate': '3% of the average fund value in the last 36 months', 'timing': 'end of the 6th policy year, the 10th and every 5 years after'}, 'built-in', B, None,
+                         'Loyalty additions will be 3% of the average fund value in the last 36 months', quote_2='at the end of 6th policy year, 10th policy year and every 5'),
+  'wealth_boosters_or_guaranteed_additions': NS(),
+  'return_of_mortality_charges': NS(), 'return_of_premium_allocation_charges': NS(), 'return_of_policy_admin_charges': NS(), 'other_additions': NS(),
+ },
+ 'flexibility': {
+  'fund_switching': F('free of charge, any number of times (the insurer may add up to Rs 500 a request)', 'optional (during term)', B, None, 'switch and change your investment options, any number of times', quote_2='free of charge'),
+  'premium_redirection': NS(),
+  'partial_withdrawals': F({'from': 'after the 5-year lock-in, any frequency', 'maximum': '20% of the fund value at the start of the policy year', 'minimum': 'Rs 10,000, leaving at least Rs 10,000 in the fund'}, 'optional (during term)', B, None,
+                           'The maximum partial withdrawal allowed in a year is 20% of the fund value', quote_2='The minimum amount of any partial withdrawal is Rs 10,000'),
+  'systematic_withdrawal_plan': NS(),
+  'top_up_premiums': F(None, 'not offered', B, None, 'The policy does not have an option of Top-up premium.'),
+  'settlement_option': F('maturity proceeds paid in annual instalments over up to 5 years', 'optional (during term)', B, None, 'settlement option up to a maximum period of 5 years'),
+  'premium_holiday_or_offset': NS(),
+  'increase_decrease_cover': F('facility to increase or decrease life cover; the brochure gives no rules', 'optional (during term)', B, None, 'Facility to increase or decrease life'),
+  'change_ppt_or_term': NS(), 'policy_loan': NS(),
+  'auto_portfolio_strategies': F([{'name': 'AutoSwitcher', 'mechanics': 'fixed amount switched monthly from one fund to another, at least Rs 500 for at least 6 months'},
+                                  {'name': 'Systematic Allocator', 'mechanics': 'moves from Equity Growth Fund to Bond Fund II as maturity nears'}], 'optional (at inception)', B, None,
+                                 'Transfer Amount Rs. 500', quote_2='Systematic Allocator may be chosen at the beginning of the plan'),
+ },
+ 'funds': {
+  'fund_count': F(10, 'n/a', B, None, 'Wealthsurance SP II offers 10 unit linked funds'),
+  'fund_list': F(funds(FMC, RISK, ALLOC), 'n/a', B, None, 'ULIF04111/01/08 EQOPP135', 'SFINs as printed in the policy document (the brochure wraps them across lines; some are printed without slashes); FMCs from the charges table'),
+  'index_or_thematic_funds': F('Momentum Growth Fund (Nifty 500 Momentum 50), India Sector Leaders Fund (BSE India Sector Leaders), Enhanced Value Fund (BSE 500 Enhanced Value 50), Pure Fund', 'n/a', B, None,
+                               'Nifty 500 Momentum 50 Index', quote_2='BSE India Sector Leaders Index', quote_3='BSE 500 Enhanced Value 50'),
+  'discontinued_policy_fund': F({'name': 'Discontinued Policy Fund', 'fmc': '0.50%', 'guaranteed rate': '4% a year'}, 'built-in', B, None, 'Discontinued policy fund 0.50% p.a.', quote_2='minimum guaranteed interest rate of 4% p.a.'),
+ },
+ 'protection_add_ons': {'waiver_of_premium_inbuilt': NS(), 'critical_illness': F('Ageas Federal Life Insurance Linked Critical Shield Rider (UIN 135A038V01)', 'rider', B, None, '135A038V01'),
+                        'accidental_death': F('Ageas Federal Life Insurance Linked Accident Care Rider (UIN 135A036V01)', 'rider', B, None, '135A036V01'),
+                        'terminal_illness': NS(), 'spouse_or_child_cover': NS(),
+                        'riders_available': F(['Ageas Federal Life Insurance Linked Accident Care Rider, UIN 135A036V01', 'Ageas Federal Life Insurance Linked Critical Shield Rider, UIN 135A038V01'], 'rider', B, None, '135A036V01', quote_2='135A038V01')},
+ 'surrender_revival': {
+  'lock_in_years': F(5, 'built-in', B, None, 'till the end of the fifth year'),
+  'discontinuance_rules': NS(), 'revival_period': NS(),
+  'surrender_value_rule': F('after the lock-in, at least the unit fund value on the surrender date; during the lock-in, the fund value less discontinuance charge goes to the Discontinued Policy Fund and is paid at the end of the lock-in', 'built-in', B, None,
+                            'the surrender value shall be at least equal to the unit fund value as on'),
+ },
+}
+build('135L082V02', spec,
+  new_features=[{'feature': 'Single premium with up to 10 times death cover', 'description': 'Death sum assured of 1.25 or 10 times the single premium, 10 times only up to age 48 at maturity', 'quote': '1.25 times or 10 times Single premium', 'doc': B, 'page': None},
+                {'feature': '3% loyalty additions from year 6', 'description': '3% of the average fund value of the last 36 months, at the end of year 6, year 10 and every 5 years after', 'quote': 'Loyalty additions will be 3% of the average fund value in the last 36 months', 'doc': B, 'page': None}],
+  not_public=[])
