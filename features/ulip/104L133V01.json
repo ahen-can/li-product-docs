@@ -1,0 +1,973 @@
+{
+ "product": {
+  "uin": {
+   "value": "104L133V01",
+   "status": "n/a",
+   "doc": "Policy Contract",
+   "page": 4,
+   "quote": "UIN: 104L133V01",
+   "note": null
+  },
+  "uin_in_brochure": {
+   "value": "104L133V01",
+   "status": "n/a",
+   "doc": "Policy Prospectus",
+   "page": 1,
+   "quote": "UIN: 104L133V01",
+   "note": null
+  },
+  "product_name": {
+   "value": "Axis Max Life Platinum Wealth Plan",
+   "status": "n/a",
+   "doc": "Policy Contract",
+   "page": 1,
+   "quote": "Axis Max Life Platinum Wealth Plan",
+   "note": null
+  },
+  "irdai_description_line": {
+   "value": "A Unit Linked Non Participating Individual Life Insurance Plan",
+   "status": "n/a",
+   "doc": "Policy Prospectus",
+   "page": 1,
+   "quote": "A Unit Linked Non Participating Individual Life Insurance Plan",
+   "note": null
+  },
+  "launch_or_version_date": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "variants_or_plan_options": {
+   "value": [
+    "Single Pay (10-year term)",
+    "Limited Pay (5 years, term 10 to 20)",
+    "Regular Pay (term 10 to 20)"
+   ],
+   "status": "optional (at inception)",
+   "doc": "Policy Prospectus",
+   "page": 18,
+   "quote": "There are 3 Premium Payment Term options available in the product as mentioned below:",
+   "note": null
+  },
+  "target_segment_stated": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "online_offline": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  }
+ },
+ "eligibility": {
+  "entry_age_min": {
+   "value": "91 days",
+   "status": "n/a",
+   "doc": "Policy Prospectus",
+   "page": 17,
+   "quote": "Minimum Age of 91 days",
+   "note": null
+  },
+  "entry_age_max": {
+   "value": {
+    "single and limited pay": 60,
+    "regular pay": 55
+   },
+   "status": "n/a",
+   "doc": "Policy Prospectus",
+   "page": 17,
+   "quote": "Single Pay and Limited Pay: 60 years",
+   "note": null,
+   "quote_2": "Regular Pay: 55 years",
+   "page_2": 17
+  },
+  "maturity_age_min": {
+   "value": 18,
+   "status": "n/a",
+   "doc": "Policy Prospectus",
+   "page": 18,
+   "quote": "18 Years Single Pay and Limited Pay: 70 years",
+   "note": null
+  },
+  "maturity_age_max": {
+   "value": {
+    "single and limited pay": 70,
+    "regular pay": 65
+   },
+   "status": "n/a",
+   "doc": "Policy Prospectus",
+   "page": 18,
+   "quote": "Single Pay and Limited Pay: 70 years",
+   "note": null,
+   "quote_2": "Regular Pay: 65 years",
+   "page_2": 18
+  },
+  "policy_term_options": {
+   "value": {
+    "single pay": 10,
+    "limited pay": "10 to 20",
+    "regular pay": "10 to 20"
+   },
+   "status": "n/a",
+   "doc": "Policy Prospectus",
+   "page": 18,
+   "quote": "Single Pay: Policy Term of 10 years",
+   "note": null,
+   "quote_2": "Limited Pay: Option to choose Policy Term from 10 years to 20 years",
+   "page_2": 18,
+   "quote_3": "Regular Pay: Option to choose Policy Term from 10 years to 20 years",
+   "page_3": 18
+  },
+  "ppt_options": {
+   "value": {
+    "single pay": 1,
+    "limited pay": 5,
+    "regular pay": "same as policy term"
+   },
+   "status": "n/a",
+   "doc": "Policy Prospectus",
+   "page": 18,
+   "quote": "Limited Pay: Under this variant, the Premium Payment Term is fixed at 5 years",
+   "note": null,
+   "quote_2": "Regular Pay: Under this variant, the Premium Payment Term is same as Policy Term",
+   "page_2": 18
+  },
+  "premium_min_annual": {
+   "value": {
+    "limited and regular pay": 200000
+   },
+   "status": "n/a",
+   "doc": "Policy Prospectus",
+   "page": 18,
+   "quote": "Limited Pay and Regular Pay: Rs.2,00,000 per annum",
+   "note": null
+  },
+  "premium_min_single": {
+   "value": 250000,
+   "status": "n/a",
+   "doc": "Policy Prospectus",
+   "page": 18,
+   "quote": "Single Pay: Rs.2,50,000",
+   "note": null
+  },
+  "premium_max": {
+   "value": "no limit",
+   "status": "n/a",
+   "doc": "Policy Prospectus",
+   "page": 18,
+   "quote": "Maximum No Limit. annualized",
+   "note": null
+  },
+  "sum_assured_rule": {
+   "value": {
+    "single pay": {
+     "entry < 50": "1.25 x SP",
+     "entry >= 50": "1.1 or 1.25 x SP"
+    },
+    "limited/regular pay": {
+     "entry < 50": "7 or 10 x AP",
+     "entry >= 50": "5, 7 or 10 x AP",
+     "floor": "higher of the multiple x AP and 0.5 x policy term x AP"
+    },
+    "minimum sum assured": {
+     "single pay": 275000,
+     "limited and regular pay": 1000000
+    }
+   },
+   "status": "built-in",
+   "doc": "Policy Prospectus",
+   "page": 18,
+   "quote": "Single Pay: 1.25 times Single premium for entry ages less than 50 years.",
+   "note": null,
+   "quote_2": "Single Pay Rs. 2,75,000 Limited Pay & Regular Pay Rs. 10,00,000",
+   "page_2": 18,
+   "quote_3": "For ages < 50 years: The Sum assured multiple options available are 7 & 10.",
+   "page_3": 18
+  },
+  "premium_modes": {
+   "value": "single; limited and regular pay annual, semi-annual, quarterly or monthly",
+   "status": "n/a",
+   "doc": "Policy Prospectus",
+   "page": 18,
+   "quote": "Limited or Regular Pay: Annual, Semi-Annual, Quarterly or Monthly",
+   "note": null
+  },
+  "life_cover_multiple_choice": {
+   "value": "cover multiple chosen at inception by entry age",
+   "status": "optional (at inception)",
+   "doc": "Policy Prospectus",
+   "page": 18,
+   "quote": "The Sum assured multiple options available are 7 & 10.",
+   "note": null
+  }
+ },
+ "charges": {
+  "premium_allocation_charge": {
+   "value": {
+    "single pay": {
+     "Y1": "3%"
+    },
+    "limited and regular pay": {
+     "Y1-10": "2%",
+     "Y11+": "nil"
+    },
+    "extra": "additional 1% for the first five years when annualized premium is below Rs 2 lakh"
+   },
+   "status": "built-in",
+   "doc": "Policy Prospectus",
+   "page": 24,
+   "quote": "1 3% 2% 2% 2% 2%",
+   "note": "table on prospectus p.15",
+   "quote_2": "11 & thereafter NA Nil Nil Nil Nil",
+   "page_2": 24,
+   "quote_3": "an additional allocation charge of 1% shall be charged for the first five policy years.",
+   "page_3": 24
+  },
+  "policy_administration_charge": {
+   "value": {
+    "single pay": "Rs 330 per month in years 1 to 5, then nil",
+    "limited and regular pay": "3.3% of annualized premium a year in years 1 to 5, max Rs 6,000 a year, then nil"
+   },
+   "status": "built-in",
+   "doc": "Policy Prospectus",
+   "page": 26,
+   "quote": "Single Pay ` 330 per month Nil",
+   "note": null,
+   "quote_2": "` 3.3% of annualized premium subject to a maximum of Rs.6,000 per annum",
+   "page_2": 26
+  },
+  "fund_management_charge": {
+   "value": {
+    "1.25%": "equity, index and thematic funds",
+    "1.10%": "Balanced Fund",
+    "1.00%": "Nifty Smallcap Quality Index Fund",
+    "0.90%": "debt funds, Secure and Secure Plus",
+    "0.50%": "Discontinuance Policy Fund"
+   },
+   "status": "built-in",
+   "doc": "Policy Prospectus",
+   "page": 24,
+   "quote": "High Growth Fund (SFIN: ULIF01311/02/08LIFEHIGHGR104) 1.25%",
+   "note": "full list in the funds group",
+   "quote_2": "Balanced Fund (SFIN: ULIF00225/06/04LIFEBALANC104) 1.10%",
+   "page_2": 25,
+   "quote_3": "Discontinuance Policy Fund",
+   "page_3": 10
+  },
+  "mortality_charge": {
+   "value": {
+    "basis": "unisex rate per 1,000 sum at risk on attained age, guaranteed for the term",
+    "sum at risk": "max(max(sum assured, 105% of premiums paid) less partial withdrawals, minus fund value, 0)"
+   },
+   "status": "built-in",
+   "doc": "Policy Prospectus",
+   "page": 26,
+   "quote": "Sum at Risk = Max [ Max {Sum Assured, 105% of total premiums paid} less applicable partial withdrawals, if any",
+   "note": "the Policy Contract p.32 prints the attained-age rate table; the prospectus prints no sample rates"
+  },
+  "discontinuance_charge": {
+   "value": {
+    "limited and regular pay": {
+     "Y1": "lower of 6% of annualized premium, 6% of fund value, Rs 6,000",
+     "Y2": "4%, Rs 5,000",
+     "Y3": "3%, Rs 4,000",
+     "Y4": "2%, Rs 2,000",
+     "Y5+": "nil"
+    },
+    "single pay, SP up to Rs 3 lakh": {
+     "Y1": "2%, max Rs 3,000",
+     "Y2": "1.5%, max Rs 2,000",
+     "Y3": "1%, max Rs 1,500",
+     "Y4": "0.5%, max Rs 1,000",
+     "Y5+": "nil"
+    },
+    "single pay, SP above Rs 3 lakh": {
+     "Y1": "1%, max Rs 6,000",
+     "Y2": "0.70%, max Rs 5,000",
+     "Y3": "0.50%, max Rs 4,000",
+     "Y4": "0.35%, max Rs 2,000",
+     "Y5+": "nil"
+    }
+   },
+   "status": "built-in",
+   "doc": "Policy Prospectus",
+   "page": 26,
+   "quote": "1 Lower of 6% of annualized premium or 6% of Fund Value or Rs 6,000 2 Lower of 4% of annualized premium or 4% of Fund Value or Rs 5,000",
+   "note": "prospectus p.17 tables",
+   "quote_2": "3 Lower of 3% of annualized premium or 3% of Fund Value or Rs 4,000 4 Lower of 2% of annualized premium or 2% of Fund Value or Rs 2,000 5 & Above Nil",
+   "page_2": 26,
+   "quote_3": "Lower of 2% *(SP or FV) subject to a maximum Lower of 1% *(SP or FV) subject to a maximum 1 of Rs.3000/- of Rs.6000/",
+   "page_3": 26
+  },
+  "switching_charge": {
+   "value": "nil; no limit on switches",
+   "status": "built-in",
+   "doc": "Policy Prospectus",
+   "page": 1,
+   "quote": "There is no limit on number of switches done in a policy year",
+   "note": null
+  },
+  "partial_withdrawal_charge": {
+   "value": "nil",
+   "status": "built-in",
+   "doc": "Policy Prospectus",
+   "page": 27,
+   "quote": "are free of any charge.",
+   "note": null
+  },
+  "premium_redirection_charge": {
+   "value": "nil; up to 6 a year",
+   "status": "built-in",
+   "doc": "Policy Prospectus",
+   "page": 27,
+   "quote": "A maximum of six Premium Redirections are allowed in each policy year and are free of any charge.",
+   "note": null
+  },
+  "miscellaneous_charge": {
+   "value": "none",
+   "status": "built-in",
+   "doc": "Policy Prospectus",
+   "page": 27,
+   "quote": "Miscellaneous Charges None.",
+   "note": null
+  },
+  "guarantee_charge": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "rider_charges": {
+   "value": "nil",
+   "status": "built-in",
+   "doc": "Policy Prospectus",
+   "page": 27,
+   "quote": "Rider Charge Nil",
+   "note": null
+  },
+  "any_charge_returned": {
+   "value": null,
+   "status": "not offered",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": "no return of charges"
+  }
+ },
+ "benefits": {
+  "death_benefit_formula": {
+   "value": "highest of sum assured, 105% of total premiums paid and fund value (sum assured and premiums reduced by partial withdrawals in the last 2 years)",
+   "status": "built-in",
+   "doc": "Policy Prospectus",
+   "page": 13,
+   "quote": "iii. Total Fund Value (as on the date of intimation of death)",
+   "note": null
+  },
+  "maturity_benefit": {
+   "value": "fund value at maturity; settlement option up to 5 years",
+   "status": "built-in",
+   "doc": "Policy Prospectus",
+   "page": 12,
+   "quote": "equal to the Fund Value, where the Fund Value will be calculated as:",
+   "note": null
+  },
+  "loyalty_additions": {
+   "value": {
+    "band 1 (annualized premium below Rs 5 lakh)": "0.10% of fund value from the end of year 11, rising 0.05% (absolute) each year",
+    "band 2 (Rs 5 lakh and above)": "0.10% from the end of year 6, rising 0.05% each year",
+    "table": "year 20: 0.55% (band 1) and 0.80% (band 2)"
+   },
+   "status": "built-in",
+   "doc": "Policy Prospectus",
+   "page": 13,
+   "quote": "Band 1: Annualized premium is 0.10% of Fund Value shall be added from end of Year 11, Increasing by",
+   "note": null,
+   "quote_2": "Band 2: Annualized premium is 5 0.10% Fund Value shall be added from end of Year 6, Increasing by 0.05%",
+   "page_2": 13,
+   "quote_3": "20 0.55% 0.80%",
+   "page_3": 14
+  },
+  "wealth_boosters_or_guaranteed_additions": {
+   "value": {
+    "Guaranteed Wealth Booster": {
+     "band 1": "2% of fund value at the end of years 10, 15 and 20",
+     "band 2": "2.5% of fund value at the end of years 10, 15 and 20"
+    }
+   },
+   "status": "built-in",
+   "doc": "Policy Prospectus",
+   "page": 14,
+   "quote": "Band 1: Annualized premium is Less than 5 2% of Fund Value to be paid at the end of Year 10, 15 and 20",
+   "note": null,
+   "quote_2": "Band 2: Annualized premium is 5 Lakhs or 2.5% of Fund Value to be paid at the end of Year 10, 15 and 20",
+   "page_2": 14
+  },
+  "return_of_mortality_charges": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "return_of_premium_allocation_charges": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "return_of_policy_admin_charges": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "other_additions": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  }
+ },
+ "flexibility": {
+  "fund_switching": {
+   "value": "unlimited free switches; minimum Rs 5,000",
+   "status": "optional (during term)",
+   "doc": "Policy Prospectus",
+   "page": 1,
+   "quote": "There is no limit on number of switches done in a policy year",
+   "note": null
+  },
+  "premium_redirection": {
+   "value": "up to 6 free redirections a year",
+   "status": "optional (during term)",
+   "doc": "Policy Prospectus",
+   "page": 20,
+   "quote": "A maximum of six (6) Premium Redirections are allowed in a policy year and all are free of charge.",
+   "note": null
+  },
+  "partial_withdrawals": {
+   "value": {
+    "from": "after 5 policy years",
+    "frequency": "up to 2 a year",
+    "minimum": "Rs 5,000",
+    "maximum": "50% of fund value in a policy year; fund must stay at least one annualized premium"
+   },
+   "status": "optional (during term)",
+   "doc": "Policy Prospectus",
+   "page": 20,
+   "quote": "a maximum of two partial",
+   "note": null,
+   "quote_2": "The minimum amount of partial withdrawal allowed per transaction is Rs 5,000.",
+   "page_2": 20,
+   "quote_3": "allowed in any policy year is 50% of the Fund Value as on the date of partial withdrawal",
+   "page_3": 20
+  },
+  "systematic_withdrawal_plan": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "top_up_premiums": {
+   "value": "not available",
+   "status": "n/a",
+   "doc": "Policy Prospectus",
+   "page": 19,
+   "quote": "Top Up Not available in this plan",
+   "note": null
+  },
+  "settlement_option": {
+   "value": "maturity proceeds in instalments for up to 5 years",
+   "status": "optional (during term)",
+   "doc": "Policy Prospectus",
+   "page": 12,
+   "quote": "provided settlement option has not been exercised",
+   "note": null
+  },
+  "premium_holiday_or_offset": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "increase_decrease_cover": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "change_ppt_or_term": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "policy_loan": {
+   "value": "not available",
+   "status": "n/a",
+   "doc": "Policy Prospectus",
+   "page": 19,
+   "quote": "Policy loan Not available in this plan",
+   "note": null
+  },
+  "auto_portfolio_strategies": {
+   "value": [
+    {
+     "name": "Systematic Transfer Plan"
+    },
+    {
+     "name": "Dynamic Fund Allocation"
+    }
+   ],
+   "status": "optional (at inception)",
+   "doc": "Policy Prospectus",
+   "page": 9,
+   "quote": "investment strategies are as follows: − Systematic Transfer Plan Systematic Transfer Plan helps you",
+   "note": null
+  }
+ },
+ "funds": {
+  "fund_count": {
+   "value": 28,
+   "status": "n/a",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": "count from the prospectus charge table, excluding the Discontinuance Policy Fund"
+  },
+  "fund_list": {
+   "value": [
+    {
+     "name": "High Growth Fund",
+     "SFIN": "ULIF01311/02/08LIFEHIGHGR104",
+     "FMC_pct": 1.25,
+     "asset_allocation": "see prospectus fund table",
+     "risk_label": null
+    },
+    {
+     "name": "Diversified Equity Fund",
+     "SFIN": "ULIF02201/01/20LIFEDIVEQF104",
+     "FMC_pct": 1.25,
+     "asset_allocation": "see prospectus fund table",
+     "risk_label": null
+    },
+    {
+     "name": "Growth Super Fund",
+     "SFIN": "ULIF01108/02/07LIFEGRWSUP104",
+     "FMC_pct": 1.25,
+     "asset_allocation": "see prospectus fund table",
+     "risk_label": null
+    },
+    {
+     "name": "Growth Fund",
+     "SFIN": "ULIF00125/06/04LIFEGROWTH104",
+     "FMC_pct": 1.25,
+     "asset_allocation": "see prospectus fund table",
+     "risk_label": null
+    },
+    {
+     "name": "Sustainable Equity Fund",
+     "SFIN": "ULIF02505/10/21SUSTAINEQU104",
+     "FMC_pct": 1.25,
+     "asset_allocation": "see prospectus fund table",
+     "risk_label": null
+    },
+    {
+     "name": "Pure Growth Fund",
+     "SFIN": "ULIF02630/12/22PUREGROWTH104",
+     "FMC_pct": 1.25,
+     "asset_allocation": "see prospectus fund table",
+     "risk_label": null
+    },
+    {
+     "name": "Midcap Momentum Index Fund",
+     "SFIN": "ULIF02801/01/24MIDMOMENTM104",
+     "FMC_pct": 1.25,
+     "asset_allocation": "see prospectus fund table",
+     "risk_label": null
+    },
+    {
+     "name": "Nifty Alpha 50 Fund",
+     "SFIN": "ULIF02914/05/24ALPHAFIFTY104",
+     "FMC_pct": 1.25,
+     "asset_allocation": "see prospectus fund table",
+     "risk_label": null
+    },
+    {
+     "name": "Nifty 500 Momentum 50 Fund",
+     "SFIN": "ULIF03015/08/24MOMENFIFTY104",
+     "FMC_pct": 1.25,
+     "asset_allocation": "see prospectus fund table",
+     "risk_label": null
+    },
+    {
+     "name": "Nifty Momentum Quality 50 Fund",
+     "SFIN": "ULIF03127/10/24MOMQUALITY104",
+     "FMC_pct": 1.25,
+     "asset_allocation": "see prospectus fund table",
+     "risk_label": null
+    },
+    {
+     "name": "Sustainable Wealth 50 Index Fund",
+     "SFIN": "ULIF03223/12/24SUSTWEALTH104",
+     "FMC_pct": 1.25,
+     "asset_allocation": "see prospectus fund table",
+     "risk_label": null
+    },
+    {
+     "name": "Smart Innovation Fund",
+     "SFIN": "ULIF03301/03/25INNOVATION104",
+     "FMC_pct": 1.25,
+     "asset_allocation": "see prospectus fund table",
+     "risk_label": null
+    },
+    {
+     "name": "Nifty 500 Multifactor 50 Index Fund",
+     "SFIN": "ULIF03414/05/25MULTIFACTO104",
+     "FMC_pct": 1.25,
+     "asset_allocation": "see prospectus fund table",
+     "risk_label": null
+    },
+    {
+     "name": "BSE 500 Dividend leaders 50 Index Fund",
+     "SFIN": "ULIF03907/11/25BSEDIVLEAD104",
+     "FMC_pct": 1.25,
+     "asset_allocation": "see prospectus fund table",
+     "risk_label": null
+    },
+    {
+     "name": "India Consumption Opportunities Fund",
+     "SFIN": "ULIF03807/10/25INDIACONSU104",
+     "FMC_pct": 1.25,
+     "asset_allocation": "see prospectus fund table",
+     "risk_label": null
+    },
+    {
+     "name": "BSE 500 Value 50 Index Fund",
+     "SFIN": "ULIF03623/07/25BSEVALUEIN104",
+     "FMC_pct": 1.25,
+     "asset_allocation": "see prospectus fund table",
+     "risk_label": null
+    },
+    {
+     "name": "Growth Super Fund II",
+     "SFIN": "ULIF04217/12/25GROWTHSUPR104",
+     "FMC_pct": 1.35,
+     "asset_allocation": "see prospectus fund table",
+     "risk_label": null
+    },
+    {
+     "name": "High Growth Fund II",
+     "SFIN": "ULIF04117/12/25HIGHGROWTH104",
+     "FMC_pct": 1.35,
+     "asset_allocation": "see prospectus fund table",
+     "risk_label": null
+    },
+    {
+     "name": "Diversified Equity Fund II",
+     "SFIN": "ULIF04317/12/25DIVIEQUITY104",
+     "FMC_pct": 1.35,
+     "asset_allocation": "see prospectus fund table",
+     "risk_label": null
+    },
+    {
+     "name": "BSE Dividend Stability Index Fund",
+     "SFIN": "ULIF04607/05/26BSEDIVSTAB104",
+     "FMC_pct": 1.35,
+     "asset_allocation": "see prospectus fund table",
+     "risk_label": null
+    },
+    {
+     "name": "India Sector Leaders Opportunities Fund",
+     "SFIN": "ULIF04922/07/26SECLEADERS104",
+     "FMC_pct": 1.35,
+     "asset_allocation": "see prospectus fund table",
+     "risk_label": null
+    },
+    {
+     "name": "Rising India Manufacturing Fund",
+     "SFIN": "ULIF05007/09/26RISINGINDM104",
+     "FMC_pct": 1.35,
+     "asset_allocation": "see prospectus fund table",
+     "risk_label": null
+    },
+    {
+     "name": "Flexi Cap Fund",
+     "SFIN": "ULIF05123/09/26FLXICAPFND104",
+     "FMC_pct": 1.35,
+     "asset_allocation": "see prospectus fund table",
+     "risk_label": null
+    },
+    {
+     "name": "Balanced Fund",
+     "SFIN": "ULIF00225/06/04LIFEBALANC104",
+     "FMC_pct": 1.1,
+     "asset_allocation": "see prospectus fund table",
+     "risk_label": null
+    },
+    {
+     "name": "Conservative Fund",
+     "SFIN": "ULIF00325/06/04LIFECONSER104",
+     "FMC_pct": 0.9,
+     "asset_allocation": "see prospectus fund table",
+     "risk_label": null
+    },
+    {
+     "name": "Dynamic Bond Fund",
+     "SFIN": "ULIF02401/01/20LIFEDYNBOF104",
+     "FMC_pct": 0.9,
+     "asset_allocation": "see prospectus fund table",
+     "risk_label": null
+    },
+    {
+     "name": "Secure Fund",
+     "SFIN": "ULIF00425/06/04LIFESECURE104",
+     "FMC_pct": 0.9,
+     "asset_allocation": "see prospectus fund table",
+     "risk_label": null
+    },
+    {
+     "name": "Secure Plus Fund",
+     "SFIN": "ULIF01628/04/09LIFESECPLS104",
+     "FMC_pct": 0.9,
+     "asset_allocation": "see prospectus fund table",
+     "risk_label": null
+    },
+    {
+     "name": "Discontinuance Policy Fund",
+     "SFIN": "ULIF02021/06/13LIFEDISCON104",
+     "FMC_pct": 0.5,
+     "asset_allocation": "see prospectus fund table",
+     "risk_label": null
+    }
+   ],
+   "status": "n/a",
+   "doc": "Policy Prospectus",
+   "page": 24,
+   "quote": "High Growth Fund (SFIN: ULIF01311/02/08LIFEHIGHGR104) 1.25%",
+   "note": "name, SFIN and FMC from the prospectus charge table"
+  },
+  "index_or_thematic_funds": {
+   "value": "Midcap Momentum Index, Nifty Alpha 50, Nifty 500 Momentum 50, Nifty Momentum Quality 50 and related index and thematic funds in the charge table",
+   "status": "n/a",
+   "doc": "Policy Prospectus",
+   "page": 25,
+   "quote": "Nifty Alpha 50 Fund (SFIN: ULIF02914/05/24ALPHAFIFTY104) 1.25%",
+   "note": null
+  },
+  "discontinued_policy_fund": {
+   "value": {
+    "name": "Discontinuance Policy Fund",
+    "FMC": "0.50%"
+   },
+   "status": "built-in",
+   "doc": "Policy Prospectus",
+   "page": 10,
+   "quote": "Discontinuance Policy Fund",
+   "note": null
+  }
+ },
+ "protection_add_ons": {
+  "waiver_of_premium_inbuilt": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "critical_illness": {
+   "value": "via rider",
+   "status": "rider",
+   "doc": "Policy Prospectus",
+   "page": 18,
+   "quote": "Axis Max Life Critical Illness and Disability Secure Rider (UIN: 104A034V02)",
+   "note": null
+  },
+  "accidental_death": {
+   "value": "via rider (Smart Ultra Protect, variants 2 and 3)",
+   "status": "rider",
+   "doc": "Policy Prospectus",
+   "page": 19,
+   "quote": "Rider benefit variant 2 - Accidental Death Benefit",
+   "note": null
+  },
+  "terminal_illness": {
+   "value": "via rider (Smart Ultra Protect, variant 1)",
+   "status": "rider",
+   "doc": "Policy Prospectus",
+   "page": 19,
+   "quote": "Term Booster with Accelerated Terminal Illness",
+   "note": null
+  },
+  "spouse_or_child_cover": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "riders_available": {
+   "value": [
+    "Axis Max Life Critical Illness and Disability Secure Rider (104A034V02)",
+    "Axis Max Life Smart Ultra Protect Rider (104A049V03)"
+   ],
+   "status": "rider",
+   "doc": "Policy Prospectus",
+   "page": 18,
+   "quote": "Axis Max Life Smart Ultra Protect Rider (UIN: 104A049V03)",
+   "note": null
+  }
+ },
+ "surrender_revival": {
+  "lock_in_years": {
+   "value": 5,
+   "status": "built-in",
+   "doc": "Policy Prospectus",
+   "page": 20,
+   "quote": "No partial withdrawals are allowed in the first five policy years",
+   "note": null
+  },
+  "discontinuance_rules": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "revival_period": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "surrender_value_rule": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  }
+ },
+ "documents_inventory": [
+  {
+   "website_label": "Terms and Conditions",
+   "doc_type": "policy_document",
+   "url": "https://www.axismaxlife.com/static-page/assets/homepage/Max%20Life%20T%26C%20Brand%20Refresh%20Leaflet%20.pdf",
+   "found_on_page_url": "https://www.axismaxlife.com/ulip-plans/platinum-wealth-plan",
+   "pages": null,
+   "stored_path": null,
+   "status": "failed",
+   "note": "product code not in the document"
+  },
+  {
+   "website_label": "Policy Prospectus",
+   "doc_type": "brochure",
+   "url": "https://www.axismaxlife.com/static-page/assets/homepage/PWP_Prospectus_c57ece80e5.pdf",
+   "found_on_page_url": "https://www.axismaxlife.com/ulip-plans/platinum-wealth-plan",
+   "pages": 31,
+   "stored_path": "docs/axis-max-life/104L133V01/brochure.pdf",
+   "status": "already stored",
+   "note": null
+  },
+  {
+   "website_label": "Policy Contract",
+   "doc_type": "policy_document",
+   "url": "https://www.axismaxlife.com/static-page/assets/homepage/PWP_Policy_Document_d56fbf662c.pdf",
+   "found_on_page_url": "https://www.axismaxlife.com/ulip-plans/platinum-wealth-plan",
+   "pages": 46,
+   "stored_path": "docs/axis-max-life/104L133V01/policy.pdf",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "website_label": "Policy Leaflet",
+   "doc_type": "leaflet",
+   "url": "https://www.axismaxlife.com/static-page/assets/homepage/PWP_Leaflet_d92f4a9586.pdf",
+   "found_on_page_url": "https://www.axismaxlife.com/ulip-plans/platinum-wealth-plan",
+   "pages": null,
+   "stored_path": null,
+   "status": "not stored (leaflet; brochure already stored)",
+   "note": null
+  },
+  {
+   "website_label": "Customer Information Sheet",
+   "doc_type": "CIS",
+   "url": "https://www.axismaxlife.com/static-page/assets/homepage/PWP_CIS_e7b858a69d.pdf",
+   "found_on_page_url": "https://www.axismaxlife.com/ulip-plans/platinum-wealth-plan",
+   "pages": 4,
+   "stored_path": "docs/axis-max-life/104L133V01/cis.pdf",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "website_label": "Axis Max Life Sustainable Yield Index Factsheet",
+   "doc_type": "fund_factsheet",
+   "url": "https://www.axismaxlife.com/static-page/assets/homepage/Axis%20Max%20Life%20Sustainable%20Yield%20Index%20Factsheet.pdf",
+   "found_on_page_url": "https://www.axismaxlife.com/ulip-plans/platinum-wealth-plan",
+   "pages": null,
+   "stored_path": null,
+   "status": "skipped",
+   "note": "fund document does not name this product (company-wide)"
+  },
+  {
+   "website_label": "Monthly Factsheets",
+   "doc_type": "fund_factsheet",
+   "url": "https://www.axismaxlife.com/fund-performance/monthly-factsheets",
+   "found_on_page_url": "https://www.axismaxlife.com/ulip-plans/platinum-wealth-plan",
+   "pages": null,
+   "stored_path": null,
+   "status": "web page (not stored)",
+   "note": "link opens a web page, not a document"
+  }
+ ],
+ "new_features_not_in_schema": [
+  {
+   "feature": "Loyalty additions that rise every year",
+   "description": "From year 6 (band 2) or year 11 (band 1) a loyalty addition of 0.10% of fund value that rises 0.05% a year",
+   "quote": "20 0.55% 0.80%",
+   "doc": "Policy Prospectus",
+   "page": 14
+  },
+  {
+   "feature": "Premium bands for additions",
+   "description": "Band 2 (Rs 5 lakh and above) gets earlier loyalty additions and a 2.5% wealth booster against 2% for band 1",
+   "quote": "Band 2: Annualized premium is 5 Lakhs or 2.5% of Fund Value to be paid at the end of Year 10, 15 and 20",
+   "doc": "Policy Prospectus",
+   "page": 14
+  }
+ ],
+ "data_not_public": []
+}
