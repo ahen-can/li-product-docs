@@ -39,7 +39,7 @@ Last updated: 4 Nov 2026 by S1 (main session). Full decision trail: `docs-intern
 ## 2a. Output size and fund data (user, 4 Nov)
 - **Deck: 5 products per category. Supporting Excel: 10 to 15 products per category.** For ULIP, choose them from the 84 deep products: Bharti's top 2 by NBP (Wealth Pro, Growth Shield Plus), each leader's and challenger's flagship, and LIC as a reference. The user's "My view" tab (deliverable 01) feeds the choice.
 - **Fund factsheets are a future integration.** For now use fund ratings. Ratings come from third parties (Value Research, Morningstar), an agreed exception to the official-sources rule, entered manually with the source named.
-- **Bharti product-level NBP is official:** sources/bharti-kpi/ (Product Performance FY24 to H2 FY27, from bhartiaxa.com/kpi-disclosures). It lists the 8 products that make up 90% of NBP. Deliverable 01 now has a "Bharti portfolio" tab built from it, and a "My view" tab for the user.
+- **Bharti product-level NBP is official, but partial:** sources/bharti-kpi/ (Product Performance FY24 to H2 FY27, from bhartiaxa.com/kpi-disclosures). It lists 8 products chosen because they make up 90% of NBP in FY 2026-27 to 30 Sep 2026 (Monthly Product Performance report, p2). For FY26 the 8 are only 53.9% of individual NBP (Rs 504.7 of Rs 937.2 cr, PD L-38 p58). Correction made 4 Nov after S3's QA; deliverable 01's Bharti portfolio tab now reconciles to the PDs.
 
 ## 3. Repos, branches and environment
 - **`ahen-can/boom`** (public): branch `ccr-b8ad4f03-rfkxka`, folder `li-category-analysis/`, holds the phase-1 workbook `life_insurance_category_analysis_Q4FY26.xlsx` and its scripts (`rows.py`, `build_data.py`, `make_xlsx.py`, `data.json`, `notes.json`).
