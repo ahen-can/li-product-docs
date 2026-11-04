@@ -196,7 +196,7 @@ NEW_FEAT = [
     ('refund_fmc_or_all_charges', 'Refund of fund management charges, or of all charges', [
         'Return of fund management charges', 'Refund of 118% of all charges, including FMC', 'Refund of all three main charges'],
      r'(return|refund)\w*\s+of\s+(all\s+)?(the\s+)?(fund management charges?|FMC)\b|refund of (all )?(the )?charges'),
-    ('multiplied_charge_refunds', 'Charges returned at a multiple (2x, 3x, 118%)', [
+    ('multiplied_charge_refunds', 'Charges returned at a multiple (2x, 3x, 118%)', [ 'Return of mortality charges above 100%', 'Refund of 2x allocation charges',
         'Double return of premium allocation charges', 'Rising multiple of mortality charges returned', 'Return of 2x guarantee charges'],
      r'\b(2|3|two|three)\s*(x|times)\b.{0,60}(premium allocation|mortality|guarantee) charges'),
     ('capital_or_vesting_guarantee', 'Capital guarantee at maturity or assured vesting benefit', [
@@ -205,10 +205,10 @@ NEW_FEAT = [
     ('scheduled_guaranteed_additions', 'Guaranteed or special additions on a fixed schedule or by premium band', [
         'Guaranteed addition at maturity by premium band', 'Guaranteed additions every 5 years', 'Special additions on early premiums', 'Terminal addition on death and vesting'],
      r'guaranteed additions?|special additions?|terminal addition'),
-    ('loyalty_design_variants', 'Loyalty additions with a special design (premium size, high cover, rising, large at maturity)', [
+    ('loyalty_design_variants', 'Loyalty additions with a special design (premium size, high cover, rising, large at maturity)', [ 'Loyalty addition only for large single premiums', 'High premium booster',
         'Loyalty additions only for larger premiums', 'Booster for high death benefit multiples', 'Rising loyalty additions on a 12-month average fund value', 'Large loyalty additions at maturity'],
      None),
-    ('customer_type_boosters', 'Extra benefit or lower charges for a customer type (women, existing customers, ECS payers, direct buyers, staff)', [
+    ('customer_type_boosters', 'Extra benefit or lower charges for a customer type (women, existing customers, ECS payers, direct buyers, staff)', [ 'Twin loyalty booster for combined purchase',
         'EmpowHer Booster for women', 'ECS payment benefit', 'Existing customer benefit', 'Loyalty reward for direct purchases', 'Reduced charges for staff'],
      r'existing customers? (will receive|benefit)|female (customers|lives).{0,80}(additional|booster)|\bstaff\b.{0,60}(charge|discount)|direct (channel|marketing|sales?).{0,80}(reward|additional)'),
     ('women_life_event_cover', 'Women-specific cover (pregnancy complications, childbirth, female cancers)', [
@@ -218,7 +218,7 @@ NEW_FEAT = [
     ('decreasing_cover_option', 'Decreasing life cover option', ['Decreasing cover after a level cover period'], r'decreasing (cover|sum assured|life cover)'),
     ('death_benefit_waiver_plus_income', 'Death benefit pays sum assured, funds future premiums and pays an income', ['Death benefit with waiver plus monthly income'],
      r'classic waiver plus|waiver plus'),
-    ('builtin_accident_or_payor_waiver', 'Built-in accident benefit or premium payor waiver inside the ULIP', [
+    ('builtin_accident_or_payor_waiver', 'Built-in accident benefit, premium waiver or family benefit inside the ULIP', [ 'Family benefit', 'Multiple premium waiver on death', 'Waiver of premium on accidental disability', 'Premium waiver on accidental disability in a pension plan',
         'Built-in accident benefit inside a ULIP', 'Child ULIP with built-in payor waiver and accident benefit', "Loyalty additions continue after the parent's death", 'Proposer premium waiver for a different life assured'],
      r'(in-?built|built-?in)\s+(accident|premium payor|premium waiver)|premium payor waiver'),
     ('restricted_withdrawals', 'Partial withdrawals limited to listed purposes or capped (amount or number)', [
@@ -233,12 +233,18 @@ NEW_FEAT = [
     ('mortality_rates_guaranteed', 'Mortality rates guaranteed for the term, or separate female table', [
         'Mortality rates guaranteed for the term', 'Separate male and female mortality tables'],
      r'mortality charges?\s+(are|is|will be|shall be)\s+guaranteed|rates of mortality charges are guaranteed'),
-    ('allocation_above_100', 'Premium allocation above 100% in some years', ['Allocation rate above 100%'], r'allocation rate.{0,60}10[1-9](\.\d+)?\s*%'),
-    ('lower_charges_online', 'Lower charges for online purchase or online service requests', ['Lower service charges online'], None),
+    ('allocation_above_100', 'Extra allocation: more than 100% of premium invested in some years', [ 'First-year additional allocation', 'Extra allocation for women','Allocation rate above 100%'], r'allocation rate.{0,60}10[1-9](\.\d+)?\s*%'),
+    ('lower_charges_online', 'Better terms for online purchase (lower charges or extra boosters)', [ 'Extra benefits for digital sales', 'Fund booster for online sales','Lower service charges online'], None),
     ('index_or_low_cost_funds', 'Index funds or low-FMC funds', ['Index funds with lower FMC', 'Low-cost Money Market Fund'], r'\bindex fund\b|nifty\s*\d+\s*index'),
     ('admin_charge_waived_some_years', 'No admin charge for part of the term', ['Admin charge only for a limited period', 'No admin charge in years 1-4'], None),
+    ('settlement_enhancer', 'Extra return on settlement instalments', ['Settlement instalments increased by 0.5%', 'Return Enhancer on settlement'], None),
+    ('value_added_services', 'Non-insurance services (health management, partner loyalty rewards)', ['Third-party loyalty program reward', 'Health management services'], None),
+    ('mortality_as_ialm_share', 'Mortality rates set as a share of the IALM standard table', ['Mortality rates set as a share of IALM by age band'], None),
+    ('cover_continuance_booster', 'Booster for keeping the policy in force with cover', ['Cover continuance booster', 'Cover continuance booster with yearly cap'], None),
+    ('annuity_purchase_booster', 'Booster if the vesting fund buys an annuity from the same insurer', ['Annuity purchase booster'], None),
+    ('increasing_cover', 'Sum assured that steps up over time', ['Sum assured that steps up over time'], None),
 ]
-EXISTING = {'Zero premium allocation charge': 'nil_premium_allocation_charge', 'Death benefit settlement option': 'death_benefit_as_income',
+EXISTING = {'Zero premium allocation charge': 'nil_premium_allocation_charge', 'Age-based automatic fund mix': 'auto_strategies', 'Target asset allocation strategy': 'auto_strategies', 'Trigger-based profit booking': 'auto_strategies', 'Chosen-rate and index-based withdrawal plans': 'systematic_withdrawal', 'Low-charge option with smaller refunds': 'variants_or_plan_options', 'Death benefit settlement option': 'death_benefit_as_income',
             'Two variants with different add-backs': 'variants_or_plan_options'}
 nf_index = {n: g for g, _, names, _ in NEW_FEAT for n in names}
 
@@ -313,7 +319,7 @@ for k in DEEP:
         elif n['feature'] in EXISTING:
             pass
         else:
-            unmapped.append((k, n['feature']))
+            unmapped.append((k, n))
 kw_count = C.Counter()
 for g, label, names, rx in NEW_FEAT:
     rows.append({'id': g, 'group': 'New feature (deep pass)', 'def': label, 'new': 'new in v2 (found in deep pass)', 'kind': 'status',
@@ -452,6 +458,8 @@ for g, label, names, rx in NEW_FEAT:
     for k, n in ps:
         NF.append([label, len(set(x[0] for x in ps)), products[k]['insurer'], products[k]['name'], k, n['feature'], n['description'], n['doc'], n['page'], n['quote'],
                    '; '.join(kws[:15]) + (f' (+{len(kws) - 15} more)' if len(kws) > 15 else '')])
+for k, n in unmapped:
+    NF.append(['Not yet grouped (S1 to map)', 1, products[k]['insurer'], products[k]['name'], k, n['feature'], n['description'], n['doc'], n['page'], n['quote'], ''])
 sheet('New features', ['New feature (v2 row)', f'Deep products with it (of {nD})', 'Insurer', 'Product', 'UIN', 'As found', 'Description', 'Document', 'Page', 'Quote',
                        'Keyword leads in other ULIPs (unverified)'], NF, {1: 40, 4: 30, 6: 34, 7: 50, 10: 60, 11: 60})
 
@@ -482,4 +490,4 @@ with open(os.path.join(A, 'product_features_ulip_v2.csv'), 'w', newline='', enco
             c = cells.get((r['id'], k), ('', '', None, None, None))
             w.writerow([k, products[k]['insurer'], products[k]['name'], products[k]['src'], r['id'], c[0], c[1], c[2] or '', c[3] or '', c[4] or ''])
 print('products', nD + nB, 'deep', nD, 'rows', len(rows), 'evidence', len(EV), 'corrections', len(corr), 'kw leads', dict(kw_count))
-print('unmapped new features:', unmapped)
+print('unmapped new features:', [(k, n['feature']) for k, n in unmapped])
