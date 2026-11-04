@@ -1,0 +1,295 @@
+                         CUSTOMER INFORMATION SHEET / KNOW YOUR POLICY
+                           This document provides key information about your Policy.
+                            You are also advised to go through your Policy Document
+Sl          Title                                     Description                                Policy Clause
+No.                       (Please refer to applicable Policy Clause Number in next column)         Number
+
+1     Name of the        Canara HSBC Life Insurance SecureInvest                             -
+      Insurance          Plan Option <SecureInvest Choice/ SecureInvest Forever>
+      Product and        UIN 136L092V02
+      Unique
+      Identification
+      Number (UIN)
+2     Proposal           <Proposal Number>                                                   -
+      Number
+3     Type of            Non-Participating, Unit Linked Individual Savings Life Insurance    -
+      Insurance Policy   Plan
+4     Basic Policy       Single/ Instalment Premium: ₹ <Modal Premium Amount>                -
+      details            Premium Payment Mode: <Single/ Monthly/ Quarterly/ Half-            -
+                         Yearly/ Yearly >
+                         Sum Assured on death: ₹ <Sum Assured>                               -
+                         Sum Assured on Maturity: Not applicable                             -
+                         Premium payment Term: <Premium Payment Term> years                  -
+                         Policy Term: <Policy Term> years                                    -
+5     Policy Coverage/   Benefits payable on maturity:                                       1.2. Maturity
+      benefits payable   Following is applicable for an in-force policy:                     Benefit
+                         Fund Value as on Maturity Date and the Policy will terminate upon
+                         payment of such benefit.
+                         Benefits payable on death:                                          1.1. Death Benefit
+                         Following is applicable for an in-force policy:
+                         < SecureInvest Choice/ SecureInvest Forever> Higher of:
+                             • Sum Assured less partial withdrawals if any, in the
+                                  preceding 2 years of the death of the Life Assured; or
+                             • Fund Value as on date of intimation of death claim; or
+                             • 105% of all premiums paid up to the date of death
+                         Upon payment of this benefit, no other benefit shall be payable
+                         and the Policy will immediately and automatically terminate.
+
+                         Survival benefits excluding that payable on maturity: Not           -
+                         applicable
+                         Surrender benefits:                                                 6.1.1. Surrender
+                             • Surrender in first 5 policy years - - Fund Value will be      during the Lock-in
+                                  transferred to the Discontinued Policy Fund subject to     Period
+                                  deduction of applicable Surrender/ Discontinuance          6.1.2. Surrender
+                                  Charges                                                    during the Lock-in
+                             • Surrender post 5 policy years - Fund Value will be paid out   Period
+                         On surrender, the Policy will be terminated and cannot be revived
+                         thereafter
+                         Options to policyholders for availing benefits, if any, covered
+                         under the policy:< SecureInvest Choice/ SecureInvest Forever>
+                             • Partial Withdrawals                                              4. Special Features
+                             • Settlement Option
+                         Other benefits/ options payable, specific to the policy, if any: Not   -
+                         applicable
+                         Lock-in period: 5 years                                                Part B
+6   Options              Partial Withdrawal: Available                                          4.8. Partial
+    available (in case                                                                          Withdrawal
+    of Linked            Top-up Provision: Not available                                        -
+    Insurance            Switches: Available                                                    4.7. Switching
+    Products)            Settlement option: <SecureInvest Choice/ SecureInvest Forever>         4.9. Settlement
+                         Available                                                              Option
+                         Any other option:                                                      <Non-Single Pay
+                         <Non-Single Pay policies>                                              policies>
+                             • Systematic Transfer Option                                       4. Special Features
+                             • Return Protector Option
+                             • Auto Funds Rebalancing
+                             • Safety Switch Option
+                             • Premium Redirection
+                             • Change in Premium payment mode
+                             • Loss Protector Strategy
+                         <Single Pay policies>
+                             • Systematic Transfer Option
+                             • Return Protector Option                                          <Single Pay
+                                                                                                policies>
+                             • Auto Funds Rebalancing
+                                                                                                4. Special Features
+                             • Safety Switch Option
+                             • Loss Protector Strategy
+
+7   Option available     Not applicable                                                         -
+    (in case of
+    Annuity product)
+8   Riders opted, if
+    any                  <<If “Canara HSBC Life Insurance Accidental Benefit Rider
+                         (Linked)” is opted>>
+
+                         Rider Name: Canara HSBC Life Insurance Accidental Benefit Rider
+                         (Linked)                                                               Policy Schedule of
+                         Rider UIN: <<136A016V01>>                                              Part A of the Base
+                         Rider Option Opted: <<Option 1: Accidental Death                       Policy Document
+                         Benefit>>/<<Option 2: Accidental Total & Permanent                     and Rider Policy
+                         Disability>>/<<Option 1: Accidental Death Benefit & Option 2:          Document
+                         Accidental Total & Permanent Disability>>>>
+                         Return Of Premium: <<Yes/No>>
+                         Rider Sum Assured for Option 1: Accidental Death Benefit (ADB):
+                         <<ADB Sum Assured >>
+                         Rider Sum Assured for Accidental Total & Permanent Disability
+                         <<ATPD>>: <<ATPD Sum Assured>> (available only once)
+
+                             •   Summary of Coverage
+Option 1: Accidental Death Benefit (ADB) -
+Death Benefit: 100% of ADB Sum Assured                                Under Part C
+Maturity Benefit: If Return of Premium option is selected, total      under ‘benefits’
+premiums paid for the rider (excluding loading for modal              section, part (i) of
+premiums, underwriting extra premium and taxes, if collected          Rider Document
+explicitly) shall be payable. If Return of Premium option is not
+selected, No Maturity Benefit is Payable.
+
+
+Option 2: Accidental Total and Permanent Disability (ATPD) -
+Disability Benefit: 100% of ATPD Sum Assured                          Under Part C,
+Maturity Benefit: If Return of Premium option is selected, total      under ‘benefits’
+premiums payable for the rider (excluding loading for modal           section, part (ii) of
+premiums, underwriting extra premium and taxes, if collected          Rider Document
+explicitly) shall be payable. If Return of Premium option is not
+selected, No Maturity Benefit is Payable.
+
+•     Exclusions: Yes, please refer to the Terms and conditions.
+                                                                      ‘Exclusions’ under
+•     Rider Benefits are payable subject to payable of applicable     Part F
+      premium.
+
+•     No ADB/ATPD benefit is payable in case the Rider is in Lapsed
+      State.
+
+•     Non-Forfeiture benefits available under the plan
+
+                   Without Return of Premium Option
+                    Surrender     Paid-Up             Lapse
+                                     Not                              Part D under
+    Single Pay       Yes                         Not Applicable
+                                 Applicable                           ‘Surrender’, ‘Paid-
+                                                Early Exit Value      Up Benefits’,
+                                                available, after      ‘Lapse’ for ‘Rider
+                                     Not      payment of all due      without Return of
+    Limited Pay     Yes
+                                 Applicable   premiums for the        Premium’
+                                              first 2 consecutive
+                                                  policy years
+                    Not              Not
+    Regular Pay                                        No
+                    Applicable Applicable
+
+                    With Return of Premium Option
+                    Surrender     Paid-Up          Lapse
+                                     Not       Not Applicable
+      Single Pay        Yes      Applicabl                            Part D under
+                                      e                               ‘Surrender’, ‘Paid-
+                                 Yes, Paid-         No                Up Benefits’,
+     Limited Pay        Yes          Up                               ‘Lapse’ for ‘Rider
+                                  payable                             with Return of
+                                                                      Premium’
+                                                           Yes, Paid-             No
+                            Regular Pay          Yes          Up
+                                                            payable
+
+                        ▪     In case of Life Assured surviving the entire Rider Policy Term,
+                              maturity Benefit shall be paid if ROP Option is opted. In case
+                              ROP option is not opted, no maturity benefit shall be
+                              payable.
+
+                        <<If “Canara HSBC Life Insurance Linked Critical Illness Benefit
+                        Rider” is opted>>
+
+                        Rider Name: Canara HSBC Life Insurance Linked Critical Illness
+                        Benefit Rider
+
+                        Rider UIN: <<136A018V01>>
+
+                        Please refer to the Customer Information Sheet of Linked Critical
+                        Illness Benefit Rider for more details on the Rider.
+
+                        For definitions and conditions of payment, please refer to the Rider
+                        Terms & conditions
+
+                        <<If Riders is not opted>>
+                        Rider is not opted
+9    Exclusions         Suicide Exclusion                                                       21. Suicide
+     (events where                                                                              Exclusion Clause
+     insurance
+     coverage is not
+     payable), if any
+10   Waiting/ lien      Nil                                                                     -
+     Period, if any
+11   Grace period       <Non-Single Pay policies>                                               <Non-Single Pay
+                            • 30 days in case of yearly, half-yearly and quarterly              policies>
+                                premium payment mode                                            3. Grace Period:
+                            • 15 days in case of monthly premium payment mode                   (Not applicable for
+                        <Single Pay policies> Not applicable                                    Single Premium
+                                                                                                Policy)
+12   Free Look Period   30 days from the date of receipt of the Policy Document, whether        7. Free Look
+                        received electronically or otherwise (whichever is earlier).            Period
+13   Lapse, paid-up     Lapse: Not applicable                                                   -
+     and revival of     Reduced Paid-up: In case of non-payment of due Premium after            Clause 1.1 (C) of
+     the Policy         completion of Lock-in Period, the policy benefits would reduce.         Part C
+                        Revival: <Non-Single Pay policies>                                      <Non-Single Pay
+                        Policy can be revived within a revival period of 3 consecutive          policies>
+                        complete years from the date of first unpaid premium.                   Clause 5.3 of
+                        <Single Pay policies> Not applicable                                    Revive the Policy:
+                                                                                                (Not applicable for
+                                                                                                Single Premium
+                                                                                                Policy)
+14   Policy Loan, if    Not applicable                                                          -
+     applicable
+15   Claims/ Claims     Turn Around Time (TAT) for death claims settlement:                     -
+     Procedure
+                         Death claim, except in          Within 15 days from the date
+                         cases warranting                of intimation of claim
+                         investigation
+
+                         Death claim warranting          Within 45 days from the date
+                         investigation                   of intimation of claim
+
+
+                        Above shall be aligned to comply with the Regulatory changes, if
+                        any at all times.
+                        Claims procedure:
+
+                        Step 1 – Claim Intimation & Registration: The nominee/ claimant
+                        can intimate about the claim by filling the Claim Form and sending
+                        it to Insurer at head office/ nearest Bank branch/ Insurer offices or
+                        online along with mandatory documents.
+
+                        Step 2 – Claim Processing: Special Claim Team will assess the claim
+                        and inform in case any further document is needed to be
+                        submitted.
+
+                        Step 3 – Claim Settlement: Once the claim is intimated, and all the
+                        relevant documents are received, the claim decision shall be
+                        taken.
+                        Helpline/ Call-centre number: 1800-103–0003 / 1800-891-0003
+                        Contact details of the Insurer:
+                        https://www.canarahsbclife.com/contact-us/contact-details
+
+                        Register and track claim at:
+                        Customer Portal: https://customer.canarahsbclife.com/#/login
+                        Customer service App:
+                        For android mobile:
+                        https://play.google.com/store/apps/details?id=com.choiceapp.ge
+                        nius&hl=en_IN
+                        For ios: https://apps.apple.com/in/app/canara-hsbc-
+                        life/id1637840399
+                        Link for downloading Claim form & list of documents required:
+                        https://www.canarahsbclife.com/claims
+16   Policy Servicing   Turn Around Time (TAT):                                                 -
+                             • Free-look cancellation - Within 7 days from date of
+                                 request
+                             • Surrender/ Partial-withdrawal – Within 7 days from date
+                                 of request
+                             • Survival payouts – on or before due date (subject to NAV)
+                        Helpline/ Call-centre number: 1800-103–0003 / 1800-891-
+                        0003
+                        Contact details of the Insurer:
+                        https://www.canarahsbclife.com/contact-us/contact-details
+
+                        Download forms, access list of documents and/or place service
+                        request through following modes:
+                             • Customer Portal:
+                                 https://customer.canarahsbclife.com/#/login
+                             • Customer service App:
+                                 https://www.canarahsbclife.com/app-download.html
+                             • Email: customerservice@canarahsbclife.in
+                             • Walk-in to any of our nearest branches
+17   Grievances/        Complaint Redressal: Toll Free: 1800-103-0003 / - 1800-891-0003       Part G - Grievance
+     Complaints         email: cru@canarahsbclife.in. Website link for registering            Redressal
+                        complaints: https://www.canarahsbclife.com/contact-                   procedure
+                        us/grievance-redressal, Resolution time: two weeks from date of
+                        receipt of complaint
+                        Escalation: Grievance Redressal Officer: Canara HSBC Life
+                        Insurance Company, 139P, sector 44, Gurugram - 122003,
+                        Haryana, India. Toll Free: 1800-103-0003 / 1800-891-0003 email:
+                        gro@canarahsbclife.in
+                        In case not satisfied or no response received from Us within 2
+                        weeks, you can approach the Grievance cell of IRDAI and register
+                        complaint at Bima Bharosa Shikayat Nivaran Kendra at
+                        https://bimabharosa.irdai.gov.in, Or You can approach Insurance
+                        Ombudsman of your respective State, if you do not receive
+                        response from us within 30 days from the date of filing the
+                        complaint or if your complaint is rejected or if you are not
+                        satisfied with our response. Kindly refer the website
+                        at https://cioins.co.in/Ombudsman for the list of Ombudsman and
+                        office details.
+
+
+Declaration by the Policyholder
+
+I have read the above and confirm having noted the details.
+
+
+
+Place:                                                                    (Signature of the Policyholder)
+
+Date:
+
+Note: Incase of any conflict, the terms and conditions mentioned in the policy document shall prevail.
+
