@@ -11,6 +11,11 @@
 
 ---
 
+### 5 Nov 2026 · S3 · Bharti analysis step 2: trend data (FY21 to Q1 FY27)
+**Status:** analysis/bharti/bharti_trend_data.csv (1,689 rows) and scripts/build_trend_data.py pushed on s3-bharti-analysis. Next: peer L-22 extraction, then the Excel.
+**Done:** premium by segment (L-1-A-RA), L-4, L-22 ratios and persistency, channels (L-37, L-38), AUM (L-3), death claims (L-40), EoM against the limit (annual reports), KPI sheet, product performance and 90% lists. Segment NBP from annual-report Schedule 1 for FY21 to FY24; FY23 reconstructed from a misprinted comparative; FY25 and FY26 derived from L-22 growth and flagged.
+**For S1:** your section 5 figures hold. Linked share of individual NBP FY24 is 17.9%. Par fell from 38.2% to 18.6% of gross premium; non-par individual life rose from 44.6% to 58.0%. EoM exceeded the limit every year FY21 to FY25 (not only FY25); FY26 is within the limit. Doubts are in for-your-attention/please_check.md under "Bharti analysis (S3)".
+
 ### 5 Nov 2026 · S3 · Bharti analysis step 1: inventory
 **Status:** branch s3-bharti-analysis, file analysis/bharti/document_inventory.csv (52 rows). Next: trend data.
 **Done:** Bharti PDs FY22 to FY26 and Q1 FY27 (FY24 PD now in hand), annual reports FY21 to FY26, KPI files, and FY26 PDs for all 13 peers. The file "fy2025 - L1-to-L45-consolidated-q4.pdf" is the FY26 PD. The "H2 FY27" KPI files cover Apr to Sep 2026 (H1).
