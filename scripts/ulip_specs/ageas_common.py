@@ -4,7 +4,8 @@ SFIN = {'Equity Growth Fund': 'ULIF04111/01/08EQOPP135', 'Midcap Fund': 'ULIF068
         'Momentum Growth Fund': 'ULIF081240125MOMENTUM135', 'India Sector Leaders Fund': 'ULIF082070725ISLF135', 'Enhanced Value Fund': 'ULIF083071125ENVF135',
         'Pure Fund': 'ULIF07205/08/10PURE135', 'Bond Fund II': 'ULIF07731/10/17BOND2135', 'Aggressive Asset Allocator Fund': 'ULIF04811/01/08AGGRESSIVE135',
         'Moderate Asset Allocator Fund': 'ULIF04911/01/08MODERATE135', 'Large Cap Quality Fund': 'ULIF088010326LARGEQLTY135', 'IndiGenius Fund': 'ULIF08901/07/26INDIGENIUS135',
-        'Discontinued Policy Fund': 'ULIF07301/07/10DISCON135'}
+        'Discontinued Policy Fund': 'ULIF07301/07/10DISCON135',
+        'Bond Fund': 'ULIF04011/01/08BOND135', 'Income Fund': 'ULIF04211/01/08INCOME135', 'Cautious Asset Allocator Fund': 'ULIF05011/01/08CAUTIOUS135'}
 def funds(fmc_by_name, risk=None, alloc=None):
     return [{'name': n, 'SFIN': SFIN.get(n), 'FMC_pct': v, 'asset_allocation': (alloc or {}).get(n, 'see brochure fund table'), 'risk_label': (risk or {}).get(n)} for n, v in fmc_by_name.items()]
 
