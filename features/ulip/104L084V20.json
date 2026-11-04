@@ -1,0 +1,896 @@
+{
+ "product": {
+  "uin": {
+   "value": "104L084V20",
+   "status": "n/a",
+   "doc": "Policy Contract",
+   "page": 4,
+   "quote": "UIN: 104L084V20",
+   "note": null
+  },
+  "uin_in_brochure": {
+   "value": "104L084V20",
+   "status": "n/a",
+   "doc": "Prospectus",
+   "page": 1,
+   "quote": "UIN: 104L084V20",
+   "note": null
+  },
+  "product_name": {
+   "value": "Axis Max Life Shiksha Plus Super",
+   "status": "n/a",
+   "doc": "Prospectus",
+   "page": 14,
+   "quote": "AXIS MAX LIFE SHIKSHA PLUS SUPER AT A GLANCE",
+   "note": null
+  },
+  "irdai_description_line": {
+   "value": "A Unit-Linked Non-Participating Individual Life Insurance Plan",
+   "status": "n/a",
+   "doc": "Prospectus",
+   "page": 1,
+   "quote": "A Unit-Linked Non-Participating Individual Life Insurance Plan",
+   "note": null
+  },
+  "launch_or_version_date": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "variants_or_plan_options": {
+   "value": [
+    "5 Pay (10-year term)",
+    "Regular Pay (15 to 25 year term)"
+   ],
+   "status": "optional (at inception)",
+   "doc": "Prospectus",
+   "page": 14,
+   "quote": "5 years (5 Pay) / 15 to 25 years (Regular Pay)",
+   "note": null
+  },
+  "target_segment_stated": {
+   "value": "parents: the policyholder must have a child aged 0 days to 18 years (own or legally adopted)",
+   "status": "n/a",
+   "doc": "Prospectus",
+   "page": 1,
+   "quote": "The Policyholder (who shall also be the Life Insured) should have",
+   "note": null
+  },
+  "online_offline": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  }
+ },
+ "eligibility": {
+  "entry_age_min": {
+   "value": 21,
+   "status": "n/a",
+   "doc": "Prospectus",
+   "page": 14,
+   "quote": "Minimum 21 years",
+   "note": null
+  },
+  "entry_age_max": {
+   "value": 47,
+   "status": "n/a",
+   "doc": "Prospectus",
+   "page": 14,
+   "quote": "Maximum 47 years",
+   "note": null
+  },
+  "maturity_age_min": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "maturity_age_max": {
+   "value": {
+    "5 pay": 57,
+    "regular pay": 65
+   },
+   "status": "n/a",
+   "doc": "Prospectus",
+   "page": 14,
+   "quote": "5 Pay Variant 57 years",
+   "note": null,
+   "quote_2": "Regular Pay Variant 65 years",
+   "page_2": 14
+  },
+  "policy_term_options": {
+   "value": {
+    "5 pay": 10,
+    "regular pay": "15 to 25"
+   },
+   "status": "n/a",
+   "doc": "Prospectus",
+   "page": 14,
+   "quote": "5 Pay Variant 10 year Policy Term",
+   "note": null,
+   "quote_2": "Regular Pay Variant 15 to 25 year Policy Term",
+   "page_2": 14
+  },
+  "ppt_options": {
+   "value": {
+    "5 pay": 5,
+    "regular pay": "15 to 25"
+   },
+   "status": "n/a",
+   "doc": "Prospectus",
+   "page": 14,
+   "quote": "5 years (5 Pay) / 15 to 25 years (Regular Pay)",
+   "note": null
+  },
+  "premium_min_annual": {
+   "value": {
+    "5 pay": 250000,
+    "regular pay": 250000
+   },
+   "status": "n/a",
+   "doc": "Prospectus",
+   "page": 2,
+   "quote": "Minimum Annualised Premium 5 Pay Rs 2,50,000",
+   "note": null,
+   "quote_2": "Regular Pay Rs 2,50,000 for all modes",
+   "page_2": 2
+  },
+  "premium_min_single": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "premium_max": {
+   "value": "no limit",
+   "status": "n/a",
+   "doc": "Prospectus",
+   "page": 14,
+   "quote": "Maximum Annualised Premium No Limit",
+   "note": null
+  },
+  "sum_assured_rule": {
+   "value": {
+    "multiple": "7 or 10 x annualised premium",
+    "minimum sum assured": 1750000
+   },
+   "status": "built-in",
+   "doc": "Prospectus",
+   "page": 14,
+   "quote": "Sum Assured Multiple 7 or 10",
+   "note": null,
+   "quote_2": "Rs 17,50,000 (for both",
+   "page_2": 15
+  },
+  "premium_modes": {
+   "value": "annual, semi-annual, quarterly, monthly",
+   "status": "n/a",
+   "doc": "Prospectus",
+   "page": 14,
+   "quote": "Premium Payment Mode Annual, Semi-annual, Quarterly, Monthly",
+   "note": null
+  },
+  "life_cover_multiple_choice": {
+   "value": "7 or 10 times annualised premium",
+   "status": "optional (at inception)",
+   "doc": "Prospectus",
+   "page": 14,
+   "quote": "Sum Assured Multiple 7 or 10",
+   "note": null
+  }
+ },
+ "charges": {
+  "premium_allocation_charge": {
+   "value": {
+    "5 pay": {
+     "Y1": "5%",
+     "Y2": "4%",
+     "Y3-5": "3%"
+    },
+    "regular pay": {
+     "Y1": "5%",
+     "Y2": "4%",
+     "Y3-10": "3%",
+     "Y11+": "0%"
+    }
+   },
+   "status": "built-in",
+   "doc": "Prospectus",
+   "page": 21,
+   "quote": "1 5% 5%",
+   "note": "table on prospectus pp.21-22",
+   "quote_2": "2 4% 4% 3-5 3% 3% 6 - 10 NA 3% 11 & above NA 0%",
+   "page_2": 22
+  },
+  "policy_administration_charge": {
+   "value": {
+    "annual mode": "0.32% a month of annualised premium, compounding 5% a year from year 6, cap Rs 500 a month",
+    "non-annual modes": "0.22% a month, compounding 5% a year from year 6, cap Rs 500 a month"
+   },
+   "status": "built-in",
+   "doc": "Prospectus",
+   "page": 23,
+   "quote": "0.32% p.m. compounding at 5% per annum from sixth Policy year",
+   "note": null,
+   "quote_2": "0.22% p.m. compounding at 5% per annum from sixth Policy year",
+   "page_2": 23
+  },
+  "fund_management_charge": {
+   "value": {
+    "1.35%": "BSE Dividend Stability Index, BSE 500 Value 50 Index II, India Sector Leaders Opportunities, Rising India Manufacturing, Flexi Cap",
+    "1.25%": "other equity, index and thematic funds",
+    "1.10%": "Balanced Fund",
+    "1.00%": "Nifty Smallcap Quality Index Fund",
+    "0.90%": "Conservative, Secure and Secure Plus",
+    "0.50%": "Discontinuance Policy Fund"
+   },
+   "status": "built-in",
+   "doc": "Prospectus",
+   "page": 22,
+   "quote": "Balanced Fund (SFIN: ULIF00225/06/04LIFEBALANC104) 1.10%",
+   "note": "full list in the funds group",
+   "quote_2": "Conservative Fund (SFIN: ULIF00325/06/04LIFECONSER104) 0.90%",
+   "page_2": 22,
+   "quote_3": "Secure Plus Fund (only available with Systematic Transfer Plan) 0.90%",
+   "page_3": 23
+  },
+  "mortality_charge": {
+   "value": {
+    "basis": "unisex rate per 1,000 sum at risk on attained age",
+    "sum at risk": "higher of sum assured, 105% of premiums paid and 0.5 x term x annualised premium, plus present value of family income and funded premiums at 6.5%",
+    "sample_rates": {
+     "age 25": 0.98,
+     "age 30": 1.06,
+     "age 35": 1.28,
+     "age 40": 1.8,
+     "age 45": 2.87,
+     "age 50": 4.95
+    }
+   },
+   "status": "built-in",
+   "doc": "Prospectus",
+   "page": 23,
+   "quote": "Age Risk) 25 0.98 30 1.06 35 1.28 40 1.80 45 2.87 50 4.95",
+   "note": "sample ages; the Policy Contract p.21 prints the attained-age table"
+  },
+  "discontinuance_charge": {
+   "value": {
+    "annualised premium above Rs 50,000": {
+     "Y1": "lower of 6% of annualised premium, 6% of fund value, Rs 6,000",
+     "Y2": "4%, Rs 5,000",
+     "Y3": "3%, Rs 4,000",
+     "Y4": "2%, Rs 2,000",
+     "Y5+": "nil"
+    },
+    "annualised premium up to Rs 50,000": {
+     "Y1": "20%, Rs 3,000",
+     "Y2": "15%, Rs 2,000",
+     "Y3": "10%, Rs 1,500",
+     "Y4": "5%, Rs 1,000",
+     "Y5+": "nil"
+    }
+   },
+   "status": "built-in",
+   "doc": "Prospectus",
+   "page": 23,
+   "quote": "1 Lower of 6% of Annualised Premium or 6% of Fund Value or ` 6,000",
+   "note": "prospectus pp.23-24",
+   "quote_2": "2 Lower of 4% of Annualised Premium or 4% of Fund Value or ` 5,000 3 Lower of 3% of Annualised Premium or 3% of Fund Value or ` 4,000",
+   "page_2": 24,
+   "quote_3": "4 Lower of 2% of Annualised Premium or 2% of Fund Value or ` 2,000 5 & Above Nil",
+   "page_3": 24,
+   "quote_4": "1 Lower of 20% of annualised premium or 20% of Fund Value or ` 3,000",
+   "page_4": 24
+  },
+  "switching_charge": {
+   "value": "nil; 12 free switches a year",
+   "status": "built-in",
+   "doc": "Prospectus",
+   "page": 17,
+   "quote": "Maximum of twelve (12) Switches are allowed in a Policy Year and they are free of charge.",
+   "note": null
+  },
+  "partial_withdrawal_charge": {
+   "value": "nil",
+   "status": "built-in",
+   "doc": "Prospectus",
+   "page": 18,
+   "quote": "There is no charge on Partial Withdrawals.",
+   "note": null
+  },
+  "premium_redirection_charge": {
+   "value": "nil; up to 6 a year",
+   "status": "built-in",
+   "doc": "Prospectus",
+   "page": 17,
+   "quote": "A maximum of six (6) Premium Redirections are allowed in a Policy year and all are free of charge.",
+   "note": null
+  },
+  "miscellaneous_charge": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "guarantee_charge": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "rider_charges": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "any_charge_returned": {
+   "value": null,
+   "status": "not offered",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": "no return of charges"
+  }
+ },
+ "benefits": {
+  "death_benefit_formula": {
+   "value": "lump sum of the higher of sum assured, 105% of premiums paid and 0.5 x term x annualised premium; plus Family Income Benefit of 10% of sum assured on each policy anniversary (max 10, min 3 payments); plus the company funds all future premiums and pays the fund value at maturity",
+   "status": "built-in",
+   "doc": "Prospectus",
+   "page": 2,
+   "quote": "Higher of [Sum Assured or 105% of the total premiums paid till the date of death or (0.5 times Policy Term times Annualised Premium)] shall be payable immediately on death.",
+   "note": null,
+   "quote_2": "A Family Income Benefit equal to 10% of the Sum Assured will be paid on each Policy",
+   "page_2": 2,
+   "quote_3": "Funding of Premium (FOP) - Under this Benefit, the Company will fund all future outstanding",
+   "page_3": 2
+  },
+  "maturity_benefit": {
+   "value": "fund value at maturity; settlement option",
+   "status": "built-in",
+   "doc": "Prospectus",
+   "page": 12,
+   "quote": "equal to the Fund Value, where the Fund Value will be calculated as:",
+   "note": null
+  },
+  "loyalty_additions": {
+   "value": {
+    "rate": "0.20% of fund value at the end of each policy year from year 11, rising 0.02% (absolute) a year",
+    "applies": "regular pay variant, premium-paying policies and policies where the company funds premiums after death"
+   },
+   "status": "built-in",
+   "doc": "Prospectus",
+   "page": 13,
+   "quote": "0.20% of Fund Value shall be added to the Fund by creation of additional Units, at the end of every Policy year starting from 11th Policy year.",
+   "note": null,
+   "quote_2": "It should be noted that the loyalty additions are only payable in case of Regular Pay variant.",
+   "page_2": 13
+  },
+  "wealth_boosters_or_guaranteed_additions": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "return_of_mortality_charges": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "return_of_premium_allocation_charges": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "return_of_policy_admin_charges": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "other_additions": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  }
+ },
+ "flexibility": {
+  "fund_switching": {
+   "value": "12 free switches a year; minimum Rs 5,000",
+   "status": "optional (during term)",
+   "doc": "Prospectus",
+   "page": 17,
+   "quote": "subject to a minimum Switch amount of ` 5,000.",
+   "note": null
+  },
+  "premium_redirection": {
+   "value": "up to 6 free redirections a year",
+   "status": "optional (during term)",
+   "doc": "Prospectus",
+   "page": 17,
+   "quote": "A maximum of six (6) Premium Redirections are allowed in a Policy year and all are free of charge.",
+   "note": null
+  },
+  "partial_withdrawals": {
+   "value": {
+    "from": "after 5 policy years",
+    "frequency": "up to 2 a year",
+    "minimum": "Rs 5,000",
+    "maximum": "50% of fund value in a policy year; fund must stay at least one annualised premium"
+   },
+   "status": "optional (during term)",
+   "doc": "Prospectus",
+   "page": 18,
+   "quote": "a maximum of two Partial Withdrawals are allowed in a Policy year.",
+   "note": null,
+   "quote_2": "is ` 5,000. In a policy year, the maximum amount that can be partially withdrawn is 50%",
+   "page_2": 18
+  },
+  "systematic_withdrawal_plan": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "top_up_premiums": {
+   "value": "not available",
+   "status": "n/a",
+   "doc": "Prospectus",
+   "page": 16,
+   "quote": "Top Up Not available in this plan",
+   "note": null
+  },
+  "settlement_option": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "premium_holiday_or_offset": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "increase_decrease_cover": {
+   "value": "reduce premium by up to 50% after the 5-year lock-in, once; sum assured, family income and funded premiums fall in proportion",
+   "status": "optional (during term)",
+   "doc": "Prospectus",
+   "page": 17,
+   "quote": "The policyholder has an option to decrease the premium up to 50% of the original",
+   "note": null
+  },
+  "change_ppt_or_term": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "policy_loan": {
+   "value": "not available",
+   "status": "n/a",
+   "doc": "Prospectus",
+   "page": 16,
+   "quote": "Policy Loan Not available in this plan",
+   "note": null
+  },
+  "auto_portfolio_strategies": {
+   "value": [
+    {
+     "name": "Systematic Transfer Plan",
+     "mechanics": "Secure Plus Fund transfers into growth funds"
+    },
+    {
+     "name": "Dynamic Fund Allocation",
+     "mechanics": "Growth Super Fund and Secure Fund in a split that moves to Secure Fund as maturity nears: 70/30 with 8 to 10 years left, 50/50, 30/70 with 0 to 3 years left"
+    }
+   ],
+   "status": "optional (at inception)",
+   "doc": "Prospectus",
+   "page": 12,
+   "quote": "8 - 10 years 70% 30% 4 - 7 years 50% 50% 0 - 3 years 30% 70%",
+   "note": null
+  }
+ },
+ "funds": {
+  "fund_count": {
+   "value": 23,
+   "status": "n/a",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": "count from the prospectus charge table, excluding the Discontinuance Policy Fund"
+  },
+  "fund_list": {
+   "value": [
+    {
+     "name": "High Growth Fund",
+     "SFIN": "ULIF01311/02/08LIFEHIGHGR104",
+     "FMC_pct": 1.25,
+     "asset_allocation": "see prospectus fund table",
+     "risk_label": null
+    },
+    {
+     "name": "Growth Super Fund",
+     "SFIN": "ULIF01108/02/07LIFEGRWSUP104",
+     "FMC_pct": 1.25,
+     "asset_allocation": "see prospectus fund table",
+     "risk_label": null
+    },
+    {
+     "name": "Growth Fund",
+     "SFIN": "ULIF00125/06/04LIFEGROWTH104",
+     "FMC_pct": 1.25,
+     "asset_allocation": "see prospectus fund table",
+     "risk_label": null
+    },
+    {
+     "name": "Midcap Momentum Index Fund",
+     "SFIN": "ULIF02801/01/24MIDMOMENTM104",
+     "FMC_pct": 1.25,
+     "asset_allocation": "see prospectus fund table",
+     "risk_label": null
+    },
+    {
+     "name": "Nifty Alpha 50 Fund",
+     "SFIN": "ULIF02914/05/24ALPHAFIFTY104",
+     "FMC_pct": 1.25,
+     "asset_allocation": "see prospectus fund table",
+     "risk_label": null
+    },
+    {
+     "name": "Nifty 500 Momentum 50 Fund",
+     "SFIN": "ULIF03015/08/24MOMENFIFTY104",
+     "FMC_pct": 1.25,
+     "asset_allocation": "see prospectus fund table",
+     "risk_label": null
+    },
+    {
+     "name": "Nifty Momentum Quality 50 Fund",
+     "SFIN": "ULIF03127/10/24MOMQUALITY104",
+     "FMC_pct": 1.25,
+     "asset_allocation": "see prospectus fund table",
+     "risk_label": null
+    },
+    {
+     "name": "Sustainable Wealth 50 Index Fund",
+     "SFIN": "ULIF03223/12/24SUSTWEALTH104",
+     "FMC_pct": 1.25,
+     "asset_allocation": "see prospectus fund table",
+     "risk_label": null
+    },
+    {
+     "name": "Smart Innovation Fund",
+     "SFIN": "ULIF03301/03/25/INNOVATION104",
+     "FMC_pct": 1.25,
+     "asset_allocation": "see prospectus fund table",
+     "risk_label": null
+    },
+    {
+     "name": "Nifty 500 Multifactor 50 Index Fund",
+     "SFIN": "ULIF03414/05/25MULTIFACTO104",
+     "FMC_pct": 1.25,
+     "asset_allocation": "see prospectus fund table",
+     "risk_label": null
+    },
+    {
+     "name": "BSE 500 Value 50 Index Fund",
+     "SFIN": "ULIF03623/07/25BSEVALUEIN104",
+     "FMC_pct": 1.25,
+     "asset_allocation": "see prospectus fund table",
+     "risk_label": null
+    },
+    {
+     "name": "India Consumption Opportunities Fund",
+     "SFIN": "ULIF03807/10/25INDIACONSU104",
+     "FMC_pct": 1.25,
+     "asset_allocation": "see prospectus fund table",
+     "risk_label": null
+    },
+    {
+     "name": "BSE 500 Dividend leaders 50 Index Fund",
+     "SFIN": "ULIF03907/11/25BSEDIVLEAD104",
+     "FMC_pct": 1.25,
+     "asset_allocation": "see prospectus fund table",
+     "risk_label": null
+    },
+    {
+     "name": "BSE Dividend Stability Index Fund",
+     "SFIN": "ULIF04607/05/26BSEDIVSTAB104",
+     "FMC_pct": 1.35,
+     "asset_allocation": "see prospectus fund table",
+     "risk_label": null
+    },
+    {
+     "name": "Balanced Fund",
+     "SFIN": "ULIF00225/06/04LIFEBALANC104",
+     "FMC_pct": 1.1,
+     "asset_allocation": "see prospectus fund table",
+     "risk_label": null
+    },
+    {
+     "name": "NIFTY Smallcap Quality Index Fund",
+     "SFIN": "ULIF02702/08/23NIFTYSMALL104",
+     "FMC_pct": 1.0,
+     "asset_allocation": "see prospectus fund table",
+     "risk_label": null
+    },
+    {
+     "name": "Conservative Fund",
+     "SFIN": "ULIF00325/06/04LIFECONSER104",
+     "FMC_pct": 0.9,
+     "asset_allocation": "see prospectus fund table",
+     "risk_label": null
+    },
+    {
+     "name": "Secure Fund",
+     "SFIN": "ULIF00425/06/04LIFESECURE104",
+     "FMC_pct": 0.9,
+     "asset_allocation": "see prospectus fund table",
+     "risk_label": null
+    },
+    {
+     "name": "Discontinuance Policy Fund",
+     "SFIN": "ULIF02021/06/13LIFEDISCON104",
+     "FMC_pct": 0.5,
+     "asset_allocation": "see prospectus fund table",
+     "risk_label": null
+    },
+    {
+     "name": "BSE 500 Value 50 Index Fund II",
+     "SFIN": null,
+     "FMC_pct": 1.35,
+     "asset_allocation": "see prospectus fund table",
+     "risk_label": null
+    },
+    {
+     "name": "India Sector Leaders Opportunities Fund",
+     "SFIN": null,
+     "FMC_pct": 1.35,
+     "asset_allocation": "see prospectus fund table",
+     "risk_label": null
+    },
+    {
+     "name": "Rising India Manufacturing Fund",
+     "SFIN": "ULIF05007/09/26RISINGINDM104",
+     "FMC_pct": 1.35,
+     "asset_allocation": "see prospectus fund table",
+     "risk_label": null
+    },
+    {
+     "name": "Flexi Cap Fund",
+     "SFIN": null,
+     "FMC_pct": 1.35,
+     "asset_allocation": "see prospectus fund table",
+     "risk_label": null
+    },
+    {
+     "name": "Secure Plus Fund",
+     "SFIN": null,
+     "FMC_pct": 0.9,
+     "asset_allocation": "see prospectus fund table",
+     "risk_label": null
+    }
+   ],
+   "status": "n/a",
+   "doc": "Prospectus",
+   "page": 22,
+   "quote": "Balanced Fund (SFIN: ULIF00225/06/04LIFEBALANC104) 1.10%",
+   "note": "name, SFIN and FMC from the prospectus charge table; some funds print no SFIN in this table"
+  },
+  "index_or_thematic_funds": {
+   "value": "Midcap Momentum Index, Nifty Alpha 50, Nifty 500 Momentum 50, Nifty Momentum Quality 50, Sustainable Wealth 50 Index, Nifty 500 Multifactor 50 Index, BSE 500 Value 50 Index, BSE 500 Dividend Leaders 50 Index, BSE Dividend Stability Index, Nifty Smallcap Quality Index funds",
+   "status": "n/a",
+   "doc": "Prospectus",
+   "page": 22,
+   "quote": "BSE Dividend Stability Index Fund (SFIN: 1.35%",
+   "note": null
+  },
+  "discontinued_policy_fund": {
+   "value": {
+    "name": "Discontinuance Policy Fund",
+    "SFIN": "ULIF02021/06/13LIFEDISCON104",
+    "FMC": "0.50%"
+   },
+   "status": "built-in",
+   "doc": "Prospectus",
+   "page": 23,
+   "quote": "Discontinuance Policy Fund (SFIN:",
+   "note": null
+  }
+ },
+ "protection_add_ons": {
+  "waiver_of_premium_inbuilt": {
+   "value": "the company funds all future premiums after the death of the life insured",
+   "status": "built-in",
+   "doc": "Prospectus",
+   "page": 2,
+   "quote": "Funding of Premium (FOP) - Under this Benefit, the Company will fund all future outstanding",
+   "note": null
+  },
+  "critical_illness": {
+   "value": "via rider",
+   "status": "rider",
+   "doc": "Prospectus",
+   "page": 16,
+   "quote": "Axis Max Life Critical Illness and Disability Secure Rider (UIN: 104A034V02)",
+   "note": null
+  },
+  "accidental_death": {
+   "value": "via rider (Smart Ultra Protect, variants 2 and 3)",
+   "status": "rider",
+   "doc": "Prospectus",
+   "page": 16,
+   "quote": "Rider benefit variant 2 - Accidental Death Benefit",
+   "note": null
+  },
+  "terminal_illness": {
+   "value": "via rider (Smart Ultra Protect, variant 1)",
+   "status": "rider",
+   "doc": "Prospectus",
+   "page": 16,
+   "quote": "Term Booster with Accelerated Terminal Illness",
+   "note": null
+  },
+  "spouse_or_child_cover": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "riders_available": {
+   "value": [
+    "Axis Max Life Critical Illness and Disability Secure Rider (104A034V02)",
+    "Axis Max Life Smart Ultra Protect Rider (104A049V03)"
+   ],
+   "status": "rider",
+   "doc": "Prospectus",
+   "page": 16,
+   "quote": "Axis Max Life Smart Ultra Protect Rider (UIN: 104A049V03)",
+   "note": null
+  }
+ },
+ "surrender_revival": {
+  "lock_in_years": {
+   "value": 5,
+   "status": "built-in",
+   "doc": "Prospectus",
+   "page": 18,
+   "quote": "No Partial Withdrawals are allowed in the first five Policy years",
+   "note": null
+  },
+  "discontinuance_rules": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "revival_period": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "surrender_value_rule": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  }
+ },
+ "documents_inventory": [
+  {
+   "website_label": "Prospectus",
+   "doc_type": "brochure",
+   "url": "https://www.axismaxlife.com/static-page/assets/homepage/SPS-Prospectus.pdf",
+   "found_on_page_url": "https://www.axismaxlife.com/child-insurance-plans/shiksha-plus-super",
+   "pages": 29,
+   "stored_path": "docs/axis-max-life/104L084V20/brochure.pdf",
+   "status": "already stored",
+   "note": null
+  },
+  {
+   "website_label": "Policy Contract",
+   "doc_type": "policy_document",
+   "url": "https://www.axismaxlife.com/static-page/assets/homepage/SPS-Policy-Document.pdf",
+   "found_on_page_url": "https://www.axismaxlife.com/child-insurance-plans/shiksha-plus-super",
+   "pages": 30,
+   "stored_path": "docs/axis-max-life/104L084V20/policy.pdf",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "website_label": "Customer Information Sheet",
+   "doc_type": "CIS",
+   "url": "https://www.axismaxlife.com/static-page/assets/homepage/SPS-CIS.pdf",
+   "found_on_page_url": "https://www.axismaxlife.com/child-insurance-plans/shiksha-plus-super",
+   "pages": 4,
+   "stored_path": "docs/axis-max-life/104L084V20/cis.pdf",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "website_label": "Axis Max Life Sustainable Yield Index Factsheet",
+   "doc_type": "fund_factsheet",
+   "url": "https://www.axismaxlife.com/static-page/assets/homepage/Axis%20Max%20Life%20Sustainable%20Yield%20Index%20Factsheet.pdf",
+   "found_on_page_url": "https://www.axismaxlife.com/child-insurance-plans/shiksha-plus-super",
+   "pages": null,
+   "stored_path": null,
+   "status": "skipped",
+   "note": "fund document does not name this product (company-wide)"
+  },
+  {
+   "website_label": "Monthly Factsheets",
+   "doc_type": "fund_factsheet",
+   "url": "https://www.axismaxlife.com/fund-performance/monthly-factsheets",
+   "found_on_page_url": "https://www.axismaxlife.com/child-insurance-plans/shiksha-plus-super",
+   "pages": null,
+   "stored_path": null,
+   "status": "web page (not stored)",
+   "note": "link opens a web page, not a document"
+  }
+ ],
+ "new_features_not_in_schema": [
+  {
+   "feature": "Family Income Benefit plus funded premiums",
+   "description": "On the parent's death: lump sum, 10% of sum assured on each anniversary (3 to 10 times), and the company pays all future premiums",
+   "quote": "A Family Income Benefit equal to 10% of the Sum Assured will be paid on each Policy",
+   "doc": "Prospectus",
+   "page": 2
+  },
+  {
+   "feature": "Child-linked eligibility",
+   "description": "Policyholder must have a child aged 0 to 18 (self-declaration)",
+   "quote": "The Policyholder (who shall also be the Life Insured) should have",
+   "doc": "Prospectus",
+   "page": 1
+  }
+ ],
+ "data_not_public": []
+}

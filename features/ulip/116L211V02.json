@@ -1,0 +1,1081 @@
+{
+ "product": {
+  "uin": {
+   "value": "116L211V02",
+   "status": "n/a",
+   "doc": "supreme-policy-doc.pdf",
+   "page": 1,
+   "quote": "UIN: 116L211V02",
+   "note": null
+  },
+  "uin_in_brochure": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "product_name": {
+   "value": "Bajaj Life Supreme",
+   "status": "n/a",
+   "doc": "supreme-policy-doc.pdf",
+   "page": 1,
+   "quote": "Bajaj Life Supreme",
+   "note": null
+  },
+  "irdai_description_line": {
+   "value": "A Unit Linked Non-Participating Individual Life Savings Insurance Plan",
+   "status": "n/a",
+   "doc": "supreme-policy-doc.pdf",
+   "page": 1,
+   "quote": "A Unit Linked Non-Participating Individual Life Savings Insurance Plan",
+   "note": null
+  },
+  "launch_or_version_date": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "variants_or_plan_options": {
+   "value": [
+    "Advantage",
+    "Builder",
+    "Classic",
+    "Diamond",
+    "Elite",
+    "Fortune",
+    "Gold",
+    "Horizon",
+    "Inspire"
+   ],
+   "status": "optional (at inception)",
+   "doc": "supreme-sl.pdf",
+   "page": 3,
+   "quote": "There are nine (9) variants available under this plan.",
+   "note": null
+  },
+  "target_segment_stated": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "online_offline": {
+   "value": "both",
+   "status": "n/a",
+   "doc": "supreme-sl.pdf",
+   "page": 5,
+   "quote": "The product is also available for sale through online mode.",
+   "note": null
+  }
+ },
+ "eligibility": {
+  "entry_age_min": {
+   "value": 0,
+   "status": "n/a",
+   "doc": "supreme-sl.pdf",
+   "page": 4,
+   "quote": "Risk cover will commence immediately on date of commencement of",
+   "note": "minors covered from commencement; policy vests at 18"
+  },
+  "entry_age_max": {
+   "value": {
+    "regular/limited": 65,
+    "single pay": 70
+   },
+   "status": "n/a",
+   "doc": "supreme-sl.pdf",
+   "page": 4,
+   "quote": "Regular/Limited Pay: 65 years",
+   "note": null
+  },
+  "maturity_age_min": {
+   "value": 18,
+   "status": "n/a",
+   "doc": "supreme-sl.pdf",
+   "page": 4,
+   "quote": "Minimum Age at 18 Years Maturity",
+   "note": null
+  },
+  "maturity_age_max": {
+   "value": "whole life",
+   "status": "n/a",
+   "doc": "supreme-sl.pdf",
+   "page": 4,
+   "quote": "Maximum Age at Whole Life Maturity",
+   "note": null
+  },
+  "policy_term_options": {
+   "value": [
+    15,
+    20,
+    25,
+    30,
+    40,
+    "Whole Life"
+   ],
+   "status": "n/a",
+   "doc": "supreme-sl.pdf",
+   "page": 4,
+   "quote": "15, 20, 25, 30, 40 and Whole Life",
+   "note": null
+  },
+  "ppt_options": {
+   "value": {
+    "regular/limited": "5 years up to (75 minus entry age)",
+    "single": true
+   },
+   "status": "n/a",
+   "doc": "supreme-sl.pdf",
+   "page": 4,
+   "quote": "5 years upto 75 years minus entry age",
+   "note": null
+  },
+  "premium_min_annual": {
+   "value": {
+    "yearly": 12000,
+    "half-yearly": 6000,
+    "quarterly": 4000,
+    "monthly": 1000,
+    "top-up": 5000
+   },
+   "status": "n/a",
+   "doc": "supreme-sl.pdf",
+   "page": 5,
+   "quote": "Minimum `12,000 `6,000 `4,000 `1,000 `20,000 `5,000",
+   "note": null
+  },
+  "premium_min_single": {
+   "value": 20000,
+   "status": "n/a",
+   "doc": "supreme-sl.pdf",
+   "page": 5,
+   "quote": "Minimum `12,000 `6,000 `4,000 `1,000 `20,000 `5,000",
+   "note": null
+  },
+  "premium_max": {
+   "value": "no limit; as per Board Approved Underwriting Policy",
+   "status": "n/a",
+   "doc": "supreme-sl.pdf",
+   "page": 5,
+   "quote": "No Limit, As per Board Approved Underwriting Policy (BAUP)",
+   "note": null
+  },
+  "sum_assured_rule": {
+   "value": {
+    "min": {
+     "regular/limited": {
+      "entry < 50": "7 x annualized premium",
+      "entry >= 50": "5 x annualized premium"
+     },
+     "single": {
+      "entry < 50": "1.25 x SP",
+      "entry >= 50": "1.10 x SP"
+     },
+     "top-up": {
+      "entry < 50": "1.25 x top-up",
+      "entry >= 50": "1.10 x top-up"
+     }
+    },
+    "max": {
+     "whole life, regular/limited": "10 x annualized premium",
+     "whole life, single/top-up": "1.25 x premium"
+    }
+   },
+   "status": "built-in",
+   "doc": "supreme-sl.pdf",
+   "page": 4,
+   "quote": "Regular/Limited Pay 7 times Annualized Premium 5 times Annualized Premium Single Pay 1.25 times Single Premium 1.10 times Single Premium",
+   "note": "the maximum multiple table for fixed terms (30, 25, 15, 10 times) is not mapped to its columns here",
+   "quote_2": "Regular/Limited Premium: 10 times Annualized Premium",
+   "page_2": 5
+  },
+  "premium_modes": {
+   "value": "single, yearly, half-yearly, quarterly, monthly",
+   "status": "n/a",
+   "doc": "supreme-sl.pdf",
+   "page": 5,
+   "quote": "Yearly, Half- Yearly, Quarterly, Monthly or Single premium",
+   "note": null
+  },
+  "life_cover_multiple_choice": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  }
+ },
+ "charges": {
+  "premium_allocation_charge": {
+   "value": {
+    "regular/limited, annual mode": {
+     "Y1-3 (Y2-3 for Horizon and Inspire)": {
+      "Advantage": "6%",
+      "Builder": "5%",
+      "Classic": "4%",
+      "Diamond": "3%",
+      "Elite": "2%",
+      "Fortune": "1%",
+      "Gold": "0%",
+      "Horizon": "4.5%",
+      "Inspire": "5%"
+     },
+     "Horizon Y1": "12%",
+     "Inspire Y1": "9%",
+     "Horizon Y4-5": "4%",
+     "Inspire Y4-5": "5%",
+     "Y6+": "0%"
+    },
+    "regular/limited, other modes": {
+     "Y2-3": {
+      "Advantage": "5%",
+      "Builder": "5%",
+      "Classic": "4%",
+      "Diamond": "3%",
+      "Elite": "2%",
+      "Fortune": "1%",
+      "Gold": "0%",
+      "Horizon": "4.5%",
+      "Inspire": "4.5%"
+     },
+     "Horizon Y1": "9%",
+     "Inspire Y1": "9%",
+     "Horizon Y4-5": "3%",
+     "Inspire Y4-5": "3%",
+     "Y6+": "0%"
+    },
+    "single pay, Y1": {
+     "Advantage": "3%",
+     "Builder": "2.5%",
+     "Classic": "2%",
+     "Diamond": "1.5%",
+     "Elite": "1%",
+     "Fortune": "0.5%",
+     "Gold": "0%",
+     "Horizon": "4%",
+     "Inspire": "3.5%"
+    },
+    "top-up": "2%",
+    "note": "columns are the nine variants in the order Advantage, Builder, Classic, Diamond, Elite, Fortune, Gold, Horizon, Inspire; charges are added back with 7% a year at the end of year 15"
+   },
+   "status": "built-in",
+   "doc": "supreme-sl.pdf",
+   "page": 10,
+   "quote": "Year 2, 3 6% 5% 4% 3% 2% 1% 0% 4.5% 5%",
+   "note": "table on brochure p.10; Y1-5 for variants without their own Y1 and Y4-5 cells",
+   "quote_2": "Year 2, 3 5% 5% 4% 3% 2% 1% 0% 4.5% 4.5%",
+   "page_2": 10,
+   "quote_3": "Single pay Year 1 3% 2.5% 2% 1.5% 1% 0.5% 0% 4% 3.5%",
+   "page_3": 10,
+   "quote_4": "For Top-up premium: 2% of Top-up premium",
+   "page_4": 10
+  },
+  "policy_administration_charge": {
+   "value": {
+    "regular/limited": {
+     "Y1-5": "0.09% (monthly, of annualized premium)",
+     "Y6-20": "0.20%",
+     "Y21+": "nil"
+    },
+    "single pay": {
+     "Y1-20": "0.05% (monthly, of single premium)",
+     "Y21+": "nil"
+    },
+    "cap": "Rs 500 per month"
+   },
+   "status": "built-in",
+   "doc": "supreme-sl.pdf",
+   "page": 10,
+   "quote": "Regular/Limited Pay 0.09% 0.20% Nil",
+   "note": "brochure p.10",
+   "quote_2": "Single Pay 0.05% Nil",
+   "page_2": 10,
+   "quote_3": "subject to a maximum of Rs.500 per month",
+   "page_3": 10
+  },
+  "fund_management_charge": {
+   "value": {
+    "equity and index funds": "1.35%",
+    "Pure Stock Fund II": "1.30%",
+    "Asset Allocation Fund II, Bluechip Equity Fund": "1.25%",
+    "Liquid, Bond, Individual Short Term Debt": "0.95%",
+    "Discontinued Life Policy Fund": "0.50%"
+   },
+   "status": "built-in",
+   "doc": "supreme-sl.pdf",
+   "page": 12,
+   "quote": "Pure Stock Fund II 1.30%",
+   "note": null,
+   "quote_2": "Bluechip Equity Fund 1.25%",
+   "page_2": 12,
+   "quote_3": "Individual Short Term Debt Fund 0.95%",
+   "page_3": 12,
+   "quote_4": "Discontinued Life Policy Fund 0.50%",
+   "page_4": 12
+  },
+  "mortality_charge": {
+   "value": {
+    "basis": "annual rate per 1,000 sum at risk by attained age, deducted monthly",
+    "sample_rates_male": {
+     "age 0": 0.915,
+     "age 3": 0.47,
+     "age 39": 1.56,
+     "age 40": 1.68,
+     "age 78": 51.024
+    }
+   },
+   "status": "built-in",
+   "doc": "supreme-policy-doc.pdf",
+   "page": 21,
+   "quote": "Age Mortality charge Age Mortality charge Age Mortality charge 0 0.915 39 1.56 78 51.024 1 0.915 40 1.68",
+   "note": "Annexure 1 rate table on policy page 21, ages 0 to 100"
+  },
+  "discontinuance_charge": {
+   "value": {
+    "regular/limited, AP up to Rs 50,000": {
+     "Y1": "lower of 20% x (AP or FV), max Rs 3,000",
+     "Y2": "15%, max Rs 2,000",
+     "Y3": "10%, max Rs 1,500",
+     "Y4": "5%, max Rs 1,000",
+     "Y5+": "nil"
+    },
+    "regular/limited, AP above Rs 50,000": {
+     "Y1": "6%, max Rs 6,000",
+     "Y2": "4%, max Rs 5,000",
+     "Y3": "3%, max Rs 4,000",
+     "Y4": "2%, max Rs 2,000",
+     "Y5+": "nil"
+    },
+    "single, SP up to Rs 3 lakh": {
+     "Y1": "2.0%, max Rs 3,000",
+     "Y2": "1.5%, max Rs 2,000",
+     "Y3": "1%, max Rs 1,500",
+     "Y4": "0.5%, max Rs 1,000",
+     "Y5+": "nil"
+    },
+    "single, SP above Rs 3 lakh": {
+     "Y1": "1.00%, max Rs 6,000",
+     "Y2": "0.70%, max Rs 5,000",
+     "Y3": "0.50%, max Rs 4,000",
+     "Y4": "0.35%, max Rs 2,000",
+     "Y5+": "nil"
+    },
+    "top-up": "nil"
+   },
+   "status": "built-in",
+   "doc": "supreme-sl.pdf",
+   "page": 34,
+   "quote": "Lower of 20% * (AP or FV) subject Lower of 6% * (AP or FV) sub1 to maximum of Rs. 3,000 ject to maximum of Rs. 6,000 Lower of 15% * (AP or FV) subject Lower of 4% * (AP or FV) sub2 to maximum of Rs. 2,000 ject to maximum of Rs. 5,000",
+   "note": "brochure p.34 two-column tables, text read in order",
+   "quote_2": "Lower of 10% * (AP or FV) subject Lower of 3% * (AP or FV) sub3 to maximum of Rs. 1,500 ject to maximum of Rs. 4,000 Lower of 5% * (AP or FV) subject Lower of 2% * (AP or FV) sub4 to maximum of Rs. 1,000 ject to maximum of Rs. 2,000 5 & above Nil Nil",
+   "page_2": 34,
+   "quote_3": "Lower of 2.0% *(SP or FV) subject Lower of 1.00% *(SP or FV) subject 1 to a maximum of Rs.3000/to a maximum of Rs.6000/Lower of 1.5% *(SP or FV) subject to Lower of 0.70% *(SP or FV) subject 2 a maximum of Rs. 2000/to a maximum of Rs.5000/",
+   "page_3": 34,
+   "quote_4": "Lower of 1% *(SP or FV) subject to a Lower of 0.50%* (SP or FV) subject 3 maximum of Rs.1500/to a maximum of Rs.4000/Lower of 0.5% *(SP or FV) subject Lower of 0.35% *(SP or FV) subject 4 to a maximum of Rs.1000/to a maximum of Rs.2000/5 Nil Nil",
+   "page_4": 34
+  },
+  "switching_charge": {
+   "value": "nil; unlimited free switches",
+   "status": "built-in",
+   "doc": "supreme-sl.pdf",
+   "page": 26,
+   "quote": "You can exercise unlimited free switches",
+   "note": null
+  },
+  "partial_withdrawal_charge": {
+   "value": "nil",
+   "status": "built-in",
+   "doc": "supreme-sl.pdf",
+   "page": 24,
+   "quote": "No charges would be charged for Partial Withdrawal.",
+   "note": null
+  },
+  "premium_redirection_charge": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "miscellaneous_charge": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "guarantee_charge": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "rider_charges": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "any_charge_returned": {
+   "value": {
+    "premium allocation charges": "accumulated at 7% a year and added at the end of year 15",
+    "mortality charges": "100% at year 15, then every 5 years, and at maturity"
+   },
+   "status": "built-in",
+   "doc": "supreme-sl.pdf",
+   "page": 8,
+   "quote": "Every 5th Policy year after 15th 100% of Mortality Charges deducted in the last 5",
+   "note": null,
+   "quote_2": "accumulated at a guaranteed rate of 7% per year (compounded annually) will be added back to fund value as Guaranteed",
+   "page_2": 7
+  }
+ },
+ "benefits": {
+  "death_benefit_formula": {
+   "value": "higher of prevailing sum assured (with top-up SA), fund value and 105% of total premiums paid",
+   "status": "built-in",
+   "doc": "supreme-sl.pdf",
+   "page": 6,
+   "quote": "Guaranteed Death Benefit i.e.105% of Total Premiums Paid till the date of death, including top-up premium",
+   "note": null
+  },
+  "maturity_benefit": {
+   "value": "fund value at maturity; lump sum or settlement option up to 5 years",
+   "status": "built-in",
+   "doc": "supreme-sl.pdf",
+   "page": 6,
+   "quote": "You will have an option to receive the Maturity Benefit as lump-sum or as a systematic",
+   "note": null
+  },
+  "loyalty_additions": {
+   "value": {
+    "from": "end of year 16 to the end of the term",
+    "rate": "0.25% of the average fund value of the last 3 years"
+   },
+   "status": "built-in",
+   "doc": "supreme-sl.pdf",
+   "page": 7,
+   "quote": "Loyalty Additions will be 0.25% of the average fund value of the last 3 years",
+   "note": null
+  },
+  "wealth_boosters_or_guaranteed_additions": {
+   "value": {
+    "Guaranteed Wealth Booster": "all premium allocation charges accumulated at 7% p.a. compounded, added at the end of year 15"
+   },
+   "status": "built-in",
+   "doc": "supreme-sl.pdf",
+   "page": 7,
+   "quote": "at a guaranteed rate of 7% per year (compounded annually) and will be added to",
+   "note": null
+  },
+  "return_of_mortality_charges": {
+   "value": {
+    "year 15": "100% of mortality charges deducted so far",
+    "every 5th year after 15": "100% of the last 5 years",
+    "maturity": "100% of the balance"
+   },
+   "status": "built-in",
+   "doc": "supreme-sl.pdf",
+   "page": 8,
+   "quote": "15th Policy Year 100% of the Mortality charge deducted till 15th year",
+   "note": null,
+   "quote_2": "100% of the Mortality charges deducted minus mortality charges already returned",
+   "page_2": 8
+  },
+  "return_of_premium_allocation_charges": {
+   "value": "accumulated at 7% p.a. compounded and added at the end of year 15",
+   "status": "built-in",
+   "doc": "supreme-sl.pdf",
+   "page": 7,
+   "quote": "at a guaranteed rate of 7% per year (compounded annually) and will be added to",
+   "note": null
+  },
+  "return_of_policy_admin_charges": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "other_additions": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  }
+ },
+ "flexibility": {
+  "fund_switching": {
+   "value": "unlimited free; minimum Rs 5,000 or the fund value; Investor Selectable strategy only",
+   "status": "optional (during term)",
+   "doc": "supreme-sl.pdf",
+   "page": 26,
+   "quote": "The minimum switching amount is Rs. 5,000 or the value of units held by you in the fund to be switched from,",
+   "note": null
+  },
+  "premium_redirection": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "partial_withdrawals": {
+   "value": {
+    "from": "after 5 policy years",
+    "minimum": "Rs 5,000",
+    "regular/limited": "fund must stay at least 2 x annualized premium",
+    "single": "up to 25% of fund; fund must stay at least 1/5 of SP",
+    "top-up": "5-year lock-in on each top-up payment"
+   },
+   "status": "optional (during term)",
+   "doc": "supreme-sl.pdf",
+   "page": 23,
+   "quote": "The minimum amount of withdrawal at any one time is Rs. 5,000/-.",
+   "note": null,
+   "quote_2": "You can withdraw up to 25% of your Single Premium fund value",
+   "page_2": 24,
+   "quote_3": "not fall below two (2) times of the Annualized Premium",
+   "page_3": 24
+  },
+  "systematic_withdrawal_plan": {
+   "value": "% of fund value at monthly to yearly frequency, after year 5, no charge",
+   "status": "optional (during term)",
+   "doc": "supreme-sl.pdf",
+   "page": 25,
+   "quote": "Systematic Partial Withdrawal is allowed only after completion of first five policy years",
+   "note": null
+  },
+  "top_up_premiums": {
+   "value": {
+    "minimum": "Rs 5,000",
+    "allowed": "any time except the last 5 policy years",
+    "allocation charge": "2%"
+   },
+   "status": "optional (during term)",
+   "doc": "supreme-sl.pdf",
+   "page": 25,
+   "quote": "The minimum Top-Up premium payable is ₹ 5,000",
+   "note": null,
+   "quote_2": "except during the last five (5) policy years",
+   "page_2": 25
+  },
+  "settlement_option": {
+   "value": "maturity benefit in instalments over up to 5 years",
+   "status": "optional (during term)",
+   "doc": "supreme-sl.pdf",
+   "page": 6,
+   "quote": "systematic payout for a maximum of five years under Settlement Option",
+   "note": null
+  },
+  "premium_holiday_or_offset": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "increase_decrease_cover": {
+   "value": "reduce regular/limited premium by up to 50% after year 5",
+   "status": "optional (during term)",
+   "doc": "supreme-sl.pdf",
+   "page": 26,
+   "quote": "You can reduce up to 50% of the regular/limited premium as at the inception of",
+   "note": null
+  },
+  "change_ppt_or_term": {
+   "value": "premium payment term can be changed after 5 full years of premiums",
+   "status": "optional (during term)",
+   "doc": "supreme-sl.pdf",
+   "page": 26,
+   "quote": "You can exercise the option only after the payment of first five (5) policy years full",
+   "note": null
+  },
+  "policy_loan": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "auto_portfolio_strategies": {
+   "value": [
+    {
+     "name": "Wheel of Life Portfolio Strategy II"
+    },
+    {
+     "name": "Capital Preservation Oriented Strategy",
+     "mechanics": "fixed split across funds that moves to debt as maturity nears (10+ years left: 40% Equity Growth Fund II, 15%, 15%, 30%; 1 year left: 100% in the last fund); not for whole life"
+    },
+    {
+     "name": "Trigger Based Portfolio Strategy II"
+    },
+    {
+     "name": "Automatic Transfer Portfolio Strategy"
+    }
+   ],
+   "status": "optional (at inception)",
+   "doc": "supreme-sl.pdf",
+   "page": 24,
+   "quote": "Wheel of Life Portfolio Strategy II, Capital Preservation Oriented Strategy, Trigger Based Portfolio Strategy II or the Automatic Transfer Portfolio Strategy",
+   "note": null,
+   "quote_2": "This Portfolio strategy is not applicable, if whole life is selected as policy term",
+   "page_2": 20
+  }
+ },
+ "funds": {
+  "fund_count": {
+   "value": 31,
+   "status": "n/a",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": "count from the brochure FMC table, excluding the Discontinued Life Policy Fund"
+  },
+  "fund_list": {
+   "value": [
+    {
+     "name": "Accelerator Mid Cap Fund II",
+     "SFIN": null,
+     "FMC_pct": 1.35,
+     "asset_allocation": "see policy document Part E",
+     "risk_label": null
+    },
+    {
+     "name": "Asset Allocation Fund II",
+     "SFIN": null,
+     "FMC_pct": 1.25,
+     "asset_allocation": "see policy document Part E",
+     "risk_label": null
+    },
+    {
+     "name": "Bluechip Equity Fund",
+     "SFIN": null,
+     "FMC_pct": 1.25,
+     "asset_allocation": "see policy document Part E",
+     "risk_label": null
+    },
+    {
+     "name": "Bond Fund",
+     "SFIN": null,
+     "FMC_pct": 0.95,
+     "asset_allocation": "see policy document Part E",
+     "risk_label": null
+    },
+    {
+     "name": "Equity Growth Fund II",
+     "SFIN": null,
+     "FMC_pct": 1.35,
+     "asset_allocation": "see policy document Part E",
+     "risk_label": null
+    },
+    {
+     "name": "Liquid Fund",
+     "SFIN": null,
+     "FMC_pct": 0.95,
+     "asset_allocation": "see policy document Part E",
+     "risk_label": null
+    },
+    {
+     "name": "Pure Stock Fund",
+     "SFIN": null,
+     "FMC_pct": 1.35,
+     "asset_allocation": "see policy document Part E",
+     "risk_label": null
+    },
+    {
+     "name": "Debt Plus Fund",
+     "SFIN": null,
+     "FMC_pct": 0.7,
+     "asset_allocation": "see policy document Part E",
+     "risk_label": null
+    },
+    {
+     "name": "Nifty Alpha 50 Index Fund",
+     "SFIN": null,
+     "FMC_pct": 1.35,
+     "asset_allocation": "see policy document Part E",
+     "risk_label": null
+    },
+    {
+     "name": "Nifty 200 Alpha 30 Index Fund",
+     "SFIN": null,
+     "FMC_pct": 1.35,
+     "asset_allocation": "see policy document Part E",
+     "risk_label": null
+    },
+    {
+     "name": "Focused 25 Fund",
+     "SFIN": null,
+     "FMC_pct": 1.35,
+     "asset_allocation": "see policy document Part E",
+     "risk_label": null
+    },
+    {
+     "name": "Pure Stock Fund II",
+     "SFIN": null,
+     "FMC_pct": 1.3,
+     "asset_allocation": "see policy document Part E",
+     "risk_label": null
+    },
+    {
+     "name": "Flexi Cap Fund",
+     "SFIN": null,
+     "FMC_pct": 1.35,
+     "asset_allocation": "see policy document Part E",
+     "risk_label": null
+    },
+    {
+     "name": "Sustainable Equity Fund",
+     "SFIN": null,
+     "FMC_pct": 1.35,
+     "asset_allocation": "see policy document Part E",
+     "risk_label": null
+    },
+    {
+     "name": "Small Cap Fund",
+     "SFIN": null,
+     "FMC_pct": 1.35,
+     "asset_allocation": "see policy document Part E",
+     "risk_label": null
+    },
+    {
+     "name": "Dynamic Asset Allocation Fund",
+     "SFIN": null,
+     "FMC_pct": 1.35,
+     "asset_allocation": "see policy document Part E",
+     "risk_label": null
+    },
+    {
+     "name": "Individual Short Term Debt Fund",
+     "SFIN": null,
+     "FMC_pct": 0.95,
+     "asset_allocation": "see policy document Part E",
+     "risk_label": null
+    },
+    {
+     "name": "Midcap Index Fund",
+     "SFIN": null,
+     "FMC_pct": 1.35,
+     "asset_allocation": "see policy document Part E",
+     "risk_label": null
+    },
+    {
+     "name": "Smallcap Quality Index Fund",
+     "SFIN": null,
+     "FMC_pct": 1.35,
+     "asset_allocation": "see policy document Part E",
+     "risk_label": null
+    },
+    {
+     "name": "Nifty 200 Momentum 30 Index Fund",
+     "SFIN": null,
+     "FMC_pct": 1.35,
+     "asset_allocation": "see policy document Part E",
+     "risk_label": null
+    },
+    {
+     "name": "Nifty 500 Multicap Momentum Quality 50 Index Fund",
+     "SFIN": null,
+     "FMC_pct": 1.35,
+     "asset_allocation": "see policy document Part E",
+     "risk_label": null
+    },
+    {
+     "name": "Nifty 500 Multifactor 50 Index Fund",
+     "SFIN": null,
+     "FMC_pct": 1.35,
+     "asset_allocation": "see policy document Part E",
+     "risk_label": null
+    },
+    {
+     "name": "BSE 500 Enhanced Value 50 Index Fund",
+     "SFIN": null,
+     "FMC_pct": 1.35,
+     "asset_allocation": "see policy document Part E",
+     "risk_label": null
+    },
+    {
+     "name": "BSE 500 Dividend Leaders 50 Index Fund",
+     "SFIN": null,
+     "FMC_pct": 1.35,
+     "asset_allocation": "see policy document Part E",
+     "risk_label": null
+    },
+    {
+     "name": "India Consumption Fund",
+     "SFIN": null,
+     "FMC_pct": 1.35,
+     "asset_allocation": "see policy document Part E",
+     "risk_label": null
+    },
+    {
+     "name": "Pure Stock Innovation Fund",
+     "SFIN": null,
+     "FMC_pct": 1.35,
+     "asset_allocation": "see policy document Part E",
+     "risk_label": null
+    },
+    {
+     "name": "BSE 500 Quality 50 Index Fund",
+     "SFIN": null,
+     "FMC_pct": 1.35,
+     "asset_allocation": "see policy document Part E",
+     "risk_label": null
+    },
+    {
+     "name": "Opportunities Fund",
+     "SFIN": null,
+     "FMC_pct": 1.35,
+     "asset_allocation": "see policy document Part E",
+     "risk_label": null
+    },
+    {
+     "name": "Nifty 500 Low Volatility 50 Index Fund",
+     "SFIN": null,
+     "FMC_pct": 1.35,
+     "asset_allocation": "see policy document Part E",
+     "risk_label": null
+    },
+    {
+     "name": "Nifty 200 Value 30 Index Fund",
+     "SFIN": null,
+     "FMC_pct": 1.35,
+     "asset_allocation": "see policy document Part E",
+     "risk_label": null
+    },
+    {
+     "name": "BSE 500 Momentum Value 50 Index Fund",
+     "SFIN": null,
+     "FMC_pct": 1.35,
+     "asset_allocation": "see policy document Part E",
+     "risk_label": null
+    }
+   ],
+   "status": "n/a",
+   "doc": "supreme-sl.pdf",
+   "page": 12,
+   "quote": "Bluechip Equity Fund 1.25%",
+   "note": "FMCs from the brochure; SFINs left out"
+  },
+  "index_or_thematic_funds": {
+   "value": "BSE 500 Momentum Value 50, Nifty 200 Value 30, BSE 500 Quality 50, BSE 500 Dividend Leaders 50, BSE 500 Enhanced Value 50, Midcap, SmallCap Quality, Nifty Alpha 50, Nifty 200 Alpha 30, Nifty 200 Momentum 30, Nifty 500 Multicap Momentum Quality 50, Nifty 500 Multifactor 50, Nifty 500 Low Volatility 50 index funds; India Consumption Fund",
+   "status": "n/a",
+   "doc": "supreme-sl.pdf",
+   "page": 11,
+   "quote": "Nifty 200 Value 30 Index Fund 1.35%",
+   "note": null
+  },
+  "discontinued_policy_fund": {
+   "value": {
+    "name": "Discontinued Life Policy Fund",
+    "FMC": "0.50%"
+   },
+   "status": "built-in",
+   "doc": "supreme-sl.pdf",
+   "page": 12,
+   "quote": "Discontinued Life Policy Fund 0.50%",
+   "note": null
+  }
+ },
+ "protection_add_ons": {
+  "waiver_of_premium_inbuilt": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "critical_illness": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "accidental_death": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "terminal_illness": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "spouse_or_child_cover": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "riders_available": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  }
+ },
+ "surrender_revival": {
+  "lock_in_years": {
+   "value": 5,
+   "status": "built-in",
+   "doc": "supreme-sl.pdf",
+   "page": 24,
+   "quote": "lock-in period of five",
+   "note": null
+  },
+  "discontinuance_rules": {
+   "value": "discontinuance in the first 5 years moves the fund, less the charge, to the Discontinued Life Policy Fund",
+   "status": "built-in",
+   "doc": "supreme-sl.pdf",
+   "page": 31,
+   "quote": "Discontinuance Value",
+   "note": null
+  },
+  "revival_period": {
+   "value": "3 years from the first unpaid premium",
+   "status": "built-in",
+   "doc": "supreme-sl.pdf",
+   "page": 35,
+   "quote": "within three (3) years from the date of first unpaid premium",
+   "note": null
+  },
+  "surrender_value_rule": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  }
+ },
+ "documents_inventory": [
+  {
+   "website_label": "E-Policy Bond",
+   "doc_type": "policy_document",
+   "url": "https://la.bajajlife.com/login-module/login?goto=ZS1Qb2xpY3kgQm9uZA==",
+   "found_on_page_url": "https://www.bajajlifeinsurance.com/ulip-plans/supreme-advantage-plan.html",
+   "pages": null,
+   "stored_path": null,
+   "status": "web page (not stored)",
+   "note": "link opens a web page, not a document"
+  },
+  {
+   "website_label": "Investment Insight -->",
+   "doc_type": "fund_factsheet",
+   "url": "https://www.bajajlifeinsurance.com/content/dam/balic-web/pdf/individual-factsheet.pdf",
+   "found_on_page_url": "https://www.bajajlifeinsurance.com/ulip-plans/supreme-advantage-plan.html",
+   "pages": null,
+   "stored_path": null,
+   "status": "skipped",
+   "note": "fund document does not name this product (company-wide)"
+  },
+  {
+   "website_label": "supreme-gold-leaflet.pdf",
+   "doc_type": "leaflet",
+   "url": "https://www.bajajlifeinsurance.com/content/dam/balic-web/pdf/ulip/supreme-gold-leaflet.pdf",
+   "found_on_page_url": "https://www.bajajlifeinsurance.com/ulip-plans/supreme-advantage-plan.html",
+   "pages": null,
+   "stored_path": null,
+   "status": "not stored (leaflet; brochure already stored)",
+   "note": null
+  },
+  {
+   "website_label": "supreme-cis.pdf",
+   "doc_type": "CIS",
+   "url": "https://www.bajajlifeinsurance.com/content/dam/balic-web/pdf/ulip/supreme-cis.pdf",
+   "found_on_page_url": "https://www.bajajlifeinsurance.com/ulip-plans/supreme-advantage-plan.html",
+   "pages": 4,
+   "stored_path": "docs/bajaj-life/116L211V02/cis.pdf",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "website_label": "supreme-sl.pdf",
+   "doc_type": "brochure",
+   "url": "https://www.bajajlifeinsurance.com/content/dam/balic-web/pdf/ulip/supreme-sl.pdf",
+   "found_on_page_url": "https://www.bajajlifeinsurance.com/ulip-plans/supreme-advantage-plan.html",
+   "pages": null,
+   "stored_path": null,
+   "status": "not stored (unlabelled link; brochure already stored)",
+   "note": null
+  },
+  {
+   "website_label": "supreme-policy-doc.pdf",
+   "doc_type": "policy_document",
+   "url": "https://www.bajajlifeinsurance.com/content/dam/balic-web/pdf/ulip/supreme-policy-doc.pdf",
+   "found_on_page_url": "https://www.bajajlifeinsurance.com/ulip-plans/supreme-advantage-plan.html",
+   "pages": 24,
+   "stored_path": "docs/bajaj-life/116L211V02/policy.pdf",
+   "status": "ok",
+   "note": "not linked from the product page; URL follows the site's naming pattern (same folder as supreme-cis.pdf) and returned a real PDF"
+  },
+  {
+   "website_label": "supreme-sl.pdf",
+   "doc_type": "brochure",
+   "url": "https://www.bajajlifeinsurance.com/content/dam/balic-web/pdf/ulip/supreme-sl.pdf",
+   "found_on_page_url": "https://www.bajajlifeinsurance.com/ulip-plans/supreme-advantage-plan.html",
+   "pages": 46,
+   "stored_path": "docs/bajaj-life/116L211V02/brochure.pdf",
+   "status": "already stored",
+   "note": null
+  }
+ ],
+ "new_features_not_in_schema": [
+  {
+   "feature": "Nine premium-charge variants",
+   "description": "Advantage to Inspire differ only in allocation charge (6% to 0% in years 1 to 5); all allocation charges are added back with 7% a year at year 15",
+   "quote": "All the variants are effectively zero premium allocation charge",
+   "doc": "supreme-sl.pdf",
+   "page": 7
+  },
+  {
+   "feature": "Return of mortality charges every 5 years",
+   "description": "100% of mortality charges returned at year 15, every 5th year after, and at maturity",
+   "quote": "15th Policy Year 100% of the Mortality charge deducted till 15th year",
+   "doc": "supreme-sl.pdf",
+   "page": 8
+  },
+  {
+   "feature": "Capital Preservation Oriented Strategy",
+   "description": "Allocation across funds steps toward debt as maturity nears; not available with whole life",
+   "quote": "This Portfolio strategy is not applicable, if whole life is selected as policy term",
+   "doc": "supreme-sl.pdf",
+   "page": 20
+  }
+ ],
+ "data_not_public": []
+}

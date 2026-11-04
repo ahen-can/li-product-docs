@@ -44,6 +44,12 @@ def inventory(uin):
             out.append({'website_label': lab, 'doc_type': r['doc_type'], 'url': r['source_url'],
                         'found_on_page_url': r['found_on_page_url'], 'pages': int(r['pages']) if r['pages'].isdigit() else None,
                         'stored_path': fp, 'status': 'already stored', 'note': r['notes'] or None})
+    used = {}
+    for o in out:                                                  # same label on several different files (Bajaj "Download"): keep the first, tag the rest with the file name
+        if not o['stored_path']: continue
+        n = used.get(o['website_label'], 0); used[o['website_label']] = n + 1
+        if n and o['url']:
+            o['website_label'] = f"{o['website_label']} ({urllib.parse.unquote(o['url']).rsplit('/', 1)[-1]})"
     return out
 
 def locate_pages(j):

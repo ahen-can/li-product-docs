@@ -1,0 +1,1007 @@
+{
+ "product": {
+  "uin": {
+   "value": "116L203V01",
+   "status": "n/a",
+   "doc": "Download",
+   "page": 1,
+   "quote": "UIN:116L203V01",
+   "note": null
+  },
+  "uin_in_brochure": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "product_name": {
+   "value": "Bajaj Life LongLife Goal III",
+   "status": "n/a",
+   "doc": "Download",
+   "page": 1,
+   "quote": "Bajaj Life LongLife Goal III",
+   "note": null
+  },
+  "irdai_description_line": {
+   "value": "A Unit-linked Non-Participating Whole Life Insurance Plan",
+   "status": "n/a",
+   "doc": "longlife-goal-brochure.pdf",
+   "page": 1,
+   "quote": "A Unit-linked Non-Participating Whole Life Insurance Plan",
+   "note": null
+  },
+  "launch_or_version_date": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "variants_or_plan_options": {
+   "value": [
+    "LongLife Goal without Waiver of Premium",
+    "LongLife Goal with Waiver of Premium"
+   ],
+   "status": "optional (at inception)",
+   "doc": "longlife-goal-brochure.pdf",
+   "page": 2,
+   "quote": "Choice of 2 plan variants#: LongLife Goal without Waiver of Premium & LongLife Goal with Waiver of Premium",
+   "note": null
+  },
+  "target_segment_stated": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "online_offline": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  }
+ },
+ "eligibility": {
+  "entry_age_min": {
+   "value": {
+    "life assured": 0,
+    "policyholder": 18
+   },
+   "status": "n/a",
+   "doc": "longlife-goal-brochure.pdf",
+   "page": 15,
+   "quote": "Life Assured 0 Policyholder (LongLife Goal with Waiver of Premium) 18 Policyholder (LongLife Goal without Waiver of Premium) 18",
+   "note": "policyholder 18 under both variants"
+  },
+  "entry_age_max": {
+   "value": {
+    "life assured": 65,
+    "policyholder, with WOP": 65
+   },
+   "status": "n/a",
+   "doc": "longlife-goal-brochure.pdf",
+   "page": 15,
+   "quote": "Life Assured 65 Policyholder (LongLife Goal with Waiver of Premium) 65",
+   "note": "the table also shows no limit for the policyholder without WOP, but that cell is not adjacent to its row in the text, so it is not quoted"
+  },
+  "maturity_age_min": {
+   "value": {
+    "without WOP": 85,
+    "with WOP": 99
+   },
+   "status": "n/a",
+   "doc": "longlife-goal-brochure.pdf",
+   "page": 15,
+   "quote": "Minimum - 85 years",
+   "note": null,
+   "quote_2": "Minimum & Maximum - 99 years",
+   "page_2": 15
+  },
+  "maturity_age_max": {
+   "value": 99,
+   "status": "n/a",
+   "doc": "longlife-goal-brochure.pdf",
+   "page": 15,
+   "quote": "Maximum - 99 years",
+   "note": null
+  },
+  "policy_term_options": {
+   "value": {
+    "without WOP": "85 to 99 years minus age at entry",
+    "with WOP": "99 years minus age at entry"
+   },
+   "status": "n/a",
+   "doc": "longlife-goal-brochure.pdf",
+   "page": 15,
+   "quote": "LongLife Goal without Waiver of Premium: 85 to 99 years minus Age at Entry of Life Assured",
+   "note": null,
+   "quote_2": "LongLife Goal with Waiver of Premium: 99 years minus Age at Entry of Life Assured",
+   "page_2": 15
+  },
+  "ppt_options": {
+   "value": {
+    "min": 10,
+    "max": 25
+   },
+   "status": "n/a",
+   "doc": "longlife-goal-brochure.pdf",
+   "page": 15,
+   "quote": "10 to 25 years",
+   "note": null
+  },
+  "premium_min_annual": {
+   "value": {
+    "yearly": 25000,
+    "half-yearly": 12500,
+    "quarterly": 6250,
+    "monthly": 2500
+   },
+   "status": "n/a",
+   "doc": "longlife-goal-brochure.pdf",
+   "page": 15,
+   "quote": "Premium (in `) 25,000 12,500 6,250 2,500",
+   "note": null
+  },
+  "premium_min_single": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "premium_max": {
+   "value": "no limit; as per maximum sum assured and Board Approved Underwriting Policy",
+   "status": "n/a",
+   "doc": "longlife-goal-brochure.pdf",
+   "page": 15,
+   "quote": "As per maximum Sum Assured and Board Approved Underwriting Policy",
+   "note": null
+  },
+  "sum_assured_rule": {
+   "value": {
+    "min": {
+     "age < 50": "7 x annualized premium",
+     "age >= 50": "5 x annualized premium"
+    },
+    "max": "10 x annualized premium"
+   },
+   "status": "built-in",
+   "doc": "longlife-goal-brochure.pdf",
+   "page": 15,
+   "quote": "For Age less than 50 years: 7 times Annualized Premium",
+   "note": null,
+   "quote_2": "For Age 50 years and above: 5 times the Annualized Premium",
+   "page_2": 15,
+   "quote_3": "Maximum Sum Assured: 10 times Annualized Premium",
+   "page_3": 15
+  },
+  "premium_modes": {
+   "value": "yearly, half-yearly, quarterly, monthly",
+   "status": "n/a",
+   "doc": "longlife-goal-brochure.pdf",
+   "page": 15,
+   "quote": "Yearly, Half-yearly, Quarterly and Monthly",
+   "note": null
+  },
+  "life_cover_multiple_choice": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  }
+ },
+ "charges": {
+  "premium_allocation_charge": {
+   "value": {
+    "annualized premium below Rs 10 lakh": {
+     "yearly mode": {
+      "Y1-5": "6%",
+      "Y6 to PPT": "3%"
+     },
+     "other modes": {
+      "Y1-5": "5%",
+      "Y6 to PPT": "3%"
+     }
+    },
+    "Rs 10 lakh and above": "0%",
+    "online sales": "nil"
+   },
+   "status": "built-in",
+   "doc": "longlife-goal-brochure.pdf",
+   "page": 18,
+   "quote": "Less than Rs.10 Lakhs 6% 3%",
+   "note": "yearly-mode row; the other-modes row reads 5% and 3%",
+   "quote_2": "Less than Rs.10 Lakhs 5% 3%",
+   "page_2": 18,
+   "quote_3": "Allocation Charge is NIL for online sales.",
+   "page_3": 2
+  },
+  "policy_administration_charge": {
+   "value": {
+    "annualized premium below Rs 10 lakh": {
+     "Y1-5": "1.08% p.a.",
+     "Y6-15": "3% p.a."
+    },
+    "Rs 10 lakh and above": {
+     "Y1-5": "0.60% p.a.",
+     "Y6-15": "0.60% p.a."
+    },
+    "cap": "Rs 500 in any month"
+   },
+   "status": "built-in",
+   "doc": "longlife-goal-brochure.pdf",
+   "page": 18,
+   "quote": "Less than `10 Lakhs 1.08% p.a. 3% p.a.",
+   "note": null,
+   "quote_2": "`10 Lakhs and Above 0.60% p.a. 0.60%p.a.",
+   "page_2": 18,
+   "quote_3": "subject to maximum of Rs.500 in any month",
+   "page_3": 18
+  },
+  "fund_management_charge": {
+   "value": {
+    "equity and index funds": "1.35%",
+    "Pure Stock Fund II": "1.30%",
+    "Asset Allocation Fund II, Bluechip Equity Fund": "1.25%",
+    "Liquid, Bond, Individual Short Term Debt": "0.95%",
+    "Discontinued Life Policy Fund": "0.50%"
+   },
+   "status": "built-in",
+   "doc": "longlife-goal-brochure.pdf",
+   "page": 18,
+   "quote": "Pure Stock Fund II 1.30%",
+   "note": null,
+   "quote_2": "Bluechip Equity Fund 1.25%",
+   "page_2": 18,
+   "quote_3": "Individual Short Term Debt Fund 0.95%",
+   "page_3": 18,
+   "quote_4": "Discontinued Life Policy Fund 0.50%",
+   "page_4": 18
+  },
+  "mortality_charge": {
+   "value": {
+    "basis": "annual rate per 1,000 sum at risk by attained age, deducted monthly",
+    "female": "3-year age setback",
+    "rates_age_0_to_7": [
+     0.915,
+     0.915,
+     0.915,
+     0.47,
+     0.271,
+     0.185,
+     0.152,
+     0.149
+    ],
+    "waiver of premium charge": "0.15 per 1,000 sum at risk, all ages (variant with WOP)"
+   },
+   "status": "built-in",
+   "doc": "Download",
+   "page": 37,
+   "quote": "Mortality charge 0.915 0.915 0.915 0.47 0.271 0.185 0.152 0.149",
+   "note": "Annexure 1 rate table (ages 0 to 100) on policy page 37, ages in a separate row; WOP rate on page 38. Brochure p.19 sample: 0.98, 1.20, 1.68, 2.58 at ages 30, 35, 40, 45",
+   "quote_2": "Age WOP Charge All Ages 0.15",
+   "page_2": 38
+  },
+  "discontinuance_charge": {
+   "value": {
+    "AP up to Rs 50,000": {
+     "Y1": "lower of 20% x (AP or FV), max Rs 3,000",
+     "Y2": "15%, max Rs 2,000",
+     "Y3": "10%, max Rs 1,500",
+     "Y4": "5%, max Rs 1,000",
+     "Y5+": "nil"
+    },
+    "AP above Rs 50,000": {
+     "Y1": "6%, max Rs 6,000",
+     "Y2": "4%, max Rs 5,000",
+     "Y3": "3%, max Rs 4,000",
+     "Y4": "2%, max Rs 2,000",
+     "Y5+": "nil"
+    }
+   },
+   "status": "built-in",
+   "doc": "longlife-goal-brochure.pdf",
+   "page": 19,
+   "quote": "Lower of 20% * (AP or FV) subject to maximum of `3,000 Lower of 6% * (AP or FV) subject to maximum of `6,000",
+   "note": "brochure p.19 two-column table; Y2 to Y4 rows are split across lines in the text",
+   "quote_2": "2 Lower of 15% * (AP or FV) subject Lower of 4% * (AP or FV) subject to maximum of `2,000 to maximum of `5,000",
+   "page_2": 19,
+   "quote_3": "Lower of 10% * (AP or FV) subject to maximum of `1,500 4 Lower of 5% * (AP or FV) subject Lower of 2% * (AP or FV) subject to maximum of `1,000 to maximum of `2,000",
+   "page_3": 19,
+   "quote_4": "5 & above Lower of 3% * (AP or FV) subject to maximum of `4,000 Nil Nil",
+   "page_4": 19
+  },
+  "switching_charge": {
+   "value": "nil; unlimited free switches",
+   "status": "built-in",
+   "doc": "longlife-goal-brochure.pdf",
+   "page": 13,
+   "quote": "You can make unlimited free switches",
+   "note": null
+  },
+  "partial_withdrawal_charge": {
+   "value": "nil",
+   "status": "built-in",
+   "doc": "longlife-goal-brochure.pdf",
+   "page": 11,
+   "quote": "No charges would be charged for Partial Withdrawal",
+   "note": null
+  },
+  "premium_redirection_charge": {
+   "value": "Rs 100",
+   "status": "built-in",
+   "doc": "longlife-goal-brochure.pdf",
+   "page": 12,
+   "quote": "Miscellaneous charge, as mentioned in the Table of Charges given below, will be applicable for change in",
+   "note": null
+  },
+  "miscellaneous_charge": {
+   "value": "Rs 100 per transaction",
+   "status": "built-in",
+   "doc": "longlife-goal-brochure.pdf",
+   "page": 19,
+   "quote": "A miscellaneous charge of Rs.100/-",
+   "note": null
+  },
+  "guarantee_charge": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "rider_charges": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "any_charge_returned": {
+   "value": {
+    "mortality charges": "all returned through PROMC: first at the end of the year the life assured turns 60 or year 15 (whichever is later), then every 10th year, last at maturity",
+    "waiver of premium charges": "returned the same way through PROWC (variant with WOP)"
+   },
+   "status": "built-in",
+   "doc": "longlife-goal-brochure.pdf",
+   "page": 4,
+   "quote": "First addition will be at the end of the Policy Year in which You attain Age 60 years or end of the 15th Policy",
+   "note": null,
+   "quote_2": "After that, at end of each subsequent 10th Policy Year",
+   "page_2": 4
+  }
+ },
+ "benefits": {
+  "death_benefit_formula": {
+   "value": "higher of prevailing SA, regular-premium fund value and guaranteed death benefit (105% of total premiums paid)",
+   "status": "built-in",
+   "doc": "longlife-goal-brochure.pdf",
+   "page": 3,
+   "quote": "The Death Benefit is subject to the Guaranteed Death Benefit of 105% of the Total Premiums paid, till the date",
+   "note": null
+  },
+  "maturity_benefit": {
+   "value": "fund value at the maturity date",
+   "status": "built-in",
+   "doc": "longlife-goal-brochure.pdf",
+   "page": 2,
+   "quote": "the Maturity Benefit will be the Fund Value as on the Maturity Date",
+   "note": null
+  },
+  "loyalty_additions": {
+   "value": {
+    "end of years 10 to 14": "4% of one annualized premium each year",
+    "end of years 15 to 19": "6% each year",
+    "end of years 20 to 25": "7% each year",
+    "applies": "annualized premium below Rs 10 lakh"
+   },
+   "status": "built-in",
+   "doc": "longlife-goal-brochure.pdf",
+   "page": 3,
+   "quote": "From the end of 10th year till end of 14th year 4% every year",
+   "note": null,
+   "quote_2": "From the end of 15th year till end of 19th year 6% every year",
+   "page_2": 3,
+   "quote_3": "From the end of 20th year till end of 25th year 7% every year",
+   "page_3": 3
+  },
+  "wealth_boosters_or_guaranteed_additions": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "return_of_mortality_charges": {
+   "value": "all mortality charges added back to the fund at year 60-or-15 (later), every 10 years after, and at maturity (PROMC)",
+   "status": "built-in",
+   "doc": "longlife-goal-brochure.pdf",
+   "page": 4,
+   "quote": "First addition will be at the end of the Policy Year in which You attain Age 60 years or end of the 15th Policy",
+   "note": null,
+   "quote_2": "The last addition will be done on the Maturity Date",
+   "page_2": 4
+  },
+  "return_of_premium_allocation_charges": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "return_of_policy_admin_charges": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "other_additions": {
+   "value": {
+    "Periodical Return of Waiver of Premium Charge (PROWC)": "variant with WOP: all WOP charges added back on the PROMC schedule"
+   },
+   "status": "built-in",
+   "doc": "longlife-goal-brochure.pdf",
+   "page": 4,
+   "quote": "The total amount of Waiver of Premium charges deducted in the Policy, will be added back as Periodical Return",
+   "note": null
+  }
+ },
+ "flexibility": {
+  "fund_switching": {
+   "value": "unlimited free; minimum Rs 5,000 or the fund value; Investor Selectable strategy only",
+   "status": "optional (during term)",
+   "doc": "longlife-goal-brochure.pdf",
+   "page": 13,
+   "quote": "The minimum switching amount is Rs. 5,000 or the value of units in the fund to be switched from, whichever",
+   "note": null
+  },
+  "premium_redirection": {
+   "value": "change apportionment at any time, minimum 5% per fund; Investor Selectable strategy only",
+   "status": "optional (during term)",
+   "doc": "longlife-goal-brochure.pdf",
+   "page": 12,
+   "quote": "The Premium apportionment to any fund must be at least 5% of the Annualized Premium",
+   "note": null
+  },
+  "partial_withdrawals": {
+   "value": {
+    "from": "after the 5-year lock-in",
+    "minimum": "Rs 5,000",
+    "floor": "regular premium fund must stay at least 105% of total premiums paid"
+   },
+   "status": "optional (during term)",
+   "doc": "longlife-goal-brochure.pdf",
+   "page": 11,
+   "quote": "The Regular Premium Fund Value should not fall below 105% of the Total Premiums paid till date, after a partial",
+   "note": null,
+   "quote_2": "The minimum amount of partial withdrawal at any time is `5,000.",
+   "page_2": 11
+  },
+  "systematic_withdrawal_plan": {
+   "value": {
+    "name": "Retired Life Income (RLI)",
+    "rate": "0% to 12% of fund value p.a.",
+    "start": "policy anniversary at age 45 or after year 10, whichever is later",
+    "frequency": "yearly, half-yearly, quarterly or monthly",
+    "bonus": "each instalment hiked by 0.5% (Return Enhancer)",
+    "floor": "fund must stay at least 105% of total premiums paid"
+   },
+   "status": "optional (during term)",
+   "doc": "longlife-goal-brochure.pdf",
+   "page": 11,
+   "quote": "As percentage of your Fund Value ranging from 0 to 12% per annum, as chosen by you, payable yearly, half",
+   "note": null,
+   "quote_2": "Each RLI installment will be hiked-up by 0.5% over and above the percentage chosen by You.",
+   "page_2": 12
+  },
+  "top_up_premiums": {
+   "value": "not available",
+   "status": "n/a",
+   "doc": "longlife-goal-brochure.pdf",
+   "page": 13,
+   "quote": "Top-up Premium option is not available under the Policy.",
+   "note": null
+  },
+  "settlement_option": {
+   "value": "maturity or death benefit in instalments over up to 5 years, each increased by 0.5% (Return Enhancer)",
+   "status": "optional (during term)",
+   "doc": "longlife-goal-brochure.pdf",
+   "page": 14,
+   "quote": "each installment is equal to [Fund Value / No. of Outstanding Installment] * 1.005. The hike-up is called",
+   "note": null
+  },
+  "premium_holiday_or_offset": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "increase_decrease_cover": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "change_ppt_or_term": {
+   "value": "premium can be cut by up to 50% after the first 5 years, subject to the minimum premium",
+   "status": "optional (during term)",
+   "doc": "longlife-goal-brochure.pdf",
+   "page": 12,
+   "quote": "The reduction can be up to a maximum of 50% of the regular/limited Premium at the inception of the Policy,",
+   "note": null
+  },
+  "policy_loan": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "auto_portfolio_strategies": {
+   "value": [
+    {
+     "name": "Wheel of Life Portfolio Strategy II",
+     "mechanics": "portfolio managed by years to maturity"
+    },
+    {
+     "name": "Trigger Based Portfolio Strategy",
+     "mechanics": "holds Equity Growth Fund II and Bond Fund at 75%:25%; equity gains above 3 times the Bond Fund value move to the Liquid Fund on a trigger; opt-in at inception only"
+    },
+    {
+     "name": "Auto Transfer Portfolio Strategy",
+     "mechanics": "premiums go to Bond and/or Liquid Fund and 1/11 to 1/1 of the fund value moves monthly to chosen funds; not for monthly mode"
+    }
+   ],
+   "status": "optional (at inception)",
+   "doc": "longlife-goal-brochure.pdf",
+   "page": 6,
+   "quote": "Wheel of Life Portfolio Strategy II • Trigger Based Portfolio Strategy • Auto Transfer Portfolio Strategy",
+   "note": null,
+   "quote_2": "Proportion of Fund Value 1/11 1/10 1/9 1/8 1/7 1/6 1/5 1/4 1/3 1/2 1",
+   "page_2": 11
+  }
+ },
+ "funds": {
+  "fund_count": {
+   "value": 30,
+   "status": "n/a",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": "count from the brochure FMC table, excluding the Discontinued Life Policy Fund"
+  },
+  "fund_list": {
+   "value": [
+    {
+     "name": "Accelerator Mid Cap Fund II",
+     "SFIN": null,
+     "FMC_pct": 1.35,
+     "asset_allocation": "see policy document Part E",
+     "risk_label": null
+    },
+    {
+     "name": "Asset Allocation Fund II",
+     "SFIN": null,
+     "FMC_pct": 1.25,
+     "asset_allocation": "see policy document Part E",
+     "risk_label": null
+    },
+    {
+     "name": "Bluechip Equity Fund",
+     "SFIN": null,
+     "FMC_pct": 1.25,
+     "asset_allocation": "see policy document Part E",
+     "risk_label": null
+    },
+    {
+     "name": "Bond Fund",
+     "SFIN": null,
+     "FMC_pct": 0.95,
+     "asset_allocation": "see policy document Part E",
+     "risk_label": null
+    },
+    {
+     "name": "Equity Growth Fund II",
+     "SFIN": null,
+     "FMC_pct": 1.35,
+     "asset_allocation": "see policy document Part E",
+     "risk_label": null
+    },
+    {
+     "name": "Liquid Fund",
+     "SFIN": null,
+     "FMC_pct": 0.95,
+     "asset_allocation": "see policy document Part E",
+     "risk_label": null
+    },
+    {
+     "name": "Pure Stock Fund",
+     "SFIN": null,
+     "FMC_pct": 1.35,
+     "asset_allocation": "see policy document Part E",
+     "risk_label": null
+    },
+    {
+     "name": "Nifty Alpha 50 Index Fund",
+     "SFIN": null,
+     "FMC_pct": 1.35,
+     "asset_allocation": "see policy document Part E",
+     "risk_label": null
+    },
+    {
+     "name": "Nifty 200 Alpha 30 Index Fund",
+     "SFIN": null,
+     "FMC_pct": 1.35,
+     "asset_allocation": "see policy document Part E",
+     "risk_label": null
+    },
+    {
+     "name": "Focused 25 Fund",
+     "SFIN": null,
+     "FMC_pct": 1.35,
+     "asset_allocation": "see policy document Part E",
+     "risk_label": null
+    },
+    {
+     "name": "Pure Stock Fund II",
+     "SFIN": null,
+     "FMC_pct": 1.3,
+     "asset_allocation": "see policy document Part E",
+     "risk_label": null
+    },
+    {
+     "name": "Flexi Cap Fund",
+     "SFIN": null,
+     "FMC_pct": 1.35,
+     "asset_allocation": "see policy document Part E",
+     "risk_label": null
+    },
+    {
+     "name": "Sustainable Equity Fund",
+     "SFIN": null,
+     "FMC_pct": 1.35,
+     "asset_allocation": "see policy document Part E",
+     "risk_label": null
+    },
+    {
+     "name": "Small Cap Fund",
+     "SFIN": null,
+     "FMC_pct": 1.35,
+     "asset_allocation": "see policy document Part E",
+     "risk_label": null
+    },
+    {
+     "name": "Dynamic Asset Allocation Fund",
+     "SFIN": null,
+     "FMC_pct": 1.35,
+     "asset_allocation": "see policy document Part E",
+     "risk_label": null
+    },
+    {
+     "name": "Individual Short Term Debt Fund",
+     "SFIN": null,
+     "FMC_pct": 0.95,
+     "asset_allocation": "see policy document Part E",
+     "risk_label": null
+    },
+    {
+     "name": "Midcap Index Fund",
+     "SFIN": null,
+     "FMC_pct": 1.35,
+     "asset_allocation": "see policy document Part E",
+     "risk_label": null
+    },
+    {
+     "name": "Smallcap Quality Index Fund",
+     "SFIN": null,
+     "FMC_pct": 1.35,
+     "asset_allocation": "see policy document Part E",
+     "risk_label": null
+    },
+    {
+     "name": "Nifty 200 Momentum 30 Index Fund",
+     "SFIN": null,
+     "FMC_pct": 1.35,
+     "asset_allocation": "see policy document Part E",
+     "risk_label": null
+    },
+    {
+     "name": "Nifty 500 Multicap Momentum Quality 50 Index Fund",
+     "SFIN": null,
+     "FMC_pct": 1.35,
+     "asset_allocation": "see policy document Part E",
+     "risk_label": null
+    },
+    {
+     "name": "Nifty 500 Multifactor 50 Index Fund",
+     "SFIN": null,
+     "FMC_pct": 1.35,
+     "asset_allocation": "see policy document Part E",
+     "risk_label": null
+    },
+    {
+     "name": "BSE 500 Enhanced Value 50 Index Fund",
+     "SFIN": null,
+     "FMC_pct": 1.35,
+     "asset_allocation": "see policy document Part E",
+     "risk_label": null
+    },
+    {
+     "name": "BSE 500 Dividend Leaders 50 Index Fund",
+     "SFIN": null,
+     "FMC_pct": 1.35,
+     "asset_allocation": "see policy document Part E",
+     "risk_label": null
+    },
+    {
+     "name": "India Consumption Fund",
+     "SFIN": null,
+     "FMC_pct": 1.35,
+     "asset_allocation": "see policy document Part E",
+     "risk_label": null
+    },
+    {
+     "name": "Pure Stock Innovation Fund",
+     "SFIN": null,
+     "FMC_pct": 1.35,
+     "asset_allocation": "see policy document Part E",
+     "risk_label": null
+    },
+    {
+     "name": "BSE 500 Quality 50 Index Fund",
+     "SFIN": null,
+     "FMC_pct": 1.35,
+     "asset_allocation": "see policy document Part E",
+     "risk_label": null
+    },
+    {
+     "name": "Opportunities Fund",
+     "SFIN": null,
+     "FMC_pct": 1.35,
+     "asset_allocation": "see policy document Part E",
+     "risk_label": null
+    },
+    {
+     "name": "Nifty 500 Low Volatility 50 Index Fund",
+     "SFIN": null,
+     "FMC_pct": 1.35,
+     "asset_allocation": "see policy document Part E",
+     "risk_label": null
+    },
+    {
+     "name": "Nifty 200 Value 30 Index Fund",
+     "SFIN": null,
+     "FMC_pct": 1.35,
+     "asset_allocation": "see policy document Part E",
+     "risk_label": null
+    },
+    {
+     "name": "BSE 500 Momentum Value 50 Index Fund",
+     "SFIN": null,
+     "FMC_pct": 1.35,
+     "asset_allocation": "see policy document Part E",
+     "risk_label": null
+    }
+   ],
+   "status": "n/a",
+   "doc": "longlife-goal-brochure.pdf",
+   "page": 18,
+   "quote": "Bluechip Equity Fund 1.25%",
+   "note": "FMCs from the brochure; SFINs left out"
+  },
+  "index_or_thematic_funds": {
+   "value": "BSE 500 Momentum Value 50, Nifty 200 Value 30, BSE 500 Quality 50, BSE 500 Dividend Leaders 50, BSE 500 Enhanced Value 50, Midcap, SmallCap Quality, Nifty Alpha 50, Nifty 200 Alpha 30, Nifty 200 Momentum 30, Nifty 500 Multicap Momentum Quality 50, Nifty 500 Multifactor 50, Nifty 500 Low Volatility 50 index funds; India Consumption Fund",
+   "status": "n/a",
+   "doc": "longlife-goal-brochure.pdf",
+   "page": 19,
+   "quote": "Nifty 200 Value 30 Index Fund 1.35%",
+   "note": null
+  },
+  "discontinued_policy_fund": {
+   "value": {
+    "name": "Discontinued Life Policy Fund",
+    "FMC": "0.50%"
+   },
+   "status": "built-in",
+   "doc": "longlife-goal-brochure.pdf",
+   "page": 18,
+   "quote": "Discontinued Life Policy Fund 0.50%",
+   "note": null
+  }
+ },
+ "protection_add_ons": {
+  "waiver_of_premium_inbuilt": {
+   "value": "variant with WOP: premiums waived on accidental permanent total disability of the life assured (or death or disability of a different policyholder)",
+   "status": "optional (at inception)",
+   "doc": "longlife-goal-brochure.pdf",
+   "page": 3,
+   "quote": "Premiums for the rest of the Policy Term will be waived and the",
+   "note": null
+  },
+  "critical_illness": {
+   "value": "via rider",
+   "status": "rider",
+   "doc": "longlife-goal-brochure.pdf",
+   "page": 4,
+   "quote": "3. Bajaj Life Linked New Critical Illness Benefit Rider UIN: 116A060V01",
+   "note": null
+  },
+  "accidental_death": {
+   "value": "via rider",
+   "status": "rider",
+   "doc": "longlife-goal-brochure.pdf",
+   "page": 4,
+   "quote": "1. Bajaj Life Linked Accident Protection Rider II UIN: 116A057V03",
+   "note": null
+  },
+  "terminal_illness": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "spouse_or_child_cover": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "riders_available": {
+   "value": [
+    "Bajaj Life Linked Accident Protection Rider II (116A057V03)",
+    "Bajaj Life Care Plus Rider (116A059V01)",
+    "Bajaj Life Linked New Critical Illness Benefit Rider (116A060V01)"
+   ],
+   "status": "rider",
+   "doc": "longlife-goal-brochure.pdf",
+   "page": 4,
+   "quote": "1. Bajaj Life Linked Accident Protection Rider II UIN: 116A057V03",
+   "note": null
+  }
+ },
+ "surrender_revival": {
+  "lock_in_years": {
+   "value": 5,
+   "status": "built-in",
+   "doc": "longlife-goal-brochure.pdf",
+   "page": 5,
+   "quote": "On surrender during the lock-in period of first five years of your Policy",
+   "note": null
+  },
+  "discontinuance_rules": {
+   "value": "discontinuance in the first 5 years moves the fund, less the charge, to the Discontinued Life Policy Fund; after 5 years the policy becomes paid-up",
+   "status": "built-in",
+   "doc": "longlife-goal-brochure.pdf",
+   "page": 16,
+   "quote": "On discontinuance of Regular Premiums due after the lock-in period of five (5) Policy years, the Policy will",
+   "note": null
+  },
+  "revival_period": {
+   "value": "3 years from the first unpaid premium",
+   "status": "built-in",
+   "doc": "longlife-goal-brochure.pdf",
+   "page": 17,
+   "quote": "within three (3) years from the date of the first",
+   "note": null
+  },
+  "surrender_value_rule": {
+   "value": "in lock-in: discontinuance value at the end of year 5; after: fund value (plus present value of future WOP instalments if WOP was triggered)",
+   "status": "built-in",
+   "doc": "longlife-goal-brochure.pdf",
+   "page": 5,
+   "quote": "the surrender value available will be Fund",
+   "note": null
+  }
+ },
+ "documents_inventory": [
+  {
+   "website_label": "E-Policy Bond",
+   "doc_type": "policy_document",
+   "url": "https://la.bajajlife.com/login-module/login?goto=ZS1Qb2xpY3kgQm9uZA==",
+   "found_on_page_url": "https://www.bajajlifeinsurance.com/retirement-pension-plans/longlife-goal.html",
+   "pages": null,
+   "stored_path": null,
+   "status": "web page (not stored)",
+   "note": "link opens a web page, not a document"
+  },
+  {
+   "website_label": "Investment Insight -->",
+   "doc_type": "fund_factsheet",
+   "url": "https://www.bajajlifeinsurance.com/content/dam/balic-web/pdf/individual-factsheet.pdf",
+   "found_on_page_url": "https://www.bajajlifeinsurance.com/retirement-pension-plans/longlife-goal.html",
+   "pages": null,
+   "stored_path": null,
+   "status": "skipped",
+   "note": "fund document does not name this product (company-wide)"
+  },
+  {
+   "website_label": "Download",
+   "doc_type": "policy_document",
+   "url": "https://www.bajajlifeinsurance.com/content/dam/balic-web/pdf/retirement-plans/longlife-goal-policy-doc.pdf",
+   "found_on_page_url": "https://www.bajajlifeinsurance.com/retirement-pension-plans/longlife-goal.html",
+   "pages": 41,
+   "stored_path": "docs/bajaj-life/116L203V01/policy.pdf",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "website_label": "Download",
+   "doc_type": "CIS",
+   "url": "https://www.bajajlifeinsurance.com/content/dam/balic-web/pdf/retirement-plans/LLG-CIS.pdf",
+   "found_on_page_url": "https://www.bajajlifeinsurance.com/retirement-pension-plans/longlife-goal.html",
+   "pages": 4,
+   "stored_path": "docs/bajaj-life/116L203V01/cis.pdf",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "website_label": "longlife-goal-brochure.pdf",
+   "doc_type": "brochure",
+   "url": "https://www.bajajlifeinsurance.com/content/dam/balic-web/pdf/retirement-plans/longlife-goal-brochure.pdf",
+   "found_on_page_url": "https://www.bajajlifeinsurance.com/retirement-pension-plans/longlife-goal.html",
+   "pages": null,
+   "stored_path": null,
+   "status": "not stored (unlabelled link; brochure already stored)",
+   "note": null
+  },
+  {
+   "website_label": "longlife-goal-brochure.pdf",
+   "doc_type": "brochure",
+   "url": "https://www.bajajlifeinsurance.com/content/dam/balic-web/pdf/retirement-plans/longlife-goal-brochure.pdf",
+   "found_on_page_url": "https://www.bajajlifeinsurance.com/retirement-pension-plans/longlife-goal.html",
+   "pages": 25,
+   "stored_path": "docs/bajaj-life/116L203V01/brochure.pdf",
+   "status": "already stored",
+   "note": null
+  }
+ ],
+ "new_features_not_in_schema": [
+  {
+   "feature": "Retired Life Income",
+   "description": "0% to 12% of fund value a year from age 45 or year 10, with each payment raised 0.5% (Return Enhancer)",
+   "quote": "As percentage of your Fund Value ranging from 0 to 12% per annum, as chosen by you, payable yearly, half",
+   "doc": "longlife-goal-brochure.pdf",
+   "page": 11
+  },
+  {
+   "feature": "Periodical return of mortality and WOP charges",
+   "description": "All mortality charges (and WOP charges in the WOP variant) are added back to the fund every 10 years from age 60 or year 15, and at maturity",
+   "quote": "The last addition will be done on the Maturity Date",
+   "doc": "longlife-goal-brochure.pdf",
+   "page": 4
+  },
+  {
+   "feature": "Whole-of-life plan",
+   "description": "Policy term runs to age 99",
+   "quote": "Minimum & Maximum - 99 years",
+   "doc": "longlife-goal-brochure.pdf",
+   "page": 15
+  }
+ ],
+ "data_not_public": []
+}

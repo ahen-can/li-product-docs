@@ -1,0 +1,103 @@
+import sys; sys.path.insert(0, 'scripts'); sys.path.insert(0, 'scripts/ulip_specs')
+from ulip_json import F, NS, build
+B = 'Policy Prospectus'
+# Name and FMC from the prospectus charge table (the table prints SFINs for two funds only).
+FMC = [('High Growth Fund II', 1.35), ('Diversified Equity Fund II', 1.35), ('Growth Super Fund II', 1.35), ('BSE 500 Value 50 Index Fund II', 1.35), ('BSE Dividend Stability Index Fund', 1.35), ('India Sector Leaders Opportunities Fund', 1.35),
+       ('Rising India Manufacturing Fund', 1.35), ('Flexi Cap Fund', 1.35), ('Midcap Momentum Index Fund', 1.25), ('Nifty Alpha 50 Fund', 1.25), ('Nifty 500 Momentum 50 Fund', 1.25), ('Sustainable Wealth 50 Index Fund', 1.25), ('Smart Innovation Fund', 1.25),
+       ('Nifty 500 Multifactor 50 Index Fund', 1.25), ('BSE 500 Value 50 Index Fund', 1.25), ('India Consumption Opportunities Fund', 1.25), ('BSE 500 Dividend leaders 50 Index Fund', 1.25), ('Growth Fund', 1.25), ('Sustainable Equity Fund', 1.25), ('Pure Growth Fund', 1.25),
+       ('Nifty Momentum Quality 50 Fund', 1.25), ('Balanced Fund', 1.10), ('NIFTY Smallcap Quality Index Fund', 1.00), ('Conservative Fund', 0.90), ('Dynamic Bond Fund', 0.90), ('Secure Fund', 0.90), ('Secure Plus Fund', 0.90), ('Money Market II Fund', 0.90), ('Discontinuance Policy Fund', 0.50)]
+SF = {'Rising India Manufacturing Fund': 'ULIF05007/09/26RISINGINDM104', 'Flexi Cap Fund': 'ULIF05123/09/26FLXICAPFND104'}
+FUNDS = [{'name': n, 'SFIN': SF.get(n), 'FMC_pct': v, 'asset_allocation': 'see prospectus fund table', 'risk_label': None} for n, v in FMC]
+RIDERS = ['Axis Max Life Critical Illness and Disability Secure Rider (104A034V02)', 'Axis Max Life Smart Ultra Protect Rider (104A049V03)']
+spec = {
+ 'product': {
+  'uin': F('104L131V03', 'n/a', B, None, 'UIN: 104L131V03'),
+  'uin_in_brochure': F('104L131V03', 'n/a', B, None, 'UIN: 104L131V03'),
+  'product_name': F('Axis Max Life Online Savings Plan Plus', 'n/a', B, None, 'AXIS MAX LIFE ONLINE SAVINGS PLAN PLUS AT A GLANCE'),
+  'irdai_description_line': F('Unit Linked Non-Participating Individual Life Insurance Savings Plan', 'n/a', B, None, 'Unit Linked Non-Participating Individual Life Insurance Savings Plan'),
+  'launch_or_version_date': NS(), 'target_segment_stated': NS(),
+  'variants_or_plan_options': F(['Wealth', 'Wealth Whole Life', 'Gold (monthly family income, 1x premium funding)', 'Platinum (monthly family income, 2x premium funding)', 'Titanium (3x premium funding)'], 'optional (at inception)', B, None, 'Step 1: Choose from the five plan variants'),
+  'online_offline': F('both', 'n/a', B, None, 'This product is also available for sale through online mode.'),
+ },
+ 'eligibility': {
+  'entry_age_min': F({'wealth and wealth whole life': '0 years (31 days)', 'gold, platinum and titanium': 18}, 'n/a', B, None, 'Single/ Limited/ Wealth Variant 0 years (i.e. 31 days) Regular pay', quote_2='Gold Variant Platinum Variant Limited/ Regular pay 18 years Titanium Variant'),
+  'entry_age_max': F({'wealth, single pay': {'cover multiple 1.1 and 1.25': 65, '5': 45, '7': 40, '10': 35}, 'wealth, limited/regular pay': {'5 and 7': 65, '10': 63, '15': 54, '20': 42}}, 'n/a', B, None, '1.1 & 1.25 65 years 5 45 years Single pay 7 40 years 10 35 years', 'Wealth variant only; other variants have their own rows on prospectus pp.2-3',
+                      quote_2='Maximum Age of Life 5&7 65 years Insured at Entry (age as Limited/ 10 63 years on last birthday) Regular pay 15 54 years 20 42 years'),
+  'maturity_age_min': F({'wealth': 18, 'wealth whole life': 100, 'gold, platinum and titanium': 28}, 'n/a', B, None, 'Wealth Variant Single/ Limited/ Regular pay 18 years', quote_2='Minimum Maturity Age of Wealth Whole Life the Life Insured (age as on Single / Limited pay 100 years Variant', quote_3='Platinum Variant Limited/ Regular pay 28 years Titanium Variant Premium'),
+  'maturity_age_max': F({'wealth whole life': 100}, 'n/a', B, None, 'Wealth Whole Life Single / Limited All 100 years'),
+  'policy_term_options': F({'wealth, single pay': '10 to 20 years', 'wealth, limited/regular pay': '10 to 85 years'}, 'n/a', B, None, 'Single pay 10 years 20 years', quote_2='Limited/ Regular 10 years 85 years'),
+  'ppt_options': F({'wealth, limited/regular': 'minimum 5 years if maturity age <= 70 and entry age <= 60 (else 10), maximum 85 years', 'gold, platinum, titanium': '5 to 30 years', 'wealth whole life, limited pay': '5 to 20 years'}, 'n/a', B, None, 'Wealth Variant Limited/ Regular Maximum Premium 85 years pay', quote_2='Single Pay 20 years 30 years Minimum Premium (in Rs.)'),
+  'premium_min_annual': F({'annual': 6000, 'semi-annual': 3000, 'quarterly': 1500, 'monthly': 500}, 'n/a', B, None, 'Annual: ₹ 6,000 Semi Annual: ₹ 3,000 Quarterly: ₹ 1,500 Monthly: ₹ 500'),
+  'premium_min_single': F(200000, 'n/a', B, None, 'Single pay 200,000'),
+  'premium_max': F('no limit, subject to underwriting', 'n/a', B, None, 'No limit, subject to the limits determined in accordance with the Board approved'),
+  'sum_assured_rule': F({'rule': 'annualised or single premium times the cover multiple chosen at inception', 'minimum sum assured on death': {'single pay': 220000, 'limited/regular pay': 30000}}, 'built-in', B, None,
+                        'Sum Assured on death is annualised/single premium times the Cover Multiple as', quote_2='Single pay 220,000 Wealth Variant Limited/ Regular pay 30,000'),
+  'premium_modes': F('single (wealth and wealth whole life only), annual, semi-annual, quarterly, monthly', 'n/a', B, None, 'Single Pay is available only with Wealth & Wealth Whole Life variant.'),
+  'life_cover_multiple_choice': F('cover multiple chosen at inception by entry age, variant and maturity age band', 'optional (at inception)', B, None, 'as chosen by the policyholder at inception.'),
+ },
+ 'charges': {
+  'premium_allocation_charge': F('nil', 'built-in', B, None, '1. Premium Allocation Charge Nil.'),
+  'policy_administration_charge': F({'single pay': {'non-ISNP, premium below Rs 10 lakh': '0.10% per month', 'non-ISNP, Rs 10 lakh and above': '0.05% per month', 'ISNP, below Rs 10 lakh': '0.09% per month', 'ISNP, Rs 10 lakh and above': '0.04% per month', 'duration': 'years 1 to 10, then nil'},
+                                     'limited and regular pay': {'non-ISNP': '0.30% per month', 'ISNP': '0.25% per month', 'duration': 'whole term or until policy year (85 minus entry age)'}, 'cap': 'Rs 500 per month'}, 'built-in', B, None,
+                                    'Single Pay 0.10% per month 0.05% per month 0.09% per month 0.04% per month', quote_2='0.30% per month 0.25% per month', quote_3='subject to a capping of Rs. 500 per month'),
+  'fund_management_charge': F({'1.35%': 'High Growth II, Diversified Equity II, Growth Super II, BSE 500 Value 50 Index II, BSE Dividend Stability Index, India Sector Leaders Opportunities, Rising India Manufacturing, Flexi Cap', '1.25%': 'other equity, index and thematic funds', '1.10%': 'Balanced Fund', '1.00%': 'Nifty Smallcap Quality Index Fund', '0.90%': 'debt funds, Secure and Secure Plus', '0.50%': 'Discontinuance Policy Fund'},
+                              'built-in', B, None, 'Balanced Fund 1.10%', 'full list in the funds group', quote_2='NIFTY Smallcap Quality Index Fund 1.00%', quote_3='Money Market II Fund 0.90%', quote_4='Discontinuance Policy Fund 0.50%'),
+  'mortality_charge': F({'basis': 'per unit of sum at risk on attained age; rates are not printed in the prospectus', 'sum at risk': {'wealth and wealth whole life': 'max(max(sum assured, 105% of premiums) less partial withdrawals, minus fund value, 0)', 'gold, platinum, titanium': 'higher of sum assured and 105% of premiums, plus present value of family income and funded premiums at 6.05%'}}, 'built-in', B, None,
+                        'Max (Max (Sum Assured on death, 105% of total premiums paid) less applicable partial withdrawals less Total Fund Value, 0)', 'no Policy Contract is published for this product, so no rate table was found'),
+  'discontinuance_charge': F({'single premium, up to Rs 3 lakh': {'Y1': '2.00%, max Rs 3,000', 'Y2': '1.50%, max Rs 2,000', 'Y3': '1.00%, max Rs 1,500', 'Y4': '0.50%, max Rs 1,000', 'Y5+': 'nil'}, 'single premium, above Rs 3 lakh': {'Y1': '1.00%, max Rs 6,000', 'Y2': '0.70%, max Rs 5,000', 'Y3': '0.50%, max Rs 4,000', 'Y4': '0.35%, max Rs 2,000', 'Y5+': 'nil'},
+                              'limited/regular, up to Rs 50,000': {'Y1': '20%, max Rs 3,000', 'Y2': '15%, max Rs 2,000', 'Y3': '10%, max Rs 1,500', 'Y4': '5%, max Rs 1,000', 'Y5+': 'nil'}, 'limited/regular, above Rs 50,000': {'Y1': '6%, max Rs 6,000', 'Y2': '4%, max Rs 5,000', 'Y3': '3%, max Rs 4,000', 'Y4': '2%, max Rs 2,000', 'Y5+': 'nil'}}, 'built-in', B, None,
+                             '1 2.00% 3,000 1.00% 6,000 2 1.50% 2,000 0.70% 5,000 3 1.00% 1,500 0.50% 4,000 4 0.50% 1,000 0.35% 2,000 5 and onwards Nil Nil Nil Nil', quote_2='1 20% 3,000 6% 6,000 2 15% 2,000 4% 5,000 3 10% 1,500 3% 4,000 4 5% 1,000 2% 2,000 5 and onwards Nil Nil Nil Nil'),
+  'switching_charge': F('nil; no limit on switches', 'built-in', B, None, 'All switches will be free of charge.'),
+  'partial_withdrawal_charge': F('nil', 'built-in', B, None, 'Partial withdrawals are free of any charge.'),
+  'premium_redirection_charge': F('nil', 'built-in', B, None, 'There is no charge for premium redirection.'),
+  'miscellaneous_charge': F('none', 'built-in', B, None, 'There are no miscellaneous charges.'),
+  'guarantee_charge': NS(), 'rider_charges': F('nil', 'built-in', B, None, '6. Rider Charge Nil'),
+  'any_charge_returned': F({'policy administration charges': '125% of total charges deducted (policy term under 15 years) or 150% (15 years or more), added to the fund at maturity or at the end of policy year (85 minus entry age), whichever is earlier'}, 'built-in', B, None, 'Return of Policy 125% of total Policy Administration 150% of total Policy Administration charge'),
+ },
+ 'benefits': {
+  'death_benefit_formula': F({'wealth and wealth whole life': 'highest of sum assured, 105% of premiums paid and fund value', 'gold, platinum, titanium': 'lump sum (higher of sum assured and 105% of premiums), plus family income of 1% of sum assured a month for 36 to 120 months (gold and platinum only), plus the company funds 1, 2 or 3 times the future premiums'}, 'built-in', B, None,
+                             'iii. the total Fund Value (as on the date of intimation of death of the Life Insured)', quote_2='A Family Income Benefit equal to 1% of the Sum Assured chosen at inception', quote_3='X times (where X=1,2 or 3 for Gold, Platinum & Titanium variants respectively) of all future outstanding premiums'),
+  'maturity_benefit': F('fund value at maturity; lump sum or settlement option up to 5 years', 'built-in', B, None, 'The maturity benefit is equal to the Fund Value, where:'),
+  'loyalty_additions': F(None, 'not offered', note='the prospectus describes no loyalty additions'),
+  'wealth_boosters_or_guaranteed_additions': NS(), 'return_of_mortality_charges': NS(), 'return_of_premium_allocation_charges': NS(),
+  'return_of_policy_admin_charges': F({'policy term under 15 years': '125% of total policy administration charge deducted', 'policy term 15 years or more': '150%'}, 'built-in', B, None, 'Return of Policy 125% of total Policy Administration 150% of total Policy Administration charge'),
+  'other_additions': NS(),
+ },
+ 'flexibility': {
+  'fund_switching': F('unlimited free switches; minimum Rs 500', 'optional (during term)', B, None, 'subject to a minimum switch amount of Rs.500'),
+  'premium_redirection': F('unlimited and free', 'optional (during term)', B, None, '8. Premium Redirection Charge There is no charge for premium redirection.'),
+  'partial_withdrawals': F({'from': 'after 5 policy years', 'minimum': 'Rs 5,000', 'maximum': '50% of fund value in a policy year for limited/regular pay (25% for single pay); fund must stay at least 2 annualized premiums (25% of single premium)'}, 'optional (during term)', B, None,
+                           'The minimum amount of partial withdrawal allowed per transaction is Rs. 5,000.', quote_2='the maximum amount that can be partially withdrawn is 50% of fund value in case of Limited/'),
+  'systematic_withdrawal_plan': F({'name': 'Smart Withdrawal', 'rate': 'up to 12% of fund value a year, integer percentages', 'start': 'after 5 policy anniversaries or end of premium payment term', 'frequency': 'annual, semi-annual, quarterly or monthly'}, 'optional (during term)', B, None,
+                                  'maximum of 12% p.a.', quote_2='The frequency of Smart Withdrawals can be annual, semi-annual, quarterly and monthly'),
+  'top_up_premiums': F('not available', 'n/a', B, None, 'Top Up Not available in this plan'),
+  'settlement_option': F('maturity proceeds in instalments for up to 5 years', 'optional (during term)', B, None, 'exceeding 5 years from the maturity date.'),
+  'premium_holiday_or_offset': NS(),
+  'increase_decrease_cover': F('reduce premium by up to 50% after year 5', 'optional (during term)', B, None, 'The policyholder, on completion of first five policy years, has an option to decrease the premium up to 50%'),
+  'change_ppt_or_term': F('no charge for changing premium, premium payment term or policy term', 'optional (during term)', B, None, 'No charge is applicable for any premium, premium payment term or policy term.'),
+  'policy_loan': F('not available', 'n/a', B, None, 'Policy loan Provisions Not available in this plan'),
+  'auto_portfolio_strategies': F([{'name': 'five investment strategies; names and mechanics not captured in this pass'}], 'optional (at inception)', B, None, 'Choose from 27 (Twenty-seven) Investment Funds and 5 Investment Strategies'),
+ },
+ 'funds': {
+  'fund_count': F(27, 'n/a', B, None, 'Choose from 27 (Twenty-seven) Investment Funds', 'the charge table lists 28 funds plus the Discontinuance Policy Fund; the text says 27'),
+  'fund_list': F(FUNDS, 'n/a', B, None, 'Balanced Fund 1.10%', 'name and FMC from the prospectus charge table; SFINs printed for two funds only'),
+  'index_or_thematic_funds': F('BSE 500 Value 50 Index II, BSE Dividend Stability Index, Rising India Manufacturing, India Sector Leaders Opportunities, Midcap Momentum Index, Nifty Alpha 50, Nifty 500 Momentum 50, Nifty Momentum Quality 50, Sustainable Wealth 50 Index, Nifty 500 Multifactor 50 Index, BSE 500 Value 50 Index, BSE 500 Dividend Leaders 50 Index, Nifty Smallcap Quality Index funds; India Consumption Opportunities, Smart Innovation', 'n/a', B, None, 'Midcap Momentum Index Fund 1.25%'),
+  'discontinued_policy_fund': F({'name': 'Discontinuance Policy Fund', 'FMC': '0.50%'}, 'built-in', B, None, 'Discontinuance Policy Fund 0.50%'),
+ },
+ 'protection_add_ons': {
+  'waiver_of_premium_inbuilt': F('Gold, Platinum and Titanium: the company funds 1, 2 or 3 times the future premiums after the death of the life insured', 'optional (at inception)', B, None, 'Funding of Premium: The Company will fund X times'),
+  'critical_illness': F('via rider', 'rider', B, None, 'Axis Max Life Critical Illness and Disability Secure Rider (UIN: 104A034V02)'),
+  'accidental_death': F('via rider (Smart Ultra Protect, variants 2 and 3)', 'rider', B, None, 'Rider benefit variant 3 - Accidental Total and Permanent Disability'),
+  'terminal_illness': F('via rider (Smart Ultra Protect, variant 1)', 'rider', B, None, 'Rider benefit variant 1 - Term Booster with Accelerated Terminal Illness'),
+  'spouse_or_child_cover': NS(),
+  'riders_available': F(RIDERS, 'rider', B, None, 'Axis Max Life Critical Illness and Disability Secure Rider (UIN: 104A034V02)'),
+ },
+ 'surrender_revival': {
+  'lock_in_years': F(5, 'built-in', B, None, 'No Surrender/Discontinuance charge shall be levied from 5th Policy Year onwards.'),
+  'discontinuance_rules': NS(), 'revival_period': NS(), 'surrender_value_rule': NS(),
+ },
+}
+build('104L131V03', spec,
+  new_features=[{'feature': 'Return of policy administration charges above 100%', 'description': '125% (term under 15 years) or 150% of administration charges returned at maturity', 'quote': 'Return of Policy 125% of total Policy Administration 150% of total Policy Administration charge', 'doc': B, 'page': None},
+                {'feature': 'Gold, Platinum and Titanium variants', 'description': 'On death the company pays a lump sum and funds 1, 2 or 3 times the future premiums, with monthly family income in Gold and Platinum', 'quote': 'X times (where X=1,2 or 3 for Gold, Platinum & Titanium variants respectively) of all future outstanding premiums', 'doc': B, 'page': None}],
+  not_public=[{'item': 'policy document and mortality rate table', 'doc': B, 'where_referenced': 'product page', 'quote': 'UIN: 104L131V03', 'note': 'the Policy Contract and CIS links on the Online Savings Plan Plus page open the Online Savings Plan (104L098V06) documents, so no policy document for this UIN was found'}])
