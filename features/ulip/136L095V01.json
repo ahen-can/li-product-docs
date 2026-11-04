@@ -1,0 +1,801 @@
+{
+ "product": {
+  "uin": {
+   "value": "136L095V01",
+   "status": "n/a",
+   "doc": "Download Brochure",
+   "page": 8,
+   "quote": "UIN: 136L095V01",
+   "note": null
+  },
+  "uin_in_brochure": {
+   "value": "136L095V01",
+   "status": "n/a",
+   "doc": "Download Brochure",
+   "page": 8,
+   "quote": "UIN: 136L095V01",
+   "note": null
+  },
+  "product_name": {
+   "value": "Canara HSBC Life Insurance Legacy Builder",
+   "status": "n/a",
+   "doc": "Download Brochure",
+   "page": 2,
+   "quote": "Canara HSBC Life Insurance Legacy Builder",
+   "note": null
+  },
+  "irdai_description_line": {
+   "value": "An Individual Unit Linked Pension Plan",
+   "status": "n/a",
+   "doc": "Download Brochure",
+   "page": 1,
+   "quote": "An Individual Unit Linked Pension Plan",
+   "note": null
+  },
+  "launch_or_version_date": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "variants_or_plan_options": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "target_segment_stated": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "online_offline": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  }
+ },
+ "eligibility": {
+  "entry_age_min": {
+   "value": 18,
+   "status": "n/a",
+   "doc": "Download Brochure",
+   "page": 4,
+   "quote": "Minimum: 18 years Entry Age",
+   "note": "age quoted from the At a Glance table (Minimum: 18 years)"
+  },
+  "entry_age_max": {
+   "value": 65,
+   "status": "n/a",
+   "doc": "Download Brochure",
+   "page": 4,
+   "quote": "Maximum: 65 years",
+   "note": null
+  },
+  "maturity_age_min": {
+   "value": "vesting age 40 years",
+   "status": "n/a",
+   "doc": "Download Brochure",
+   "page": 4,
+   "quote": "Minimum: 40 years",
+   "note": null
+  },
+  "maturity_age_max": {
+   "value": "vesting age 85 years",
+   "status": "n/a",
+   "doc": "Download Brochure",
+   "page": 4,
+   "quote": "Maximum: 85 years",
+   "note": null
+  },
+  "policy_term_options": {
+   "value": "vesting age less entry age; minimum 10 years, maximum the lower of 85 minus entry age and 40 years",
+   "status": "n/a",
+   "doc": "Download Brochure",
+   "page": 4,
+   "quote": "Maximum policy term is 85 years less entry age or 40 years,",
+   "note": null,
+   "quote_2": "Minimum policy term is 10 years",
+   "page_2": 4
+  },
+  "ppt_options": {
+   "value": {
+    "single pay": "one-time premium",
+    "limited pay": "5 to 25 years",
+    "regular pay": "equal to the policy term"
+   },
+   "status": "n/a",
+   "doc": "Download Brochure",
+   "page": 4,
+   "quote": "For Single pay – One time premium only",
+   "note": null,
+   "quote_2": "Maximum: 25 years",
+   "page_2": 4,
+   "quote_3": "For Regular pay: Equal to the Policy Term",
+   "page_3": 4
+  },
+  "premium_min_annual": {
+   "value": {
+    "annual": 12000,
+    "half-yearly": 6000,
+    "monthly": 1000
+   },
+   "status": "n/a",
+   "doc": "Download Brochure",
+   "page": 4,
+   "quote": "Premium for Annual mode: ` 12,000",
+   "note": null,
+   "quote_2": "Premium for half-yearly mode: ` 6,000",
+   "page_2": 4,
+   "quote_3": "Premium for monthly mode: ` 1,000",
+   "page_3": 4
+  },
+  "premium_min_single": {
+   "value": 500000,
+   "status": "n/a",
+   "doc": "Download Brochure",
+   "page": 4,
+   "quote": "Single Premium: ` 5,00,000",
+   "note": null
+  },
+  "premium_max": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "sum_assured_rule": {
+   "value": "no sum assured; death benefit is the higher of fund value (including top-ups) and 105% of all premiums paid",
+   "status": "built-in",
+   "doc": "Download Brochure",
+   "page": 6,
+   "quote": "Fund Value including Top-up Fund value (if any), as on date of intimation of death, or",
+   "note": null,
+   "quote_2": "105% of all Premiums paid (including top-up premiums if any) up to the date of death",
+   "page_2": 6
+  },
+  "premium_modes": {
+   "value": [
+    "single",
+    "annual",
+    "half-yearly",
+    "monthly"
+   ],
+   "status": "n/a",
+   "doc": "Download Brochure",
+   "page": 4,
+   "quote": "Single Pay, Regular / Limited pay – Annual, Half-Yearly & Monthly modes",
+   "note": null
+  },
+  "life_cover_multiple_choice": {
+   "value": null,
+   "status": "not offered",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": "no sum assured multiple"
+  }
+ },
+ "charges": {
+  "premium_allocation_charge": {
+   "value": {
+    "limited and regular pay (annual premium: below Rs 1 lakh / Rs 1 lakh to 4.99 lakh / Rs 5 lakh to 9.99 lakh / Rs 10 lakh and above)": {
+     "year 1": "8.00% / 7.00% / 6.00% / 5.00%",
+     "years 2-5": "3.00% for every band",
+     "year 6 to PPT": "nil"
+    },
+    "single pay and top-up premium": "2%"
+   },
+   "status": "built-in",
+   "doc": "Download Brochure",
+   "page": 11,
+   "quote": "1st Year 8.00% 7.00% 6.00% 5.00%",
+   "note": null,
+   "quote_2": "2nd to 5th 3.00% 3.00% 3.00% 3.00%",
+   "page_2": 11,
+   "quote_3": "6th till PPT Nil Nil Nil Nil",
+   "page_3": 11,
+   "quote_4": "For Single Pay & Top-up Premium, allocation charge will be 2%",
+   "page_4": 11
+  },
+  "policy_administration_charge": {
+   "value": {
+    "regular and limited pay": {
+     "years 1-5": "1.92% of the annual premium a year",
+     "year 6 onwards": "3.9% of the annual premium a year"
+    },
+    "single pay": "0.3% of the single premium a year",
+    "top-up premium": "nil",
+    "cap": "Rs 500 a month (regular and limited pay), Rs 125 a month (single pay)"
+   },
+   "status": "built-in",
+   "doc": "Download Brochure",
+   "page": 11,
+   "quote": "it will be 1.92% of the annual premium chargeable will be",
+   "note": null,
+   "quote_2": "Policy Administration Charge of 3.9% of the",
+   "page_2": 11,
+   "quote_3": "Policy Administration Charge will be 0.3% of Single Premium will be",
+   "page_3": 11,
+   "quote_4": "absolute cap of `500 per month for Regular/Limited Pay and `125 per month for Single",
+   "page_4": 11
+  },
+  "fund_management_charge": {
+   "value": {
+    "Pension Nifty Alpha 50 Index Fund": "1.35%",
+    "Pension Equity Fund": "1.35%",
+    "Pension Debt Fund": "1.00%",
+    "Pension Discontinued Policy Fund": "0.50%"
+   },
+   "status": "built-in",
+   "doc": "Download Brochure",
+   "page": 11,
+   "quote": "Pension Nifty Alpha 50 Index Fund 1.35%",
+   "note": null,
+   "quote_2": "Pension Equity Fund 1.35%",
+   "page_2": 11,
+   "quote_3": "Pension Debt Fund 1.00%",
+   "page_3": 11,
+   "quote_4": "Pension Discontinued Policy Fund 0.50%",
+   "page_4": 11
+  },
+  "mortality_charge": {
+   "value": {
+    "basis": "per 1,000 sum at risk a year; sum at risk is 105% of premiums paid less fund value; female lives rated down 3 years",
+    "sample_rates_age_20_30_40_50": {
+     "male": [
+      0.647,
+      0.684,
+      1.176,
+      3.105
+     ],
+     "female": [
+      0.58,
+      0.654,
+      0.951,
+      2.218
+     ]
+    }
+   },
+   "status": "built-in",
+   "doc": "Download Brochure",
+   "page": 11,
+   "quote": "Male 0.647 0.684 1.176 3.105",
+   "note": "sample rates only; the policy document prints no rate table",
+   "quote_2": "Female 0.580 0.654 0.951 2.218",
+   "page_2": 11
+  },
+  "discontinuance_charge": {
+   "value": {
+    "regular and limited pay": {
+     "annualized premium up to Rs 50,000": {
+      "Y1": "lower of 20% of AP or FV, max Rs 3,000",
+      "Y2": "15%, Rs 2,000",
+      "Y3": "10%, Rs 1,500",
+      "Y4": "5%, Rs 1,000"
+     },
+     "annualized premium above Rs 50,000": {
+      "Y1": "lower of 6%, max Rs 6,000",
+      "Y2": "4%, Rs 5,000",
+      "Y3": "3%, Rs 4,000",
+      "Y4": "2%, Rs 2,000"
+     }
+    },
+    "single pay": {
+     "premium up to Rs 3,00,000": {
+      "Y1": "lower of 2% of SP or FV, max Rs 3,000",
+      "Y2": "1.5%, Rs 2,000",
+      "Y3": "1%, Rs 1,500",
+      "Y4": "0.5%, Rs 1,000"
+     },
+     "premium above Rs 3,00,000": {
+      "Y1": "lower of 1%, max Rs 6,000",
+      "Y2": "0.70%, Rs 5,000",
+      "Y3": "0.50%, Rs 4,000",
+      "Y4": "0.35%, Rs 2,000"
+     }
+    },
+    "year 5 onwards": "nil"
+   },
+   "status": "built-in",
+   "doc": "Download Brochure",
+   "page": 12,
+   "quote": "Lower of 20% *(AP or FV) subject Lower of 6% *(AP or FV) subject",
+   "note": null,
+   "quote_2": "Lower of 15% *(AP or FV) subject Lower of 4% *(AP or FV) subject",
+   "page_2": 12,
+   "quote_3": "Lower of 2% *(SP or FV) subject to Lower of 1% *(SP or FV) subject",
+   "page_3": 12,
+   "quote_4": "Lower of 1.5% *(SP or FV) subject Lower of 0.70% *(SP or FV) subject",
+   "page_4": 12
+  },
+  "switching_charge": {
+   "value": "nil; unlimited switches",
+   "status": "built-in",
+   "doc": "Download Brochure",
+   "page": 9,
+   "quote": "The switches in any given Policy Year or in any year during entire policy term will be free of charge.",
+   "note": null
+  },
+  "partial_withdrawal_charge": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "premium_redirection_charge": {
+   "value": "nil",
+   "status": "built-in",
+   "doc": "Download Brochure",
+   "page": 9,
+   "quote": "Premium Redirection facility is allowed without any charge",
+   "note": null
+  },
+  "miscellaneous_charge": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "guarantee_charge": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "rider_charges": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "any_charge_returned": {
+   "value": null,
+   "status": "not offered",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": "no return of charges; a maturity booster is paid instead"
+  }
+ },
+ "benefits": {
+  "death_benefit_formula": {
+   "value": "higher of fund value (including top-up) and 105% of all premiums paid (including top-up); the policy ends",
+   "status": "built-in",
+   "doc": "Download Brochure",
+   "page": 6,
+   "quote": "Fund Value including Top-up Fund value (if any), as on date of intimation of death, or",
+   "note": null,
+   "quote_2": "105% of all Premiums paid (including top-up premiums if any) up to the date of death",
+   "page_2": 6
+  },
+  "maturity_benefit": {
+   "value": "fund value at the vesting date, to buy an annuity or commute up to 60%",
+   "status": "built-in",
+   "doc": "Download Brochure",
+   "page": 6,
+   "quote": "Fund value is payable to the policyholder and the",
+   "note": null,
+   "quote_2": "To commute/ withdraw up to 60% of the entire Vesting Beneﬁt and",
+   "page_2": 6
+  },
+  "loyalty_additions": {
+   "value": {
+    "timing": "end of every fifth policy year from the 10th, if all due premiums are paid",
+    "years 10-14": "0.5%",
+    "year 15 and above": "1.5%",
+    "basis": "average fund value (including top-up) of the last 60 monthly anniversaries"
+   },
+   "status": "built-in",
+   "doc": "Download Brochure",
+   "page": 5,
+   "quote": "10th – 14th 0.5%",
+   "note": null,
+   "quote_2": "15th and above 1.5%",
+   "page_2": 5,
+   "quote_3": "at the end of every ﬁve policy years, starting from the 10th policy",
+   "page_3": 4
+  },
+  "wealth_boosters_or_guaranteed_additions": {
+   "value": {
+    "maturity booster, percent of the average fund value of the last 60 monthly anniversaries": {
+     "limited and regular pay (annual premium: below 1 lakh / 1 to 4.99 lakh / 5 to 9.99 lakh / 10 lakh and above)": {
+      "policy term 10-14": "0.5% / 0.75% / 1% / 1.25%",
+      "15-19": "1.5% / 1.75% / 2% / 2.25%",
+      "20-24": "2.5% / 2.75% / 3% / 3.25%",
+      "25-29": "3.5% / 3.75% / 4% / 4.25%",
+      "30-40": "4.5% / 4.75% / 5% / 5.25%"
+     },
+     "single pay": {
+      "policy term 10-14": "4%",
+      "15-19": "5%",
+      "20-24": "6%",
+      "25-29": "7%",
+      "30-40": "8%"
+     }
+    }
+   },
+   "status": "built-in",
+   "doc": "Download Brochure",
+   "page": 5,
+   "quote": "10-14 0.5% 0.75% 1% 1.25%",
+   "note": null,
+   "quote_2": "30-40 4.5% 4.75% 5% 5.25%",
+   "page_2": 5,
+   "quote_3": "10-14 4%",
+   "page_3": 5,
+   "quote_4": "30-40 8%",
+   "page_4": 5
+  },
+  "return_of_mortality_charges": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "return_of_premium_allocation_charges": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "return_of_policy_admin_charges": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "other_additions": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  }
+ },
+ "flexibility": {
+  "fund_switching": {
+   "value": "free and unlimited; at least Rs 10,000 per switch",
+   "status": "optional (during term)",
+   "doc": "Download Brochure",
+   "page": 9,
+   "quote": "Minimum switch amount is Rs 10,000/-.",
+   "note": null,
+   "quote_2": "There is no limit on the number of",
+   "page_2": 9
+  },
+  "premium_redirection": {
+   "value": "free of charge, effective from the next premium due date",
+   "status": "optional (during term)",
+   "doc": "Download Brochure",
+   "page": 9,
+   "quote": "Premium Redirection facility is allowed without any charge",
+   "note": null
+  },
+  "partial_withdrawals": {
+   "value": {
+    "from": "6th policy year, if the first 5 years of premiums are paid",
+    "minimum": "Rs 10,000 in multiples of Rs 1,000",
+    "maximum": "25% of fund value",
+    "count": "3 times in the whole term",
+    "purposes": "children education or marriage, house purchase, critical illness treatment, disability expenses, skill development, own venture"
+   },
+   "status": "optional (during term)",
+   "doc": "Download Brochure",
+   "page": 7,
+   "quote": "You have the ﬂexibility to make partial withdrawals from 6th policy year onwards provided all due premiums for",
+   "note": null,
+   "quote_2": "Partial withdrawal shall not exceed 25% of the Fund Value at the time of partial withdrawal.",
+   "page_2": 7,
+   "quote_3": "The request for partial withdrawal can only be made 3 times during the entire term of the policy",
+   "page_3": 7
+  },
+  "systematic_withdrawal_plan": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "top_up_premiums": {
+   "value": {
+    "minimum": "Rs 10,000",
+    "allowed": "throughout the term except the first 5 and last 5 policy years; not for a 10-year term",
+    "cap": "total top-ups cannot exceed the total premium payable under the policy",
+    "allocation charge": "2%"
+   },
+   "status": "optional (during term)",
+   "doc": "Download Brochure",
+   "page": 7,
+   "quote": "The amount of each top-up premium should be a minimum of Rs 10,000",
+   "note": null,
+   "quote_2": "Top-up Premiums can be paid throughout the policy term, except in the ﬁrst 5 policy years and the last 5",
+   "page_2": 7,
+   "quote_3": "Maximum Top-Up allowed throughout the Policy Term would be equal to Total Premium Payable under the",
+   "page_3": 7
+  },
+  "settlement_option": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "premium_holiday_or_offset": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "increase_decrease_cover": {
+   "value": "premium can be cut by up to 50% once, after 5 years",
+   "status": "optional (during term)",
+   "doc": "Download Brochure",
+   "page": 9,
+   "quote": "option to decrease the premium payable by up to 50% of the original Annualized Premium,",
+   "note": null
+  },
+  "change_ppt_or_term": {
+   "value": "vesting date can be postponed up to age 85 if the life assured is below 60",
+   "status": "optional (during term)",
+   "doc": "Download Brochure",
+   "page": 6,
+   "quote": "maximum would be up to age of 85 years (last",
+   "note": null,
+   "quote_2": "provided you are below the age of 60 years.",
+   "page_2": 6
+  },
+  "policy_loan": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "auto_portfolio_strategies": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  }
+ },
+ "funds": {
+  "fund_count": {
+   "value": 3,
+   "status": "n/a",
+   "doc": "Download Brochure",
+   "page": 8,
+   "quote": "There are three investment funds in the plan.",
+   "note": null
+  },
+  "fund_list": {
+   "value": [
+    {
+     "name": "Pension Equity Fund",
+     "SFIN": "ULIF02822/02/26PENONEQFND136",
+     "FMC_pct": 1.35,
+     "asset_allocation": "equity 60% to 100%, REIT and InvIT units 0% to 10%, money market and others 0% to 40%",
+     "risk_label": "High"
+    },
+    {
+     "name": "Pension Nifty Alpha 50 Index Fund",
+     "SFIN": "ULIF02618/08/25PNALFEQFND136",
+     "FMC_pct": 1.35,
+     "asset_allocation": "equity 70% to 100%, money market and others 0% to 30%",
+     "risk_label": "High"
+    },
+    {
+     "name": "Pension Debt Fund",
+     "SFIN": "ULIF01605/11/15PENSDEBFND136",
+     "FMC_pct": 1.0,
+     "asset_allocation": "debt 20% to 100%, money market and others 0% to 80%",
+     "risk_label": "Low"
+    }
+   ],
+   "status": "n/a",
+   "doc": "Policy Document",
+   "page": 7,
+   "quote": "Pension Equity Fund                          : ULIF02822/02/26PENONEQFND136",
+   "note": "SFINs from the policy document, FMC and risk labels from the brochure"
+  },
+  "index_or_thematic_funds": {
+   "value": "Pension Nifty Alpha 50 Index Fund",
+   "status": "n/a",
+   "doc": "Download Brochure",
+   "page": 8,
+   "quote": "To track Nifty Alpha 50",
+   "note": null
+  },
+  "discontinued_policy_fund": {
+   "value": {
+    "name": "Pension Discontinued Policy Fund",
+    "SFIN": "ULIF01705/11/15PENSDISFND136"
+   },
+   "status": "built-in",
+   "doc": "Download Brochure",
+   "page": 17,
+   "quote": "Discontinued Policy Fund is ULIF01705/11/15PENSDISFND136.",
+   "note": "FMC 0.50% is in the brochure charges table"
+  }
+ },
+ "protection_add_ons": {
+  "waiver_of_premium_inbuilt": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "critical_illness": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "accidental_death": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "terminal_illness": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "spouse_or_child_cover": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "riders_available": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  }
+ },
+ "surrender_revival": {
+  "lock_in_years": {
+   "value": 5,
+   "status": "built-in",
+   "doc": "Download Brochure",
+   "page": 1,
+   "quote": "Products completely or partially till the end of the ﬁfth year.",
+   "note": null
+  },
+  "discontinuance_rules": {
+   "value": "surrender or discontinuance in the first 5 years moves the fund, less the charge, to the Pension Discontinued Policy Fund, which earns at least 4%; the proceeds buy an annuity or are commuted up to 60%",
+   "status": "built-in",
+   "doc": "Download Brochure",
+   "page": 9,
+   "quote": "will be transferred to the Pension Discontinued Policy Fund and will earn at least a",
+   "note": null,
+   "quote_2": "minimum guaranteed interest rate of 4% or as decided by IRDAI from time to time.",
+   "page_2": 9
+  },
+  "revival_period": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "surrender_value_rule": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  }
+ },
+ "documents_inventory": [
+  {
+   "website_label": "Download Brochure",
+   "doc_type": "brochure",
+   "url": "https://www.canarahsbclife.com/content/dam/chli/pdfs/products/retirement/legacy-builder/product-brochure.pdf",
+   "found_on_page_url": "https://www.canarahsbclife.com/retirement-plans/legacy-builder",
+   "pages": 19,
+   "stored_path": "docs/canara-hsbc/136L095V01/brochure.pdf",
+   "status": "already stored",
+   "note": null
+  },
+  {
+   "website_label": "Access Customer Information Sheet",
+   "doc_type": "CIS",
+   "url": "https://www.canarahsbclife.com/content/dam/chli/pdfs/products/retirement/legacy-builder/customer-information-sheet.pdf",
+   "found_on_page_url": "https://www.canarahsbclife.com/retirement-plans/legacy-builder",
+   "pages": 4,
+   "stored_path": "docs/canara-hsbc/136L095V01/cis.pdf",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "website_label": "Policy Document",
+   "doc_type": "policy_document",
+   "url": "https://www.canarahsbclife.com/content/dam/chli/pdfs/products/retirement/legacy-builder/policy-document.pdf",
+   "found_on_page_url": "https://www.canarahsbclife.com/retirement-plans/legacy-builder",
+   "pages": 28,
+   "stored_path": "docs/canara-hsbc/136L095V01/policy.pdf",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "website_label": "Specimen Signature",
+   "doc_type": "policy_document",
+   "url": "https://www.canarahsbclife.com/content/dam/chli/pdfs/digital-authentication-at-ps-form-revised.pdf",
+   "found_on_page_url": "https://www.canarahsbclife.com/retirement-plans/legacy-builder",
+   "pages": null,
+   "stored_path": null,
+   "status": "failed",
+   "note": "product code not in the document"
+  }
+ ],
+ "new_features_not_in_schema": [
+  {
+   "feature": "Loyalty additions and maturity booster in a pension ULIP",
+   "description": "Loyalty additions of 0.5% then 1.5% every five years from year 10, and a maturity booster of 0.5% to 8% of the average fund value by policy term",
+   "quote": "Loyalty Additions and Maturity Booster to enhance your retirement corpus",
+   "doc": "Download Brochure",
+   "page": 2
+  }
+ ],
+ "data_not_public": [
+  {
+   "item": "Full mortality charge table",
+   "doc": "Download Brochure",
+   "where_referenced": "Mortality Charge section",
+   "quote": "Sample standard mortality rates applicable",
+   "note": "the brochure prints rates for four sample ages; the policy document prints no rate table"
+  }
+ ]
+}

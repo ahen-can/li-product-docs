@@ -129,7 +129,9 @@
    "doc": "Smart-Pension-Secure-V9-Brochure.pdf",
    "page": 2,
    "quote": "Minimum Premium",
-   "note": null
+   "note": null,
+   "quote_2": "Premium ₹ 10,000 p.a",
+   "page_2": 2
   },
   "premium_min_single": {
    "value": "Rs 10,000 (Option 1)",
@@ -137,7 +139,9 @@
    "doc": "Smart-Pension-Secure-V9-Brochure.pdf",
    "page": 2,
    "quote": "Minimum Premium",
-   "note": null
+   "note": null,
+   "quote_2": "Plan Options: Premium Regular Premium 1. Smart Pension Secure Smart Pension Secure ₹ 10,000 p.a ₹ 10,000 p.a",
+   "page_2": 2
   },
   "premium_max": {
    "value": "no limit, as per underwriting",

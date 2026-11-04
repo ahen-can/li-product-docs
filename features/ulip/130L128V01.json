@@ -199,12 +199,46 @@
    "note": "returned at maturity (Return of Premium Allocation Charge)"
   },
   "policy_administration_charge": {
-   "value": "monthly % of annualised premium, varies by plan option, pay type and premium size (Wealth Plan has lower rates for AP of Rs 50 lakh or more); maximum Rs 500 per month",
+   "value": {
+    "basis": "monthly charge, as a percent of annualized premium, deducted by cancelling units",
+    "Plan Option 1, Wealth Affinity Plan": {
+     "single pay": {
+      "years 1 to 5": "0.14%",
+      "years 6 to 10": "0.01%",
+      "year 11 onwards": "0.01%"
+     },
+     "other than single pay": {
+      "years 1 to 5": "0.125%",
+      "years 6 to 10": "0.125%",
+      "year 11 onwards": "0.125%"
+     }
+    },
+    "Plan Option 2, Wealth Plan, annualized premium under Rs 50,00,000": {
+     "single pay": {
+      "years 1 to 5": "0.195%",
+      "years 6 to 10": "0.010%",
+      "year 11 onwards": "0.010%"
+     },
+     "other than single pay": {
+      "years 1 to 5": "0.51%",
+      "years 6 to 10": "0.26%",
+      "year 11 onwards": "0.10%"
+     }
+    },
+    "Plan Option 2, Wealth Plan, annualized premium Rs 50,00,000 and above": "NIL for both pay types and all years (one merged cell)",
+    "cap": "Rs 500 a month"
+   },
    "status": "built-in",
    "doc": "Policy Bond",
    "page": 19,
-   "quote": "The Policy Administration Charge is subject to a maximum limit of Rs.500/- per month.",
-   "note": "table on policy bond p.19 is hard to read in text form; returned at maturity (Return of Administration Charge)"
+   "quote": "1 to 5 0.14% 0.125% 0.195% 0.51%",
+   "note": "table read from the layout text and checked against the page image; the NIL cell spans both pay-type columns and all three year rows; the charge is returned at maturity (Return of Administration Charge)",
+   "quote_2": "6 to 10 0.01% 0.125% 0.010% 0.26% NIL",
+   "page_2": 19,
+   "quote_3": "11+ 0.01% 0.125% 0.010% 0.10%",
+   "page_3": 19,
+   "quote_4": "The Policy Administration Charge is subject to a maximum limit of Rs.500/- per month.",
+   "page_4": 19
   },
   "fund_management_charge": {
    "value": {
@@ -342,7 +376,9 @@
    "doc": "Policy Bond",
    "page": 6,
    "quote": "a) Return of Premium Allocation Charge: The total Premium Allocation Charges (excluding any applicable tax/cess levied) deducted during the Policy Term will be added to the Policy Fund Value at maturity, if any.",
-   "note": null
+   "note": null,
+   "quote_2": "100% The above benefit is payable only if all premiums have been received from the Policyholder.",
+   "page_2": 6
   },
   "return_of_policy_admin_charges": {
    "value": "100% at maturity",
@@ -350,7 +386,9 @@
    "doc": "Policy Bond",
    "page": 6,
    "quote": "b) Return of Administration Charge: The total Administration Charges (excluding any applicable tax/cess levied) deducted during the Policy Term will be added to the Policy Fund Value at maturity, if any.",
-   "note": null
+   "note": null,
+   "quote_2": "100% The above benefit is payable only if all premiums have been received from the Policyholder.",
+   "page_2": 6
   },
   "other_additions": {
    "value": [
@@ -381,7 +419,9 @@
    "doc": "Policy Bond",
    "page": 18,
    "quote": "The Policyholder is entitled to make any number of Switches in a Policy Year free of charge.",
-   "note": null
+   "note": null,
+   "quote_2": "iii. The Policyholder is entitled to make any number of Switches in a Policy Year free of charge. iv. The minimum investment in any allocated Fund should not be less than 5% of the Fund Value at the",
+   "page_2": 18
   },
   "premium_redirection": {
    "value": "allowed for future premiums; minimum 5% per fund; not for single pay",

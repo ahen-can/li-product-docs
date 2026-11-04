@@ -22,14 +22,14 @@ import light_discovery as L
 
 SLUG = {'Bharti Life': 'bharti-life', 'SBI Life': 'sbi-life', 'HDFC Life': 'hdfc-life', 'Tata AIA Life': 'tata-aia',
         'Bajaj Life': 'bajaj-life', 'Axis Max Life': 'axis-max-life', 'LIC': 'lic', 'Aditya Birla Sun Life': 'absli',
-        'Canara HSBC Life': 'canara-hsbc', 'ICICI Life': 'icici-life', 'Kotak Mahindra Life': 'kotak-life'}
+        'Canara HSBC Life': 'canara-hsbc', 'Ageas Federal Life': 'ageas-federal', 'ICICI Life': 'icici-life', 'Kotak Mahindra Life': 'kotak-life'}
 KIND = [  # (doc_type, label pattern); first match wins, so order matters
     ('cis', r'customer information sheet|\bcis\b|key feature'),
     ('bi', r'benefit illustration|sales illustration|sample illustration|\bbi\b'),
     ('policy', r'policy[\s_-]*(bond|document|contract|wording|terms)|terms[\s_-]*(and|&)[\s_-]*conditions|specimen|sample[\s_-]*policy|'
                r'part[\s_-]*b\b|policy[\s_-]*doc|\bpd\b|_pd_|-pd\.|t\s*&\s*c\b|tnc'),
     ('fund_factsheet', r'fund[\s_-]*(fact[\s_-]*sheet|performance|details|options|brochure)|factsheet'),
-    ('leaflet', r'leaflet|one[\s_-]*pager|flyer'),
+    ('leaflet', r'leaflet|one[\s_-]*pager|flyer|\bkfd\b'),
     ('brochure', r'brochure|prospectus|sales[\s_-]*lit|\bsl\b|_sl_|-sl[-_.]'),
 ]
 SKIP = re.compile(r'claim|proposal[\s_-]*form|hindi|marathi|tamil|telugu|kannada|gujarati|bengali|malayalam|odia|punjabi|'
@@ -43,6 +43,18 @@ def kind_of(label, url):
     for k, rx in KIND:
         if re.search(rx, blob, re.I): return k
     return None
+
+def ageas_docs(page, tmp):
+    # Ageas Federal product pages keep their documents in a "planWiseDoc" list inside the page data, not in anchor tags.
+    L.page_links(page, tmp)
+    t = open(os.path.join(tmp, hashlib.md5(page.encode()).hexdigest() + '.html'), 'rb').read().decode('utf-8', 'ignore').replace('\\"', '"')
+    i = t.find('"planWiseDoc"')
+    out = []
+    if i < 0: return out
+    seg = t[i:]
+    for m in re.finditer(r'"doc_name":"([^"]*)","document":\{"data":\{.*?"url":"(https://[^"]+?\.pdf)"', seg):
+        out.append((urllib.parse.unquote(m.group(2)) if False else m.group(2), m.group(1).strip()))
+    return out
 
 def ensure_index_column():
     rows = list(csv.DictReader(open('index.csv'))); cols = list(rows[0].keys()) if rows else []
@@ -73,7 +85,7 @@ def main():
         prod = dict(M.get(uin, {}), product_code=uin[:7], uin=uin, product_name=d['product_name'])
         page = d['product_page_url']
         now = datetime.datetime.now(datetime.timezone.utc).strftime('%Y-%m-%dT%H:%M:%SZ')
-        links = L.page_links(page, a.tmp) if page else []
+        links = (ageas_docs(page, a.tmp) if slug == 'ageas-federal' else L.page_links(page, a.tmp)) if page else []
         norm = lambda x: re.sub(r'[^a-z0-9]+', ' ', x.lower()).strip()
         pname = norm(re.sub(r'^(hdfc life|sbi life|tata aia( life)?( insurance)?|bajaj life|axis max life|absli|canara hsbc life( insurance)?|lic.?s?|bharti axa life)\s+', '', d['product_name'].lower()))
         ver = int(uin[-2:]); xl = []

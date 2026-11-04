@@ -16,9 +16,9 @@ spec = {
  },
  'eligibility': {
   'entry_age_min': F('30 days (Wealth Secure, Goal Secure); 18 years (Future Secure, Family Secure)', 'n/a', B, None, 'Wealth Secure (Age last birthday)'),
-  'entry_age_max': F('65 years', 'n/a', B, None, 'Wealth Secure (Age last birthday)', 'brochure table is laid out in columns; values read from the raw text order'),
+  'entry_age_max': F('65 years', 'n/a', B, None, 'Wealth Secure (Age last birthday)', 'brochure table is laid out in columns; values read from the raw text order', quote_2='Entry Age Entry Age market-linked returns Wealth Secure (Age last birthday) 30 days 65', page_2=2),
   'maturity_age_min': F('18 years (Wealth, Goal Secure); 28 years (Future, Family Secure)', 'n/a', B, None, 'Minimum Maturity'),
-  'maturity_age_max': F('100 (Wealth Secure); 85 (other options)', 'n/a', B, None, 'Maximum maturity'),
+  'maturity_age_max': F('100 (Wealth Secure); 85 (other options)', 'n/a', B, None, 'Maximum maturity', quote_2='Wealth Secure 18 Years 100 • Wellness benefits with Vitality Riders Future Secure 28 Years 85', page_2=2),
   'policy_term_options': F('minimum 5 years (single pay) or 10 years (limited/regular); maximum 50 years, 100 for Wealth Secure', 'n/a', B, None, '5 years for Single Pay, 10 years for Limited Pay/Regular Pay'),
   'ppt_options': F('single; limited 5 to 20 years; regular 10 to 50 years (Wealth Secure up to 100); no single pay for Future and Family Secure', 'n/a', B, None, 'Single Pay, Limited Pay – 5 to 20 years, Regular Pay – 10 to'),
   'premium_min_annual': F('Rs 1,200 a year (Wealth Secure); Rs 6,000 (other options)', 'n/a', B, None, 'Wealth Secure ₹ 1,000 p.a ₹ 1,200 p.a', 'checked against the -layout text'),

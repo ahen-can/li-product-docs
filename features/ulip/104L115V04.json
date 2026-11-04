@@ -530,7 +530,9 @@
    "doc": "Prospectus",
    "page": 23,
    "quote": "There is no limit on number of switches done in a policy year i.e. You may",
-   "note": null
+   "note": null,
+   "quote_2": "You may switch between available Funds at any time during the Policy Term, subject to a minimum Switch amount of ₹5,000. There is no limit on number of switches done in a policy year i.e. You may",
+   "page_2": 23
   },
   "premium_redirection": {
    "value": "up to 6 free redirections a year",

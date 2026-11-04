@@ -359,7 +359,9 @@
    "doc": "gain-brochure.pdf",
    "page": 13,
    "quote": "You can exercise unlimited free switches",
-   "note": null
+   "note": null,
+   "quote_2": "You can exercise unlimited free switches The minimum switching amount is Rs. 5,000 or the value of units held by you in the fund to be switched",
+   "page_2": 13
   },
   "partial_withdrawal_charge": {
    "value": "nil",
@@ -979,7 +981,7 @@
    "note": null
   },
   {
-   "website_label": "Download",
+   "website_label": "Download (gain-cis.pdf)",
    "doc_type": "CIS",
    "url": "https://www.bajajlifeinsurance.com/content/dam/balic-web/pdf/ulip/gain-cis.pdf",
    "found_on_page_url": "https://www.bajajlifeinsurance.com/ulip-plans/bajaj-life-gain-plan.html",

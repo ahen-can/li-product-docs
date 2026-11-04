@@ -73,7 +73,9 @@
    "doc": "Policy Document",
    "page": 28,
    "quote": "In case of Online and Digital Sales, no policy administration",
-   "note": null
+   "note": null,
+   "quote_2": "In case of Online and Digital Sales, no policy administration charges are applicable after 10th policy",
+   "page_2": 28
   }
  },
  "eligibility": {
@@ -83,7 +85,9 @@
    "doc": "Shubh-SIP-Brochure-V1.pdf",
    "page": 2,
    "quote": "Maximum Entry Age",
-   "note": null
+   "note": null,
+   "quote_2": "• Multiple funds and investment strategies to choose from. Secure Secure Secure Minimum Entry Age 30 days 18 years 18 years",
+   "page_2": 2
   },
   "entry_age_max": {
    "value": "65 years",
@@ -91,7 +95,9 @@
    "doc": "Shubh-SIP-Brochure-V1.pdf",
    "page": 2,
    "quote": "Maximum Entry Age",
-   "note": "brochure table is laid out in columns; values read from the raw text order"
+   "note": "brochure table is laid out in columns; values read from the raw text order",
+   "quote_2": "Maximum Entry Age 65 years 65 years 65 years",
+   "page_2": 2
   },
   "maturity_age_min": {
    "value": "18 years (Wealth Secure); 28 years (Future Secure)",
@@ -99,7 +105,9 @@
    "doc": "Shubh-SIP-Brochure-V1.pdf",
    "page": 2,
    "quote": "Minimum Maturity Age",
-   "note": null
+   "note": null,
+   "quote_2": "Secure 18 years 65 years 28 years",
+   "page_2": 2
   },
   "maturity_age_max": {
    "value": "100 (Wealth Secure); 85 (Future Secure)",
@@ -107,7 +115,9 @@
    "doc": "Shubh-SIP-Brochure-V1.pdf",
    "page": 2,
    "quote": "Maximum Maturity Age",
-   "note": null
+   "note": null,
+   "quote_2": "Maximum Maturity Age 100 years 85 years 85 years",
+   "page_2": 2
   },
   "policy_term_options": {
    "value": "Wealth Secure 5 to 100 years; Future Secure 10 to 50 years",
@@ -115,7 +125,9 @@
    "doc": "Shubh-SIP-Brochure-V1.pdf",
    "page": 2,
    "quote": "Minimum Policy Term",
-   "note": null
+   "note": null,
+   "quote_2": "Minimum Policy Term 5 years 10 years 10 years Maximum Policy Term 100 years 50 years 50 years",
+   "page_2": 2
   },
   "ppt_options": {
    "value": "single; limited 5 to 20 years; regular 10 to 50 years (Wealth Secure up to 100); no single pay for Future and Family Secure",
@@ -139,7 +151,9 @@
    "doc": "Shubh-SIP-Brochure-V1.pdf",
    "page": 3,
    "quote": "For Future Secure and Family Secure option Single Pay is not",
-   "note": null
+   "note": null,
+   "quote_2": "Single Pay 1,000 NA NA 1. Wealth Secure",
+   "page_2": 3
   },
   "premium_max": {
    "value": "no limit, as per underwriting",

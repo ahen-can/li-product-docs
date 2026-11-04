@@ -1,35 +1,35 @@
 {
  "product": {
   "uin": {
-   "value": "110L164V11 (deep set); the only document prints 110L164V04",
+   "value": "110L164V11",
    "status": "n/a",
-   "doc": "click here",
+   "doc": "User upload (brochure)",
    "page": 1,
-   "quote": "UIN: 110L164V04",
-   "note": "version mismatch: the product page (a separate \"bo\" microsite) links only the V04 sales literature"
+   "quote": "UIN: 110L164V11",
+   "note": null
   },
   "uin_in_brochure": {
-   "value": "110L164V04",
+   "value": "110L164V11",
    "status": "n/a",
-   "doc": "click here",
+   "doc": "User upload (brochure)",
    "page": 1,
-   "quote": "UIN: 110L164V04",
+   "quote": "UIN: 110L164V11",
    "note": null
   },
   "product_name": {
    "value": "Tata AIA i Systematic Insurance Plan (iSIP)",
    "status": "n/a",
-   "doc": "click here",
-   "page": 1,
-   "quote": "Tata AIA i Systematic Insurance Plan (iSIP)",
+   "doc": "User upload (brochure)",
+   "page": 2,
+   "quote": "Tata AIA i Systematic Insurance Plan",
    "note": null
   },
   "irdai_description_line": {
-   "value": "Unit Linked, Individual Life Insurance Savings plan",
+   "value": "A Non-Participating, Unit-Linked, Individual Life Insurance Savings Plan",
    "status": "n/a",
-   "doc": "click here",
+   "doc": "User upload (brochure)",
    "page": 1,
-   "quote": "Unit Linked, Individual Life Insurance Savings plan",
+   "quote": "A Non-Participating, Unit-Linked, Individual Life Insurance Savings Plan",
    "note": null
   },
   "launch_or_version_date": {
@@ -43,13 +43,15 @@
   "variants_or_plan_options": {
    "value": [
     "iSIP Wealth",
-    "iSIP Young Genius (company funds future premiums after death)"
+    "iSIP Young Genius"
    ],
-   "status": "optional (at inception)",
-   "doc": "click here",
+   "status": "n/a",
+   "doc": "User upload (brochure)",
    "page": 2,
-   "quote": "Option 2: iSIP Young Genius",
-   "note": "from the V04 sales literature; the deep set lists V11 and no V11 document is linked"
+   "quote": "Option 1: iSIP Wealth",
+   "note": null,
+   "quote_2": "Option 2: iSIP Young Genius",
+   "page_2": 2
   },
   "target_segment_stated": {
    "value": null,
@@ -70,12 +72,17 @@
  },
  "eligibility": {
   "entry_age_min": {
-   "value": "30 days (iSIP Wealth); 18 years (Young Genius)",
+   "value": {
+    "iSIP Wealth": "0 years (30 days)",
+    "iSIP Young Genius": 18
+   },
    "status": "n/a",
-   "doc": "click here",
-   "page": 2,
-   "quote": "iSIP Wealth: 0 years (30 days) iSIP Young Genius: 18 years",
-   "note": "from the V04 sales literature; the deep set lists V11 and no V11 document is linked"
+   "doc": "User upload (brochure)",
+   "page": 3,
+   "quote": "iSIP Wealth: 0 years (30 days)",
+   "note": null,
+   "quote_2": "iSIP Young Genius: 18 years",
+   "page_2": 3
   },
   "entry_age_max": {
    "value": null,
@@ -86,12 +93,17 @@
    "note": null
   },
   "maturity_age_min": {
-   "value": "18 years (Wealth); 28 years (Young Genius)",
+   "value": {
+    "iSIP Wealth": 18,
+    "iSIP Young Genius": 28
+   },
    "status": "n/a",
-   "doc": "click here",
+   "doc": "User upload (brochure)",
    "page": 3,
-   "quote": "iSIP Wealth: 18 years iSIP young genius: 28 years",
-   "note": "from the V04 sales literature; the deep set lists V11 and no V11 document is linked"
+   "quote": "iSIP Wealth: 18 years",
+   "note": null,
+   "quote_2": "iSIP young genius: 28 years",
+   "page_2": 3
   },
   "maturity_age_max": {
    "value": null,
@@ -102,60 +114,106 @@
    "note": null
   },
   "policy_term_options": {
-   "value": null,
-   "status": "not stated in public documents",
-   "doc": null,
-   "page": null,
-   "quote": null,
-   "note": null
+   "value": {
+    "minimum": {
+     "single pay": 5,
+     "limited and regular pay": 10
+    },
+    "maximum": "Wealth: 100 minus entry age (whole life) or 40 years; Young Genius: 40 years"
+   },
+   "status": "n/a",
+   "doc": "User upload (brochure)",
+   "page": 3,
+   "quote": "Single Pay: 5 years",
+   "note": null,
+   "quote_2": "Limited/ Regular Pay: 10 years",
+   "page_2": 3,
+   "quote_3": "40 years",
+   "page_3": 3
   },
   "ppt_options": {
-   "value": "single; limited 5 to 20 years; regular (equal to term)",
+   "value": {
+    "single pay": "single",
+    "limited pay": "5 to 20 years",
+    "regular pay": "equal to the policy term"
+   },
    "status": "n/a",
-   "doc": "click here",
+   "doc": "User upload (brochure)",
    "page": 3,
    "quote": "Limited Pay – 5 - 20years",
-   "note": "from the V04 sales literature; the deep set lists V11 and no V11 document is linked"
+   "note": null,
+   "quote_2": "Regular – Equal to policy term",
+   "page_2": 3
   },
   "premium_min_annual": {
-   "value": "Rs 1,200 (Wealth); Rs 6,000 (Young Genius)",
+   "value": {
+    "iSIP Wealth": 1200,
+    "iSIP Young Genius": 6000
+   },
    "status": "n/a",
-   "doc": "click here",
+   "doc": "User upload (brochure)",
    "page": 3,
-   "quote": "Rs 1,000 Rs 1,200 p.a.",
-   "note": "from the V04 sales literature; the deep set lists V11 and no V11 document is linked"
+   "quote": "1,200 p.a.",
+   "note": null,
+   "quote_2": "6,000 p.a.",
+   "page_2": 3
   },
   "premium_min_single": {
-   "value": "Rs 1,000 (Wealth)",
+   "value": {
+    "iSIP Wealth": 1000,
+    "iSIP Young Genius": "not available"
+   },
    "status": "n/a",
-   "doc": "click here",
+   "doc": "User upload (brochure)",
    "page": 3,
-   "quote": "Rs 1,000 Rs 1,200 p.a.",
-   "note": "from the V04 sales literature; the deep set lists V11 and no V11 document is linked"
+   "quote": "Single Pay 1,000 NA",
+   "note": null
   },
   "premium_max": {
-   "value": null,
-   "status": "not stated in public documents",
-   "doc": null,
-   "page": null,
-   "quote": null,
+   "value": "as per the Board approved underwriting policy",
+   "status": "n/a",
+   "doc": "User upload (brochure)",
+   "page": 3,
+   "quote": "Single Pay – As per BAUP",
    "note": null
   },
   "sum_assured_rule": {
-   "value": "single: 1.25x SP (up to 49) or 1.10x; regular/limited: 7x or 5x AP; maximum up to 30x by age and term",
+   "value": {
+    "minimum, age up to 49": {
+     "single pay": "1.25 times the single premium",
+     "regular or limited pay": "7 times the annualised premium"
+    },
+    "minimum, age 50 and above": {
+     "single pay": "1.10 times",
+     "regular or limited pay": "5 times"
+    },
+    "maximum": "single pay 10 times the single premium; regular or limited pay Z times the annualised premium by entry age"
+   },
    "status": "built-in",
-   "doc": "click here",
-   "page": 4,
-   "quote": "For Regular / Limited Pay – 7 times Annualised Premium",
-   "note": "from the V04 sales literature; the deep set lists V11 and no V11 document is linked"
+   "doc": "User upload (brochure)",
+   "page": 3,
+   "quote": "For Single Pay - 1.25 times the Single Premium",
+   "note": null,
+   "quote_2": "For Regular/Limited Pay - 7 times Annualised",
+   "page_2": 3,
+   "quote_3": "For Single Pay - 1.10 times the Single Premium",
+   "page_3": 3,
+   "quote_4": "For Regular/Limited Pay - 5 times Annualised",
+   "page_4": 3
   },
   "premium_modes": {
-   "value": "single, annual, semi-annual, quarterly, monthly",
+   "value": [
+    "single",
+    "annual",
+    "semi-annual",
+    "quarterly",
+    "monthly"
+   ],
    "status": "n/a",
-   "doc": "click here",
+   "doc": "User upload (brochure)",
    "page": 3,
    "quote": "Single, Annual, Semi-Annual, Quarterly, Monthly",
-   "note": "from the V04 sales literature; the deep set lists V11 and no V11 document is linked"
+   "note": null
   },
   "life_cover_multiple_choice": {
    "value": null,
@@ -168,75 +226,160 @@
  },
  "charges": {
   "premium_allocation_charge": {
-   "value": "nil",
+   "value": "nil on base and top-up premium",
    "status": "built-in",
-   "doc": "click here",
-   "page": 1,
-   "quote": "zero premium allocation and policy administration charges",
-   "note": "from the V04 sales literature; the deep set lists V11 and no V11 document is linked"
+   "doc": "User upload (brochure)",
+   "page": 21,
+   "quote": "There are no Premium Allocation Charge(s) on base premium",
+   "note": null
   },
   "policy_administration_charge": {
    "value": "nil",
    "status": "built-in",
-   "doc": "click here",
-   "page": 1,
-   "quote": "zero premium allocation and policy administration charges",
-   "note": "from the V04 sales literature; the deep set lists V11 and no V11 document is linked"
+   "doc": "User upload (brochure)",
+   "page": 21,
+   "quote": "There are no Policy Administration Charge(s)",
+   "note": null
   },
   "fund_management_charge": {
-   "value": null,
-   "status": "not stated in public documents",
-   "doc": null,
-   "page": null,
-   "quote": null,
-   "note": null
+   "value": {
+    "Multi Cap Fund": "1.20%",
+    "India Consumption Fund": "1.20%",
+    "Top 50 Fund": "1.20%",
+    "Top 200 Fund": "1.20%",
+    "Super Select Equity Fund": "1.20%",
+    "Large Cap Equity Fund": "1.20%",
+    "Whole Life Mid-cap Equity Fund": "1.20%",
+    "Whole Life Aggressive Growth Fund": "1.10%",
+    "Whole Life Stable Growth Fund": "1.00%",
+    "Whole Life Income Fund": "0.80%",
+    "Whole Life Short Term Fixed Income Fund": "0.65%",
+    "Emerging Opportunities Fund": "1.20%",
+    "Sustainable Equity Fund": "1.20%",
+    "Dynamic Advantage Fund": "1.20%",
+    "Flexi Growth Fund": "1.20%",
+    "Constant Maturity Fund": "0.80%",
+    "Target Maturity Fund": "0.80%",
+    "Small Cap Discovery Fund": "1.20%",
+    "Business Cycle Fund": "1.20%",
+    "Rising India Fund": "1.20%",
+    "Midcap Momentum Index Fund": "1.20%",
+    "Flexi Growth Fund II": "1.35%",
+    "Whole Life Income Fund II": "1.35%",
+    "Nifty Alpha 50 Index Fund": "1.35%",
+    "Multicap Momentum Quality Index Fund": "1.35%",
+    "Tax Bonanza Consumption Fund": "1.35%",
+    "Top 200 Alpha 30 Index Fund": "1.35%",
+    "Momentum 50 Index Fund": "1.35%",
+    "Sector Leaders Index Fund": "1.35%",
+    "Multicap Opportunities Fund": "1.35%",
+    "Enhanced Value Index Fund": "1.35%",
+    "Large Mid Cap Innovation Fund": "1.35%",
+    "Multifactor Index Fund": "1.35%",
+    "Liquid Fund": "0.90%",
+    "Momentum Value 50 Index Fund": "1.35%",
+    "Discontinued Policy Fund": "0.50%"
+   },
+   "status": "built-in",
+   "doc": "User upload (brochure)",
+   "page": 22,
+   "quote": "Multi Cap Fund 1.20%",
+   "note": null,
+   "quote_2": "Flexi Growth Fund II 1.35%",
+   "page_2": 22,
+   "quote_3": "Liquid Fund 0.90%",
+   "page_3": 22,
+   "quote_4": "Whole Life Income Fund 0.80%",
+   "page_4": 22
   },
   "mortality_charge": {
-   "value": null,
-   "status": "not stated in public documents",
-   "doc": null,
-   "page": null,
-   "quote": null,
-   "note": null
+   "value": {
+    "basis": "sum at risk times the mortality rate for the attained age, deducted monthly by cancelling units; guaranteed for the policy term",
+    "sum at risk, Option 1": "higher of basic sum assured and 105% of premiums paid, less fund value",
+    "sum at risk, Option 2": "higher of basic sum assured and 105% of premiums paid",
+    "waiver of premium (Option 2)": "extra charge = Factor A x annualised premium x mortality rate"
+   },
+   "status": "built-in",
+   "doc": "User upload (brochure)",
+   "page": 23,
+   "quote": "The Mortality Charges will be guaranteed for the policy term.",
+   "note": "the rate table is not printed; the brochure points to the website",
+   "quote_2": "Maximum of (Basic Sum Assured or 105% times total",
+   "page_2": 22
   },
   "discontinuance_charge": {
-   "value": null,
-   "status": "not stated in public documents",
-   "doc": null,
-   "page": null,
-   "quote": null,
-   "note": null
+   "value": {
+    "regular and limited pay, annualised premium up to Rs 50,000": {
+     "Y1": "lower of 20% of AP or fund value, max Rs 3,000",
+     "Y2": "15%, Rs 2,000",
+     "Y3": "10%, Rs 1,500",
+     "Y4": "5%, Rs 1,000",
+     "Y5+": "nil"
+    },
+    "regular and limited pay, above Rs 50,000": {
+     "Y1": "lower of 6%, max Rs 6,000",
+     "Y2": "4%, Rs 5,000",
+     "Y3": "3%, Rs 4,000",
+     "Y4": "2%, Rs 2,000",
+     "Y5+": "nil"
+    },
+    "single pay, up to Rs 3,00,000": {
+     "Y1": "lower of 2% of SP or fund value, max Rs 3,000",
+     "Y2": "1.5%, Rs 2,000",
+     "Y3": "1%, Rs 1,500",
+     "Y4": "0.5%, Rs 1,000",
+     "Y5+": "nil"
+    },
+    "single pay, above Rs 3,00,000": {
+     "Y1": "lower of 1%, max Rs 6,000",
+     "Y2": "0.70%, Rs 5,000",
+     "Y3": "0.50%, Rs 4,000",
+     "Y4": "0.35%, Rs 2,000",
+     "Y5+": "nil"
+    }
+   },
+   "status": "built-in",
+   "doc": "User upload (brochure)",
+   "page": 23,
+   "quote": "Lower of 20% of Annualised Premium or",
+   "note": null,
+   "quote_2": "Lower of 6% of Annualised Premium or",
+   "page_2": 23,
+   "quote_3": "Lower of 2% of Single Premium or Single",
+   "page_3": 23,
+   "quote_4": "Lower of 0.35% of Single Premium or",
+   "page_4": 23
   },
   "switching_charge": {
-   "value": null,
-   "status": "not stated in public documents",
-   "doc": null,
-   "page": null,
-   "quote": null,
+   "value": "nil",
+   "status": "built-in",
+   "doc": "User upload (brochure)",
+   "page": 23,
+   "quote": "There are no fund switching charges.",
    "note": null
   },
   "partial_withdrawal_charge": {
-   "value": null,
-   "status": "not stated in public documents",
-   "doc": null,
-   "page": null,
-   "quote": null,
+   "value": "nil",
+   "status": "built-in",
+   "doc": "User upload (brochure)",
+   "page": 23,
+   "quote": "There are no partial withdrawal charges under this plan.",
    "note": null
   },
   "premium_redirection_charge": {
-   "value": null,
-   "status": "not stated in public documents",
-   "doc": null,
-   "page": null,
-   "quote": null,
+   "value": "nil",
+   "status": "built-in",
+   "doc": "User upload (brochure)",
+   "page": 23,
+   "quote": "There is no fund re-direction charge applicable under this Product.",
    "note": null
   },
   "miscellaneous_charge": {
-   "value": null,
-   "status": "not stated in public documents",
-   "doc": null,
-   "page": null,
-   "quote": null,
+   "value": "nil",
+   "status": "built-in",
+   "doc": "User upload (brochure)",
+   "page": 23,
+   "quote": "Miscellaneous Charge:",
    "note": null
   },
   "guarantee_charge": {
@@ -256,33 +399,37 @@
    "note": null
   },
   "any_charge_returned": {
-   "value": null,
-   "status": "not stated in public documents",
-   "doc": null,
-   "page": null,
-   "quote": null,
+   "value": "mortality charges returned at maturity; all of them if the term is under 11 years",
+   "status": "built-in",
+   "doc": "User upload (brochure)",
+   "page": 5,
+   "quote": "If policy term is less than 11 years, all the mortality charges",
    "note": null
   }
  },
  "benefits": {
   "death_benefit_formula": {
    "value": {
-    "iSIP Wealth": "highest of SA, fund value, 105% of premiums",
-    "Young Genius": "higher of SA or 105% now; company funds future premiums"
+    "iSIP Wealth": "highest of basic sum assured, regular or single premium fund value and 105% of premiums received, plus the top-up sum assured or top-up fund value",
+    "iSIP Young Genius": "lump sum of the highest of basic sum assured and 105% of premiums received, plus top-up cover; the policy continues and the company funds all future premiums"
    },
    "status": "built-in",
-   "doc": "click here",
-   "page": 6,
-   "quote": "TATA AIA Life Insurance shall fund all future premiums as and when they are due after the date of death of the Life Insured.",
-   "note": "from the V04 sales literature; the deep set lists V11 and no V11 document is linked"
+   "doc": "User upload (brochure)",
+   "page": 4,
+   "quote": "the Regular/Single Premium Fund Value of this Policy or",
+   "note": null,
+   "quote_2": "105 percent of the total Regular/Single Premiums",
+   "page_2": 4,
+   "quote_3": "TATA AIA Life Insurance shall fund all future premiums",
+   "page_3": 4
   },
   "maturity_benefit": {
-   "value": "fund value including top-up fund",
+   "value": "fund value including top-up fund value at maturity",
    "status": "built-in",
-   "doc": "click here",
-   "page": 5,
-   "quote": "You get the Fund Value, including Top-Up Premium Fund Value, if any",
-   "note": "from the V04 sales literature; the deep set lists V11 and no V11 document is linked"
+   "doc": "User upload (brochure)",
+   "page": 4,
+   "quote": "You shall get the Fund Value, including Top-Up Premium Fund",
+   "note": null
   },
   "loyalty_additions": {
    "value": null,
@@ -293,20 +440,33 @@
    "note": null
   },
   "wealth_boosters_or_guaranteed_additions": {
-   "value": "Smart Lady extra allocation for women; wealth boosters",
+   "value": {
+    "timing": "every 5th policy year from the end of the 10th year to the end of the term; percent of the average fund value over the last eight policy quarters",
+    "by premium paying term and annualised or single premium (under Rs 1,00,000 / Rs 1,00,000 to under Rs 5,00,000 / Rs 5,00,000 and above)": {
+     "single pay and 5 to 6 years": "1.00% / 1.50% / 2.00%",
+     "7 to 9 years": "1.25% / 1.75% / 2.25%",
+     "10 years and above": "1.50% / 2.00% / 2.50%"
+    }
+   },
    "status": "built-in",
-   "doc": "click here",
-   "page": 1,
-   "quote": "Smart Lady : Extra allocation in the first",
-   "note": "from the V04 sales literature; the deep set lists V11 and no V11 document is linked"
+   "doc": "User upload (brochure)",
+   "page": 5,
+   "quote": "1.25% 1.75% 2.25%",
+   "note": null,
+   "quote_2": "1.50% 2.00% 2.50%",
+   "page_2": 5,
+   "quote_3": "1.00% 1.50% 2.00%",
+   "page_3": 5
   },
   "return_of_mortality_charges": {
-   "value": "stated as a key benefit; details not read",
+   "value": "total mortality charges, excluding extras and tax, less amounts already returned, added at maturity; all of them if the term is under 11 years; not under Option 2 if the waiver of premium is triggered by death",
    "status": "built-in",
-   "doc": "click here",
-   "page": 1,
-   "quote": "Enjoy extra allocation of units with the Return of mortality charges",
-   "note": "from the V04 sales literature; the deep set lists V11 and no V11 document is linked"
+   "doc": "User upload (brochure)",
+   "page": 5,
+   "quote": "is less than 11 years, all the mortality charges",
+   "note": null,
+   "quote_2": "ROMC shall not be available for the",
+   "page_2": 5
   },
   "return_of_premium_allocation_charges": {
    "value": null,
@@ -325,61 +485,84 @@
    "note": null
   },
   "other_additions": {
-   "value": null,
-   "status": "not stated in public documents",
-   "doc": null,
-   "page": null,
-   "quote": null,
+   "value": "Smart Lady: for female lives 0.50% of the annualised premium (0.25% of a single premium) added at the first allocation",
+   "status": "built-in",
+   "doc": "User upload (brochure)",
+   "page": 5,
+   "quote": "0.50% of the Annualised Premium or 0.25%",
    "note": null
   }
  },
  "flexibility": {
   "fund_switching": {
-   "value": null,
-   "status": "not stated in public documents",
-   "doc": null,
-   "page": null,
-   "quote": null,
-   "note": null
+   "value": "unlimited and free",
+   "status": "optional (during term)",
+   "doc": "User upload (brochure)",
+   "page": 18,
+   "quote": "Any number of switches are allowed in a",
+   "note": null,
+   "quote_2": "no additional cost.",
+   "page_2": 18
   },
   "premium_redirection": {
-   "value": null,
-   "status": "not stated in public documents",
-   "doc": null,
-   "page": null,
-   "quote": null,
+   "value": "free; not allowed with Enhanced SMART",
+   "status": "optional (during term)",
+   "doc": "User upload (brochure)",
+   "page": 18,
+   "quote": "There is no Premium-Redirection charge.",
    "note": null
   },
   "partial_withdrawals": {
-   "value": null,
-   "status": "not stated in public documents",
-   "doc": null,
-   "page": null,
-   "quote": null,
-   "note": null
+   "value": {
+    "from": "after five policy anniversaries, and after age 18",
+    "maximum": "25% of the fund value in each policy year",
+    "minimum": "Rs 1,000, leaving at least two annualised premiums (5% of a single premium)"
+   },
+   "status": "optional (during term)",
+   "doc": "User upload (brochure)",
+   "page": 7,
+   "quote": "Maximum of 25% of the Fund Value can be withdrawn in",
+   "note": null,
+   "quote_2": "minimum amount that can be withdrawn is",
+   "page_2": 6
   },
   "systematic_withdrawal_plan": {
-   "value": null,
-   "status": "not stated in public documents",
-   "doc": null,
-   "page": null,
-   "quote": null,
-   "note": null
+   "value": {
+    "Systematic Withdrawal Plan": "1% to 15% of fund value, or a fixed amount; monthly, quarterly, half-yearly or yearly; after 5 anniversaries",
+    "Chosen-rate Withdrawal Plan": "pays the excess of actual fund value over a chosen rate of return",
+    "Index-based Withdrawal Plan": "pays the excess over an index return"
+   },
+   "status": "optional (during term)",
+   "doc": "User upload (brochure)",
+   "page": 7,
+   "quote": "You have an option to choose the percentage ranging",
+   "note": null,
+   "quote_2": "from 1% to 15%",
+   "page_2": 7
   },
   "top_up_premiums": {
-   "value": null,
-   "status": "not stated in public documents",
-   "doc": null,
-   "page": null,
-   "quote": null,
-   "note": null
+   "value": {
+    "minimum": "Rs 100",
+    "extra cover": "1.25 times the single premium up to age 49, 1.10 times at 50 and above",
+    "lock": "5 years for each top-up",
+    "not allowed": "in the last 5 policy years"
+   },
+   "status": "optional (during term)",
+   "doc": "User upload (brochure)",
+   "page": 17,
+   "quote": "Minimum top-up premium is",
+   "note": null,
+   "quote_2": "1.25 times single premium",
+   "page_2": 3,
+   "quote_3": "1.10 times single premium",
+   "page_3": 17
   },
   "settlement_option": {
-   "value": null,
-   "status": "not stated in public documents",
-   "doc": null,
-   "page": null,
-   "quote": null,
+   "value": "maturity benefit paid in instalments over 5 years, yearly, half-yearly, quarterly or monthly; not for Young Genius if the life assured has died",
+   "status": "optional (during term)",
+   "doc": "User upload (brochure)",
+   "page": 18,
+   "quote": "Settlement Period of five years from",
    "note": null
   },
   "premium_holiday_or_offset": {
@@ -415,56 +598,249 @@
    "note": null
   },
   "auto_portfolio_strategies": {
-   "value": null,
-   "status": "not stated in public documents",
-   "doc": null,
-   "page": null,
-   "quote": null,
-   "note": null
+   "value": [
+    {
+     "name": "Enhanced SMART (Systematic Money Allocation & Regular Transfer)"
+    },
+    {
+     "name": "Life-stage based Portfolio Strategy",
+     "mechanics": "equity share set by age and risk profile, for example 90% equity at age 1 to 30 (aggressive), rebalanced each policy quarter"
+    }
+   ],
+   "status": "optional (at inception)",
+   "doc": "User upload (brochure)",
+   "page": 8,
+   "quote": "Enhanced Systematic Money Allocation & Regular",
+   "note": null,
+   "quote_2": "1-30 90% 70% 50%",
+   "page_2": 17
   }
  },
  "funds": {
   "fund_count": {
-   "value": null,
-   "status": "not stated in public documents",
-   "doc": null,
-   "page": null,
-   "quote": null,
+   "value": 35,
+   "status": "n/a",
+   "doc": "User upload (brochure)",
+   "page": 8,
+   "quote": "You can choose from the 35 investment fund options",
    "note": null
   },
   "fund_list": {
-   "value": null,
-   "status": "not stated in public documents",
-   "doc": null,
-   "page": null,
-   "quote": null,
-   "note": null
+   "value": [
+    {
+     "name": "Multi Cap Fund",
+     "SFIN": null,
+     "FMC_pct": 1.2
+    },
+    {
+     "name": "India Consumption Fund",
+     "SFIN": null,
+     "FMC_pct": 1.2
+    },
+    {
+     "name": "Top 50 Fund",
+     "SFIN": null,
+     "FMC_pct": 1.2
+    },
+    {
+     "name": "Top 200 Fund",
+     "SFIN": null,
+     "FMC_pct": 1.2
+    },
+    {
+     "name": "Super Select Equity Fund",
+     "SFIN": null,
+     "FMC_pct": 1.2
+    },
+    {
+     "name": "Large Cap Equity Fund",
+     "SFIN": null,
+     "FMC_pct": 1.2
+    },
+    {
+     "name": "Whole Life Mid-cap Equity Fund",
+     "SFIN": null,
+     "FMC_pct": 1.2
+    },
+    {
+     "name": "Whole Life Aggressive Growth Fund",
+     "SFIN": null,
+     "FMC_pct": 1.1
+    },
+    {
+     "name": "Whole Life Stable Growth Fund",
+     "SFIN": null,
+     "FMC_pct": 1.0
+    },
+    {
+     "name": "Whole Life Income Fund",
+     "SFIN": null,
+     "FMC_pct": 0.8
+    },
+    {
+     "name": "Whole Life Short Term Fixed Income Fund",
+     "SFIN": null,
+     "FMC_pct": 0.65
+    },
+    {
+     "name": "Emerging Opportunities Fund",
+     "SFIN": null,
+     "FMC_pct": 1.2
+    },
+    {
+     "name": "Sustainable Equity Fund",
+     "SFIN": null,
+     "FMC_pct": 1.2
+    },
+    {
+     "name": "Dynamic Advantage Fund",
+     "SFIN": null,
+     "FMC_pct": 1.2
+    },
+    {
+     "name": "Flexi Growth Fund",
+     "SFIN": null,
+     "FMC_pct": 1.2
+    },
+    {
+     "name": "Constant Maturity Fund",
+     "SFIN": null,
+     "FMC_pct": 0.8
+    },
+    {
+     "name": "Target Maturity Fund",
+     "SFIN": null,
+     "FMC_pct": 0.8
+    },
+    {
+     "name": "Small Cap Discovery Fund",
+     "SFIN": null,
+     "FMC_pct": 1.2
+    },
+    {
+     "name": "Business Cycle Fund",
+     "SFIN": null,
+     "FMC_pct": 1.2
+    },
+    {
+     "name": "Rising India Fund",
+     "SFIN": null,
+     "FMC_pct": 1.2
+    },
+    {
+     "name": "Midcap Momentum Index Fund",
+     "SFIN": null,
+     "FMC_pct": 1.2
+    },
+    {
+     "name": "Flexi Growth Fund II",
+     "SFIN": null,
+     "FMC_pct": 1.35
+    },
+    {
+     "name": "Whole Life Income Fund II",
+     "SFIN": null,
+     "FMC_pct": 1.35
+    },
+    {
+     "name": "Nifty Alpha 50 Index Fund",
+     "SFIN": null,
+     "FMC_pct": 1.35
+    },
+    {
+     "name": "Multicap Momentum Quality Index Fund",
+     "SFIN": null,
+     "FMC_pct": 1.35
+    },
+    {
+     "name": "Tax Bonanza Consumption Fund",
+     "SFIN": null,
+     "FMC_pct": 1.35
+    },
+    {
+     "name": "Top 200 Alpha 30 Index Fund",
+     "SFIN": null,
+     "FMC_pct": 1.35
+    },
+    {
+     "name": "Momentum 50 Index Fund",
+     "SFIN": null,
+     "FMC_pct": 1.35
+    },
+    {
+     "name": "Sector Leaders Index Fund",
+     "SFIN": null,
+     "FMC_pct": 1.35
+    },
+    {
+     "name": "Multicap Opportunities Fund",
+     "SFIN": null,
+     "FMC_pct": 1.35
+    },
+    {
+     "name": "Enhanced Value Index Fund",
+     "SFIN": null,
+     "FMC_pct": 1.35
+    },
+    {
+     "name": "Large Mid Cap Innovation Fund",
+     "SFIN": null,
+     "FMC_pct": 1.35
+    },
+    {
+     "name": "Multifactor Index Fund",
+     "SFIN": null,
+     "FMC_pct": 1.35
+    },
+    {
+     "name": "Liquid Fund",
+     "SFIN": null,
+     "FMC_pct": 0.9
+    },
+    {
+     "name": "Momentum Value 50 Index Fund",
+     "SFIN": null,
+     "FMC_pct": 1.35
+    }
+   ],
+   "status": "n/a",
+   "doc": "User upload (brochure)",
+   "page": 22,
+   "quote": "Multi Cap Fund 1.20%",
+   "note": "names and FMCs from the charges table; fund codes are printed only for some funds in the fund table and are not copied",
+   "quote_2": "Momentum Value 50 Index Fund 1.35%",
+   "page_2": 22
   },
   "index_or_thematic_funds": {
-   "value": null,
-   "status": "not stated in public documents",
-   "doc": null,
-   "page": null,
-   "quote": null,
-   "note": null
+   "value": "Nifty Alpha 50 Index Fund, Multicap Momentum Quality Index Fund, Top 200 Alpha 30 Index Fund, Momentum 50 Index Fund, Sector Leaders Index Fund, Enhanced Value Index Fund, Multifactor Index Fund, Momentum Value 50 Index Fund, Midcap Momentum Index Fund",
+   "status": "n/a",
+   "doc": "User upload (brochure)",
+   "page": 22,
+   "quote": "Nifty Alpha 50 Index Fund 1.35%",
+   "note": null,
+   "quote_2": "Multifactor Index Fund 1.35%",
+   "page_2": 22
   },
   "discontinued_policy_fund": {
-   "value": null,
-   "status": "not stated in public documents",
-   "doc": null,
-   "page": null,
-   "quote": null,
+   "value": {
+    "name": "Discontinued Policy Fund",
+    "fmc": "0.50%"
+   },
+   "status": "built-in",
+   "doc": "User upload (brochure)",
+   "page": 22,
+   "quote": "A Fund Management Charge of 0.50% p.a. shall be charged",
    "note": null
   }
  },
  "protection_add_ons": {
   "waiver_of_premium_inbuilt": {
-   "value": "Young Genius: company funds future premiums after death",
+   "value": "Young Genius: on the life insured's death the company funds all future premiums and the policy continues",
    "status": "optional (at inception)",
-   "doc": "click here",
-   "page": 6,
-   "quote": "TATA AIA Life Insurance shall fund all future premiums as and when they are due after the date of death of the Life Insured.",
-   "note": "from the V04 sales literature; the deep set lists V11 and no V11 document is linked"
+   "doc": "User upload (brochure)",
+   "page": 4,
+   "quote": "TATA AIA Life Insurance shall fund all future premiums",
+   "note": null
   },
   "critical_illness": {
    "value": null,
@@ -475,11 +851,11 @@
    "note": null
   },
   "accidental_death": {
-   "value": null,
-   "status": "not stated in public documents",
-   "doc": null,
-   "page": null,
-   "quote": null,
+   "value": "Tata AIA Life Insurance Accidental Death and Dismemberment (Long Scale) (ADDL) Linked Rider (UIN 110A027V02)",
+   "status": "rider",
+   "doc": "User upload (brochure)",
+   "page": 18,
+   "quote": "110A027V02",
    "note": null
   },
   "terminal_illness": {
@@ -499,21 +875,35 @@
    "note": null
   },
   "riders_available": {
-   "value": "Vitality riders mentioned",
+   "value": [
+    "Waiver of Premium (Linked), 110A026V02",
+    "Waiver of Premium Plus (Linked), 110A025V02 (not under Option 2)",
+    "ADDL Linked, 110A027V02",
+    "OPD Care, 110A166V01",
+    "Linked Comprehensive Health, 110A031V02",
+    "Linked Comprehensive Protection, 110A032V02",
+    "Vitality Health Plus, 110A047V02",
+    "Vitality Protect Plus, 110A048V03",
+    "Sampoorna Health, 110A167V02"
+   ],
    "status": "rider",
-   "doc": "click here",
-   "page": 1,
-   "quote": "Wellness benefit with the Vitality Riders",
-   "note": "from the V04 sales literature; the deep set lists V11 and no V11 document is linked"
+   "doc": "User upload (brochure)",
+   "page": 18,
+   "quote": "110A026V02",
+   "note": null,
+   "quote_2": "110A167V02",
+   "page_2": 18,
+   "quote_3": "110A031V02",
+   "page_3": 18
   }
  },
  "surrender_revival": {
   "lock_in_years": {
-   "value": null,
-   "status": "not stated in public documents",
-   "doc": null,
-   "page": null,
-   "quote": null,
+   "value": 5,
+   "status": "built-in",
+   "doc": "User upload (brochure)",
+   "page": 21,
+   "quote": "Lock-in period means the period of 5 consecutive years",
    "note": null
   },
   "discontinuance_rules": {
@@ -525,19 +915,19 @@
    "note": null
   },
   "revival_period": {
-   "value": null,
-   "status": "not stated in public documents",
-   "doc": null,
-   "page": null,
-   "quote": null,
+   "value": "3 years",
+   "status": "built-in",
+   "doc": "User upload (brochure)",
+   "page": 19,
+   "quote": "revival period of three years",
    "note": null
   },
   "surrender_value_rule": {
-   "value": null,
-   "status": "not stated in public documents",
-   "doc": null,
-   "page": null,
-   "quote": null,
+   "value": "within the lock-in the fund value less discontinuance charge goes to the Discontinued Policy Fund; after the lock-in the total fund value is paid",
+   "status": "built-in",
+   "doc": "User upload (brochure)",
+   "page": 21,
+   "quote": "After the Lock-in Period; the total fund value as on the date",
    "note": null
   }
  },
@@ -551,19 +941,64 @@
    "stored_path": "docs/tata-aia/110L164V11/brochure.pdf",
    "status": "already stored",
    "note": null
+  },
+  {
+   "website_label": "User upload (policy document)",
+   "doc_type": "policy_document",
+   "url": "upload:uploads/tata-aia/110L164V11/110L164V11_policy_document.pdf",
+   "found_on_page_url": "manual upload by the user",
+   "pages": 40,
+   "stored_path": "docs/tata-aia/110L164V11/policy.pdf",
+   "status": "ok",
+   "note": "Supplied by the user, who downloaded it from Tata AIA. Prints UIN 110L164V11."
+  },
+  {
+   "website_label": "User upload (brochure)",
+   "doc_type": "brochure",
+   "url": "upload:uploads/tata-aia/110L164V11/110L164V11_brochure.pdf",
+   "found_on_page_url": "manual upload by the user",
+   "pages": 27,
+   "stored_path": "docs/tata-aia/110L164V11/brochure-2.pdf",
+   "status": "ok",
+   "note": "Supplied by the user. Prints UIN 110L164V11. The V04 sales literature stays stored as brochure.pdf."
+  },
+  {
+   "website_label": "User upload (CIS)",
+   "doc_type": "CIS",
+   "url": "upload:uploads/tata-aia/110L164V11/110L164V11_cis.pdf",
+   "found_on_page_url": "manual upload by the user",
+   "pages": 13,
+   "stored_path": "docs/tata-aia/110L164V11/cis.pdf",
+   "status": "ok",
+   "note": "Supplied by the user. The CIS prints UIN 110L164V10, one version below the deep set (V11); the policy document and brochure print V11."
   }
  ],
- "new_features_not_in_schema": [],
+ "new_features_not_in_schema": [
+  {
+   "feature": "Chosen-rate and index-based withdrawal plans",
+   "description": "Pays out only the excess of the actual fund value over a chosen rate of return or an index return",
+   "quote": "Chosen-rate Withdrawal Plan (CWP)",
+   "doc": "User upload (brochure)",
+   "page": 6
+  },
+  {
+   "feature": "Smart Lady extra allocation",
+   "description": "0.50% of the annualised premium added to the fund for female lives",
+   "quote": "0.50% of the Annualised Premium or 0.25%",
+   "doc": "User upload (brochure)",
+   "page": 5
+  }
+ ],
  "data_not_public": [
   {
-   "item": "policy document, CIS and charges for V11",
-   "doc": "click here",
-   "where_referenced": null,
-   "quote": null,
-   "note": "the product page is a microsite that links only the V04 sales literature; the policy document and CIS were not found"
+   "item": "Mortality rate table",
+   "doc": "User upload (brochure)",
+   "where_referenced": "Mortality Charge section",
+   "quote": "For complete details on Mortality Charges visit us at",
+   "note": "the brochure points to the website"
   }
  ],
  "extraction_notes": [
-  "All values come from the V04 sales literature. Fields left \"not stated\" were not read from it. A V11 policy document should be requested or looked for on the main Tata AIA site."
+  "The policy document and brochure print UIN 110L164V11. The CIS prints 110L164V10. The older V04 sales literature stays stored as brochure.pdf and is not used for values."
  ]
 }

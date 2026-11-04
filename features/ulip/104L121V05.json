@@ -681,7 +681,9 @@
    "doc": "Policy Prospectus",
    "page": 31,
    "quote": "subject to a minimum Switch amount",
-   "note": null
+   "note": null,
+   "quote_2": "You may switch between available Funds at any time during the Policy Term, subject to a minimum Switch amount of ₹ 5,000. Following receipt of your written notice, we will redeem the Units in the Fund you wish to switch from",
+   "page_2": 31
   },
   "premium_redirection": {
    "value": "unlimited and free; notice before the due date",

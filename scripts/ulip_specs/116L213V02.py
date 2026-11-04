@@ -49,7 +49,7 @@ spec = {
                              quote_2='3 Lower of 10% * (AP or FV) subject to maximum Lower of 3% * (AP or FV) subject to of Rs. 1,500 maximum of Rs. 4,000 4 Lower of 5% * (AP or FV) subject to maximum Lower of 2% * (AP or FV) subject to of Rs. 1,000 maximum of Rs. 2,000',
                              quote_3='1 Lower of 2.0% *(SP or FV) subject to a Lower of 1.00% *(SP or FV) subject to a maximum of Rs.3000/- maximum of Rs.6000/- 2 Lower of 1.5% *(SP or FV) subject to a maximum Lower of 0.70% *(SP or FV) subject to a',
                              quote_4='3 Lower of 1% *(SP or FV) subject to a maximum Lower of 0.50%* (SP or FV) subject to a of Rs.1500/- maximum of Rs. 4000/- 4 Lower of 0.5% *(SP or FV) subject to a Lower of 0.35% *(SP or FV) subject to a'),
-  'switching_charge': F('nil; unlimited free switches; minimum Rs 5,000 per switch', 'built-in', B, None, 'You can exercise unlimited free switches'),
+  'switching_charge': F('nil; unlimited free switches; minimum Rs 5,000 per switch', 'built-in', B, None, 'You can exercise unlimited free switches', quote_2='You can exercise unlimited free switches The minimum switching amount is Rs. 5,000 or the value of units held by you in the fund to be switched', page_2=13),
   'partial_withdrawal_charge': F('nil', 'built-in', B, None, 'No charges would be charged for Partial Withdrawal.'),
   'premium_redirection_charge': F('Rs 100 miscellaneous charge per change of apportionment', 'built-in', B, None, 'The miscellaneous charge would be charged at the rate of ₹100/- per transaction (as mentioned in the'),
   'miscellaneous_charge': F('Rs 100 per transaction', 'built-in', B, None, 'The miscellaneous charge would be charged at the rate of ₹100/- per transaction (as mentioned in the'),

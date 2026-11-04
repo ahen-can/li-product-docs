@@ -20,7 +20,7 @@ spec = {
  },
  'eligibility': {
   'entry_age_min': F('30 days (life assured); 18 years (proposer)', 'n/a', B, None, 'Age at Entry Life Assured: 0 years (30 days) Life Assured: 60 years'),
-  'entry_age_max': F('60 years (life assured); no limit (proposer)', 'n/a', B, None, 'Proposer: 18 years Proposer: No Limit'),
+  'entry_age_max': F('60 years (life assured); no limit (proposer)', 'n/a', B, None, 'Proposer: 18 years Proposer: No Limit', quote_2='Age at Entry Life Assured: 0 years (30 days) Life Assured: 60 years Proposer: 18 years Proposer: No Limit', page_2=2),
   'maturity_age_min': F('25 years', 'n/a', B, None, 'Age at Maturity 25 years 99 years'),
   'maturity_age_max': F('99 years', 'n/a', B, None, 'Age at Maturity 25 years 99 years'),
   'policy_term_options': F('25 years to 99 minus entry age', 'n/a', B, None, 'Policy Term 25 years 99 – Age at Entry'),

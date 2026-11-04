@@ -11,6 +11,45 @@
 
 ---
 
+### 4 Nov 2026 · S2 · i Systematic V11 documents in
+**Status:** Tata AIA i Systematic (110L164V11) is rebuilt from your 3 uploads. All 84 JSON files pass validation and the cross-check is clean.
+
+**Done:** Policy document and brochure print V11. The CIS prints V10, noted in the index. The old V04 brochure stays stored but is not used for values. The mortality table is on Tata's website, logged as not public.
+
+**Asks / blockers:** none.
+
+
+### 4 Nov 2026 · S2 · ULIP deep: wave 1 report
+**Status:** Wave 1 is complete: 84 of 84 ULIPs, all files validate, 0 consistency problems. The report is `results/deep_ulip_wave1_report.md`.
+
+**Done:**
+- **Cross-check.** `scripts/s2_tools/crosscheck.py` (documents, sha256, UIN, text) and `valuecheck.py` (do the numbers in a value appear in its quotes) now run over all 84 files.
+- **Redo list.** 61 fields in 28 files now carry a value-bearing quote. Bharti Grow Wealth Ultra's administration charge is a table. Bajaj Smart Wealth Goal VII Child Wealth and Joint Life Wealth are captured as 6 quoted entries.
+- **Left.** 89 short-value fields still have quotes without the number (Tata AIA 21, SBI 17, Axis Max 14, HDFC 10, Canara 8, Bajaj 7, ABSLI 6, Bharti 6). About 300 more are long composite values.
+
+**Asks / blockers:** @USER please upload the Tata AIA i Systematic V11 policy document, CIS and brochure (110L164V11). Only a V04 brochure is public.
+
+
+### 4 Nov 2026 · S2 · ULIP deep: Ageas Federal done, wave 1 collected
+**Status:** All 84 wave 1 ULIPs now have a feature JSON. Next: the cross-check of every file and the wave report.
+
+**Done:**
+- **Ageas Federal (6).** 6 sample policy documents, 6 CIS, 6 brochures. No BIs. All 84 JSON files pass `validate_ulip_json.py`, and `check_consistency.py` reports 0 problems.
+- **Gaps.** ProGrow prints no mortality table. Wealth Gain's table has no row for age 61. The one-page "Flyer" or "KFD" files on three product pages were not stored.
+- **Open from the redo list.** Tata i Systematic V11 (waiting for your upload), the Bajaj Smart Wealth Goal VII Child Wealth and Joint Life Wealth retry, Bharti Grow Wealth Ultra's admin charge as a table, and the older label-only quotes in the first 35 files.
+
+**Asks / blockers:** none.
+
+
+### 4 Nov 2026 · S2 · ULIP deep: Canara HSBC done
+**Status:** Bharti, SBI, HDFC, Tata AIA, Bajaj, Axis Max, LIC, ABSLI and Canara HSBC are complete (78 of 84). Next: Ageas Federal (6).
+
+**Done:**
+- **Canara HSBC (8).** 8 policy documents, 8 CIS, 8 brochures. No BIs. All 78 JSON files pass `validate_ulip_json.py`, and `check_consistency.py` reports 0 problems.
+- **Gaps.** Promise4Growth has no product page, so its PDFs came from the file-name pattern of Promise4Growth Plus (UINs checked, notes in the index). The policy documents are samples with no mortality table, so mortality rates are the brochure's sample ages.
+
+**Asks / blockers:** none.
+
 ### 4 Nov 2026 · S1 · @S3 your Bharti NBP finding: confirmed and fixed
 **Status:** you were right. Bharti's monthly report (p2) says the 8-product list is based on "NBP of all products for FY 2026-27 as on Sep 30, 2026". I checked your PD figures: L-38 p58 individual total 93,721 lakh, L-37 p57 group 13,138 lakh, L-4 p8 first year 90,487 and single 16,373 lakh, L-22 p29 linked share 33.0%. All match.
 **Fixed in deliverable 01, Bharti portfolio tab:** removed the 90% assumption and the Rs 3.3 cr even split; added an FY26 reconciliation (individual NBP Rs 937.2 cr; ULIP Rs 309.3 cr; 4 other ULIPs Rs 97.2 cr derived; 13 other non-linked products Rs 335.3 cr derived, not split by category because the PDs do not split non-linked NBP); shares now use individual NBP as the base; undisclosed products show "not disclosed". I did not use your derived par and non-par segment NBP, because the FY26 PD alone does not give it; if your FY25 PD lets you derive it with sources, post the method.

@@ -9,9 +9,12 @@ uin, dtype, url, found, label, note = sys.argv[1:7]
 doc_uin = sys.argv[7] if len(sys.argv) > 7 else uin
 UA = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36'
 rows = list(csv.reader(open('index.csv'))); H = rows[0]
-tpl = next(dict(zip(H, r)) for r in rows[1:] if r[H.index('uin')] == uin)
+tpl = next((dict(zip(H, r)) for r in rows[1:] if r[H.index('uin')] == uin), None)
+if tpl is None:   # no earlier row (the light pass found nothing): seed the row from master_list.csv
+    m = next(r for r in csv.DictReader(open('master_list.csv')) if r['uin'] == uin)
+    tpl = {k: '' for k in H}; tpl.update({'insurer': m['insurer'], 'product_name': m['product_name'], 'uin': uin, 'linked_flag': 'L', 'par_flag': m.get('par_flag') or 'not stated', 'irdai_description_line': m.get('irdai_description_line', ''), 'market_category': m.get('market_category', ''), 'pd_category': m.get('pd_category', ''), 'file_path': f"docs/{m['insurer_slug']}/x"})
 slug = tpl['file_path'].split('/')[1]
-data = urllib.request.urlopen(urllib.request.Request(url, headers={'User-Agent': UA}), timeout=60).read()
+data = open(url[7:], 'rb').read() if url.startswith('upload:') else urllib.request.urlopen(urllib.request.Request(url, headers={'User-Agent': UA}), timeout=60).read()   # 'upload:PATH' = a file the user supplied
 assert data[:4] == b'%PDF', 'not a PDF'
 assert len(data) < 95 * 1024 * 1024
 sha = hashlib.sha256(data).hexdigest()

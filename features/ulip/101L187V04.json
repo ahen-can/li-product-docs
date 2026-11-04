@@ -85,7 +85,9 @@
    "doc": "Download Brochure",
    "page": 2,
    "quote": "Proposer: 18 years Proposer: No Limit",
-   "note": null
+   "note": null,
+   "quote_2": "Age at Entry Life Assured: 0 years (30 days) Life Assured: 60 years Proposer: 18 years Proposer: No Limit",
+   "page_2": 2
   },
   "maturity_age_min": {
    "value": "25 years",

@@ -1,6 +1,6 @@
 # S2 project memory: read this first if you are S2
 
-Last updated: 4 Nov 2026 (ABSLI 1 of 10) by S2. S1's project memory is in `PROJECT_MEMORY.md`. Live coordination is in `coordination/CHAT.md`. This file holds what S2 needs to resume the ULIP deep discovery after a restart or a compacted chat.
+Last updated: 4 Nov 2026 (wave 1 complete, report written) by S2.
 
 ## Role and branch
 - S2 is the user's second Claude session. It works on branch `ccr-d0d84e00-joo2mp` and never pushes to `main`. S1 merges the branch into `main`.
@@ -98,10 +98,11 @@ Last updated: 4 Nov 2026 (ABSLI 1 of 10) by S2. S1's project memory is in `PROJE
 - Quotes from two-column tables: take the rowq line, keep hyphens that sit inside the row, drop the one at the end of a line.
 
 ## Session state (4 Nov, latest)
-- 60 of 84 products done and pushed (Bharti, SBI, HDFC, Tata AIA, Bajaj, Axis Max, LIC). ABSLI: documents collected, Wealth Max (109L073V05) written, 9 left. Then Canara HSBC (8) and Ageas Federal (6). At the end of wave 1: redo the older label-only quotes, redo Bharti Grow Wealth Ultra's admin table, retry Bajaj Smart Wealth Goal VII Child Wealth and Joint Life variants.
-- The user switched S2 to Sonnet to save usage. Commit trailer is "Co-Authored-By: Claude Sonnet 5.5 <noreply@anthropic.com>" plus the Claude-Session line.
-- Resume steps: `git fetch origin main` and merge, read the top of `coordination/CHAT.md`, then write the next ABSLI spec with `scripts/ulip_specs/109L073V05.py` as the pattern.
-- Working method that saved time: read page maps first, then only the eligibility, charges, benefits and flexibility pages; build quotes with `scripts/s2_tools/rowq.py`; validate after each spec; commit locally per product and push per finished insurer.
+- All 84 wave 1 ULIP JSON files are built, validate, and are pushed per insurer with summary rows and CHAT entries (Canara HSBC and Ageas Federal done). `check_consistency.py` reports 0 problems.
+- Ageas Federal quirk: product pages keep their documents in a `planWiseDoc` list in the page data. `scripts/deep_collect.py` has an `ageas_docs()` reader for it. Shared helpers: `scripts/ulip_specs/ageas_common.py` (SFINs as printed, `mortality()` table parser, fund dicts).
+- Cross-check tool: `python3 -I scripts/s2_tools/valuecheck.py [UIN]` flags fields whose value numbers are not in the quote text. About 760 flags remain; most in Tata, HDFC, SBI and Bharti are the old label-only quotes. Some flags are fine (derived values, word numerals).
+- Wave 1 is done and the report is `results/deep_ulip_wave1_report.md`. What is left: (1) the 89 short-value fields whose quotes lack the number (list them with `python3 -I scripts/s2_tools/fixquotes.py suggest <UIN prefixes>`, accept good suggestions, apply with `fixquotes.py apply`), (2) Tata i Systematic V11 is done (user uploads stored under uploads/tata-aia/), (3) wait for the user's next brief.
+- Sonnet trailer: "Co-Authored-By: Claude Sonnet 5.5 <noreply@anthropic.com>" plus the Claude-Session line.
 
 ## Lessons
 - **Two-column PDFs (Tata).** Quotes often survive only in short pieces. When a quote fails, grep the plain text for the exact wording; Tata twins differ in small words ("Saving" or "Savings", "Rs." or "INR").

@@ -443,7 +443,9 @@
    "doc": "Policy Bond",
    "page": 11,
    "quote": "any number of Switches in a Policy Year free of charge.",
-   "note": null
+   "note": null,
+   "quote_2": "entitled to make any number of Switches in a Policy Year free of charge. The minimum investment in any allocated fund should not be less than 5% of the Fund Value at the time of allocation,",
+   "page_2": 11
   },
   "premium_redirection": {
    "value": "after the first policy year",

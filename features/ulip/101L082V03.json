@@ -240,7 +240,9 @@
    "doc": "HDFC Life Smart Woman Plan 101L082V03 - Policy Document",
    "page": 17,
    "quote": "A premium redirection request initiated by the Policyholder will attract a charge of Rs",
-   "note": null
+   "note": null,
+   "quote_2": "A premium redirection request initiated by the Policyholder will attract a charge of Rs 250 per request. However, if the request is executed through the Company’s web portal the Policyholder will be charged Rs 25 per request.",
+   "page_2": 17
   },
   "miscellaneous_charge": {
    "value": "Rs 500 per alteration request",
@@ -390,7 +392,9 @@
    "doc": "HDFC Life Smart Woman Plan 101L082V03 - Policy Document",
    "page": 14,
    "quote": "We may provide settlement options on maturity or death.",
-   "note": null
+   "note": null,
+   "quote_2": "3) You have the option to take the fund value in lumpsum or in periodical instalments over a settlement period which may extend to a maximum of 5 years from the date of maturity or death whichever is",
+   "page_2": 14
   },
   "premium_holiday_or_offset": {
    "value": null,

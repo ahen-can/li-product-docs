@@ -75,7 +75,9 @@
    "doc": "Tata-AIA-Smart-Raksha-Brochure-V1.pdf",
    "page": 2,
    "quote": "Entry Age1 (in years)",
-   "note": "values read from the brochure layout columns"
+   "note": "values read from the brochure layout columns",
+   "quote_2": "18 43 25 Entry Age1 (in years)",
+   "page_2": 2
   },
   "entry_age_max": {
    "value": "60 years",
@@ -91,7 +93,9 @@
    "doc": "Tata-AIA-Smart-Raksha-Brochure-V1.pdf",
    "page": 2,
    "quote": "Maturity Age1 (in years)",
-   "note": "read from the layout columns"
+   "note": "read from the layout columns",
+   "quote_2": "43 25 Entry Age1 (in years) Maturity Age1 (in years)",
+   "page_2": 2
   },
   "maturity_age_max": {
    "value": "85 years",

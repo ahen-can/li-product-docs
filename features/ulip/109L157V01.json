@@ -909,7 +909,9 @@
    "doc": "Prospectus",
    "page": 10,
    "quote": "You have an option to surrender any time during the lock-in period.",
-   "note": null
+   "note": null,
+   "quote_2": "• Discontinuance of the policy during the ﬁrst 5 policy years You have an option to surrender any time during the lock-in period. Upon receipt of request for",
+   "page_2": 10
   },
   "discontinuance_rules": {
    "value": "discontinuance in the first 5 years moves the fund, less the charge, to the Pension Discontinued Fund; the proceeds are paid at the end of the lock-in or revival period, whichever is later",

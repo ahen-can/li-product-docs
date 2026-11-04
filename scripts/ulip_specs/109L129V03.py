@@ -103,7 +103,7 @@ spec = {
   'discontinuance_rules': F('single pay: surrender in the first 5 years moves the fund, less the charge, to the discontinued policy fund and pays at the end of year 5; limited and regular pay: discontinuance in the first 5 years does the same with a 3-year revival period; after year 5 the policy becomes reduced paid-up', 'built-in', B, None,
                             'shall be credited to the Linked Discontinued Policy Fund', quote_2='your policy shall be converted into a reduced paid up'),
   'revival_period': F('3 years from the due date of the first unpaid premium', 'built-in', B, None, 'revival period of three years from due date of ﬁrst unpaid premium.'),
-  'surrender_value_rule': F('after the first 5 years the fund value is paid on surrender', 'built-in', B, None, 'the Fund Value as on date of surrender shall be paid to you.'),
+  'surrender_value_rule': F('after the first 5 years the fund value is paid on surrender', 'built-in', B, None, 'the Fund Value as on date of surrender shall be paid to you.', quote_2='(B) Discontinuance after the ﬁrst ﬁve policy years You will have an option to surrender the policy any time during the policy term. Upon receipt of request for surrender, the Fund Value as on date of surrender shall be paid to you.', page_2=12),
  },
 }
 build('109L129V03', spec,

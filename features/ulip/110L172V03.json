@@ -392,7 +392,9 @@
    "doc": "Policy document",
    "page": 7,
    "quote": "Each Top-Up Premium shall not be less than Rupees One Thousand",
-   "note": null
+   "note": null,
+   "quote_2": "during the last 5 years of the Policy Term. b) Each Top-Up Premium shall not be less than Rupees One Thousand (Rs. 1,000).",
+   "page_2": 7
   },
   "settlement_option": {
    "value": "on maturity",

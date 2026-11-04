@@ -225,7 +225,9 @@
    "doc": "Policy Document",
    "page": 45,
    "quote": "Switching charge is currently NIL.",
-   "note": null
+   "note": null,
+   "quote_2": "30.2. If introduced, Switching charge would be subject to a cap of Rs.500 per switch. However, revision of charges",
+   "page_2": 45
   },
   "partial_withdrawal_charge": {
    "value": "2 free a year; Rs 100 for each one beyond that",
@@ -288,10 +290,10 @@
   "maturity_benefit": {
    "value": "fund value as a lump sum",
    "status": "built-in",
-   "doc": null,
-   "page": null,
-   "quote": null,
-   "note": "standard SBI maturity clause"
+   "doc": "Policy Document",
+   "page": 30,
+   "quote": "We will pay Your Fund Value as the Maturity Benefit in lump-sum as on the Date of Maturity",
+   "note": null
   },
   "loyalty_additions": {
    "value": {
@@ -365,7 +367,9 @@
    "doc": "Policy Document",
    "page": 35,
    "quote": "We will allow Premium Re-direction from thefirst Policy year onwards.",
-   "note": null
+   "note": null,
+   "quote_2": "least 14 days prior to the Premium Due Date on which the Premium Re-direction is to be applied. Allocation Percentage can only be in multiples of 1%.",
+   "page_2": 35
   },
   "partial_withdrawals": {
    "value": "from year 6 and age 18; 2 free a year, up to 4 a year; 10 in the term (PT up to 10) or 15 (PT over 10)",
@@ -392,12 +396,12 @@
    "note": null
   },
   "settlement_option": {
-   "value": "on death, in instalments to the claimant",
+   "value": "on death, the claimant may take the death benefit in instalments over a settlement period",
    "status": "optional (during term)",
-   "doc": null,
-   "page": null,
-   "quote": null,
-   "note": "settlement-option clause present (clause 25 references \"Date of payment under Settlement Option\")"
+   "doc": "Policy Document",
+   "page": 31,
+   "quote": "the Claimant may choose to get the Death Benefit in instalments during the Settlement Period",
+   "note": null
   },
   "premium_holiday_or_offset": {
    "value": null,
@@ -599,7 +603,9 @@
    "doc": "Product Brochure/Prospectus",
    "page": 5,
    "quote": "Option A: Accidental Death Benefit (ADB)",
-   "note": null
+   "note": null,
+   "quote_2": "SBI Life - Accident Benefit Rider - Linked (UIN : 111A042V01) Option A: Accidental Death Benefit (ADB)",
+   "page_2": 5
   },
   "terminal_illness": {
    "value": null,

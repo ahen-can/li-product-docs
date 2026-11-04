@@ -58,7 +58,7 @@ spec = {
   'other_additions': F('fund management charges are also refunded (part of the 118% refund)', 'built-in', P, None, '118% of all charges (total amount of Premium Allocation Charge, Admin charge, Mortality Charge and Fund Management Charge) excluding any extra underwriting charge applicable during the Premium Payment Term will be returned.'),
  },
  'flexibility': {
-  'fund_switching': F('any number free; minimum 5% per fund', 'built-in', P, None, 'any number of Switches in a Policy Year free of charge.'),
+  'fund_switching': F('any number free; minimum 5% per fund', 'built-in', P, None, 'any number of Switches in a Policy Year free of charge.', quote_2='entitled to make any number of Switches in a Policy Year free of charge. The minimum investment in any allocated fund should not be less than 5% of the Fund Value at the time of allocation,', page_2=11),
   'premium_redirection': F('after the first policy year', 'optional (during term)', P, None, 'can be modified only after the first Policy Year by submitting the Investment Fund Allocation Instruction.'),
   'partial_withdrawals': F('after lock-in; minimum Rs 5,000; fund must stay at least 120% of AP', 'optional (during term)', P, None, 'The minimum partial withdrawal limit is Rs 5,000.'),
   'systematic_withdrawal_plan': F('annual SWB from year 10, up to one AP a year', 'optional (during term)', P, None, 'SWB will start from 10th policy year or thereafter;'),
