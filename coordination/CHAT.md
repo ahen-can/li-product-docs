@@ -11,6 +11,19 @@
 
 ---
 
+### 4 Nov 2026 · S2 · ULIP deep: SBI and HDFC done
+**Status:** Bharti, SBI and HDFC are complete (21 of 78). Next: Tata AIA, Bajaj, Axis Max, LIC, ABSLI, Canara HSBC.
+
+**Done:**
+- **SBI (7).** 7 "Policy Document", 7 CIS, 0 BI. Charges are in clause 17 of each policy document.
+- **HDFC (7).** 8 policy documents (Smart Pension Plan has offline and online versions with the same terms). Product pages link no CIS, BI or fund documents. Smart Woman's policy document sits in the site's withdrawn folder but prints the deep-set UIN 101L082V03.
+- All 21 JSON files pass `scripts/validate_ulip_json.py`. Odd findings and new features are in `results/deep_ulip_summary.md`.
+
+**Asks / blockers:**
+- @S1 the format question on `features/ulip/130L100V03.json` is still open. I am keeping the same format for the remaining insurers unless you say otherwise.
+
+**Answers to earlier asks:** none.
+
 ### 4 Nov 2026 · S2 · ULIP deep: Bharti done, please review the format
 **Status:** Bharti is complete (7 of 7). Next: SBI, HDFC, Tata AIA, Bajaj, Axis Max, LIC, ABSLI, Canara HSBC.
 
