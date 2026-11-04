@@ -208,7 +208,7 @@ NEW_FEAT = [
     ('loyalty_design_variants', 'Loyalty additions with a special design (premium size, high cover, rising, large at maturity)', [ 'Loyalty additions that rise 0.05% a year (Milestone variant)', 'Rising loyalty additions', 'Loyalty additions that rise every year', 'Premium bands for additions', 'Maturity Booster', 'Fund Maintenance Booster', 'Loyalty addition only for large single premiums', 'High premium booster',
         'Loyalty additions only for larger premiums', 'Booster for high death benefit multiples', 'Rising loyalty additions on a 12-month average fund value', 'Large loyalty additions at maturity'],
      None),
-    ('customer_type_boosters', 'Extra benefit or lower charges for a customer type (women, existing customers, ECS payers, direct buyers, staff)', [ 'Auto Debit Booster', 'Twin loyalty booster for combined purchase',
+    ('customer_type_boosters', 'Extra benefit or lower charges for a customer type (women, existing customers, ECS payers, direct buyers, staff)', [ 'Family benefit', 'Auto Debit Booster', 'Twin loyalty booster for combined purchase',
         'EmpowHer Booster for women', 'ECS payment benefit', 'Existing customer benefit', 'Loyalty reward for direct purchases', 'Reduced charges for staff'],
      r'existing customers? (will receive|benefit)|female (customers|lives).{0,80}(additional|booster)|\bstaff\b.{0,60}(charge|discount)|direct (channel|marketing|sales?).{0,80}(reward|additional)'),
     ('women_life_event_cover', 'Women-specific cover (pregnancy complications, childbirth, female cancers)', [
@@ -218,7 +218,7 @@ NEW_FEAT = [
     ('decreasing_cover_option', 'Decreasing life cover option', ['Decreasing cover after a level cover period'], r'decreasing (cover|sum assured|life cover)'),
     ('death_benefit_waiver_plus_income', 'Plan continues after death: insurer funds future premiums and/or pays a family income', [ 'Assured Option keeps the policy running after a death claim', 'Variant 2 Family Income Benefit', 'Family Income Benefit plus funded premiums','Death benefit with waiver plus monthly income'],
      r'classic waiver plus|waiver plus'),
-    ('builtin_accident_or_payor_waiver', 'Built-in accident benefit, premium waiver or family benefit inside the ULIP', [ 'Family benefit', 'Multiple premium waiver on death', 'Waiver of premium on accidental disability', 'Premium waiver on accidental disability in a pension plan',
+    ('builtin_accident_or_payor_waiver', 'Built-in accident benefit or premium waiver inside the ULIP', [ 'Multiple premium waiver on death', 'Waiver of premium on accidental disability', 'Premium waiver on accidental disability in a pension plan',
         'Built-in accident benefit inside a ULIP', 'Child ULIP with built-in payor waiver and accident benefit', "Loyalty additions continue after the parent's death", 'Proposer premium waiver for a different life assured'],
      r'(in-?built|built-?in)\s+(accident|premium payor|premium waiver)|premium payor waiver'),
     ('restricted_withdrawals', 'Partial withdrawals limited to listed purposes or capped (amount or number)', [
@@ -325,6 +325,12 @@ for k in DEEP:
         else:
             unmapped.append((k, n))
 kw_count = C.Counter()
+VERDICT = {}
+_vp = os.path.join(A, 'v3', 'new_feature_verdicts.csv')
+if os.path.exists(_vp):
+    for _r in csv.DictReader(open(_vp, encoding='utf-8')):
+        if _r['verdict'] == 'Y':
+            VERDICT[(_r['group'], _r['uin'])] = _r
 for g, label, names, rx in NEW_FEAT:
     rows.append({'id': g, 'group': 'New feature (deep pass)', 'def': label, 'new': 'new in v2 (found in deep pass)', 'kind': 'status',
                  'source_note': 'deep; keyword search of brochures for the rest' if rx else 'deep only'})
@@ -333,6 +339,11 @@ for g, label, names, rx in NEW_FEAT:
         if k in have:
             n = have[k]
             cells[(g, k)] = ('B', n['description'], n['doc'], n['page'], n['quote'])
+        elif (g, k) in VERDICT:
+            v = VERDICT[(g, k)]
+            cells[(g, k)] = ('B', v['reason'], v['doc'], int(v['page']) if v['page'] else None, v['snippet'][:400])
+        elif k in deep:
+            cells[(g, k)] = ('', '', None, None, None)      # searched in its documents, not found
         elif rx and k:
             h = kw_hit(k, rx)
             if h:
@@ -414,6 +425,7 @@ L = [
     'B built-in · O optional · R rider · N not offered · ? not stated in public documents · Y mentioned in brochure (v1, type unknown) · - not found in brochure · K keyword found in the brochure or policy text, not yet verified by reading.',
     'Counts for new features use deep products only (n of ' + str(nD) + '). K hits show where the feature may also exist; they are leads for the deep pass, not counts.',
     'TABS: Features (one row each, counts, Bharti has/lacks) · Matrix (products x features) · Charges (headline numbers) · New features · v1 corrections · Evidence · Products.',
+    'NEW-FEATURE COUNTS: every deep product\'s policy document and brochure were searched for each new feature (analysis/v3/new_feature_candidates.csv); S1 read each match and kept or rejected it with a reason (analysis/v3/new_feature_verdicts.csv). For deep products a blank means searched and not found. Four groups have no search pattern and count only what S2 recorded: loyalty design variants, premium cap, admin charge waived in some years, increasing cover.',
     'EVIDENCE STRENGTH: on the Evidence tab, deep cells are marked strong (the quote shows the value) or weak (the quote is a label or nearby line; the value is still from the cited page). The Products tab counts both per product. Weak quotes get redone at the end of deep wave 1.',
     'Sources: features/ulip/<UIN>.json (deep, each value with document label, page and quote), analysis/product_features_v1.csv (brochure). Rebuild: python3 -I analysis/scripts/build_ulip_v2.py <repo>.',
 ]
