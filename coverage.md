@@ -11,7 +11,7 @@ could be verified. "Not found" means the script and a manual look at the site di
 | Ageas Federal Life | 23 | 1 | 21 | 0 | 1 | 0 | 0 | 0 |
 | Aviva Life | 17 | 0 | 0 | 0 | 0 | 0 | 0 | 17 |
 | Axis Max Life | 26 | 0 | 0 | 0 | 0 | 0 | 0 | 26 |
-| Bajaj Life | 31 | 0 | 0 | 0 | 0 | 0 | 0 | 31 |
+| Bajaj Life | 31 | 2 | 28 | 0 | 1 | 0 | 0 | 0 |
 | Bandhan Life | 22 | 0 | 22 | 0 | 0 | 0 | 0 | 0 |
 | Bharti Life | 26 | 1 | 25 | 0 | 0 | 0 | 0 | 0 |
 | Canara HSBC Life | 24 | 0 | 0 | 0 | 0 | 0 | 0 | 24 |
@@ -30,12 +30,13 @@ could be verified. "Not found" means the script and a manual look at the site di
 | Shriram Life | 26 | 1 | 25 | 0 | 0 | 0 | 0 | 0 |
 | Star Union Dai-ichi Life | 33 | 0 | 0 | 0 | 0 | 0 | 0 | 33 |
 | Tata AIA Life | 38 | 1 | 34 | 0 | 3 | 0 | 0 | 0 |
-| **Total** | 633 | 14 | 386 | 0 | 7 | 0 | 0 | 226 |
+| **Total** | 633 | 16 | 414 | 0 | 8 | 0 | 0 | 195 |
 
 ## Manual-download list
 Products whose documents could not be fetched automatically. Each line gives the product, UIN, the insurer page to visit, and which document is missing.
 
 - **Ageas Federal Life**: Ageas Federal Life Insurance Guaranteed Lifetime Income Plan (`135N073V04`): brochure missing (not found). Visit (no product page found; see notes). 47 PDF links seen on 1 pages; none verified (product code not in text or no match); no product page or document on ageasfederal.com (sitemap and savings-plans pages checked)
+- **Bajaj Life**: Bajaj Life Realizing Dreams Plus (`116N243V01`): brochure missing (not found). Visit https://www.bajajlifeinsurance.com/on-sale-plans.html. 20 PDF links seen on 2 pages; none verified (product code not in text or no match); not on bajajlifeinsurance.com on-sale-plans.html or sitemap.xml
 - **Edelweiss Life**: Edelweiss Life - Flexi-Savings Plan (`147N075V04`): brochure missing (not found). Visit (no product page found; see notes). 18 PDF links seen on 7 pages; none verified (product code not in text or no match); edelweisslife.in/flexi-savings-plan returns 404 although listed in sitemap.xml; no brochure found elsewhere on the site
 - **Edelweiss Life**: Edelweiss Life - Premier Guaranteed STAR Pro (`147N115V02`): brochure missing (not found). Visit (no product page found; see notes). 7 PDF links seen on 2 pages; none verified (product code not in text or no match); not on edelweisslife.in product listing or sitemap; /premier-guaranteed-star is a different product (147N077V05)
 - **IndusInd Nippon Life**: IndusInd Nippon Life Secure Shield Plan (`121N154V01`): brochure missing (not found). Visit (no product page found; see notes). 3 PDF links seen on 3 pages; none verified (product code not in text or no match); not on indusindnipponlife.com all-plans / term-insurance-plans pages or sitemap
