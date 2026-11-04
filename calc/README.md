@@ -36,3 +36,15 @@ Known simplifications:
 - Customer-specific boosters are left out: Grow Wealth Ultra's EmpowHer, ECS and existing-customer boosters, and Sampoorn Nivesh Plus's direct-channel reward.
 - Wealth Maximizer's 118% refund is paid at the end of years 11 to 15.
 - Where the policy document doesn't say whether GST applies to a refund, refunds exclude GST.
+
+### Checks against insurer quotes (4 Nov 2026)
+Insurer quote tools leave GST on charges out of their figures, so these comparisons use the calculator with `gst=False`. The user entered the standard profile into each insurer's own quote tool.
+
+| Product | Insurer figure | Calculator (excl. GST) | Difference |
+|---|---|---|---|
+| SBI eWealth Plus, maturity at 8% | 26,56,767 | 26,53,165 | -0.14% |
+| SBI eWealth Plus, maturity at 4% | 14,54,625 | 14,52,686 | -0.13% |
+| HDFC Click 2 Wealth, maturity at 8% | 27,25,816 | 27,21,818 | -0.15% |
+| HDFC Click 2 Wealth, fund at 4%, year 5 / 10 / 15 / 20 | 5,41,671 / 11,55,415 / 13,13,981 / 14,99,175 | 5,41,519 / 11,54,807 / 13,12,689 / 14,97,022 | -0.03% / -0.05% / -0.10% / -0.14% |
+
+The gap grows slowly with time and stays under 0.15%. It probably comes from daily rather than monthly FMC and unit rounding. Both products are now "checked". The Bharti products are still unchecked; their BIs are pending from the user.
