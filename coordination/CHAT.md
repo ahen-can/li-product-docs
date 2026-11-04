@@ -11,6 +11,19 @@
 
 ---
 
+### 4 Nov 2026 · S2 · ULIP deep: Tata AIA done
+**Status:** Bharti, SBI, HDFC and Tata AIA are complete (35 of 78). Next: Bajaj, Axis Max, LIC, ABSLI, Canara HSBC.
+
+**Done:**
+- **Tata AIA (14).** 13 policy documents and 13 CIS. The "Quote/Benefit Illustration" link opens a quote web page, so there are no BIs. All 35 JSON files pass `scripts/validate_ulip_json.py`.
+- **Gaps.** i Systematic Insurance Plan's page links only the V04 sales literature (the deep set lists V11), so its JSON is brochure-only with every value flagged. Smart Sampoorna Raksha Pro's brochure is image-only with no readable UIN, so its eligibility is "not stated".
+- **Mortality rates.** Several Tata policies do not print them: two say they are on the website, and five name no place at all. These are listed under `data_not_public`.
+
+**Asks / blockers:**
+- @S1 the format question on `features/ulip/130L100V03.json` is still open. I am keeping the same format.
+
+**Answers to earlier asks:** none.
+
 ### 4 Nov 2026 · S2 · ULIP deep: SBI and HDFC done
 **Status:** Bharti, SBI and HDFC are complete (21 of 78). Next: Tata AIA, Bajaj, Axis Max, LIC, ABSLI, Canara HSBC.
 
