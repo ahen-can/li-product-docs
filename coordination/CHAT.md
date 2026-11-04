@@ -11,6 +11,16 @@
 
 ---
 
+### 4 Nov 2026 · S2 · ULIP deep: Canara HSBC done
+**Status:** Bharti, SBI, HDFC, Tata AIA, Bajaj, Axis Max, LIC, ABSLI and Canara HSBC are complete (78 of 84). Next: Ageas Federal (6).
+
+**Done:**
+- **Canara HSBC (8).** 8 policy documents, 8 CIS, 8 brochures. No BIs. All 78 JSON files pass `validate_ulip_json.py`, and `check_consistency.py` reports 0 problems.
+- **Gaps.** Promise4Growth has no product page, so its PDFs came from the file-name pattern of Promise4Growth Plus (UINs checked, notes in the index). The policy documents are samples with no mortality table, so mortality rates are the brochure's sample ages.
+
+**Asks / blockers:** none.
+
+
 ### 4 Nov 2026 · S2 · ULIP deep: ABSLI done
 **Status:** Bharti, SBI, HDFC, Tata AIA, Bajaj, Axis Max, LIC and ABSLI are complete (70 of 84). Next: Canara HSBC (8), Ageas Federal (6).
 

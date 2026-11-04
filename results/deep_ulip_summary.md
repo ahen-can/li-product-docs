@@ -20,6 +20,7 @@ Status: in progress. This file grows insurer by insurer. One JSON per product is
 | Axis Max Life | 9 of 9 (8 with a policy document) | 8 "Policy Contract" (Forever Young and Online Savings Plan documents were not linked on their own pages, see odd findings) | 8 "Customer Information Sheet" | 0 (none published) | 9 "Policy Prospectus" or "Prospectus" | none stored: the "Sustainable Yield Index Factsheet" is company-wide and "Monthly Factsheets" is a web page |
 | LIC | 5 of 5 | 5 "Policy Document" | 5 "CIS <product>" | 0 (none published) | 9: each product links two dated "Sales Brochure" files (from 01/10/2024 to 21/09/2025, and from 22/09/2025 onwards); Protection Plus links one | none |
 | ABSLI | 10 of 10 (Fortune Wealth and Salaried Suraksha link no CIS) | 10 "Policy Contract" (Wealth Aspire's prints no product code, see odd findings) | 8 "CIS" | 0 (none published) | 10 "Prospectus" | none stored: "Abridged Factsheets" and "Investment Factsheets" are web pages |
+| Canara HSBC Life | 8 of 8 | 8 "Policy Document" (samples with no mortality table) | 8 "Access Customer Information Sheet" | 0 (none published) | 8 ("Download Brochure" x5, "Product Brochure" x2 for Wealth Edge and Alpha Wealth) | none stored |
 
 ## Spot checks by hand
 
@@ -31,6 +32,7 @@ Status: in progress. This file grows insurer by insurer. One JSON per product is
 - **Axis Max:** Flexi Wealth Advantage (104L121V05) and Platinum Wealth Plan (104L133V01). I compared the premium allocation band tables, administration, discontinuance and loyalty tables and the eligibility rows against the PDFs in layout mode.
 - **LIC:** SIIP (512L334V02) and Nivesh Plus (512L317V02). I compared the premium allocation, discontinuance and partial-withdrawal tables, the guaranteed-addition tables and the eligibility rows against the PDFs in layout mode.
 - **ABSLI:** Wealth Infinia (109L129V03) and Smart Wealth Pension Plan (109L157V01). I compared the premium allocation, loyalty and wealth-booster tables, the fund management charges and the discontinuance tables against the PDFs in layout mode. For the pension plan I read the merged-cell allocation and administration tables in the layout text before entering them.
+- **Canara HSBC:** Promise4Wealth (136L096V01) and Wealth Edge (136L085V04). I compared the premium allocation bands, the wealth booster tables, the discontinuance tables and the mortality samples against the PDFs in layout mode.
 
 ## Anything odd
 
@@ -118,6 +120,8 @@ Status: in progress. This file grows insurer by insurer. One JSON per product is
 - **LIC pension.** New Pension Plus limits withdrawals to listed purposes, at most 3 times, and lets the vesting date be extended up to age 85.
 - **ABSLI return of charges.** Salaried Suraksha and Param Suraksha return 2x the premium allocation charges (end of years 10 to 13) and 2x each month's mortality charge from year 11. Wealth Infinia and Platinum Gain add back all allocation and mortality charges at maturity. Smart Wealth Pension Plan returns allocation charges every 5 years from year 10, up to 600% for Advantage.
 - **ABSLI Assured Option.** Wealth Aspire and Fortune Wealth pay the sum assured on death and keep the policy running to maturity. The insurer pays the future premiums, and the maturity value goes to the nominee.
+- **Canara HSBC return of charges.** SecureInvest returns 2x the premium allocation charges at maturity and 2x each month's mortality charge from year 15. Promise4Wealth returns mortality charges (Maximiser and LongLife) and 1.5x or 2x the administration charges by term. Wealth Edge returns all mortality charges.
+- **Canara HSBC premium funding.** Promise4Growth Plus (Care), Promise4Wealth (Shield) and Wealth Edge (Premium Plus) pay all future premiums after the life assured dies. Shield also pays 1/12 of the annualized premium a month for up to 120 months.
 - **ABSLI term-style covers.** Salaried Suraksha offers up to 125x and Param Suraksha up to 30x the annualized premium as sum assured. Wealth Smart Plus has no premium allocation charge and no administration charge. Platinum Gain has no administration charge.
 - **ABSLI pension.** Smart Wealth Pension Plan has a Joint Life option that waives premiums on the first death, a female loyalty rate of 1.5x the male rate, and a 1% annuity booster at vesting.
 
@@ -131,6 +135,7 @@ Status: in progress. This file grows insurer by insurer. One JSON per product is
 - **Axis Max.** Online Savings Plan Plus has no policy document, so its mortality rates are not public. The other eight policy documents print mortality tables (Fast Track Super p.23, Flexi Wealth Plus p.23, Flexi Wealth Advantage p.38, Forever Young p.22, Online Savings Plan p.18, Platinum Wealth p.32, Shiksha Plus Super p.21, Smart Term p.38); the JSON gives the prospectus sample ages where one exists.
 - **LIC.** The four non-pension policy documents print no mortality rate table, and the brochures give rates for five sample ages only. New Pension Plus has no mortality charge.
 - **ABSLI.** All ten brochures print mortality rates for five sample ages and point to the website or the advisor for the rest. The policy documents were not searched for a full rate table.
+- **Canara HSBC.** Every brochure prints mortality rates for four sample ages only, and the policy documents are samples with no rate table. Promise4Wealth and Wealth Edge do not print their premium funding benefit charge rates.
 
 ## Gaps and retry list
 
@@ -142,3 +147,4 @@ Status: in progress. This file grows insurer by insurer. One JSON per product is
 - **Axis Max.** No BIs or product-specific fund factsheets. Online Savings Plan Plus needs its own policy document. Flexi Wealth Advantage online/ISNP allocation tables, Forever Young single-pay discontinuance table, Smart Term loyalty table for entry ages above 35, and the strategy mechanics for Online Savings Plan Plus and Platinum Wealth are not recorded field by field.
 - **LIC.** No BIs or product-specific fund factsheets. Fund asset-mix tables and SFINs for Protection Plus and New Pension Plus, and the New Pension Plus single-premium discontinuance table, are not recorded field by field.
 - **ABSLI.** No BIs or product-specific fund factsheets. Fortune Wealth and Salaried Suraksha have no CIS. Wealth Aspire's policy document has no product code. Policy documents (Part E) were not read field by field; the JSON quotes the brochures.
+- **Canara HSBC.** No BIs or product-specific fund factsheets. Promise4Growth has no product page, so its three PDFs came from the file-name pattern of the Promise4Growth Plus page; each carries the right UIN and the index notes say so. Wealth Edge covers three plan options in one file set.
