@@ -1,0 +1,78 @@
+import sys; sys.path.insert(0, 'scripts'); sys.path.insert(0, 'scripts/ulip_specs')
+from ulip_json import F, NS, build
+P, B = 'Policy Document', 'Sales Brochure (From 22/09/2025 onwards)'
+FUNDS = [('Bond Fund', 'ULIF00124/12/18LICULIPBND512', 'Low'), ('Secured Fund', 'ULIF00224/12/18LICULIPSEC512', 'Lower to Medium'), ('Balanced Fund', 'ULIF00324/12/18LICULIPBAL512', 'Medium'), ('Growth Fund', 'ULIF00424/12/18LICULIPGRW512', 'High')]
+spec = {
+ 'product': {
+  'uin': F('512L334V02', 'n/a', P, None, 'UIN: 512L334V02'),
+  'uin_in_brochure': F('512L334V02', 'n/a', B, None, 'UIN: 512L334V02'),
+  'product_name': F('LIC’s SIIP', 'n/a', B, None, 'LIC’s SIIP'),
+  'irdai_description_line': NS(), 'launch_or_version_date': NS(), 'target_segment_stated': NS(), 'variants_or_plan_options': NS(),
+  'online_offline': NS(),
+ },
+ 'eligibility': {
+  'entry_age_min': F('30 days (completed)', 'n/a', B, None, '[30] Days (completed)'),
+  'entry_age_max': F({'sum assured 10 x annualized premium': '54 years (nearer birthday)', 'sum assured 7 x annualized premium': '65 years (nearer birthday)'}, 'n/a', B, None, '10 times of Annualized [54] years (nearer Premium birthday)', quote_2='7 times of Annualized [65] years(nearer Premium birthday)'),
+  'maturity_age_min': F(18, 'n/a', B, None, '[18] years (Completed)'),
+  'maturity_age_max': F(85, 'n/a', B, None, '[85] years (nearer birthday)'),
+  'policy_term_options': F({'min': 10, 'max': 25}, 'n/a', B, None, '10 Years', quote_2='25 Years'),
+  'ppt_options': F('same as policy term', 'n/a', B, None, 'Same as Policy Term'),
+  'premium_min_annual': F({'yearly': 42000, 'half-yearly': 21000, 'quarterly': 10500, 'monthly (NACH)': 3500}, 'n/a', B, None, 'Yearly 42,000/-', quote_2='Half-yearly 21,000/-', quote_3='Quarterly 10,500/-', quote_4='Monthly (NACH) 3,500/-'),
+  'premium_min_single': NS(),
+  'premium_max': F('no limit, subject to underwriting', 'n/a', B, None, 'No Limit. The maximum premium allowed'),
+  'sum_assured_rule': F({'age 30 days to 54': '10 x annualized premium', 'age 55 to 65': '7 x annualized premium'}, 'built-in', B, None, '10 times of Annu alized Premium', quote_2='7 times of Annual ized premium'),
+  'premium_modes': F('yearly, half-yearly, quarterly, monthly (NACH)', 'n/a', B, None, 'Yearly/Half Yearly/Quarterly/Monthly'),
+  'life_cover_multiple_choice': NS(),
+ },
+ 'charges': {
+  'premium_allocation_charge': F({'offline sale': {'Y1': '8.00%', 'Y2-5': '2%', 'Y6+': '3.00%'}, 'online sale': {'Y1': '3%', 'Y2-5': '2%', 'Y6+': '1%'}}, 'built-in', B, None, '1st Year 8.00% 3%', 'offline Y2-5 cell is printed on the next line; rows read from the layout text', quote_2='6th Year and There- 3.00% 1% after'),
+  'policy_administration_charge': F('Rs 150 a month from the 6th policy year, escalating 5% a year from year 7, max Rs 500 a month; nil in years 1 to 5', 'built-in', B, None, 'from 6th policy year till the end of policy term at the rate of Rs 150 per month escalating at the rate of 5% p.a. from 7th year onwards'),
+  'fund_management_charge': F({'Bond, Secured, Balanced and Growth Fund': '1.35%', 'Discontinued Policy Fund': '0.50%'}, 'built-in', B, None, '1.35% p.a. of Unit Fund for all the four fund types', quote_2='0.50% p.a. of Unit Fund for “Discontinued Policy Fund”'),
+  'mortality_charge': F({'basis': 'annual rate per Rs 1,000 sum at risk, healthy lives; taken monthly', 'sample_rates': {'age 25': 1.26, 'age 35': 1.62, 'age 45': 3.48, 'age 50': 5.99, 'age 60': 15.07}}, 'built-in', B, None, 'Age 25 35 45 50 60 ` 1.26 1.62 3.48 5.99 15.07', 'sample ages only'),
+  'discontinuance_charge': F({'annualized premium up to Rs 50,000': {'Y1': 'lower of 20% x (AP or FV), max Rs 3,000', 'Y2': '15%, max Rs 2,000', 'Y3': '10%, max Rs 1,500', 'Y4': '5%, max Rs 1,000', 'Y5+': 'nil'}, 'annualized premium above Rs 50,000': {'Y1': '6%, max Rs 6,000', 'Y2': '4%, max Rs 5,000', 'Y3': '3%, max Rs 4,000', 'Y4': '2%, max Rs 2,000', 'Y5+': 'nil'}}, 'built-in', B, None,
+                             '1 Lower of 20% * Lower of 6% * (AP (AP or FV) subject or FV) subject to to maximum of Rs. maximum of Rs. 3,000/- 6000/-', 'brochure p.18 two-column table, read in order',
+                             quote_2='2 Lower of 15% * Lower of 4% * (AP (AP or FV) subject or FV) subject to to maximum of Rs. maximum of Rs. 2,000/- 5000/-'),
+  'switching_charge': F('4 free switches a year, then Rs 100 per switch', 'built-in', B, None, 'Subsequent switches in that year shall be subject to a Switching Charge of Rs. 100 per switch.'),
+  'partial_withdrawal_charge': F('Rs 100 flat per withdrawal', 'built-in', B, None, 'A flat amount of Rs. 100/- shall be deducted by canceling appropriate'),
+  'premium_redirection_charge': NS(),
+  'miscellaneous_charge': F('Rs 100 flat for an alteration such as a change of premium mode or adding the accident rider', 'built-in', B, None, 'shall be a flat amount of Rs. 100/-'),
+  'guarantee_charge': NS(),
+  'rider_charges': F('Accident benefit charge Rs 0.40 per thousand of accident benefit sum assured a year (Rs 0.80 for police duty)', 'built-in', B, None, 'Rs. 0.40 per thousand Accident Benefit Sum Assured per policy year'),
+  'any_charge_returned': F('all mortality charges refunded at maturity (excluding extra underwriting charges and tax)', 'built-in', B, None, 'an amount equal to the total amount of mortality charges deducted in respect of life insurance cover shall be payable along with the Maturity Benefit'),
+ },
+ 'benefits': {
+  'death_benefit_formula': F('highest of basic sum assured (less withdrawals in the last 2 years), unit fund value and 105% of premiums received; only the unit fund value before the risk commencement date (entry under age 8)', 'built-in', B, None, 'Basic Sum Assured reduced by Partial Withdrawals, if any, made during the two years period immediately', quote_2='105% of the total premiums received upto the date of death reduced by Partial Withdrawals'),
+  'maturity_benefit': F('unit fund value at maturity plus refund of mortality charges', 'built-in', B, None, 'an amount equal to Unit Fund Value as on the date of maturity shall be payable.'),
+  'loyalty_additions': F(None, 'not offered', note='guaranteed additions are used instead'),
+  'wealth_boosters_or_guaranteed_additions': F({'Guaranteed Additions (% of one annualized premium)': {'end of year 6': '5%', 'year 10': '10%', 'year 15': '15%', 'year 20': '20%', 'year 25': '25%'}}, 'built-in', B, None, '6 5% 10 10% 15 15% 20 20% 25 25%'),
+  'return_of_mortality_charges': F('all mortality charges refunded at maturity', 'built-in', B, None, 'an amount equal to the total amount of mortality charges deducted in respect of life insurance cover shall be payable along with the Maturity Benefit'),
+  'return_of_premium_allocation_charges': NS(), 'return_of_policy_admin_charges': NS(), 'other_additions': NS(),
+ },
+ 'flexibility': {
+  'fund_switching': F('4 free switches a year, then Rs 100; the whole fund moves to the new fund type', 'optional (during term)', B, None, 'On switching, the entire Fund Value shall be switched to the new Fund'),
+  'premium_redirection': NS(),
+  'partial_withdrawals': F({'from': 'after the fifth policy anniversary, if all premiums are paid', 'maximum % of unit fund per policy year': {'Y6-10': '20%', 'Y11-15': '25%', 'Y16-20': '30%', 'Y21-25': '35%'}, 'floor': 'balance at least 3 annualized premiums'}, 'optional (during term)', B, None,
+                           'Policy Year Percent of Unit Fund 6th to 10th 20% 11th to 15th 25% 16th to 20th 30% 21st to 25th 35%', quote_2='withdrawal is not less than 3 annualized premiums.'),
+  'systematic_withdrawal_plan': NS(), 'top_up_premiums': NS(),
+  'settlement_option': F('death benefit in instalments (yearly to monthly) over up to 5 years', 'optional (during term)', B, None, 'spread over a period of not more'),
+  'premium_holiday_or_offset': NS(), 'increase_decrease_cover': NS(), 'change_ppt_or_term': NS(), 'policy_loan': NS(),
+  'auto_portfolio_strategies': F(None, 'not offered', note='four fund types only; no automatic strategy is described'),
+ },
+ 'funds': {
+  'fund_count': F(4, 'n/a', B, None, 'the following four funds to invest your premiums initially'),
+  'fund_list': F([{'name': n, 'SFIN': s, 'FMC_pct': 1.35, 'asset_allocation': 'see brochure fund table', 'risk_label': r} for n, s, r in FUNDS], 'n/a', B, None, '1. Fund Name: Bond Fund, SFIN No: ULIF00124/12/18LICULI- PBND512 (Low Risk)', quote_2='2. Fund Name: Secured Fund, SFIN No:ULIF00224/12/- 18LICULIPSEC512 (Lower to Medium Risk)', quote_3='3. Fund Name: Balanced Fund, SFIN No: ULIF00324/12/- 18LICULIPBAL512 (Medium Risk)', quote_4='4. Fund Name: Growth Fund, SFIN No:ULIF00424/12/- 18LICULIPGRW512 (High Risk))'),
+  'index_or_thematic_funds': F(None, 'not offered', note='the four funds are managed by asset mix, not index'),
+  'discontinued_policy_fund': F({'name': 'Discontinued Policy Fund', 'SFIN': 'ULIF001201114LICDPFNLIF512', 'FMC': '0.50%', 'allocation': 'money market 0% to 40%, government securities 60% to 100%'}, 'built-in', B, None, 'Discontinued Policy Fund (SFIN: ULIF001201114LICDPFN-'),
+ },
+ 'protection_add_ons': {
+  'waiver_of_premium_inbuilt': NS(), 'critical_illness': NS(),
+  'accidental_death': F('via LIC’s Linked Accidental Death Benefit Rider (512A211V02)', 'rider', B, None, 'LIC’s Linked Accidental Death Benefit Rider (UIN: 512A211V02)'),
+  'terminal_illness': NS(), 'spouse_or_child_cover': NS(),
+  'riders_available': F(['LIC’s Linked Accidental Death Benefit Rider (512A211V02)'], 'rider', B, None, 'LIC’s Linked Accidental Death Benefit Rider (UIN: 512A211V02)'),
+ },
+ 'surrender_revival': {'lock_in_years': F(5, 'built-in', B, None, 'after the fifth policy anniversary'), 'discontinuance_rules': NS(), 'revival_period': NS(), 'surrender_value_rule': NS()},
+}
+build('512L334V02', spec,
+  new_features=[{'feature': 'Refund of all mortality charges at maturity', 'description': 'Total mortality charges (excluding underwriting extras and tax) are paid back with the maturity benefit', 'quote': 'an amount equal to the total amount of mortality charges deducted in respect of life insurance cover shall be payable along with the Maturity Benefit', 'doc': B, 'page': None},
+                {'feature': 'Four asset-mix fund types', 'description': 'Bond, Secured, Balanced and Growth funds at a single 1.35% FMC; the whole fund moves on a switch', 'quote': 'the following four funds to invest your premiums initially', 'doc': B, 'page': None}],
+  not_public=[])
