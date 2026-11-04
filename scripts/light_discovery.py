@@ -120,7 +120,7 @@ def page_links(url, tmp):
 def name_tokens(name):
     n = re.sub(r"\b(?:lic'?s|life|insurance|plan|the|sbi|hdfc|icici|bharti|axa|tata|aia|bajaj|absli|kotak|pnb|metlife|canara|hsbc|"
                r"indiafirst|sud|indusind|nippon|shriram|ageas|federal|generali|central|edelweiss|pramerica|aviva|bandhan|axis|max)\b",
-               ' ', name.lower().replace('\u2019', "'"))
+               ' ', re.sub(r'\([^)]*\)', ' ', name.lower().replace('\u2019', "'")))   # '(Micro Insurance Product)' etc. ignored
     return [w for w in re.findall(r'[a-z0-9]+', n) if len(w) > 2]
 
 def score(url, text, prod, on_product_page=False):
@@ -174,15 +174,22 @@ def find_desc(txt, pdf=None):
             if not RIDER.search(d) and re.search(r'individual|life|pension|annuity|savings|term|risk|health|protection|endowment|micro', d, re.I): return d
     return ''
 
+def cap_dpi(pdf, dpi):
+    """Lower the dpi for very large pages so no image exceeds ~5000 px (huge images stall tesseract)."""
+    m = re.search(r'Page size:\s+([\d.]+) x ([\d.]+)', subprocess.run(['pdfinfo', pdf], capture_output=True, text=True).stdout)
+    big = max(float(m.group(1)), float(m.group(2))) if m else 842
+    return str(max(72, min(int(dpi), int(5000 * 72 / big))))
+
 def tess(png):
-    try: return subprocess.run(['tesseract', png, '-'], capture_output=True, text=True, timeout=120).stdout
+    try: return subprocess.run(['tesseract', png, '-'], capture_output=True, text=True, timeout=120,
+                               env=dict(os.environ, OMP_THREAD_LIMIT='1')).stdout
     except subprocess.TimeoutExpired: return ''
 
 def ocr_text(pdf, dpi='300'):
     """Full-document OCR (pdftoppm + tesseract), pages separated by form feeds like pdftotext."""
     import tempfile, glob
     with tempfile.TemporaryDirectory() as d:
-        subprocess.run(['pdftoppm', '-r', dpi, '-scale-to', str(int(dpi) * 12), '-png', pdf, os.path.join(d, 'p')], capture_output=True)
+        subprocess.run(['pdftoppm', '-r', cap_dpi(pdf, dpi), '-png', pdf, os.path.join(d, 'p')], capture_output=True)
         return '\f'.join(tess(f) for f in sorted(glob.glob(os.path.join(d, 'p*.png'))))
 
 def ocr_desc(pdf, pages=3):
@@ -191,8 +198,8 @@ def ocr_desc(pdf, pages=3):
     import tempfile, glob
     for dpi in ('400', '200'):
         with tempfile.TemporaryDirectory() as d:
-            subprocess.run(['pdftoppm', '-f', '1', '-l', str(pages), '-r', dpi, '-scale-to', str(int(dpi) * 12), '-png', pdf,
-                            os.path.join(d, 'p')], capture_output=True)   # cap: huge pages would stall tesseract
+            subprocess.run(['pdftoppm', '-f', '1', '-l', str(pages), '-r', cap_dpi(pdf, dpi), '-png', pdf,
+                            os.path.join(d, 'p')], capture_output=True)
             txt = '\f'.join(tess(f) for f in sorted(glob.glob(os.path.join(d, 'p*.png'))))
         desc = find_desc(txt)
         if desc and classify_desc(desc)[0] != 'not stated' or desc and 'unit' in desc.lower(): return desc
