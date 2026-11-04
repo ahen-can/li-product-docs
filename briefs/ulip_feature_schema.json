@@ -1,0 +1,60 @@
+{
+ "_about": "Deep-discovery schema for ULIPs (v1). One JSON file per product: features/ulip/<UIN>.json. Every field is an object {value, status, doc, page, quote, note}. 'doc' = the website's own label for the document (e.g. 'Policy Bond', 'Product Brochure/Prospectus'). 'quote' = verbatim text (<= 300 chars). Leave value null and set status 'not stated in public documents' when you cannot find it - never guess.",
+ "status_values": ["built-in", "optional (at inception)", "optional (during term)", "rider", "not offered", "not stated in public documents", "n/a"],
+ "product": {
+  "uin": "UIN exactly as printed in the policy document", "uin_in_brochure": "UIN printed in brochure (version may differ)",
+  "product_name": "as printed", "irdai_description_line": "verbatim", "launch_or_version_date": "if printed (e.g. 'ADVT No' date / form version)",
+  "variants_or_plan_options": "list of variants/options with one-line description each (e.g. 'Platinum', 'Classic Waiver', 'Life Option')",
+  "target_segment_stated": "if the brochure states a target (e.g. HNI, women, child, retirement)",
+  "online_offline": "online only / offline / both, as stated"
+ },
+ "eligibility": {
+  "entry_age_min": "years (or days) per variant", "entry_age_max": "per variant", "maturity_age_min": "", "maturity_age_max": "",
+  "policy_term_options": "list or range per variant", "ppt_options": "single / limited (list) / regular, per variant",
+  "premium_min_annual": "Rs, per mode/PPT", "premium_min_single": "Rs", "premium_max": "",
+  "sum_assured_rule": "e.g. 'higher of 10x AP or 0.5 x PT x AP' (regular), '1.25x SP' (single), choices offered",
+  "premium_modes": "annual / half-yearly / quarterly / monthly", "life_cover_multiple_choice": "can the customer choose the cover multiple? range"
+ },
+ "charges": {
+  "premium_allocation_charge": "% of premium by policy year (table) - note if differs by channel (online) or premium size",
+  "policy_administration_charge": "amount or % and its inflation/cap, by year",
+  "fund_management_charge": "per fund (see funds) - also give min-max",
+  "mortality_charge": "basis (e.g. per 1000 sum at risk), table reference/annexure, whether rates are published",
+  "discontinuance_charge": "table by year of discontinuance (IRDAI caps)",
+  "switching_charge": "free switches per year and charge thereafter",
+  "partial_withdrawal_charge": "free withdrawals per year and charge thereafter",
+  "premium_redirection_charge": "", "miscellaneous_charge": "", "guarantee_charge": "if any",
+  "rider_charges": "if deducted from fund",
+  "any_charge_returned": "return of mortality / allocation / admin / FMC charges - which, when, how much"
+ },
+ "benefits": {
+  "death_benefit_formula": "e.g. higher of SA, FV, 105% of premiums; any options (Life / Life+ / Classic Waiver)",
+  "maturity_benefit": "fund value; settlement option available?",
+  "loyalty_additions": "schedule + formula (e.g. 0.5% of avg FV every year from year 6)",
+  "wealth_boosters_or_guaranteed_additions": "schedule + formula",
+  "return_of_mortality_charges": "when and how much (e.g. 100% at maturity)",
+  "return_of_premium_allocation_charges": "", "return_of_policy_admin_charges": "", "other_additions": ""
+ },
+ "flexibility": {
+  "fund_switching": "", "premium_redirection": "", "partial_withdrawals": "from which year, limits, min/max amount",
+  "systematic_withdrawal_plan": "", "top_up_premiums": "", "settlement_option": "", "premium_holiday_or_offset": "",
+  "increase_decrease_cover": "", "change_ppt_or_term": "", "policy_loan": "(usually not for ULIP - confirm)",
+  "auto_portfolio_strategies": "names + mechanics (life-cycle, STP/trigger, auto rebalance, return protector)"
+ },
+ "funds": {
+  "fund_count": "number of funds available for this product",
+  "fund_list": "array of {name, SFIN, FMC_pct, asset_allocation (equity/debt/money market ranges), risk_label}",
+  "index_or_thematic_funds": "list of index / thematic / new funds (NFO) available",
+  "discontinued_policy_fund": "name, FMC (usually 0.5%), guaranteed return"
+ },
+ "protection_add_ons": {
+  "waiver_of_premium_inbuilt": "e.g. on death of parent / proposer (child ULIP)", "critical_illness": "", "accidental_death": "",
+  "terminal_illness": "", "spouse_or_child_cover": "", "riders_available": "list of rider names + UINs"
+ },
+ "surrender_revival": {
+  "lock_in_years": "5 (IRDAI) unless stated", "discontinuance_rules": "", "revival_period": "", "surrender_value_rule": ""
+ },
+ "documents_inventory": "array of {website_label, doc_type (brochure|policy_document|CIS|BI|leaflet|fund_factsheet|other), url, found_on_page_url, pages, stored_path}",
+ "new_features_not_in_schema": "array of {feature, description, quote, doc, page} - anything distinctive this product has that the schema does not cover",
+ "data_not_public": "array of fields that the documents say are 'as per policy schedule' / 'available on request' / not disclosed"
+}
