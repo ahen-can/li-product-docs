@@ -25,12 +25,12 @@ could be verified. "Not found" means the script and a manual look at the site di
 | Kotak Mahindra Life | 30 | 0 | 0 | 0 | 0 | 0 | 0 | 30 |
 | LIC | 39 | 0 | 39 | 0 | 0 | 0 | 0 | 0 |
 | PNB MetLife | 27 | 2 | 25 | 0 | 0 | 0 | 0 | 0 |
-| Pramerica Life | 22 | 0 | 0 | 0 | 0 | 0 | 0 | 22 |
+| Pramerica Life | 22 | 0 | 21 | 0 | 1 | 0 | 0 | 0 |
 | SBI Life | 27 | 1 | 26 | 0 | 0 | 0 | 0 | 0 |
 | Shriram Life | 26 | 1 | 25 | 0 | 0 | 0 | 0 | 0 |
 | Star Union Dai-ichi Life | 33 | 0 | 0 | 0 | 0 | 0 | 0 | 33 |
 | Tata AIA Life | 38 | 1 | 34 | 0 | 3 | 0 | 0 | 0 |
-| **Total** | 633 | 22 | 473 | 0 | 10 | 0 | 0 | 128 |
+| **Total** | 633 | 22 | 494 | 0 | 11 | 0 | 0 | 106 |
 
 ## Manual-download list
 Products whose documents could not be fetched automatically. Each line gives the product, UIN, the insurer page to visit, and which document is missing.
@@ -42,6 +42,7 @@ Products whose documents could not be fetched automatically. Each line gives the
 - **Edelweiss Life**: Edelweiss Life - Flexi-Savings Plan (`147N075V04`): brochure missing (not found). Visit (no product page found; see notes). 18 PDF links seen on 7 pages; none verified (product code not in text or no match); edelweisslife.in/flexi-savings-plan returns 404 although listed in sitemap.xml; no brochure found elsewhere on the site
 - **Edelweiss Life**: Edelweiss Life - Premier Guaranteed STAR Pro (`147N115V02`): brochure missing (not found). Visit (no product page found; see notes). 7 PDF links seen on 2 pages; none verified (product code not in text or no match); not on edelweisslife.in product listing or sitemap; /premier-guaranteed-star is a different product (147N077V05)
 - **IndusInd Nippon Life**: IndusInd Nippon Life Secure Shield Plan (`121N154V01`): brochure missing (not found). Visit (no product page found; see notes). 3 PDF links seen on 3 pages; none verified (product code not in text or no match); not on indusindnipponlife.com all-plans / term-insurance-plans pages or sitemap
+- **Pramerica Life**: Pramerica Life Poorna Rakhak (`140N113V01`): brochure missing (not found). Visit (no product page found; see notes). 12 PDF links seen on 4 pages; none verified (product code not in text or no match); not on pramericalife.in sitemap or plan listing pages
 - **Tata AIA Life**: Tata AIA Life Insurance POS Saat Saath - Micro Insurance Product (`110N134V04`): brochure missing (not found). Visit (no product page found; see notes). 18 PDF links seen on 1 pages; none verified (product code not in text or no match); POS variant: listed Active on tataaia.com/active-and-withdrawn-product-status.html but no product page or document link on tataaia.com (sitemap, status page, base-product page checked)
 - **Tata AIA Life**: Tata AIA Life Insurance POS Smart Income Plus (`110N148V07`): brochure missing (not found). Visit (no product page found; see notes). 18 PDF links seen on 1 pages; none verified (product code not in text or no match); POS variant: listed Active on tataaia.com/active-and-withdrawn-product-status.html but no product page or document link on tataaia.com (sitemap, status page, base-product page checked)
 - **Tata AIA Life**: Tata AIA Life Insurance Sampoorna Raksha Supreme Plan (`110N160V06`): brochure missing (not found). Visit https://www.tataaia.com/sampoorna-raksha-supreme/non-linked-comprehensive-protection.html. 37 PDF links seen on 8 pages; none verified (product code not in text or no match); listed Active (V06) on tataaia.com status page; product pages tataaia.com/sampoorna-raksha-supreme.html and /sampoorna-raksha-supreme/non-linked-comprehensive-protection.html link no brochure or policy document
