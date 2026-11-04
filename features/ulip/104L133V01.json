@@ -381,7 +381,9 @@
    "doc": "Policy Prospectus",
    "page": 12,
    "quote": "equal to the Fund Value, where the Fund Value will be calculated as:",
-   "note": null
+   "note": null,
+   "quote_2": "Settlement Period = 5 years",
+   "page_2": 20
   },
   "loyalty_additions": {
    "value": {
@@ -503,7 +505,9 @@
    "doc": "Policy Prospectus",
    "page": 12,
    "quote": "provided settlement option has not been exercised",
-   "note": null
+   "note": null,
+   "quote_2": "Settlement Period = 5 years",
+   "page_2": 20
   },
   "premium_holiday_or_offset": {
    "value": null,
@@ -825,7 +829,9 @@
    "doc": "Policy Prospectus",
    "page": 19,
    "quote": "Term Booster with Accelerated Terminal Illness",
-   "note": null
+   "note": null,
+   "quote_2": "• Rider benefit variant 1 - Term Booster with Accelerated Terminal Illness: provides",
+   "page_2": 19
   },
   "spouse_or_child_cover": {
    "value": null,

@@ -801,7 +801,9 @@
    "doc": "Policy Document",
    "page": 11,
    "quote": "On complete withdrawal of the Policy, the Proceeds of Discontinued Policy Fund shall be paid at the end of Lock-in-period.",
-   "note": null
+   "note": null,
+   "quote_2": "Stock exchanges with National wide terminals will open 22) “Lock-in period” means the period of five consecutive",
+   "page_2": 1
   },
   "discontinuance_rules": {
    "value": "in lock-in: fund less discontinuance charge goes to the Discontinued Policy Fund; after lock-in: reduced paid-up (SA x premiums paid / payable)",

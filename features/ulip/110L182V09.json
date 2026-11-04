@@ -394,7 +394,9 @@
    "doc": "Policy Document",
    "page": 9,
    "quote": "Each Top-Up Premium shall not be less than Rupees One Thousand",
-   "note": null
+   "note": null,
+   "quote_2": "Rupees One Thousand (Rs.1 ,000). premium payments by written request anytime",
+   "page_2": 9
   },
   "settlement_option": {
    "value": null,

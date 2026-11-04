@@ -64,7 +64,7 @@ spec = {
   'partial_withdrawals': F('Flexi only, after lock-in; min Rs 6,000, max 25% of fund; 3 times in the term; only for stated reasons (education, marriage, house, critical illness, disability, reskilling, own venture)', 'optional (during term)', P, None, 'Partial Withdrawal is allowed only three times during the entire Policy Term.'),
   'systematic_withdrawal_plan': NS(),
   'top_up_premiums': F('Flexi only; additional sum assured 1.05x top-up; locked for 5 years', 'optional (during term)', P, None, 'Every Top-up shall have an Additional Sum Assured which will be 1.05 times of the Top-up premium paid.'),
-  'settlement_option': F('on death, up to 5 years, not with Waiver of Premium', 'optional (during term)', P, None, 'The Settlement Option shall not be available if Waiver of Premium benefit option has been selected at'),
+  'settlement_option': F('on death, up to 5 years, not with Waiver of Premium', 'optional (during term)', P, None, 'The Settlement Option shall not be available if Waiver of Premium benefit option has been selected at', quote_2='maximum period of five (5) years', page_2=18),
   'premium_holiday_or_offset': NS(), 'increase_decrease_cover': NS(),
   'change_ppt_or_term': F('vesting can be postponed (below age 60) on the same terms; brochure also says premium payment term can be altered', 'optional (during term)', P, None, 'Deferment period may be extended within the same policy with the same terms and conditions as the original policy provided the policyholder is below an age of 60 years.'),
   'policy_loan': F(None, 'not offered', P, None, 'There is no facility of loan available from us under this Policy.'),

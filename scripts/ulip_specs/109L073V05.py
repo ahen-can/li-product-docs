@@ -51,7 +51,7 @@ spec = {
   'return_of_mortality_charges': NS(), 'return_of_premium_allocation_charges': NS(), 'return_of_policy_admin_charges': NS(), 'other_additions': NS(),
  },
  'flexibility': {
-  'fund_switching': F('Rs 50 per request; self-managed option only', 'optional (during term)', B, None, 'full freedom to switch from one segregated'),
+  'fund_switching': F('Rs 50 per request; self-managed option only', 'optional (during term)', B, None, 'full freedom to switch from one segregated', quote_2='We currently charge Rs. 50 per request for change in investment option, fund switch, partial', page_2=7),
   'premium_redirection': NS(),
   'partial_withdrawals': F({'from': 'after 5 complete policy years or the life insured turning 18, whichever is later', 'minimum': 'Rs 5,000', 'maximum': 'none; fund must stay at least 50% of basic premium plus 100% of top-ups paid in the last 5 years', 'order': 'top-up fund first'}, 'optional (during term)', B, None,
                            'You are allowed to make unlimited partial withdrawals any time after (a) ﬁve complete policy', quote_2='The minimum amount of partial withdrawal is ` 5,000.', quote_3='maintain a minimum Policy Fund Value of 50% of the basic premium paid plus 100%'),

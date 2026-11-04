@@ -71,7 +71,7 @@ spec = {
   'accidental_death': F('SBI Life - Accident Benefit Rider - Linked (111A042V01)', 'rider', B, None, 'Option A: Accidental Death Benefit (ADB)', quote_2='SBI Life - Accident Benefit Rider - Linked (UIN: 111A042V01): Option A: Accidental Death Benefit (ADB)', page_2=4),
   'riders_available': F([{'name': 'SBI Life - Accident Benefit Rider - Linked', 'UIN': '111A042V01'}, {'name': 'SBI Life - Waiver of Premium Rider - Linked', 'UIN': '111A049V01'}], 'rider', B, None, '(UIN: 111A042V01)'),
  },
- 'surrender_revival': {'lock_in_years': F(5, 'built-in', P, None, 'You can Withdraw post commencement of the 6th Policy Year.'), 'discontinuance_rules': F('IRDAI rules: Discontinued Policy Fund in lock-in, reduced paid-up after', 'built-in', P, None, 'the Death Benefit payable would be equal to the Fund Value of the Discontinued Policy Fund on date of intimation of death claim to Us'),
+ 'surrender_revival': {'lock_in_years': F(5, 'built-in', P, None, 'You can Withdraw post commencement of the 6th Policy Year.', quote_2='Lock-In Period: 5 years from the Date of Commencement of Policy. Definition 36', page_2=7), 'discontinuance_rules': F('IRDAI rules: Discontinued Policy Fund in lock-in, reduced paid-up after', 'built-in', P, None, 'the Death Benefit payable would be equal to the Fund Value of the Discontinued Policy Fund on date of intimation of death claim to Us'),
                        'revival_period': NS(), 'surrender_value_rule': NS()},
 }
 build('111L142V01', spec,

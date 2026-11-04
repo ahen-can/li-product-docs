@@ -374,7 +374,9 @@
    "doc": "HDFC Life Click 2 Invest Plus- 101L191V02- Policy Bond",
    "page": 21,
    "quote": "The Funds in which new Premiums are invested can be changed at any time.",
-   "note": null
+   "note": null,
+   "quote_2": "The Policyholder will not be charged for the first four Premium Redirection requests in each Policy year.",
+   "page_2": 25
   },
   "partial_withdrawals": {
    "value": "after 5 years and age 18; fund must stay at least 150% of AP (25% of SP)",

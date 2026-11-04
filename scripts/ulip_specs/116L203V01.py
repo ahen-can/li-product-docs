@@ -45,7 +45,7 @@ spec = {
                              quote_2='2 Lower of 15% * (AP or FV) subject Lower of 4% * (AP or FV) subject to maximum of `2,000 to maximum of `5,000', quote_3='Lower of 10% * (AP or FV) subject to maximum of `1,500 4 Lower of 5% * (AP or FV) subject Lower of 2% * (AP or FV) subject to maximum of `1,000 to maximum of `2,000', quote_4='5 & above Lower of 3% * (AP or FV) subject to maximum of `4,000 Nil Nil'),
   'switching_charge': F('nil; unlimited free switches', 'built-in', B, None, 'You can make unlimited free switches'),
   'partial_withdrawal_charge': F('nil', 'built-in', B, None, 'No charges would be charged for Partial Withdrawal'),
-  'premium_redirection_charge': F('Rs 100', 'built-in', B, None, 'Miscellaneous charge, as mentioned in the Table of Charges given below, will be applicable for change in'),
+  'premium_redirection_charge': F('Rs 100', 'built-in', B, None, 'Miscellaneous charge, as mentioned in the Table of Charges given below, will be applicable for change in', quote_2='Miscellaneous A miscellaneous charge of Rs.100/-', page_2=19),
   'miscellaneous_charge': F('Rs 100 per transaction', 'built-in', B, None, 'A miscellaneous charge of Rs.100/-'),
   'guarantee_charge': NS(),
   'rider_charges': NS(),

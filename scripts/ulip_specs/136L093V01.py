@@ -93,7 +93,7 @@ spec = {
                         'terminal_illness': NS(), 'spouse_or_child_cover': NS(),
                         'riders_available': NS()},
  'surrender_revival': {
-  'lock_in_years': F(5, 'built-in', B, None, 'before the end of the Lock-in Period'),
+  'lock_in_years': F(5, 'built-in', B, None, 'before the end of the Lock-in Period', quote_2='E. Discontinuance of Policy during Lock-in Period (during ﬁrst ﬁve years):', page_2=21),
   'discontinuance_rules': NS(),
   'revival_period': NS(), 'surrender_value_rule': NS(),
  },

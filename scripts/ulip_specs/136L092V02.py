@@ -55,7 +55,7 @@ spec = {
  },
  'benefits': {
   'death_benefit_formula': F('higher of sum assured (less withdrawals in the last 2 years), fund value and 105% of premiums paid', 'built-in', B, None, 'iii. 105% of all Premiums paid up to the', quote_2='ii. Fund Value as on date of intimation of'),
-  'maturity_benefit': F('fund value at maturity (Forever: life cover runs to age 85)', 'built-in', B, None, 'Fund Value as on the date of'),
+  'maturity_benefit': F('fund value at maturity (Forever: life cover runs to age 85)', 'built-in', B, None, 'Fund Value as on the date of', quote_2='\uf0fc Avail option to get life cover up to 85 years of age under “SecureInvest Forever” option', page_2=2),
   'loyalty_additions': F({'timing': 'end of every 5th policy year from the 10th policy year to the end of the term; percent of the fund average over the last 60 monthly anniversaries', 'limited and regular pay by premium band': {'band 1': '0.75%', 'band 2': '2.00%', 'band 3': '2.25%', 'band 4': '2.50%'}, 'single pay': {'band 1': '0.75%', 'band 2': '3.00%'}}, 'built-in', B, None,
                          '1 0.75% 0.75%', quote_2='2 2.00% 3.00%', quote_3='3 2.25% NA', quote_4='4 2.50% NA'),
   'wealth_boosters_or_guaranteed_additions': F({'name': 'Maturity Booster', 'basis': 'percent of the fund average over the last 60 monthly anniversaries, added at maturity', 'by policy term': {'20 years': '6.50%', '21 to 30 years': '10.00%', '31 to 40 years': '15.00%', '41 years and above': '20.00%'}}, 'built-in', B, None,

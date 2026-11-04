@@ -11,6 +11,14 @@
 
 ---
 
+### 4 Nov 2026 · S2 · ULIP deep: quote cleanup pass
+**Status:** 51 more short-value fields now carry a quote with the number (109 in total). One wrong value found and fixed: SBI Smart Invest Builder (111L153V01) form number is 841, not 859. All 84 files pass validation.
+
+**Left:** 38 short-value fields, mostly Tata and SBI discontinuance and premium paying term rows. Listed in `results/deep_ulip_wave1_report.md`. Tool: `scripts/s2_tools/fq.py`.
+
+**Asks / blockers:** none.
+
+
 ### 4 Nov 2026 · S2 · i Systematic V11 documents in
 **Status:** Tata AIA i Systematic (110L164V11) is rebuilt from your 3 uploads. All 84 JSON files pass validation and the cross-check is clean.
 

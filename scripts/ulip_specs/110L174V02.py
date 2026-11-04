@@ -85,7 +85,7 @@ spec = {
   'riders_available': F('Vitality riders mentioned in the brochure; names not listed', 'rider', B, None, 'Wellness benefits with Vitality Riders'),
  },
  'surrender_revival': {
-  'lock_in_years': F(5, 'built-in', P, None, 'On complete withdrawal of the Policy, the Proceeds of Discontinued Policy Fund shall be paid at the end of Lock-in-period.'),
+  'lock_in_years': F(5, 'built-in', P, None, 'On complete withdrawal of the Policy, the Proceeds of Discontinued Policy Fund shall be paid at the end of Lock-in-period.', quote_2='Stock exchanges with National wide terminals will open 22) “Lock-in period” means the period of five consecutive', page_2=1),
   'discontinuance_rules': F('in lock-in: fund less discontinuance charge goes to the Discontinued Policy Fund; after lock-in: reduced paid-up (SA x premiums paid / payable)', 'built-in', P, None, 'Reduced Paid Up Sum Assured = Basic Sum Assured * (t/n)'),
   'revival_period': F('3 years', 'built-in', P, None, 'To revive the policy within the Revival period of three years,'),
   'surrender_value_rule': F('in lock-in: discontinued fund proceeds after year 5; after: total fund value', 'built-in', P, None, 'the Surrender Value equal to the total Fund Value as on the date of complete withdrawal, shall be payable.'),

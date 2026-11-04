@@ -85,7 +85,9 @@
    "doc": "Tata-AIA-Smart-Raksha-Brochure-V1.pdf",
    "page": 2,
    "quote": "Entry Age1 (in years)",
-   "note": null
+   "note": null,
+   "quote_2": "• Increasing Cover 60 85 Age as on last birthday 1 1 67",
+   "page_2": 2
   },
   "maturity_age_min": {
    "value": "43 years",
@@ -103,7 +105,9 @@
    "doc": "Tata-AIA-Smart-Raksha-Brochure-V1.pdf",
    "page": 2,
    "quote": "Maturity Age1 (in years)",
-   "note": null
+   "note": null,
+   "quote_2": "• Increasing Cover 60 85 Age as on last birthday 1 1 67",
+   "page_2": 2
   },
   "policy_term_options": {
    "value": "25 to 67 years",
@@ -111,7 +115,9 @@
    "doc": "Tata-AIA-Smart-Raksha-Brochure-V1.pdf",
    "page": 2,
    "quote": "Policy Term (in years)",
-   "note": "read from the layout columns and text order"
+   "note": "read from the layout columns and text order",
+   "quote_2": "• Increasing Cover 60 85 Age as on last birthday 1 1 67",
+   "page_2": 2
   },
   "ppt_options": {
    "value": "single (Level Cover only); limited 5 years to term minus 1; regular (equal to term, minimum 25)",
@@ -389,7 +395,9 @@
    "doc": "Policy Document",
    "page": 11,
    "quote": "Each Top-Up Premium shall not be less than Rupees One Thousand",
-   "note": null
+   "note": null,
+   "quote_2": "less than One thousand Rupees (Rs. 1,000) or",
+   "page_2": 16
   },
   "settlement_option": {
    "value": "on maturity",

@@ -54,9 +54,9 @@ Nothing. The Tata AIA i Systematic V11 documents arrived and are stored and used
 
 The brief asks that every quote contains the value itself. `valuecheck.py` compares the numbers in each value with the numbers in its quotes.
 
-- 2,482 fields hold numbers. In 403 of them no number from the value appears in any quote. Most of these are long composite values (a whole charge table summarised in words) whose quote supports the claim but not every digit.
-- 89 of the 403 have a short value ("65 years", "Rs 5,000"). These are the ones to fix first. Per insurer: Tata AIA 21, SBI 17, HDFC 10, Axis Max 14, Bajaj 7, ABSLI 6, Bharti 6, Canara 8.
-- At the end of wave 1, 61 fields in 28 files were redone with value-bearing quotes: 57 got an extra row-level quote (the Tata eligibility rows, SBI and HDFC redirection and switching fields, Bharti switching, Axis, ABSLI, Bajaj, Canara and LIC fields), 3 SBI fields that had no quote now have one, and Bharti Grow Wealth Ultra's administration charge is now a nested table checked against the page image. The original quotes stay in place, so a redone field now has an old quote plus a new one. About 360 older fields were not touched.
+- 2,501 fields hold numbers. In 354 of them no number from the value appears in any quote. Most of these are long composite values (a whole charge table summarised in words) whose quote supports the claim but not every digit.
+- 38 of the 354 have a short value ("65 years", "Rs 5,000"). The leftovers are mostly Tata and SBI discontinuance and premium paying term fields, where the value summarises a table and the page text is too jumbled to quote one row, plus a few HDFC and Canara fields where the quote is on a different page than the number. Per insurer the earlier count was Tata AIA 21, SBI 17, Axis Max 14, HDFC 10, Canara 8, Bajaj 7, ABSLI 6, Bharti 6; most Axis, ABSLI and Bharti ones are now fixed.
+- At the end of wave 1, 109 fields in about 60 files were redone with value-bearing quotes: 57 got an extra row-level quote (the Tata eligibility rows, SBI and HDFC redirection and switching fields, Bharti switching, Axis, ABSLI, Bajaj, Canara and LIC fields), 3 SBI fields that had no quote now have one, and Bharti Grow Wealth Ultra's administration charge is now a nested table checked against the page image. The original quotes stay in place, so a redone field now has an old quote plus a new one. The same pass found one wrong value: SBI Smart Invest Builder's policy document form number was recorded as 859 (copied from a sibling) and is now 841, as printed.
 - Ageas Federal and LIC have no short-value field flagged. The 5 and 6 fields that lack a number in their quotes are composite values.
 
 The Bajaj Smart Wealth Goal VII Child Wealth and Joint Life Wealth variants are now captured as six quoted entries in `new_features_not_in_schema` (eligibility, premium and sum assured, administration charge, fund charges). They are not field by field, because a field cites one document and each variant has its own brochure. Their mortality and discontinuance tables are not captured.
@@ -71,5 +71,5 @@ The Bajaj Smart Wealth Goal VII Child Wealth and Joint Life Wealth variants are 
 
 ## Next steps
 
-1. Fix the 89 short-value fields, starting with Tata AIA and SBI.
+1. Optional: quote one table row for the 38 short-value fields left, mostly Tata and SBI.
 2. Merge this branch so feature list v2 can use the 197 new-feature entries.

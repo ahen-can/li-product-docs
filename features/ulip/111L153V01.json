@@ -33,7 +33,7 @@
    "note": null
   },
   "launch_or_version_date": {
-   "value": "policy document Form No 859",
+   "value": "policy document Form No 841",
    "status": "n/a",
    "doc": "Policy Document",
    "page": 1,
@@ -657,7 +657,9 @@
    "doc": "Policy Document",
    "page": 28,
    "quote": "You can make unlimited Partial Withdraws post commencement of the 6th Policy Year.",
-   "note": null
+   "note": null,
+   "quote_2": "Lock-In Period: 5 years from the Date of Commencement of",
+   "page_2": 7
   },
   "discontinuance_rules": {
    "value": "IRDAI rules: Discontinued Policy Fund in lock-in, reduced paid-up after",

@@ -824,7 +824,9 @@
    "doc": "Download Brochure",
    "page": 7,
    "quote": "before the end of the Lock-in Period",
-   "note": null
+   "note": null,
+   "quote_2": "1. Discontinuance of Policy during Lock-in Period (during first five years):",
+   "page_2": 21
   },
   "discontinuance_rules": {
    "value": null,

@@ -55,7 +55,7 @@ spec = {
  },
  'benefits': {
   'death_benefit_formula': F('higher of sum assured and fund value, at least 105% of all premiums paid; sum assured reduced by partial withdrawals in the last 2 years', 'built-in', B, None, 'higher of Sum Assured or Fund Value (as on the date of death), subject to a minimum of 105% of total premiums received up to the date of death'),
-  'maturity_benefit': F('fund value at maturity; settlement option up to 5 years', 'built-in', B, None, 'equal to the Fund Value, where the Fund Value will be calculated as'),
+  'maturity_benefit': F('fund value at maturity; settlement option up to 5 years', 'built-in', B, None, 'equal to the Fund Value, where the Fund Value will be calculated as', quote_2='instruct us on settlement period (up to 5 years) and the frequency (monthly, quarterly, semiannual or', page_2=21),
   'loyalty_additions': F({'rate': '0.30% of fund value at the end of each policy year from year 11, rising 0.02% (absolute) each year', 'applies': 'regular pay variant, premium-paying policies'}, 'built-in', B, None,
                          '0.30% of Fund Value shall be added to the Fund by creation of additional units, at the end of every policy year', quote_2='It should be noted that the loyalty additions are only payable in case of Regular Pay variant.'),
   'wealth_boosters_or_guaranteed_additions': NS(), 'return_of_mortality_charges': NS(), 'return_of_premium_allocation_charges': NS(), 'return_of_policy_admin_charges': NS(), 'other_additions': NS(),
@@ -86,7 +86,7 @@ spec = {
   'waiver_of_premium_inbuilt': NS(),
   'critical_illness': F('via rider', 'rider', B, None, 'Axis Max Life Critical Illness and Disability Secure Rider (UIN: 104A034V02)'),
   'accidental_death': F('via rider (Smart Ultra Protect, variants 2 and 3)', 'rider', B, None, 'Rider benefit variant 2 - Accidental Death Benefit'),
-  'terminal_illness': F('via rider (Smart Ultra Protect, variant 1)', 'rider', B, None, 'Term Booster with Accelerated Terminal Illness'),
+  'terminal_illness': F('via rider (Smart Ultra Protect, variant 1)', 'rider', B, None, 'Term Booster with Accelerated Terminal Illness', quote_2='• Rider benefit variant 1 - Term Booster with Accelerated Terminal Illness:', page_2=19),
   'spouse_or_child_cover': NS(),
   'riders_available': F(RIDERS, 'rider', B, None, 'Axis Max Life Smart Ultra Protect Rider (UIN: 104A049V03)', quote_2='Axis Max Life Critical Illness and Disability Secure Rider (UIN: 104A034V02)'),
  },

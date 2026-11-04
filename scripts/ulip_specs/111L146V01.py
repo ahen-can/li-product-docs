@@ -50,7 +50,7 @@ spec = {
  },
  'flexibility': {
   'fund_switching': F('2 free a year, then Rs 100; minimum Rs 5,000; allowed during the settlement period too', 'optional (during term)', P, None, 'You can Switch Your Chosen Funds during the Policy Term and also during the Settlement Period, subject to all of the following:'),
-  'premium_redirection': F('from year 2; first free each year, then Rs 100', 'optional (during term)', P, None, 'We will allow Premium Re-direction only from the beginning of the second Policy Year.'),
+  'premium_redirection': F('from year 2; first free each year, then Rs 100', 'optional (during term)', P, None, 'We will allow Premium Re-direction only from the beginning of the second Policy Year.', quote_2='Option of Premium Re-direction from 2nd Policy Year onwards. Part C (II) (14)', page_2=7),
   'partial_withdrawals': F('from year 6; 2 a year, 10 in the term; Rs 5,000 minimum, 15% of fund value maximum', 'optional (during term)', P, None, 'We will allow a maximum of 10 Partial Withdrawals in the entire Policy Term.'),
   'systematic_withdrawal_plan': F(None, 'not offered'),
   'top_up_premiums': F(None, 'not offered', P, None, 'Top up Premiums are not allowed under Your Policy.'),
@@ -72,7 +72,7 @@ spec = {
   'riders_available': F([{'name': 'SBI Life - Waiver of Premium Rider - Linked', 'UIN': '111A049V01'}], 'rider', B, None, 'SBI Life – Waiver of Premium Rider – Linked (UIN: 111A049V01)', 'the brochure\'s eligibility table prints the rider UIN as "111AXXXV01" (placeholder)'),
  },
  'surrender_revival': {
-  'lock_in_years': F(5, 'built-in', P, None, 'You can withdraw post commencement of the 6th Policy Year.'),
+  'lock_in_years': F(5, 'built-in', P, None, 'You can withdraw post commencement of the 6th Policy Year.', quote_2='Lock-In Period: 5 years from the Date of Commencement of Part B Definition', page_2=7),
   'discontinuance_rules': F('IRDAI rules: in lock-in to the Discontinued Policy Fund, after lock-in reduced paid-up', 'built-in', P, None, 'If death occurs during the Lock-In Period and after the Date of Discontinuance in any of the following circumstances, the Death Benefit payable would be equal to Accumulated Value of Your Discontinued Policy Fund'),
   'revival_period': NS(), 'surrender_value_rule': F('surrender allowed any time; value per clause 7', 'built-in', P, None, 'You may Surrender Your Policy any time during the Policy Term.'),
  },

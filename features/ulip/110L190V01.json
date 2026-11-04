@@ -760,7 +760,9 @@
    "doc": "Policy Document",
    "page": 16,
    "quote": "On complete withdrawal of the Policy, the Proceeds of Discontinued Policy Fund shall be paid at the end of Lock-in-period.",
-   "note": null
+   "note": null,
+   "quote_2": "before the expiry of the Grace Period. “Lock-in period” means the period of five",
+   "page_2": 2
   },
   "discontinuance_rules": {
    "value": "in lock-in: fund less discontinuance charge goes to the Discontinued Policy Fund; after lock-in: reduced paid-up (SA x premiums paid / payable)",

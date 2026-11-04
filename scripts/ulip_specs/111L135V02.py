@@ -68,7 +68,7 @@ spec = {
  },
  'protection_add_ons': {'waiver_of_premium_inbuilt': F(None, 'not offered'), 'critical_illness': NS(), 'accidental_death': NS(), 'terminal_illness': NS(), 'spouse_or_child_cover': NS(), 'riders_available': NS()},
  'surrender_revival': {
-  'lock_in_years': F(5, 'built-in', P, None, 'You can withdraw only after completion of lock-in period i.e from 6th Policy Year.'),
+  'lock_in_years': F(5, 'built-in', P, None, 'You can withdraw only after completion of lock-in period i.e from 6th Policy Year.', quote_2='case may be, where applicable. The Lock in Period is the period of five consecutive completed', page_2=35),
   'discontinuance_rules': F('in lock-in: fund less discontinuance charge to the Discontinued Policy Pension Fund; after lock-in: reduced paid-up unless revived or withdrawn', 'built-in', P, None, 'the Fund Value after deducting the applicable discontinuance charges, shall be credited to the Discontinued Policy Pension'),
   'revival_period': F('3 years', 'built-in', P, None, 'If You have opted to revive the Policy within three years but have not revived the Policy'),
   'surrender_value_rule': NS(),

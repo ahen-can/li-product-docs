@@ -89,7 +89,7 @@ spec = {
   'waiver_of_premium_inbuilt': F('3D Life Secure: the company funds 1, 2 or 3 times the future premiums after death, and after critical illness or dismemberment', 'optional (at inception)', B, None, 'Critical Illness and/or Dismemberment: Payable on occurrence of Critical illness and/or dismemberment'),
   'critical_illness': F('3D Life Secure variant: premiums funded on critical illness or dismemberment; also via rider', 'optional (at inception)', B, None, 'Critical illness and/or dismemberment to the Life Insured provided the risk cover under the'),
   'accidental_death': F('via rider (Smart Ultra Protect, variants 2 and 3)', 'rider', B, None, 'Rider benefit variant 2 - Accidental Death Benefit'),
-  'terminal_illness': F('via rider (Smart Ultra Protect, variant 1)', 'rider', B, None, 'Term Booster with Accelerated Terminal Illness'),
+  'terminal_illness': F('via rider (Smart Ultra Protect, variant 1)', 'rider', B, None, 'Term Booster with Accelerated Terminal Illness', quote_2='• Rider benefit variant 1 - Term Booster with Accelerated Terminal Illness:', page_2=3),
   'spouse_or_child_cover': NS(),
   'riders_available': F(RIDERS, 'rider', B, None, 'Axis Max Life Smart Ultra Protect Rider (UIN: 104A049V03)'),
  },

@@ -631,7 +631,9 @@
    "doc": "Policy Document",
    "page": 30,
    "quote": "You can Withdraw post commencement of the 6th Policy Year.",
-   "note": null
+   "note": null,
+   "quote_2": "Lock-In Period: 5 years from the Date of Commencement of Policy. Definition",
+   "page_2": 7
   },
   "discontinuance_rules": {
    "value": null,

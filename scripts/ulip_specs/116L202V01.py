@@ -87,7 +87,7 @@ spec = {
  'protection_add_ons': {'waiver_of_premium_inbuilt': NS(), 'critical_illness': NS(), 'accidental_death': NS(), 'terminal_illness': NS(), 'spouse_or_child_cover': NS(),
    'riders_available': F(['Bajaj Life Linked Accident Protection Rider II (116A057V03)', 'Bajaj Life Care Plus Rider (116A059V01)', 'Bajaj Life Linked New Critical Illness Benefit Rider (116A060V01)'], 'rider', B, None, '1. Bajaj Life Linked Accident Protection Rider II UIN: 116A057V03')},
  'surrender_revival': {
-  'lock_in_years': F(5, 'built-in', B, None, 'The Policyholder will not be able to surrender or withdraw the monies invested in unit linked insurance'),
+  'lock_in_years': F(5, 'built-in', B, None, 'The Policyholder will not be able to surrender or withdraw the monies invested in unit linked insurance', quote_2='discontinuance value (as surrender value) at the end of the lock-in period of five (5) policy years or', page_2=15),
   'discontinuance_rules': F('discontinuance in the first 5 years: fund less charge goes to the Discontinued Life Policy Fund, no cover; revival possible within 3 years', 'built-in', B, None, 'On Discontinuance of regular premiums due during the first five (5) policy years, the policy will be'),
   'revival_period': F('3 years from the first unpaid premium', 'built-in', P, None, 'Revival Period” means the period of three (3) consecutive complete years from the date of first unpaid premium'),
   'surrender_value_rule': F('in lock-in: discontinuance value paid at the end of year 5; after: fund value', 'built-in', B, None, 'On surrender after the lock-in period, the surrender value available will be the Fund Value, as on the date'),

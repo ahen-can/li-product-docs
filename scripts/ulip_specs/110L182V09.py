@@ -56,7 +56,7 @@ spec = {
   'premium_redirection': NS(),
   'partial_withdrawals': F('after 5 policy anniversaries; minimum Rs 6,000; at most 25% of fund; 3 times in the term; counts as advance commutation', 'optional (during term)', P, None, 'Partial Withdrawal is allowed only three times during the entire Policy Term.'),
   'systematic_withdrawal_plan': NS(),
-  'top_up_premiums': F('minimum Rs 1,000', 'optional (during term)', P, None, 'Each Top-Up Premium shall not be less than Rupees One Thousand'),
+  'top_up_premiums': F('minimum Rs 1,000', 'optional (during term)', P, None, 'Each Top-Up Premium shall not be less than Rupees One Thousand', quote_2='Rupees One Thousand (Rs.1 ,000). premium payments by written request anytime', page_2=9),
   'settlement_option': NS(), 'premium_holiday_or_offset': NS(), 'increase_decrease_cover': NS(),
   'change_ppt_or_term': F('vesting can be deferred within the same policy below age 60', 'optional (during term)', P, None, 'You will also have the option to extend the accumulation period or deferment period within the same policy'),
   'policy_loan': NS(),

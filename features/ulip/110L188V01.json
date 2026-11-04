@@ -85,7 +85,9 @@
    "doc": "Brochure",
    "page": 2,
    "quote": "Entry Age1 (in years)",
-   "note": null
+   "note": null,
+   "quote_2": "• Classic 82 • Classic Plus 60 100",
+   "page_2": 2
   },
   "maturity_age_min": {
    "value": "48 years",
@@ -103,7 +105,9 @@
    "doc": "Brochure",
    "page": 2,
    "quote": "Maturity Age1 (in years)",
-   "note": null
+   "note": null,
+   "quote_2": "• Classic 82 • Classic Plus 60 100",
+   "page_2": 2
   },
   "policy_term_options": {
    "value": "30 to 82 years",
@@ -111,7 +115,9 @@
    "doc": "Brochure",
    "page": 2,
    "quote": "Policy Term (in years)",
-   "note": "read from the layout columns"
+   "note": "read from the layout columns",
+   "quote_2": "• Classic 82 • Classic Plus 60 100",
+   "page_2": 2
   },
   "ppt_options": {
    "value": "single; limited 5 years to term minus 1; regular (equal to term, minimum 20)",
@@ -323,7 +329,9 @@
    "doc": "Policy Document",
    "page": 7,
    "quote": "This benefit is applicable for both option Classic & Classic Plus.",
-   "note": null
+   "note": null,
+   "quote_2": "attained age 85 or till end of policy term,",
+   "page_2": 7
   },
   "return_of_premium_allocation_charges": {
    "value": "2x the year 1-4 charges at the end of years 10-13",
@@ -389,7 +397,9 @@
    "doc": "Policy Document",
    "page": 13,
    "quote": "Each Top-Up Premium shall not be less than Rupees One Thousand",
-   "note": null
+   "note": null,
+   "quote_2": "Rupees One Thousand (Rs.1 ,000).",
+   "page_2": 13
   },
   "settlement_option": {
    "value": "on maturity",

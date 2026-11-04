@@ -73,7 +73,7 @@ spec = {
  },
  'flexibility': {
   'fund_switching': F('allowed; 4 free a year', 'optional (during term)', P, None, 'You can ask us to switch the Funds in which your Units are held.'),
-  'premium_redirection': F('any time; 4 free a year', 'optional (during term)', P, None, 'The Funds in which new Premiums are invested can be changed at any time.'),
+  'premium_redirection': F('any time; 4 free a year', 'optional (during term)', P, None, 'The Funds in which new Premiums are invested can be changed at any time.', quote_2='Premium Redirection Charges-The Policyholder will not be charged for the first four premium redirection requests in each Policy year. Thereafter, any premium redirection request from the', page_2=23),
   'partial_withdrawals': F('after 5 years and age 18; fund must stay at least 150% of AP (25% of SP)', 'optional (during term)', P, None, 'You have the option of making Partial Withdrawals at any time after the first 5 years, subject to the'),
   'systematic_withdrawal_plan': F('fixed amount or % at chosen intervals, after 5 policy anniversaries', 'optional (during term)', P, None, 'It is allowed only after five policy anniversaries from the date of issuance of the policy.'),
   'top_up_premiums': F('allowed while premiums are up to date, not in the last 5 years; locked for 5 years', 'optional (during term)', P, None, 'Top-up premiums are not permitted during the last 5 years of the contract.'),
@@ -96,7 +96,7 @@ spec = {
   'terminal_illness': NS(), 'spouse_or_child_cover': NS(), 'riders_available': NS(),
  },
  'surrender_revival': {
-  'lock_in_years': F(5, 'built-in', P, None, 'The proceeds of the discontinued policy shall be refunded only'),
+  'lock_in_years': F(5, 'built-in', P, None, 'The proceeds of the discontinued policy shall be refunded only', quote_2='Expiry Date of Lock-in Period << 5 years from RCD >>', page_2=4),
   'discontinuance_rules': F('in lock-in: fund less discontinuance charge goes to the Discontinued Policy Fund, paid after 5 years; after lock-in: reduced paid-up', 'built-in', P, None, 'the Policy shall be converted into a reduced paid up policy with the paid-up sum'),
   'revival_period': F('3 years from first unpaid premium', 'built-in', P, None, 'The revival period for this product is three years from date of first unpaid premium.'),
   'surrender_value_rule': F('fund value less discontinuance charge; in lock-in paid after year 5', 'built-in', P, None, 'of request for Surrender, the Fund Value as on date of Surrender shall be payable.'),

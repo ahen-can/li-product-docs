@@ -306,7 +306,9 @@
    "doc": "OSP_Prospectus_035b336976.pdf",
    "page": 25,
    "quote": "There is no charge for premium redirection.",
-   "note": null
+   "note": null,
+   "quote_2": "There is no charge for premium redirection. A maximum of six premium redirections are allowed in",
+   "page_2": 25
   },
   "miscellaneous_charge": {
    "value": "none",
@@ -363,7 +365,9 @@
    "doc": "OSP_Prospectus_035b336976.pdf",
    "page": 1,
    "quote": "equal to the Fund Value, where the Fund Value will be calculated as:",
-   "note": null
+   "note": null,
+   "quote_2": "Settlement Period = 5 years; Frequency = Quarterly",
+   "page_2": 19
   },
   "loyalty_additions": {
    "value": null,
@@ -799,7 +803,9 @@
    "doc": "OSP_Prospectus_035b336976.pdf",
    "page": 17,
    "quote": "Term Booster with Accelerated Terminal Illness",
-   "note": null
+   "note": null,
+   "quote_2": "Riders • Rider benefit variant 1 - Term Booster with Accelerated Terminal",
+   "page_2": 17
   },
   "spouse_or_child_cover": {
    "value": null,
