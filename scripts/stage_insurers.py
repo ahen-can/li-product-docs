@@ -19,9 +19,16 @@ try:
     slugs |= {slug_of_row[r['row_id']] for r in csv.DictReader(io.StringIO(head))}
 except subprocess.CalledProcessError:
     pass
+now = set(sys.argv[1:])
+def head_rows(path):
+    try: return list(csv.DictReader(io.StringIO(subprocess.run(['git', 'show', f'HEAD:{path}'], capture_output=True, text=True, check=True).stdout)))
+    except subprocess.CalledProcessError: return []
 def filt(path, key):
     rows = list(csv.DictReader(open(path))); cols = list(rows[0].keys()) if rows else open(path).readline().strip().split(',')
-    keep = [r for r in rows if key(r) in slugs]
+    # insurers committed in this call: working-tree rows; other committed insurers: rows exactly as in HEAD
+    keep = [r for r in rows if key(r) in now] + [r for r in head_rows(path) if key(r) in slugs - now]
+    order = {m['row_id']: i for i, m in enumerate(M)}
+    keep.sort(key=lambda r: order.get(r.get('row_id', ''), 0) if 'row_id' in r else 0)
     s = io.StringIO(); w = csv.DictWriter(s, fieldnames=cols, lineterminator='\r\n'); w.writeheader(); w.writerows(keep)
     return s.getvalue()
 files = {

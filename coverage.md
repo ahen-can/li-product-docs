@@ -7,7 +7,7 @@ could be verified. "Not found" means the script and a manual look at the site di
 | Insurer | In-scope active products (master list) | Policy doc found | Brochure found | BI/CIS found | Not found | Manual / unavailable | Not published | Not run yet |
 |---|---|---|---|---|---|---|---|---|
 | Acko Life | 2 | 0 | 2 | 0 | 0 | 0 | 0 | 0 |
-| Aditya Birla Sun Life | 34 | 1 | 33 | 0 | 0 | 0 | 0 | 0 |
+| Aditya Birla Sun Life | 34 | 2 | 32 | 0 | 0 | 0 | 0 | 0 |
 | Ageas Federal Life | 23 | 1 | 21 | 0 | 1 | 0 | 0 | 0 |
 | Aviva Life | 17 | 2 | 15 | 0 | 0 | 0 | 0 | 0 |
 | Axis Max Life | 26 | 4 | 22 | 0 | 0 | 0 | 0 | 0 |
@@ -30,7 +30,7 @@ could be verified. "Not found" means the script and a manual look at the site di
 | Shriram Life | 26 | 1 | 25 | 0 | 0 | 0 | 0 | 0 |
 | Star Union Dai-ichi Life | 33 | 0 | 0 | 0 | 0 | 0 | 0 | 33 |
 | Tata AIA Life | 38 | 1 | 34 | 0 | 3 | 0 | 0 | 0 |
-| **Total** | 633 | 22 | 494 | 0 | 11 | 0 | 0 | 106 |
+| **Total** | 633 | 23 | 493 | 0 | 11 | 0 | 0 | 106 |
 
 ## Manual-download list
 Products whose documents could not be fetched automatically. Each line gives the product, UIN, the insurer page to visit, and which document is missing.

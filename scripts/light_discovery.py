@@ -50,6 +50,7 @@ SEEDS = {
 }
 BROCHURE_WORDS = re.compile(r'brochure|sales[-_ ]?lit|prospectus|leaflet|\bsl\b|_sl_|-sl-|one[-_ ]?pager|product[-_ ]?info', re.I)
 POLICY_WORDS = re.compile(r'policy[-_ ]?(doc|wording|bond|contract)|terms[-_ ]?and[-_ ]?conditions|specimen|\bpd\b|_pd_|-pd-', re.I)
+LEAFLET = re.compile(r'leaflet|one[-_ ]?pager|flyer', re.I)
 BAD_WORDS = re.compile(r'hindi|marathi|tamil|telugu|kannada|gujarati|bengali|malayalam|odia|punjabi|regional|claim|form|proposal|'
                        r'fund[-_ ]?fact|factsheet|newsletter|withdrawn|rider', re.I)
 D_ = r'\s*[-‐-―]?\s*'          # hyphen / en-dash / em-dash, with stray spaces ("Non –Linked", "Non- Linked")
@@ -300,7 +301,8 @@ def main():
                     sc = score(u, t, prod, on_product_page=(pg in prod_pages))
                     if u not in cands or sc > cands[u][0]: cands[u] = (sc, pg, t)
             # also follow the product's own page if a seed page links to it by name (one hop)
-            if pg in SEEDS.get(slug, []) and not prod.get('website_product_page_url'):   # only when the product page is unknown
+            if pg in SEEDS.get(slug, []) and (not prod.get('website_product_page_url')
+                                              or prod['website_product_page_url'] in SEEDS.get(slug, [])):   # product page unknown
                 toks = name_tokens(prod['product_name'])
                 for u, t in page_links(pg, a.tmp):
                     if toks and not u.lower().endswith('.pdf') and not BROCHURE_WORDS.search(u) and sum(1 for k in toks if k in (u + ' ' + t).lower()) >= max(1, len(toks) - 1) \
@@ -309,7 +311,10 @@ def main():
         allr = sorted(((v[0], u, v[1], v[2]) for u, v in cands.items() if v[0] >= 4), reverse=True)
         is_pol = lambda u, t: bool(POLICY_WORDS.search(urllib.parse.unquote(u) + ' ' + t)) and not BROCHURE_WORDS.search(urllib.parse.unquote(u) + ' ' + t)
         # brochures first; a policy document only as a fallback (brief: same description line)
-        ranked = [x for x in allr if not is_pol(x[1], x[3])][:8] + [x for x in allr if is_pol(x[1], x[3])][:3]
+        is_leaf = lambda u, t: bool(LEAFLET.search(urllib.parse.unquote(u) + ' ' + t))
+        # brochures first, then a policy document (same description line), leaflets/one-pagers only as a last resort (README)
+        ranked = [x for x in allr if not is_pol(x[1], x[3]) and not is_leaf(x[1], x[3])][:8] + \
+                 [x for x in allr if is_pol(x[1], x[3])][:3] + [x for x in allr if is_leaf(x[1], x[3]) and not is_pol(x[1], x[3])][:3]
         if a.dry_run:
             print(prod['product_name'], prod['uin'], '->', [(round(s, 1), u[-80:]) for s, u, _, _ in ranked]); continue
         ok = False; big = ''; ocr_tries = 0
@@ -339,7 +344,8 @@ def main():
             if len(body) > 95 * 1024 * 1024:
                 big = u; continue                                     # CLAUDE.md: never add a file over 95 MB
             if subprocess.run(['pdfinfo', tmp], capture_output=True).returncode != 0: continue   # pdfinfo must open it
-            doc_type = 'brochure' if BROCHURE_WORDS.search(urllib.parse.unquote(u) + ' ' + t) or not POLICY_WORDS.search(urllib.parse.unquote(u) + ' ' + t) else 'policy'
+            doc_type = 'leaflet' if LEAFLET.search(urllib.parse.unquote(u) + ' ' + t) and not POLICY_WORDS.search(urllib.parse.unquote(u) + ' ' + t) else \
+                       'brochure' if BROCHURE_WORDS.search(urllib.parse.unquote(u) + ' ' + t) or not POLICY_WORDS.search(urllib.parse.unquote(u) + ' ' + t) else 'policy'
             uin_dir = prod['uin'] or ('NOUIN-' + re.sub(r'[^a-z0-9]+', '-', prod['product_name'].lower())[:40])
             d_doc = os.path.join('docs', slug, uin_dir); d_txt = os.path.join('text', slug, uin_dir)
             os.makedirs(d_doc, exist_ok=True); os.makedirs(d_txt, exist_ok=True)
@@ -368,6 +374,7 @@ def main():
                         'notes': '; '.join(x for x in [('' if prod['uin'] in uins else f"document shows {','.join(uins)}"),
                                                      ocr_used, o_note, ocr_note,
                                                      ('brochure not verified (UIN missing/different); policy document used' if doc_type == 'policy' else ''),
+                                                     ('no verified brochure or policy document; leaflet used' if doc_type == 'leaflet' else ''),
                                                      (f"same file as {dup['doc_id']}" if dup else '')] if x)})
             with open('index.csv', 'a', newline='') as fh: csv.DictWriter(fh, fieldnames=idx_cols).writerow(row)
             res.update(status='ok', doc_type=doc_type, source_url=eff or u, found_on_page_url=pg, uin_in_document=','.join(uins),
@@ -398,13 +405,16 @@ def save(resf, done, M, checklist=True):
         w = csv.DictWriter(fh, fieldnames=cols); w.writeheader(); w.writerows(rows)
     os.replace(resf + '.tmp', resf)
     if not checklist: return
+    blk = {}
+    if os.path.exists('results/manual_checklist_blocked_sites.csv'):
+        blk = {r['uin']: r['where_to_look'] for r in csv.DictReader(open('results/manual_checklist_blocked_sites.csv'))}
     with open('results/manual_checklist.csv', 'w', newline='') as fh:
         w = csv.writer(fh); w.writerow(['insurer', 'product_name', 'uin', 'reason', 'where_to_look'])
         for r in done.values():
             if r['status'] != 'ok':
                 p = next((m for m in M if m['row_id'] == r['row_id']), {})
                 w.writerow([r['insurer'], r['product_name'], r['uin'], r['notes'],
-                            p.get('website_product_page_url') or (SEEDS.get(p.get('insurer_slug', ''), ['insurer website'])[0] if SEEDS.get(p.get('insurer_slug', '')) else 'insurer website')])
+                            p.get('website_product_page_url') or blk.get(r['uin']) or (SEEDS.get(p.get('insurer_slug', ''), ['insurer website'])[0] if SEEDS.get(p.get('insurer_slug', '')) else 'insurer website')])
 
 if __name__ == '__main__':
     main()

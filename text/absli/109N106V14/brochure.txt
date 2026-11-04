@@ -8,52 +8,125 @@ A non–linked non–participating life insurance plan
   paying an additional premium
    INTRODUCING ABSLI Guaranteed Milestone Plan
 
-Nothing is more important than your family’s happiness. You work hard to earn & strive to fulﬁl
-everything your loved ones wish for. In today’s unpredictable times, having your family’s future &
-dreams secured is very essential. Presenting the Aditya Birla Sun Life Insurance Guaranteed
-Milestone Plan that recognises the value of family’s happiness. Now, protection for your family is
-guaranteed, even in your absence.
+Everyone in their life wants to look after the well-being of one’s family members. You strive hard
+to earn and fulﬁl every dream of your loved ones under all circumstances. In today’s world, given
+the unpredictable circumstances, you want to ensure that your family’s ﬁnancial future is
+protected, and their dreams are secured.
+
+Presenting ABSLI Guaranteed Milestone Plan which recognises that guaranteeing your family’s
+happiness is of paramount importance to you and helps you fulﬁl your responsibilities even in
+your absence.
 
 
 
-   KEY FEATURES
 
-          Fully guaranteed1 beneﬁts on death or maturity
+   KEY FEATURES OF THE PL AN
+
+          Fully guaranteed* beneﬁts on death or maturity
 
 
   L
-          Guaranteed1 Additions that boosts your corpus year on year
+          Guaranteed* Additions that boosts your corpus year on year
+
+          Flexibility to cover your spouse also by choosing Joint Life Protection by
+          paying an additional premium
+
+          Flexibility to choose the policy term
 
 
-          Enhance your cover with appropriate riders3
-
-          Option to cover your spouse by choosing Joint Life Protection by paying an
-          additional premium
-
-
-          Tax Benefits2 under Section 126 of the Income-tax Act, 2025
+      R
+          Flexibility to enhance your insurance cover with appropriate rider options by
+          paying an additional premium
 
 
-          Provided all premiums are paid 2Tax benefits are subject to changes in tax laws. You are advised to
-          1
+          *
+              Provided all due premiums are paid.
+  PLAN ELIGIBILITY
 
-          consult your tax advisor for details. 3There are exclusions attached to the riders. Please refer rider
-          brochure for more details
-    YOUR BENEFIT S
+  Entry Age (age last birthday)                  30 days* - 60 years
+
+  Policy Term                                    12, 14, 16, 18, 20, 22, 24 & 26 years
+
+  Premium Paying Term                            6 years for policy term of 12/14
+                                                 8 years for policy term of 16/18
+                                                 10 years for policy term of 20/22
+                                                 12 years for policy term of 24/26
+
+  Minimum Maturity Age                           18 years
+  Minimum Premium                                R15,000
+
+  Sum Assured                                    15 X Annualized Premium
+
+  Minimum Sum Assured                            R2,25,000
+  Minimum Sum Assured on maturity                R90,000
+  Premium Mode                                   Annual, Semi Annual, Quarterly and Monthly
+
+* risk commences from the ﬁrst policy anniversary
+The sum assured on death for life insured/primary life insured is same as deﬁned in the death
+beneﬁt section below. In case of joint life the death beneﬁt for the secondary life insured will be
+20% of the sum assured in the table above.
+Sum assured on maturity is deﬁned in the maturity beneﬁt section below.
+
+
+
+  PREMIUMS
+
+Your policy beneﬁts will depend on the amount of premium and the policy term you select. For
+easy reference, your premium is banded as follows:
+
+ Premium Band                           Band 1                  Band 2                   Band 3
+ Annualized Premium (Rs .)^        15,000 to 49,999        50,000 to 99,999        100,000 & above +
+
+(^Annualized Premium is the premium amount payable in a year chosen by you, excluding the
+taxes, rider premiums, underwriting extra premiums and loadings for modal premiums, if any)
+You may choose to pay your premium annually, semi-annually, quarterly or monthly as per your
+convenience. Modal loadings are given below:
+
+ Mode                      Annual            Semi Annual           Quarterly             Monthly
+ Modal Loading                0%                 2.00%               3.00%                4.00%
+
+
+
+
+  HOW DOES THE PLAN WORK?
+
+Step 1: Choose your premium
+        You choose the amount of premium you commit to pay during the premium paying
+        term. Your Sum Assured will be 15 times the annualized premium amount you commit
+        to pay in a policy year.
+
+Step 2: Choose your policy term
+        You choose the number of years for which you want to be protected and then you
+        receive your savings. You can choose a policy term of 12, 14, 16, 18, 20, 22, 24 & 26 years.
+  YOUR BENEFIT S
 
 Death Beneﬁt
 For Single Lif e
 In case of the unfortunate demise of the life insured during the policy term, the Sum Assured on
-Death4 will be paid to the nominee in 10 equal annual instalments.
-On acceptance of the death claim we shall pay immediately the ﬁrst annual instalments of the
+Death will be paid to the nominee in 10 equal annual installments.
+
+Sum Assured on Death will be highest of:
+  • Sum Assured as an absolute amount to be paid on death; or
+  • 105% of the Total Premiums Paid up to the date of death; or
+  • 10 times of the Annualized Premium
+
+“Total Premiums Paid” means total of all the premiums received, excluding any extra premium,
+any rider premium and taxes.
+
+On acceptance of the death claim we shall pay immediately the ﬁrst annual installment of the
 Sum Assured on Death along with the excess amount, if any, of Sum Assured on maturity plus
-accrued Guaranteed Additions over the Sum Assured.
+accrued Guaranteed Additions over the Sum Assured. The subsequent annual installments shall
+be paid on each death anniversary of the Life Insured starting from the ﬁrst death anniversary
+till the ninth death anniversary. If the date of acceptance of the death claim is one year or more
+after the date of death, the ﬁrst payment made shall include all instalments due up to the date
+of acceptance.
+In case the nominee would like to get a lump sum payment instead of the annual installments,
+we will pay the discounted value of the outstanding annual installments as a lump sum. The
+discounted value currently shall be calculated using an interest rate of 8.25% per annum for all
+Premium Paying Terms. This interest rate is subject to change in future with prior IRDA of India
+approval.
 In case where the death of the Life Insured takes place prior to risk commencement date, only
 the premiums paid to date (excluding applicable taxes) shall be payable as the Death Beneﬁt.
-4
-For more details regarding this beneﬁt, refer to the brochure.
-
-
 
 For Joint Life
 Under this option, two lives i.e. you (primary life insured) and your spouse (secondary life insured)
@@ -63,38 +136,37 @@ the inception of the policy subject to the attained age of primary life insured 
 insured is less than or equal to 50 years. No rider can be opted under this option and this option
 cannot be discontinued except due to the unfortunate demise of either of the lives who are
 insured.
-
-Unfortunate death of the primar y life insured prior to the secondary life insured:
+Unfortunate death of the primary life insured prior to the secondary life insured:
   • Death beneﬁt shall be paid in annual installments to the spouse (secondary life insured)
-    and the same can be opted as lump sum payment as explained above.
+      and the same can be opted as lump sum payment as explained above.
   • Secondary life insured will become the sole policyholder and receive the maturity beneﬁt.
   • Life cover for the secondary life insured will continue without any future premiums to be
-    paid.
+      paid.
   • On subsequent death of the secondary life insured during the policy term the applicable
-    death beneﬁt shall be paid to the nominee as a lump sum. On maturity date the maturity
-    beneﬁt shall be paid to the nominee.
+      death beneﬁt shall be paid to the nominee as a lump sum. On maturity date the maturity
+      beneﬁt shall be paid to the nominee.
 
-Unfortunate death of the secondary life insured prior to the primar y life insured
+Unfortunate death of the secondary life insured prior to the primary life insured
   • Applicable death beneﬁt shall be paid immediately to the primary life insured as a lumpsum
   • Primary life insured will become the sole policyholder. Policy will continue with all beneﬁts
-    (including the insurance cover on primary life insured) with premiums to be paid when due.
-    Maturity beneﬁt shall be paid to the primary life insured on maturity date
+     (including the insurance cover on primary life insured) with premiums to be paid when due.
+     Maturity beneﬁt shall be paid to the primary life insured on maturity date
   • On subsequent death of the primary life insured during the policy term, the applicable
-    death beneﬁt shall be paid to the nominee in annual installments and the same can be
-    opted as lump sum payment as explained above. On maturity date the maturity beneﬁt
-    shall be paid to the nominee
+     death beneﬁt shall be paid to the nominee in annual installments and the same can be
+     opted as lump sum payment as explained above. On maturity date the maturity beneﬁt
+     shall be paid to the nominee
 
-Unfortunate death of both the primar y and secondary life insured together
+Unfortunate death of both the primary and secondary life insured together
   • Applicable death beneﬁt for the respective lives insured shall be paid to the nominee –
-    annual installments for the death beneﬁt of primary life insured and lumpsum for the
-    death beneﬁt of secondary life insured respectively
+     annual installments for the death beneﬁt of primary life insured and lumpsum for the
+     death beneﬁt of secondary life insured respectively
   • Policy will continue without any future premiums to be paid and on maturity date the
-    maturity beneﬁt shall be paid to the nominee
+     maturity beneﬁt shall be paid to the nominee
 
 
 Maturity Beneﬁt
 In the event the life insured survives to the end of the policy term, we shall pay to you
-   • Sum Assured on maturity; plus
+   • Sum Assured on maturity ; plus
    • Accrued Guaranteed Additions
 
 Sum Assured on maturity is the amount which is guaranteed to become payable on maturity of
@@ -107,93 +179,333 @@ Guaranteed Additions will accrue on monthly basis to the policy on each policy m
 maturity; provided all due premiums have been paid and shall be payable in event of death of life
 insured or policy maturity whichever is earlier. Guaranteed Additions per annum shall be
 determined based on the premium amount you commit to pay, premium band, sum assured, the
-entry Age of the life insured, Joint Life Protection option and policy term chosen.
-Please refer to the product brochure for more details.
-
-
-
-
-    Illustration
-
-Rahul is 35 years old and pays Annualized Premium5 of `50,000 (excl. GST) with policy term of 20
-years and premium paying term of 10 years with a Sum Assured of `7,50,000.
-
-
-                                You Give - R5,00,000         You Get - R10,33,760
-
-
-     Age                                                                                                  Age
-      35                                                                                                  55
-                    Premium - `50,000 p.a.
-
-
-     Year   1   2      3    4    5    6      7   8 Year 10       11   12   13   14     15   16    17   18 Year
-      0                                             9                                                      19
-
-
-                                                                                     Maturity Beneﬁt `10,33,760
-
-5
- The premium excludes underwriting extra premium, frequency loadings on premiums, the
-premiums paid towards the riders, if any and Goods & Service Tax (if any).
-
+entry Age of the life insured, Joint Life Protection option and policy term chosen. In case of Joint
+Life Protection option, the Guaranteed Additions shall accrue on the sum assured applicable for
+the primary life insured and shall be payable on policy maturity. Please ask your ﬁnancial advisor
+for an illustration of the Guaranteed Additions applicable to your policy or refer to your policy
+contract for further details.
 
 
 Customisable Beneﬁts
 For added protection, you can enhance your insurance coverage during the policy term by adding
 following riders for a nominal extra cost.
+  • ABSLI Accidental Death and Disability Rider (UIN: 109B018V03)
+  • ABSLI Critical Illness Rider (UIN: 109B019V03)
+  • ABSLI Surgical Care Rider (UIN: 109B015V03)
+  • ABSLI Hospital Care Rider (UIN: 109B016V03)
+  • ABSLI Waiver of Premium Rider (UIN: 109B017V03)
+  • ABSLI Accidental Death Beneﬁt Rider Plus (UIN: 109B023V02)
+Riders are not available for Joint Life Protection Option.
+You can only opt for either ABSLI Accidental Death and Disability Rider or ABSLI Accidental Death
+Beneﬁt Rider Plus
+
+All the above riders would provide cover independent to each other and in case any incidence of
+covered event qualiﬁes for the beneﬁt under more than one rider, the policyholder will be
+entitled for the rider beneﬁts under each of those riders.
+
+In no case, the rider premium relatable to health related or critical illness rider shall exceed 100%
+of premium under the basic product. All other riders put together shall be subject to ceiling of
+30% of premium of basic product.
+
+Any beneﬁt arising under each of the above-mentioned riders shall not exceed the sum assured
+under the base product except for Accidental death beneﬁt riders where the rider sum assured
+is limited to a maximum of three times of base sum assured
 Please refer to detailed brochures on riders, consult your ﬁnancial advisor or visit our website for
 further details.
-    PLAN ELIGIBILITY
 
-    Entry Age (age last birthday)          30 days6 - 60 years
+Reduced Paid-Up Beneﬁts
+If you discontinue paying premiums after having paid premiums for at least one full year, your
+policy will not lapse but continue on a Reduced Paid-Up basis. Under Reduced Paid-Up, Sum
+Assured, Sum Assured on Death, on maturity shall be reduced in proportion to the premiums
+actually paid to the total premiums payable during the policy term.
 
-    Policy Term                            12, 14, 16, 18, 20, 22, 24 & 26 years
+Guaranteed Additions shall not be reduced and remain attached to the policy. No new
+guaranteed additions will accrue to the policy.
 
-    Premium Paying Term                    6 years for policy term of 12/14
-                                           8 years for policy term of 16/18
-                                           10 years for policy term of 20/22
-                                           12 years for policy term of 24/26
+Rider Beneﬁt, if any will cease.
 
-    Minimum Maturity Age                   18 years
-    Minimum Premium                        R15,000
+Once the policy has become Reduced Paid-Up, the beneﬁts payable in the “Your Beneﬁts” section
+are amended as follows:
 
-    Sum Assured                            15 X Annualized Premium
+Death Beneﬁt
+In the unfortunate event of the death of the life insured during the policy term, we shall pay
+reduced Sum Assured on Death. The RPU Sum Assured on Death will be paid to the nominee as
+an annual installment equal to 10% of RPU Sum Assured on Death in 10 equal annual installments.
+The ﬁrst annual installment shall be paid on the acceptance of the death claim along with the
+additional lump sum amount which is the excess, if any, of reduced Sum Assured on maturity
+plus accrued Guaranteed Additions over the reduced Sum Assured. The subsequent annual
+installment shall be paid on each death anniversary of the Life Insured starting from the ﬁrst
+death anniversary till the ninth death anniversary.
 
-    Minimum Sum Assured                    R2,25,000
-    Minimum Sum Assured on maturity        R90,000
-    Premium Mode                           Annual, Semi Annual, Quarterly and Monthly
+Under Joint Life Protection, in event of death of the primary life insured, RPU Sum Assured on
+Death as stated in RPU Death Beneﬁt section will be paid. In event of death of the secondary life
+insured, reduced applicable sum assured will be paid. The policy will continue and the Maturity
+Beneﬁt as stated in the RPU Maturity Beneﬁt section will be paid on maturity date.
 
-Risk commences from the ﬁrst policy anniversary.
-6
+
+Maturity Beneﬁt
+On maturity date, you shall receive reduced Sum Assured on maturity plus Guaranteed Additions
+accrued till the due date of the ﬁrst unpaid premium.
+      HOW DOES THE PLAN WORK?
+Entry Age        : 35 years                                    Annualized Premium* : R50,000
+Gender           : Male                                        Premium Paying Term : 10 years
+Policy Term      : 20 years                                    Payment Frequency : Annual
+Sum Assured      : R7,50,000
+
+                               Annualized                                      Guaranteed
+     Policy    Annualized                        Guaranteed
+                                Premiums                               Death            Maturity
+    Year End    Premium*                          Additions
+                               Paid to Date                           Beneﬁt             Beneﬁt
+       1         50,000          50,000             26,688            7,50,000              -
+       2         50,000         1,00,000             53,376           7,50,000              -
+       3         50,000         1,50,000            80,064            7,50,000              -
+       4         50,000         2,00,000           1,06,752           7,50,000              -
+       5         50,000         2,50,000           1,33,440           7,50,000              -
+       6         50,000         3,00,000            1,60,128          7,50,000              -
+       7         50,000         3,50,000           1,86,816           7,50,000              -
+       8         50,000         4,00,000           2,13,504           7,50,000              -
+       9         50,000         4,50,000           2,40,192           7,50,000              -
+      10         50,000         5,00,000           2,66,880           7,66,880              -
+      11            -               -              2,93,568            7,93,568             -
+      12            -               -              3,20,256           8,20,256              -
+      13            -               -              3,46,944           8,46,944              -
+      14            -               -              3,73,632            8,73,632             -
+      15            -               -              4,00,320           9,00,320              -
+      16            -               -              4,27,008           9,27,008              -
+      17            -               -              4,53,696           9,53,696              -
+      18            -               -              4,80,384           9,80,384              -
+      19            -               -              5,07,072           10,07,072             -
+      20            -               -              5,33,760           10,33,760         10,33,760
+*
+ The premium excludes underwriting extra premium, frequency loadings on premiums, the
+premiums paid towards the riders, if any and Goods & Service Tax (if any).
+This is not a beneﬁt illustration. Please visit our website or ask your ﬁnancial advisor for the
+complete beneﬁt illustration for your policy.
+
+
+
+
+      YOUR OPTIONS
+
+Surrendering your Policy
+This Policy shall acquire a Surrender Value provided One Full Year Premium for the ﬁrst Policy
+Year has been received by Us. The Policyholder can Surrender the Policy at any time during the
+Policy Term. The Policy will terminate after payment of the Surrender Value and thereafter no
+other beneﬁts under this Policy shall be payable. Where One Full Year Premium for the ﬁrst
+Policy Year has been received by Us and the Policyholder opts to surrender the Policy at any time
+during the Policy Term, the Surrender Value payable will be equal to the Special Surrender Value.
+Where the Policyholder opts to surrender the policy in the ﬁrst policy year, The Surrender Value
+will be payable only at the end of the ﬁrst Policy Year.
+
+However, where all the due Instalment Premiums for the ﬁrst two Policy Years have been
+received by Us, the Surrender Value payable will be equal to the higher of Guaranteed Surrender
+Value and Special Surrender Value.
+
+Where, Guaranteed Surrender Value (GSV) shall be apercentage of Total Premiums Paid
+Your Policy also acquires a Special Surrender Value (SSV). Special Surrender Value (SSV) is
+determined by the Company from time- to- time basis changing economic scenario & calculated
+in accordance with applicable IRDAI regulation. The Company may revise the SSV factors based
+on the then prevailing market conditions. Any change in the methodology/formula for
+calculating the SSV factors shall be subject to IRDAI approval. Please ask your ﬁnancial advisor
+for an illustration of the Special Surrender Values applicable to your policy or refer to your policy
+contract for further details. Kindly refer to the policy contract on the website for the surrender
+value table.
+
+Taking a Policy Loan
+You may take a loan against your policy on completion of the ﬁrst policy year once policy has
+acquired a surrender value. The minimum loan amount is R5,000 and the maximum up to 85% of
+your surrender value. We will charge the interest on the outstanding policy loan balance at a rate
+equal to the base rate of the State Bank of India plus 100 basis points (i.e. absolute 1%). We shall
+declare the Loan Interest Rate applicable to all policies under this product on June 1st of every
+calendar year. The compound interest rate applicable as on June 1st, 2025 is 11.40% p.a. Any
+change in basis of determination of interest rate for Policy loan can be done only after prior
+approval of IRDAI. The interest charged by us on any outstanding policy loan balance accrues on
+a daily basis Any outstanding loan balance will be recovered by us from policy proceeds due for
+payment and will be deducted before any beneﬁt is paid under the policy. Should the
+outstanding policy loan balance equal or exceed the surrender value of your policy at any time,
+then the policy shall be terminated without value. Note that prior to this happening, we shall
+give you an opportunity to repay all or part of your outstanding loan balance in order for your
+policy to continue uninterrupted.
+  TERMS AND CONDITIONS
+
+Free-look Period
+Policyholder will have the right to return the policy within 30 days from the date of receipt of the
+policy, in case he/she disagrees with the terms & conditions of the policy. ABSLI will refund the
+premium paid post receipt of written notice of cancellation (along with reasons thereof)
+together with the original Policy document from the policyholder. ABSLI may reduce the amount
+of refund by proportionate risk premium for the period of cover and expenses incurred by ABSLI
+on medical examination of the Life Insured, if any and stamp duty charges at the time of issuing
+the policy in accordance to IRDAI (Protection of Policyholders Interests, Operations and Allied
+Matters of Insurers) Regulations, 2024
+
+
+Grace Period
+If you are unable to pay your premium by the due date, you will be given a grace period of 30 days
+(15 days for monthly mode) and during this grace period all coverage under your policy will
+continue. If you do not pay your premium within the grace period, the following will be applicable:
+   a. In case you have not paid premiums for one full year, then all beneﬁts under your policy will
+      cease immediately.
+   b. In case you have paid premiums for at least one full year, then your policy will be continued
+      on a Reduced Paid-Up basis.
+
+
+Revival
+You can revive your policy for its full coverage within ﬁve years from the due date of the ﬁrst
+unpaid premium by paying all outstanding premiums together with interest as declared by us on
+June 1st of each calendar year and is determined as (x+1%)/12 rounded to the next 0.5%, where x
+is the base rate of the State Bank of India. The monthly interest rate declared as on June 1st,
+2025 is 1% per month. and by providing evidence of insurability satisfactory to us. Upon revival,
+your beneﬁts shall be restored to their full value. Any change in basis of determination of
+interest rate for revival can be done only after prior approval of IRDAI. If a lapsed policy is not
+revived within ﬁve years, the policy shall be terminated, and no value is payable to You.
+
+
+Termination of the Policy
+Your policy shall immediately and automatically terminate on the earliest occurrence of any of
+the following events:
+For a single life policy
+  a. The date of settlement of the death beneﬁt; or
+  b. The date of payment of the surrender value; or
+  c. The date of payment of the maturity beneﬁt; orThe date on which the revival period ends
+      after the policy has lapsed if fewer than one full year of premiums have been paid; or
+  d. The date of early termination of the policy by the Policyholder before the policy acquires
+      any paid–up value; or
+  e. The date on which the outstanding loan amount exceeds the surrender value;
+  f. The date on payment of free look cancellation amount.
+For a joint life policy
+  a. The date of payment of the surrender value; or
+  b. The date of payment of the maturity beneﬁt; or
+  c. The date on which the revival period ends after the policy has lapsed if fewer than one full
+      years of premiums have been paid; or
+  d. The date of early termination of the policy by the Policyholder before the policy acquires
+      any paid–up value; or
+  e. The date on which the outstanding loan amount exceeds the surrender value;
+  f. The date on payment of free look cancellation amount.
+
+
+Goods and Services Tax (GST), Income Tax and Cess
+GST, as applicable, will be levied as per the extant tax laws.
+
+Current Tax Beneﬁts
+You may be entitled to certain applicable tax beneﬁts on the premiums paid and beneﬁts
+received under Your Policy. Please note that all the tax beneﬁts are subject to tax laws prevailing
+at the time of payment of premium or receipt of beneﬁts by you. It is advisable to seek an
+independent tax advice.
+
+
+Suicide Exclusions
+If the Life Insured dies by suicide within 12 months of the effective date of risk commencement
+or the date of revival of Policy, the Policy shall terminate immediately. In such cases, the
+Company shall pay higher of Surrender Value or (total premiums paid plus underwriting extra
+premiums paid plus loadings for modal premiums paid excluding applicable taxes) in case the
+Policy has acquired a surrender value; or Total Premiums Paid plus underwriting extra premiums
+paid plus loadings for modal premiums paid excluding applicable taxes in case the Policy has not
+acquired a surrender value.
+
+For Joint Life Protection, the suicide exclusion described above applies in the event of earlier
+death of either the Primary Life Insured or the Secondary Life Insured and the policy is
+terminated.
+
+
+Nomination
+Allowed as per the provisions of Section 39 of the Insurance Act, 1938 as amended from time to
+time. For more details on the nomination, please refer to our website
+https://lifeinsurance.adityabirlacapital.com.
+
+
+Assignment
+Allowed as per the provisions of Section 38 of the Insurance Act, 1938 as amended from time to
+time. For more details on the assignment, please refer to our website
+https://lifeinsurance.adityabirlacapital.com.
+
+
+Prohibition o f Rebates – Section 41 of the Insurance Act, 1938
+No person shall allow or offer to allow, either directly or indirectly, as an inducement to any
+person to take or renew or continue an insurance in respect of any kind of risk relating to lives or
+property in India, any rebate of the whole or part of the commission payable or any rebate of the
+premium shown on the policy, nor shall any person taking out or renewing or continuing a policy
+accept any rebate, except such rebate as may be allowed in accordance with the published
+prospectuses or tables of the insurer. Any person making default in complying with the
+provisions of this section shall be punishable with a ﬁne which may extend to ten lakh rupees.
+
+
+Fraud and Mis-statement
+As per the provisions of Section 45 of the Insurance Act, 1938 as amended from time to time. For
+more details on Section 45 of the Insurance Act, please refer to our website
+https://lifeinsurance.adityabirlacapital.com.
+  About Aditya Birla Sun Life Insurance Company Limited
+
+Aditya Birla Sun Life Insurance Company Limited (“ABSLI”) is a part of Aditya Birla Capital Ltd
+(“ABCL”). ABSLI was incorporated on August 4th, 2000, and commenced operations on January
+17th, 2001. ABSLI is a 51:49 a joint venture between the Aditya Birla Group and Sun Life Financial
+Inc., an international ﬁnancial services organization in Canada.
+
+ABSLI offers a range of products across the customer’s life cycle, including children future plans,
+wealth protection plans, retirement and pension solutions, health plans, traditional term plans
+and Unit Linked Insurance Plans (“ULIPs”).
+As of March 31, 2025 total AUM of ABSLI stood at 99,496 Cr. ABSLI recorded a gross premium
+income of Rs. 20,639 Cr and registering a y-o-y growth in Gross Premium with Individual Business
+FYP with Single Premium at 10% of Rs. 4115 Cr at 34%. ABSLI has a nationwide distribution
+presence through 430 branches, 12 bancassurance partners, 6 distribution channels, over
+65,500+ direct selling agents, other Corporate Agents and Brokers through its website. The
+company has over 30,000+ employees and 20.03 lakh active customers.
+
+
+   About Aditya Birla Capital Limited
+
+Aditya Birla Capital Limited (ABCL”) is a listed systemically important non-deposit taking
+Non-Banking Financial Company (NBFC) and the holding company of the ﬁnancial services
+businesses. Through its subsidiaries/JVs, ABCL provides a comprehensive suite of ﬁnancial
+solutions across Loans, Investments, Insurance, and Payments to serve the diverse needs of
+customers across their lifecycles. Powered by over 60,000 employees, the businesses of ABCL
+have a nationwide reach with over 1,623 branches and more than 200,000 agents/channel
+partners along with several bank partners.
+
+As of March 31, 2025, Aditya Birla Capital Limited manages aggregate assets under management
+of over Rs. 5.11 Lakh Crore with a consolidated lending book of over Rs 1.57 Lakh Crore through its
+subsidiaries/JVs.
+
+Aditya Birla Capital Limited is a part of the US$66 billion global conglomerate Aditya Birla Group,
+which is in the league of Fortune 500. Anchored by an extraordinary force of over 187,000
+employees belonging to 100 nationalities, the Group is built on a strong foundation of
+stakeholder value creation. With over seven decades of responsible business practices, the
+Group’s businesses have grown into global powerhouses in a wide range of sectors - from metals
+to cement, fashion to ﬁnancial services and textiles to trading. Today, over 50% of the Group’s
+revenues ﬂow from overseas operations that span over 40 countries in North and South America,
+Africa, Asia, and Europe.
+
+For more information, visit www.adityabirlacapital.com.
+  RISK FACTORS AND DISCLAIMERS
+
+This policy is underwritten by Aditya Birla Sun Life Insurance Company Limited (ABSLI). This is
+a non-participating traditional insurance plan. All terms & conditions are guaranteed throughout
+the policy term. GST and any other applicable taxes will be added (extra) to your premium and
+levied as per extant tax laws. An extra premium may be charged as per our then existing
+underwriting guidelines for substandard lives, smokers or people having hazardous occupations
+etc. The insurance cover for the life insured (including minors) will commence on the policy issue
+date. This brochure contains only the salient features of the plan. For further details please refer
+to the policy contract. Tax beneﬁts are subject to changes in the tax laws. For more details and
+clariﬁcation call your ABSLI Insurance Advisor or visit our website and see how we can help in
+making your dreams come true.
 Contact our advisor or visit our website https://lifeinsurance.adityabirlacapital.com to
 know more about the various solutions. We provide a wide range of Life Insurance
 solutions to cater to your specific protection needs.
 
-As per Section 11 read with Schedule II of Income Tax Act, 2025, proceeds from life insurance
-policy issued on or after 1 April 2023 shall be taxable as income from other sources if the
-cumulative annual premium payable by taxpayer for life insurance policies exceeds ₹ 5 lacs.
+As per Section 11 read with Schedule II of Income Tax Act, 2025, proceeds from life
+insurance policy issued on or after 1 April 2023 shall be taxable as income from other
+sources if the cumulative annual premium payable by taxpayer for life insurance policies
+exceeds ₹ 5 lacs.
 
 “The Trade Logo “Aditya Birla Capital” Displayed Above Is Owned By ADITYA BIRLA
 MANAGEMENT CORPORATION PRIVATE LIMITED (Trademark Owner) And Used By ADITYA
-BIRLA SUN LIFE INSURANCE COMPANY LIMITED (ABSLI) under the License.” This policy is
-underwritten by Aditya Birla Sun Life Insurance Company Limited (ABSLI). This is a
-non-participating traditional insurance plan. All terms & conditions are guaranteed
-throughout the policy term. GST and any other applicable taxes will be added (extra) to
-your premium and levied as per extant tax laws. The insurance cover for the life insured
-(including minors) will commence on the policy issue date. For more details on risk factors,
-terms and conditions, please read the sales brochure carefully before concluding the sale.
-For further details, please refer to the policy contract. Tax beneﬁts are subject to changes
-in the tax laws. For more details and clariﬁcation, call your ABSLI Insurance Advisor or visit
-our website and see how we can help in making your dreams come true. For more details
-on risk factors, terms and conditions please read sales brochure carefully before
-concluding the sale.
+BIRLA SUN LIFE INSURANCE COMPANY LIMITED (ABSLI) under the License.”
 Aditya Birla Sun Life Insurance Company Limited Registered Office: One World Centre,
 Tower 1, 16th Floor, Jupiter Mill Compound, 841, Senapati Bapat Marg, Elphinstone Road,
 Mumbai - 400 013. 1-800-270-7000 Website: https://lifeinsurance.adityabirlacapital.com
-IRDAI Reg No.109 CIN: U99999MH2000PLC128110UIN: 109N106V14 ADV/6/25-26/481
+IRDAI Reg No.109 CIN: U99999MH2000PLC128110 UIN: 109N106V14 ADV/6/25-26/480
 
 BEWARE OF SPURIOUS PHONE CALLS AND FICTITIOUS / FRAUDULENT OFFERS
-IRDAI or its offi als do not involve in activities like selling insurance policies, announcing bonus or investment of premiums.
+IRDAI or its official do not involve in activities like selling insurance policies, announcing bonus orinvestment of premiums.
 Public receiving such phone calls are requested to lodge a police complaint.
 
