@@ -1,6 +1,6 @@
 # S2 project memory: read this first if you are S2
 
-Last updated: 4 Nov 2026 by S2. S1's project memory is in `PROJECT_MEMORY.md`. Live coordination is in `coordination/CHAT.md`. This file holds what S2 needs to resume the ULIP deep discovery after a restart or a compacted chat.
+Last updated: 4 Nov 2026 (Bajaj midway) by S2. S1's project memory is in `PROJECT_MEMORY.md`. Live coordination is in `coordination/CHAT.md`. This file holds what S2 needs to resume the ULIP deep discovery after a restart or a compacted chat.
 
 ## Role and branch
 - S2 is the user's second Claude session. It works on branch `ccr-d0d84e00-joo2mp` and never pushes to `main`. S1 merges the branch into `main`.
@@ -18,7 +18,12 @@ Last updated: 4 Nov 2026 by S2. S1's project memory is in `PROJECT_MEMORY.md`. L
 - The brief is `briefs/deep_discovery_ulip_brief.md`. The product list is `briefs/ulip_deep_set.csv` and the schema is `briefs/ulip_feature_schema.json`.
 - Wave 1 is 84 products, after the user added Ageas Federal on 4 Nov.
 - **Done: 35.** Bharti 7, SBI 7, HDFC 7, Tata AIA 14. All pass validation.
-- **Next, in this order:** Bajaj (11), Axis Max (9), LIC (5), ABSLI (10), Canara HSBC (8), Ageas Federal (6).
+- **Bajaj in progress (5 of 11 specs done, not yet pushed; committed locally as "WIP Deep ULIP: Bajaj n of 11").**
+  - Documents are all collected and committed locally (policy and CIS for all 11, including two found by the site's URL pattern; see the Bajaj notes below).
+  - Specs done: 116L196V05 Fortune Gain II, 116L202V01 Future Wealth Gain IV, 116L213V02 GAIN, 116L204V01 Goal Assure IV, 116L206V01 Goal Based Saving III.
+  - Next: 116L215V01 Invest Protect Goal Plus, 116L203V01 LongLife Goal III, 116L207V02 Magnum Fortune Plus III, 116L209V08 Smart Pension, 116L218V01 Smart Wealth Goal VII, 116L211V02 Supreme.
+  - When all 11 validate: add the Bajaj row, two spot checks, oddities, new features and data_not_public to `results/deep_ulip_summary.md`; commit "Deep ULIP: Bajaj Life (11 products, 11 policy docs, 0 BIs)"; push with `scripts/s2_tools/pushit.sh`; write one short CHAT entry.
+- **Then, in this order:** Axis Max (9), LIC (5), ABSLI (10), Canara HSBC (8), Ageas Federal (6).
 - Wave 2 (ICICI, Kotak) waits for the user's manual uploads.
 
 ## User decisions (4 Nov)
@@ -49,11 +54,12 @@ Last updated: 4 Nov 2026 by S2. S1's project memory is in `PROJECT_MEMORY.md`. L
      - `rd.sh PDF a b` prints compact pages.
      - `tata.sh` prints the text between two headings.
      - `rowq.py PDF PAGE REGEX N` joins N layout lines into one quote string for a table row.
+     - `bajaj_one.sh UIN` prints a Bajaj brochure's key pages plus policy facts (strategies, withdrawal limits, mortality-table page); `bpages.sh`, `bbro.sh` and `bdig.py` are older Bajaj helpers.
    - Dashes and hyphens at line ends vanish in the validator's matching, so leave them out of quotes ("Year 2 5.0%", not "Year 2 - 5.0%").
    - `scripts/ulip_digest.py` is a general reading aid.
    - Read charge tables with `pdftotext -layout`. Take quotes from the plain reading-order text.
 3. **Spec.** Write `scripts/ulip_specs/<UIN>.py` with `F(value, status, doc_label, page, quote, note)` and `NS()` from `scripts/ulip_json.py`.
-   - Shared helpers: `bharti_common.py`, `sbi_common.py`, `hdfc_common.py` and `tata_common.py`, which holds the Tata fund codes and FMCs.
+   - Shared helpers: `bharti_common.py`, `sbi_common.py`, `hdfc_common.py`, `tata_common.py` (Tata fund codes and FMCs) and `bajaj_common.py` (Bajaj fund FMCs; SFINs left out because they are split across lines).
    - `doc` is the website label. Unlabelled links are cited by file name.
    - The page is found automatically from the quote.
    - Twin products can be copied from a sibling spec with string replacements; check every replacement hit.
@@ -63,6 +69,15 @@ Last updated: 4 Nov 2026 by S2. S1's project memory is in `PROJECT_MEMORY.md`. L
    - Delete `scripts/__pycache__` before committing.
 5. **Summary.** Add the insurer's row, two spot checks, odd findings, new features, `data_not_public` and gaps to `results/deep_ulip_summary.md`.
 6. **Commit.** Use `git add docs/<slug> text/<slug> index.csv features/ulip results/deep_ulip_docs.csv results/deep_ulip_summary.md scripts`. The message is "Deep ULIP: <insurer> (<n> products, <m> policy docs, <k> BIs)". Push with `scripts/s2_tools/pushit.sh`, which retries and confirms against the remote.
+
+## Bajaj notes
+- **Labels.** Product pages label both the policy document and the CIS "Download". `doc='Download'` resolves to the policy document (first in the inventory), so cite the CIS only if unavoidable. Brochures are unlabelled and are cited by file name (for example `gain-brochure.pdf`).
+- **Where values sit.** Eligibility, charges, FMC and discontinuance tables are in the brochure ("Eligibility Table" / "Product at a Glance" and "Charges under the Plan"). Strategies, withdrawal limits, revival and the mortality table (an Annexure near the end) are in the policy document.
+- **Data not public.** Fortune Gain II's policy refers to Annexure 3 for mortality rates, but it is not attached; the brochure gives only sample rates. Its admin charge is "mentioned in the Schedule", but the specimen schedule doesn't print it.
+- **Extra documents.** Supreme (116L211V02) and Smart Pension (116L209V08) policy documents were not linked on the product page. They were found at `.../ulip/supreme-policy-doc.pdf` and `.../retirement-plans/smart-pension-policy-doc.pdf` (real PDFs, noted in index.csv). Smart Pension's document prints 116L209V03 and the old Bajaj Allianz name, not V08: flag every value.
+- **Removed.** The sitewide "individual-factsheet.pdf" was wrongly stored for GAIN, because "gain" is a common word. It was deleted, and its inventory row is now "skipped".
+- **Oddities so far.** Fortune Gain II's specimen schedule prints 116L196V04. GAIN's PPT table prints 75 under "Maximum PPT", which reads as an age. Goal Assure IV's maximum-SA table has 5 age columns but 4 values per row.
+- **Features seen.** Family Benefit (0.5% or 1% of fund for relatives of customers), Return Enhancer (settlement instalments +0.5%), Trigger Based strategy (moves gains to Liquid Fund after a 15% equity rise), ROMC up to 125% by premium band, first-year additional allocation of 3%.
 
 ## Lessons
 - **Two-column PDFs (Tata).** Quotes often survive only in short pieces. When a quote fails, grep the plain text for the exact wording; Tata twins differ in small words ("Saving" or "Savings", "Rs." or "INR").
