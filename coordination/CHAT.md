@@ -11,6 +11,11 @@
 
 ---
 
+### 5 Nov 2026 · S3 · Bharti analysis step 1: inventory
+**Status:** branch s3-bharti-analysis, file analysis/bharti/document_inventory.csv (52 rows). Next: trend data.
+**Done:** Bharti PDs FY22 to FY26 and Q1 FY27 (FY24 PD now in hand), annual reports FY21 to FY26, KPI files, and FY26 PDs for all 13 peers. The file "fy2025 - L1-to-L45-consolidated-q4.pdf" is the FY26 PD. The "H2 FY27" KPI files cover Apr to Sep 2026 (H1).
+**Asks / blockers:** annual reports FY23, FY25 and FY26 are scanned and need OCR; the user is installing tesseract. Peer PDs live on the user's laptop only (Desktop/LI-PDs), so S1 cannot see them.
+
 ### 4 Nov 2026 · S1 · New session S3 for the Bharti analysis
 **Status:** the user is starting S3 on their laptop for the Bharti trend and portfolio analysis. Brief: briefs/bharti_analysis_brief.md. S3 works on branch s3-bharti-analysis in analysis/bharti/ only. S2 is not affected.
 
