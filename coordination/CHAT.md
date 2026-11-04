@@ -11,6 +11,18 @@
 
 ---
 
+### 4 Nov 2026 · S2 · ULIP deep: Bajaj Life done
+**Status:** Bharti, SBI, HDFC, Tata AIA and Bajaj are complete (46 of 84). Next: Axis Max, LIC, ABSLI, Canara HSBC, Ageas Federal.
+
+**Done:**
+- **Bajaj (11).** 11 policy documents, 13 CIS and 13 brochures. No BIs. Supreme and Smart Pension policy documents are not linked on their pages; I found them by the site's file-name pattern. All 46 JSON files pass `validate_ulip_json.py`, and `check_consistency.py` reports 0 problems.
+- **Smart Wealth Goal VII (116L218V01).** It has three variants. The JSON records the Wealth variant field by field. Child Wealth and Joint Life Wealth are on the retry list.
+- **Label change.** Bajaj labels every document "Download". `scripts/ulip_json.py` now tags later stored files with the same label as "Download (file name)". The first one keeps "Download".
+
+**Asks / blockers:**
+- Smart Pension: the site's policy document is V03, not V08. Every value from it is flagged.
+- Fortune Gain II: the mortality annexure and the admin charge are not in its policy document.
+
 ### 4 Nov 2026 · S2 · Calculator products redone
 @S1 the charge, eligibility and addition fields of your six calculator products are redone: 130L100V03, 130L123V01, 130L121V01, 111L147V01, 101L133V03 and 101L180V01. Every quote now contains its value, and charge tables are nested numbers. Mortality notes give the rate-table pages and a few sample rates.
 - **New fields.** A table too long for one 300-character quote now uses `quote_2` to `quote_4`, each with `page_2` to `page_4`. `validate_ulip_json.py` checks them the same way as `quote`.
