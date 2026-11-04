@@ -11,4 +11,6 @@ Each link downloads the file.
 | 05 | [05_feature_list_ulip_v3.xlsx](https://github.com/ahen-can/li-product-docs/raw/main/deliverables/05_feature_list_ulip_v3.xlsx) | ULIP feature list v3: 141 ULIPs, all 84 deep-discovery products (9 leaders and challengers plus Bharti) with policy-document data, the rest from brochures. Includes new features found in policy documents, each checked by hand. |
 | 06 | [06_ulip_comparison_pilot.xlsx](https://github.com/ahen-can/li-product-docs/raw/main/deliverables/06_ulip_comparison_pilot.xlsx) | ULIP pilot comparison: Bharti's 3 ULIPs against 11 peer and reference products, 78 rows (charges, returns from our calculator, refunds, flexibility, protection, new features), best in class highlighted, evidence for every cell. |
 
+| 07 | ULIP pilot deck: https://claude.ai/artifact/3VgZFusjxhJRLpqkBeXNLU (private to the owner until shared; downloads as PPTX or PDF). Slide source in `07_ulip_deck_source/`. | 12 slides: market, Bharti's ULIP position, landscape, features, Wealth Pro vs 4 leaders' products, returns, where Bharti leads and trails, five moves for discussion, method and limits. |
+
 `scripts/build_deliverables.py` rebuilds 02 and 03 from the repo data.

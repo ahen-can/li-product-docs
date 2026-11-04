@@ -94,6 +94,8 @@ Last updated: 4 Nov 2026 by S1 (main session). Full decision trail: `docs-intern
 8. **Deliverables folder** (`deliverables/`, links in its README): 01 category analysis, 02 universal product list (with a Discrepancies tab), 03 light discovery workbook, 04 feature list v1, 05 ULIP feature list v2. Rebuild 02 and 03 with `scripts/build_deliverables.py`.
 9. **ULIP deep wave 1, partly merged:** Bharti, SBI and HDFC (21 of 78) are in `features/ulip/`. Tata was in progress when S2 hit its usage limit. **ULIP feature list v2** (`analysis/feature_list_ulip_v2.xlsx`, built by `analysis/scripts/build_ulip_features.py`) uses deep data for 21 products and v1 brochure flags for 119. Re-run it when more deep files land; the run with all 78 is v3.
 
+10. **ULIP pilot complete (4 Nov):** S2's wave 1 (84 ULIPs) merged; feature list v3 (deliverable 05; new features searched in all 84 policy documents, 357 matches reviewed); selection of 14 products (`analysis/ulip_selection.md`); calculator for 14 products (5 checked against insurer figures within 0.3%); comparison workbook (deliverable 06, `analysis/scripts/build_ulip_comparison.py`); 12-slide deck (deliverable 07, https://claude.ai/artifact/3VgZFusjxhJRLpqkBeXNLU). Next: show Neha, then ICICI if documents arrive, then the next category.
+
 ## 5. Key findings so far
 - **ULIP market (FY26 linked life + linked pension, total premium ₹1.94 lakh cr; 19.6% of the industry book):**
   - Leaders (84.1% together): SBI 27.9%, ICICI 12.7%, HDFC 12.5%, LIC 11.8% (reference column), Tata 7.2%, Bajaj 6.2%, Axis Max 5.8%.
