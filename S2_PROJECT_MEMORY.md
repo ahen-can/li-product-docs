@@ -1,6 +1,6 @@
 # S2 project memory: read this first if you are S2
 
-Last updated: 4 Nov 2026 (LIC done) by S2. S1's project memory is in `PROJECT_MEMORY.md`. Live coordination is in `coordination/CHAT.md`. This file holds what S2 needs to resume the ULIP deep discovery after a restart or a compacted chat.
+Last updated: 4 Nov 2026 (ABSLI started) by S2. S1's project memory is in `PROJECT_MEMORY.md`. Live coordination is in `coordination/CHAT.md`. This file holds what S2 needs to resume the ULIP deep discovery after a restart or a compacted chat.
 
 ## Role and branch
 - S2 is the user's second Claude session. It works on branch `ccr-d0d84e00-joo2mp` and never pushes to `main`. S1 merges the branch into `main`.
@@ -20,7 +20,11 @@ Last updated: 4 Nov 2026 (LIC done) by S2. S1's project memory is in `PROJECT_ME
 - **Done: 60.** Bharti 7, SBI 7, HDFC 7, Tata AIA 14, Bajaj 11, Axis Max 9, LIC 5. All pass validation.
   - LIC is committed locally; if the last session ended before the push, push it with `scripts/s2_tools/pushit.sh` (check `git log origin/ccr-d0d84e00-joo2mp`).
   - Smart Wealth Goal VII (116L218V01, Bajaj) has three variants; only the Wealth variant is field by field.
-- **Next, in this order:** ABSLI (10), Canara HSBC (8), Ageas Federal (6).
+- **ABSLI in progress (1 of 10 specs done; documents all collected).** Spec done: 109L073V05 Wealth Max. Left: 109L143V01 Fortune Wealth Plan, 109L149V01 Param Suraksha, 109L142V01 Platinum Gain Plan, 109L145V01 Salaried Suraksha, 109L157V01 Smart Wealth Pension Plan, 109L100V06 Wealth Aspire Plan, 109L129V03 Wealth Infinia, 109L074V05 Wealth Secure Plan, 109L147V02 Wealth Smart Plus.
+  - Documents: brochure ("Prospectus"), "Policy Contract" and "CIS" per product. Fortune Wealth Plan and Salaried Suraksha link no CIS (record as not published). The Wealth Aspire policy document prints no product code and starts at Part E; it was stored with `addoc.py ... "-"` and a note.
+  - The brochures are short (11 to 28 pages) and hold the charges, funds and Schedule A. `scripts/ulip_specs/absli_common.py` has the segregated-fund identification numbers and a `funds()` helper. The mortality tables are in each policy's Part E (policy page numbers vary; the brochures give sample ages).
+  - When done: summary row, spot checks, oddities, new features, data_not_public; commit "Deep ULIP: ABSLI (10 products, ... policy docs, 0 BIs)"; push; CHAT entry.
+- **Then, in this order:** Canara HSBC (8), Ageas Federal (6).
 - Wave 2 (ICICI, Kotak) waits for the user's manual uploads.
 
 ## User decisions (4 Nov)
