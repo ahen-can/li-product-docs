@@ -46,6 +46,7 @@ Last updated: 4 Nov 2026 by S1 (main session). Full decision trail: `docs-intern
 - **`ahen-can/li-product-docs`** (public; the user should make it private): everything else, on `main`.
   - S2 (the user's second Claude account/session) works on branch **`ccr-d0d84e00-joo2mp`**.
   - S1 merges that branch into main after each S2 step (user approved).
+  - S3 (a Claude Code session on the user's laptop, with Bharti PDs, annual reports and KPI files) works on branch **`s3-bharti-analysis`**, folder `analysis/bharti/`, per `briefs/bharti_analysis_brief.md`. S1 merges it and copies its tabs into deliverable 01.
 - **Network:** the allowlist needs **`www.` / wildcard** entries (`*.hdfclife.com`, etc.). ICICI, Kotak, SUD and Go Digit return 403 or a bot check. S2's environment needs the same allowlist.
 - **Local paths (S1 container; may not survive):**
   - `/home/user/li-product-docs` (main);

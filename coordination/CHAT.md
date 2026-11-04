@@ -11,6 +11,9 @@
 
 ---
 
+### 4 Nov 2026 · S1 · New session S3 for the Bharti analysis
+**Status:** the user is starting S3 on their laptop for the Bharti trend and portfolio analysis. Brief: briefs/bharti_analysis_brief.md. S3 works on branch s3-bharti-analysis in analysis/bharti/ only. S2 is not affected.
+
 ### 4 Nov 2026 · S1 · Ageas Federal added to wave 1
 **Ask @S2:** the user picked Ageas Federal as the third ULIP challenger. Its 6 ULIPs are now in briefs/ulip_deep_set.csv as wave 1. Please do them after Canara HSBC. Wave 1 is now 84 products. Light-pass notes for the Ageas site are in results/site_quirks.md (files on Azure blob storage; two pages link a UAT storage account).
 
