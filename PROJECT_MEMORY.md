@@ -84,8 +84,8 @@ Last updated: 4 Nov 2026 by S1 (main session). Full decision trail: `docs-intern
    - Website labels for documents; status built-in/optional/rider/not offered/not stated; timebox with a retry list.
 7. **`for-your-attention/`** (00_ACTIONS, manual_uploads 119 rows, please_check, questions_for_seniors, reminders), **`analysis/selection_framework.md`**, the **QA pack** for Rahul (`qa/checker_guide.md` + `checker_workbook.xlsx`, 265 checks), and **`coordination/CHAT.md`**.
 
-8. **Deliverables folder** (, links in its README): 01 category analysis, 02 universal product list (with a Discrepancies tab), 03 light discovery workbook, 04 feature list v1, 05 ULIP feature list v2. Rebuild 02 and 03 with .
-9. **ULIP deep wave 1, partly merged:** Bharti, SBI and HDFC (21 of 78) are in . Tata was in progress when S2 hit its usage limit. **ULIP feature list v2** (, built by ) uses deep data for 21 products and v1 brochure flags for 119. Re-run it when more deep files land; the run with all 78 is v3.
+8. **Deliverables folder** (`deliverables/`, links in its README): 01 category analysis, 02 universal product list (with a Discrepancies tab), 03 light discovery workbook, 04 feature list v1, 05 ULIP feature list v2. Rebuild 02 and 03 with `scripts/build_deliverables.py`.
+9. **ULIP deep wave 1, partly merged:** Bharti, SBI and HDFC (21 of 78) are in `features/ulip/`. Tata was in progress when S2 hit its usage limit. **ULIP feature list v2** (`analysis/feature_list_ulip_v2.xlsx`, built by `analysis/scripts/build_ulip_v2.py`) uses deep data for 21 products and v1 brochure flags for 119. Re-run it when more deep files land; the run with all 78 is v3.
 
 ## 5. Key findings so far
 - **ULIP market (FY26 linked life + linked pension, total premium ₹1.94 lakh cr; 19.6% of the industry book):**
