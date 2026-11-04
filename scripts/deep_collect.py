@@ -90,6 +90,7 @@ def main():
         for u, t in links:
             if urllib.parse.urlparse(u).scheme not in ('http', 'https'): continue
             low = u.lower().split('?')[0]
+            if re.search(r'\.(css|js|png|jpe?g|gif|svg|woff2?)$', low): continue      # page assets, not documents
             doclike = low.endswith('.pdf') or '/documents/' in low or re.search(r'brochure|prospectus|policy|cis|illustration|fact', low + ' ' + t.lower())
             if not doclike: continue
             k = kind_of(t, u)

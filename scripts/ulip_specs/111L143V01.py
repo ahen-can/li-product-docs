@@ -68,7 +68,7 @@ spec = {
   'accidental_death': F('SBI Life - Accident Benefit Rider - Linked (111A042V01)', 'rider', B, None, 'Option A: Accidental Death Benefit (ADB)'),
   'riders_available': F([{'name': 'SBI Life - Accident Benefit Rider - Linked', 'UIN': '111A042V01'}, {'name': 'SBI Life - Waiver of Premium Rider - Linked', 'UIN': '111A049V01'}], 'rider', B, None, 'SBI Life - Accident Benefit Rider - Linked (UIN : 111A042V01)'),
  },
- 'surrender_revival': {'lock_in_years': F(5, 'built-in', P, None, 'Lock-In Period: 5 years from the Date of Commencement of Policy.'), 'discontinuance_rules': NS(), 'revival_period': NS(), 'surrender_value_rule': NS()},
+ 'surrender_revival': {'lock_in_years': F(5, 'built-in', P, None, 'Lock-In Period: 5 years from the Date of Commencement of Policy.'), 'discontinuance_rules': NS(), 'revival_period': F('3 consecutive complete years from the first unpaid premium', 'built-in', P, None, 'is the period of three consecutive complete years from the date of first unpaid'), 'surrender_value_rule': F('in lock-in: discontinued fund proceeds paid after year 5; after lock-in: fund value on the date of the surrender request', 'built-in', P, None, 'You have an option to Surrender the Policy any time. Upon receipt of request for Surrender, the Fund')},
 }
 build('111L143V01', spec,
   new_features=[{'feature': 'Rising loyalty additions on a 12-month average fund value', 'description': '1% at year 6 rising to 7% at year 30', 'quote': 'The average Fund Value is the average of the Fund Values as on the 1st day of the last 12 Policy Months preceding the allocation of Loyalty Addition.', 'doc': P, 'page': None}],

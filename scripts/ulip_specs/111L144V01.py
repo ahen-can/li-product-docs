@@ -35,7 +35,7 @@ spec = {
   'fund_management_charge': F({'min': '0.25% (Money Market Fund)', 'max': '1.35%', 'discontinued_policy_fund': '0.50%'}, 'built-in', P, None, 'The FMC for all Segregated Funds except Discontinued Policy Fund, would be subject to a cap of 1.35%.'),
   'mortality_charge': F('per Rs 1,000 sum at risk by attained age; table published; stops after the parent\'s death', 'built-in', P, None, 'We will not deduct future Mortality Charges, PPWB Charges and AB Charges.'),
   'discontinuance_charge': F('IRDAI-cap tables for limited/regular and single pay', 'built-in', P, None, 'We will recover Discontinuance Charges from the Fund Value.'),
-  'switching_charge': F('2 free a year then Rs 100 (cap Rs 500)', 'built-in', note='standard SBI clause; not quoted for this product'),
+  'switching_charge': F('2 free a year, then Rs 100 per switch', 'built-in', P, None, 'Rs.100 will be levied per switch in excess of free Switches in the same Policy Year.'),
   'partial_withdrawal_charge': F('Rs 100 for the second withdrawal in a year (cap Rs 500)', 'built-in', P, None, 'We will charge Rs.100 for the second withdrawal in any Policy Year.'),
   'premium_redirection_charge': NS(), 'miscellaneous_charge': NS(), 'guarantee_charge': F(None, 'n/a'),
   'rider_charges': F({'Premium Payor Waiver Benefit (PPWB)': 'level monthly charge per Rs 1,000 AP, by parent\'s entry age and PPT; only during the premium term; not for single pay', 'Accident Benefit': 'Rs 0.60 per Rs 1,000 Accident Benefit Sum Assured a year'}, 'built-in', P, None,
@@ -51,7 +51,7 @@ spec = {
   'wealth_boosters_or_guaranteed_additions': F(None, 'not offered'), 'return_of_mortality_charges': F(None, 'not offered'), 'return_of_premium_allocation_charges': F(None, 'not offered'), 'return_of_policy_admin_charges': F(None, 'not offered'), 'other_additions': NS(),
  },
  'flexibility': {
-  'fund_switching': F('allowed; 2 free a year', 'optional (during term)', note='standard SBI clause; not quoted for this product'),
+  'fund_switching': F('2 free a year; then Rs 100 per switch', 'optional (during term)', P, None, 'Two Switches are allowed free of charge in a Policy Year. A Switching Charge of'),
   'premium_redirection': NS(),
   'partial_withdrawals': F('from year 6; 2 a year (1 free); 5 in the term (PT up to 10) or 10 (PT over 10); multiples of Rs 1,000', 'optional (during term)', P, None, 'We will allow maximum two Partial Withdrawals in one Policy Year, out of which one would be free of charge'),
   'systematic_withdrawal_plan': F(None, 'not offered'), 'top_up_premiums': NS(), 'settlement_option': NS(), 'premium_holiday_or_offset': NS(),
@@ -70,7 +70,7 @@ spec = {
   'terminal_illness': NS(), 'spouse_or_child_cover': F('child is the nominee and receives maturity proceeds after the parent\'s death', 'built-in', P, None, 'to the child Nominee in case of death of the Life Assured during the Policy Term.'),
   'riders_available': NS('no separate riders found; accident benefit and payor waiver are built in'),
  },
- 'surrender_revival': {'lock_in_years': F(5, 'built-in', P, None, 'You can Withdraw post commencement of the 6th Policy Year.'), 'discontinuance_rules': NS(), 'revival_period': NS(), 'surrender_value_rule': NS()},
+ 'surrender_revival': {'lock_in_years': F(5, 'built-in', P, None, 'You can Withdraw post commencement of the 6th Policy Year.'), 'discontinuance_rules': NS(), 'revival_period': F('3 consecutive complete years from the first unpaid premium', 'built-in', P, None, 'is the period of three consecutive complete years from the date of first unpaid'), 'surrender_value_rule': F('in lock-in: discontinued fund proceeds paid after year 5; after lock-in: fund value on the date of the surrender request', 'built-in', P, None, 'If You opt to completely withdraw from the Policy, then Fund Value as on date of')},
 }
 build('111L144V01', spec,
   new_features=[{'feature': 'Child ULIP with built-in payor waiver and accident benefit', 'description': 'sum assured paid on the parent\'s death and future premiums paid in by the insurer; mortality and PPWB charges stop', 'quote': 'We will not deduct future Mortality Charges, PPWB Charges and AB Charges.', 'doc': P, 'page': None},

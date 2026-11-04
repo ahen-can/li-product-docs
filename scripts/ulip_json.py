@@ -9,7 +9,7 @@ Fields left out of the spec are written as {value: null, status: 'not stated in 
 guessed. documents_inventory is filled from results/deep_ulip_docs.csv and index.csv (website labels, URLs, paths).
 The file is then checked with validate_ulip_json.py (quotes must be verbatim on the cited page).
 """
-import csv, json, os, subprocess, sys
+import csv, json, os, subprocess, sys, urllib.parse
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 
 SCHEMA = json.load(open('briefs/ulip_feature_schema.json'))
@@ -36,7 +36,8 @@ def inventory(uin):
                     'status': r['status'], 'note': r['notes'] or None})
     for fp, r in idx.items():                                      # stored files the page no longer links
         if not any(o['stored_path'] == fp for o in out):
-            out.append({'website_label': r.get('website_label') or None, 'doc_type': r['doc_type'], 'url': r['source_url'],
+            lab = r.get('website_label') or urllib.parse.unquote(r['source_url']).rsplit('/', 1)[-1] or None   # unlabelled link: file name
+            out.append({'website_label': lab, 'doc_type': r['doc_type'], 'url': r['source_url'],
                         'found_on_page_url': r['found_on_page_url'], 'pages': int(r['pages']) if r['pages'].isdigit() else None,
                         'stored_path': fp, 'status': 'already stored', 'note': r['notes'] or None})
     return out

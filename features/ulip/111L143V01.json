@@ -653,19 +653,19 @@
    "note": null
   },
   "revival_period": {
-   "value": null,
-   "status": "not stated in public documents",
-   "doc": null,
-   "page": null,
-   "quote": null,
+   "value": "3 consecutive complete years from the first unpaid premium",
+   "status": "built-in",
+   "doc": "Policy Document",
+   "page": 26,
+   "quote": "is the period of three consecutive complete years from the date of first unpaid",
    "note": null
   },
   "surrender_value_rule": {
-   "value": null,
-   "status": "not stated in public documents",
-   "doc": null,
-   "page": null,
-   "quote": null,
+   "value": "in lock-in: discontinued fund proceeds paid after year 5; after lock-in: fund value on the date of the surrender request",
+   "status": "built-in",
+   "doc": "Policy Document",
+   "page": 34,
+   "quote": "You have an option to Surrender the Policy any time. Upon receipt of request for Surrender, the Fund",
    "note": null
   }
  },

@@ -223,12 +223,12 @@
    "note": null
   },
   "switching_charge": {
-   "value": "2 free a year then Rs 100 (cap Rs 500)",
+   "value": "2 free a year, then Rs 100 per switch",
    "status": "built-in",
-   "doc": null,
-   "page": null,
-   "quote": null,
-   "note": "standard SBI clause; not quoted for this product"
+   "doc": "Policy Document",
+   "page": 7,
+   "quote": "Rs.100 will be levied per switch in excess of free Switches in the same Policy Year.",
+   "note": null
   },
   "partial_withdrawal_charge": {
    "value": "Rs 100 for the second withdrawal in a year (cap Rs 500)",
@@ -350,12 +350,12 @@
  },
  "flexibility": {
   "fund_switching": {
-   "value": "allowed; 2 free a year",
+   "value": "2 free a year; then Rs 100 per switch",
    "status": "optional (during term)",
-   "doc": null,
-   "page": null,
-   "quote": null,
-   "note": "standard SBI clause; not quoted for this product"
+   "doc": "Policy Document",
+   "page": 7,
+   "quote": "Two Switches are allowed free of charge in a Policy Year. A Switching Charge of",
+   "note": null
   },
   "premium_redirection": {
    "value": null,
@@ -642,19 +642,19 @@
    "note": null
   },
   "revival_period": {
-   "value": null,
-   "status": "not stated in public documents",
-   "doc": null,
-   "page": null,
-   "quote": null,
+   "value": "3 consecutive complete years from the first unpaid premium",
+   "status": "built-in",
+   "doc": "Policy Document",
+   "page": 23,
+   "quote": "is the period of three consecutive complete years from the date of first unpaid",
    "note": null
   },
   "surrender_value_rule": {
-   "value": null,
-   "status": "not stated in public documents",
-   "doc": null,
-   "page": null,
-   "quote": null,
+   "value": "in lock-in: discontinued fund proceeds paid after year 5; after lock-in: fund value on the date of the surrender request",
+   "status": "built-in",
+   "doc": "Policy Document",
+   "page": 31,
+   "quote": "If You opt to completely withdraw from the Policy, then Fund Value as on date of",
    "note": null
   }
  },

@@ -1,0 +1,902 @@
+{
+ "product": {
+  "uin": {
+   "value": "110L179V02",
+   "status": "n/a",
+   "doc": "Policy bond",
+   "page": 1,
+   "quote": "Tata AIA Smart Sampoorna Raksha Supreme (UIN: 110L179V02)",
+   "note": null
+  },
+  "uin_in_brochure": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "product_name": {
+   "value": "Tata AIA Smart Sampoorna Raksha Supreme",
+   "status": "n/a",
+   "doc": "Policy bond",
+   "page": 3,
+   "quote": "Tata AIA Smart Sampoorna Raksha Supreme is a Non-Participating, Unit Linked, Individual Life Insurance Savings Plan.",
+   "note": null
+  },
+  "irdai_description_line": {
+   "value": "Non-Participating, Unit Linked, Individual Life Insurance Savings Plan",
+   "status": "n/a",
+   "doc": "Policy bond",
+   "page": 3,
+   "quote": "Tata AIA Smart Sampoorna Raksha Supreme is a Non-Participating, Unit Linked, Individual Life Insurance Savings Plan.",
+   "note": null
+  },
+  "launch_or_version_date": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "variants_or_plan_options": {
+   "value": [
+    "Classic (charges with refunds)",
+    "Optima (no allocation or admin charge, no mortality refund)"
+   ],
+   "status": "optional (at inception)",
+   "doc": "Policy bond",
+   "page": 3,
+   "quote": "Optima – Targeted towards customer looking for protection and savings oriented unit linked plan with low charges",
+   "note": null
+  },
+  "target_segment_stated": {
+   "value": "customers wanting high sum assured multiples and long terms",
+   "status": "n/a",
+   "doc": "Policy bond",
+   "page": 3,
+   "quote": "which is envisaged to be offered with high sum assured multiples with longer policy terms.",
+   "note": null
+  },
+  "online_offline": {
+   "value": "both; online/digital sales get a fund booster",
+   "status": "n/a",
+   "doc": "Policy bond",
+   "page": 6,
+   "quote": "If the Policy has been availed through a digital medium",
+   "note": null
+  }
+ },
+ "eligibility": {
+  "entry_age_min": {
+   "value": "18 years",
+   "status": "n/a",
+   "doc": "SSR-supreme-V2-brochure.pdf",
+   "page": 2,
+   "quote": "Entry Age1 (in years)",
+   "note": "values read from the brochure text order: 18 and 65 before the entry age label"
+  },
+  "entry_age_max": {
+   "value": "65 years",
+   "status": "n/a",
+   "doc": "SSR-supreme-V2-brochure.pdf",
+   "page": 2,
+   "quote": "Entry Age1 (in years)",
+   "note": null
+  },
+  "maturity_age_min": {
+   "value": "38 years",
+   "status": "n/a",
+   "doc": "SSR-supreme-V2-brochure.pdf",
+   "page": 2,
+   "quote": "Maturity Age1 (in years)",
+   "note": "read from the text order; check against the PDF"
+  },
+  "maturity_age_max": {
+   "value": "100 years",
+   "status": "n/a",
+   "doc": "SSR-supreme-V2-brochure.pdf",
+   "page": 2,
+   "quote": "Maturity Age1 (in years)",
+   "note": null
+  },
+  "policy_term_options": {
+   "value": "20 to 82 years",
+   "status": "n/a",
+   "doc": "SSR-supreme-V2-brochure.pdf",
+   "page": 2,
+   "quote": "Policy Term (in years)",
+   "note": "read from the text order (20 and 82 before the label); check against the PDF"
+  },
+  "ppt_options": {
+   "value": "single; limited 5 years to term minus 1; regular (equal to term, minimum 20)",
+   "status": "n/a",
+   "doc": "SSR-supreme-V2-brochure.pdf",
+   "page": 2,
+   "quote": "Single pay is also available.",
+   "note": null
+  },
+  "premium_min_annual": {
+   "value": "Rs 20,000 (limited 5-6 years); Rs 18,000 (limited 7-9); Rs 15,000 (other)",
+   "status": "n/a",
+   "doc": "SSR-supreme-V2-brochure.pdf",
+   "page": 2,
+   "quote": "Minimum 20,000 p.a. 20,000 p.a.",
+   "note": null
+  },
+  "premium_min_single": {
+   "value": "Rs 20,000",
+   "status": "n/a",
+   "doc": "SSR-supreme-V2-brochure.pdf",
+   "page": 2,
+   "quote": "Minimum 20,000 p.a. 20,000 p.a.",
+   "note": "the brochure prints p.a. against single pay too"
+  },
+  "premium_max": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "sum_assured_rule": {
+   "value": "high multiples; target-yield formula assumes a minimum multiple of 10 (7-9x treated as 10)",
+   "status": "built-in",
+   "doc": "Policy bond",
+   "page": 5,
+   "quote": "If the policyholder has opted for Sum Assured Multiple of either 7- 9 times",
+   "note": null
+  },
+  "premium_modes": {
+   "value": "single, annual, half-yearly, quarterly, monthly",
+   "status": "n/a",
+   "doc": "SSR-supreme-V2-brochure.pdf",
+   "page": 2,
+   "quote": "Premium Payment Frequency: Single, Annual, Half-Yearly,",
+   "note": null
+  },
+  "life_cover_multiple_choice": {
+   "value": "basic and top-up SA can be increased or decreased within boundary conditions",
+   "status": "optional (during term)",
+   "doc": "Policy bond",
+   "page": 8,
+   "quote": "Increase or decrease in Basic Sum Assured or TopUp Sum Assured is allowed",
+   "note": null
+  }
+ },
+ "charges": {
+  "premium_allocation_charge": {
+   "value": {
+    "Classic, single pay": "3% in year 1",
+    "Classic, regular/limited": "Y1 12%, Y2 6%, Y3 4%, Y4 2%, Y5+ nil",
+    "Classic, top-up": "1.5%",
+    "Optima": "not applicable"
+   },
+   "status": "built-in",
+   "doc": "Policy bond",
+   "page": 20,
+   "quote": "Top-up Premium Allocation Charge shall be 1.5% of each Top-Up Premium.",
+   "note": null
+  },
+  "policy_administration_charge": {
+   "value": {
+    "Classic": "from year 5: 0.41% of AP or 0.075% of SP per month, rising 5% a year compound until year 18, cap Rs 500",
+    "Optima": "not applicable"
+   },
+   "status": "built-in",
+   "doc": "Policy bond",
+   "page": 20,
+   "quote": "Classic: From 5th policy year onwards Policy Administration Charge of 0.41% of Annualised Premium / 0.075% of Single Premium shall be charged at the beginning of each policy month.",
+   "note": null
+  },
+  "fund_management_charge": {
+   "value": {
+    "equity funds": "1.20%",
+    "Whole Life Aggressive Growth": "1.10%",
+    "Whole Life Stable Growth": "1.00%",
+    "Whole Life Income, Constant Maturity, Target Maturity": "0.80%",
+    "Whole Life Short-Term Fixed Income": "0.65%",
+    "funds from 2024 on": "1.35%",
+    "discontinued_policy_fund": "0.5%"
+   },
+   "status": "built-in",
+   "doc": "Policy bond",
+   "page": 21,
+   "quote": "Whole Life Short-Term Fixed Income Fund",
+   "note": null
+  },
+  "mortality_charge": {
+   "value": "SAR x monthly rate by attained age; guaranteed; rates not printed",
+   "status": "built-in",
+   "doc": "Policy bond",
+   "page": 21,
+   "quote": "Mortality Charges will be guaranteed for the Policy Term.",
+   "note": null
+  },
+  "discontinuance_charge": {
+   "value": "IRDAI-style table by premium size, nil from year 5",
+   "status": "built-in",
+   "doc": "Policy bond",
+   "page": 20,
+   "quote": "There are no discontinuance charges applicable on the Top-Up Premium Fund Value.",
+   "note": null
+  },
+  "switching_charge": {
+   "value": "nil",
+   "status": "built-in",
+   "doc": "Policy bond",
+   "page": 21,
+   "quote": "There is no Fund Switching Charge.",
+   "note": null
+  },
+  "partial_withdrawal_charge": {
+   "value": "nil",
+   "status": "built-in",
+   "doc": "Policy bond",
+   "page": 20,
+   "quote": "No Charges for Partial Withdrawal",
+   "note": null
+  },
+  "premium_redirection_charge": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "miscellaneous_charge": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "guarantee_charge": {
+   "value": null,
+   "status": "not offered",
+   "doc": "Policy bond",
+   "page": 4,
+   "quote": "There is no investment guarantee under this plan.",
+   "note": null
+  },
+  "rider_charges": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "any_charge_returned": {
+   "value": {
+    "Classic": "1x mortality charges monthly from year 11 to age 85; 2x the year 1-4 allocation charges at the end of years 10-13",
+    "Optima": "none",
+    "Twin Loyalty Booster": "1x mortality charges from year 11 when bought with a protection plan"
+   },
+   "status": "built-in",
+   "doc": "Policy bond",
+   "page": 4,
+   "quote": "At the end of 10th, 11th, 12th and 13th Policy Years, 2 times the total Premium Allocation Charges (excluding taxes) deducted 10 years prior",
+   "note": null
+  }
+ },
+ "benefits": {
+  "death_benefit_formula": {
+   "value": "highest of SA less PW in last 2 years, fund value, 105% of premiums; plus higher of top-up SA or top-up fund",
+   "status": "built-in",
+   "doc": "Policy bond",
+   "page": 4,
+   "quote": "105% of the total Regular/Single Premiums received up to the date of death net of all “Deductible",
+   "note": null
+  },
+  "maturity_benefit": {
+   "value": "fund value plus top-up fund value",
+   "status": "built-in",
+   "doc": "Policy bond",
+   "page": 3,
+   "quote": "If the Life Insured is alive on the Maturity Date, Fund Value (as applicable) and Top Up Premium Fund Value",
+   "note": null
+  },
+  "loyalty_additions": {
+   "value": "refund of charges, a cover continuance booster and Smart Lady (see the fields below)",
+   "status": "built-in",
+   "doc": "Policy bond",
+   "page": 4,
+   "quote": "Provided the Policy is in force and all due premiums have been paid, following units shall be added till death or maturity, whichever is earlier.",
+   "note": null
+  },
+  "wealth_boosters_or_guaranteed_additions": {
+   "value": {
+    "Cover Continuance Booster": "tops up the fund if it falls below 10% of modal premium or 1% of SP (years 1-15) or below a target-yield fund value (year 16 on); reduction in yield 4.25% at the maximum SA multiple, table value at 10x (e.g. Classic PPT 5: 3.10%)",
+    "Smart Lady": "women: 0.50% of instalment premium or 0.25% of SP at first allocation",
+    "Fund Booster (online)": "3% (term up to 24) rising to 10% (40+) of 8-quarter average fund",
+    "Twin Loyalty Booster": "with a protection plan bought in combination, 1x mortality charges from year 11 to age 85"
+   },
+   "status": "built-in",
+   "doc": "Policy bond",
+   "page": 6,
+   "quote": "For Female lives, 0.50% of the Instalment Premium or 0.25% of Single Premium shall be added to the Fund Value",
+   "note": null
+  },
+  "return_of_mortality_charges": {
+   "value": "Classic 1x, monthly from year 11 to age 85; Optima none",
+   "status": "built-in",
+   "doc": "Policy bond",
+   "page": 4,
+   "quote": "Starting from the 11th Policy Year, mortality charge (excluding underwriting extra and taxes) deducted during the period of 120 preceding Policy Month",
+   "note": null
+  },
+  "return_of_premium_allocation_charges": {
+   "value": "Classic: 2x the year 1-4 charges at the end of years 10-13; Optima: none",
+   "status": "built-in",
+   "doc": "Policy bond",
+   "page": 4,
+   "quote": "At the end of 10th, 11th, 12th and 13th Policy Years, 2 times the total Premium Allocation Charges (excluding taxes) deducted 10 years prior",
+   "note": null
+  },
+  "return_of_policy_admin_charges": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "other_additions": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  }
+ },
+ "flexibility": {
+  "fund_switching": {
+   "value": "free",
+   "status": "optional (during term)",
+   "doc": "Policy bond",
+   "page": 21,
+   "quote": "There is no Fund Switching Charge.",
+   "note": null
+  },
+  "premium_redirection": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "partial_withdrawals": {
+   "value": "after 5 policy anniversaries; minimum Rs 1,000; fund must stay above 2x AP (10% of SP); any number, free",
+   "status": "optional (during term)",
+   "doc": "Policy bond",
+   "page": 11,
+   "quote": "Any number of partial withdrawals can be made in a policy year and no charges shall be levied for making the partial withdrawals.",
+   "note": null
+  },
+  "systematic_withdrawal_plan": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "top_up_premiums": {
+   "value": "minimum Rs 1,000; locked for 5 years",
+   "status": "optional (during term)",
+   "doc": "Policy bond",
+   "page": 7,
+   "quote": "Each Top-Up Premium shall not be less than Rupees One Thousand",
+   "note": null
+  },
+  "settlement_option": {
+   "value": "on maturity",
+   "status": "optional (during term)",
+   "doc": "Policy bond",
+   "page": 13,
+   "quote": "Provided that the Insured is alive on the Maturity Date, You have an option to receive Your Maturity Benefit either in lump sum or in the form of periodical",
+   "note": null
+  },
+  "premium_holiday_or_offset": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "increase_decrease_cover": {
+   "value": "SA up or down within boundary conditions",
+   "status": "optional (during term)",
+   "doc": "Policy bond",
+   "page": 8,
+   "quote": "Increase or decrease in Basic Sum Assured or TopUp Sum Assured is allowed",
+   "note": null
+  },
+  "change_ppt_or_term": {
+   "value": "PPT and policy term can be increased",
+   "status": "optional (during term)",
+   "doc": "Policy bond",
+   "page": 8,
+   "quote": "Increase in Premium Paying Term may be allowed, subject to the boundary conditions of the plan",
+   "note": null
+  },
+  "policy_loan": {
+   "value": null,
+   "status": "not offered",
+   "doc": "Policy bond",
+   "page": 14,
+   "quote": "No loan is available from the Company under this Policy",
+   "note": null
+  },
+  "auto_portfolio_strategies": {
+   "value": [
+    {
+     "name": "Enhanced SMART",
+     "mechanics": "systematic monthly transfer from a debt fund to an equity fund"
+    },
+    {
+     "name": "Life-Stage Based Strategy",
+     "mechanics": "equity/debt split by age and risk profile; free"
+    }
+   ],
+   "status": "optional (during term)",
+   "doc": "Policy bond",
+   "page": 18,
+   "quote": "Life-Stage Based Strategy is free of any charge",
+   "note": null
+  }
+ },
+ "funds": {
+  "fund_count": {
+   "value": "31 funds in the FMC table plus the Discontinued Policy Fund",
+   "status": "n/a",
+   "doc": "Policy bond",
+   "page": 21,
+   "quote": "Enhanced Value Index Fund (SFIN: ULIF 098",
+   "note": null
+  },
+  "fund_list": {
+   "value": [
+    {
+     "name": "Emerging Opportunities Fund",
+     "SFIN": "ULIF06412/09/22EOF110",
+     "FMC_pct": 1.2,
+     "asset_allocation": "see policy document Schedule of Funds",
+     "risk_label": null
+    },
+    {
+     "name": "Sustainable Equity Fund",
+     "SFIN": "ULIF06512/09/22ESG110",
+     "FMC_pct": 1.2,
+     "asset_allocation": "see policy document Schedule of Funds",
+     "risk_label": null
+    },
+    {
+     "name": "Dynamic Advantage Fund",
+     "SFIN": "ULIF06612/09/22DAF110",
+     "FMC_pct": 1.2,
+     "asset_allocation": "see policy document Schedule of Funds",
+     "risk_label": null
+    },
+    {
+     "name": "Multi Cap Fund",
+     "SFIN": "ULIF06015/07/14MCF110",
+     "FMC_pct": 1.2,
+     "asset_allocation": "see policy document Schedule of Funds",
+     "risk_label": null
+    },
+    {
+     "name": "India Consumption Fund",
+     "SFIN": "ULIF06115/07/14ICF110",
+     "FMC_pct": 1.2,
+     "asset_allocation": "see policy document Schedule of Funds",
+     "risk_label": null
+    },
+    {
+     "name": "Top 50 Fund",
+     "SFIN": "ULIF02612/01/09ITF110",
+     "FMC_pct": 1.2,
+     "asset_allocation": "see policy document Schedule of Funds",
+     "risk_label": null
+    },
+    {
+     "name": "Top 200 Fund",
+     "SFIN": "ULIF02712/01/09ITT110",
+     "FMC_pct": 1.2,
+     "asset_allocation": "see policy document Schedule of Funds",
+     "risk_label": null
+    },
+    {
+     "name": "Super Select Equity Fund",
+     "SFIN": "ULIF03516/10/09TSS110",
+     "FMC_pct": 1.2,
+     "asset_allocation": "see policy document Schedule of Funds",
+     "risk_label": null
+    },
+    {
+     "name": "Large Cap Equity Fund",
+     "SFIN": "ULIF01707/01/08TLC110",
+     "FMC_pct": 1.2,
+     "asset_allocation": "see policy document Schedule of Funds",
+     "risk_label": null
+    },
+    {
+     "name": "Whole Life Mid Cap Equity Fund",
+     "SFIN": "ULIF00904/01/07WLE110",
+     "FMC_pct": 1.2,
+     "asset_allocation": "see policy document Schedule of Funds",
+     "risk_label": null
+    },
+    {
+     "name": "Whole Life Aggressive Growth Fund",
+     "SFIN": "ULIF01004/01/07WLA110",
+     "FMC_pct": 1.1,
+     "asset_allocation": "see policy document Schedule of Funds",
+     "risk_label": null
+    },
+    {
+     "name": "Whole Life Stable Growth Fund",
+     "SFIN": "ULIF01104/01/07WLS110",
+     "FMC_pct": 1.0,
+     "asset_allocation": "see policy document Schedule of Funds",
+     "risk_label": null
+    },
+    {
+     "name": "Whole Life Income Fund",
+     "SFIN": "ULIF01204/01/07WLI110",
+     "FMC_pct": 0.8,
+     "asset_allocation": "see policy document Schedule of Funds",
+     "risk_label": null
+    },
+    {
+     "name": "Whole Life Short Term Fixed Income Fund",
+     "SFIN": "ULIF01304/01/07WLF110",
+     "FMC_pct": 0.65,
+     "asset_allocation": "see policy document Schedule of Funds",
+     "risk_label": null
+    },
+    {
+     "name": "Flexi Growth Fund",
+     "SFIN": "ULIF06825/04/23FGF110",
+     "FMC_pct": 1.2,
+     "asset_allocation": "see policy document Schedule of Funds",
+     "risk_label": null
+    },
+    {
+     "name": "Constant Maturity Fund",
+     "SFIN": "ULIF06917/05/23CMF110",
+     "FMC_pct": 0.8,
+     "asset_allocation": "see policy document Schedule of Funds",
+     "risk_label": null
+    },
+    {
+     "name": "Target Maturity Fund",
+     "SFIN": "ULIF07017/05/23TMF110",
+     "FMC_pct": 0.8,
+     "asset_allocation": "see policy document Schedule of Funds",
+     "risk_label": null
+    },
+    {
+     "name": "Small Cap Discovery Fund",
+     "SFIN": "ULIF07122/05/23SCF110",
+     "FMC_pct": 1.2,
+     "asset_allocation": "see policy document Schedule of Funds",
+     "risk_label": null
+    },
+    {
+     "name": "Business Cycle Fund",
+     "SFIN": "ULIF07215/01/24BCF110",
+     "FMC_pct": 1.2,
+     "asset_allocation": "see policy document Schedule of Funds",
+     "risk_label": null
+    },
+    {
+     "name": "Rising India Fund",
+     "SFIN": "ULIF07317/01/24RIF110",
+     "FMC_pct": 1.2,
+     "asset_allocation": "see policy document Schedule of Funds",
+     "risk_label": null
+    },
+    {
+     "name": "Midcap Momentum Index Fund",
+     "SFIN": "ULIF07509/05/24MIF110",
+     "FMC_pct": 1.2,
+     "asset_allocation": "see policy document Schedule of Funds",
+     "risk_label": null
+    },
+    {
+     "name": "Whole Life Income Fund II",
+     "SFIN": "ULIF07606/06/24WI2110",
+     "FMC_pct": 1.35,
+     "asset_allocation": "see policy document Schedule of Funds",
+     "risk_label": null
+    },
+    {
+     "name": "Flexi Growth Fund II",
+     "SFIN": "ULIF07402/05/24FG2110",
+     "FMC_pct": 1.35,
+     "asset_allocation": "see policy document Schedule of Funds",
+     "risk_label": null
+    },
+    {
+     "name": "Nifty Alpha 50 Index Fund",
+     "SFIN": "ULIF07730/09/24NAF110",
+     "FMC_pct": 1.35,
+     "asset_allocation": "see policy document Schedule of Funds",
+     "risk_label": null
+    },
+    {
+     "name": "Multicap Momentum Quality Index Fund",
+     "SFIN": "ULIF07831/12/24MQI110",
+     "FMC_pct": 1.35,
+     "asset_allocation": "see policy document Schedule of Funds",
+     "risk_label": null
+    },
+    {
+     "name": "Tax Bonanza Consumption Fund",
+     "SFIN": "ULIF08831/03/25TBC110",
+     "FMC_pct": 1.35,
+     "asset_allocation": "see policy document Schedule of Funds",
+     "risk_label": null
+    },
+    {
+     "name": "Top 200 Alpha 30 Index Fund",
+     "SFIN": "ULIF09030/06/25TAF110",
+     "FMC_pct": 1.35,
+     "asset_allocation": "see policy document Schedule of Funds",
+     "risk_label": null
+    },
+    {
+     "name": "Momentum 50 Index Fund",
+     "SFIN": "ULIF09225/08/25MFI110",
+     "FMC_pct": 1.35,
+     "asset_allocation": "see policy document Schedule of Funds",
+     "risk_label": null
+    },
+    {
+     "name": "Sector Leaders Index Fund",
+     "SFIN": "ULIF09315/09/25SLI110",
+     "FMC_pct": 1.35,
+     "asset_allocation": "see policy document Schedule of Funds",
+     "risk_label": null
+    },
+    {
+     "name": "Multicap Opportunities Fund",
+     "SFIN": "ULIF09531/12/25MUF110",
+     "FMC_pct": 1.35,
+     "asset_allocation": "see policy document Schedule of Funds",
+     "risk_label": null
+    },
+    {
+     "name": "Enhanced Value Index Fund",
+     "SFIN": "ULIF09816/02/26EVI110",
+     "FMC_pct": 1.35,
+     "asset_allocation": "see policy document Schedule of Funds",
+     "risk_label": null
+    }
+   ],
+   "status": "n/a",
+   "doc": "Policy bond",
+   "page": 21,
+   "quote": "Emerging Opportunities Fund (SFIN: ULIF 064 12/09/22 EOF 110)",
+   "note": null
+  },
+  "index_or_thematic_funds": {
+   "value": "Business Cycle, Rising India, Midcap Momentum Index, Nifty Alpha 50 Index, Multicap Momentum Quality Index, Tax Bonanza Consumption, Top 200 Alpha 30 Index, Momentum 50 Index, Sector Leaders Index, Enhanced Value Index; Target Maturity and Constant Maturity debt funds",
+   "status": "n/a",
+   "doc": "Policy bond",
+   "page": 16,
+   "quote": "Nifty Alpha 50 Index Fund",
+   "note": null
+  },
+  "discontinued_policy_fund": {
+   "value": {
+    "FMC": "0.5%"
+   },
+   "status": "built-in",
+   "doc": "Policy bond",
+   "page": 21,
+   "quote": "Fund Management Charge of 0.5% p.a. will be charged",
+   "note": null
+  }
+ },
+ "protection_add_ons": {
+  "waiver_of_premium_inbuilt": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "critical_illness": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "accidental_death": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "terminal_illness": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "spouse_or_child_cover": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "riders_available": {
+   "value": "riders mentioned; names not listed in the policy",
+   "status": "rider",
+   "doc": "SSR-supreme-V2-brochure.pdf",
+   "page": 2,
+   "quote": "combining this plan with multiple riders makes this plan a true",
+   "note": null
+  }
+ },
+ "surrender_revival": {
+  "lock_in_years": {
+   "value": 5,
+   "status": "built-in",
+   "doc": "Policy bond",
+   "page": 1,
+   "quote": "“Lock-in period” means the period of five consecutive years from the Date of Commencement of the Policy",
+   "note": null
+  },
+  "discontinuance_rules": {
+   "value": "after lock-in: reduced paid-up",
+   "status": "built-in",
+   "doc": "Policy bond",
+   "page": 13,
+   "quote": "Reduced Paid Up Policy will continue as per the policy terms and conditions and charges shall continue to be deducted",
+   "note": null
+  },
+  "revival_period": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "surrender_value_rule": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  }
+ },
+ "documents_inventory": [
+  {
+   "website_label": "Policy Document",
+   "doc_type": "policy_document",
+   "url": "https://myinsurance.tataaia.com/portfolio/login?target=52",
+   "found_on_page_url": "https://www.tataaia.com/life-insurance-plans/wealth-solutions/smart-sampoorna-raksha-supreme.html",
+   "pages": null,
+   "stored_path": null,
+   "status": "web page (not stored)",
+   "note": "link opens a web page, not a document"
+  },
+  {
+   "website_label": "View Fund Fact Sheet",
+   "doc_type": "fund_factsheet",
+   "url": "https://www.tataaia.com/customer-service/fact-sheet.html",
+   "found_on_page_url": "https://www.tataaia.com/life-insurance-plans/wealth-solutions/smart-sampoorna-raksha-supreme.html",
+   "pages": null,
+   "stored_path": null,
+   "status": "web page (not stored)",
+   "note": "link opens a web page, not a document"
+  },
+  {
+   "website_label": "View Fund Fact Sheet",
+   "doc_type": "fund_factsheet",
+   "url": "https://www.tataaia.com/content/dam/tataaialifeinsurancecompanylimited/fact-sheet/life-portfolio/individual-fund-fact-sheet-pdf/Assure-Fund.pdf",
+   "found_on_page_url": "https://www.tataaia.com/life-insurance-plans/wealth-solutions/smart-sampoorna-raksha-supreme.html",
+   "pages": null,
+   "stored_path": null,
+   "status": "skipped",
+   "note": "fund document does not name this product (company-wide)"
+  },
+  {
+   "website_label": "Policy bond",
+   "doc_type": "policy_document",
+   "url": "https://www.tataaia.com/content/dam/tataaialifeinsurancecompanylimited/life-insurance-plans/wealth-solutions/tata-aia-smart-sampoorna-raksha-supreme/SSR-supreme-v2-Policy-Document.pdf",
+   "found_on_page_url": "https://www.tataaia.com/life-insurance-plans/wealth-solutions/smart-sampoorna-raksha-supreme.html",
+   "pages": 39,
+   "stored_path": "docs/tata-aia/110L179V02/policy.pdf",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "website_label": "Customer Information Sheet",
+   "doc_type": "CIS",
+   "url": "https://www.tataaia.com/content/dam/tataaialifeinsurancecompanylimited/life-insurance-plans/wealth-solutions/tata-aia-smart-sampoorna-raksha-supreme/Tata-AIA-Smart-Sampoorna-Raksha-Supreme-Customer-Information-Sheet-V02.pdf",
+   "found_on_page_url": "https://www.tataaia.com/life-insurance-plans/wealth-solutions/smart-sampoorna-raksha-supreme.html",
+   "pages": 10,
+   "stored_path": "docs/tata-aia/110L179V02/cis.pdf",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "website_label": "Quote/Benefit Illustration",
+   "doc_type": "BI",
+   "url": "https://siddhi-insurance.tataaia.com/product/quotation/generate-quote?source=WEBSALES&callbackUrl=https://www.tataaia.com/",
+   "found_on_page_url": "https://www.tataaia.com/life-insurance-plans/wealth-solutions/smart-sampoorna-raksha-supreme.html",
+   "pages": null,
+   "stored_path": null,
+   "status": "web page (not stored)",
+   "note": "link opens a web page, not a document"
+  },
+  {
+   "website_label": "SSR-supreme-V2-brochure.pdf",
+   "doc_type": "brochure",
+   "url": "https://www.tataaia.com/content/dam/tataaialifeinsurancecompanylimited/life-insurance-plans/wealth-solutions/tata-aia-smart-sampoorna-raksha-supreme/SSR-supreme-V2-brochure.pdf",
+   "found_on_page_url": "https://www.tataaia.com/life-insurance-plans/wealth-solutions/smart-sampoorna-raksha-supreme.html",
+   "pages": null,
+   "stored_path": null,
+   "status": "not stored (unlabelled link; brochure already stored)",
+   "note": null
+  },
+  {
+   "website_label": "SSR-supreme-V2-brochure.pdf",
+   "doc_type": "brochure",
+   "url": "https://www.tataaia.com/content/dam/tataaialifeinsurancecompanylimited/life-insurance-plans/wealth-solutions/tata-aia-smart-sampoorna-raksha-supreme/SSR-supreme-V2-brochure.pdf",
+   "found_on_page_url": "https://www.tataaia.com/life-insurance-plans/wealth-solutions/smart-sampoorna-raksha-supreme.html",
+   "pages": 26,
+   "stored_path": "docs/tata-aia/110L179V02/brochure.pdf",
+   "status": "already stored",
+   "note": null
+  }
+ ],
+ "new_features_not_in_schema": [
+  {
+   "feature": "Twin loyalty booster for combined purchase",
+   "description": "returns mortality charges from year 11 when the ULIP is bought with a protection plan",
+   "quote": "Twin loyalty Booster is designed to provide additional benefits for Policyholders.",
+   "doc": "Policy bond",
+   "page": 7
+  },
+  {
+   "feature": "Cover continuance booster",
+   "description": "company tops up the fund if it falls below a floor or a target-yield value",
+   "quote": "Cover Continuance Booster – Non-negative amounts called Cover Continuance Boosters",
+   "doc": "Policy bond",
+   "page": 4
+  }
+ ],
+ "data_not_public": [
+  {
+   "item": "mortality rate table",
+   "doc": "Policy bond",
+   "where_referenced": "Schedule of Policy Charges",
+   "quote": "Mortality Charges will be guaranteed for the Policy Term",
+   "note": "no rates printed and no place named"
+  }
+ ]
+}
