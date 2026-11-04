@@ -1,0 +1,1011 @@
+{
+ "product": {
+  "uin": {
+   "value": "136L088V02",
+   "status": "n/a",
+   "doc": "Product Brochure",
+   "page": 34,
+   "quote": "UIN: 136L088V02",
+   "note": null
+  },
+  "uin_in_brochure": {
+   "value": "136L088V02",
+   "status": "n/a",
+   "doc": "Product Brochure",
+   "page": 34,
+   "quote": "UIN: 136L088V02",
+   "note": null
+  },
+  "product_name": {
+   "value": "Canara HSBC Life Insurance Alpha Wealth",
+   "status": "n/a",
+   "doc": "Product Brochure",
+   "page": 2,
+   "quote": "INSURANCE ALPHA WEALTH",
+   "note": null
+  },
+  "irdai_description_line": {
+   "value": "A Unit Linked Individual Saving Life Insurance Plan",
+   "status": "n/a",
+   "doc": "Product Brochure",
+   "page": 2,
+   "quote": "A Unit Linked Individual Saving Life Insurance Plan",
+   "note": null
+  },
+  "launch_or_version_date": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "variants_or_plan_options": {
+   "value": [
+    "Alpha Invest Plus",
+    "Alpha Premium Plus",
+    "Alpha Life Plus"
+   ],
+   "status": "n/a",
+   "doc": "Product Brochure",
+   "page": 3,
+   "quote": "Choose from 3 plan options basis your life",
+   "note": null,
+   "quote_2": "stages - ‘Alpha Invest Plus’, ‘ Alpha Premium",
+   "page_2": 3
+  },
+  "target_segment_stated": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "online_offline": {
+   "value": "also sold online",
+   "status": "n/a",
+   "doc": "Product Brochure",
+   "page": 2,
+   "quote": "This product will also be available for sale through",
+   "note": null
+  }
+ },
+ "eligibility": {
+  "entry_age_min": {
+   "value": {
+    "Alpha Invest Plus": 0,
+    "Alpha Premium Plus": 18,
+    "Alpha Life Plus": 18
+   },
+   "status": "n/a",
+   "doc": "Product Brochure",
+   "page": 6,
+   "quote": "Entry Age as on Last 0 years to 70 years",
+   "note": null,
+   "quote_2": "18 years to 50 years",
+   "page_2": 7,
+   "quote_3": "18 years to 70 years",
+   "page_3": 8
+  },
+  "entry_age_max": {
+   "value": {
+    "Alpha Invest Plus": 70,
+    "Alpha Premium Plus": 50,
+    "Alpha Life Plus": 70
+   },
+   "status": "n/a",
+   "doc": "Product Brochure",
+   "page": 6,
+   "quote": "Entry Age as on Last 0 years to 70 years",
+   "note": null,
+   "quote_2": "18 years to 50 years",
+   "page_2": 7,
+   "quote_3": "18 years to 70 years",
+   "page_3": 8
+  },
+  "maturity_age_min": {
+   "value": {
+    "Alpha Invest Plus": 18,
+    "Alpha Premium Plus": 28
+   },
+   "status": "n/a",
+   "doc": "Product Brochure",
+   "page": 6,
+   "quote": "Maturity Age 18 years to 80 years",
+   "note": null,
+   "quote_2": "Maturity Age 28 years to 80 years",
+   "page_2": 7
+  },
+  "maturity_age_max": {
+   "value": {
+    "Alpha Invest Plus": 80,
+    "Alpha Premium Plus": 80,
+    "Alpha Life Plus": 100
+   },
+   "status": "n/a",
+   "doc": "Product Brochure",
+   "page": 6,
+   "quote": "Maturity Age 18 years to 80 years",
+   "note": null,
+   "quote_2": "Maturity Age 28 years to 80 years",
+   "page_2": 7,
+   "quote_3": "Maturity Age Up till age 100 years",
+   "page_3": 8
+  },
+  "policy_term_options": {
+   "value": {
+    "Alpha Invest Plus": {
+     "single pay": "5 to 30 years by entry age",
+     "limited and regular pay": "10 to 30 years"
+    },
+    "Alpha Premium Plus": "10 to 30 years",
+    "Alpha Life Plus": "100 minus age at entry"
+   },
+   "status": "n/a",
+   "doc": "Product Brochure",
+   "page": 6,
+   "quote": "0 – 55 5/7/10/15/20/25 10 to 30",
+   "note": null,
+   "quote_2": "Same as PT 10 to 30",
+   "page_2": 6,
+   "quote_3": "18 - 70 Same as PT 100 – Age at entry",
+   "page_3": 9
+  },
+  "ppt_options": {
+   "value": {
+    "Alpha Invest Plus": "single pay; limited pay 5/7/10/15/20/25 (entry age 0-55); regular pay",
+    "Alpha Premium Plus": "limited pay 5/7/10/15/20/25; regular pay",
+    "Alpha Life Plus": "limited pay 10/15/20/25; regular pay"
+   },
+   "status": "n/a",
+   "doc": "Product Brochure",
+   "page": 6,
+   "quote": "0 – 55 5/7/10/15/20/25 10 to 30",
+   "note": null,
+   "quote_2": "18 - 50 Same as PT 10 to 30",
+   "page_2": 8,
+   "quote_3": "18 - 70 10/15/20/25 100 – Age at entry",
+   "page_3": 9
+  },
+  "premium_min_annual": {
+   "value": {
+    "yearly": 150000,
+    "half-yearly": 100000,
+    "quarterly": 50000
+   },
+   "status": "n/a",
+   "doc": "Product Brochure",
+   "page": 7,
+   "quote": "Yearly 1,50,000 per annum",
+   "note": null,
+   "quote_2": "Half-Yearly 100,000 per half-year",
+   "page_2": 7,
+   "quote_3": "Quarterly 50,000 per quarter",
+   "page_3": 7
+  },
+  "premium_min_single": {
+   "value": 150000,
+   "status": "n/a",
+   "doc": "Product Brochure",
+   "page": 7,
+   "quote": "Premium Single 1,50,000",
+   "note": null
+  },
+  "premium_max": {
+   "value": "no limit",
+   "status": "n/a",
+   "doc": "Product Brochure",
+   "page": 7,
+   "quote": "No Limit",
+   "note": null
+  },
+  "sum_assured_rule": {
+   "value": {
+    "minimum multiple": "7 times the annualized premium (limited and regular pay), 1.25 times the single premium (single pay)",
+    "maximum multiple": "up to 40 times the annualized premium by entry age"
+   },
+   "status": "built-in",
+   "doc": "Product Brochure",
+   "page": 6,
+   "quote": "For Limited Pay / Regular Pay - 7 times the Annualized Premium",
+   "note": null,
+   "quote_2": "For Single Pay – 1.25 times the Single Premium",
+   "page_2": 6,
+   "quote_3": "0-30 40 40 40 10",
+   "page_3": 7
+  },
+  "premium_modes": {
+   "value": {
+    "Alpha Invest Plus": [
+     "single",
+     "annual",
+     "semi-annual",
+     "quarterly"
+    ],
+    "Alpha Premium Plus": [
+     "annual",
+     "semi-annual",
+     "quarterly"
+    ],
+    "Alpha Life Plus": [
+     "annual",
+     "semi-annual",
+     "quarterly"
+    ]
+   },
+   "status": "n/a",
+   "doc": "Product Brochure",
+   "page": 7,
+   "quote": "Single, Annual, Semi-Annual and Quarterly",
+   "note": null,
+   "quote_2": "Annual, Semi- Annual and Quarterly",
+   "page_2": 7
+  },
+  "life_cover_multiple_choice": {
+   "value": "sum assured multiple chosen at inception, 7 times up to 40 times the annualized premium",
+   "status": "optional (at inception)",
+   "doc": "Product Brochure",
+   "page": 10,
+   "quote": "basis your protection / insurance needs.",
+   "note": null
+  }
+ },
+ "charges": {
+  "premium_allocation_charge": {
+   "value": {
+    "limited and regular pay": {
+     "years 1-5": {
+      "annual mode": "5.00%",
+      "non-annual mode": "4.00%"
+     },
+     "years 6-10": "2.50%",
+     "year 11+": "nil"
+    },
+    "single pay": {
+     "year 1": "2.00%",
+     "later": "NA"
+    }
+   },
+   "status": "built-in",
+   "doc": "Product Brochure",
+   "page": 28,
+   "quote": "1st to 5th 5.00% 4.00%",
+   "note": null,
+   "quote_2": "6th to 10th 2.50% 2.50%",
+   "page_2": 28,
+   "quote_3": "11th onwards Nil Nil",
+   "page_3": 28,
+   "quote_4": "1st 2.00%",
+   "page_4": 29
+  },
+  "policy_administration_charge": {
+   "value": {
+    "limited and regular pay": {
+     "years 1-5": "Rs 250 a month",
+     "year 6+": "Rs 500 a month"
+    },
+    "single pay": "0.0083% of the single premium a month",
+    "cap": "Rs 500 a month"
+   },
+   "status": "built-in",
+   "doc": "Product Brochure",
+   "page": 29,
+   "quote": "Policy Administration Charge of Rs. 250 will be charged per month, from the 1st policy year till 5th policy",
+   "note": null,
+   "quote_2": "Policy Administration Charge of 0.0083% of the Single Premium will be charged per month,",
+   "page_2": 29,
+   "quote_3": "absolute cap of Rs. 500 per month",
+   "page_3": 29
+  },
+  "fund_management_charge": {
+   "value": {
+    "Emerging Leaders Equity Fund": "1.35%",
+    "India Multi-Cap Equity Fund": "1.35%",
+    "Equity II Fund": "1.35%",
+    "Growth Plus Fund": "1.35%",
+    "Balanced Plus Fund": "1.35%",
+    "Large Cap Advantage Fund": "1.00%",
+    "Multicap Momentum Quality Index Fund": "1.35%",
+    "Debt Fund": "1.00%",
+    "Liquid Fund": "0.80%",
+    "Discontinued Policy Fund": "up to 0.50%"
+   },
+   "status": "built-in",
+   "doc": "Product Brochure",
+   "page": 30,
+   "quote": "Emerging Leaders Equity Fund 1.35%",
+   "note": null,
+   "quote_2": "Large Cap Advantage Fund 1.00%",
+   "page_2": 30,
+   "quote_3": "Liquid Fund 0.80%",
+   "page_3": 30,
+   "quote_4": "the FMC for DPF shall not exceed 0.50% per annum.",
+   "page_4": 30
+  },
+  "mortality_charge": {
+   "value": {
+    "basis": "per 1,000 sum at risk a year by age; female lives rated down 3 years; guaranteed",
+    "sample_rates_age_20_30_40_50": {
+     "male": [
+      0.647,
+      0.684,
+      0.841,
+      3.105
+     ],
+     "female": [
+      0.58,
+      0.654,
+      0.729,
+      2.218
+     ]
+    }
+   },
+   "status": "built-in",
+   "doc": "Product Brochure",
+   "page": 29,
+   "quote": "Male 0.647 0.684 0.841 3.105 Female 0.580 0.654 0.729 2.218",
+   "note": "sample rates only; the sample policy document prints no rate table",
+   "quote_2": "For female lives, Mortality Charges will be 3 years rated down",
+   "page_2": 29
+  },
+  "discontinuance_charge": {
+   "value": {
+    "limited and regular pay": {
+     "Y1": "lower of 6% of AP or FV, max Rs 6,000",
+     "Y2": "4%, Rs 5,000",
+     "Y3": "3%, Rs 4,000",
+     "Y4": "2%, Rs 2,000",
+     "Y5+": "nil"
+    },
+    "single pay": {
+     "Y1": "lower of 1% of SP or FV, max Rs 6,000",
+     "Y2": "0.5%, Rs 5,000",
+     "Y3": "0.25%, Rs 4,000",
+     "Y4": "0.10%, Rs 2,000",
+     "Y5+": "nil"
+    }
+   },
+   "status": "built-in",
+   "doc": "Product Brochure",
+   "page": 30,
+   "quote": "Lower of 6% * (AP or FV) subject Lower of 1% * (SP or FV) subject",
+   "note": null,
+   "quote_2": "Lower of 4% * (AP or FV) subject Lower of 0.5% * (SP or FV) subject",
+   "page_2": 30,
+   "quote_3": "Lower of 3% * (AP or FV) subject Lower of 0.25% * (SP or FV) subject",
+   "page_3": 30,
+   "quote_4": "Lower of 2% * (AP or FV) subject Lower of 0.10% * (SP or FV) subject",
+   "page_4": 30
+  },
+  "switching_charge": {
+   "value": "nil",
+   "status": "built-in",
+   "doc": "Product Brochure",
+   "page": 31,
+   "quote": "Switching Charge -Switches are free of charge.",
+   "note": null
+  },
+  "partial_withdrawal_charge": {
+   "value": "nil",
+   "status": "built-in",
+   "doc": "Product Brochure",
+   "page": 31,
+   "quote": "Partial Withdrawals Charge -Partial Withdrawals are free of cost.",
+   "note": null
+  },
+  "premium_redirection_charge": {
+   "value": "nil",
+   "status": "built-in",
+   "doc": "Product Brochure",
+   "page": 24,
+   "quote": "Premium Redirection is available free of charge",
+   "note": null
+  },
+  "miscellaneous_charge": {
+   "value": "nil",
+   "status": "built-in",
+   "doc": "Product Brochure",
+   "page": 31,
+   "quote": "Miscellaneous Charge –Nil",
+   "note": null
+  },
+  "guarantee_charge": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "rider_charges": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "any_charge_returned": {
+   "value": "100% of mortality charges returned at maturity (not for single premium)",
+   "status": "built-in",
+   "doc": "Product Brochure",
+   "page": 3,
+   "quote": "Get back 100% of the mortality charges",
+   "note": null,
+   "quote_2": "Return of Mortality Charge is not applicable in case of Single Premium Policies.",
+   "page_2": 16
+  }
+ },
+ "benefits": {
+  "death_benefit_formula": {
+   "value": {
+    "Alpha Invest Plus and Alpha Life Plus": "higher of sum assured (less withdrawals in the last 2 years), fund value and 105% of premiums paid",
+    "Alpha Premium Plus": "higher of sum assured and 105% of premiums paid as a lump sum; future premiums are funded by the company and the fund value is paid at maturity"
+   },
+   "status": "built-in",
+   "doc": "Product Brochure",
+   "page": 14,
+   "quote": "3. 105% of all Premiums paid up to the",
+   "note": null,
+   "quote_2": "ii. 105% of total premiums paid up to",
+   "page_2": 14,
+   "quote_3": "Premium Funding Beneﬁt will also",
+   "page_3": 14
+  },
+  "maturity_benefit": {
+   "value": "fund value at maturity (Alpha Premium Plus: to the nominee if the life assured has died)",
+   "status": "built-in",
+   "doc": "Product Brochure",
+   "page": 15,
+   "quote": "Fund Value as on the date of maturity is payable",
+   "note": null,
+   "quote_2": "Fund Value as on the date of maturity is payable to the Life Assured, if the Life",
+   "page_2": 15
+  },
+  "loyalty_additions": {
+   "value": "0.5% of the average fund value of the previous 12 monthly anniversaries, added each year from the 6th policy year to the end of the term",
+   "status": "built-in",
+   "doc": "Product Brochure",
+   "page": 15,
+   "quote": "equal to 0.5% of the average Fund Value of the previous 12",
+   "note": null
+  },
+  "wealth_boosters_or_guaranteed_additions": {
+   "value": {
+    "end of year 10": "2.90% of the average fund value of the last 60 monthly anniversaries",
+    "end of year 15 and every 5 years after": "1.50%"
+   },
+   "status": "built-in",
+   "doc": "Product Brochure",
+   "page": 16,
+   "quote": "10thPolicy Year 2.90%",
+   "note": null,
+   "quote_2": "every 5 Policy Years",
+   "page_2": 16
+  },
+  "return_of_mortality_charges": {
+   "value": "all mortality charges deducted are added to the fund value at maturity, excluding extra mortality and tax; not for single premium",
+   "status": "built-in",
+   "doc": "Product Brochure",
+   "page": 16,
+   "quote": "An amount equal to the total of all the Mortality Charges deducted during the Policy Term will be added to the",
+   "note": null,
+   "quote_2": "Return of Mortality Charge is not applicable in case of Single Premium Policies.",
+   "page_2": 16
+  },
+  "return_of_premium_allocation_charges": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "return_of_policy_admin_charges": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "other_additions": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  }
+ },
+ "flexibility": {
+  "fund_switching": {
+   "value": "free and unlimited; at least Rs 10,000 per switch",
+   "status": "optional (during term)",
+   "doc": "Product Brochure",
+   "page": 24,
+   "quote": "the amount being switched must be at least Rs. 10,000.",
+   "note": null,
+   "quote_2": "The switches in any given Policy Year or in any year during the Settlement Period will be free of charge.",
+   "page_2": 24
+  },
+  "premium_redirection": {
+   "value": "free of charge; effective from the next premium due date",
+   "status": "optional (during term)",
+   "doc": "Product Brochure",
+   "page": 24,
+   "quote": "Premium Redirection is available free of charge",
+   "note": null
+  },
+  "partial_withdrawals": {
+   "value": {
+    "from": "6th policy year, if first 5 years of premiums are paid and age 18",
+    "minimum": "Rs 10,000, in multiples of Rs 1,000",
+    "fund left after withdrawal": "at least 120% of the annualized premium (25% of the single premium)"
+   },
+   "status": "optional (during term)",
+   "doc": "Product Brochure",
+   "page": 23,
+   "quote": "This product allows the Policyholder to make partial withdrawals from 6th policy year onwards free of",
+   "note": null,
+   "quote_2": "The minimum partial withdrawal amount",
+   "page_2": 23,
+   "quote_3": "allowed is Rs. 10,000.",
+   "page_3": 23
+  },
+  "systematic_withdrawal_plan": {
+   "value": {
+    "Systematic Withdrawal Option": "1% to 12% of fund value a year, from policy year 11, paid yearly, half-yearly, quarterly or monthly",
+    "Milestone Withdrawal Option": "20% of fund value at the end of year 10 and every 5th year after"
+   },
+   "status": "optional (during term)",
+   "doc": "Product Brochure",
+   "page": 22,
+   "quote": "Policyholder can choose from 1% to 12% of the Fund Value to be withdrawn in a Policy Year.",
+   "note": null,
+   "quote_2": "20% of the available fund",
+   "page_2": 21
+  },
+  "top_up_premiums": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "settlement_option": {
+   "value": "maturity benefit as a structured payout (Alpha Invest Plus and Alpha Premium Plus)",
+   "status": "optional (during term)",
+   "doc": "Product Brochure",
+   "page": 23,
+   "quote": "Settlement Option (available only under Alpha Invest Plus and Alpha Premium Plus Plan Option):",
+   "note": null
+  },
+  "premium_holiday_or_offset": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "increase_decrease_cover": {
+   "value": "sum assured can be changed from the 6th policy year, once a year and up to 3 times; increase not allowed for minors or above age 50",
+   "status": "optional (during term)",
+   "doc": "Product Brochure",
+   "page": 25,
+   "quote": "You can increase or decrease your Sum Assured starting from the 6th Policy Year onwards provided due",
+   "note": null,
+   "quote_2": "maximum of three times during the Policy Term.",
+   "page_2": 25
+  },
+  "change_ppt_or_term": {
+   "value": "policy term can be increased up to 2 times; premium payment term can be changed up to 2 times, after the first 5 years",
+   "status": "optional (during term)",
+   "doc": "Product Brochure",
+   "page": 25,
+   "quote": "maximum of 2 times during the entire Policy Term and will always be in multiples of one year.",
+   "note": null
+  },
+  "policy_loan": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "auto_portfolio_strategies": {
+   "value": [
+    {
+     "name": "Systematic Transfer Option (STO)",
+     "mechanics": "annual or single premium goes to Liquid Fund, then 1/12, 1/11 ... of the units move each month to one chosen equity fund"
+    },
+    {
+     "name": "Return Protector Option (RPO)",
+     "mechanics": "premium goes to one equity fund and gains move to a Debt Fund"
+    },
+    {
+     "name": "Auto Funds Rebalancing (AFR)"
+    },
+    {
+     "name": "Safety Switch Option (SSO)",
+     "mechanics": "automatic asset allocation based on the goal date"
+    },
+    {
+     "name": "Loss Protection Strategy (LPS)"
+    }
+   ],
+   "status": "optional (at inception)",
+   "doc": "Product Brochure",
+   "page": 18,
+   "quote": "Policy Month 1: 1/12 of the units available at the beginning of Policy month 1",
+   "note": null,
+   "quote_2": "Return Protector Option (RPO) enables you to protect your returns against market volatility",
+   "page_2": 4,
+   "quote_3": "Safety Switch Option (SSO) enables an automatic asset allocation based on when you want to achieve",
+   "page_3": 4
+  }
+ },
+ "funds": {
+  "fund_count": {
+   "value": 9,
+   "status": "n/a",
+   "doc": "Product Brochure",
+   "page": 4,
+   "quote": "Choose from a range of 9 diverse fund",
+   "note": null
+  },
+  "fund_list": {
+   "value": [
+    {
+     "name": "Emerging Leaders Equity Fund",
+     "SFIN": "ULIF02020/12/17EMLEDEQFND136",
+     "FMC_pct": 1.35,
+     "asset_allocation": "see brochure fund table",
+     "risk_label": "High"
+    },
+    {
+     "name": "India Multi-Cap Equity Fund",
+     "SFIN": "ULIF01816/08/16IMCAPEQFND136",
+     "FMC_pct": 1.35,
+     "asset_allocation": "see brochure fund table",
+     "risk_label": "High"
+    },
+    {
+     "name": "Equity II Fund",
+     "SFIN": "ULIF00607/01/10EQUTYIIFND136",
+     "FMC_pct": 1.35,
+     "asset_allocation": "see brochure fund table",
+     "risk_label": "High"
+    },
+    {
+     "name": "Growth Plus Fund",
+     "SFIN": "ULIF00913/09/10GROWTPLFND136",
+     "FMC_pct": 1.35,
+     "asset_allocation": "see brochure fund table",
+     "risk_label": "Medium to High"
+    },
+    {
+     "name": "Balanced Plus Fund",
+     "SFIN": "ULIF01013/09/10BLNCDPLFND136",
+     "FMC_pct": 1.35,
+     "asset_allocation": "see brochure fund table",
+     "risk_label": "Medium"
+    },
+    {
+     "name": "Large Cap Advantage Fund",
+     "SFIN": "ULIF02109/06/20LARCPADFND136",
+     "FMC_pct": 1.0,
+     "asset_allocation": "see brochure fund table",
+     "risk_label": "High"
+    },
+    {
+     "name": "Multicap Momentum Quality Index Fund",
+     "SFIN": "ULIF02410/03/25MLMMQEQFND136",
+     "FMC_pct": 1.35,
+     "asset_allocation": "see brochure fund table",
+     "risk_label": "High"
+    },
+    {
+     "name": "Debt Fund",
+     "SFIN": "ULIF00409/07/08INDEBTFUND136",
+     "FMC_pct": 1.0,
+     "asset_allocation": "see brochure fund table",
+     "risk_label": "Low to Medium"
+    },
+    {
+     "name": "Liquid Fund",
+     "SFIN": "ULIF00514/07/08LIQUIDFUND136",
+     "FMC_pct": 0.8,
+     "asset_allocation": "see brochure fund table",
+     "risk_label": "Low"
+    }
+   ],
+   "status": "n/a",
+   "doc": "Policy Document",
+   "page": 8,
+   "quote": "Emerging Leaders Equity Fund        : ULIF02020/12/17EMLEDEQFND136",
+   "note": "SFINs from the policy document, FMC and risk labels from the brochure"
+  },
+  "index_or_thematic_funds": {
+   "value": "Multicap Momentum Quality Index Fund",
+   "status": "n/a",
+   "doc": "Product Brochure",
+   "page": 17,
+   "quote": "Multicap Momentum Quality Index Fund",
+   "note": null
+  },
+  "discontinued_policy_fund": {
+   "value": {
+    "name": "Discontinued Policy Fund",
+    "SFIN": "ULIF01319/09/11POLDISCFND136",
+    "fmc": "up to 0.50%"
+   },
+   "status": "built-in",
+   "doc": "Policy Document",
+   "page": 12,
+   "quote": "(ULIF01319/09/11POLDISCFND136) means",
+   "note": null
+  }
+ },
+ "protection_add_ons": {
+  "waiver_of_premium_inbuilt": {
+   "value": "Alpha Premium Plus: on death the company funds all future premiums",
+   "status": "built-in",
+   "doc": "Product Brochure",
+   "page": 5,
+   "quote": "future premiums will be waived and will get funded by the Company.",
+   "note": null
+  },
+  "critical_illness": {
+   "value": "Canara HSBC Life Insurance Linked Critical Illness Benefit Rider (UIN 136A018V01), 40 critical illnesses",
+   "status": "rider",
+   "doc": "Product Brochure",
+   "page": 31,
+   "quote": "Canara HSBC Life Insurance This is a non-linked, non-participating,",
+   "note": null,
+   "quote_2": "Linked Critical Illness 136A018V01",
+   "page_2": 31
+  },
+  "accidental_death": {
+   "value": "Canara HSBC Life Insurance Accidental Benefit Rider (Linked) (UIN 136A016V01)",
+   "status": "rider",
+   "doc": "Product Brochure",
+   "page": 31,
+   "quote": "Accidental Beneﬁt Rider 136A016V01",
+   "note": null
+  },
+  "terminal_illness": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "spouse_or_child_cover": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "riders_available": {
+   "value": [
+    "Accidental Benefit Rider (Linked) 136A016V01",
+    "Linked Critical Illness Benefit Rider 136A018V01"
+   ],
+   "status": "rider",
+   "doc": "Product Brochure",
+   "page": 31,
+   "quote": "Accidental Beneﬁt Rider 136A016V01",
+   "note": null,
+   "quote_2": "Linked Critical Illness 136A018V01",
+   "page_2": 31
+  }
+ },
+ "surrender_revival": {
+  "lock_in_years": {
+   "value": 5,
+   "status": "built-in",
+   "doc": "Product Brochure",
+   "page": 26,
+   "quote": "C. Lock-in period:",
+   "note": null
+  },
+  "discontinuance_rules": {
+   "value": "discontinuance in the first five years moves the fund, less the charge, to the Discontinued Policy Fund with a revival period; after year 5 the policy becomes reduced paid-up",
+   "status": "built-in",
+   "doc": "Product Brochure",
+   "page": 26,
+   "quote": "E. Discontinuance of Premium during Lock-in Period (during ﬁrst ﬁve years):",
+   "note": null,
+   "quote_2": "F. Discontinuance of Premium after the Lock-in Period (after ﬁrst ﬁve years)",
+   "page_2": 27
+  },
+  "revival_period": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "surrender_value_rule": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  }
+ },
+ "documents_inventory": [
+  {
+   "website_label": "Download Brochure",
+   "doc_type": "brochure",
+   "url": "https://www.canarahsbclife.com/content/dam/chli/pdf/alpha-wealth/invest-plus/product-brochure.pdf",
+   "found_on_page_url": "https://www.canarahsbclife.com/ulips/alpha-wealth",
+   "pages": 34,
+   "stored_path": null,
+   "status": "already stored (same file)",
+   "note": "identical to 136L088V02-brochure"
+  },
+  {
+   "website_label": "Access Customer Information Sheet",
+   "doc_type": "CIS",
+   "url": "https://www.canarahsbclife.com/content/dam/chli/pdf/alpha-wealth/invest-plus/customer-information-sheet.pdf",
+   "found_on_page_url": "https://www.canarahsbclife.com/ulips/alpha-wealth",
+   "pages": 8,
+   "stored_path": "docs/canara-hsbc/136L088V02/cis.pdf",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "website_label": "Plan Flyer",
+   "doc_type": "leaflet",
+   "url": "https://www.canarahsbclife.com/content/dam/chli/pdf/alpha-wealth/invest-plus/plan-flyer.pdf",
+   "found_on_page_url": "https://www.canarahsbclife.com/ulips/alpha-wealth",
+   "pages": null,
+   "stored_path": null,
+   "status": "not stored (leaflet; brochure already stored)",
+   "note": null
+  },
+  {
+   "website_label": "Policy Document",
+   "doc_type": "policy_document",
+   "url": "https://www.canarahsbclife.com/content/dam/chli/pdf/alpha-wealth/invest-plus/policy-document.pdf",
+   "found_on_page_url": "https://www.canarahsbclife.com/ulips/alpha-wealth",
+   "pages": 41,
+   "stored_path": "docs/canara-hsbc/136L088V02/policy.pdf",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "website_label": "Plan Flyer",
+   "doc_type": "leaflet",
+   "url": "https://www.canarahsbclife.com/content/dam/chli/pdf/alpha-wealth/premium-plus/plan-flyer.pdf",
+   "found_on_page_url": "https://www.canarahsbclife.com/ulips/alpha-wealth",
+   "pages": null,
+   "stored_path": null,
+   "status": "not stored (leaflet; brochure already stored)",
+   "note": null
+  },
+  {
+   "website_label": "Policy Document",
+   "doc_type": "policy_document",
+   "url": "https://www.canarahsbclife.com/content/dam/chli/pdf/alpha-wealth/premium-plus/policy-document.pdf",
+   "found_on_page_url": "https://www.canarahsbclife.com/ulips/alpha-wealth",
+   "pages": 41,
+   "stored_path": null,
+   "status": "already stored (same file)",
+   "note": "identical to 136L088V02-policy"
+  },
+  {
+   "website_label": "Product Brochure",
+   "doc_type": "brochure",
+   "url": "https://www.canarahsbclife.com/content/dam/chli/pdf/alpha-wealth/premium-plus/product-brochure.pdf",
+   "found_on_page_url": "https://www.canarahsbclife.com/ulips/alpha-wealth",
+   "pages": 34,
+   "stored_path": "docs/canara-hsbc/136L088V02/brochure.pdf",
+   "status": "already stored",
+   "note": null
+  },
+  {
+   "website_label": "Customer Information Sheet",
+   "doc_type": "CIS",
+   "url": "https://www.canarahsbclife.com/content/dam/chli/pdf/alpha-wealth/premium-plus/customer-information-sheet.pdf",
+   "found_on_page_url": "https://www.canarahsbclife.com/ulips/alpha-wealth",
+   "pages": 8,
+   "stored_path": null,
+   "status": "already stored (same file)",
+   "note": "identical to 136L088V02-cis"
+  },
+  {
+   "website_label": "Plan Flyer",
+   "doc_type": "leaflet",
+   "url": "https://www.canarahsbclife.com/content/dam/chli/pdf/alpha-wealth/life-plus/plan-flyer.pdf",
+   "found_on_page_url": "https://www.canarahsbclife.com/ulips/alpha-wealth",
+   "pages": null,
+   "stored_path": null,
+   "status": "not stored (leaflet; brochure already stored)",
+   "note": null
+  },
+  {
+   "website_label": "Policy Document",
+   "doc_type": "policy_document",
+   "url": "https://www.canarahsbclife.com/content/dam/chli/pdf/alpha-wealth/life-plus/policy-document.pdf",
+   "found_on_page_url": "https://www.canarahsbclife.com/ulips/alpha-wealth",
+   "pages": 41,
+   "stored_path": null,
+   "status": "already stored (same file)",
+   "note": "identical to 136L088V02-policy"
+  },
+  {
+   "website_label": "Product Brochure",
+   "doc_type": "brochure",
+   "url": "https://www.canarahsbclife.com/content/dam/chli/pdf/alpha-wealth/life-plus/product-brochure.pdf",
+   "found_on_page_url": "https://www.canarahsbclife.com/ulips/alpha-wealth",
+   "pages": 34,
+   "stored_path": null,
+   "status": "already stored (same file)",
+   "note": "identical to 136L088V02-brochure"
+  },
+  {
+   "website_label": "Customer Information Sheet",
+   "doc_type": "CIS",
+   "url": "https://www.canarahsbclife.com/content/dam/chli/pdf/alpha-wealth/life-plus/customer-information-sheet.pdf",
+   "found_on_page_url": "https://www.canarahsbclife.com/ulips/alpha-wealth",
+   "pages": 8,
+   "stored_path": null,
+   "status": "already stored (same file)",
+   "note": "identical to 136L088V02-cis"
+  },
+  {
+   "website_label": "Specimen Signature",
+   "doc_type": "policy_document",
+   "url": "https://www.canarahsbclife.com/content/dam/chli/pdfs/digital-authentication-at-ps-form-revised.pdf",
+   "found_on_page_url": "https://www.canarahsbclife.com/ulips/alpha-wealth",
+   "pages": null,
+   "stored_path": null,
+   "status": "failed",
+   "note": "product code not in the document"
+  }
+ ],
+ "new_features_not_in_schema": [
+  {
+   "feature": "Premium funding benefit (Alpha Premium Plus)",
+   "description": "On death the sum assured is paid at once, the company pays all future premiums and the fund value is paid at maturity",
+   "quote": "Premium Funding Beneﬁt (PFB) refers to the Company funding all the future Premiums",
+   "doc": "Product Brochure",
+   "page": 15
+  },
+  {
+   "feature": "Milestone and systematic withdrawal options",
+   "description": "Either 20% of the fund at year 10 and every 5th year, or 1% to 12% of the fund a year from year 11",
+   "quote": "Policyholder can choose from 1% to 12% of the Fund Value to be withdrawn in a Policy Year.",
+   "doc": "Product Brochure",
+   "page": 22
+  }
+ ],
+ "data_not_public": [
+  {
+   "item": "Full mortality charge table",
+   "doc": "Product Brochure",
+   "where_referenced": "Mortality Charge section",
+   "quote": "Sample standard mortality rates applicable",
+   "note": "the brochure prints rates for four sample ages; the sample policy document prints no rate table"
+  },
+  {
+   "item": "Premium funding benefit charge rates",
+   "doc": "Product Brochure",
+   "where_referenced": "Premium Funding Benefit Charges section",
+   "quote": "The Premium Funding Beneﬁt Charges shall be available on the company website.",
+   "note": "applies to Alpha Premium Plus only"
+  }
+ ]
+}
