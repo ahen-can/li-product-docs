@@ -60,3 +60,6 @@
 **Anchor: Bharti Life:** ₹563 cr, 0.3% share, #16; ULIP = 17.3% of its book (specialist index 0.88); +48% YoY.
 
 Scores are reproducible: inputs are the phase-1 data and `analysis/product_features_v1.csv`.
+
+## Output size (user, 4 Nov)
+The deck shows **5 products per category**: Bharti's flagship plus 4 peers (top leaders plus at most one innovator, adjusted by the user's "My view" tab). The supporting Excel shows **10 to 15 products per category**, chosen from the leaders' and challengers' flagships, Bharti's top products by NBP, and LIC as a reference column.
