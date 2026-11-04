@@ -63,6 +63,7 @@ def pages_of(path):
     t = open(path, errors='ignore').read()
     return t.split('\f')
 
+NEG = []
 def find(pgs, rx, flags=re.I, ctx=110, exclude=None):
     """first match -> (page_no, snippet)"""
     R = re.compile(rx, flags)
@@ -73,6 +74,11 @@ def find(pgs, rx, flags=re.I, ctx=110, exclude=None):
             if exclude and re.search(exclude, s, re.I):
                 continue
             if re.search(r'free[- ]?look|nominat|section 3[89]|section 45|ombudsman|grievance|assignment', s, re.I):
+                continue
+            pre = flat[max(0, m.start() - 45):m.start()]; post = flat[m.end():m.end() + 40]
+            if re.search(r'\b(no|not|without|nil|excludes?|excluded|exclusions?|neither|nor|cannot|isn.t)\b[^.;:]*$', pre, re.I) or \
+               re.search(r'^[^.;]{0,25}\b(not (available|applicable|offered|allowed|payable|covered)|shall not|will not|is excluded|are excluded)', post, re.I):
+                NEG.append((m.group(0), re.sub(r'\s+', ' ', pre + '[' + m.group(0) + ']' + post)))
                 continue
             return i, re.sub(r'\s+', ' ', s).strip()
     return None
@@ -267,6 +273,8 @@ for name, data, cc in (('product_features_v1.csv', rows, cols), ('feature_eviden
 import json
 json.dump([{'feature': k, 'applies_to': s, 'regex': rx, 'exclude': ex, 'definition': d} for k, s, rx, ex, d in F],
           open(os.path.join(OUT, 'feature_catalogue_v1.json'), 'w'), indent=1)
-print('products', len(rows), 'evidence rows', len(ev))
+print('products', len(rows), 'evidence rows', len(ev), 'negated mentions skipped', len(NEG))
+with open(os.path.join(OUT, 'negated_mentions_v1_1.txt'), 'w') as fh:
+    for a, b in NEG[:400]: fh.write(f'{a} || {b}\n')
 print(collections.Counter(r['market_category'] for r in rows))
 print(collections.Counter(r['sub_basis'] for r in rows))
