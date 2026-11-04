@@ -75,4 +75,4 @@ spec = {
 build('512L334V02', spec,
   new_features=[{'feature': 'Refund of all mortality charges at maturity', 'description': 'Total mortality charges (excluding underwriting extras and tax) are paid back with the maturity benefit', 'quote': 'an amount equal to the total amount of mortality charges deducted in respect of life insurance cover shall be payable along with the Maturity Benefit', 'doc': B, 'page': None},
                 {'feature': 'Four asset-mix fund types', 'description': 'Bond, Secured, Balanced and Growth funds at a single 1.35% FMC; the whole fund moves on a switch', 'quote': 'the following four funds to invest your premiums initially', 'doc': B, 'page': None}],
-  not_public=[])
+  not_public=[{'item': 'mortality charge rate table', 'doc': P, 'where_referenced': 'definitions', 'quote': 'Mortality Charge is the charge levied at the beginning of each policy month for providing the life insurance cover.', 'note': 'the brochure gives rates for a few sample ages only and the policy document prints no rate table'}])

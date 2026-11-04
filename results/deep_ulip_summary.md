@@ -18,6 +18,7 @@ Status: in progress. This file grows insurer by insurer. One JSON per product is
 | Bharti Life | 7 of 7 | 7 ("Policy Bond" x6, "Policy Bond Part B" x1) | 7 "Customer Information Sheet" | 0 (none published) | 7 "Download Brochure" | none stored: "Fund Factsheet" and "Fund Performance" are company-wide web pages |
 | Bajaj Life | 11 of 11 | 11: "Download" x9 on the product page, plus 2 not linked (Supreme and Smart Pension, found by the site's file-name pattern) | 13 "Download" or file-name labels (Smart Wealth Goal VII has 3) | 0 (none published; "E-Policy Bond" opens a login page) | 13: unlabelled links cited by file name (Smart Wealth Goal VII has 3 variant brochures, one found by file-name pattern) | none stored: "Investment Insight" is a company-wide factsheet |
 | Axis Max Life | 9 of 9 (8 with a policy document) | 8 "Policy Contract" (Forever Young and Online Savings Plan documents were not linked on their own pages, see odd findings) | 8 "Customer Information Sheet" | 0 (none published) | 9 "Policy Prospectus" or "Prospectus" | none stored: the "Sustainable Yield Index Factsheet" is company-wide and "Monthly Factsheets" is a web page |
+| LIC | 5 of 5 | 5 "Policy Document" | 5 "CIS <product>" | 0 (none published) | 9: each product links two dated "Sales Brochure" files (from 01/10/2024 to 21/09/2025, and from 22/09/2025 onwards); Protection Plus links one | none |
 
 ## Spot checks by hand
 
@@ -27,6 +28,7 @@ Status: in progress. This file grows insurer by insurer. One JSON per product is
 - **Bharti:** Wealth Pro (130L100V03) and Grow Wealth Ultra (130L128V01). I compared the premium allocation, admin and discontinuance tables and the death benefit against the PDFs in layout mode.
 - **Bajaj:** Invest Protect Goal Plus (116L215V01) and LongLife Goal III (116L203V01). I compared the premium allocation, admin and discontinuance tables, the loyalty and return-of-mortality tables and the eligibility rows against the PDFs in layout mode.
 - **Axis Max:** Flexi Wealth Advantage (104L121V05) and Platinum Wealth Plan (104L133V01). I compared the premium allocation band tables, administration, discontinuance and loyalty tables and the eligibility rows against the PDFs in layout mode.
+- **LIC:** SIIP (512L334V02) and Nivesh Plus (512L317V02). I compared the premium allocation, discontinuance and partial-withdrawal tables, the guaranteed-addition tables and the eligibility rows against the PDFs in layout mode.
 
 ## Anything odd
 
@@ -60,6 +62,9 @@ Status: in progress. This file grows insurer by insurer. One JSON per product is
 - **Axis Max fund counts.** Fast Track Super says 30 funds and lists 32 including Secure Plus and the Discontinuance Policy Fund. Online Savings Plan Plus says 27 and lists 29.
 - **Axis Max Flexi Wealth Advantage (104L121V05).** Its administration charge section is titled "All Years" but charges years 6 to 10 only.
 - **Axis Max prospectuses.** Most tables print each premium band in six columns; the policy contracts are specimens with blank schedules, so charge values come from the prospectus.
+- **LIC brochures.** Four products link two sales brochures valid for different dates. The JSON uses the one valid from 22/09/2025 and keeps the older one in the inventory. The older New Pension Plus brochure is 28 pages against 48 for the new one.
+- **LIC two-column tables.** The discontinuance tables wrap words across lines ("sub-", "maxi-"), so their quotes keep the hyphens inside a row and drop only the one at a line end.
+- **LIC policy documents.** They carry no charge tables or rate tables, so all charge values come from the brochures.
 
 ## New features found (seed for feature list v2)
 
@@ -100,6 +105,11 @@ Status: in progress. This file grows insurer by insurer. One JSON per product is
 - **Axis Max strategies.** Systematic Transfer Plan (Secure Plus Fund into growth funds over 12 months), Dynamic Fund Allocation, Lifecycle, Trigger Based and Self-Managed.
 - **Axis Max pension.** Forever Young Pension accepts UK pension transfers (QROPS) and has a Save More Tomorrow top-up that rises 5% a year.
 - **Axis Max Smart Withdrawals.** Flexi Wealth Advantage (whole life variant) allows up to 8% of fund value a year, and Online Savings Plan Plus up to 12%, without cutting the sum assured.
+- **LIC guaranteed additions.** Index Plus and SIIP add 3% to 18% (below Rs 48,000) or 5% to 30% of one annualized premium at years 6, 10, 15, 20 and 25. Nivesh Plus adds 3% to 7% of the single premium. New Pension Plus adds 5% of annual premium at year 6 rising to 15.5% in years 41 and 42.
+- **LIC mortality refund.** Index Plus, SIIP and Protection Plus pay back all mortality charges at maturity. New Pension Plus has no mortality charge.
+- **LIC fund design.** Two to six asset-mix or index fund types at a flat 1.35% FMC; a switch moves the whole fund, with 4 free switches a year and Rs 100 after that. Partial withdrawals cost Rs 100 and are capped by a percentage of the fund that rises with policy year.
+- **LIC Protection Plus.** Top-up premiums carry their own 1.25x sum assured and fund. The basic sum assured can be raised within 12 months of a marriage or birth (up to age 45).
+- **LIC pension.** New Pension Plus limits withdrawals to listed purposes, at most 3 times, and lets the vesting date be extended up to age 85.
 
 ## data_not_public
 
@@ -109,6 +119,7 @@ Status: in progress. This file grows insurer by insurer. One JSON per product is
 - **Bharti.** Nothing deferred. All seven policy bonds publish full mortality tables and charge tables.
 - **Bajaj.** Fortune Gain II refers to Annexure 3 for mortality rates but does not attach it, and its specimen schedule does not print the administration charge. Magnum Fortune Plus III, Goal Based Saving III, Invest Protect Goal Plus, LongLife Goal III, Supreme and Smart Wealth Goal VII publish mortality rates in their policy documents. Smart Pension publishes them in the V03 document.
 - **Axis Max.** Online Savings Plan Plus has no policy document, so its mortality rates are not public. The other eight policy documents print mortality tables (Fast Track Super p.23, Flexi Wealth Plus p.23, Flexi Wealth Advantage p.38, Forever Young p.22, Online Savings Plan p.18, Platinum Wealth p.32, Shiksha Plus Super p.21, Smart Term p.38); the JSON gives the prospectus sample ages where one exists.
+- **LIC.** The four non-pension policy documents print no mortality rate table, and the brochures give rates for five sample ages only. New Pension Plus has no mortality charge.
 
 ## Gaps and retry list
 
@@ -118,3 +129,4 @@ Status: in progress. This file grows insurer by insurer. One JSON per product is
 - **SBI second pass (done).** Revival period and surrender value for Smart Privilege Plus and Smart Scholar Plus, and switching for Smart Scholar Plus, are now quoted from their policy documents.
 - **Bajaj.** No BIs or product-specific fund factsheets. Smart Wealth Goal VII has three variants; the JSON records the Wealth variant field by field. Child Wealth (brochure.pdf, eligibility p.10, charges p.30) and Joint Life Wealth (brochure-2.pdf, eligibility p.9, charges p.26) are on the retry list. Smart Pension needs the V08 policy document if Bajaj publishes it.
 - **Axis Max.** No BIs or product-specific fund factsheets. Online Savings Plan Plus needs its own policy document. Flexi Wealth Advantage online/ISNP allocation tables, Forever Young single-pay discontinuance table, Smart Term loyalty table for entry ages above 35, and the strategy mechanics for Online Savings Plan Plus and Platinum Wealth are not recorded field by field.
+- **LIC.** No BIs or product-specific fund factsheets. Fund asset-mix tables and SFINs for Protection Plus and New Pension Plus, and the New Pension Plus single-premium discontinuance table, are not recorded field by field.

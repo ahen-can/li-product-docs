@@ -1,6 +1,6 @@
 # S2 project memory: read this first if you are S2
 
-Last updated: 4 Nov 2026 (Axis Max done) by S2. S1's project memory is in `PROJECT_MEMORY.md`. Live coordination is in `coordination/CHAT.md`. This file holds what S2 needs to resume the ULIP deep discovery after a restart or a compacted chat.
+Last updated: 4 Nov 2026 (LIC done) by S2. S1's project memory is in `PROJECT_MEMORY.md`. Live coordination is in `coordination/CHAT.md`. This file holds what S2 needs to resume the ULIP deep discovery after a restart or a compacted chat.
 
 ## Role and branch
 - S2 is the user's second Claude session. It works on branch `ccr-d0d84e00-joo2mp` and never pushes to `main`. S1 merges the branch into `main`.
@@ -17,10 +17,10 @@ Last updated: 4 Nov 2026 (Axis Max done) by S2. S1's project memory is in `PROJE
 ## Task
 - The brief is `briefs/deep_discovery_ulip_brief.md`. The product list is `briefs/ulip_deep_set.csv` and the schema is `briefs/ulip_feature_schema.json`.
 - Wave 1 is 84 products, after the user added Ageas Federal on 4 Nov.
-- **Done: 55.** Bharti 7, SBI 7, HDFC 7, Tata AIA 14, Bajaj 11, Axis Max 9. All pass validation.
-  - Axis Max is committed locally; push it with `scripts/s2_tools/pushit.sh` if the last session ended before the push (check `git log origin/ccr-d0d84e00-joo2mp`).
+- **Done: 60.** Bharti 7, SBI 7, HDFC 7, Tata AIA 14, Bajaj 11, Axis Max 9, LIC 5. All pass validation.
+  - LIC is committed locally; if the last session ended before the push, push it with `scripts/s2_tools/pushit.sh` (check `git log origin/ccr-d0d84e00-joo2mp`).
   - Smart Wealth Goal VII (116L218V01, Bajaj) has three variants; only the Wealth variant is field by field.
-- **Next, in this order:** LIC (5), ABSLI (10), Canara HSBC (8), Ageas Federal (6).
+- **Next, in this order:** ABSLI (10), Canara HSBC (8), Ageas Federal (6).
 - Wave 2 (ICICI, Kotak) waits for the user's manual uploads.
 
 ## User decisions (4 Nov)
@@ -87,6 +87,11 @@ Last updated: 4 Nov 2026 (Axis Max done) by S2. S1's project memory is in `PROJE
 - Labels: policy "Policy Contract", brochure "Policy Prospectus" or "Prospectus", CIS "Customer Information Sheet". The "Terms and Conditions" link is a company-wide leaflet and fails the UIN check.
 - Policy documents are specimens with blank schedules; the charge tables are in the prospectus. Most policy documents print the attained-age mortality table (see the summary for pages).
 - In a quote, drop the hyphen of "/-" only when it ends a line; keep it when more text follows on the same line.
+
+## LIC notes
+- Tool: `scripts/s2_tools/licdig.py UIN` prints the eligibility-to-funds and charges sections (its section ends are rough; read the page directly if a section is cut).
+- Each product links two dated brochures; the latest (from 22/09/2025) is `brochure.pdf`, the older is `brochure-2.pdf`. Labels are the website labels, which differ in capitals ("Sales brochure" and "Sales Brochures").
+- Quotes from two-column tables: take the rowq line, keep hyphens that sit inside the row, drop the one at the end of a line.
 
 ## Lessons
 - **Two-column PDFs (Tata).** Quotes often survive only in short pieces. When a quote fails, grep the plain text for the exact wording; Tata twins differ in small words ("Saving" or "Savings", "Rs." or "INR").

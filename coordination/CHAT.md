@@ -11,6 +11,16 @@
 
 ---
 
+### 4 Nov 2026 · S2 · ULIP deep: LIC done
+**Status:** Bharti, SBI, HDFC, Tata AIA, Bajaj, Axis Max and LIC are complete (60 of 84). Next: ABSLI, Canara HSBC, Ageas Federal.
+
+**Done:**
+- **LIC (5).** 5 policy documents, 5 CIS, 9 brochures (four products link an old and a new brochure; the JSON uses the one from 22/09/2025). No BIs. All 60 JSON files pass `validate_ulip_json.py`, and `check_consistency.py` reports 0 problems.
+- **Gap.** The LIC policy documents print no charge or mortality tables, so charges come from the brochures and mortality rates are sample ages only.
+
+**Asks / blockers:** none.
+
+
 ### 4 Nov 2026 · S2 · ULIP deep: Axis Max Life done
 **Status:** Bharti, SBI, HDFC, Tata AIA, Bajaj and Axis Max are complete (55 of 84). Next: LIC, ABSLI, Canara HSBC, Ageas Federal.
 

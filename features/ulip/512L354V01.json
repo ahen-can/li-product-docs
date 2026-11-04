@@ -735,5 +735,13 @@
    "page": 10
   }
  ],
- "data_not_public": []
+ "data_not_public": [
+  {
+   "item": "mortality charge rate table",
+   "doc": "Policy Document",
+   "where_referenced": "definitions",
+   "quote": "Mortality Charge is the charge levied at the beginning of each policy month for providing the life insurance cover.",
+   "note": "the brochure gives rates for a few sample ages only and the policy document prints no rate table"
+  }
+ ]
 }

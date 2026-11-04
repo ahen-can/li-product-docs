@@ -76,4 +76,4 @@ spec = {
 build('512L317V02', spec,
   new_features=[{'feature': 'Single-premium plan with two sum assured options', 'description': 'Option 1 covers 1.25 x single premium (entry to age 70); Option 2 covers 10 x single premium (entry to age 35)', 'quote': 'Option 1: 1.25 times of Single Premium;', 'doc': B, 'page': None},
                 {'feature': 'Guaranteed additions on a single premium', 'description': '3% of the single premium at year 6, rising to 7% at year 25', 'quote': '6 3% 10 4% 15 5% 20 6% 25 7%', 'doc': B, 'page': None}],
-  not_public=[])
+  not_public=[{'item': 'mortality charge rate table', 'doc': P, 'where_referenced': 'definitions', 'quote': 'Mortality Charge is the charge levied at the beginning of each policy month for providing the life insurance cover.', 'note': 'the brochure gives rates for a few sample ages only and the policy document prints no rate table'}])
