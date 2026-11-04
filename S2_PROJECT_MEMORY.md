@@ -1,6 +1,6 @@
 # S2 project memory: read this first if you are S2
 
-Last updated: 4 Nov 2026 (ABSLI done, Canara HSBC 5 of 8) by S2.
+Last updated: 4 Nov 2026 (all 84 ULIP JSONs built and pushed; cross-check and wave report in progress) by S2.
 
 ## Role and branch
 - S2 is the user's second Claude session. It works on branch `ccr-d0d84e00-joo2mp` and never pushes to `main`. S1 merges the branch into `main`.
@@ -98,14 +98,11 @@ Last updated: 4 Nov 2026 (ABSLI done, Canara HSBC 5 of 8) by S2.
 - Quotes from two-column tables: take the rowq line, keep hyphens that sit inside the row, drop the one at the end of a line.
 
 ## Session state (4 Nov, latest)
-- 75 of 84 JSON files done and validating (0 consistency problems). Bharti, SBI, HDFC, Tata AIA, Bajaj, Axis Max, LIC and ABSLI (10) are pushed with summary and CHAT entries. Canara HSBC: documents for all 8 are stored (Promise4Growth 136L089V02 has no product page; its 3 PDFs came from the sibling file-name pattern, added with `addoc.py`, which now seeds a row from master_list.csv). Specs written and validated: 136L088V02 Alpha Wealth, 136L094V01 EZ Pension, 136L095V01 Legacy Builder, 136L089V02 Promise4Growth, 136L093V01 Promise4Growth Plus. Committed locally and on the branch as WIP.
-- Left in Canara HSBC: 136L096V01 Promise4Wealth (read; plan options Maximiser, Shield, LongLife; zero allocation charge; admin 1% year 1 then 3% years 2-10 capped Rs 500 a month; value booster 1% of year-1 premiums; return of mortality charge (not Shield) and admin charge (1.5x up to 15-year term, 2x above); 15 funds same as Promise4Growth Plus; labels 'Download Brochure' and 'Policy Document'), 136L092V02 SecureInvest and 136L085V04 Wealth Edge (three variants share one file set; stored brochure label is 'Product Brochure'). Then the Canara summary row, spot checks, odd findings, new features, data_not_public, gaps; commit "Deep ULIP: Canara HSBC (8 products, ...)"; push; one CHAT entry. Then Ageas Federal (6): run `scripts/deep_collect.py --insurer ageas-federal --dry-run` first.
-- Canara quirks: brochures carry all charge tables, policy documents are samples with SFINs and no mortality table. Use `scripts/s2_tools/labels.py UIN` to see the labels the validator expects. Generator pattern: copy the nearest finished spec and replace entries with a regex script (see Canara Promise4Growth Plus from Promise4Growth).
-- ABSLI quirks: pension plan 109L157V01 fund codes are wrapped in table cells and were joined; Wealth Aspire policy document prints no product code.
-- The user wants, after all 84 are done: cross-check them all and give a report for the wave. If stuck on a document, skip it and ask the user to upload it manually.
-- End-of-wave-1 redo list is unchanged: older label-only quotes in the first 35 files, Bharti Grow Wealth Ultra admin table, Bajaj Smart Wealth Goal VII Child Wealth and Joint Life variants, Tata i Systematic V11 (user upload).
+- All 84 wave 1 ULIP JSON files are built, validate, and are pushed per insurer with summary rows and CHAT entries (Canara HSBC and Ageas Federal done). `check_consistency.py` reports 0 problems.
+- Ageas Federal quirk: product pages keep their documents in a `planWiseDoc` list in the page data. `scripts/deep_collect.py` has an `ageas_docs()` reader for it. Shared helpers: `scripts/ulip_specs/ageas_common.py` (SFINs as printed, `mortality()` table parser, fund dicts).
+- Cross-check tool: `python3 -I scripts/s2_tools/valuecheck.py [UIN]` flags fields whose value numbers are not in the quote text. About 760 flags remain; most in Tata, HDFC, SBI and Bharti are the old label-only quotes. Some flags are fine (derived values, word numerals).
+- What is left, in order: (1) redo the label-only quotes in the first 35 files, (2) Bharti Grow Wealth Ultra (130L128V01) admin charge as a table, (3) retry Bajaj Smart Wealth Goal VII Child Wealth (brochure.pdf, eligibility p.10, charges p.30) and Joint Life Wealth (brochure-2.pdf, eligibility p.9, charges p.26), (4) Tata i Systematic V11 waits for the user upload, (5) write the wave report in `results/deep_ulip_wave1_report.md` and give the user 2 to 3 lines.
 - Sonnet trailer: "Co-Authored-By: Claude Sonnet 5.5 <noreply@anthropic.com>" plus the Claude-Session line.
-- Resume steps: `git fetch origin main` and merge, read the top of `coordination/CHAT.md`, write the Promise4Wealth spec from the 136L093V01 pattern, validate, continue.
 
 ## Lessons
 - **Two-column PDFs (Tata).** Quotes often survive only in short pieces. When a quote fails, grep the plain text for the exact wording; Tata twins differ in small words ("Saving" or "Savings", "Rs." or "INR").
