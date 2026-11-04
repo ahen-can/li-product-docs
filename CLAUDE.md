@@ -1,4 +1,4 @@
-# Start here: read PROJECT_MEMORY.md (project state, decisions, next steps) and coordination/CHAT.md before doing anything.
+# Start here: read PROJECT_MEMORY.md (project state, decisions, next steps), docs-internal/METHODS.md (how each output is made) and coordination/CHAT.md before doing anything.
 
 # Rules for agents working in this repo
 
