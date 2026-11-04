@@ -1,77 +1,49 @@
-Presenting Bandhan Life iTerm Comfort
-A plan that ensures your family can carry on with their lives
-and always reach for their goals.
+A Non-linked Non-Participating Individual Pure Risk Premium Life
+              Insurance Plan | UIN: 138N082V01
+We at Bandhan Life know that you would do all you can to protect and secure your loved ones’ future.
+Because you care about them, you would want to ensure their financial security if you are suddenly not
+around to provide it so that they can carry on with their lives and reach for their goals. To enable you
+towards this we introduce Bandhan Life iTerm Comfort, a plan that fuels your family’s tomorrow and lets
+you live tension-free today
 
 
 
-
-                                                                                                         A Non-linked Non-Participating Individual Pure Risk Premium Life Insurance Plan | UIN 138N082V01
 Key Features
 
 
-                                              An assured life
-                                             insurance cover
-                                              with lump sum
-                                                  payout
+                                            An assured life
+                                           insurance cover
+                                            with lump sum
+                                                payout
 
 
 
-         Provides coverage                                               Flexible premium
-           through your                                                   payment at the
-           earning years                                                  frequency you
-                                                                              choose
+       Provides coverage                                                  Flexible premium
+         through your                                                      payment at the
+         earning years                                                     frequency you
+                                                                               choose
 
-                                             Comprehensive
-                                             protection with
-                                            add-on riders for
-                                           Accidental Death
-                                           and Critical Illness
-
-
+                                           Comprehensive
+                                           protection with
+                                          add-on riders for
+                                         Accidental Death
+                                         and Critical Illness
 
 
-Benefit Explained with Example
-Mr. Aggarwal (Age 30 years, Non-smoker) opts for Bandhan Life iTerm Comfort. His policy details are as
-follows:
-     Sum Assured: ₹ 50 lakh
-     Policy Term: 40 years (coverage till age 70 years)
-     Premium Payment Term: 40 years (Regular Pay)
-     Annualized premium: ₹ 13,202 (exclusive of taxes)
-
-
-
-
-Bandhan Life iTerm Comfort | UIN:138N082V01                                                         1
-In case of Mr. Aggarwal’s death at the age of 60 years, an immediate lump-sum payout of ₹ 50 lakh will be
-payable to the Claimant, subject to all due premiums under the Policy being paid.
-
-                                     Annual Premium = ₹13,202
-                                     Total Premium Paid = ₹3,96,060
-                                          Premium Payment Term
-
-
-         ^
-
-                        0                                                               30     (Sum assured at death   40
-                                                                                                       = 50L)
-                                                                     Policy Term
-  Mr. Aggarwal
-
-
-
-The above example is for a standard, healthy life. The policy will terminate post payment of death and no
-further benefits will be payable.
 
 
 Eligibility Conditions
+   Entry Age (in years) ^           Minimum: 18
+                                    Maximum: 65
 
-    Entry Age(in years)^                    Minimum: 18
-                                            Maximum: 65
+   Maturity Age(in years) ^         Minimum: 23
+                                    Maximum: 70
 
-    Maturity Age(in years)^                 Minimum: 23
-                                            Maximum: 70
 
-    Policy Term (in years)                  Minimum: 5
+
+
+Bandhan Life iTerm Comfort | UIN: 138N082V01                                                          2
+    Policy Term (in years)                  Minimum: 5
                                             Maximum: 70 less entry age
                                             Policy Term is subject to the applicable minimum
                                             & maximum Maturity age
@@ -84,49 +56,287 @@ Eligibility Conditions
     Base Sum Assured                        Minimum: ₹25 Lacs
                                             Maximum: ₹1.25Cr
 
-    Premium Payment
-             #
-
-    Frequency #                             Annual, Half-Yearly and Monthly
+    Premium Payment Frequency #
+                                            Annual, Half-Yearly and Monthly
 
 
 [^] All ages above are applicable as on last birthday
 [#] The modal loadings for frequencies other than annual frequency are as follows:
        Half-Yearly Premium = Annualized Premium multiplied by 0.512
        Monthly Premium = Annualized Premium multiplied by 0.087
+The policyholder has the option to alter the payment frequency during the premium payment term without any charge/ fee.
 
 
 
-Bandhan Life iTerm Comfort | UIN: 138N082V01                                                                           2
-Add-on Optional Coverages (Riders)
+How does the plan work?
+Mr. Aggarwal (Age 30 years, Non-smoker) opts for Bandhan Life iTerm Comfort. His policy details are as
+follows:
+     Sum Assured: Rs. 50 lakhs
+     Policy Term: 40 years (coverage till age 70 years)
+     Premium Payment Term: 40 years (Regular Pay)
+     Annualized premium: 13,202 (exclusive of taxes)
+
+
+
+In case of Mr. Aggarwal’s death at the age of 60 years, an immediate lump-sum payout of ₹ 50 lakh will be
+payable to the Claimant, subject to all due premiums under the Policy being paid
+
+                                      Annual Premium = ₹13,202
+                                      Total Premium Paid = ₹3,96,060
+
+                                         Premium Payment Term
+
+
+         ^
+
+                        0                                                            30        (Sum assured at            40
+                                                                                                 death = 50L)
+                                                                   Policy Term
+  Mr. Aggarwal
+
+
+
+The above example is for a standard, healthy life. The policy will terminate post payment of death and no
+further benefits will be payable.
+
+
+
+Bandhan Life iTerm Comfort | UIN: 138N082V01                                                                               3
+Plan Benefits
+
+Death Benefit
+In case of death of the life assured for an in-force policy (all due premiums have been paid), the death
+benefit (as applicable on the date of death) is payable as a lump sum to the Claimant.
+Death Benefit is defined as the Highest of:
+    11 x Annualized Premium (1) or
+    105% x all Policy Premiums paid (excluding taxes) as on the Date of Death or
+     Sum Assured
+
+[1] Annualized Premium shall be the premium amount payable in a year chosen by the policyholder, excluding the taxes, rider
+premiums, underwriting extra premiums and loadings for modal premiums, if any.
+
+The Policy will terminate on payment of the above benefit.
+
+
+Special Exit Value (SEV)
+Under this benefit, the total premium paid along with underwriting extra premiums paid and loadings for
+modal premiums shall be payable to the policyholder, if policyholder exercises SEV feature anytime during
+the period of one year once they attain age of 55 years (as on last birthday).
+The payout will happen at the policy anniversary immediately following the request to exercise this
+feature.
+Please note the following conditions for Special Exit Benefit:
+    The policy should be in-force at the time of availing this value.
+    This value shall be available for policies where age at entry of the life assured at inception of the
+    policy is up to 40 years (age last birthday) and the policy matures at the age of 70 years (age last
+    birthday).
+    This value shall be applicable on the base cover premium only and not to rider.
+
+The Policy shall be terminated after availing this Special Exit Value.
+
+
+Maturity Benefit
+There is no maturity benefit applicable under this plan. In case you survive till Date of Maturity, no
+benefits are payable and your Policy will terminate.
+
+
+Add-on Optional Coverages (Riders)
 Besides providing financial protection against death, Bandhan Life iTerm Comfort offers add-on optional
-coverages
-  1. Bandhan Life AD Rider (UIN: 138B006V05 and all succeeding versions): Provides a Lump-sum benefit
+coverages through the choice of the below mentioned riders provided their Premium Payment Term and
+Policy Term are consistent with the Premium Payment Term and Policy Term of the base plan:
+  1.Bandhan Life AD Rider (UIN: 138B006V05 and all succeeding versions): Provides a Lump-sum benefit
     equal to the rider Sum Assured in case of death due to accident of the Life Assured.
-  2. Bandhan Life CI Care Rider (UIN: 138B016V01 & all succeeding versions): The rider provides Lump-
-     sum benefit and/or waiver of premium on diagnosis of critical illness
+  2.Bandhan Life CI Care Rider (UIN: 138B016V01 & all succeeding versions): The rider provides lump
+    sum benefit and/or waiver of premium on diagnosis of critical illness
 
-Please refer the sales brochure of the respective riders to understand the benefits and terms & conditions before concluding the
-sale
-
-[*] T&C Apply.
-
-
-  BEWARE OF SPURIOUS PHONE CALLS AND FICTITIOUS/FRAUDULENT OFFERS!
-  IRDAI or its officials do not involve in activities like selling insurance policies, announcing bonus or
-  investment of premiums. Public receiving such phone calls are requested to lodge a police complaint.
-
-
-For more details on risk factors, please read the sales brochure carefully before concluding a sale. This
-product is underwritten by Bandhan Life Insurance Limited. Bandhan Life iTerm Comfort. UIN
-(138N082V01). A Non-Linked Non-Participating Individual Pure Risk Premium Life Insurance Plan. Bandhan
-Life Insurance Limited, IRDAI Reg. No. 138. Corporate Identity No: U66010MH2007PLC169110. Registered
-Office: A - 201, 2nd Floor, Leela Business Park, Andheri-Kurla Road, Andheri East, Mumbai - 400059. Tel:
-+91 226118 0100, Toll Free No.:1800 209 90 90 (9am to 7 pm, Mon to Sat), Email:
-customer.care@bandhanlife.com | Website: www.bandhanlife.com. ADVT No. II/Mar 2026/0822.
+Please refer the sales brochure of the respective riders to understand the benefits and terms & conditions
+before concluding the sale.
 
 
 
+Bandhan Life iTerm Comfort | UIN: 138N082V01                                                                             4
+Option to Attach or Detach Riders
+The Riders can be attached to your Bandhan Life iTerm Comfort policy, on Policy commencement or at any
+time during the premium payment term of the base plan (subject to the eligibility criteria of the riders).
+Addition of riders will be subject to underwriting requirements. The riders can be detached from the next
+premium due date after an applicable request has been made to us.
 
-Bandhan Life iTerm Comfort | UIN: 138N082V01                                                                                  3
+
+Tax Benefits
+Tax benefit may be available as per prevailing tax laws.
+
+It is recommended that you obtain professional advice for applicability of Income Tax benefit on
+premiums paid and benefits received. Income Tax, if any, will be deducted at the applicable rate from the
+payments made under the policy.
+
+Goods & Services Tax, Cess (if any) and any other Statutory levy will be charged extra as per prevailing
+rates. Tax laws are subject to amendments from time to time.
+
+The Company does not assume responsibility on tax implication mentioned anywhere in this document.
+
+
+
+Additional Flexibilities
+
+Can I surrender my Policy?
+We advise you to continue your Policy for the complete tenure to enjoy the total benefits of this plan.
+However, no surrender value is payable under this Policy.
+
+
+What if I am not happy with the plan after buying it (Free Look Period)?
+If you are not satisfied with any of the Terms and Conditions of the Policy, you may request to the
+company for cancellation of the policy within 30 days from the date of receipt of the Policy document via
+physical and/or e-mail, whichever is earlier.
+
+On cancellation of the Policy within the above mentioned free look period, we will return the total
+instalment premiums received including any extra premiums and taxes.
+
+The Policy will terminate on payment of this amount and all rights, benefits and interests under this Policy
+will stand extinguished.
+
+
+What if I missed my premium due date (Grace Period)?
+You have a grace period of 15 days for Policies under monthly frequency and 30 days as grace period for
+Policies under Yearly / Half-yearly frequency from the premium due date to pay the premium.
+
+In case of death during the grace period, the Benefit payable will be reduced by an amount equal to the
+outstanding instalment premium (including applicable taxes & other levies, if any) as on date of death as
+applicable.
+
+
+
+
+Bandhan Life iTerm Comfort | UIN: 138N082V01                                                              5
+Outstanding instalment premium in the above case is the due instalment premium(s) that were due but
+unpaid before the death of the Life Assured.
+
+
+What happens if I stop paying the due premiums?
+If you stop paying premiums any time during the Premium Payment Term of the Policy, the Policy will
+lapse at the end of the Grace Period and the cover will cease to exist. We will not pay any benefits for such
+a Policy.
+
+
+How do I Revive my lapsed Policy?
+If the policy has lapsed, it may be revived subject to the IRDAI (Non-Linked Insurance Product)
+Regulations, 2019 as amended from time to time.
+
+The Policyholder may revive the policy within five consecutive years from the due date of the first unpaid
+premium and before the expiry of the policy term. The revival will be subject to the ‘Board approved
+underwriting policy of the Company’ and payment of all outstanding premiums (including taxes and levies)
+with applicable interest , if any, thereon . The interest rate will not exceed the yield to maturity on 10 year
+G-Sec + 200 bps rounded to nearest 50 bps. G-Sec rates will be taken from www.fimmda.org. The interest
+rate will be revised at the beginning of each Financial Year. Any change in this basis will be subject to
+approval from IRDAI, if applicable.
+
+The interest rate for FY 2022-23 is 9.00% p.a.
+
+Upon revival, the policyholder would receive all due benefits accrued (as applicable, if any) but not paid-
+out. In case of no revival request received from the policyholder during the Revival Period the policy will
+terminate.
+
+
+Loan Provision
+Loan is not available under this product.
+
+
+Goods & Service Tax
+Goods & Service Tax or any other tax will be levied as per prevailing tax laws
+
+
+Suicide Exclusion
+In case of death due to suicide within 12 months, from the date of commencement of risk under the policy
+or from the date of revival of the policy, as applicable the nominee or beneficiary of the policyholder shall
+be entitled to 80% of the total premiums paid till the date of death or the surrender value as available on
+date of death whichever is higher provided the policy is in-force.
+
+
+
+Assignment and Nomination
+    Assignment: Allowed as per section 38 of the Insurance Act 1938 as amended from time to time
+    Nomination: Allowed as per section 39 of the Insurance Act 1938 as amended from time to time
+
+
+
+
+Bandhan Life iTerm Comfort | UIN: 138N082V01                                                                 6
+Claimant
+Claimant means the Nominee / Appointee (if Nominee is a minor)/ Assignee; and where there is no
+Assignment or Nomination in existence, the legal heir/s of the policyholder.
+
+
+Prohibition Of Rebates
+Section 41 of the Insurance Act, 1938 (as amended from time to time) states:
+
+No person shall allow or offer to allow, either directly or indirectly, as an inducement to any person to
+take out or renew or continue an insurance in respect of any kind of risk relating to lives or property in
+India, any rebate of the whole or part of the commission payable or any rebate of the premium shown on
+the Policy, nor shall any person taking out or renewing or continuing a Policy accept any rebate, except
+such rebate as may be allowed in accordance with the published prospectuses or tables of the insurer.
+
+
+
+Non-Disclosure
+Section 45 of the Insurance Act, 1938 (as amended from time to time) states:
+
+  1.No Policy of Life Insurance shall be called in question on any ground whatsoever after expiry of 3
+    years from the date of Policy i.e. from the date of issuance of Policy or the date of commencement of
+    risk or the date of revival of Policy or the date of rider to the Policy, whichever is later.
+  2. On the ground of fraud, a Policy of Life Insurance may be called in question at any time within 3 years
+    from the date of issuance of Policy or the date of commencement of risk or the date of Revival of
+    Policy or the date of rider to the Policy, whichever is later. For this, the insurer shall have to
+    communicate in writing to the insured or legal representative or nominee or assignees of insured, as
+    applicable, mentioning the ground and materials on which such decision is based.
+
+For full texts of Section 38, Section 39, Section 41 and Section 45, please refer to the Insurance Act, 1938
+(as amended from time to time).
+
+
+
+
+Bandhan Life iTerm Comfort | UIN: 138N082V01                                                              7
+About Us
+Bandhan Life Insurance Limited
+Established in 2008 Bandhan Life is your reliable partner in navigating the world of financial security. We
+are at the forefront of an insurance evolution, striving to bring peace of mind and prosperity to every
+corner of India. By leveraging state-of-the-art technology, we're breaking new ground in the insurance
+industry, making our services accessible, user-friendly, and tailor-made for the digital age. With Bandhan
+Life, you're not just insured; you're inspired to live life to its fullest, backed by a commitment to financial
+security and trust. Welcome to a new era of insurance.
+
+
+Disclaimer
+    The brochure is not a contract of insurance. The precise terms and conditions of this plan are specified
+    in the policy contract.
+    This plan is not a guaranteed insurance plan and it will be subject to Company's underwriting and
+    acceptance.
+    Sub-standard lives may be charged extra premiums as per the insurer's underwriting Policy
+    Insurance cover is available under this product.
+    For detailed terms & conditions please refer to the policy contract.
+    This Product is available for sale through online mode
+
+This product is underwritten by Bandhan Life Insurance Limited.
+
+
+
+How To Contact Us?
+
+If you want to talk to us, just call our customer service team on (Toll Free) 1800 209 9090 or visit our web
+page www.bandhanlife.com.
+
+Bandhan Life iTerm Comfort. UIN (138N082V01). A Non-Linked Non-Participating Individual Pure Risk
+Premium Life Insurance Plan. Bandhan Life Insurance Limited. IRDAI Reg. No. 138. Corporate Identity No:
+U66010MH2007PLC169110. Registered Office: A - 201, 2nd Floor, Leela Business Park, Andheri-Kurla
+Road, Andheri East, Mumbai - 400059. Tel: +91 226118 0100, Toll Free No.:1800 209 90 90 (9am to 7 pm,
+Mon to Sat), Email: customer.care@bandhanlife.com | Website: www.bandhanlife.com.
+ADVT No. IC/Mar 2026/0841.
+
+
+ BEWARE OF SPURIOUS PHONE CALLS AND FICTITIOUS/FRAUDULENT OFFERS!
+ IRDAI or its officials do not involve in activities like selling insurance policies, announcing bonus or
+ investment of premiums. Public receiving such phone calls are requested to lodge a police complaint
+
+
+
+
+Bandhan Life iTerm Comfort | UIN: 138N082V01                                                                 8
 
