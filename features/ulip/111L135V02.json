@@ -238,7 +238,9 @@
    "doc": "Policy Document",
    "page": 40,
    "quote": "No charge is applicable for switching of Funds",
-   "note": null
+   "note": null,
+   "quote_2": "31.2. The Switching charge would be subject to a cap of Rs.500 per switch. However, revision of charges",
+   "page_2": 40
   },
   "partial_withdrawal_charge": {
    "value": "nil (cap Rs 500)",
@@ -254,7 +256,9 @@
    "doc": "Policy Document",
    "page": 40,
    "quote": "No charge is applicable for Premium Re-direction.",
-   "note": null
+   "note": null,
+   "quote_2": "32.2. The Premium Redirection Charges would be subject to a cap of Rs.500 per transaction. However,",
+   "page_2": 40
   },
   "miscellaneous_charge": {
    "value": "Rs 500 each for increasing policy term or premium term, or converting limited to regular pay",
@@ -362,7 +366,9 @@
    "doc": "Policy Document",
    "page": 33,
    "quote": "Switching facility is available, free of charge at any point of time during the Policy Term.",
-   "note": null
+   "note": null,
+   "quote_2": "14.4. The percentage of the Fund Value being Switched should be in multiples of 1%. 14.5. Minimum Switch amount is Rs 5,000/-.",
+   "page_2": 33
   },
   "premium_redirection": {
    "value": "free from year 2; 2 weeks notice",

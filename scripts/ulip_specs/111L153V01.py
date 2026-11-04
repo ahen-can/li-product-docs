@@ -53,7 +53,7 @@ spec = {
  },
  'flexibility': {
   'fund_switching': F('2 free a year then Rs 100; minimum Rs 5,000; also during the settlement period', 'optional (during term)', P, None, 'There are no restrictions on the number of Switches during a particular Policy Year or during entire Policy Term and during the Settlement Period.'),
-  'premium_redirection': F('from year 2, free; 14 days notice', 'optional (during term)', P, None, 'We will allow Premium Re-direction only from the beginning of the second Policy Year.'),
+  'premium_redirection': F('from year 2, free; 14 days notice', 'optional (during term)', P, None, 'We will allow Premium Re-direction only from the beginning of the second Policy Year.', quote_2='received at least 14 days prior to the Premium Due Date on which the Premium Re-direction is', page_2=31),
   'partial_withdrawals': F('from year 6 and age 18; unlimited; Rs 5,000 minimum, 15% of fund value maximum; fund must stay at least 50% of premiums paid; none during settlement', 'optional (during term)', P, None, 'You can make unlimited Partial Withdraws post commencement of the 6th Policy Year.'),
   'systematic_withdrawal_plan': F(None, 'not offered'),
   'top_up_premiums': F(None, 'not offered', P, None, 'Top-up Premiums are not allowed under Your Policy.'),
@@ -69,7 +69,7 @@ spec = {
  },
  'protection_add_ons': {
   'waiver_of_premium_inbuilt': F(None, 'not offered', note='rider only'), 'critical_illness': F('via Waiver of Premium Rider', 'rider', B, None, 'SBI Life - Waiver of Premium Rider- Linked'), 'terminal_illness': NS(), 'spouse_or_child_cover': NS(),
-  'accidental_death': F('SBI Life - Accident Benefit Rider - Linked (111A042V01)', 'rider', B, None, 'Option A: Accidental Death Benefit (ADB)'),
+  'accidental_death': F('SBI Life - Accident Benefit Rider - Linked (111A042V01)', 'rider', B, None, 'Option A: Accidental Death Benefit (ADB)', quote_2='1. SBI Life - Accident Benefit Rider - Linked (UIN:111A042V01): • Option A: Accidental Death Benefit (ADB)', page_2=4),
   'riders_available': F([{'name': 'SBI Life - Accident Benefit Rider - Linked', 'UIN': '111A042V01'}, {'name': 'SBI Life - Waiver of Premium Rider - Linked', 'UIN': '111A049V01'}], 'rider', B, None, '(UIN: 111A042V01)'),
  },
  'surrender_revival': {'lock_in_years': F(5, 'built-in', P, None, 'You can make unlimited Partial Withdraws post commencement of the 6th Policy Year.'), 'discontinuance_rules': F('IRDAI rules: Discontinued Policy Fund in lock-in, reduced paid-up after', 'built-in', P, None, 'the Death Benefit payable would be equal to the Fund Value of the Discontinued Policy Fund on date of intimation of death claim to Us'),

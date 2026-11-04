@@ -35,7 +35,7 @@ spec = {
   'fund_management_charge': F({'min': '0.25% (Money Market Fund)', 'max': '1.35%', 'discontinued_policy_fund': '0.50%'}, 'built-in', P, None, 'The FMC for all Segregated Funds except Discontinued Policy Fund, would be subject to a cap of 1.35%.'),
   'mortality_charge': F('per Rs 1,000 sum at risk by attained age; table published', 'built-in', P, None, 'We will calculate Mortality Charges based on the attained Age of the Life Assured as on the date of deduction.'),
   'discontinuance_charge': F('IRDAI-cap tables (clause 29), nil from year 5', 'built-in', P, None, 'Discontinuance/Surrender Charges 29.1. We will recover Discontinuance Charges from the Fu'),
-  'switching_charge': F('nil (cap Rs 500 if introduced)', 'built-in', P, None, 'Switching charge is currently NIL.'),
+  'switching_charge': F('nil (cap Rs 500 if introduced)', 'built-in', P, None, 'Switching charge is currently NIL.', quote_2='30.2. If introduced, Switching charge would be subject to a cap of Rs.500 per switch. However, revision of charges', page_2=45),
   'partial_withdrawal_charge': F('2 free a year; Rs 100 for each one beyond that', 'built-in', P, None, 'We will charge Rs. 100 for every Partial Withdrawal in excess of'),
   'premium_redirection_charge': F('nil', 'built-in', P, None, 'We will not charge for Premium Re-direction.'),
   'miscellaneous_charge': NS(), 'guarantee_charge': F(None, 'n/a'), 'rider_charges': NS(), 'any_charge_returned': F(None, 'not offered'),
@@ -49,7 +49,7 @@ spec = {
  },
  'flexibility': {
   'fund_switching': F('free, unlimited; also during settlement', 'built-in', P, None, 'There are no restrictions on the number of Switches during a particular Policy Year or during entire Policy Term and during the Settlement Period'),
-  'premium_redirection': F('free from year 1; 14 days notice', 'optional (during term)', P, None, 'We will allow Premium Re-direction from thefirst Policy year onwards.'),
+  'premium_redirection': F('free from year 1; 14 days notice', 'optional (during term)', P, None, 'We will allow Premium Re-direction from thefirst Policy year onwards.', quote_2='least 14 days prior to the Premium Due Date on which the Premium Re-direction is to be applied. Allocation Percentage can only be in multiples of 1%.', page_2=35),
   'partial_withdrawals': F('from year 6 and age 18; 2 free a year, up to 4 a year; 10 in the term (PT up to 10) or 15 (PT over 10)', 'optional (during term)', P, None, 'We will allow two free Partial Withdrawals in a Policy Year.'),
   'systematic_withdrawal_plan': F(None, 'not offered'),
   'top_up_premiums': F(None, 'not offered', P, None, 'Top up Premiums are not allowed under Your Policy.'),
@@ -65,7 +65,7 @@ spec = {
  },
  'protection_add_ons': {
   'waiver_of_premium_inbuilt': F(None, 'not offered', note='rider only'), 'critical_illness': F('via Waiver of Premium Rider', 'rider', B, None, 'SBI Life - Waiver of Premium Rider- Linked (UIN: 111A049V01)'), 'terminal_illness': NS(), 'spouse_or_child_cover': NS(),
-  'accidental_death': F('SBI Life - Accident Benefit Rider - Linked (111A042V01)', 'rider', B, None, 'Option A: Accidental Death Benefit (ADB)'),
+  'accidental_death': F('SBI Life - Accident Benefit Rider - Linked (111A042V01)', 'rider', B, None, 'Option A: Accidental Death Benefit (ADB)', quote_2='SBI Life - Accident Benefit Rider - Linked (UIN : 111A042V01) Option A: Accidental Death Benefit (ADB)', page_2=5),
   'riders_available': F([{'name': 'SBI Life - Accident Benefit Rider - Linked', 'UIN': '111A042V01'}, {'name': 'SBI Life - Waiver of Premium Rider - Linked', 'UIN': '111A049V01'}], 'rider', B, None, 'SBI Life - Accident Benefit Rider - Linked (UIN : 111A042V01)'),
  },
  'surrender_revival': {'lock_in_years': F(5, 'built-in', P, None, 'Lock-In Period: 5 years from the Date of Commencement of Policy.'), 'discontinuance_rules': NS(), 'revival_period': F('3 consecutive complete years from the first unpaid premium', 'built-in', P, None, 'is the period of three consecutive complete years from the date of first unpaid'), 'surrender_value_rule': F('in lock-in: discontinued fund proceeds paid after year 5; after lock-in: fund value on the date of the surrender request', 'built-in', P, None, 'You have an option to Surrender the Policy any time. Upon receipt of request for Surrender, the Fund')},

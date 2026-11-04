@@ -374,7 +374,9 @@
    "doc": "Policy Document",
    "page": 32,
    "quote": "We will allow Premium Re-direction only from the beginning of the second Policy Year.",
-   "note": null
+   "note": null,
+   "quote_2": "at least 14 days prior to the Premium Due Date on which the Premium Re-direction is to be applied.",
+   "page_2": 32
   },
   "partial_withdrawals": {
    "value": "from year 6 and age 18; 2 a year, 10 in the term",
@@ -608,7 +610,9 @@
    "doc": "Product Brochure/Prospectus",
    "page": 4,
    "quote": "Option A: Accidental Death Benefit (ADB)",
-   "note": null
+   "note": null,
+   "quote_2": "SBI Life - Accident Benefit Rider - Linked (UIN: 111A042V01): Option A: Accidental Death Benefit (ADB)",
+   "page_2": 4
   },
   "terminal_illness": {
    "value": null,

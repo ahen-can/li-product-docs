@@ -19,8 +19,8 @@ spec = {
   'online_offline': NS(),
  },
  'eligibility': {
-  'entry_age_min': F('18 years', 'n/a', B, None, 'Entry Age1 (in years)', 'values read from the brochure layout columns'), 'entry_age_max': F('60 years', 'n/a', B, None, 'Entry Age1 (in years)'),
-  'maturity_age_min': F('43 years', 'n/a', B, None, 'Maturity Age1 (in years)', 'read from the layout columns'), 'maturity_age_max': F('85 years', 'n/a', B, None, 'Maturity Age1 (in years)'),
+  'entry_age_min': F('18 years', 'n/a', B, None, 'Entry Age1 (in years)', 'values read from the brochure layout columns', quote_2='18 43 25 Entry Age1 (in years)', page_2=2), 'entry_age_max': F('60 years', 'n/a', B, None, 'Entry Age1 (in years)'),
+  'maturity_age_min': F('43 years', 'n/a', B, None, 'Maturity Age1 (in years)', 'read from the layout columns', quote_2='43 25 Entry Age1 (in years) Maturity Age1 (in years)', page_2=2), 'maturity_age_max': F('85 years', 'n/a', B, None, 'Maturity Age1 (in years)'),
   'policy_term_options': F('25 to 67 years', 'n/a', B, None, 'Policy Term (in years)', 'read from the layout columns and text order'),
   'ppt_options': F('single (Level Cover only); limited 5 years to term minus 1; regular (equal to term, minimum 25)', 'n/a', B, None, 'Single pay is also available only with Level Cover Option.'),
   'premium_min_annual': F('Rs 20,000', 'n/a', B, None, 'Minimum r20,000 p.a. r20,000 p.a. r20,000 p.a. r20,000 p.a.'), 'premium_min_single': F('Rs 20,000', 'n/a', B, None, 'Minimum r20,000 p.a. r20,000 p.a. r20,000 p.a. r20,000 p.a.'), 'premium_max': F('as per underwriting policy', 'n/a', B, None, 'Maximum As per Board Approved Underwriting Policy (BAUP).'),

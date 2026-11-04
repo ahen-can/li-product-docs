@@ -56,7 +56,7 @@ spec = {
   'premium_redirection': NS(),
   'partial_withdrawals': F('after 5 policy anniversaries; minimum Rs 1,000; fund must stay above 2x AP (10% of SP); any number, free', 'optional (during term)', P, None, 'Any number of partial withdrawals can be made in a policy year and no charges shall be levied for making the partial withdrawals.'),
   'systematic_withdrawal_plan': NS(),
-  'top_up_premiums': F('minimum Rs 1,000; locked for 5 years', 'optional (during term)', P, None, 'Each Top-Up Premium shall not be less than Rupees One Thousand'),
+  'top_up_premiums': F('minimum Rs 1,000; locked for 5 years', 'optional (during term)', P, None, 'Each Top-Up Premium shall not be less than Rupees One Thousand', quote_2='during the last 5 years of the Policy Term. b) Each Top-Up Premium shall not be less than Rupees One Thousand (Rs. 1,000).', page_2=7),
   'settlement_option': F('on maturity', 'optional (during term)', P, None, 'Provided that the Insured is alive on the Maturity Date, You have an option to receive Your Maturity Benefit either in lump sum or in the form of periodical'),
   'premium_holiday_or_offset': NS(),
   'increase_decrease_cover': F('SA up or down within boundary conditions', 'optional (during term)', P, None, 'Increase or decrease in Basic Sum Assured or TopUp Sum Assured is allowed'),

@@ -85,7 +85,9 @@
    "doc": "Smart-SIP-brochure-V2.pdf",
    "page": 2,
    "quote": "Wealth Secure (Age last birthday)",
-   "note": "brochure table is laid out in columns; values read from the raw text order"
+   "note": "brochure table is laid out in columns; values read from the raw text order",
+   "quote_2": "Entry Age Entry Age market-linked returns Wealth Secure (Age last birthday) 30 days 65",
+   "page_2": 2
   },
   "maturity_age_min": {
    "value": "18 years (Wealth, Goal Secure); 28 years (Future, Family Secure)",
@@ -101,7 +103,9 @@
    "doc": "Smart-SIP-brochure-V2.pdf",
    "page": 2,
    "quote": "Maximum maturity",
-   "note": null
+   "note": null,
+   "quote_2": "Wealth Secure 18 Years 100 • Wellness benefits with Vitality Riders Future Secure 28 Years 85",
+   "page_2": 2
   },
   "policy_term_options": {
    "value": "minimum 5 years (single pay) or 10 years (limited/regular); maximum 50 years, 100 for Wealth Secure",
@@ -626,6 +630,90 @@
      "name": "Enhanced Value Index Fund",
      "SFIN": "ULIF09816/02/26EVI110",
      "FMC_pct": 1.35,
+     "asset_allocation": "see policy document Schedule of Funds",
+     "risk_label": null
+    },
+    {
+     "name": "Whole Life Aggressive Growth Fund",
+     "SFIN": "ULIF01004/01/07WLA110",
+     "FMC_pct": 1.1,
+     "asset_allocation": "see policy document Schedule of Funds",
+     "risk_label": null
+    },
+    {
+     "name": "Whole Life Stable Growth Fund",
+     "SFIN": "ULIF01104/01/07WLS110",
+     "FMC_pct": 1.0,
+     "asset_allocation": "see policy document Schedule of Funds",
+     "risk_label": null
+    },
+    {
+     "name": "Whole Life Income Fund",
+     "SFIN": "ULIF01204/01/07WLI110",
+     "FMC_pct": 0.8,
+     "asset_allocation": "see policy document Schedule of Funds",
+     "risk_label": null
+    },
+    {
+     "name": "Whole Life Short Term Fixed Income Fund",
+     "SFIN": "ULIF01304/01/07WLF110",
+     "FMC_pct": 0.65,
+     "asset_allocation": "see policy document Schedule of Funds",
+     "risk_label": null
+    },
+    {
+     "name": "Target Maturity Fund",
+     "SFIN": "ULIF07017/05/23TMF110",
+     "FMC_pct": 0.8,
+     "asset_allocation": "see policy document Schedule of Funds",
+     "risk_label": null
+    },
+    {
+     "name": "Constant Maturity Fund",
+     "SFIN": "ULIF06917/05/23CMF110",
+     "FMC_pct": 0.8,
+     "asset_allocation": "see policy document Schedule of Funds",
+     "risk_label": null
+    },
+    {
+     "name": "Business Cycle Fund",
+     "SFIN": "ULIF07215/01/24BCF110",
+     "FMC_pct": 1.2,
+     "asset_allocation": "see policy document Schedule of Funds",
+     "risk_label": null
+    },
+    {
+     "name": "Midcap Momentum Index Fund",
+     "SFIN": "ULIF07509/05/24MIF110",
+     "FMC_pct": 1.2,
+     "asset_allocation": "see policy document Schedule of Funds",
+     "risk_label": null
+    },
+    {
+     "name": "Large Mid Cap Innovation Fund",
+     "SFIN": "ULIF09931/03/26LARMIDINNL110",
+     "FMC_pct": 1.35,
+     "asset_allocation": "see policy document Schedule of Funds",
+     "risk_label": null
+    },
+    {
+     "name": "Multifactor Index Fund",
+     "SFIN": "ULIF10230/06/26MFACTINDXL110",
+     "FMC_pct": 1.35,
+     "asset_allocation": "see policy document Schedule of Funds",
+     "risk_label": null
+    },
+    {
+     "name": "Momentum Value 50 Index Fund",
+     "SFIN": "ULIF10330/09/26MOMV50INDX110",
+     "FMC_pct": 1.35,
+     "asset_allocation": "see policy document Schedule of Funds",
+     "risk_label": null
+    },
+    {
+     "name": "Liquid Fund",
+     "SFIN": "ULIF00304/02/04TLL110",
+     "FMC_pct": 0.9,
      "asset_allocation": "see policy document Schedule of Funds",
      "risk_label": null
     }

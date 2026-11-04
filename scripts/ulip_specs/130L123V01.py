@@ -61,7 +61,7 @@ spec = {
   'other_additions': NS(),
  },
  'flexibility': {
-  'fund_switching': F('unlimited free; minimum 5% per fund', 'built-in', P, None, 'The Policyholder is entitled to make any number of Switches in a Policy Year free of charge.'),
+  'fund_switching': F('unlimited free; minimum 5% per fund', 'built-in', P, None, 'The Policyholder is entitled to make any number of Switches in a Policy Year free of charge.', quote_2='Switches in a Policy Year free of charge. The minimum investment in any allocated fund should not be less than 5% of the Fund Value at the time of allocation,', page_2=14),
   'premium_redirection': F('allowed for future premiums, minimum 5% per fund', 'optional (during term)', P, None, 'The Investment Fund Allocation Instruction is subject to a minimum allocation percentage in a chosen Investment Fund/s, which is currently 5%.'),
   'partial_withdrawals': F('after lock-in, in force or reduced paid-up; minimum Rs 5,000; fund must stay at least 120% of AP; any number free', 'optional (during term)', P, None, 'The minimum partial withdrawal limit is Rs 5,000.'),
   'systematic_withdrawal_plan': F('annual SWB from year 10, up to one AP, minimum Rs 5,000; sum assured must stay at least 10x AP', 'optional (during term)', P, None, 'Sum Assured at all times should be at least 10 times one annualized premium.'),

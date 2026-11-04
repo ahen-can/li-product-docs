@@ -85,7 +85,9 @@
    "doc": "Smart-fortune-plus-V1-brochure.pdf",
    "page": 2,
    "quote": "Entry Age (Age on last Birthday)",
-   "note": "brochure table read in text order"
+   "note": "brochure table read in text order",
+   "quote_2": "65 Years",
+   "page_2": 2
   },
   "maturity_age_min": {
    "value": "18 years (Wealth, Goal Secure); 24 years (Future, Family Secure)",
@@ -101,7 +103,9 @@
    "doc": "Smart-fortune-plus-V1-brochure.pdf",
    "page": 2,
    "quote": "Maturity Age (Age last Birthday)",
-   "note": null
+   "note": null,
+   "quote_2": "• Loyalty Additions and Maturity Booster will boost your fund Wealth Secure 18 Years 100 Years value Future Secure 24 Years 85 Years",
+   "page_2": 2
   },
   "policy_term_options": {
    "value": "minimum 5 years; see brochure for maximum by option",
@@ -125,7 +129,9 @@
    "doc": "Smart-fortune-plus-V1-brochure.pdf",
    "page": 3,
    "quote": "Minimum Premium",
-   "note": "same table layout as Smart SIP; read in text order"
+   "note": "same table layout as Smart SIP; read in text order",
+   "quote_2": "Plan Options Single Premium Limited/ Regular Premium Wealth Secure ₹ 1,000 p.a ₹ 1,200 p.a b) The policyholder (in case the Life Insured is alive as on Future Secure - ₹ 6,000 p.a. the Maturity date).",
+   "page_2": 3
   },
   "premium_min_single": {
    "value": "Rs 1,000 (Wealth Secure, Goal Secure)",
@@ -133,7 +139,9 @@
    "doc": "Smart-fortune-plus-V1-brochure.pdf",
    "page": 3,
    "quote": "For Future Secure and Family Secure option Single Pay is",
-   "note": null
+   "note": null,
+   "quote_2": "Goal Secure Family Secure Single Premium ₹ 1,000 p.a",
+   "page_2": 3
   },
   "premium_max": {
    "value": null,
