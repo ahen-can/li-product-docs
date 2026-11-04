@@ -26,11 +26,11 @@ could be verified. "Not found" means the script and a manual look at the site di
 | LIC | 39 | 2 | 37 | 0 | 0 | 0 | 0 | 0 |
 | PNB MetLife | 27 | 0 | 27 | 0 | 0 | 0 | 0 | 0 |
 | Pramerica Life | 22 | 0 | 21 | 0 | 1 | 0 | 0 | 0 |
-| SBI Life | 27 | 1 | 26 | 0 | 0 | 0 | 0 | 0 |
+| SBI Life | 27 | 0 | 27 | 0 | 0 | 0 | 0 | 0 |
 | Shriram Life | 26 | 1 | 25 | 0 | 0 | 0 | 0 | 0 |
 | Star Union Dai-ichi Life | 33 | 0 | 0 | 0 | 0 | 0 | 0 | 33 |
 | Tata AIA Life | 38 | 1 | 34 | 0 | 3 | 0 | 0 | 0 |
-| **Total** | 633 | 18 | 497 | 0 | 11 | 0 | 0 | 106 |
+| **Total** | 633 | 17 | 498 | 0 | 11 | 0 | 0 | 106 |
 
 ## Manual-download list
 Products whose documents could not be fetched automatically. Each line gives the product, UIN, the insurer page to visit, and which document is missing.
