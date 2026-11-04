@@ -101,7 +101,7 @@ Last updated: 4 Nov 2026 (wave 1 complete, report written) by S2.
 - All 84 wave 1 ULIP JSON files are built, validate, and are pushed per insurer with summary rows and CHAT entries (Canara HSBC and Ageas Federal done). `check_consistency.py` reports 0 problems.
 - Ageas Federal quirk: product pages keep their documents in a `planWiseDoc` list in the page data. `scripts/deep_collect.py` has an `ageas_docs()` reader for it. Shared helpers: `scripts/ulip_specs/ageas_common.py` (SFINs as printed, `mortality()` table parser, fund dicts).
 - Cross-check tool: `python3 -I scripts/s2_tools/valuecheck.py [UIN]` flags fields whose value numbers are not in the quote text. About 760 flags remain; most in Tata, HDFC, SBI and Bharti are the old label-only quotes. Some flags are fine (derived values, word numerals).
-- Wave 1 is done and the report is `results/deep_ulip_wave1_report.md`. What is left: (1) the 89 short-value fields whose quotes lack the number (list them with `python3 -I scripts/s2_tools/fixquotes.py suggest <UIN prefixes>`, accept good suggestions, apply with `fixquotes.py apply`), (2) Tata i Systematic V11 waits for the user upload, (3) wait for the user's next brief.
+- Wave 1 is done and the report is `results/deep_ulip_wave1_report.md`. What is left: (1) the 89 short-value fields whose quotes lack the number (list them with `python3 -I scripts/s2_tools/fixquotes.py suggest <UIN prefixes>`, accept good suggestions, apply with `fixquotes.py apply`), (2) Tata i Systematic V11 is done (user uploads stored under uploads/tata-aia/), (3) wait for the user's next brief.
 - Sonnet trailer: "Co-Authored-By: Claude Sonnet 5.5 <noreply@anthropic.com>" plus the Claude-Session line.
 
 ## Lessons

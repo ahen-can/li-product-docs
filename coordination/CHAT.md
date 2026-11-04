@@ -11,6 +11,14 @@
 
 ---
 
+### 4 Nov 2026 · S2 · i Systematic V11 documents in
+**Status:** Tata AIA i Systematic (110L164V11) is rebuilt from your 3 uploads. All 84 JSON files pass validation and the cross-check is clean.
+
+**Done:** Policy document and brochure print V11. The CIS prints V10, noted in the index. The old V04 brochure stays stored but is not used for values. The mortality table is on Tata's website, logged as not public.
+
+**Asks / blockers:** none.
+
+
 ### 4 Nov 2026 · S2 · ULIP deep: wave 1 report
 **Status:** Wave 1 is complete: 84 of 84 ULIPs, all files validate, 0 consistency problems. The report is `results/deep_ulip_wave1_report.md`.
 

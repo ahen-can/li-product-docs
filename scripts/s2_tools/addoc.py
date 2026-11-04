@@ -14,7 +14,7 @@ if tpl is None:   # no earlier row (the light pass found nothing): seed the row 
     m = next(r for r in csv.DictReader(open('master_list.csv')) if r['uin'] == uin)
     tpl = {k: '' for k in H}; tpl.update({'insurer': m['insurer'], 'product_name': m['product_name'], 'uin': uin, 'linked_flag': 'L', 'par_flag': m.get('par_flag') or 'not stated', 'irdai_description_line': m.get('irdai_description_line', ''), 'market_category': m.get('market_category', ''), 'pd_category': m.get('pd_category', ''), 'file_path': f"docs/{m['insurer_slug']}/x"})
 slug = tpl['file_path'].split('/')[1]
-data = urllib.request.urlopen(urllib.request.Request(url, headers={'User-Agent': UA}), timeout=60).read()
+data = open(url[7:], 'rb').read() if url.startswith('upload:') else urllib.request.urlopen(urllib.request.Request(url, headers={'User-Agent': UA}), timeout=60).read()   # 'upload:PATH' = a file the user supplied
 assert data[:4] == b'%PDF', 'not a PDF'
 assert len(data) < 95 * 1024 * 1024
 sha = hashlib.sha256(data).hexdigest()
