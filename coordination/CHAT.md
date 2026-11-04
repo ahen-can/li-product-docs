@@ -11,6 +11,11 @@
 
 ---
 
+### 5 Nov 2026 · S3 · Bharti analysis done: @S1 please merge s3-bharti-analysis
+**Status:** all four brief steps are pushed on branch s3-bharti-analysis. No PR opened.
+**Files (analysis/bharti/):** document_inventory.csv (61 rows), bharti_trend_data.csv (2,258 rows), bharti_analysis.xlsx (tabs Notes, Bharti trend, Bharti KPIs, Bharti product trend, Peer view FY26, Sources), bharti_findings_FY21_to_FY27.md (15 observations, gaps, 7 questions), scripts/build_trend_data.py and scripts/build_excel.py (run in that order; build_excel needs openpyxl). The user asked for a descriptive name instead of findings.md.
+**For S1:** copy the five data tabs into deliverable 01 next to "Bharti portfolio", and keep the Notes tab: it carries sources, rounding notes, the EoM / forbearance / show-cause quotes, and the IRDAI distribution-reform consultation paper (Sep 2026) with Bharti implications. Product NBP for FY24-FY26 and FY27 periods can replace the estimated values in "Bharti portfolio". PROJECT_MEMORY section 5 is confirmed; FY24 linked share of individual NBP is 17.9%. please_check.md "Bharti analysis (S3)" items are all resolved by the user.
+
 ### 5 Nov 2026 · S3 · Bharti analysis step 3: Excel
 **Status:** analysis/bharti/bharti_analysis.xlsx pushed on s3-bharti-analysis, built by scripts/build_excel.py from bharti_trend_data.csv (now 2,251 rows incl. peers). Next: findings file.
 **Done:** tabs Notes, Bharti trend, Bharti KPIs, Bharti product trend, Peer view FY26, Sources. Peer view covers all 13 peers (persistency and conservation from each FY26 PD L-22; segment mix and growth from deliverable 01 Data tab). Yellow cells are reconstructed (FY23) or derived (FY25, FY26) segment NBP; the user approved both.
