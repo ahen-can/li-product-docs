@@ -1,0 +1,935 @@
+{
+ "product": {
+  "uin": {
+   "value": "136L096V01",
+   "status": "n/a",
+   "doc": "Download Brochure",
+   "page": 12,
+   "quote": "UIN: 136L096V01",
+   "note": null
+  },
+  "uin_in_brochure": {
+   "value": "136L096V01",
+   "status": "n/a",
+   "doc": "Download Brochure",
+   "page": 12,
+   "quote": "UIN: 136L096V01",
+   "note": null
+  },
+  "product_name": {
+   "value": "Canara HSBC Life Insurance Promise4Wealth",
+   "status": "n/a",
+   "doc": "Download Brochure",
+   "page": 1,
+   "quote": "Canara HSBC Life Insurance Promise4Wealth",
+   "note": null
+  },
+  "irdai_description_line": {
+   "value": "A Unit Linked Individual Savings Life Insurance Plan",
+   "status": "n/a",
+   "doc": "Download Brochure",
+   "page": 1,
+   "quote": "A Unit Linked Individual Savings Life Insurance Plan",
+   "note": null
+  },
+  "launch_or_version_date": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "variants_or_plan_options": {
+   "value": [
+    "Promise4Wealth Maximiser",
+    "Promise4Wealth Shield",
+    "Promise4Wealth LongLife"
+   ],
+   "status": "n/a",
+   "doc": "Download Brochure",
+   "page": 2,
+   "quote": "Maximiser",
+   "note": null,
+   "quote_2": "Shield",
+   "page_2": 1,
+   "quote_3": "LongLife",
+   "page_3": 2
+  },
+  "target_segment_stated": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "online_offline": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  }
+ },
+ "eligibility": {
+  "entry_age_min": {
+   "value": {
+    "Maximiser": 0,
+    "Shield": 18,
+    "LongLife": 18
+   },
+   "status": "n/a",
+   "doc": "Download Brochure",
+   "page": 4,
+   "quote": "Entry Age 0-65 Years 18 - 45 years",
+   "note": null,
+   "quote_2": "For PPT less than",
+   "page_2": 4
+  },
+  "entry_age_max": {
+   "value": {
+    "Maximiser": 65,
+    "Shield": 45,
+    "LongLife": {
+     "PPT under 10": 50,
+     "PPT 10 or more": 65
+    }
+   },
+   "status": "n/a",
+   "doc": "Download Brochure",
+   "page": 4,
+   "quote": "Entry Age 0-65 Years 18 - 45 years",
+   "note": null,
+   "quote_2": "10: 18 to 50",
+   "page_2": 4,
+   "quote_3": "18 to 65",
+   "page_3": 4
+  },
+  "maturity_age_min": {
+   "value": {
+    "Maximiser": 18,
+    "Shield": 28
+   },
+   "status": "n/a",
+   "doc": "Download Brochure",
+   "page": 4,
+   "quote": "18- 80 Years 28 – 70 years 100 years",
+   "note": null
+  },
+  "maturity_age_max": {
+   "value": {
+    "Maximiser": 80,
+    "Shield": 70,
+    "LongLife": 100
+   },
+   "status": "n/a",
+   "doc": "Download Brochure",
+   "page": 4,
+   "quote": "18- 80 Years 28 – 70 years 100 years",
+   "note": null
+  },
+  "policy_term_options": {
+   "value": {
+    "Maximiser": "10 to 30 years",
+    "Shield": "10 to 25 years",
+    "LongLife": "100 minus age at entry"
+   },
+   "status": "n/a",
+   "doc": "Download Brochure",
+   "page": 4,
+   "quote": "10-30 Years 10-25 Years",
+   "note": null,
+   "quote_2": "100 minus",
+   "page_2": 4
+  },
+  "ppt_options": {
+   "value": {
+    "limited pay": "5 to PT-1 years",
+    "regular pay": "same as the policy term"
+   },
+   "status": "n/a",
+   "doc": "Download Brochure",
+   "page": 4,
+   "quote": "Limited Pay: 5 to PT-1 years",
+   "note": null,
+   "quote_2": "Same as PT",
+   "page_2": 4
+  },
+  "premium_min_annual": {
+   "value": 12000,
+   "status": "n/a",
+   "doc": "Download Brochure",
+   "page": 4,
+   "quote": "Minimum: ₹12,000",
+   "note": null
+  },
+  "premium_min_single": {
+   "value": null,
+   "status": "not offered",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": "regular and limited pay only"
+  },
+  "premium_max": {
+   "value": "no limit, subject to the Board approved underwriting policy",
+   "status": "n/a",
+   "doc": "Download Brochure",
+   "page": 4,
+   "quote": "Maximum: No Limit, Subject to Board Approved Underwriting Policy",
+   "note": null
+  },
+  "sum_assured_rule": {
+   "value": "10 times the annualized premium",
+   "status": "built-in",
+   "doc": "Download Brochure",
+   "page": 4,
+   "quote": "10 X Annualized Premium",
+   "note": null
+  },
+  "premium_modes": {
+   "value": [
+    "annual",
+    "semi-annual",
+    "quarterly",
+    "monthly"
+   ],
+   "status": "n/a",
+   "doc": "Download Brochure",
+   "page": 4,
+   "quote": "Annual, Semi- Annual, Quarterly and Monthly",
+   "note": null
+  },
+  "life_cover_multiple_choice": {
+   "value": null,
+   "status": "not offered",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": "sum assured is fixed at 10 times the annualized premium"
+  }
+ },
+ "charges": {
+  "premium_allocation_charge": {
+   "value": "nil",
+   "status": "built-in",
+   "doc": "Download Brochure",
+   "page": 18,
+   "quote": "Premium Allocation No charge",
+   "note": null
+  },
+  "policy_administration_charge": {
+   "value": {
+    "year 1": "1.00% a year (0.0833% a month)",
+    "years 2 to 10": "3.00% a year (0.250% a month)",
+    "cap": "deducted monthly, at most Rs 500 a month",
+    "after year 10": "not stated in the brochure"
+   },
+   "status": "built-in",
+   "doc": "Download Brochure",
+   "page": 18,
+   "quote": "Year 1: 1.00% p.a. (0.0833% p.m.)",
+   "note": null,
+   "quote_2": "Year 2 to 10: 3.00% p.a. (0.250% p.m.)",
+   "page_2": 18,
+   "quote_3": "maximum of ₹ 500 per month",
+   "page_3": 18
+  },
+  "fund_management_charge": {
+   "value": {
+    "Emerging Leaders Equity Fund": "1.35%",
+    "India Multi Cap Equity Fund": "1.35%",
+    "Midcap Momentum Growth Index Fund": "1.35%",
+    "Equity II Fund": "1.35%",
+    "Growth Plus Fund": "1.35%",
+    "Balanced Plus Fund": "1.35%",
+    "Nifty 500 Multifactor 50 Index Fund": "1.35%",
+    "India Manufacturing Fund": "1.35%",
+    "Nifty Alpha 50 Index Fund": "1.35%",
+    "Multicap Momentum Quality Index Fund": "1.35%",
+    "NextGen Consumption Fund": "1.35%",
+    "BSE 500 Enhanced Value 50 Fund": "1.35%",
+    "Large Cap Advantage Fund": "1.00%",
+    "Debt Fund": "1.00%",
+    "Liquid Fund": "0.80%",
+    "Discontinued Policy Fund": "up to 0.50%"
+   },
+   "status": "built-in",
+   "doc": "Download Brochure",
+   "page": 18,
+   "quote": "Emerging Leaders Equity Fund 1.35%",
+   "note": null,
+   "quote_2": "BSE 500 Enhanced Value 50 Fund 1.35%",
+   "page_2": 18,
+   "quote_3": "Large Cap Advantage Fund 1.00%",
+   "page_3": 18,
+   "quote_4": "Liquid Fund 0.80%",
+   "page_4": 18
+  },
+  "mortality_charge": {
+   "value": {
+    "basis": "per 1,000 sum at risk a year by age; female lives rated down 3 years; guaranteed",
+    "sample_rates_age_20_30_40_50": {
+     "male": [
+      0.878,
+      0.928,
+      1.596,
+      4.214
+     ],
+     "female": [
+      0.788,
+      0.887,
+      1.29,
+      3.01
+     ]
+    }
+   },
+   "status": "built-in",
+   "doc": "Download Brochure",
+   "page": 19,
+   "quote": "Male 0.878 0.928 1.596 4.214",
+   "note": "sample rates only; the sample policy document prints no rate table",
+   "quote_2": "Female* 0.788 0.887 1.290 3.010",
+   "page_2": 19
+  },
+  "discontinuance_charge": {
+   "value": {
+    "annualized premium up to Rs 50,000": {
+     "Y1": "lower of 20% of AP or FV, max Rs 3,000",
+     "Y2": "15%, Rs 2,000",
+     "Y3": "10%, Rs 1,500",
+     "Y4": "5%, Rs 1,000",
+     "Y5+": "nil"
+    },
+    "annualized premium above Rs 50,000": {
+     "Y1": "lower of 6%, max Rs 6,000",
+     "Y2": "4%, Rs 5,000",
+     "Y3": "3%, Rs 4,000",
+     "Y4": "2%, Rs 2,000",
+     "Y5+": "nil"
+    }
+   },
+   "status": "built-in",
+   "doc": "Download Brochure",
+   "page": 18,
+   "quote": "1 Lower of 20% * Lower of 6% *",
+   "note": null,
+   "quote_2": "2 Lower of 15% * Lower of 4% *",
+   "page_2": 18,
+   "quote_3": "Rs.3,000 Rs.6,000",
+   "page_3": 18,
+   "quote_4": "Rs.1,000 Rs.2,000",
+   "page_4": 19
+  },
+  "switching_charge": {
+   "value": "nil",
+   "status": "built-in",
+   "doc": "Download Brochure",
+   "page": 20,
+   "quote": "Switching Charge No charge",
+   "note": null
+  },
+  "partial_withdrawal_charge": {
+   "value": "nil",
+   "status": "built-in",
+   "doc": "Download Brochure",
+   "page": 20,
+   "quote": "Partial Withdrawal Charge No charge",
+   "note": null
+  },
+  "premium_redirection_charge": {
+   "value": "nil",
+   "status": "built-in",
+   "doc": "Download Brochure",
+   "page": 14,
+   "quote": "Premium Redirection is available free of charge",
+   "note": null
+  },
+  "miscellaneous_charge": {
+   "value": "nil",
+   "status": "built-in",
+   "doc": "Download Brochure",
+   "page": 20,
+   "quote": "Miscellaneous Charges No charge",
+   "note": null
+  },
+  "guarantee_charge": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "rider_charges": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "any_charge_returned": {
+   "value": "mortality charges (Maximiser and LongLife) and policy administration charges (all options) added to the fund value at maturity",
+   "status": "built-in",
+   "doc": "Download Brochure",
+   "page": 10,
+   "quote": "A.Return of Mortality Charge: An amount equal to the total of all the Mortality Charges",
+   "note": null,
+   "quote_2": "Policy Administration Charges deducted during the",
+   "page_2": 11
+  }
+ },
+ "benefits": {
+  "death_benefit_formula": {
+   "value": {
+    "Maximiser and LongLife": "higher of sum assured (less withdrawals in the last 2 years), fund value and 105% of premiums paid",
+    "Shield": "lump sum of the higher of sum assured and 105% of premiums paid; the company funds future premiums until the end of the premium paying term and pays a monthly income of 1/12 of the annualized premium for up to 120 months; fund value paid at maturity"
+   },
+   "status": "built-in",
+   "doc": "Download Brochure",
+   "page": 6,
+   "quote": "3. 105% of all Premiums paid up to the date of death",
+   "note": null,
+   "quote_2": "2. 105% of total premiums paid up to the date of death",
+   "page_2": 7,
+   "quote_3": "1/12th of the Annualized",
+   "page_3": 5
+  },
+  "maturity_benefit": {
+   "value": "fund value at maturity (Shield: to the life assured, or to the nominees if the life assured has died)",
+   "status": "built-in",
+   "doc": "Download Brochure",
+   "page": 8,
+   "quote": "Fund Value as on the date of maturity",
+   "note": null,
+   "quote_2": "To the Nominee(s), if the Life Assured is not alive.",
+   "page_2": 8
+  },
+  "loyalty_additions": {
+   "value": {
+    "timing": "end of every 5th policy year until the end of the premium paying term",
+    "equity, index, thematic, Growth Plus and Balanced Plus funds": "0.50% of the fund average over the last 60 monthly anniversaries",
+    "Large Cap Advantage, Debt and Liquid funds": "0.25%"
+   },
+   "status": "built-in",
+   "doc": "Download Brochure",
+   "page": 8,
+   "quote": "credited at the end of every fifth policy year, starting from the commencement of the Policy",
+   "note": null,
+   "quote_2": "Large Cap Advantage Fund, Debt Fund & Liquid Fund 0.25%",
+   "page_2": 8,
+   "quote_3": "Fund, Nifty Alpha 50 Index Fund, India Manufacturing Fund, Multicap 0.50%",
+   "page_3": 8
+  },
+  "wealth_boosters_or_guaranteed_additions": {
+   "value": {
+    "timing": "end of the 10th policy year and every 5th year to the end of the term; percent of the fund average over the last 60 monthly anniversaries, by annualized premium (below 50,000 / 50,000-99,999 / 1,00,000-4,99,999 / 5,00,000-9,99,999 / 10,00,000 and above)",
+    "PPT under 10, equity-type funds": {
+     "year 10": "1.00 / 1.50 / 2.00 / 2.00 / 2.00",
+     "year 15": "1.00 / 2.00 / 3.00 / 3.50 / 4.00",
+     "year 20": "1.50 / 2.00 / 3.00 / 4.25 / 5.50",
+     "year 25": "2.00 / 2.50 / 3.50 / 4.50 / 5.50",
+     "year 30": "2.50 / 3.00 / 4.00 / 4.75 / 5.50"
+    },
+    "PPT under 10, Large Cap Advantage, Debt and Liquid funds": {
+     "year 10": "nil",
+     "year 15": "nil / nil / 1.00 / 1.50 / 2.00",
+     "year 20": "nil / nil / 1.00 / 2.25 / 3.50",
+     "year 25": "nil / 0.50 / 1.50 / 2.50 / 3.50",
+     "year 30": "0.50 / 1.00 / 2.00 / 2.75 / 3.50"
+    },
+    "PPT 10 or more, equity-type funds": {
+     "year 10": "1.50 / 2.00 / 2.00 / 2.00 / 2.00",
+     "year 15": "1.50 / 2.75 / 3.50 / 3.75 / 4.00",
+     "year 20": "2.00 / 2.75 / 3.50 / 4.50 / 5.50",
+     "year 25": "2.50 / 3.00 / 4.00 / 4.75 / 5.50",
+     "year 30": "3.00 / 3.50 / 4.50 / 5.00 / 5.50"
+    },
+    "PPT 10 or more, Large Cap Advantage, Debt and Liquid funds": {
+     "year 10": "nil",
+     "year 15": "nil / 0.75 / 1.50 / 1.75 / 2.00",
+     "year 20": "nil / 0.75 / 1.50 / 2.50 / 3.50",
+     "year 25": "0.50 / 1.00 / 2.00 / 2.75 / 3.50",
+     "year 30": "1.00 / 1.50 / 2.50 / 3.00 / 3.50"
+    }
+   },
+   "status": "built-in",
+   "doc": "Download Brochure",
+   "page": 9,
+   "quote": "10 1.00% 1.50% 2.00% 2.00% 2.00%",
+   "note": null,
+   "quote_2": "30 2.50% 3.00% 4.00% 4.75% 5.50%",
+   "page_2": 9,
+   "quote_3": "30 3.00% 3.50% 4.50% 5.00% 5.50%",
+   "page_3": 9,
+   "quote_4": "30 1.00% 1.50% 2.50% 3.00% 3.50%",
+   "page_4": 10
+  },
+  "return_of_mortality_charges": {
+   "value": "all mortality charges deducted are added to the fund value at maturity, excluding extra mortality and tax; Maximiser and LongLife only",
+   "status": "built-in",
+   "doc": "Download Brochure",
+   "page": 10,
+   "quote": "An amount equal to the total of all the Mortality Charges deducted during the Policy Term will be added to",
+   "note": null,
+   "quote_2": "applicable only for Promise4Wealth Maximiser &",
+   "page_2": 10
+  },
+  "return_of_premium_allocation_charges": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "return_of_policy_admin_charges": {
+   "value": {
+    "policy term up to 15 years": "1.5 times the charges deducted",
+    "policy term over 15 years": "2 times the charges deducted"
+   },
+   "status": "built-in",
+   "doc": "Download Brochure",
+   "page": 11,
+   "quote": "Less than or equal to 15 years 1.5 X of Charges deducted shall be returned",
+   "note": null,
+   "quote_2": "Policy Term greater than 15 years 2 X of Charges deducted shall be returned",
+   "page_2": 11
+  },
+  "other_additions": {
+   "value": "value booster: 1% of each premium instalment paid in the first policy year, credited to the fund value; none from year 2",
+   "status": "built-in",
+   "doc": "Download Brochure",
+   "page": 10,
+   "quote": "equal to 1% of each premium installment paid during the first Policy Year",
+   "note": null,
+   "quote_2": "No Value Boosters will be added from the 2nd Policy Year onwards.",
+   "page_2": 10
+  }
+ },
+ "flexibility": {
+  "fund_switching": {
+   "value": "free and unlimited; at least Rs 5,000 per switch",
+   "status": "optional (during term)",
+   "doc": "Download Brochure",
+   "page": 15,
+   "quote": "the amount being switched must be at least Rs. 5,000.",
+   "note": null,
+   "quote_2": "all the switches are free of charge.",
+   "page_2": 15
+  },
+  "premium_redirection": {
+   "value": "free, once in a policy year",
+   "status": "optional (during term)",
+   "doc": "Download Brochure",
+   "page": 14,
+   "quote": "limited to being exercised only once",
+   "note": null
+  },
+  "partial_withdrawals": {
+   "value": {
+    "from": "6th policy year, if first 5 years of premiums are paid and age 18",
+    "minimum": "Rs 5,000, in multiples of Rs 1,000",
+    "fund left after withdrawal": "at least 120% of the annualized premium"
+   },
+   "status": "optional (during term)",
+   "doc": "Download Brochure",
+   "page": 13,
+   "quote": "This product allows You to make partial withdrawals from 6th policy year onwards free of",
+   "note": null,
+   "quote_2": "amount allowed is `5,000.",
+   "page_2": 13
+  },
+  "systematic_withdrawal_plan": {
+   "value": {
+    "Systematic Withdrawal Option": "1% to 12% of fund value a year from policy year 6, paid yearly, half-yearly, quarterly or monthly; minimum payout Rs 1,000"
+   },
+   "status": "optional (during term)",
+   "doc": "Download Brochure",
+   "page": 16,
+   "quote": "You can choose from 1% to 12% of the Fund Value to be withdrawn in a Policy Year.",
+   "note": null,
+   "quote_2": "the minimum withdrawal",
+   "page_2": 17
+  },
+  "top_up_premiums": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "settlement_option": {
+   "value": "maturity fund value paid in instalments over up to 5 years (Maximiser and Shield only)",
+   "status": "optional (during term)",
+   "doc": "Download Brochure",
+   "page": 14,
+   "quote": "not exceeding 5 years",
+   "note": null,
+   "quote_2": "available only under Promise4Wealth Maximiser and",
+   "page_2": 13
+  },
+  "premium_holiday_or_offset": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "increase_decrease_cover": {
+   "value": "after 5 years, premium can be reduced to up to 50% of the original, once; sum assured falls with it",
+   "status": "optional (during term)",
+   "doc": "Download Brochure",
+   "page": 14,
+   "quote": "up to 50% of the original",
+   "note": null,
+   "quote_2": "This option can be exercised only once during the Policy Term.",
+   "page_2": 15
+  },
+  "change_ppt_or_term": {
+   "value": "policy term can be increased, and premium paying term increased or decreased, once a year and at most twice each, after 5 years of premiums",
+   "status": "optional (during term)",
+   "doc": "Download Brochure",
+   "page": 15,
+   "quote": "maximum of 2 times during the entire Policy Term",
+   "note": null,
+   "quote_2": "Alteration needs to be within the product boundary conditions and can result in both",
+   "page_2": 16
+  },
+  "policy_loan": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "auto_portfolio_strategies": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  }
+ },
+ "funds": {
+  "fund_count": {
+   "value": 15,
+   "status": "n/a",
+   "doc": "Download Brochure",
+   "page": 8,
+   "quote": "Large Cap Advantage Fund",
+   "note": "15 funds in the brochure fund table, counted from the list; the brochure states no count"
+  },
+  "fund_list": {
+   "value": [
+    {
+     "name": "Emerging Leaders Equity Fund",
+     "SFIN": "ULIF02020/12/17EMLEDEQFND136",
+     "FMC_pct": 1.35,
+     "asset_allocation": "see brochure fund table",
+     "risk_label": "High"
+    },
+    {
+     "name": "India Multi Cap Equity Fund",
+     "SFIN": "ULIF01816/08/16IMCAPEQFND136",
+     "FMC_pct": 1.35,
+     "asset_allocation": "see brochure fund table",
+     "risk_label": "High"
+    },
+    {
+     "name": "Midcap Momentum Growth Index Fund",
+     "SFIN": "ULIF02218/03/24MIDMIEQFND136",
+     "FMC_pct": 1.35,
+     "asset_allocation": "see brochure fund table",
+     "risk_label": "High"
+    },
+    {
+     "name": "Equity II Fund",
+     "SFIN": "ULIF00607/01/10EQUTYIIFND136",
+     "FMC_pct": 1.35,
+     "asset_allocation": "see brochure fund table",
+     "risk_label": "High"
+    },
+    {
+     "name": "Growth Plus Fund",
+     "SFIN": "ULIF00913/09/10GROWTPLFND136",
+     "FMC_pct": 1.35,
+     "asset_allocation": "see brochure fund table",
+     "risk_label": "Medium to High"
+    },
+    {
+     "name": "Balanced Plus Fund",
+     "SFIN": "ULIF01013/09/10BLNCDPLFND136",
+     "FMC_pct": 1.35,
+     "asset_allocation": "see brochure fund table",
+     "risk_label": "Medium"
+    },
+    {
+     "name": "Nifty 500 Multifactor 50 Index Fund",
+     "SFIN": "ULIF02715/09/25MLFACEQFND136",
+     "FMC_pct": 1.35,
+     "asset_allocation": "see brochure fund table",
+     "risk_label": "High"
+    },
+    {
+     "name": "India Manufacturing Fund",
+     "SFIN": "ULIF02305/11/24INMFGEQFND136",
+     "FMC_pct": 1.35,
+     "asset_allocation": "see brochure fund table",
+     "risk_label": "High"
+    },
+    {
+     "name": "Nifty Alpha 50 Index Fund",
+     "SFIN": "ULIF02502/04/25NFALFEQFND136",
+     "FMC_pct": 1.35,
+     "asset_allocation": "see brochure fund table",
+     "risk_label": "High"
+    },
+    {
+     "name": "Multicap Momentum Quality Index Fund",
+     "SFIN": "ULIF02410/03/25MLMMQEQFND136",
+     "FMC_pct": 1.35,
+     "asset_allocation": "see brochure fund table",
+     "risk_label": "High"
+    },
+    {
+     "name": "NextGen Consumption Fund",
+     "SFIN": "ULIF02910/11/25NGCONEQFND136",
+     "FMC_pct": 1.35,
+     "asset_allocation": "see brochure fund table",
+     "risk_label": "High"
+    },
+    {
+     "name": "BSE 500 Enhanced Value 50 Fund",
+     "SFIN": "ULIF03026/03/26ENVALEQFND136",
+     "FMC_pct": 1.35,
+     "asset_allocation": "see brochure fund table",
+     "risk_label": "High"
+    },
+    {
+     "name": "Large Cap Advantage Fund",
+     "SFIN": "ULIF02109/06/20LARCPADFND136",
+     "FMC_pct": 1.0,
+     "asset_allocation": "see brochure fund table",
+     "risk_label": "High"
+    },
+    {
+     "name": "Debt Fund",
+     "SFIN": "ULIF00409/07/08INDEBTFUND136",
+     "FMC_pct": 1.0,
+     "asset_allocation": "see brochure fund table",
+     "risk_label": "Low to Medium"
+    },
+    {
+     "name": "Liquid Fund",
+     "SFIN": "ULIF00514/07/08LIQUIDFUND136",
+     "FMC_pct": 0.8,
+     "asset_allocation": "see brochure fund table",
+     "risk_label": "Low"
+    }
+   ],
+   "status": "n/a",
+   "doc": "Download Brochure",
+   "page": 11,
+   "quote": "(SFIN: ULIF02109/06/20LARCPADFND136)",
+   "note": "SFINs and risk labels from the brochure fund table, FMCs from the charges table"
+  },
+  "index_or_thematic_funds": {
+   "value": "Midcap Momentum Growth Index Fund, Multicap Momentum Quality Index Fund, Nifty Alpha 50 Index Fund, Nifty 500 Multifactor 50 Index Fund, India Manufacturing Fund, NextGen Consumption Fund, BSE 500 Enhanced Value 50 Fund",
+   "status": "n/a",
+   "doc": "Download Brochure",
+   "page": 4,
+   "quote": "Midcap Momentum Growth Index Fund",
+   "note": null,
+   "quote_2": "Nifty 500 Multifactor 50 Index Fund",
+   "page_2": 8,
+   "quote_3": "(SFIN: ULIF02305/11/24INMFGEQFND136)",
+   "page_3": 12
+  },
+  "discontinued_policy_fund": {
+   "value": {
+    "name": "Discontinued Policy Fund",
+    "fmc": "up to 0.50%"
+   },
+   "status": "built-in",
+   "doc": "Download Brochure",
+   "page": 18,
+   "quote": "Discontinued Policy Fund (DPF)* 0.50%",
+   "note": null
+  }
+ },
+ "protection_add_ons": {
+  "waiver_of_premium_inbuilt": {
+   "value": "Shield: on death the company funds all future premiums until the end of the premium paying term and pays a monthly income of 1/12 of the annualized premium for up to 120 months",
+   "status": "built-in",
+   "doc": "Download Brochure",
+   "page": 7,
+   "quote": "Premium Funding Benefit (PFB) will also become applicable.",
+   "note": null,
+   "quote_2": "1/12th of the Annualized",
+   "page_2": 5
+  },
+  "critical_illness": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "accidental_death": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "terminal_illness": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "spouse_or_child_cover": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "riders_available": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  }
+ },
+ "surrender_revival": {
+  "lock_in_years": {
+   "value": 5,
+   "status": "built-in",
+   "doc": "Download Brochure",
+   "page": 7,
+   "quote": "before the end of the Lock-in Period",
+   "note": null
+  },
+  "discontinuance_rules": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "revival_period": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "surrender_value_rule": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  }
+ },
+ "documents_inventory": [
+  {
+   "website_label": "Download Brochure",
+   "doc_type": "brochure",
+   "url": "https://www.canarahsbclife.com/content/dam/chli/pdfs/products/savings-and-investment/promise4wealth/product-brochure.pdf",
+   "found_on_page_url": "https://www.canarahsbclife.com/savings-and-investment-plans/promise-4-wealth",
+   "pages": 27,
+   "stored_path": "docs/canara-hsbc/136L096V01/brochure.pdf",
+   "status": "already stored",
+   "note": null
+  },
+  {
+   "website_label": "Access Customer Information Sheet",
+   "doc_type": "CIS",
+   "url": "https://www.canarahsbclife.com/content/dam/chli/pdfs/products/savings-and-investment/promise4wealth/customer-information-sheet.pdf",
+   "found_on_page_url": "https://www.canarahsbclife.com/savings-and-investment-plans/promise-4-wealth",
+   "pages": 5,
+   "stored_path": "docs/canara-hsbc/136L096V01/cis.pdf",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "website_label": "Policy Document",
+   "doc_type": "policy_document",
+   "url": "https://www.canarahsbclife.com/content/dam/chli/pdfs/products/savings-and-investment/promise4wealth/policy-document.pdf",
+   "found_on_page_url": "https://www.canarahsbclife.com/savings-and-investment-plans/promise-4-wealth",
+   "pages": 39,
+   "stored_path": "docs/canara-hsbc/136L096V01/policy.pdf",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "website_label": "Specimen Signature",
+   "doc_type": "policy_document",
+   "url": "https://www.canarahsbclife.com/content/dam/chli/pdfs/digital-authentication-at-ps-form-revised.pdf",
+   "found_on_page_url": "https://www.canarahsbclife.com/savings-and-investment-plans/promise-4-wealth",
+   "pages": null,
+   "stored_path": null,
+   "status": "failed",
+   "note": "product code not in the document"
+  }
+ ],
+ "new_features_not_in_schema": [
+  {
+   "feature": "Premium funding benefit and income benefit (Shield)",
+   "description": "On death the company pays all future premiums and a monthly income of 1/12 of the annualized premium for up to 120 months",
+   "quote": "1/12th of the Annualized",
+   "doc": "Download Brochure",
+   "page": 5
+  },
+  {
+   "feature": "Return of policy administration charges at 1.5x or 2x",
+   "description": "Admin charges deducted are added back at maturity at 1.5 times for terms up to 15 years and 2 times above",
+   "quote": "Policy Term greater than 15 years 2 X of Charges deducted shall be returned",
+   "doc": "Download Brochure",
+   "page": 11
+  },
+  {
+   "feature": "Value booster",
+   "description": "1% of each first-year premium instalment added to the fund value",
+   "quote": "equal to 1% of each premium installment paid during the first Policy Year",
+   "doc": "Download Brochure",
+   "page": 10
+  }
+ ],
+ "data_not_public": [
+  {
+   "item": "Full mortality charge table",
+   "doc": "Download Brochure",
+   "where_referenced": "Mortality Charge section",
+   "quote": "Sample standard mortality",
+   "note": "the brochure prints rates for four sample ages; the sample policy document prints no rate table"
+  },
+  {
+   "item": "Premium funding benefit charge rates",
+   "doc": "Download Brochure",
+   "where_referenced": "Premium Funding Benefit Charge section",
+   "quote": "Premium Funding Benefit charge will be equivalent to Mortality charge.",
+   "note": "applies to Shield only; the charge equals the mortality charge"
+  }
+ ]
+}
