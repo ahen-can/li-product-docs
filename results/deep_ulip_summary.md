@@ -13,12 +13,14 @@ Status: in progress. This file grows insurer by insurer. One JSON per product is
 | Insurer | Products | Policy document | CIS | BI | Brochure | Fund documents |
 |---|---|---|---|---|---|---|
 | SBI Life | 7 of 7 | 7 "Policy Document" | 7 "Customer Information Sheet (CIS)" | 0 (none published) | 7 "Product Brochure/Prospectus" (5 products also link a "Product Guide" leaflet, not stored) | none |
+| Tata AIA Life | 14 of 14 (13 with a policy document) | 13 ("Policy Document" x7, "Policy bond" x5, "Download Policy Document" x1) | 13 "Customer Information Sheet" | 0 ("Quote/Benefit Illustration" opens a quote web page) | 13 stored in the light pass; SSR Pro's brochure is image-only with no readable UIN, so it is not stored | none: the "View Fund Fact Sheet" link is one fund's factsheet shown on every page |
 | HDFC Life | 7 of 7 | 8: "<product> - <UIN> - Policy Document" or "Policy Bond" (Smart Pension Plan has separate "Policy Bond offline" and "Policy Bond Online" files) | 0 (none linked) | 0 (none linked) | 7 "Download Brochure" (Smart Woman also links a retail brochure, stored as brochure-2) | none |
 | Bharti Life | 7 of 7 | 7 ("Policy Bond" x6, "Policy Bond Part B" x1) | 7 "Customer Information Sheet" | 0 (none published) | 7 "Download Brochure" | none stored: "Fund Factsheet" and "Fund Performance" are company-wide web pages |
 
 ## Spot checks by hand
 
 - **SBI:** eWealth Plus (111L147V01) and Smart Invest Builder (111L153V01). I compared the clause-17 charges, the partial withdrawal limits and the guaranteed-addition table against the PDFs.
+- **Tata AIA:** Fortune Maxima (110L113V09) and Smart SIP (110L174V02). I compared the allocation-charge table, the admin charge, the loyalty additions and the maturity-booster table against the PDFs in layout mode.
 - **HDFC:** Click 2 Wealth (101L133V03) and Smart Protect Plus (101L187V04). I compared the fund management, discontinuance and special-addition clauses, and the allocation-charge, mortality-refund and maturity-booster tables, against the PDFs in layout mode.
 - **Bharti:** Wealth Pro (130L100V03) and Grow Wealth Ultra (130L128V01). I compared the premium allocation, admin and discontinuance tables and the death benefit against the PDFs in layout mode.
 
@@ -35,6 +37,13 @@ Status: in progress. This file grows insurer by insurer. One JSON per product is
 - **HDFC Smart Woman (101L082V03).** The product page links a policy document stored in the site's "savings-and-investment-withdrawn" folder. It prints 101L082V03, the UIN in the deep set, so I kept it with a note.
 - **HDFC Smart Protect Plus (101L187V04).** The guarantee-charge table prints one rate, 0.50% p.a., across both Capital Growth Fund and Capital Secure Fund. I recorded it as applying to Capital Growth Fund and noted the doubt.
 - **HDFC central pages.** The "specimen policy documents" and "product brochures" links on every product page open company-wide pages. The collector reads them only for links that name the product and its UIN version.
+
+- **Tata i Systematic Insurance Plan (110L164V11).** The deep set lists V11. Its product page is a separate microsite that links only the V04 sales literature. The JSON uses that brochure, with every value flagged, and the policy document is on the retry list.
+- **Tata fund counts.** Part C of Fortune Maxima, Fortune Pro, Wealth Maxima and Smart Sampoorna Raksha says "24 Fund options" (Wealth Pro says 23). Their FMC tables list 31 funds.
+- **Tata Shubh SIP (110L190V01).** The schedule of charges says there is no premium allocation charge, yet clause 3.4 refunds allocation charges from year 11.
+- **Tata Fortune Pro (110L112V07).** Part C promises "return of charges", but the policy has no clause that returns a charge.
+- **Tata fund codes.** Fortune Maxima prints the Tax Bonanza Consumption Fund code as "...TBC 100" in its FMC table and "...TBC 110" elsewhere. Shubh SIP prints the Enhanced Value Index Fund code as ULIF09816/02/26ENVALINDXL110; other Tata policies print "ULIF 098 16/02/26 EVI 110".
+- **Tata Smart Fortune Plus (110L177V01).** The allocation-charge table charges the middle premium band more than the lowest band in years 4-5 (4.5%, 5.0%, 4.5%).
 
 ## New features found (seed for feature list v2)
 
@@ -56,14 +65,21 @@ Status: in progress. This file grows insurer by insurer. One JSON per product is
 - **HDFC pensions.** Click 2 Retire Plus II and Smart Pension Plan allow partial withdrawals only for listed purposes, at most 3 times. Both accept UK pension transfers (QROPS/QOPS). Smart Pension Plan has an automatic rebalancing strategy by years to vesting (90/10 down to 20/80).
 - **HDFC other.** Cheaper service requests online (Rs 25 instead of Rs 250). Sampoorn Nivesh Plus pays a loyalty reward of 1.5% x term x annual premium on direct-channel policies, and lets a child's cover start up to 2 years late with no mortality charge until then. Click 2 Wealth adds 1% of premium as "special additions" for 5 years.
 
+- **Tata withdrawal plans.** Smart SIP, Shubh SIP and Smart Fortune Plus offer a chosen-rate withdrawal plan (pays fund growth above a chosen return) and an index-based plan (above benchmark CAGR, 10-year G-Sec, SBI savings or FD rates, or CPI).
+- **Tata Cover Continuance Booster.** The Smart Sampoorna Raksha family and Shubh Wealth top up the fund when it falls below 10% of the premium (years 1-15) or below a fund value implied by a target net yield (from year 16), so cover does not lapse.
+- **Tata refunds.** The Smart Sampoorna Raksha family, Shubh Wealth and Smart Raksha refund mortality charges monthly from year 11 (2x in some options) and allocation charges in years 10-13. SSR Supreme adds a "Twin Loyalty Booster" when bought with a protection plan.
+- **Tata other.** Extra allocation for women ("Smart Lady"); a high premium booster (Smart Fortune Plus); online-only fund boosters up to 10% of fund value at maturity; mortality priced as a share of IALM by age band, with smokers and women at par (Fortune and Wealth series); Shubh SIP's Prime and Ultima fund 2x or 3x future premiums after death; Smart Raksha's sum assured steps up by 12.5% to 25% at set years; Smart Pension Secure adds 0.5% if the whole vesting benefit buys a Tata AIA annuity.
+
 ## data_not_public
 
 - **SBI.** Nothing deferred. Mortality tables are published in every policy document.
+- **Tata AIA.** Smart SIP and Smart Fortune Plus say the mortality table and the waiver factors are "given on Our website" and do not print them. The Smart Sampoorna Raksha family, Shubh Wealth and Smart Raksha print no mortality rates and name no place where they are published. The Fortune and Wealth series print full tables. Loyalty Program Reward amounts are only on the website.
 - **HDFC.** Nothing deferred. Every policy document publishes its charge tables and mortality rates.
 - **Bharti.** Nothing deferred. All seven policy bonds publish full mortality tables and charge tables.
 
 ## Gaps and retry list
 
 - **Bharti, SBI and HDFC.** None publishes BIs or product-specific fund factsheets on the product page. HDFC product pages link no CIS either.
+- **Tata AIA retry list.** i Systematic V11 policy document and CIS (only V04 sales literature found). Smart Sampoorna Raksha Pro eligibility (its only brochure is image-only without a UIN). Smart Pension Secure fund names (the two-column text splits names from codes).
 - **HDFC, fields left "not stated".** Riders are not listed in any HDFC policy document. Launch dates are taken from the F&U date printed in each policy bond, except Smart Woman, which prints none.
-- **SBI, fields to finish on the second pass.** Some standard fields are "not stated" because I did not quote them, not because the documents lack them: revival period and surrender value for Smart Privilege Plus and Smart Scholar Plus, and switching for Smart Scholar Plus. Their policy documents use the same clauses as eWealth Plus.
+- **SBI second pass (done).** Revival period and surrender value for Smart Privilege Plus and Smart Scholar Plus, and switching for Smart Scholar Plus, are now quoted from their policy documents.

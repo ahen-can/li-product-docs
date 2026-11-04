@@ -67,20 +67,48 @@
  },
  "eligibility": {
   "entry_age_min": {
-   "value": "8 / 3 years / 91 days / 91 days for PT 10 / 15 / 20 / 30",
+   "value": {
+    "PT 10": "8 years",
+    "PT 15": "3 years",
+    "PT 20": "91 days",
+    "PT 30": "91 days"
+   },
    "status": "n/a",
    "doc": "Download Brochure",
    "page": 2,
-   "quote": "Minimum /Maximum age at entry",
+   "quote": "Policy Term Minimum Entry Age 10 years 8 years 15 years 3 years 20 years 0 years (91 days) 30 years 0 years (91 days)",
    "note": null
   },
   "entry_age_max": {
-   "value": "by PPT/PT: 5/10 65, 5/15 60, 5/20 55, 5/30 45; 7/15 65, 7/20 65, 7/30 55; 10/15 65, 10/20 65, 10/30 55; 15/20 65, 15/30 55",
+   "value": {
+    "PPT 5": {
+     "PT 10": 65,
+     "PT 15": 60,
+     "PT 20": 55,
+     "PT 30": 45
+    },
+    "PPT 7": {
+     "PT 15": 65,
+     "PT 20": 65,
+     "PT 30": 55
+    },
+    "PPT 10": {
+     "PT 15": 65,
+     "PT 20": 65,
+     "PT 30": 55
+    },
+    "PPT 15": {
+     "PT 20": 65,
+     "PT 30": 55
+    }
+   },
    "status": "n/a",
    "doc": "Download Brochure",
    "page": 2,
-   "quote": "Minimum /Maximum age at entry",
-   "note": null
+   "quote": "5 10 65 years (Age Last Birthday) 5 15 60 years 5 20 55 years 5 30 45 years 7 15 65 years 7 20 65 years 7 30 55 years",
+   "note": null,
+   "quote_2": "10 15 65 years 10 20 65 years 10 30 55 years 15 20 65 years",
+   "page_2": 2
   },
   "maturity_age_min": {
    "value": "18 years",
@@ -99,20 +127,32 @@
    "note": null
   },
   "policy_term_options": {
-   "value": "10, 15, 20, 30 years",
+   "value": [
+    10,
+    15,
+    20,
+    30
+   ],
    "status": "n/a",
    "doc": "Download Brochure",
    "page": 2,
-   "quote": "Policy Term Minimum Entry Age",
+   "quote": "Policy Term Minimum Entry Age 10 years 8 years 15 years 3 years 20 years 0 years (91 days) 30 years 0 years (91 days)",
    "note": null
   },
   "ppt_options": {
-   "value": "5, 7, 10, 15 years (limited pay)",
+   "value": {
+    "PPT 5": "PT 10, 15, 20, 30",
+    "PPT 7": "PT 15, 20, 30",
+    "PPT 10": "PT 15, 20, 30",
+    "PPT 15": "PT 20, 30"
+   },
    "status": "n/a",
    "doc": "Download Brochure",
    "page": 2,
-   "quote": "Minimum /Maximum age at entry",
-   "note": null
+   "quote": "5 10 65 years (Age Last Birthday) 5 15 60 years 5 20 55 years 5 30 45 years 7 15 65 years 7 20 65 years 7 30 55 years",
+   "note": "limited pay only",
+   "quote_2": "10 15 65 years 10 20 65 years 10 30 55 years 15 20 65 years",
+   "page_2": 2
   },
   "premium_min_annual": {
    "value": "Rs 6,000 a year",
@@ -185,7 +225,10 @@
    "note": "refunded at 118% after the premium term"
   },
   "policy_administration_charge": {
-   "value": "0.0625% of annualised premium per month, maximum Rs 500 per month",
+   "value": {
+    "rate": "0.0625% of annualised premium per month",
+    "cap": "Rs 500 per month"
+   },
    "status": "built-in",
    "doc": "Policy Bond",
    "page": 11,
@@ -205,20 +248,52 @@
    "note": "FMCs charged during the premium term are also refunded at 118%"
   },
   "mortality_charge": {
-   "value": "per 1000 sum at risk by attained age; full table published",
+   "value": {
+    "basis": "annual rate per 1,000 sum at risk by attained age (age last birthday), deducted monthly",
+    "female": "3-year setback",
+    "sample_rates": {
+     "age 18": 0.73,
+     "age 30": 0.82,
+     "age 40": 1.41,
+     "age 90": 138.16
+    }
+   },
    "status": "built-in",
    "doc": "Policy Bond",
    "page": 12,
-   "quote": "Mortality Rates* Per 1000 sum at risk per annum",
-   "note": null
+   "quote": "40 1.41 90 138.16",
+   "note": "rate table on policy bond p.12; refunded as part of the 118% return of charges",
+   "quote_2": "*There is a 3-year setback for female lives",
+   "page_2": 12
   },
   "discontinuance_charge": {
-   "value": "IRDAI-cap table in the policy bond (lower of % of AP, % of fund value or a rupee cap in years 1-4; nil from year 5)",
+   "value": {
+    "AP up to Rs 50,000": {
+     "Y1": "lower of 20% AP, 20% FV, Rs 3,000",
+     "Y2": "lower of 15% AP, 15% FV, Rs 2,000",
+     "Y3": "lower of 10% AP, 10% FV, Rs 1,500",
+     "Y4": "lower of 5% AP, 5% FV, Rs 1,000",
+     "Y5+": "nil"
+    },
+    "AP above Rs 50,000": {
+     "Y1": "lower of 6% AP, 6% FV, Rs 6,000",
+     "Y2": "lower of 4% AP, 4% FV, Rs 5,000",
+     "Y3": "lower of 3% AP, 3% FV, Rs 4,000",
+     "Y4": "lower of 2% AP, 2% FV, Rs 2,000",
+     "Y5+": "nil"
+    }
+   },
    "status": "built-in",
    "doc": "Policy Bond",
-   "page": 5,
-   "quote": "stipulated in ‘Charges’ section – Discontinuance charges of this",
-   "note": "table not re-read for this product"
+   "page": 13,
+   "quote": "Lower of a)20% of a)6% of annual annualized ized premium premium b) 6% of fund b) 20% of fund value value c) Rs. 6,000 b. c. d. c) Rs. 3,000",
+   "note": "two-column table; words split by line-end hyphens (\"annual- ized\"); values read from the layout text of policy bond p.13",
+   "quote_2": "c) Rs. 1,500 c) Rs. 4,000 Lower of a) 5% of annual Lower of ized premium ized premium b) 5% of fund b) 2% of fund value value c) Rs. 1,000 c) Rs. 2,000 Nil Nil",
+   "page_2": 13,
+   "quote_3": "Lower of d)15% of annual a)4% of annualized premium ized premium e) 15% of fund b) 4% of fund value value f) Rs. 2,000 c) Rs. 5,000",
+   "page_3": 13,
+   "quote_4": "Lower of a) 10% of annual Lower of ized premium ized premium b) 10% of fund b) 3% of fund value value c) Rs. 1,500 c) Rs. 4,000",
+   "page_4": 13
   },
   "switching_charge": {
    "value": "any number of free switches",
@@ -295,7 +370,10 @@
    "note": null
   },
   "loyalty_additions": {
-   "value": "0.20% of fund value at the end of each year after the premium term until maturity",
+   "value": {
+    "rate": "0.20% of policy fund value",
+    "when": "end of each policy year after the premium term until maturity"
+   },
    "status": "built-in",
    "doc": "Policy Bond",
    "page": 3,
@@ -311,28 +389,43 @@
    "note": null
   },
   "return_of_mortality_charges": {
-   "value": "part of the 118% refund of charges",
+   "value": {
+    "share": "118% of the charge collected during the premium term (part of the return of all charges)",
+    "timing": "equal parts at the end of each of the 5 years after the premium term"
+   },
    "status": "built-in",
    "doc": "Policy Bond",
    "page": 3,
-   "quote": "The applicable charges are refunded uniformly at the end of every policy year during the corresponding five Policy Years falling after the end of the Premium Payment Term.",
-   "note": null
+   "quote": "118% of all charges (total amount of Premium Allocation Charge, Admin charge, Mortality Charge and Fund Management Charge) excluding any extra underwriting charge applicable during the Premium Payment Term will be returned.",
+   "note": null,
+   "quote_2": "The applicable charges are refunded uniformly at the end of every policy year during the corresponding five Policy Years falling after the end of the Premium Payment Term.",
+   "page_2": 3
   },
   "return_of_premium_allocation_charges": {
-   "value": "part of the 118% refund of charges",
+   "value": {
+    "share": "118% of the charge collected during the premium term (part of the return of all charges)",
+    "timing": "equal parts at the end of each of the 5 years after the premium term"
+   },
    "status": "built-in",
    "doc": "Policy Bond",
    "page": 3,
-   "quote": "The applicable charges are refunded uniformly at the end of every policy year during the corresponding five Policy Years falling after the end of the Premium Payment Term.",
-   "note": null
+   "quote": "118% of all charges (total amount of Premium Allocation Charge, Admin charge, Mortality Charge and Fund Management Charge) excluding any extra underwriting charge applicable during the Premium Payment Term will be returned.",
+   "note": null,
+   "quote_2": "The applicable charges are refunded uniformly at the end of every policy year during the corresponding five Policy Years falling after the end of the Premium Payment Term.",
+   "page_2": 3
   },
   "return_of_policy_admin_charges": {
-   "value": "part of the 118% refund of charges",
+   "value": {
+    "share": "118% of the charge collected during the premium term (part of the return of all charges)",
+    "timing": "equal parts at the end of each of the 5 years after the premium term"
+   },
    "status": "built-in",
    "doc": "Policy Bond",
    "page": 3,
-   "quote": "The applicable charges are refunded uniformly at the end of every policy year during the corresponding five Policy Years falling after the end of the Premium Payment Term.",
-   "note": null
+   "quote": "118% of all charges (total amount of Premium Allocation Charge, Admin charge, Mortality Charge and Fund Management Charge) excluding any extra underwriting charge applicable during the Premium Payment Term will be returned.",
+   "note": null,
+   "quote_2": "The applicable charges are refunded uniformly at the end of every policy year during the corresponding five Policy Years falling after the end of the Premium Payment Term.",
+   "page_2": 3
   },
   "other_additions": {
    "value": "fund management charges are also refunded (part of the 118% refund)",

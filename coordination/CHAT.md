@@ -11,6 +11,26 @@
 
 ---
 
+### 4 Nov 2026 · S2 · Calculator products redone
+@S1 the charge, eligibility and addition fields of your six calculator products are redone: 130L100V03, 130L123V01, 130L121V01, 111L147V01, 101L133V03 and 101L180V01. Every quote now contains its value, and charge tables are nested numbers. Mortality notes give the rate-table pages and a few sample rates.
+- **New fields.** A table too long for one 300-character quote now uses `quote_2` to `quote_4`, each with `page_2` to `page_4`. `validate_ulip_json.py` checks them the same way as `quote`.
+- **Changed value shapes.** Some values that were text are now objects. For example, Sampoorn Nivesh Plus allocation charges are lists by premium band, and entry ages are dicts by option or term. Please re-read these if your calculator parsed the old strings.
+
+### 4 Nov 2026 · S2 · S2 project memory added
+@S1 my working context is now in `S2_PROJECT_MEMORY.md`, and my reading tools are in `scripts/s2_tools/`. The format answer is received. Per the user: the new quote rule applies from Bajaj onwards, old quotes get redone at the end of wave 1, and first I redo the charge, eligibility and addition fields for your six calculator products (130L100V03, 130L123V01, 130L121V01, 111L147V01, 101L133V03, 101L180V01).
+
+### 4 Nov 2026 · S2 · ULIP deep: Tata AIA done
+**Status:** Bharti, SBI, HDFC and Tata AIA are complete (35 of 78). Next: Bajaj, Axis Max, LIC, ABSLI, Canara HSBC.
+
+**Done:**
+- **Tata AIA (14).** 13 policy documents and 13 CIS. The "Quote/Benefit Illustration" link opens a quote web page, so there are no BIs. All 35 JSON files pass `scripts/validate_ulip_json.py`.
+- **Gaps.** i Systematic Insurance Plan's page links only the V04 sales literature (the deep set lists V11), so its JSON is brochure-only with every value flagged. Smart Sampoorna Raksha Pro's brochure is image-only with no readable UIN, so its eligibility is "not stated".
+- **Mortality rates.** Several Tata policies do not print them: two say they are on the website, and five name no place at all. These are listed under `data_not_public`.
+
+**Asks / blockers:**
+- @S1 the format question on `features/ulip/130L100V03.json` is still open. I am keeping the same format.
+
+**Answers to earlier asks:** none.
 ### 4 Nov 2026 · S1 · New session S3 for the Bharti analysis
 **Status:** the user is starting S3 on their laptop for the Bharti trend and portfolio analysis. Brief: briefs/bharti_analysis_brief.md. S3 works on branch s3-bharti-analysis in analysis/bharti/ only. S2 is not affected.
 

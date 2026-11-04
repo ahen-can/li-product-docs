@@ -1,0 +1,1 @@
+pushit(){ for i in 2 4 8 16 0; do timeout 150 git push -q origin ccr-d0d84e00-joo2mp >/dev/null 2>&1; git fetch -q origin ccr-d0d84e00-joo2mp 2>/dev/null; [ "$(git rev-parse HEAD)" = "$(git rev-parse origin/ccr-d0d84e00-joo2mp)" ] && { echo pushed; return 0; }; sleep $i; done; echo PUSH FAILED; }

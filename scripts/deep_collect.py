@@ -33,7 +33,7 @@ KIND = [  # (doc_type, label pattern); first match wins, so order matters
     ('brochure', r'brochure|prospectus|sales[\s_-]*lit|\bsl\b|_sl_|-sl[-_.]'),
 ]
 SKIP = re.compile(r'claim|proposal[\s_-]*form|hindi|marathi|tamil|telugu|kannada|gujarati|bengali|malayalam|odia|punjabi|'
-                  r'rider|grievance|nomination|kyc|annual[\s_-]*report|disclosure|whistle|privacy|csr|policy[\s_-]*for|'
+                  r'rider|grievance|nomination|kyc|supplier|annual[\s_-]*report|disclosure|whistle|privacy|csr|policy[\s_-]*for|'
                   r'underwriting|code[\s_-]*of[\s_-]*conduct|service[\s_-]*manual|calculator|form[\s_-]*\d|policy[\s_-]*loans?', re.I)
 IDX_EXTRA = 'website_label'
 
@@ -90,6 +90,7 @@ def main():
         for u, t in links:
             if urllib.parse.urlparse(u).scheme not in ('http', 'https'): continue
             low = u.lower().split('?')[0]
+            if re.search(r'\.(css|js|png|jpe?g|gif|svg|woff2?)$', low): continue      # page assets, not documents
             doclike = low.endswith('.pdf') or '/documents/' in low or re.search(r'brochure|prospectus|policy|cis|illustration|fact', low + ' ' + t.lower())
             if not doclike: continue
             k = kind_of(t, u)

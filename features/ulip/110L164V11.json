@@ -1,0 +1,569 @@
+{
+ "product": {
+  "uin": {
+   "value": "110L164V11 (deep set); the only document prints 110L164V04",
+   "status": "n/a",
+   "doc": "click here",
+   "page": 1,
+   "quote": "UIN: 110L164V04",
+   "note": "version mismatch: the product page (a separate \"bo\" microsite) links only the V04 sales literature"
+  },
+  "uin_in_brochure": {
+   "value": "110L164V04",
+   "status": "n/a",
+   "doc": "click here",
+   "page": 1,
+   "quote": "UIN: 110L164V04",
+   "note": null
+  },
+  "product_name": {
+   "value": "Tata AIA i Systematic Insurance Plan (iSIP)",
+   "status": "n/a",
+   "doc": "click here",
+   "page": 1,
+   "quote": "Tata AIA i Systematic Insurance Plan (iSIP)",
+   "note": null
+  },
+  "irdai_description_line": {
+   "value": "Unit Linked, Individual Life Insurance Savings plan",
+   "status": "n/a",
+   "doc": "click here",
+   "page": 1,
+   "quote": "Unit Linked, Individual Life Insurance Savings plan",
+   "note": null
+  },
+  "launch_or_version_date": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "variants_or_plan_options": {
+   "value": [
+    "iSIP Wealth",
+    "iSIP Young Genius (company funds future premiums after death)"
+   ],
+   "status": "optional (at inception)",
+   "doc": "click here",
+   "page": 2,
+   "quote": "Option 2: iSIP Young Genius",
+   "note": "from the V04 sales literature; the deep set lists V11 and no V11 document is linked"
+  },
+  "target_segment_stated": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "online_offline": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  }
+ },
+ "eligibility": {
+  "entry_age_min": {
+   "value": "30 days (iSIP Wealth); 18 years (Young Genius)",
+   "status": "n/a",
+   "doc": "click here",
+   "page": 2,
+   "quote": "iSIP Wealth: 0 years (30 days) iSIP Young Genius: 18 years",
+   "note": "from the V04 sales literature; the deep set lists V11 and no V11 document is linked"
+  },
+  "entry_age_max": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "maturity_age_min": {
+   "value": "18 years (Wealth); 28 years (Young Genius)",
+   "status": "n/a",
+   "doc": "click here",
+   "page": 3,
+   "quote": "iSIP Wealth: 18 years iSIP young genius: 28 years",
+   "note": "from the V04 sales literature; the deep set lists V11 and no V11 document is linked"
+  },
+  "maturity_age_max": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "policy_term_options": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "ppt_options": {
+   "value": "single; limited 5 to 20 years; regular (equal to term)",
+   "status": "n/a",
+   "doc": "click here",
+   "page": 3,
+   "quote": "Limited Pay – 5 - 20years",
+   "note": "from the V04 sales literature; the deep set lists V11 and no V11 document is linked"
+  },
+  "premium_min_annual": {
+   "value": "Rs 1,200 (Wealth); Rs 6,000 (Young Genius)",
+   "status": "n/a",
+   "doc": "click here",
+   "page": 3,
+   "quote": "Rs 1,000 Rs 1,200 p.a.",
+   "note": "from the V04 sales literature; the deep set lists V11 and no V11 document is linked"
+  },
+  "premium_min_single": {
+   "value": "Rs 1,000 (Wealth)",
+   "status": "n/a",
+   "doc": "click here",
+   "page": 3,
+   "quote": "Rs 1,000 Rs 1,200 p.a.",
+   "note": "from the V04 sales literature; the deep set lists V11 and no V11 document is linked"
+  },
+  "premium_max": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "sum_assured_rule": {
+   "value": "single: 1.25x SP (up to 49) or 1.10x; regular/limited: 7x or 5x AP; maximum up to 30x by age and term",
+   "status": "built-in",
+   "doc": "click here",
+   "page": 4,
+   "quote": "For Regular / Limited Pay – 7 times Annualised Premium",
+   "note": "from the V04 sales literature; the deep set lists V11 and no V11 document is linked"
+  },
+  "premium_modes": {
+   "value": "single, annual, semi-annual, quarterly, monthly",
+   "status": "n/a",
+   "doc": "click here",
+   "page": 3,
+   "quote": "Single, Annual, Semi-Annual, Quarterly, Monthly",
+   "note": "from the V04 sales literature; the deep set lists V11 and no V11 document is linked"
+  },
+  "life_cover_multiple_choice": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  }
+ },
+ "charges": {
+  "premium_allocation_charge": {
+   "value": "nil",
+   "status": "built-in",
+   "doc": "click here",
+   "page": 1,
+   "quote": "zero premium allocation and policy administration charges",
+   "note": "from the V04 sales literature; the deep set lists V11 and no V11 document is linked"
+  },
+  "policy_administration_charge": {
+   "value": "nil",
+   "status": "built-in",
+   "doc": "click here",
+   "page": 1,
+   "quote": "zero premium allocation and policy administration charges",
+   "note": "from the V04 sales literature; the deep set lists V11 and no V11 document is linked"
+  },
+  "fund_management_charge": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "mortality_charge": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "discontinuance_charge": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "switching_charge": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "partial_withdrawal_charge": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "premium_redirection_charge": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "miscellaneous_charge": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "guarantee_charge": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "rider_charges": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "any_charge_returned": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  }
+ },
+ "benefits": {
+  "death_benefit_formula": {
+   "value": {
+    "iSIP Wealth": "highest of SA, fund value, 105% of premiums",
+    "Young Genius": "higher of SA or 105% now; company funds future premiums"
+   },
+   "status": "built-in",
+   "doc": "click here",
+   "page": 6,
+   "quote": "TATA AIA Life Insurance shall fund all future premiums as and when they are due after the date of death of the Life Insured.",
+   "note": "from the V04 sales literature; the deep set lists V11 and no V11 document is linked"
+  },
+  "maturity_benefit": {
+   "value": "fund value including top-up fund",
+   "status": "built-in",
+   "doc": "click here",
+   "page": 5,
+   "quote": "You get the Fund Value, including Top-Up Premium Fund Value, if any",
+   "note": "from the V04 sales literature; the deep set lists V11 and no V11 document is linked"
+  },
+  "loyalty_additions": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "wealth_boosters_or_guaranteed_additions": {
+   "value": "Smart Lady extra allocation for women; wealth boosters",
+   "status": "built-in",
+   "doc": "click here",
+   "page": 1,
+   "quote": "Smart Lady : Extra allocation in the first",
+   "note": "from the V04 sales literature; the deep set lists V11 and no V11 document is linked"
+  },
+  "return_of_mortality_charges": {
+   "value": "stated as a key benefit; details not read",
+   "status": "built-in",
+   "doc": "click here",
+   "page": 1,
+   "quote": "Enjoy extra allocation of units with the Return of mortality charges",
+   "note": "from the V04 sales literature; the deep set lists V11 and no V11 document is linked"
+  },
+  "return_of_premium_allocation_charges": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "return_of_policy_admin_charges": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "other_additions": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  }
+ },
+ "flexibility": {
+  "fund_switching": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "premium_redirection": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "partial_withdrawals": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "systematic_withdrawal_plan": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "top_up_premiums": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "settlement_option": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "premium_holiday_or_offset": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "increase_decrease_cover": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "change_ppt_or_term": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "policy_loan": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "auto_portfolio_strategies": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  }
+ },
+ "funds": {
+  "fund_count": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "fund_list": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "index_or_thematic_funds": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "discontinued_policy_fund": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  }
+ },
+ "protection_add_ons": {
+  "waiver_of_premium_inbuilt": {
+   "value": "Young Genius: company funds future premiums after death",
+   "status": "optional (at inception)",
+   "doc": "click here",
+   "page": 6,
+   "quote": "TATA AIA Life Insurance shall fund all future premiums as and when they are due after the date of death of the Life Insured.",
+   "note": "from the V04 sales literature; the deep set lists V11 and no V11 document is linked"
+  },
+  "critical_illness": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "accidental_death": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "terminal_illness": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "spouse_or_child_cover": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "riders_available": {
+   "value": "Vitality riders mentioned",
+   "status": "rider",
+   "doc": "click here",
+   "page": 1,
+   "quote": "Wellness benefit with the Vitality Riders",
+   "note": "from the V04 sales literature; the deep set lists V11 and no V11 document is linked"
+  }
+ },
+ "surrender_revival": {
+  "lock_in_years": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "discontinuance_rules": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "revival_period": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "surrender_value_rule": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  }
+ },
+ "documents_inventory": [
+  {
+   "website_label": "click here",
+   "doc_type": "brochure",
+   "url": "https://www.tataaia.com/content/dam/tataaiamfisip/pdf/Tata-AIA-i-Systematic-Insurance-Plan-110L164V04-Sales-Literature.pdf",
+   "found_on_page_url": "https://www.tataaia.com/bo/tataaiamfisip/home-page?&camcode=1004&cid=website:banner:navigationmenuplansection::isip:bofundpage:1004",
+   "pages": 38,
+   "stored_path": "docs/tata-aia/110L164V11/brochure.pdf",
+   "status": "already stored",
+   "note": null
+  }
+ ],
+ "new_features_not_in_schema": [],
+ "data_not_public": [
+  {
+   "item": "policy document, CIS and charges for V11",
+   "doc": "click here",
+   "where_referenced": null,
+   "quote": null,
+   "note": "the product page is a microsite that links only the V04 sales literature; the policy document and CIS were not found"
+  }
+ ],
+ "extraction_notes": [
+  "All values come from the V04 sales literature. Fields left \"not stated\" were not read from it. A V11 policy document should be requested or looked for on the main Tata AIA site."
+ ]
+}
