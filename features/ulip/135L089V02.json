@@ -1,0 +1,997 @@
+{
+ "product": {
+  "uin": {
+   "value": "135L089V02",
+   "status": "n/a",
+   "doc": "Prospectus",
+   "page": 1,
+   "quote": "UIN: 135L089V02",
+   "note": null
+  },
+  "uin_in_brochure": {
+   "value": "135L089V02",
+   "status": "n/a",
+   "doc": "Prospectus",
+   "page": 1,
+   "quote": "UIN: 135L089V02",
+   "note": null
+  },
+  "product_name": {
+   "value": "Ageas Federal Life Insurance Platinum Wealth Builder Plan",
+   "status": "n/a",
+   "doc": "Prospectus",
+   "page": 1,
+   "quote": "Platinum Wealth Builder Plan",
+   "note": null
+  },
+  "irdai_description_line": {
+   "value": "Unit Linked, Non-Participating, Individual Life Insurance Plan",
+   "status": "n/a",
+   "doc": "Prospectus",
+   "page": 1,
+   "quote": "Unit Linked, Non-Participating, Individual Life Insurance Plan",
+   "note": null
+  },
+  "launch_or_version_date": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "variants_or_plan_options": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "target_segment_stated": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "online_offline": {
+   "value": "also sold online, at a lower allocation charge",
+   "status": "n/a",
+   "doc": "Prospectus",
+   "page": 26,
+   "quote": "For staff and online sales policies:",
+   "note": null
+  }
+ },
+ "eligibility": {
+  "entry_age_min": {
+   "value": {
+    "base plan": "0 years (91 days)",
+    "spouse cover, both lives": 18
+   },
+   "status": "n/a",
+   "doc": "Prospectus",
+   "page": 8,
+   "quote": "Base plan: 0 years (91 days)",
+   "note": null,
+   "quote_2": "Spouse Cover (if opted): 18 years",
+   "page_2": 8
+  },
+  "entry_age_max": {
+   "value": 60,
+   "status": "n/a",
+   "doc": "Prospectus",
+   "page": 8,
+   "quote": "Maximum 60 years",
+   "note": null
+  },
+  "maturity_age_min": {
+   "value": 18,
+   "status": "n/a",
+   "doc": "Prospectus",
+   "page": 8,
+   "quote": "Minimum 18 years",
+   "note": null
+  },
+  "maturity_age_max": {
+   "value": 75,
+   "status": "n/a",
+   "doc": "Prospectus",
+   "page": 8,
+   "quote": "Maximum 75 years",
+   "note": null
+  },
+  "policy_term_options": {
+   "value": {
+    "minimum": "12 years (a minor life has a higher minimum)",
+    "maximum": "25 years"
+   },
+   "status": "n/a",
+   "doc": "Prospectus",
+   "page": 8,
+   "quote": "Minimum 12 years*",
+   "note": null,
+   "quote_2": "Maximum 25 years",
+   "page_2": 8
+  },
+  "ppt_options": {
+   "value": "6, 8, 10, 12 or 15 years",
+   "status": "n/a",
+   "doc": "Prospectus",
+   "page": 8,
+   "quote": "6/8/10/12/15 years",
+   "note": null
+  },
+  "premium_min_annual": {
+   "value": {
+    "yearly": 240000,
+    "half-yearly": 120000,
+    "monthly": 20000
+   },
+   "status": "n/a",
+   "doc": "Prospectus",
+   "page": 8,
+   "quote": "Yearly: Rs. 2,40,000",
+   "note": null,
+   "quote_2": "Half Yearly: Rs. 1,20,000",
+   "page_2": 8,
+   "quote_3": "Monthly: Rs. 20,000",
+   "page_3": 8
+  },
+  "premium_min_single": {
+   "value": null,
+   "status": "not offered",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": "regular and limited pay only"
+  },
+  "premium_max": {
+   "value": "no limit, subject to the Board approved underwriting policy",
+   "status": "n/a",
+   "doc": "Prospectus",
+   "page": 8,
+   "quote": "No limit, subject to Board approved",
+   "note": null
+  },
+  "sum_assured_rule": {
+   "value": {
+    "life assured": "10 times the annualized premium, minimum Rs 24,00,000",
+    "second life (spouse cover)": "1 to 5 times the annualized premium, minimum Rs 2,40,000"
+   },
+   "status": "built-in",
+   "doc": "Prospectus",
+   "page": 5,
+   "quote": "(Death Sum Assured) is 10 times",
+   "note": null,
+   "quote_2": "Life Assured: Rs. 24,00,000",
+   "page_2": 8,
+   "quote_3": "5 times the Annualized Premium",
+   "page_3": 8
+  },
+  "premium_modes": {
+   "value": [
+    "yearly",
+    "half-yearly",
+    "monthly"
+   ],
+   "status": "n/a",
+   "doc": "Prospectus",
+   "page": 8,
+   "quote": "Yearly / Half-Yearly / Monthly",
+   "note": null
+  },
+  "life_cover_multiple_choice": {
+   "value": "spouse cover sum assured chosen at 1 to 5 times the annualized premium; the life assured sum assured is fixed at 10 times",
+   "status": "optional (at inception)",
+   "doc": "Prospectus",
+   "page": 4,
+   "quote": "1 to 5 times of annualised premium",
+   "note": null
+  }
+ },
+ "charges": {
+  "premium_allocation_charge": {
+   "value": {
+    "offline, non-staff": {
+     "years 1-5": "5.00%",
+     "year 6 onwards": "nil"
+    },
+    "staff and online": {
+     "years 1-5": "3.00%",
+     "year 6 onwards": "nil"
+    }
+   },
+   "status": "built-in",
+   "doc": "Prospectus",
+   "page": 26,
+   "quote": "5.00% Nil",
+   "note": null,
+   "quote_2": "3.00% Nil",
+   "page_2": 26
+  },
+  "policy_administration_charge": {
+   "value": "nil",
+   "status": "built-in",
+   "doc": "Prospectus",
+   "page": 26,
+   "quote": "Policy Administration charges is Nil.",
+   "note": null
+  },
+  "fund_management_charge": {
+   "value": {
+    "Equity Growth Fund": "1.35%",
+    "Midcap Fund": "1.35%",
+    "Multicap Fund": "1.35%",
+    "Momentum Growth Fund": "1.35%",
+    "India Sector Leaders Fund": "1.35%",
+    "Enhanced Value Fund": "1.35%",
+    "Pure Fund": "1.35%",
+    "Aggressive Asset Allocator Fund": "1.35%",
+    "Moderate Asset Allocator Fund": "1.35%",
+    "Large Cap Quality Fund": "1.35%",
+    "IndiGenius Fund": "1.35%",
+    "Bond Fund II": "1.25%",
+    "Discontinued Policy Fund": "0.50%"
+   },
+   "status": "built-in",
+   "doc": "Prospectus",
+   "page": 20,
+   "quote": "1.35% p.a",
+   "note": null,
+   "quote_2": "Bond Fund II 1.25% p.a",
+   "page_2": 29,
+   "quote_3": "Discontinued policy fund 0.50% p.a",
+   "page_3": 29
+  },
+  "mortality_charge": {
+   "value": {
+    "basis": "1/12 x rate x sum at risk / 1,000, for the life assured and for the second life; 100% of IALM (2012-14) Ult.",
+    "rate_per_1000_sum_at_risk_by_age": {
+     "male": {
+      "0": 0.92,
+      "1": 0.92,
+      "2": 0.92,
+      "3": 0.47,
+      "4": 0.27,
+      "5": 0.19,
+      "6": 0.15,
+      "7": 0.15,
+      "8": 0.17,
+      "9": 0.21,
+      "10": 0.27,
+      "11": 0.34,
+      "12": 0.43,
+      "13": 0.52,
+      "14": 0.61,
+      "15": 0.7,
+      "16": 0.77,
+      "17": 0.83,
+      "18": 0.87,
+      "19": 0.91,
+      "20": 0.92,
+      "21": 0.93,
+      "22": 0.94,
+      "23": 0.94,
+      "24": 0.93,
+      "25": 0.93,
+      "26": 0.93,
+      "27": 0.93,
+      "28": 0.94,
+      "29": 0.96,
+      "30": 0.98,
+      "31": 1.01,
+      "32": 1.04,
+      "33": 1.09,
+      "34": 1.14,
+      "35": 1.2,
+      "36": 1.28,
+      "37": 1.36,
+      "38": 1.45,
+      "39": 1.56,
+      "40": 1.68,
+      "41": 1.82,
+      "42": 1.97,
+      "43": 2.14,
+      "44": 2.35,
+      "45": 2.58,
+      "46": 2.85,
+      "47": 3.17,
+      "48": 3.54,
+      "49": 3.96,
+      "50": 4.44,
+      "51": 4.97,
+      "52": 5.55,
+      "53": 6.17,
+      "54": 6.83,
+      "55": 7.51,
+      "56": 8.21,
+      "57": 8.93,
+      "58": 9.65,
+      "59": 10.39,
+      "60": 11.16,
+      "61": 11.97,
+      "62": 12.83,
+      "63": 13.77,
+      "64": 14.79,
+      "65": 15.93,
+      "66": 17.21,
+      "67": 18.64,
+      "68": 20.24,
+      "69": 22.04,
+      "70": 24.06,
+      "71": 26.31,
+      "72": 28.83,
+      "73": 31.64,
+      "74": 34.76,
+      "75": 38.22,
+      "76": 42.06,
+      "77": 46.32,
+      "78": 51.02,
+      "79": 56.23,
+      "80": 61.99
+     },
+     "female": {
+      "0": 0.92,
+      "1": 0.92,
+      "2": 0.92,
+      "3": 0.92,
+      "4": 0.92,
+      "5": 0.92,
+      "6": 0.47,
+      "7": 0.27,
+      "8": 0.19,
+      "9": 0.15,
+      "10": 0.15,
+      "11": 0.17,
+      "12": 0.21,
+      "13": 0.27,
+      "14": 0.34,
+      "15": 0.43,
+      "16": 0.52,
+      "17": 0.61,
+      "18": 0.7,
+      "19": 0.77,
+      "20": 0.83,
+      "21": 0.87,
+      "22": 0.91,
+      "23": 0.92,
+      "24": 0.93,
+      "25": 0.94,
+      "26": 0.94,
+      "27": 0.93,
+      "28": 0.93,
+      "29": 0.93,
+      "30": 0.93,
+      "31": 0.94,
+      "32": 0.96,
+      "33": 0.98,
+      "34": 1.01,
+      "35": 1.04,
+      "36": 1.09,
+      "37": 1.14,
+      "38": 1.2,
+      "39": 1.28,
+      "40": 1.36,
+      "41": 1.45,
+      "42": 1.56,
+      "43": 1.68,
+      "44": 1.82,
+      "45": 1.97,
+      "46": 2.14,
+      "47": 2.35,
+      "48": 2.58,
+      "49": 2.85,
+      "50": 3.17,
+      "51": 3.54,
+      "52": 3.96,
+      "53": 4.44,
+      "54": 4.97,
+      "55": 5.55,
+      "56": 6.17,
+      "57": 6.83,
+      "58": 7.51,
+      "59": 8.21,
+      "60": 8.93,
+      "61": 9.65,
+      "62": 10.39,
+      "63": 11.16,
+      "64": 11.97,
+      "65": 12.83,
+      "66": 13.77,
+      "67": 14.79,
+      "68": 15.93,
+      "69": 17.21,
+      "70": 18.64,
+      "71": 20.24,
+      "72": 22.04,
+      "73": 24.06,
+      "74": 26.31,
+      "75": 28.83,
+      "76": 31.64,
+      "77": 34.76,
+      "78": 38.22,
+      "79": 42.06,
+      "80": 46.32
+     }
+    }
+   },
+   "status": "built-in",
+   "doc": "Prospectus",
+   "page": 27,
+   "quote": "0 0.92 0.92 27 0.93 0.93 54 6.83 4.97",
+   "note": "full table, ages 0 to 80",
+   "quote_2": "21 0.93 0.87 48 3.54 2.58 75 38.22 28.83",
+   "page_2": 28
+  },
+  "discontinuance_charge": {
+   "value": {
+    "Y1": "lower of 6.0% of AP or FV, max Rs 6,000",
+    "Y2": "4.0%, Rs 5,000",
+    "Y3": "3.0%, Rs 4,000",
+    "Y4": "2.0%, Rs 2,000",
+    "Y5+": "nil"
+   },
+   "status": "built-in",
+   "doc": "Prospectus",
+   "page": 30,
+   "quote": "Lower of: 6.0%* (AP or FV/ policy account value) subject to",
+   "note": null,
+   "quote_2": "Lower of: 4.0%* (AP or FV/ policy account value) subject to",
+   "page_2": 30,
+   "quote_3": "Lower of: 3.0%* (AP or FV/ policy account value) subject to",
+   "page_3": 30,
+   "quote_4": "Lower of: 2.0%* (AP or FV/ policy account value) subject to",
+   "page_4": 30
+  },
+  "switching_charge": {
+   "value": "nil",
+   "status": "built-in",
+   "doc": "Prospectus",
+   "page": 29,
+   "quote": "There are no charges for switching between funds.",
+   "note": null
+  },
+  "partial_withdrawal_charge": {
+   "value": "nil",
+   "status": "built-in",
+   "doc": "Prospectus",
+   "page": 29,
+   "quote": "There are no charges for partial withdrawals.",
+   "note": null
+  },
+  "premium_redirection_charge": {
+   "value": "nil",
+   "status": "built-in",
+   "doc": "Prospectus",
+   "page": 15,
+   "quote": "The redirection of your Premiums is allowed free of charge",
+   "note": null
+  },
+  "miscellaneous_charge": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "guarantee_charge": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "rider_charges": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "any_charge_returned": {
+   "value": "all premium allocation charges and mortality charges (and the second life mortality charges) added to the fund value at maturity",
+   "status": "built-in",
+   "doc": "Prospectus",
+   "page": 5,
+   "quote": "sum of all premium allocation",
+   "note": null,
+   "quote_2": "mortality charge with respect to Second Life",
+   "page_2": 5
+  }
+ },
+ "benefits": {
+  "death_benefit_formula": {
+   "value": "higher of death sum assured (less withdrawals in the last 2 years) and fund value, and never below 105% of premiums paid; second life: its own sum assured",
+   "status": "built-in",
+   "doc": "Prospectus",
+   "page": 5,
+   "quote": "Death Benefit shall be higher of:",
+   "note": null,
+   "quote_2": "death benefit shall not be lower than 105%",
+   "page_2": 5
+  },
+  "maturity_benefit": {
+   "value": "fund value including wealth boosters, loyalty additions and return of charges",
+   "status": "built-in",
+   "doc": "Prospectus",
+   "page": 4,
+   "quote": "Fund Value (inclusive of Wealth Boosters, Loyalty Additions and",
+   "note": null
+  },
+  "loyalty_additions": {
+   "value": {
+    "rate": "8.0% of annualized premium",
+    "timing": "end of every 3 years from the end of the 9th policy year to the end of the term",
+    "additional by annualized premium": {
+     "Rs 2,40,000 to 7,99,999": "nil",
+     "Rs 8,00,000 to 11,99,999": "1%",
+     "Rs 12,00,000 and above": "2%"
+    }
+   },
+   "status": "built-in",
+   "doc": "Prospectus",
+   "page": 5,
+   "quote": "Loyalty Additions of 8.0% of annualized premium shall be",
+   "note": null,
+   "quote_2": "Rs. 8,00,000 – Rs. 11,99,999 1%",
+   "page_2": 5,
+   "quote_3": "Rs. 12,00,000 and above 2%",
+   "page_3": 5
+  },
+  "wealth_boosters_or_guaranteed_additions": {
+   "value": {
+    "rate": "2.0% of instalment premium",
+    "timing": "added at premium allocation from policy year 6 to the end of the premium paying term"
+   },
+   "status": "built-in",
+   "doc": "Prospectus",
+   "page": 4,
+   "quote": "Wealth Boosters of 2.0% of instalment premium shall be",
+   "note": null,
+   "quote_2": "from 6th policy year till end of premium paying term",
+   "page_2": 4
+  },
+  "return_of_mortality_charges": {
+   "value": "all mortality charges deducted on the life assured (including extra mortality) are added at maturity; the second life mortality charges too if spouse cover is chosen",
+   "status": "built-in",
+   "doc": "Prospectus",
+   "page": 5,
+   "quote": "mortality charge with respect to Life Assured (inclusive of",
+   "note": null,
+   "quote_2": "mortality charge with respect to Second Life",
+   "page_2": 5
+  },
+  "return_of_premium_allocation_charges": {
+   "value": "all premium allocation charges added at maturity, excluding tax",
+   "status": "built-in",
+   "doc": "Prospectus",
+   "page": 5,
+   "quote": "sum of all premium allocation",
+   "note": null
+  },
+  "return_of_policy_admin_charges": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "other_additions": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  }
+ },
+ "flexibility": {
+  "fund_switching": {
+   "value": "free and unlimited",
+   "status": "optional (during term)",
+   "doc": "Prospectus",
+   "page": 29,
+   "quote": "There are no charges for switching between funds.",
+   "note": null
+  },
+  "premium_redirection": {
+   "value": "free, any number of times; at least 15% of the annualized premium to any fund",
+   "status": "optional (during term)",
+   "doc": "Prospectus",
+   "page": 15,
+   "quote": "The redirection of your Premiums is allowed free of charge any number of times.",
+   "note": null,
+   "quote_2": "at least 15% of the Annualized Premium",
+   "page_2": 15
+  },
+  "partial_withdrawals": {
+   "value": {
+    "from": "after the 5-year lock-in",
+    "maximum": "20% of the fund value at the start of the policy year; 15% in consecutive years",
+    "minimum": "Rs 2,000, leaving at least one annualized premium in the fund"
+   },
+   "status": "optional (during term)",
+   "doc": "Prospectus",
+   "page": 9,
+   "quote": "should not be more than 20% of the Fund Value as at the",
+   "note": null,
+   "quote_2": "not be more than 15% of Fund Value",
+   "page_2": 9,
+   "quote_3": "minimum amount of any partial withdrawal is Rs",
+   "page_3": 9
+  },
+  "systematic_withdrawal_plan": {
+   "value": {
+    "name": "Systematic Partial Withdrawal",
+    "payout": "monthly, quarterly, half-yearly or yearly from a chosen date after the lock-in",
+    "maximum": "15% of the fund value at the start of the policy year, including other withdrawals"
+   },
+   "status": "optional (during term)",
+   "doc": "Prospectus",
+   "page": 9,
+   "quote": "Payouts may be taken monthly, quarterly, half-yearly or",
+   "note": null,
+   "quote_2": "shall not be more than 15% of",
+   "page_2": 9
+  },
+  "top_up_premiums": {
+   "value": null,
+   "status": "not offered",
+   "doc": "Prospectus",
+   "page": 32,
+   "quote": "The policy does not have an option of Top-up premium.",
+   "note": null
+  },
+  "settlement_option": {
+   "value": "maturity proceeds paid in annual instalments over 2 to 5 years",
+   "status": "optional (during term)",
+   "doc": "Prospectus",
+   "page": 10,
+   "quote": "period of 2 to 5 years",
+   "note": null
+  },
+  "premium_holiday_or_offset": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "increase_decrease_cover": {
+   "value": "death sum assured cannot be changed; after 5 years the premium can be reduced to up to 50% of the original, once, and the sum assured falls in proportion; premium increase is not allowed",
+   "status": "optional (during term)",
+   "doc": "Prospectus",
+   "page": 31,
+   "quote": "decrease the premium",
+   "note": null,
+   "quote_2": "Increase or Decrease in Death Sum Assured is not allowed",
+   "page_2": 31
+  },
+  "change_ppt_or_term": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "policy_loan": {
+   "value": null,
+   "status": "not offered",
+   "doc": "Prospectus",
+   "page": 32,
+   "quote": "There are no policy loans available with the policy.",
+   "note": null
+  },
+  "auto_portfolio_strategies": {
+   "value": [
+    {
+     "name": "AutoSwitcher",
+     "mechanics": "fixed amount of at least Rs 5,000 switched monthly from one fund to others, for at least 6 months"
+    },
+    {
+     "name": "Systematic Allocator",
+     "mechanics": "moves from Equity Growth Fund to Bond Fund II as maturity nears: 80% equity with 15 or more years left, 5% with 1 year left"
+    }
+   ],
+   "status": "optional (at inception)",
+   "doc": "Prospectus",
+   "page": 12,
+   "quote": "Transfer Amount Rs 5,000",
+   "note": null,
+   "quote_2": "15 and above 80.00% 20.00%",
+   "page_2": 14
+  }
+ },
+ "funds": {
+  "fund_count": {
+   "value": 12,
+   "status": "n/a",
+   "doc": "Prospectus",
+   "page": 3,
+   "quote": "12 fund options with unlimited switches",
+   "note": null
+  },
+  "fund_list": {
+   "value": [
+    {
+     "name": "Equity Growth Fund",
+     "SFIN": "ULIF04111/01/08EQOPP135",
+     "FMC_pct": 1.35,
+     "asset_allocation": "equity 50-100%, cash and money market 0-50%",
+     "risk_label": "returns likely high, risk high"
+    },
+    {
+     "name": "Midcap Fund",
+     "SFIN": "ULIF06824/11/09MIDCAP135",
+     "FMC_pct": 1.35,
+     "asset_allocation": "mid cap stocks 50-100%, large cap 0-50%, cash and money market 0-50%",
+     "risk_label": "returns likely high, risk high"
+    },
+    {
+     "name": "Multicap Fund",
+     "SFIN": "ULIF080061223MULTICAP135",
+     "FMC_pct": 1.35,
+     "asset_allocation": "equity 50-100%, cash and money market 0-50%",
+     "risk_label": "risk moderate to high"
+    },
+    {
+     "name": "Momentum Growth Fund",
+     "SFIN": "ULIF081240125MOMENTUM135",
+     "FMC_pct": 1.35,
+     "asset_allocation": "equity 90-100%, cash and money market 0-10%",
+     "risk_label": "returns likely high, risk high"
+    },
+    {
+     "name": "India Sector Leaders Fund",
+     "SFIN": "ULIF082070725ISLF135",
+     "FMC_pct": 1.35,
+     "asset_allocation": "equity 90-100%, cash and money market 0-10%",
+     "risk_label": "returns likely high, risk high"
+    },
+    {
+     "name": "Enhanced Value Fund",
+     "SFIN": "ULIF083071125ENVF135",
+     "FMC_pct": 1.35,
+     "asset_allocation": "equity 90-100%, cash and money market 0-10%",
+     "risk_label": "returns likely high, risk high"
+    },
+    {
+     "name": "Pure Fund",
+     "SFIN": "ULIF07205/08/10PURE135",
+     "FMC_pct": 1.35,
+     "asset_allocation": "equity 80-100%, cash and money market 0-20%",
+     "risk_label": "returns likely high, risk high"
+    },
+    {
+     "name": "Aggressive Asset Allocator Fund",
+     "SFIN": "ULIF04811/01/08AGGRESSIVE135",
+     "FMC_pct": 1.35,
+     "asset_allocation": "equity 50-100%, money market 0-50%, fixed income 0-50%",
+     "risk_label": "returns high, risk high"
+    },
+    {
+     "name": "Moderate Asset Allocator Fund",
+     "SFIN": "ULIF04911/01/08MODERATE135",
+     "FMC_pct": 1.35,
+     "asset_allocation": "fixed income 50-100%, money market 0-50%, equity 0-50%",
+     "risk_label": "returns high, risk high, lower than Aggressive"
+    },
+    {
+     "name": "Large Cap Quality Fund",
+     "SFIN": "ULIF088010326LARGEQLTY135",
+     "FMC_pct": 1.35,
+     "asset_allocation": "equity 80-100%, cash and money market 0-10%",
+     "risk_label": "returns likely high, risk high"
+    },
+    {
+     "name": "IndiGenius Fund",
+     "SFIN": "ULIF08901/07/26INDIGENIUS135",
+     "FMC_pct": 1.35,
+     "asset_allocation": "equity 80-100%, cash and money market 0-20%",
+     "risk_label": "returns likely high, risk high"
+    },
+    {
+     "name": "Bond Fund II",
+     "SFIN": "ULIF07731/10/17BOND2135",
+     "FMC_pct": 1.25,
+     "asset_allocation": "fixed income 50-100%, money market 0-50%",
+     "risk_label": "returns likely moderate, risk moderate"
+    }
+   ],
+   "status": "n/a",
+   "doc": "Prospectus",
+   "page": 18,
+   "quote": "SFIN: ULIF04111/01/08EQOPP135",
+   "note": "SFINs as printed in the policy document; FMCs from the charges section; allocations from the fund table",
+   "quote_2": "SFIN: ULIF06824/11/09MIDCAP135",
+   "page_2": 19
+  },
+  "index_or_thematic_funds": {
+   "value": "Momentum Growth Fund, India Sector Leaders Fund, Enhanced Value Fund, Large Cap Quality Fund, IndiGenius Fund, Pure Fund",
+   "status": "n/a",
+   "doc": "Prospectus",
+   "page": 19,
+   "quote": "Momentum Growth Fund SFIN: ULIF081240125MOMENTUM135",
+   "note": null,
+   "quote_2": "Enhanced Value Fund: SFIN: ULIF083071125ENVF135",
+   "page_2": 20
+  },
+  "discontinued_policy_fund": {
+   "value": {
+    "name": "Discontinued Policy Fund",
+    "fmc": "0.50%"
+   },
+   "status": "built-in",
+   "doc": "Prospectus",
+   "page": 29,
+   "quote": "Discontinued policy fund 0.50% p.a",
+   "note": null
+  }
+ },
+ "protection_add_ons": {
+  "waiver_of_premium_inbuilt": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "critical_illness": {
+   "value": "Ageas Federal Life Insurance Linked Critical Shield Rider (UIN 135A038V01)",
+   "status": "rider",
+   "doc": "Prospectus",
+   "page": 25,
+   "quote": "135A038V01",
+   "note": null
+  },
+  "accidental_death": {
+   "value": "Ageas Federal Life Insurance Linked Accident Care Rider (UIN 135A036V01)",
+   "status": "rider",
+   "doc": "Prospectus",
+   "page": 25,
+   "quote": "135A036V01",
+   "note": null
+  },
+  "terminal_illness": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "spouse_or_child_cover": {
+   "value": "optional spouse cover: the second life gets its own sum assured of 1 to 5 times the annualized premium, with its own mortality charge",
+   "status": "optional (at inception)",
+   "doc": "Prospectus",
+   "page": 4,
+   "quote": "Select a Spouse Cover option if required",
+   "note": null,
+   "quote_2": "Death Benefit for Second Life is equal to Sum Assured on Death for Second Life",
+   "page_2": 6
+  },
+  "riders_available": {
+   "value": [
+    "Ageas Federal Life Insurance Linked Accident Care Rider, UIN 135A036V01",
+    "Ageas Federal Life Insurance Linked Critical Shield Rider, UIN 135A038V01"
+   ],
+   "status": "rider",
+   "doc": "Prospectus",
+   "page": 25,
+   "quote": "135A036V01",
+   "note": null,
+   "quote_2": "135A038V01",
+   "page_2": 25
+  }
+ },
+ "surrender_revival": {
+  "lock_in_years": {
+   "value": 5,
+   "status": "built-in",
+   "doc": "Prospectus",
+   "page": 1,
+   "quote": "till the end of the fifth year",
+   "note": null
+  },
+  "discontinuance_rules": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "revival_period": {
+   "value": "3 years from the first unpaid premium",
+   "status": "built-in",
+   "doc": "Prospectus",
+   "page": 15,
+   "quote": "revival period of three years",
+   "note": null
+  },
+  "surrender_value_rule": {
+   "value": "after the lock-in, at least the unit fund value on the surrender date; during the lock-in, the fund value less discontinuance charge goes to the Discontinued Policy Fund and is paid at the end of the lock-in",
+   "status": "built-in",
+   "doc": "Prospectus",
+   "page": 10,
+   "quote": "the surrender value shall be at least equal to the unit fund value as on",
+   "note": null
+  }
+ },
+ "documents_inventory": [
+  {
+   "website_label": "Sample Policy Document",
+   "doc_type": "policy_document",
+   "url": "https://sacicwpprd01.blob.core.windows.net/%24web/sccicwppr01/assets/Web_PD_Platinum_Wealth_Builder_Plan_v_2_9_46c1a246a9.pdf",
+   "found_on_page_url": "https://www.ageasfederal.com/ulip-plans/platinum-wealth-builder-plan",
+   "pages": 58,
+   "stored_path": "docs/ageas-federal/135L089V02/policy.pdf",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "website_label": "Prospectus",
+   "doc_type": "brochure",
+   "url": "https://sacicwpprd01.blob.core.windows.net/%24web/sccicwppr01/assets/Platinum_Wealth_Builder_Plan_Indigenious_NFO_f6a1021f0c.pdf",
+   "found_on_page_url": "https://www.ageasfederal.com/ulip-plans/platinum-wealth-builder-plan",
+   "pages": 35,
+   "stored_path": "docs/ageas-federal/135L089V02/brochure.pdf",
+   "status": "already stored",
+   "note": null
+  },
+  {
+   "website_label": "Flyer",
+   "doc_type": "leaflet",
+   "url": "https://sacicwpprd01.blob.core.windows.net/%24web/sccicwppr01/assets/Platinum_Wealth_Builder_Flyer_df861b26cf.pdf",
+   "found_on_page_url": "https://www.ageasfederal.com/ulip-plans/platinum-wealth-builder-plan",
+   "pages": null,
+   "stored_path": null,
+   "status": "not stored (leaflet; brochure already stored)",
+   "note": null
+  },
+  {
+   "website_label": "Customer Information Sheet",
+   "doc_type": "CIS",
+   "url": "https://sacicwpprd01.blob.core.windows.net/%24web/sccicwppr01/assets/Web_CIS_Platinum_Wealth_Builder_7ddb9fa3a9.pdf",
+   "found_on_page_url": "https://www.ageasfederal.com/ulip-plans/platinum-wealth-builder-plan",
+   "pages": 5,
+   "stored_path": "docs/ageas-federal/135L089V02/cis.pdf",
+   "status": "ok",
+   "note": null
+  }
+ ],
+ "new_features_not_in_schema": [
+  {
+   "feature": "Spouse cover with a second life",
+   "description": "The second life gets a sum assured of 1 to 5 times the annualized premium and its mortality charges are returned at maturity",
+   "quote": "Select a Spouse Cover option if required",
+   "doc": "Prospectus",
+   "page": 4
+  },
+  {
+   "feature": "Zero policy administration charge, wealth boosters and 8% loyalty additions",
+   "description": "No administration charge, 2% of instalment premium added from year 6, 8% of annualized premium every 3 years from year 9",
+   "quote": "Policy Administration charges is Nil.",
+   "doc": "Prospectus",
+   "page": 26
+  },
+  {
+   "feature": "Systematic partial withdrawal",
+   "description": "Recurring withdrawals after the lock-in, up to 15% of the fund value a year",
+   "quote": "Payouts may be taken monthly, quarterly, half-yearly or",
+   "doc": "Prospectus",
+   "page": 9
+  }
+ ],
+ "data_not_public": []
+}
