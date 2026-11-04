@@ -1,6 +1,6 @@
 # S2 project memory: read this first if you are S2
 
-Last updated: 4 Nov 2026 (Bajaj done) by S2. S1's project memory is in `PROJECT_MEMORY.md`. Live coordination is in `coordination/CHAT.md`. This file holds what S2 needs to resume the ULIP deep discovery after a restart or a compacted chat.
+Last updated: 4 Nov 2026 (Axis Max done) by S2. S1's project memory is in `PROJECT_MEMORY.md`. Live coordination is in `coordination/CHAT.md`. This file holds what S2 needs to resume the ULIP deep discovery after a restart or a compacted chat.
 
 ## Role and branch
 - S2 is the user's second Claude session. It works on branch `ccr-d0d84e00-joo2mp` and never pushes to `main`. S1 merges the branch into `main`.
@@ -17,9 +17,10 @@ Last updated: 4 Nov 2026 (Bajaj done) by S2. S1's project memory is in `PROJECT_
 ## Task
 - The brief is `briefs/deep_discovery_ulip_brief.md`. The product list is `briefs/ulip_deep_set.csv` and the schema is `briefs/ulip_feature_schema.json`.
 - Wave 1 is 84 products, after the user added Ageas Federal on 4 Nov.
-- **Done: 46.** Bharti 7, SBI 7, HDFC 7, Tata AIA 14, Bajaj 11. All pass validation.
-  - Bajaj is pushed. Smart Wealth Goal VII (116L218V01) has three variants; only the Wealth variant is field by field. Child Wealth (brochure.pdf) and Joint Life Wealth (brochure-2.pdf) are on the retry list.
-- **Next, in this order:** Axis Max (9), LIC (5), ABSLI (10), Canara HSBC (8), Ageas Federal (6).
+- **Done: 55.** Bharti 7, SBI 7, HDFC 7, Tata AIA 14, Bajaj 11, Axis Max 9. All pass validation.
+  - Axis Max is committed locally; push it with `scripts/s2_tools/pushit.sh` if the last session ended before the push (check `git log origin/ccr-d0d84e00-joo2mp`).
+  - Smart Wealth Goal VII (116L218V01, Bajaj) has three variants; only the Wealth variant is field by field.
+- **Next, in this order:** LIC (5), ABSLI (10), Canara HSBC (8), Ageas Federal (6).
 - Wave 2 (ICICI, Kotak) waits for the user's manual uploads.
 
 ## User decisions (4 Nov)
@@ -80,6 +81,12 @@ Last updated: 4 Nov 2026 (Bajaj done) by S2. S1's project memory is in `PROJECT_
 - `scripts/ulip_json.py` tags later stored files that share a website label with "(file name)" (Bajaj labels every document "Download"). The first keeps the bare label.
 - Read only the pages that hold eligibility, charges, benefits and flexibility. Page maps first (grep for headings per page), then targeted pages.
 - Quotes: take layout rows for tables; plain text when columns scramble. Drop a hyphen at the end of a line, such as "/-" or "sub-". Extra quotes use the same document as the field, so put values from a second document in another field.
+
+## Axis Max notes
+- Tools: `scripts/s2_tools/axdig.py UIN` (compact glance, charges and flexibility sections), `scripts/s2_tools/addoc.py` (stores one PDF by exact URL, checks it and writes the index rows; used for links in page source and for a document that carries another product's UIN), `scripts/ulip_specs/axis_funds.py` (parses the fund and FMC table; falls back to a joined-text parse and a SFIN-to-name map).
+- Labels: policy "Policy Contract", brochure "Policy Prospectus" or "Prospectus", CIS "Customer Information Sheet". The "Terms and Conditions" link is a company-wide leaflet and fails the UIN check.
+- Policy documents are specimens with blank schedules; the charge tables are in the prospectus. Most policy documents print the attained-age mortality table (see the summary for pages).
+- In a quote, drop the hyphen of "/-" only when it ends a line; keep it when more text follows on the same line.
 
 ## Lessons
 - **Two-column PDFs (Tata).** Quotes often survive only in short pieces. When a quote fails, grep the plain text for the exact wording; Tata twins differ in small words ("Saving" or "Savings", "Rs." or "INR").

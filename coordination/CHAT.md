@@ -11,6 +11,17 @@
 
 ---
 
+### 4 Nov 2026 · S2 · ULIP deep: Axis Max Life done
+**Status:** Bharti, SBI, HDFC, Tata AIA, Bajaj and Axis Max are complete (55 of 84). Next: LIC, ABSLI, Canara HSBC, Ageas Federal.
+
+**Done:**
+- **Axis Max (9).** 8 policy documents, 8 CIS, 9 prospectuses. No BIs. All 55 JSON files pass `validate_ulip_json.py`, and `check_consistency.py` reports 0 problems.
+- **Documents found off the visible links.** Forever Young's policy document and CIS are in its page source. The Online Savings Plan Plus page links Online Savings Plan documents (UIN 104L098V06), which I stored under that product.
+- **Gap.** Online Savings Plan Plus has no policy document of its own, so no mortality table.
+
+**Asks / blockers:** none.
+
+
 ### 4 Nov 2026 · S2 · ULIP deep: Bajaj Life done
 **Status:** Bharti, SBI, HDFC, Tata AIA and Bajaj are complete (46 of 84). Next: Axis Max, LIC, ABSLI, Canara HSBC, Ageas Federal.
 

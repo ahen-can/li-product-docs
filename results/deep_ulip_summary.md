@@ -17,6 +17,7 @@ Status: in progress. This file grows insurer by insurer. One JSON per product is
 | HDFC Life | 7 of 7 | 8: "<product> - <UIN> - Policy Document" or "Policy Bond" (Smart Pension Plan has separate "Policy Bond offline" and "Policy Bond Online" files) | 0 (none linked) | 0 (none linked) | 7 "Download Brochure" (Smart Woman also links a retail brochure, stored as brochure-2) | none |
 | Bharti Life | 7 of 7 | 7 ("Policy Bond" x6, "Policy Bond Part B" x1) | 7 "Customer Information Sheet" | 0 (none published) | 7 "Download Brochure" | none stored: "Fund Factsheet" and "Fund Performance" are company-wide web pages |
 | Bajaj Life | 11 of 11 | 11: "Download" x9 on the product page, plus 2 not linked (Supreme and Smart Pension, found by the site's file-name pattern) | 13 "Download" or file-name labels (Smart Wealth Goal VII has 3) | 0 (none published; "E-Policy Bond" opens a login page) | 13: unlabelled links cited by file name (Smart Wealth Goal VII has 3 variant brochures, one found by file-name pattern) | none stored: "Investment Insight" is a company-wide factsheet |
+| Axis Max Life | 9 of 9 (8 with a policy document) | 8 "Policy Contract" (Forever Young and Online Savings Plan documents were not linked on their own pages, see odd findings) | 8 "Customer Information Sheet" | 0 (none published) | 9 "Policy Prospectus" or "Prospectus" | none stored: the "Sustainable Yield Index Factsheet" is company-wide and "Monthly Factsheets" is a web page |
 
 ## Spot checks by hand
 
@@ -25,6 +26,7 @@ Status: in progress. This file grows insurer by insurer. One JSON per product is
 - **HDFC:** Click 2 Wealth (101L133V03) and Smart Protect Plus (101L187V04). I compared the fund management, discontinuance and special-addition clauses, and the allocation-charge, mortality-refund and maturity-booster tables, against the PDFs in layout mode.
 - **Bharti:** Wealth Pro (130L100V03) and Grow Wealth Ultra (130L128V01). I compared the premium allocation, admin and discontinuance tables and the death benefit against the PDFs in layout mode.
 - **Bajaj:** Invest Protect Goal Plus (116L215V01) and LongLife Goal III (116L203V01). I compared the premium allocation, admin and discontinuance tables, the loyalty and return-of-mortality tables and the eligibility rows against the PDFs in layout mode.
+- **Axis Max:** Flexi Wealth Advantage (104L121V05) and Platinum Wealth Plan (104L133V01). I compared the premium allocation band tables, administration, discontinuance and loyalty tables and the eligibility rows against the PDFs in layout mode.
 
 ## Anything odd
 
@@ -52,6 +54,12 @@ Status: in progress. This file grows insurer by insurer. One JSON per product is
 - **Bajaj Goal Assure IV (116L204V01).** The maximum sum assured table has 5 age columns but 4 values per row.
 - **Bajaj Smart Wealth Goal VII (116L218V01).** The product page has no link for the Wealth variant brochure. The file-name pattern next to the other two returned a real PDF (`swg-wealth-brochure.pdf`). All documents on this page share the label "Download", so the JSON tags the later ones with their file name.
 - **Bajaj Supreme (116L211V02).** The quarterly minimum is Rs 4,000, where the other Bajaj plans use Rs 3,000.
+- **Axis Max Forever Young Pension (104L075V11).** The visible product page links no documents, but its page source contains the prospectus, policy document, CIS and leaflet links (script data). I stored the policy document and CIS from those exact URLs.
+- **Axis Max Online Savings Plan Plus (104L131V03).** The page links "Policy Contract" and "Customer Information Sheet" files that print 104L098V06, the Online Savings Plan. I stored them under 104L098V06, whose own page links nothing. The Plus plan has only its prospectus.
+- **Axis Max "Terms and Conditions" link.** Most Axis product pages link one company-wide leaflet under this label. It carries no product code, so it is recorded as failed.
+- **Axis Max fund counts.** Fast Track Super says 30 funds and lists 32 including Secure Plus and the Discontinuance Policy Fund. Online Savings Plan Plus says 27 and lists 29.
+- **Axis Max Flexi Wealth Advantage (104L121V05).** Its administration charge section is titled "All Years" but charges years 6 to 10 only.
+- **Axis Max prospectuses.** Most tables print each premium band in six columns; the policy contracts are specimens with blank schedules, so charge values come from the prospectus.
 
 ## New features found (seed for feature list v2)
 
@@ -85,6 +93,13 @@ Status: in progress. This file grows insurer by insurer. One JSON per product is
 - **Bajaj strategies.** Trigger Based (moves gains to the Liquid Fund after a 15% equity rise), Target Asset Allocation (two funds, rebalanced quarterly) and Capital Preservation Oriented (steps toward debt as maturity nears).
 - **Bajaj Smart Pension.** The Assure variant pays 105% of premiums on death, then the company pays the remaining premiums while the fund keeps growing. Vesting Booster of 2% and a return of allocation charges at year 15. Vesting can be postponed up to age 75.
 - **Bajaj Smart Wealth Goal VII.** The Child Wealth variant waives premiums on death or accidental total permanent disability and pays one annualized premium each year until the end of the term. Fund Booster of 2% every 5 years from year 15.
+- **Axis Max return of charges.** Flexi Wealth Advantage returns 0% to 100% of allocation and administration charges by premium band. Smart Term with Additional Returns returns 200% of allocation charges, 200% to 300% of mortality and morbidity charges and 300% of administration charges. Online Savings Plan Plus returns 125% or 150% of administration charges.
+- **Axis Max death-benefit designs.** Online Savings Plan variant 2, Online Savings Plan Plus Gold, Platinum and Titanium, Shiksha Plus Super and Smart Term 3D Life Secure pay a lump sum, a monthly or yearly family income and then fund 1, 2 or 3 times the future premiums while the fund keeps growing.
+- **Axis Max Cover Continuance Booster.** Smart Term with Additional Returns tops the fund up to 10% of annualized premium, or to a target-net-yield fund value, so cover does not lapse.
+- **Axis Max Auto Debit Booster.** Flexi Wealth Advantage adds 0.75% of each of the first five years' premiums paid by auto debit.
+- **Axis Max strategies.** Systematic Transfer Plan (Secure Plus Fund into growth funds over 12 months), Dynamic Fund Allocation, Lifecycle, Trigger Based and Self-Managed.
+- **Axis Max pension.** Forever Young Pension accepts UK pension transfers (QROPS) and has a Save More Tomorrow top-up that rises 5% a year.
+- **Axis Max Smart Withdrawals.** Flexi Wealth Advantage (whole life variant) allows up to 8% of fund value a year, and Online Savings Plan Plus up to 12%, without cutting the sum assured.
 
 ## data_not_public
 
@@ -93,6 +108,7 @@ Status: in progress. This file grows insurer by insurer. One JSON per product is
 - **HDFC.** Nothing deferred. Every policy document publishes its charge tables and mortality rates.
 - **Bharti.** Nothing deferred. All seven policy bonds publish full mortality tables and charge tables.
 - **Bajaj.** Fortune Gain II refers to Annexure 3 for mortality rates but does not attach it, and its specimen schedule does not print the administration charge. Magnum Fortune Plus III, Goal Based Saving III, Invest Protect Goal Plus, LongLife Goal III, Supreme and Smart Wealth Goal VII publish mortality rates in their policy documents. Smart Pension publishes them in the V03 document.
+- **Axis Max.** Online Savings Plan Plus has no policy document, so its mortality rates are not public. The other eight policy documents print mortality tables (Fast Track Super p.23, Flexi Wealth Plus p.23, Flexi Wealth Advantage p.38, Forever Young p.22, Online Savings Plan p.18, Platinum Wealth p.32, Shiksha Plus Super p.21, Smart Term p.38); the JSON gives the prospectus sample ages where one exists.
 
 ## Gaps and retry list
 
@@ -101,3 +117,4 @@ Status: in progress. This file grows insurer by insurer. One JSON per product is
 - **HDFC, fields left "not stated".** Riders are not listed in any HDFC policy document. Launch dates are taken from the F&U date printed in each policy bond, except Smart Woman, which prints none.
 - **SBI second pass (done).** Revival period and surrender value for Smart Privilege Plus and Smart Scholar Plus, and switching for Smart Scholar Plus, are now quoted from their policy documents.
 - **Bajaj.** No BIs or product-specific fund factsheets. Smart Wealth Goal VII has three variants; the JSON records the Wealth variant field by field. Child Wealth (brochure.pdf, eligibility p.10, charges p.30) and Joint Life Wealth (brochure-2.pdf, eligibility p.9, charges p.26) are on the retry list. Smart Pension needs the V08 policy document if Bajaj publishes it.
+- **Axis Max.** No BIs or product-specific fund factsheets. Online Savings Plan Plus needs its own policy document. Flexi Wealth Advantage online/ISNP allocation tables, Forever Young single-pay discontinuance table, Smart Term loyalty table for entry ages above 35, and the strategy mechanics for Online Savings Plan Plus and Platinum Wealth are not recorded field by field.
