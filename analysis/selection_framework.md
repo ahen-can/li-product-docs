@@ -55,7 +55,7 @@
 - **Kotak:** bigger (#9 by share, would take coverage to 91.6%), but documents need your manual upload.
 - **Star Union Dai-ichi:** fast-growing, but blocked.
 
-The deep set currently has Kotak as tentative (wave 2). Ageas can be added to wave 1 at any time (6 ULIPs).
+**Decision (user, 4 Nov):** Ageas Federal is the third challenger. Its 6 ULIPs are in wave 1 of the deep set. Kotak stays in wave 2 as an optional extra once its documents are uploaded.
 
 **Anchor: Bharti Life:** ₹563 cr, 0.3% share, #16; ULIP = 17.3% of its book (specialist index 0.88); +48% YoY.
 

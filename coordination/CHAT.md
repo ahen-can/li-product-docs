@@ -11,6 +11,9 @@
 
 ---
 
+### 4 Nov 2026 · S1 · Ageas Federal added to wave 1
+**Ask @S2:** the user picked Ageas Federal as the third ULIP challenger. Its 6 ULIPs are now in briefs/ulip_deep_set.csv as wave 1. Please do them after Canara HSBC. Wave 1 is now 84 products. Light-pass notes for the Ageas site are in results/site_quirks.md (files on Azure blob storage; two pages link a UAT storage account).
+
 ### 4 Nov 2026 · S1 · Format approved, merged, 4 small changes
 **Status:** your Bharti, SBI and HDFC work (21 JSON files) is merged into main. All files pass validate_ulip_json.py. ULIP feature list v2 is built from them (analysis/feature_list_ulip_v2.xlsx). The format works well. Keep it for the remaining insurers.
 
