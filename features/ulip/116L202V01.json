@@ -414,10 +414,12 @@
     "when": "end of every 5th year from year 15"
    },
    "status": "built-in",
-   "doc": "Download",
-   "page": 11,
-   "quote": "will be added in to the Regular Premium Fund Value at the end of every five (5) years, starting from the end of fifteenth (15th) Policy Year.",
-   "note": null
+   "doc": "future-wealth-gain.pdf",
+   "page": 3,
+   "quote": "at the end of every 5 policy year",
+   "note": null,
+   "quote_2": "Percentage 1% 1% 1%",
+   "page_2": 3
   },
   "wealth_boosters_or_guaranteed_additions": {
    "value": null,

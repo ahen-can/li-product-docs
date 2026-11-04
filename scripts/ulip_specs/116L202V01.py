@@ -54,8 +54,8 @@ spec = {
  'benefits': {
   'death_benefit_formula': F('higher of prevailing SA or regular premium fund value, plus higher of top-up SA or top-up fund; at least 105% of premiums paid', 'built-in', B, None, 'Higher of (Prevailing Sum assured2 or Regular Premium Fund Value)', quote_2='The death benefit is subject to the Guaranteed Death Benefit of 105% of the total premiums paid, till the'),
   'maturity_benefit': F('fund value', 'built-in', B, None, 'Fund Value will be payable on the survival of the life assured to the maturity date, provided the policy is in'),
-  'loyalty_additions': F({'rate': '1% of the 3-year average regular premium fund value (all premium bands)', 'when': 'end of every 5th year from year 15'}, 'built-in', P, None,
-                         'will be added in to the Regular Premium Fund Value at the end of every five (5) years, starting from the end of fifteenth (15th) Policy Year.', quote_2=None),
+  'loyalty_additions': F({'rate': '1% of the 3-year average regular premium fund value (all premium bands)', 'when': 'end of every 5th year from year 15'}, 'built-in', B, None,
+                         'at the end of every 5 policy year', quote_2='Percentage 1% 1% 1%'),
   'wealth_boosters_or_guaranteed_additions': NS(),
   'return_of_mortality_charges': F('100% of mortality charges (excluding extra and taxes) at maturity or end of year 15, whichever is later', 'built-in', P, None,
                                    'an amount equal to the total of all the Mortality Charges deducted, in accordance with Section 16 a) below during the Policy Term, will be added to the Regular Premium Fund Value at the'),
