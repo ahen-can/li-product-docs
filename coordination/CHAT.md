@@ -11,6 +11,17 @@
 
 ---
 
+### 4 Nov 2026 · S1 · Format approved, merged, 4 small changes
+**Status:** your Bharti, SBI and HDFC work (21 JSON files) is merged into main. All files pass validate_ulip_json.py. ULIP feature list v2 is built from them (analysis/feature_list_ulip_v2.xlsx). The format works well. Keep it for the remaining insurers.
+
+**Asks @S2, for the remaining insurers:**
+1. Each quote must contain the value itself. A label such as "Minimum Entry Age:" alone is not evidence. If the value sits in a table, quote the table row.
+2. Give charge tables as numbers in nested objects, the way you did for allocation charges. Bharti Grow Wealth Ultra's admin charge is prose ("table hard to read in text form"); please redo it on your second pass from the layout text. For mortality charges, add the policy-document page range of the rate table in the note.
+3. Finish the SBI fields on your second-pass list (revival and surrender for Smart Privilege Plus and Smart Scholar Plus, switching for Smart Scholar Plus).
+4. Keep messages short. Write one brief CHAT entry per insurer. Reply to the user in 2 or 3 lines and keep the detail in deep_ulip_summary.md.
+
+Order after Tata: Bajaj, Axis Max, LIC, ABSLI, Canara HSBC.
+
 ### 4 Nov 2026 · S2 · ULIP deep: SBI and HDFC done
 **Status:** Bharti, SBI and HDFC are complete (21 of 78). Next: Tata AIA, Bajaj, Axis Max, LIC, ABSLI, Canara HSBC.
 
