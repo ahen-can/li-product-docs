@@ -1,0 +1,82 @@
+import sys; sys.path.insert(0, 'scripts'); sys.path.insert(0, 'scripts/ulip_specs')
+from ulip_json import F, NS, build
+from sbi_common import funds
+P, B = 'Policy Document', 'Product Brochure/Prospectus'
+FMC = {'Equity Fund': 1.35, 'Equity Optimiser Fund': 1.35, 'Growth Fund': 1.35, 'Balanced Fund': 1.25, 'Bond Fund': 1.00, 'Money Market Fund': 0.25, 'Top 300 Fund': 1.35, 'Pure Fund': 1.35,
+       'Midcap Fund': 1.35, 'Bond Optimiser Fund': 1.15, 'Corporate Bond Fund': 1.15, 'Bluechip Fund': 1.35, 'Flexicap Fund': 1.35, 'Large Cap Fund': 1.35}
+spec = {
+ 'product': {
+  'uin': F('111L153V01', 'n/a', P, None, 'SBI Life – Smart Invest Builder (UIN:111L153V01)'),
+  'uin_in_brochure': F('111L153V01', 'n/a', B, None, '111L153V01'),
+  'product_name': F('SBI Life – Smart Invest Builder', 'n/a', P, None, 'SBI Life – Smart Invest Builder (UIN:111L153V01)'),
+  'irdai_description_line': F('An Individual, Unit-Linked, Non-Participating, Life Insurance, Savings Product', 'n/a', P, None, 'An Individual, Unit-Linked, Non-Participating, Life Insurance, Savings Product'),
+  'launch_or_version_date': F('policy document Form No 859', 'n/a', P, None, 'Policy Document Form No. 841'),
+  'variants_or_plan_options': F([{'name': 'Regular / Limited pay (monthly only)', 'description': 'guaranteed additions every 5 years from year 10 plus a guaranteed addition at maturity by premium band'}], 'n/a', B, None, 'Plan Type Regular Pay / Limited Pay'),
+  'target_segment_stated': NS(),
+  'online_offline': F('both (available for online sale)', 'n/a', B, None, 'Note: This product is available for online sale.'),
+ },
+ 'eligibility': {
+  'entry_age_min': F('30 days', 'n/a', B, None, 'Age at Entry Minimum: 0 years (30 days) Maximum: 55 years'),
+  'entry_age_max': F('55 years', 'n/a', B, None, 'Age at Entry Minimum: 0 years (30 days) Maximum: 55 years'),
+  'maturity_age_min': F('18 years', 'n/a', B, None, 'Age1 at Maturity Minimum: 18 years Maximum: 70 years'),
+  'maturity_age_max': F('70 years', 'n/a', B, None, 'Age1 at Maturity Minimum: 18 years Maximum: 70 years'),
+  'policy_term_options': F('regular 15-30; limited 7/10/12: 15-30, limited 15: 20-30 years', 'n/a', B, None, 'Regular Pay 15 to 30 Same as Policy Term'),
+  'ppt_options': F('regular (= PT); limited 7, 10, 12 or 15 years', 'n/a', B, None, 'Plan Type Regular Pay / Limited Pay'),
+  'premium_min_annual': F('Rs 5,000 per month', 'n/a', B, None, '`5,000 per month `20,000 per month'),
+  'premium_min_single': F(None, 'n/a', note='no single pay'),
+  'premium_max': F('Rs 20,000 per month', 'n/a', B, None, '`5,000 per month `20,000 per month', 'a maximum premium is unusual for a ULIP'),
+  'sum_assured_rule': F('10 x annualised premium', 'built-in', B, None, 'Regular Pay & Limited Pay: 10 × Annualized Premium2'),
+  'premium_modes': F('monthly only', 'n/a', B, None, 'Premium Frequency Monthly'),
+  'life_cover_multiple_choice': F(None, 'not offered'),
+ },
+ 'charges': {
+  'premium_allocation_charge': F({'all PPTs': {'Y1': '8.00%', 'Y2-5': '5.50%', 'Y6-7': '3.50%', 'Y8-10': '3.00% (limited 7: NA after Y7)'}, 'Y11+': 'see table'}, 'built-in', P, None,
+                                 'We will recover Premium Allocation Charges as a percentage of Premium as per the following table:', 'table read from reading-order text; guaranteed'),
+  'policy_administration_charge': F({'Y1-5': 'nil', 'Y6+': '0.33% of AP per month', 'cap': 'Rs 500 per month'}, 'built-in', P, None, 'We will charge Policy Administration Charges as per the rates given in the table below.'),
+  'fund_management_charge': F({'min': '0.25% (Money Market Fund)', 'max': '1.35%', 'discontinued_policy_fund': '0.50%'}, 'built-in', P, None, 'The FMC for all Segregated Funds except Discontinued Policy Fund, would be subject to a cap of 1.35%.'),
+  'mortality_charge': F('per Rs 1,000 sum at risk by attained age; full table published', 'built-in', P, None, 'Mortality Charges 4.88 5.47 6.11'),
+  'discontinuance_charge': F('IRDAI-cap tables (clause 28), nil from year 5', 'built-in', P, None, 'Discontinuance/Surrender Charges 29.1. We will recover'),
+  'switching_charge': F('2 free a year, then Rs 100 (cap Rs 500)', 'built-in', P, None, 'We will charge You Rs.100 per Switch from third Switch onwards in the same Policy Year.'),
+  'partial_withdrawal_charge': F('free', 'built-in', P, None, 'Partial Withdrawal is free of cost.'),
+  'premium_redirection_charge': F('nil', 'built-in', P, None, 'We will not charge for Premium Re-direction.'),
+  'miscellaneous_charge': NS(), 'guarantee_charge': F(None, 'n/a'), 'rider_charges': NS(),
+  'any_charge_returned': F(None, 'not offered'),
+ },
+ 'benefits': {
+  'death_benefit_formula': F('highest of: fund value; sum assured less APW; 105% of premiums paid', 'built-in', P, None, 'We will pay the highest of the following: 1.1.1. Fund Value as on date of the intimation of the death claim to Us or 1.1.2. Sum Assured less Applicable Partial Withdrawals (APW), if any or 1.1.3. 105% of the Total Premiums Paid upto the date of death'),
+  'maturity_benefit': F('fund value as a lump sum plus guaranteed addition', 'built-in', P, None, 'If the Life Assured is alive on the Date of Maturity, We will pay Your Fund Value as on the Date of Maturity as the Maturity Benefit in lump-sum.'),
+  'loyalty_additions': F(None, 'not offered'),
+  'wealth_boosters_or_guaranteed_additions': F({'Guaranteed Additions, % of AP at end of years 10/15/20/25/30': {'regular': '15/15/30/40/50 (150% total at PT 30)', 'limited 7': '5/10/15/15/20', 'limited 10': '10/15/25/30/35', 'limited 12': '10/15/25/35/40', 'limited 15': '10/15/30/40/45'},
+                                                 'Guaranteed Addition on Maturity, % of AP': {'AP < Rs 1 lakh': '0%', 'Rs 1-2 lakh': '5%', 'Rs 2 lakh and above': '10%'}}, 'built-in', P, None,
+                                               'We will allot Guaranteed Additions as a percentage of the Annualized Premium in accordance with the table below:', 'limited-pay 10/12 columns are interleaved in text; check the PDF table'),
+  'return_of_mortality_charges': F(None, 'not offered'), 'return_of_premium_allocation_charges': F(None, 'not offered'), 'return_of_policy_admin_charges': F(None, 'not offered'), 'other_additions': NS(),
+ },
+ 'flexibility': {
+  'fund_switching': F('2 free a year then Rs 100; minimum Rs 5,000; also during the settlement period', 'optional (during term)', P, None, 'There are no restrictions on the number of Switches during a particular Policy Year or during entire Policy Term and during the Settlement Period.'),
+  'premium_redirection': F('from year 2, free; 14 days notice', 'optional (during term)', P, None, 'We will allow Premium Re-direction only from the beginning of the second Policy Year.'),
+  'partial_withdrawals': F('from year 6 and age 18; unlimited; Rs 5,000 minimum, 15% of fund value maximum; fund must stay at least 50% of premiums paid; none during settlement', 'optional (during term)', P, None, 'You can make unlimited Partial Withdraws post commencement of the 6th Policy Year.'),
+  'systematic_withdrawal_plan': F(None, 'not offered'),
+  'top_up_premiums': F(None, 'not offered', P, None, 'Top-up Premiums are not allowed under Your Policy.'),
+  'settlement_option': F('on death: instalments to the claimant while staying invested', 'optional (during term)', P, None, 'On death of the Life Assured, the Claimant may choose to get the Death Benefit in instalments during the Settlement Period, provided that the Policy is In-Force or Reduced Paid-Up on the date of death.'),
+  'premium_holiday_or_offset': NS(), 'increase_decrease_cover': NS(), 'change_ppt_or_term': NS(),
+  'policy_loan': F(None, 'not offered', P, None, 'Your Policy will not be eligible for any loans.'), 'auto_portfolio_strategies': F(None, 'not offered'),
+ },
+ 'funds': {
+  'fund_count': F('14 funds plus the Discontinued Policy Fund', 'n/a', P, None, 'There are fourteen Segregated Funds as listed below available under the Policy, each of which have different risk-return'),
+  'fund_list': F(funds(FMC), 'n/a', P, None, 'FMC for the Segregated Funds will be as follows: Equity Fund'),
+  'index_or_thematic_funds': F('Pure, Midcap, Flexicap and Large Cap Funds; no index fund', 'n/a', P, None, 'Large Cap Fund 1.35%', 'themes inferred from names'),
+  'discontinued_policy_fund': F({'name': 'Discontinued Policy Fund', 'FMC': '0.50%'}, 'built-in', P, None, 'Discontinued Policy Fund 0.50%'),
+ },
+ 'protection_add_ons': {
+  'waiver_of_premium_inbuilt': F(None, 'not offered', note='rider only'), 'critical_illness': F('via Waiver of Premium Rider', 'rider', B, None, 'SBI Life - Waiver of Premium Rider- Linked'), 'terminal_illness': NS(), 'spouse_or_child_cover': NS(),
+  'accidental_death': F('SBI Life - Accident Benefit Rider - Linked (111A042V01)', 'rider', B, None, 'Option A: Accidental Death Benefit (ADB)'),
+  'riders_available': F([{'name': 'SBI Life - Accident Benefit Rider - Linked', 'UIN': '111A042V01'}, {'name': 'SBI Life - Waiver of Premium Rider - Linked', 'UIN': '111A049V01'}], 'rider', B, None, '(UIN: 111A042V01)'),
+ },
+ 'surrender_revival': {'lock_in_years': F(5, 'built-in', P, None, 'You can make unlimited Partial Withdraws post commencement of the 6th Policy Year.'), 'discontinuance_rules': F('IRDAI rules: Discontinued Policy Fund in lock-in, reduced paid-up after', 'built-in', P, None, 'the Death Benefit payable would be equal to the Fund Value of the Discontinued Policy Fund on date of intimation of death claim to Us'),
+                       'revival_period': NS(), 'surrender_value_rule': NS()},
+}
+build('111L153V01', spec,
+  new_features=[{'feature': 'Guaranteed addition at maturity by premium band', 'description': '5% or 10% of annualised premium at maturity for premiums of Rs 1 lakh or Rs 2 lakh and above', 'quote': 'On the Date of Maturity, Guaranteed Addition on Maturity as calculated in accordance with the table below will be added to the Maturity Benefit payable.', 'doc': P, 'page': None},
+                {'feature': 'Guaranteed additions every 5 years', 'description': 'up to 150% of annualised premium over a 30-year regular-pay policy', 'quote': 'We will allot Guaranteed Additions on completion of 10th Policy Year and every five years thereafter, provided all due Premiums have been paid and the Policy is In-Force.', 'doc': P, 'page': None},
+                {'feature': 'Monthly-only ULIP with a premium cap', 'description': 'Rs 5,000-20,000 per month', 'quote': '`5,000 per month `20,000 per month', 'doc': B, 'page': None}],
+  not_public=[])

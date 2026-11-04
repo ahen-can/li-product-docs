@@ -1,0 +1,677 @@
+{
+ "product": {
+  "uin": {
+   "value": "111L135V02",
+   "status": "n/a",
+   "doc": "Policy Document",
+   "page": 1,
+   "quote": "SBI Life – Retire Smart Plus (UIN : 111L135V02)",
+   "note": null
+  },
+  "uin_in_brochure": {
+   "value": "111L135V02",
+   "status": "n/a",
+   "doc": "Product Brochure/Prospectus",
+   "page": 2,
+   "quote": "SBI Life - Retire Smart Plus (UIN 111L135V02)",
+   "note": null
+  },
+  "product_name": {
+   "value": "SBI Life – Retire Smart Plus",
+   "status": "n/a",
+   "doc": "Policy Document",
+   "page": 1,
+   "quote": "SBI Life – Retire Smart Plus (UIN : 111L135V02)",
+   "note": null
+  },
+  "irdai_description_line": {
+   "value": "Individual Unit-Linked Non-Participating Pension Savings Product",
+   "status": "n/a",
+   "doc": "Policy Document",
+   "page": 1,
+   "quote": "Individual Unit-Linked Non-Participating Pension Savings Product",
+   "note": null
+  },
+  "launch_or_version_date": {
+   "value": "policy document Form No 774",
+   "status": "n/a",
+   "doc": "Policy Document",
+   "page": 1,
+   "quote": "Public Form No.774",
+   "note": null
+  },
+  "variants_or_plan_options": {
+   "value": [
+    {
+     "name": "Regular / Limited / Single premium",
+     "description": "pension ULIP; vesting proceeds must buy an annuity (up to 60% commutable)"
+    }
+   ],
+   "status": "n/a",
+   "doc": "Product Brochure/Prospectus",
+   "page": 4,
+   "quote": "Regular Premium / Limited Premium / Single Premium",
+   "note": null
+  },
+  "target_segment_stated": {
+   "value": "retirement (pension product)",
+   "status": "n/a",
+   "doc": "Policy Document",
+   "page": 1,
+   "quote": "Individual Unit-Linked Non-Participating Pension Savings Product",
+   "note": null
+  },
+  "online_offline": {
+   "value": "both (can also be bought online)",
+   "status": "n/a",
+   "doc": "Product Brochure/Prospectus",
+   "page": 4,
+   "quote": "Note: This product can also be availed online.",
+   "note": null
+  }
+ },
+ "eligibility": {
+  "entry_age_min": {
+   "value": "20 years",
+   "status": "n/a",
+   "doc": "Product Brochure/Prospectus",
+   "page": 4,
+   "quote": "Age# at Entry Minimum: 20 years Maximum: 60 years",
+   "note": null
+  },
+  "entry_age_max": {
+   "value": "60 years",
+   "status": "n/a",
+   "doc": "Product Brochure/Prospectus",
+   "page": 4,
+   "quote": "Age# at Entry Minimum: 20 years Maximum: 60 years",
+   "note": null
+  },
+  "maturity_age_min": {
+   "value": "30 years (vesting)",
+   "status": "n/a",
+   "doc": "Product Brochure/Prospectus",
+   "page": 4,
+   "quote": "Minimum: 30 years Maximum: 70 years",
+   "note": null
+  },
+  "maturity_age_max": {
+   "value": "70 years (vesting)",
+   "status": "n/a",
+   "doc": "Product Brochure/Prospectus",
+   "page": 4,
+   "quote": "Minimum: 30 years Maximum: 70 years",
+   "note": null
+  },
+  "policy_term_options": {
+   "value": "single and regular: 10-35 years; limited 5-8 yrs: 10-35; limited 10: 15-35; limited 15: 20-35",
+   "status": "n/a",
+   "doc": "Product Brochure/Prospectus",
+   "page": 4,
+   "quote": "Single Premium 10 to 35",
+   "note": "from the brochure PT/PPT table (layout text)"
+  },
+  "ppt_options": {
+   "value": "single; regular (= PT); limited 5 to 8, 10 or 15 years",
+   "status": "n/a",
+   "doc": "Product Brochure/Prospectus",
+   "page": 4,
+   "quote": "Regular Premium / Limited Premium / Single Premium",
+   "note": null
+  },
+  "premium_min_annual": {
+   "value": "regular: Rs 30,000 yearly / 15,000 half-yearly / 3,000 monthly; limited: Rs 40,000 / 20,000 / 5,000",
+   "status": "n/a",
+   "doc": "Product Brochure/Prospectus",
+   "page": 4,
+   "quote": "Yearly - 30,000",
+   "note": null
+  },
+  "premium_min_single": {
+   "value": "Rs 1,00,000",
+   "status": "n/a",
+   "doc": "Product Brochure/Prospectus",
+   "page": 4,
+   "quote": "Single Premium 1,00,000",
+   "note": null
+  },
+  "premium_max": {
+   "value": "no limit, as per board-approved underwriting policy",
+   "status": "n/a",
+   "doc": "Product Brochure/Prospectus",
+   "page": 4,
+   "quote": "No Limit,",
+   "note": null
+  },
+  "sum_assured_rule": {
+   "value": null,
+   "status": "n/a",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": "pension product: death benefit is fund value (plus terminal addition) or 105% of premiums; no sum assured multiple"
+  },
+  "premium_modes": {
+   "value": "single, yearly, half-yearly, monthly",
+   "status": "n/a",
+   "doc": "Product Brochure/Prospectus",
+   "page": 4,
+   "quote": "Single / Yearly / Half-yearly / Monthly",
+   "note": null
+  },
+  "life_cover_multiple_choice": {
+   "value": null,
+   "status": "not offered",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  }
+ },
+ "charges": {
+  "premium_allocation_charge": {
+   "value": {
+    "regular/limited": {
+     "Y1": "6.00%",
+     "Y2": "4.75%",
+     "Y3-10": "4.00%",
+     "Y11+": "2.50%"
+    },
+    "single": {
+     "Y1": "3.00%"
+    },
+    "staff": {
+     "regular/limited": "Y1-10 2.00%, Y11+ 0.50%",
+     "single": "1.00%"
+    },
+    "basis": "% of premium"
+   },
+   "status": "built-in",
+   "doc": "Policy Document",
+   "page": 38,
+   "quote": "We will recover Premium Allocation Charges as a percentage of Premium as per the following table:",
+   "note": "reduced rates for SBI Life staff"
+  },
+  "policy_administration_charge": {
+   "value": {
+    "Y1-5": "Rs 45 per month",
+    "Y6+": "Rs 70 per month",
+    "cap": "Rs 500 per month"
+   },
+   "status": "built-in",
+   "doc": "Policy Document",
+   "page": 39,
+   "quote": "We will deduct a monthly Policy administration charge, throughout the term of the Policy as per below Table:",
+   "note": null
+  },
+  "fund_management_charge": {
+   "value": {
+    "min": "0.25% (Money Market Pension Fund)",
+    "max": "1.35%",
+    "discontinued_policy_pension_fund": "0.50%"
+   },
+   "status": "built-in",
+   "doc": "Policy Document",
+   "page": 39,
+   "quote": "The FMC for all Funds except Discontinued Policy Pension Fund, would be subject to a cap of 1.35%.",
+   "note": null
+  },
+  "mortality_charge": {
+   "value": "mortality charges apply (clause 34); the death benefit has little sum at risk (fund value or 105% of premiums)",
+   "status": "built-in",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": "clause 34 not quoted in this pass"
+  },
+  "discontinuance_charge": {
+   "value": "IRDAI-cap table by AP up to / above Rs 50,000 (lower of % x (AP or fund value), rupee cap); nil from year 5",
+   "status": "built-in",
+   "doc": "Policy Document",
+   "page": 39,
+   "quote": "The Discontinuance Charges for Limited and Regular Premium Payment Policies will be as per the following table:",
+   "note": null
+  },
+  "switching_charge": {
+   "value": "nil (cap Rs 500)",
+   "status": "built-in",
+   "doc": "Policy Document",
+   "page": 40,
+   "quote": "No charge is applicable for switching of Funds",
+   "note": null
+  },
+  "partial_withdrawal_charge": {
+   "value": "nil (cap Rs 500)",
+   "status": "built-in",
+   "doc": "Policy Document",
+   "page": 40,
+   "quote": "No charge is applicable for Partial withdrawal.",
+   "note": null
+  },
+  "premium_redirection_charge": {
+   "value": "nil (cap Rs 500)",
+   "status": "built-in",
+   "doc": "Policy Document",
+   "page": 40,
+   "quote": "No charge is applicable for Premium Re-direction.",
+   "note": null
+  },
+  "miscellaneous_charge": {
+   "value": "Rs 500 each for increasing policy term or premium term, or converting limited to regular pay",
+   "status": "built-in",
+   "doc": "Policy Document",
+   "page": 41,
+   "quote": "For increase in Policy term, increase in premium payment term or converting limited premium payment term to Regular premium payment term options, a charge of INR 500 each will apply.",
+   "note": null
+  },
+  "guarantee_charge": {
+   "value": null,
+   "status": "n/a",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "rider_charges": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "any_charge_returned": {
+   "value": null,
+   "status": "not offered",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  }
+ },
+ "benefits": {
+  "death_benefit_formula": {
+   "value": "higher of: fund value plus 1.5% terminal addition; 105% of premiums paid; nominee may take lump sum or buy an annuity",
+   "status": "built-in",
+   "doc": "Policy Document",
+   "page": 26,
+   "quote": "Your Fund Value as on the date of receipt of intimation of death claim Plus Terminal Addition&, if any. 1.1.2. 105% of the Total Premiums Paid up to the date of death",
+   "note": null
+  },
+  "maturity_benefit": {
+   "value": "fund value plus 1.5% terminal addition at vesting; must buy an annuity (up to 60% commutable; up to 50% from another insurer); vesting can be deferred until age 70",
+   "status": "built-in",
+   "doc": "Policy Document",
+   "page": 27,
+   "quote": "Terminal Addition is 1.5% of the fund value as on the date of Maturity/Vesting.",
+   "note": null
+  },
+  "loyalty_additions": {
+   "value": "0.30% of the 12-month average fund value at the end of year 15 and every year after, until vesting; not for terms of 10-14 years",
+   "status": "built-in",
+   "doc": "Policy Document",
+   "page": 28,
+   "quote": "The loyalty additions would be 0.30% of the average of the fund value as on 1st day of the Policy month over the last 12 Policy months.",
+   "note": null
+  },
+  "wealth_boosters_or_guaranteed_additions": {
+   "value": "terminal addition of 1.5% of fund value on death or vesting",
+   "status": "built-in",
+   "doc": "Policy Document",
+   "page": 26,
+   "quote": "Terminal Addition is 1.5% of the fund value as on the date of receipt of intimation of death claim",
+   "note": null
+  },
+  "return_of_mortality_charges": {
+   "value": null,
+   "status": "not offered",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "return_of_premium_allocation_charges": {
+   "value": null,
+   "status": "not offered",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "return_of_policy_admin_charges": {
+   "value": null,
+   "status": "not offered",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "other_additions": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  }
+ },
+ "flexibility": {
+  "fund_switching": {
+   "value": "free, unlimited; minimum Rs 5,000",
+   "status": "built-in",
+   "doc": "Policy Document",
+   "page": 33,
+   "quote": "Switching facility is available, free of charge at any point of time during the Policy Term.",
+   "note": null
+  },
+  "premium_redirection": {
+   "value": "free from year 2; 2 weeks notice",
+   "status": "optional (during term)",
+   "doc": "Policy Document",
+   "page": 33,
+   "quote": "Premium Redirection will be available from the 2nd Policy Year onwards.",
+   "note": null
+  },
+  "partial_withdrawals": {
+   "value": "from year 6; up to 25% of fund value; 3 times in the term; only for listed reasons (children's education or marriage, first home, critical illness, disability, re-skilling, starting a business); minimum Rs 5,000",
+   "status": "optional (during term)",
+   "doc": "Policy Document",
+   "page": 30,
+   "quote": "Partial withdrawals expressed as a percentage of the Fund Value at the time of partial withdrawal are allowed only three times during the entire term of the Policy.",
+   "note": null
+  },
+  "systematic_withdrawal_plan": {
+   "value": null,
+   "status": "not offered",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "top_up_premiums": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "settlement_option": {
+   "value": null,
+   "status": "n/a",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": "pension: vesting proceeds go to an annuity"
+  },
+  "premium_holiday_or_offset": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "increase_decrease_cover": {
+   "value": null,
+   "status": "n/a",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "change_ppt_or_term": {
+   "value": "can increase policy term and/or premium term, or change limited to regular pay (Rs 500 each); single premium: increase term",
+   "status": "optional (during term)",
+   "doc": "Policy Document",
+   "page": 8,
+   "quote": "Option to Change Limited Premium Payment Term to Regular Premium Payment Term",
+   "note": null
+  },
+  "policy_loan": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "auto_portfolio_strategies": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  }
+ },
+ "funds": {
+  "fund_count": {
+   "value": "7 pension funds plus the Discontinued Policy Pension Fund",
+   "status": "n/a",
+   "doc": "Policy Document",
+   "page": 7,
+   "quote": "Option to switch between the 7 fund options available at any",
+   "note": null
+  },
+  "fund_list": {
+   "value": [
+    {
+     "name": "Equity Pension Fund",
+     "SFIN": "ULIF006150107PEEQITYFND111",
+     "FMC_pct": 1.35,
+     "asset_allocation": "equity 80-100%, debt 0-20%, money market 0-20%",
+     "risk_label": "High"
+    },
+    {
+     "name": "Equity Optimiser Pension Fund",
+     "SFIN": "ULIF011210108PEEQOPTFND111",
+     "FMC_pct": 1.35,
+     "asset_allocation": "see policy document fund details",
+     "risk_label": null
+    },
+    {
+     "name": "Growth Pension Fund",
+     "SFIN": "ULIF008150207PEGRWTHFND111",
+     "FMC_pct": 1.35,
+     "asset_allocation": "see policy document fund details",
+     "risk_label": null
+    },
+    {
+     "name": "Top 300 Pension Fund",
+     "SFIN": "ULIF018180110PETP300FND111",
+     "FMC_pct": 1.35,
+     "asset_allocation": "see policy document fund details",
+     "risk_label": null
+    },
+    {
+     "name": "Balanced Pension Fund",
+     "SFIN": "ULIF009210207PEBALANFND111",
+     "FMC_pct": 1.25,
+     "asset_allocation": "see policy document fund details",
+     "risk_label": null
+    },
+    {
+     "name": "Bond Pension Fund",
+     "SFIN": "ULIF007160107PENBONDFND111",
+     "FMC_pct": 1.0,
+     "asset_allocation": "see policy document fund details",
+     "risk_label": null
+    },
+    {
+     "name": "Money Market Pension Fund",
+     "SFIN": "ULIF013200308PEMNYMTFND111",
+     "FMC_pct": 0.25,
+     "asset_allocation": "see policy document fund details",
+     "risk_label": null
+    }
+   ],
+   "status": "n/a",
+   "doc": "Policy Document",
+   "page": 33,
+   "quote": "Equity Pension Fund (SFIN: ULIF006150107PEEQITYFND111)",
+   "note": null
+  },
+  "index_or_thematic_funds": {
+   "value": null,
+   "status": "not offered",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": "no index or thematic fund"
+  },
+  "discontinued_policy_fund": {
+   "value": {
+    "name": "Discontinued Policy Pension Fund",
+    "SFIN": "ULIF025300513PEDISCOFND111",
+    "FMC": "0.50%",
+    "guaranteed_return": "4% p.a. minimum"
+   },
+   "status": "built-in",
+   "doc": "Policy Document",
+   "page": 33,
+   "quote": "We will apply a minimum investment return guarantee of 4.00% per annum on the Discontinued Pension Policy Fund",
+   "note": null
+  }
+ },
+ "protection_add_ons": {
+  "waiver_of_premium_inbuilt": {
+   "value": null,
+   "status": "not offered",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "critical_illness": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "accidental_death": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "terminal_illness": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "spouse_or_child_cover": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "riders_available": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  }
+ },
+ "surrender_revival": {
+  "lock_in_years": {
+   "value": 5,
+   "status": "built-in",
+   "doc": "Policy Document",
+   "page": 29,
+   "quote": "You can withdraw only after completion of lock-in period i.e from 6th Policy Year.",
+   "note": null
+  },
+  "discontinuance_rules": {
+   "value": "in lock-in: fund less discontinuance charge to the Discontinued Policy Pension Fund; after lock-in: reduced paid-up unless revived or withdrawn",
+   "status": "built-in",
+   "doc": "Policy Document",
+   "page": 30,
+   "quote": "the Fund Value after deducting the applicable discontinuance charges, shall be credited to the Discontinued Policy Pension",
+   "note": null
+  },
+  "revival_period": {
+   "value": "3 years",
+   "status": "built-in",
+   "doc": "Policy Document",
+   "page": 26,
+   "quote": "If You have opted to revive the Policy within three years but have not revived the Policy",
+   "note": null
+  },
+  "surrender_value_rule": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  }
+ },
+ "documents_inventory": [
+  {
+   "website_label": "Product Brochure/Prospectus",
+   "doc_type": "brochure",
+   "url": "https://www.sbilife.co.in/documents/d/sbil/retire-smart-plus-product-brochure-prospectus",
+   "found_on_page_url": "https://www.sbilife.co.in/retirement-pension-plans/retire-smart-plus",
+   "pages": 34,
+   "stored_path": "docs/sbi-life/111L135V02/brochure.pdf",
+   "status": "already stored",
+   "note": null
+  },
+  {
+   "website_label": "Policy Document",
+   "doc_type": "policy_document",
+   "url": "https://www.sbilife.co.in/documents/d/sbil/sbi-life-retire-smart-plus_v02_policy-document_form-no-774_website",
+   "found_on_page_url": "https://www.sbilife.co.in/retirement-pension-plans/retire-smart-plus",
+   "pages": 57,
+   "stored_path": "docs/sbi-life/111L135V02/policy.pdf",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "website_label": "Customer Information Sheet (CIS)",
+   "doc_type": "CIS",
+   "url": "https://www.sbilife.co.in/documents/d/sbil/sbi-life-retire-smart-plus_v02_cis_form-no-774_website",
+   "found_on_page_url": "https://www.sbilife.co.in/retirement-pension-plans/retire-smart-plus",
+   "pages": 4,
+   "stored_path": "docs/sbi-life/111L135V02/cis.pdf",
+   "status": "ok",
+   "note": null
+  }
+ ],
+ "new_features_not_in_schema": [
+  {
+   "feature": "Purpose-restricted partial withdrawals",
+   "description": "withdrawals allowed only for listed life events, including re-skilling and starting a business",
+   "quote": "Expenses incurred by Life Assured for the establishment of his/her own venture or any start-ups.",
+   "doc": "Policy Document",
+   "page": 30
+  },
+  {
+   "feature": "Terminal addition on death and vesting",
+   "description": "1.5% of fund value added",
+   "quote": "Terminal Addition is 1.5% of the fund value as on the date of Maturity/Vesting.",
+   "doc": "Policy Document",
+   "page": 27
+  },
+  {
+   "feature": "Reduced charges for staff",
+   "description": "lower premium allocation charges for SBI Life employees",
+   "quote": "If you are a staff member (as indicated in the Policy schedule point no. 8, then the below Premium Allocation Charges are applicable to you:",
+   "doc": "Policy Document",
+   "page": 38
+  }
+ ],
+ "data_not_public": []
+}

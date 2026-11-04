@@ -12,10 +12,12 @@ Status: in progress. This file grows insurer by insurer. One JSON per product is
 
 | Insurer | Products | Policy document | CIS | BI | Brochure | Fund documents |
 |---|---|---|---|---|---|---|
+| SBI Life | 7 of 7 | 7 "Policy Document" | 7 "Customer Information Sheet (CIS)" | 0 (none published) | 7 "Product Brochure/Prospectus" (5 products also link a "Product Guide" leaflet, not stored) | none |
 | Bharti Life | 7 of 7 | 7 ("Policy Bond" x6, "Policy Bond Part B" x1) | 7 "Customer Information Sheet" | 0 (none published) | 7 "Download Brochure" | none stored: "Fund Factsheet" and "Fund Performance" are company-wide web pages |
 
 ## Spot checks by hand
 
+- **SBI:** eWealth Plus (111L147V01) and Smart Invest Builder (111L153V01). I compared the clause-17 charges, the partial withdrawal limits and the guaranteed-addition table against the PDFs.
 - **Bharti:** Wealth Pro (130L100V03) and Grow Wealth Ultra (130L128V01). I compared the premium allocation, admin and discontinuance tables and the death benefit against the PDFs in layout mode.
 
 ## Anything odd
@@ -23,6 +25,8 @@ Status: in progress. This file grows insurer by insurer. One JSON per product is
 - **Bharti Grow Wealth Ultra (130L128V01).** The brochure on its product page prints Dream Shield Plus's UIN (130L125V01). I stored it with a note, but only for eligibility, which the policy bond does not state.
 - **Bharti Dream Shield Plus (130L125V01).** The brochure's rider section says the rider is available "along with Bharti AXA Life Growth Shield Plus".
 - **Bharti Future Invest (130L049V05).** The policy bond defines "Policy" as "Bharti AXA Life Grow Wealth".
+- **SBI Smart Elite Plus (111L146V01).** The brochure's eligibility table prints the rider UIN as "111AXXXV01" (a template placeholder). The rider section of the same brochure gives the real UIN, 111A049V01.
+- **SBI eWealth Plus (111L147V01).** The site labels the policy document and CIS "new fund addition" versions (Form No 861).
 - **Bharti Wealth Maximizer (130L121V01).** The policy bond still carries a template placeholder, "UIN:130XXXXXXX", next to the real UIN.
 
 ## New features found (seed for feature list v2)
@@ -31,12 +35,19 @@ Status: in progress. This file grows insurer by insurer. One JSON per product is
 - **Customer-specific boosters (Grow Wealth Ultra).** An "EmpowHer" booster for women, an ECS-payment booster, and an existing-customer booster.
 - **Joint life.** Grow Wealth offers a single-pay joint-life ULIP that tops up the fund on the first death.
 - **Mortality terms.** Several Bharti policy bonds guarantee their mortality rates for the term. Future Invest publishes separate male and female mortality tables.
-- **No allocation charge.** Future Invest and Grow Wealth charge no premium allocation at all.
+- **No allocation charge.** Future Invest and Grow Wealth (Bharti) and eWealth Plus (SBI) charge no premium allocation at all.
+- **SBI guaranteed additions.** Smart Invest Builder adds guaranteed additions every 5 years from year 10 (up to 150% of annualised premium at a 30-year term) plus a maturity addition. Smart Fortune Builder adds 5% or 10% of premium at maturity by premium band.
+- **SBI premium caps.** Smart Fortune Builder caps the premium at Rs 2,50,000, and Smart Invest Builder at Rs 20,000 a month (monthly only).
+- **SBI built-in protection.** Smart Elite Plus has a built-in accident benefit, with total permanent disability paid in 10 yearly instalments. Smart Scholar Plus (child plan) has a built-in premium payor waiver and accident benefit, and its loyalty additions continue after the parent's death.
+- **SBI withdrawal rules.** Retire Smart Plus allows withdrawals only for listed purposes (education, marriage, home, illness, re-skilling, starting a business), at most 3 times. Retire Smart Plus also gives SBI staff lower allocation charges. Several SBI products cap withdrawals at 15% of fund value and 10 per term.
+- **SBI settlement on death.** Several SBI products let the nominee take the death benefit in instalments while it stays invested.
 
 ## data_not_public
 
+- **SBI.** Nothing deferred. Mortality tables are published in every policy document.
 - **Bharti.** Nothing deferred. All seven policy bonds publish full mortality tables and charge tables.
 
 ## Gaps and retry list
 
-- **Bharti.** No BIs or product-specific fund factsheets are published.
+- **Bharti and SBI.** Neither publishes BIs or product-specific fund factsheets.
+- **SBI, fields to finish on the second pass.** Some standard fields are "not stated" because I did not quote them, not because the documents lack them: revival period and surrender value for Smart Privilege Plus and Smart Scholar Plus, and switching for Smart Scholar Plus. Their policy documents use the same clauses as eWealth Plus.

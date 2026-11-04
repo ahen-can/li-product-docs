@@ -100,6 +100,8 @@ def main():
             rec = {'insurer': d['insurer'], 'product_name': d['product_name'], 'uin': uin, 'website_label': label, 'doc_type': k,
                    'status': '', 'url': u, 'found_on_page_url': page, 'stored_path': '', 'pages': '', 'uin_in_document': '',
                    'is_scanned': '', 'notes': '', 'checked_utc': now}
+            if k == 'leaflet' and any(r['doc_type'] == 'brochure' for r in have):
+                rec.update(status='not stored (leaflet; brochure already stored)'); rows_out.append(rec); continue
             prev = next((r for r in have if r['source_url'] == u), None)
             if prev:                                                   # already stored (light pass): label it
                 prev[IDX_EXTRA] = prev[IDX_EXTRA] or label

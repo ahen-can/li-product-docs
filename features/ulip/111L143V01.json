@@ -1,0 +1,724 @@
+{
+ "product": {
+  "uin": {
+   "value": "111L143V01",
+   "status": "n/a",
+   "doc": "Policy Document",
+   "page": 1,
+   "quote": "SBI Life – Smart Privilege Plus (UIN:111L143V01)",
+   "note": null
+  },
+  "uin_in_brochure": {
+   "value": "111L143V01",
+   "status": "n/a",
+   "doc": "Product Brochure/Prospectus",
+   "page": 1,
+   "quote": "111L143V01",
+   "note": null
+  },
+  "product_name": {
+   "value": "SBI Life – Smart Privilege Plus",
+   "status": "n/a",
+   "doc": "Policy Document",
+   "page": 1,
+   "quote": "SBI Life – Smart Privilege Plus (UIN:111L143V01)",
+   "note": null
+  },
+  "irdai_description_line": {
+   "value": "An Individual, Unit Linked, Non-Participating, Life Insurance, Savings Product",
+   "status": "n/a",
+   "doc": "Policy Document",
+   "page": 1,
+   "quote": "An Individual, Unit Linked, Non-Participating, Life Insurance, Savings Product",
+   "note": null
+  },
+  "launch_or_version_date": {
+   "value": "policy document Form No 860",
+   "status": "n/a",
+   "doc": "Policy Document",
+   "page": 1,
+   "quote": "Policy Document Form No 860",
+   "note": null
+  },
+  "variants_or_plan_options": {
+   "value": [
+    {
+     "name": "Regular / Limited / Single pay",
+     "description": "high minimum premium (Rs 6 lakh a year); loyalty additions from year 6"
+    }
+   ],
+   "status": "n/a",
+   "doc": "Product Brochure/Prospectus",
+   "page": 4,
+   "quote": "Plan Type Regular Pay / Limited Pay / Single Pay",
+   "note": null
+  },
+  "target_segment_stated": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": "high minimum premium suggests HNI, but no segment is named in the pages read"
+  },
+  "online_offline": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  }
+ },
+ "eligibility": {
+  "entry_age_min": {
+   "value": "8 years (regular/limited), 13 years (single)",
+   "status": "n/a",
+   "doc": "Product Brochure/Prospectus",
+   "page": 4,
+   "quote": "Limited Pay: 8 years",
+   "note": null
+  },
+  "entry_age_max": {
+   "value": "55 years",
+   "status": "n/a",
+   "doc": "Product Brochure/Prospectus",
+   "page": 4,
+   "quote": "Age at Entry Minimum: Maximum: Regular Pay/ 55 years",
+   "note": null
+  },
+  "maturity_age_min": {
+   "value": "18 years",
+   "status": "n/a",
+   "doc": "Product Brochure/Prospectus",
+   "page": 4,
+   "quote": "Age1 at Maturity Minimum: 18 years Maximum: 70 years",
+   "note": null
+  },
+  "maturity_age_max": {
+   "value": "70 years",
+   "status": "n/a",
+   "doc": "Product Brochure/Prospectus",
+   "page": 4,
+   "quote": "Age1 at Maturity Minimum: 18 years Maximum: 70 years",
+   "note": null
+  },
+  "policy_term_options": {
+   "value": "regular 10-30; limited 15-30; single 5-30 years",
+   "status": "n/a",
+   "doc": "Product Brochure/Prospectus",
+   "page": 4,
+   "quote": "Regular Pay 10 to 30 Same as Policy Term",
+   "note": null
+  },
+  "ppt_options": {
+   "value": "regular (= PT); limited 5 years to PT minus 1; single",
+   "status": "n/a",
+   "doc": "Product Brochure/Prospectus",
+   "page": 4,
+   "quote": "Max: Policy Term",
+   "note": null
+  },
+  "premium_min_annual": {
+   "value": "Rs 6,00,000 yearly / 3,00,000 half-yearly / 1,50,000 quarterly / 50,000 monthly",
+   "status": "n/a",
+   "doc": "Product Brochure/Prospectus",
+   "page": 4,
+   "quote": "Yearly: 6,00,000",
+   "note": null
+  },
+  "premium_min_single": {
+   "value": "Rs 6,00,000",
+   "status": "n/a",
+   "doc": "Product Brochure/Prospectus",
+   "page": 4,
+   "quote": "Single Pay 6,00,000",
+   "note": null
+  },
+  "premium_max": {
+   "value": "no limit, subject to board-approved underwriting policy",
+   "status": "n/a",
+   "doc": "Product Brochure/Prospectus",
+   "page": 4,
+   "quote": "No Limit, Subject to",
+   "note": null
+  },
+  "sum_assured_rule": {
+   "value": "regular/limited: 7 x annualised premium; single: 1.25 x single premium",
+   "status": "built-in",
+   "doc": "Product Brochure/Prospectus",
+   "page": 5,
+   "quote": "Regular Pay & Limited Pay 7 × Annualized Premium2",
+   "note": null
+  },
+  "premium_modes": {
+   "value": "single, yearly, half-yearly, quarterly, monthly",
+   "status": "n/a",
+   "doc": "Product Brochure/Prospectus",
+   "page": 4,
+   "quote": "Single/Yearly / Half – Yearly / Quarterly / Monthly",
+   "note": null
+  },
+  "life_cover_multiple_choice": {
+   "value": null,
+   "status": "not offered",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  }
+ },
+ "charges": {
+  "premium_allocation_charge": {
+   "value": {
+    "regular/limited": {
+     "Y1-5": "2.50%",
+     "Y6+": "nil"
+    },
+    "single": "2.0% once"
+   },
+   "status": "built-in",
+   "doc": "Policy Document",
+   "page": 43,
+   "quote": "We will recover Premium Allocation Charges as a percentage of Premium as per the following table:",
+   "note": null
+  },
+  "policy_administration_charge": {
+   "value": "Rs 100 per month (regular/limited), nil (single); cap Rs 500",
+   "status": "built-in",
+   "doc": "Policy Document",
+   "page": 44,
+   "quote": "All Policy Years Regular Pay/ Limited Pay Single Pay Rs.100 per month Nil",
+   "note": null
+  },
+  "fund_management_charge": {
+   "value": {
+    "min": "0.25% (Money Market Fund)",
+    "max": "1.35%",
+    "discontinued_policy_fund": "0.50%"
+   },
+   "status": "built-in",
+   "doc": "Policy Document",
+   "page": 45,
+   "quote": "The FMC for all Segregated Funds except Discontinued Policy Fund, would be subject to a cap of 1.35%.",
+   "note": null
+  },
+  "mortality_charge": {
+   "value": "per Rs 1,000 sum at risk by attained age; table published",
+   "status": "built-in",
+   "doc": "Policy Document",
+   "page": 46,
+   "quote": "We will calculate Mortality Charges based on the attained Age of the Life Assured as on the date of deduction.",
+   "note": null
+  },
+  "discontinuance_charge": {
+   "value": "IRDAI-cap tables (clause 29), nil from year 5",
+   "status": "built-in",
+   "doc": "Policy Document",
+   "page": 45,
+   "quote": "Discontinuance/Surrender Charges 29.1. We will recover Discontinuance Charges from the Fu",
+   "note": null
+  },
+  "switching_charge": {
+   "value": "nil (cap Rs 500 if introduced)",
+   "status": "built-in",
+   "doc": "Policy Document",
+   "page": 45,
+   "quote": "Switching charge is currently NIL.",
+   "note": null
+  },
+  "partial_withdrawal_charge": {
+   "value": "2 free a year; Rs 100 for each one beyond that",
+   "status": "built-in",
+   "doc": "Policy Document",
+   "page": 46,
+   "quote": "We will charge Rs. 100 for every Partial Withdrawal in excess of",
+   "note": null
+  },
+  "premium_redirection_charge": {
+   "value": "nil",
+   "status": "built-in",
+   "doc": "Policy Document",
+   "page": 35,
+   "quote": "We will not charge for Premium Re-direction.",
+   "note": null
+  },
+  "miscellaneous_charge": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "guarantee_charge": {
+   "value": null,
+   "status": "n/a",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "rider_charges": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "any_charge_returned": {
+   "value": null,
+   "status": "not offered",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  }
+ },
+ "benefits": {
+  "death_benefit_formula": {
+   "value": "highest of: fund value; sum assured less APW (not for minors); 105% of premiums paid",
+   "status": "built-in",
+   "doc": "Policy Document",
+   "page": 6,
+   "quote": "APW equals Partial Withdrawals, if any, in the last 2 years immediately preceding the death of the Life Assured.",
+   "note": null
+  },
+  "maturity_benefit": {
+   "value": "fund value as a lump sum",
+   "status": "built-in",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": "standard SBI maturity clause"
+  },
+  "loyalty_additions": {
+   "value": {
+    "basis": "% of the 12-month average fund value",
+    "Y6": "1.0%",
+    "Y10": "2.5%",
+    "Y15": "3.5%",
+    "Y20": "5.0%",
+    "Y25": "6.0%",
+    "Y30": "7.0%"
+   },
+   "status": "built-in",
+   "doc": "Policy Document",
+   "page": 30,
+   "quote": "The Loyalty Additions would be calculated as a percentage of the average Fund Value.",
+   "note": null
+  },
+  "wealth_boosters_or_guaranteed_additions": {
+   "value": null,
+   "status": "not offered",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "return_of_mortality_charges": {
+   "value": null,
+   "status": "not offered",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "return_of_premium_allocation_charges": {
+   "value": null,
+   "status": "not offered",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "return_of_policy_admin_charges": {
+   "value": null,
+   "status": "not offered",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "other_additions": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  }
+ },
+ "flexibility": {
+  "fund_switching": {
+   "value": "free, unlimited; also during settlement",
+   "status": "built-in",
+   "doc": "Policy Document",
+   "page": 36,
+   "quote": "There are no restrictions on the number of Switches during a particular Policy Year or during entire Policy Term and during the Settlement Period",
+   "note": null
+  },
+  "premium_redirection": {
+   "value": "free from year 1; 14 days notice",
+   "status": "optional (during term)",
+   "doc": "Policy Document",
+   "page": 35,
+   "quote": "We will allow Premium Re-direction from thefirst Policy year onwards.",
+   "note": null
+  },
+  "partial_withdrawals": {
+   "value": "from year 6 and age 18; 2 free a year, up to 4 a year; 10 in the term (PT up to 10) or 15 (PT over 10)",
+   "status": "optional (during term)",
+   "doc": "Policy Document",
+   "page": 32,
+   "quote": "We will allow two free Partial Withdrawals in a Policy Year.",
+   "note": null
+  },
+  "systematic_withdrawal_plan": {
+   "value": null,
+   "status": "not offered",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "top_up_premiums": {
+   "value": null,
+   "status": "not offered",
+   "doc": "Policy Document",
+   "page": 28,
+   "quote": "Top up Premiums are not allowed under Your Policy.",
+   "note": null
+  },
+  "settlement_option": {
+   "value": "on death, in instalments to the claimant",
+   "status": "optional (during term)",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": "settlement-option clause present (clause 25 references \"Date of payment under Settlement Option\")"
+  },
+  "premium_holiday_or_offset": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "increase_decrease_cover": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "change_ppt_or_term": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "policy_loan": {
+   "value": null,
+   "status": "not offered",
+   "doc": "Policy Document",
+   "page": 35,
+   "quote": "Your Policy will not be eligible for any loans.",
+   "note": null
+  },
+  "auto_portfolio_strategies": {
+   "value": null,
+   "status": "not offered",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  }
+ },
+ "funds": {
+  "fund_count": {
+   "value": "14 funds plus the Discontinued Policy Fund",
+   "status": "n/a",
+   "doc": "Policy Document",
+   "page": 37,
+   "quote": "There are fourteen Segregated Funds as listed below available under the Policy, each of which have different risk-return",
+   "note": null
+  },
+  "fund_list": {
+   "value": [
+    {
+     "name": "Equity Fund",
+     "SFIN": "ULIF001100105EQUITYFND111",
+     "FMC_pct": 1.35,
+     "asset_allocation": "see policy document fund table",
+     "risk_label": null
+    },
+    {
+     "name": "Pure Fund",
+     "SFIN": "ULIF030290915PUREULPFND111",
+     "FMC_pct": 1.35,
+     "asset_allocation": "see policy document fund table",
+     "risk_label": null
+    },
+    {
+     "name": "Midcap Fund",
+     "SFIN": "ULIF031290915MIDCAPFUND111",
+     "FMC_pct": 1.35,
+     "asset_allocation": "see policy document fund table",
+     "risk_label": null
+    },
+    {
+     "name": "Top 300 Fund",
+     "SFIN": "ULIF016070110TOP300FND111",
+     "FMC_pct": 1.35,
+     "asset_allocation": "see policy document fund table",
+     "risk_label": null
+    },
+    {
+     "name": "Equity Optimiser Fund",
+     "SFIN": "ULIF010210108EQTYOPTFND111",
+     "FMC_pct": 1.35,
+     "asset_allocation": "see policy document fund table",
+     "risk_label": null
+    },
+    {
+     "name": "Growth Fund",
+     "SFIN": "ULIF003241105GROWTHFND111",
+     "FMC_pct": 1.35,
+     "asset_allocation": "see policy document fund table",
+     "risk_label": null
+    },
+    {
+     "name": "Balanced Fund",
+     "SFIN": "ULIF004051205BALANCDFND111",
+     "FMC_pct": 1.25,
+     "asset_allocation": "see policy document fund table",
+     "risk_label": null
+    },
+    {
+     "name": "Bond Fund",
+     "SFIN": "ULIF002100105BONDULPFND111",
+     "FMC_pct": 1.0,
+     "asset_allocation": "see policy document fund table",
+     "risk_label": null
+    },
+    {
+     "name": "Money Market Fund",
+     "SFIN": "ULIF005010206MONYMKTFND111",
+     "FMC_pct": 0.25,
+     "asset_allocation": "see policy document fund table",
+     "risk_label": null
+    },
+    {
+     "name": "Bond Optimiser Fund",
+     "SFIN": "ULIF032290618BONDOPTFND111",
+     "FMC_pct": 1.15,
+     "asset_allocation": "see policy document fund table",
+     "risk_label": null
+    },
+    {
+     "name": "Corporate Bond Fund",
+     "SFIN": "ULIF033290618CORBONDFND111",
+     "FMC_pct": 1.15,
+     "asset_allocation": "see policy document fund table",
+     "risk_label": null
+    },
+    {
+     "name": "Bluechip Fund",
+     "SFIN": "ULIF034250824BLUECHPFND111",
+     "FMC_pct": 1.35,
+     "asset_allocation": "see policy document fund table",
+     "risk_label": null
+    },
+    {
+     "name": "Flexicap Fund",
+     "SFIN": "ULIF035231026FLXICAPFND111",
+     "FMC_pct": 1.35,
+     "asset_allocation": "see policy document fund table",
+     "risk_label": null
+    },
+    {
+     "name": "Large Cap Fund",
+     "SFIN": "ULIF036231026LARGCAPFND111",
+     "FMC_pct": 1.35,
+     "asset_allocation": "see policy document fund table",
+     "risk_label": null
+    }
+   ],
+   "status": "n/a",
+   "doc": "Policy Document",
+   "page": 44,
+   "quote": "Fund Options FMC (p.a.) Equity Fund 1.35%",
+   "note": null
+  },
+  "index_or_thematic_funds": {
+   "value": "Pure, Midcap, Flexicap and Large Cap Funds; no index fund",
+   "status": "n/a",
+   "doc": "Policy Document",
+   "page": 44,
+   "quote": "Large Cap Fund 1.35%",
+   "note": "themes inferred from names"
+  },
+  "discontinued_policy_fund": {
+   "value": {
+    "name": "Discontinued Policy Fund",
+    "FMC": "0.50%"
+   },
+   "status": "built-in",
+   "doc": "Policy Document",
+   "page": 44,
+   "quote": "Discontinued Policy fund 0.50%",
+   "note": null
+  }
+ },
+ "protection_add_ons": {
+  "waiver_of_premium_inbuilt": {
+   "value": null,
+   "status": "not offered",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": "rider only"
+  },
+  "critical_illness": {
+   "value": "via Waiver of Premium Rider",
+   "status": "rider",
+   "doc": "Product Brochure/Prospectus",
+   "page": 5,
+   "quote": "SBI Life - Waiver of Premium Rider- Linked (UIN: 111A049V01)",
+   "note": null
+  },
+  "accidental_death": {
+   "value": "SBI Life - Accident Benefit Rider - Linked (111A042V01)",
+   "status": "rider",
+   "doc": "Product Brochure/Prospectus",
+   "page": 5,
+   "quote": "Option A: Accidental Death Benefit (ADB)",
+   "note": null
+  },
+  "terminal_illness": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "spouse_or_child_cover": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "riders_available": {
+   "value": [
+    {
+     "name": "SBI Life - Accident Benefit Rider - Linked",
+     "UIN": "111A042V01"
+    },
+    {
+     "name": "SBI Life - Waiver of Premium Rider - Linked",
+     "UIN": "111A049V01"
+    }
+   ],
+   "status": "rider",
+   "doc": "Product Brochure/Prospectus",
+   "page": 5,
+   "quote": "SBI Life - Accident Benefit Rider - Linked (UIN : 111A042V01)",
+   "note": null
+  }
+ },
+ "surrender_revival": {
+  "lock_in_years": {
+   "value": 5,
+   "status": "built-in",
+   "doc": "Policy Document",
+   "page": 7,
+   "quote": "Lock-In Period: 5 years from the Date of Commencement of Policy.",
+   "note": null
+  },
+  "discontinuance_rules": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "revival_period": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "surrender_value_rule": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  }
+ },
+ "documents_inventory": [
+  {
+   "website_label": "Product Brochure/Prospectus",
+   "doc_type": "brochure",
+   "url": "https://www.sbilife.co.in/documents/d/sbil/sbi_life_-_smart_privilege_plus_brochure_eng",
+   "found_on_page_url": "https://www.sbilife.co.in/ulip/smart-privilege-plus",
+   "pages": 43,
+   "stored_path": "docs/sbi-life/111L143V01/brochure.pdf",
+   "status": "already stored",
+   "note": null
+  },
+  {
+   "website_label": "Product Guide",
+   "doc_type": "leaflet",
+   "url": "https://www.sbilife.co.in/documents/d/sbil/sbi_life_-_smart_privilege_plus_leaflet_eng",
+   "found_on_page_url": "https://www.sbilife.co.in/ulip/smart-privilege-plus",
+   "pages": null,
+   "stored_path": null,
+   "status": "not stored (leaflet; brochure already stored)",
+   "note": null
+  },
+  {
+   "website_label": "Policy Document",
+   "doc_type": "policy_document",
+   "url": "https://www.sbilife.co.in/documents/d/sbil/sbi-life-smart-privilege-plus_policy-document",
+   "found_on_page_url": "https://www.sbilife.co.in/ulip/smart-privilege-plus",
+   "pages": 63,
+   "stored_path": "docs/sbi-life/111L143V01/policy.pdf",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "website_label": "Customer Information Sheet (CIS)",
+   "doc_type": "CIS",
+   "url": "https://www.sbilife.co.in/documents/d/sbil/sbi-life-smart-privilege-plus_cis",
+   "found_on_page_url": "https://www.sbilife.co.in/ulip/smart-privilege-plus",
+   "pages": 4,
+   "stored_path": "docs/sbi-life/111L143V01/cis.pdf",
+   "status": "ok",
+   "note": null
+  }
+ ],
+ "new_features_not_in_schema": [
+  {
+   "feature": "Rising loyalty additions on a 12-month average fund value",
+   "description": "1% at year 6 rising to 7% at year 30",
+   "quote": "The average Fund Value is the average of the Fund Values as on the 1st day of the last 12 Policy Months preceding the allocation of Loyalty Addition.",
+   "doc": "Policy Document",
+   "page": 30
+  }
+ ],
+ "data_not_public": []
+}

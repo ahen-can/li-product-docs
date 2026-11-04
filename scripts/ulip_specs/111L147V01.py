@@ -1,0 +1,88 @@
+import sys; sys.path.insert(0, 'scripts'); sys.path.insert(0, 'scripts/ulip_specs')
+from ulip_json import F, NS, build
+from sbi_common import funds
+P, B, C = 'Policy Document', 'Product Brochure/Prospectus', 'Customer Information Sheet (CIS)'
+FMC = {'Equity Fund': 1.35, 'Equity Optimiser Fund': 1.35, 'Top 300 Fund': 1.35, 'Midcap Fund': 1.35, 'Pure Fund': 1.35, 'Bluechip Fund': 1.35, 'Growth Fund': 1.35, 'Flexicap Fund': 1.35,
+       'Large Cap Fund': 1.35, 'Balanced Fund': 1.25, 'Corporate Bond Fund': 1.15, 'Bond Optimiser Fund': 1.15, 'Bond Fund': 1.00, 'Money Market Fund': 0.25}
+spec = {
+ 'product': {
+  'uin': F('111L147V01', 'n/a', P, None, 'SBI Life – eWealth Plus (UIN: 111L147V01)'),
+  'uin_in_brochure': F('111L147V01', 'n/a', B, None, 'Key Features of SBI Life – eWealth Plus (UIN: 111L147V01)'),
+  'product_name': F('SBI Life – eWealth Plus', 'n/a', P, None, 'SBI Life – eWealth Plus (UIN: 111L147V01)'),
+  'irdai_description_line': F('An Individual, Unit Linked, Non-Participating, Life Insurance Savings Product', 'n/a', P, None, 'An Individual, Unit Linked, Non-Participating, Life Insurance Savings Product'),
+  'launch_or_version_date': F('policy document Form No 861; the policy document and CIS on the site are labelled "new fund addition"', 'n/a', P, None, 'Policy Document Form No: 861'),
+  'variants_or_plan_options': F([{'name': 'Growth Strategy', 'description': 'automatic allocation among Equity, Bond and Money Market Funds by years to maturity, rebalanced each anniversary'}, {'name': 'Active Strategy', 'description': 'policyholder picks among 14 funds; switches and redirection only here'}],
+                                'optional (at inception)', P, None, 'Investment Strategy once chosen and specified in the Policy Schedule, cannot be changed during the Policy Term.'),
+  'target_segment_stated': NS(),
+  'online_offline': F('online (3-step online buying process)', 'n/a', B, None, 'Easy and Simple 3 Step Online Buying Process'),
+ },
+ 'eligibility': {
+  'entry_age_min': F('5 years', 'n/a', B, None, 'Age# at Entry Minimum: 5 Years Maximum: 50 Years'),
+  'entry_age_max': F('50 years', 'n/a', B, None, 'Age# at Entry Minimum: 5 Years Maximum: 50 Years'),
+  'maturity_age_min': F('18 years', 'n/a', B, None, 'Age at Maturity Minimum: 18 Years Maximum: 65 Years'),
+  'maturity_age_max': F('65 years', 'n/a', B, None, 'Age at Maturity Minimum: 18 Years Maximum: 65 Years'),
+  'policy_term_options': F('regular pay 10-30 years; limited pay 15-30 years', 'n/a', B, None, 'Policy Term Minimum: Regular Pay -10 Years /Limited Pay - 15 Years Maximum: 30 Years'),
+  'ppt_options': F('regular (= policy term) or limited 7 or 10 years', 'n/a', B, None, 'Premium Payment Term Regular Pay: Same as Policy Term/Limited Pay: 7 & 10 Years'),
+  'premium_min_annual': F('Rs 36,000 a year (yearly) or Rs 3,000 a month (monthly)', 'n/a', B, None, 'Premium Range Premium Payment Premium Range Frequency Minimum Maximum Yearly `36,000 per'),
+  'premium_min_single': F(None, 'n/a', note='no single pay'),
+  'premium_max': F('no limit, subject to board-approved underwriting policy', 'n/a', B, None, 'No Limit, Subject to Board'),
+  'sum_assured_rule': F('10 x annualised premium', 'built-in', B, None, 'Sum Assured Annualized Premium^X10'),
+  'premium_modes': F('yearly and monthly; frequency can be changed at a policy anniversary', 'n/a', P, None, 'The Premium Frequency available under the Policy are yearly or monthly.'),
+  'life_cover_multiple_choice': F(None, 'not offered', note='fixed at 10x'),
+ },
+ 'charges': {
+  'premium_allocation_charge': F('nil', 'built-in', P, None, '17.1. Premium Allocation Charges 17.1.1. Nil for all Policy Years.', 'guaranteed for the term'),
+  'policy_administration_charge': F('Rs 100 per month; cap Rs 500 per month', 'built-in', P, None, 'We will charge Policy Administration Charges of Rs.100 per month.'),
+  'fund_management_charge': F({'min': '0.25% (Money Market Fund)', 'max': '1.35%', 'discontinued_policy_fund': '0.50%'}, 'built-in', P, None, 'Money Market Fund 0.25% Discontinued Policy Fund 0.50%'),
+  'mortality_charge': F('per Rs 1,000 sum at risk by attained age, monthly; full table published; guaranteed for the term', 'built-in', P, None, 'Premium Allocation Charges and Mortality Charges, are guaranteed for the entire Policy Term.', 'sum at risk = higher of (sum assured less APW, 105% of premiums) minus fund value'),
+  'discontinuance_charge': F({'AP up to Rs 50,000': 'lower of 20/15/10/5% x (AP or FV), max Rs 3,000/2,000/1,500/1,000 in Y1-4; nil from Y5', 'AP above Rs 50,000': 'lower of 6/4/3/2% x (AP or FV), max Rs 6,000/5,000/4,000/2,000; nil from Y5'},
+                             'built-in', P, None, 'We will recover Discontinuance Charges as a percentage of the Fund Value or as a percentage of Annualized Premium.'),
+  'switching_charge': F('2 free switches a year, then Rs 100 per switch (cap Rs 500); Active Strategy only', 'built-in', P, None, 'We will charge You Rs.100 per Switch from 3rd Switch onwards in the same Policy Year.'),
+  'partial_withdrawal_charge': F('first withdrawal in a year free, the second Rs 100 (cap Rs 500)', 'built-in', P, None, 'We will charge Rs.100 per withdrawal from the second Partial Withdrawal in any Policy Year.'),
+  'premium_redirection_charge': F('nil (cap Rs 500 if introduced)', 'built-in', P, None, 'Presently, the Premium Re-direction charges are nil.'),
+  'miscellaneous_charge': NS(), 'guarantee_charge': F(None, 'n/a'), 'rider_charges': NS(),
+  'any_charge_returned': F(None, 'not offered'),
+ },
+ 'benefits': {
+  'death_benefit_formula': F('highest of: fund value; sum assured less partial withdrawals in the last 2 years; 105% of premiums paid', 'built-in', P, None, 'We will pay the highest of: 1.1.1. Fund Value as on date of the intimation of the death claim to Us or 1.1.2. Sum Assured less Applicable Partial Withdrawals (APW), if any or 1.1.3. 105% of the Total Premiums Paid upto the date of death'),
+  'maturity_benefit': F('fund value as a lump sum', 'built-in', P, None, 'If the Life Assured is alive on the Date of Maturity, We will pay Your Fund Value as the Maturity Benefit in lump-sum as on the Date of Maturity.'),
+  'loyalty_additions': F(None, 'not offered'), 'wealth_boosters_or_guaranteed_additions': F(None, 'not offered'),
+  'return_of_mortality_charges': F(None, 'not offered'), 'return_of_premium_allocation_charges': F(None, 'n/a', note='no allocation charge'), 'return_of_policy_admin_charges': F(None, 'not offered'), 'other_additions': F(None, 'not offered'),
+ },
+ 'flexibility': {
+  'fund_switching': F('Active Strategy only; 2 free a year then Rs 100; minimum Rs 5,000; no limit on number', 'optional (during term)', P, None, 'There are no restrictions on the number of Switches during a particular Policy Year or during entire Policy Term.'),
+  'premium_redirection': F('Active Strategy only; unlimited and free from year 1; request 14 days before the due date', 'optional (during term)', P, None, 'We will allow unlimited Premium Re-direction only for Active Strategy from first Policy Year onwards.'),
+  'partial_withdrawals': F('from year 6 and age 18; at most 2 a year and 10 in the term; Rs 5,000 minimum, 15% of fund value maximum, multiples of Rs 1,000; fund must stay at least 50% of premiums paid', 'optional (during term)', P, None, 'We will allow a maximum of ten Partial Withdrawals in the entire Policy Term.'),
+  'systematic_withdrawal_plan': F(None, 'not offered', note='no SWP in the policy document'),
+  'top_up_premiums': F(None, 'not offered', P, None, 'Top up Premiums are not allowed under Your Policy.'),
+  'settlement_option': F(None, 'not offered', note='maturity is paid as a lump sum'),
+  'premium_holiday_or_offset': NS(), 'increase_decrease_cover': NS(),
+  'change_ppt_or_term': F('premium frequency can change at a policy anniversary; strategy cannot change', 'optional (during term)', P, None, 'You can change the Premium Frequency, at any Policy Anniversary.'),
+  'policy_loan': F(None, 'not offered', P, None, 'Your Policy will not be eligible for any loans.'),
+  'auto_portfolio_strategies': F([{'name': 'Growth Strategy', 'mechanics': 'Equity / Bond / Money Market Fund mix set by years to maturity (e.g. 60-80% equity with 18+ years left), rebalanced each policy anniversary'}],
+                                 'optional (at inception)', P, None, 'Growth Strategy is a passive fund management strategy with automatic Allocation of funds among three pre-selected Chosen Funds, the Equity Fund, Bond Fund and Money Market Fund'),
+ },
+ 'funds': {
+  'fund_count': F('14 funds plus the Discontinued Policy Fund', 'n/a', P, None, 'There are fourteen Segregated Funds as listed below available under the Policy, each of which have different risk-return profiles.'),
+  'fund_list': F(funds(FMC), 'n/a', P, None, 'The annual FMC for the funds will be as follows: Fund Options FMC (p.a.) Equity Fund 1.35%', 'SFINs from policy document pp.32-37'),
+  'index_or_thematic_funds': F('Pure Fund (ethical screen), Midcap Fund, Flexicap Fund, Large Cap Fund (Flexicap and Large Cap SFINs dated 23/10/26, i.e. new); no index fund', 'n/a', P, None, 'Large Cap Fund 1.35%', 'fund themes inferred from fund names only; check fund objectives before using'),
+  'discontinued_policy_fund': F({'name': 'Discontinued Policy Fund', 'SFIN': 'ULIF024110411DISCOPOFND111', 'FMC': '0.50%', 'guaranteed_return': '4% p.a. minimum'}, 'built-in', P, None, 'We will apply a minimum guaranteed interest rate of 4.00% per annum or as prescribed in the regulations from time to time, to the Discontinued Policy Fund.'),
+ },
+ 'protection_add_ons': {
+  'waiver_of_premium_inbuilt': F(None, 'not offered', note='available only as a rider'),
+  'critical_illness': F('via Waiver of Premium Rider - Linked (waives premiums on covered CI)', 'rider', B, None, 'Diagnosis of any one of the covered Critical Illness (CI)'),
+  'accidental_death': F('SBI Life - Accident Benefit Rider - Linked (111A042V01), Option A', 'rider', B, None, 'Option A: Accidental Death Benefit (ADB)'),
+  'terminal_illness': NS(), 'spouse_or_child_cover': NS(),
+  'riders_available': F([{'name': 'SBI Life - Accident Benefit Rider - Linked', 'UIN': '111A042V01'}, {'name': 'SBI Life - Waiver of Premium Rider - Linked', 'UIN': '111A049V01'}], 'rider', P, None, 'SBI Life - Accident Benefit Rider - Linked (UIN: 111A042V01)'),
+ },
+ 'surrender_revival': {
+  'lock_in_years': F(5, 'built-in', P, None, 'Lock-In Period: 5 years from the Date of Commencement of Policy.'),
+  'discontinuance_rules': F('in lock-in: fund less discontinuance charge to the Discontinued Policy Fund, cover stops; after lock-in: reduced paid-up automatically', 'built-in', P, None, 'Your Policy shall be automatically converted into a Reduced Paid-Up Policy with the Paid-Up Sum Assured.'),
+  'revival_period': F('3 consecutive complete years from the first unpaid premium', 'built-in', P, None, 'You can revive the Policy within the Revival Period of 3 consecutive complete years from the date of first unpaid Premium.'),
+  'surrender_value_rule': F('in lock-in: discontinued fund proceeds after year 5; after lock-in: fund value on the surrender date', 'built-in', P, None, 'If You opt to completely withdraw from the Policy, then Fund Value as on Date of receipt of surrender request would be payable.'),
+ },
+}
+build('111L147V01', spec,
+  new_features=[{'feature': 'Withdrawal cap of 15% of fund value and 10 per term', 'description': 'stricter partial withdrawal limits than most ULIPs', 'quote': 'We will allow a maximum of ten Partial Withdrawals in the entire Policy Term.', 'doc': P, 'page': None},
+                {'feature': 'Low-cost Money Market Fund', 'description': 'FMC 0.25%', 'quote': 'Money Market Fund 0.25% Discontinued Policy Fund 0.50%', 'doc': P, 'page': None}],
+  not_public=[])
