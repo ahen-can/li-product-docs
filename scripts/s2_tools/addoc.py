@@ -25,7 +25,7 @@ info = subprocess.run(['pdfinfo', fp], capture_output=True, text=True).stdout
 pages = int(re.search(r'Pages:\s+(\d+)', info).group(1))
 txt = subprocess.run(['pdftotext', '-layout', fp, '-'], capture_output=True, text=True).stdout
 assert len(txt) > 200 * pages, 'scanned; OCR needed'
-assert doc_uin in txt.replace(' ', ''), f'{doc_uin} not found in document'
+if doc_uin != '-': assert doc_uin in txt.replace(' ', ''), f'{doc_uin} not found in document'   # '-' = the document prints no product code; say so in the note
 tp = f'text/{slug}/{uin}/{name}.txt'; os.makedirs(os.path.dirname(tp), exist_ok=True); open(tp, 'w').write(txt)
 now = datetime.datetime.now(datetime.timezone.utc).strftime('%Y-%m-%dT%H:%M:%SZ')
 d1 = dict(tpl); d1.update({'doc_id': f'{uin}-{name}', 'doc_type': dtype, 'source_url': url, 'found_on_page_url': found, 'download_date_utc': now, 'http_status': '200', 'sha256': sha,
@@ -33,6 +33,6 @@ d1 = dict(tpl); d1.update({'doc_id': f'{uin}-{name}', 'doc_type': dtype, 'source
 with open('index.csv', 'a', newline='') as o: csv.writer(o).writerow([d1.get(k, '') for k in H])
 H2 = next(csv.reader(open('results/deep_ulip_docs.csv')))
 d2 = {'insurer': tpl['insurer'], 'product_name': tpl['product_name'], 'uin': uin, 'website_label': label, 'doc_type': dtype, 'status': 'ok', 'url': url, 'found_on_page_url': found,
-      'stored_path': fp, 'pages': str(pages), 'uin_in_document': doc_uin, 'is_scanned': 'N', 'notes': note, 'checked_utc': now}
+      'stored_path': fp, 'pages': str(pages), 'uin_in_document': '' if doc_uin == '-' else doc_uin, 'is_scanned': 'N', 'notes': note, 'checked_utc': now}
 with open('results/deep_ulip_docs.csv', 'a', newline='') as o: csv.writer(o).writerow([d2.get(k, '') for k in H2])
 print('stored', fp, pages, 'pages')

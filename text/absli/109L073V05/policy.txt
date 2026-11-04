@@ -1,0 +1,1315 @@
+ Aditya Birla Sun Life Insurance                                                                                                     Part B
+ Wealth Max Plan
+
+GENERAL
+The Company may amend or place endorsement/s to this Policy from time to time for any changes agreed to by the Policyholder and the
+Company, and any such amendments or endorsement/s will form part of this Policy.
+In this Policy, the words or terms below that appear in initial capitals will have the specific meaning assigned to them below. These defined
+words or terms will, where appropriate to the context, be read so that the singular includes the plural, and the masculine includes the feminine.
+
+Any capitalized term used and not defined herein shall have the same meaning as is ascribed to them under the Rider Terms and Conditions,
+if the Rider has been provided for and is in force under the Policy. In case of any common terms in the Rider Terms and Conditions and this
+Policy, for the purpose of this Policy the meaning ascribed to such terms in this Policy shall prevail. This is a Unit Linked Life Insurance Policy.
+The actual payment of benefits under this Policy will vary based on the actual performance of the Segregated Funds offered under this Policy
+and as selected by You.
+
+Please read this policy document carefully.
+
+IRDAI PRIOR APPROVAL
+Unless specifically stated otherwise, we reserve the right to increase each charge applicable to your policy at any time. We, however, need to
+get prior approval from the Insurance Regulatory and Development Authority of India (IRDAI) before such charge increase is effective.
+
+DEFINITIONS
+
+1.“Act” refers to the Insurance Act 1938 as amended from time to time and shall include the Insurance Laws (Amendment) Act 2015.
+
+2.“Age” refers to age of the Life Insured as on the last birthday in completed years attained as on the Policy Issue Date or on the previous
+  Policy Anniversary, as the case may be.
+
+3.“Appointee” is the person who is appointed by You and as named in the Policy Schedule, who is authorized to receive benefits under the
+  Policy on behalf of the Nominee(s), in cases where the Nominee is less than Age 18 on the date of claim payment.
+
+4.“Assignee” means the person to whom the rights and benefits are transferred by virtue of an assignment.
+
+5.“Assignment” means a provision wherein the Policyholder can assign or transfer a Policy in accordance with Section 38 of the Insurance Act,
+  1938 as amended from time to time.
+
+6.“Basic Premium” is single premium as paid by you to affect this policy contract.
+
+7.“Basic Sum Assured” is the amount as specified in the Policy Schedule.
+
+8.“Business Day” means days other than holidays where stock exchanges (excluding Muhurat trading day) with national wide terminals are
+  open for trade or any day declared by the IRDAI as a business day.
+
+9.“Charges” means or refers to the charges as detailed in Policy Charges section of Part E of this policy.
+
+10.“Death Benefit” means the benefit payable on death of the Life Insured as specified in the Policy Contract.
+
+11.“Discontinuance” means the state of the Policy arising out of the Surrender of the Policy or on non-payment of the Instalment Premium
+  due before the expiry of the Grace Period.
+
+12.“Discontinuance Charge” means a charge levied by Us on the Discontinuance or Surrender of the Policy in accordance with the rates as
+  specified in Part E of this Policy.
+
+13.“Discontinuance Date” is the date when you decide to completely withdraw from the policy.
+
+14.“Fund” - means each of the separately identifiable segregated unit linked funds earmarked by the Company for unit Linked business and as
+  detailed in section segregated Fund Provisions of Part E of this policy.
+
+15.“Life Insured” is the person on whose life the contingent events has to occur for the benefits to be payable and as named in the Policy
+  Schedule.
+
+16.“Lapse” is the status of the Policy when due premium is not paid within the grace period.
+
+17.“Lock-In Period” means the period of five (5) consecutive Policy Years from the Policy Issue Date during which period the proceeds of the
+  policies cannot be paid by the Us to the Policyholder or to the Life Insured, as the case may be, except in the case of death or upon the
+  happening of any other contingency covered under the policy.
+
+
+V05 - Nov/2025
+ Aditya Birla Sun Life Insurance                                                                                                    Part B
+ Wealth Max Plan
+
+18.“Maturity Benefit” means the benefit as specified in the Policy Contract which is payable on the Policy Maturity Date.
+
+19.“Monthly Processing Date” means the date corresponds numerically with the Policy Issue Date in every calendar month.
+
+20.“Net Asset Value (NAV)” is determined based on (the market value of investments held by the fund plus the value of any current assets
+  less the value of any current liabilities & provisions) divided by the number of units existing at valuation date (before creation or redemption
+  of any units).
+
+21.“Nomination” is the process of nominating a person who is named as “Nominee” in the proposal/application form or subsequently
+  included/ changed by an endorsement. Nomination should be in accordance with provisions of Section 39 of the Insurance Act, 1938 as
+  amended from time to time.
+
+22.“Nominee” is the person who is nominated by You in accordance with Part F and whose name is mentioned in the Policy Schedule, to
+  receive the Death Benefit under this Policy. Nomination can only be effected if You are also the Life Insured under the Policy.
+
+23.“Policy Anniversary” means the date corresponds numerically with the Policy Issue Date in every calendar year until Policy Maturity Date.
+
+24.“Policy Issue Date” is the date this policy is issued and your rights, benefits and risk cover begin, as shown in Policy Schedule.
+
+25.“Policy Month” is the period of one calendar month from Monthly Processing Date.
+
+26.“Policy Year“ is the period of twelve calendar months from the Policy Anniversary.
+
+27.“Partial withdrawals” means any amount withdrawn partially out of unit fund by the Policyholder during the term of the policy.
+
+28.“Reduced Paid-up Policy” means the Policy under which the due Instalment Premiums have been discontinued after the completion of the
+  Lock-In Period
+
+29.“Risk Commencement Date” is the date on which insurance coverage begins, as shown in the Policy Schedule.
+
+30.“Unit” is a specific portion or a part of the underlying segregated unit linked Fund to determine the Unit Price.
+
+31.“Segregated Fund Switch” is facility where you can switch part or all of your allocated units in one segregated fund to another segregated
+  fund at any time under the Self-Managed Option.
+
+32.“Surrender” means complete withdrawal or termination of the policy.
+
+33.“Unit Price” is the Net Asset Value (NAV) per Unit of the Fund.
+
+
+
+
+ ABSLI WMP                                            Ver 5/Nov/2025                   POL/11/25-26/1355                            109L073V05
+ Aditya Birla Sun Life Insurance                                                                                                  Part C
+ Wealth Max Plan
+
+POLICY VALUE PROVISIONS
+1.Policy Premium
+Policy Schedule shows the basic premium and the premium paying mode.
+
+2.Top-Up Premium
+Top-up premium is the additional amount/s paid by you within a policy year over and above the basic premium. You are free to pay a top-up
+premium anytime during the policy term other than the last five years of the policy term.
+The minimum top-up premium is Rs. 5,000 and at any point the total top-up premiums paid cannot exceed the basic premium paid, subject to
+our then current underwriting guidelines, your Top-up Sum Assured will be equal to 125% of the top-up premium paid at that time
+Top-up premium once paid cannot be withdrawn for 5 years except in case of complete withdrawal of policy.
+
+3.Premium Allocation Percentage
+The Basic and Top-up Premiums are allocated net of applicable charges to the Funds chosen by you and as the name of the Fund/s and
+Allocation (%) mentioned in the Policy Schedule, at the Unit Price as applicable on the date of premium allocation.
+
+4.Policy Fund Value
+The Policy Fund Value is the total of the Basic Fund Value and Top-up Fund Value; where Basic Fund Value is equal to the units pertaining to
+basic premium allocated to the segregated fund/s chosen by you multiplied by its then prevailing unit price and Top-up Fund Value is equal to
+the number of units pertaining to top-up premiums allocated to the segregated fund/s chosen by you multiplied by its then prevailing unit
+price
+As detailed in the Segregated Fund Provisions, units are allocated when a Basic and Top-up Premium (net of premium allocation charge) is
+received or switches are made and units are redeemed when a partial withdrawal is made or when a policy charge is due on a monthly
+processing date or otherwise. Additional units will be allocated to your policy when a Guaranteed Addition is added by us as detailed in the
+Policy Benefit Provisions.
+
+5.Partial Withdrawal
+You are free to make a partial withdrawal at any time after five complete policy years and provided life insured is attained age 18 or older. The
+partial withdrawals shall first be adjusted from the Top-up Fund Value (except any Top-up Premiums paid in the previous five years immediately
+preceding the date of withdrawal); if any. Once the Top-up Fund Value is exhausted, partial withdrawals would be adjusted from Basic Fund
+Value.
+The partial withdrawal you can make is subject to a minimum of Rs. 5,000 and a maximum equal to any excess of the Policy Fund Value over
+50% of the basic premium plus 100% of top-up premiums paid during the five years immediately preceding the date of partial withdrawal.
+
+
+6.Grace Period
+If the Instalment Premium is not received by Us by the due dates specified in the Policy Schedule, You will be given a Grace Period of 30 days
+(15 days in case the premium paying mode is monthly) to make the payment of due Instalment Premium(s), during which time all the benefits
+will continue inclusive of the risk cover and deduction of charges under the Policy will continue to remain in force.
+
+
+POLICY BENEFIT PROVISIONS
+1.Guaranteed Additions
+We will add the following Guaranteed Additions to your Policy Fund Value while the policy is still in effect:
+         On the 6th policy anniversary until the 10th policy anniversary, we shall add a Guaranteed Addition equal to 0.25% of the average
+          Policy Fund Value in the last 12 months.
+
+         On the 11th policy anniversary and every policy anniversary thereafter, we shall add a Guaranteed Addition equal to 0.60% of the
+          average Policy Fund Value in the last 12 policy months.
+
+The average Policy Fund Value shall be the sum of the Policy Fund Value after each monthly processing date in the last 12 policy months, all
+divided by 12.
+
+
+
+2.Death Benefit
+Policy Schedule shows the Basic Sum Assured applicable to your policy. Your Sum Assured is the total of Basic Sum Assured and Top-up Sum
+Assured, if any.
+If the Life Insured dies while the policy is in effect, we shall pay to the nominee/legal heir the higher of
+
+                                                                  V05 - Nov/2025
+ Aditya Birla Sun Life Insurance                                                                                                  Part C
+ Wealth Max Plan
+        Basic Fund Value as on date of intimation of death; or
+        Basic Sum Assured
+In addition, the nominee/legal heir shall also receive the higher of
+        Top-up Fund Value as on date of intimation of death; or
+        Top-up Sum Assured
+Basic Sum Assured shall be reduced to the extent of the partial withdrawals made during the two-year period immediately preceding the death
+of the life insured from the Basic Fund Value.
+
+Death benefit shall never be less than 105% of Basic Premium paid plus Top-up Premiums paid and less any partial withdrawals made, both
+from the basic fund and top-up fund values, during two-year period immediately preceding the death of life insured.
+
+Provided that where the death of the Life Insured takes place before the Life Insured attains age of one year, only the basic and Top-up
+premium paid shall be payable as the Death Benefit.
+
+The policy will terminate once the Death Benefit is paid to the nominee.
+If the life insured and the policyholder is different, the Death Benefit shall be paid to the policyholder.
+Further any charges other than Fund Management Charges (FMC) recovered subsequent to the date of death shall be added back to the fund
+value as available on the date of intimation of death.
+The Death Benefit shall always be determined as of the date we receive intimation of death of the Life Insured.
+
+3.Maturity Benefit
+On the policy maturity date and provided your policy is still in effect, we shall pay you the Maturity Benefit. The Maturity Benefit shall be the
+Policy Fund Value as of that date.
+
+
+
+
+V05 - Nov/2025
+ Aditya Birla Sun Life Insurance                                                                                                 Part D
+ Wealth Max Plan
+
+POLICY PROVISIONS
+1.Free-look Period
+You will have the right to return the Policy to Us within 30 days from the date of receipt of the Policy, in case You are not satisfied with the
+terms & conditions of Your Policy. We will refund the Policy Fund Value plus non allocated Instalment Premiums plus all Charges levied
+(excluding the Fund Management Charge) by cancellation of Units post receipt of written notice of cancellation (along with reasons thereof)
+together with the original Policy document (only where such Policy document is issued in physical form) from Your end. We will reduce the
+amount of the refund by the proportionate risk premium and expenses incurred by Us on medical examination of the Life Insured and stamp
+duty charges in accordance with the IRDAI (Protection of Policyholders Interest) Regulations, 2024.
+
+
+2.Policy Discontinuance, Surrender, Reduced Paid-up and Revival
+
+Policy Discontinuance:
+
+If We do not receive the due Instalment Premium by the end of the Grace Period, the following provisions shall apply:
+
+      a.    Discontinuance during the Lock-in Period:
+ i.      Upon expiry of the Grace Period, in case of Discontinuance of Policy due to non-payment of Instalment Premium anytime during the
+         Lock-in Period, the Fund Value after deducting the applicable Discontinuance/Surrender Charges shall be credited to the Linked
+         Discontinued Policy Fund and the risk cover, if any, shall cease immediately. On such transfer of Fund Value net of discontinuance
+         charge to the Linked Discontinuance Policy Fund, the policy proceeds will be immediately released to the Nominee in case of earlier
+         death of Life Insured.
+ ii.     Such Discontinued Policy can be revived within the Revival Period. On the date of Discontinuance, We shall communicate the status of
+         the Policy within three months of the due date of first unpaid Instalment Premium, to the Policyholder and provide the option to revive
+         the Policy within the Revival Period.
+ iii. If You opt to revive but do not revive the Policy during the Revival Period, the Proceeds of the Linked Discontinued Policy Fund shall be
+         paid at the end of the Revival Period or Lock-in Period, whichever is later. In case of Revival Period ending after Lock-in Period, the
+         Policy Funds will remain in the Linked Discontinued Policy Fund till the end of Revival Period. The Fund Management Charges will be
+         applicable during this period and no other charges will be levied.
+ iv. In the event that the Policyholder does not exercise any option as set out above, the Policy shall continue without any risk cover and
+         rider cover, if any, and the Fund Value shall remain invested in the Linked Discontinued Policy Fund. At the end of the Lock-in Period,
+         the Proceeds of this Fund shall be paid to the Policyholder and the Policy shall automatically terminate.
+ v.      However, the Policyholder has an option to Surrender the Policy at any time and the proceeds of the Linked Discontinued Policy Fund
+         shall be payable at the end of Lock-in Period or date of Surrender, whichever is later.
+ vi. “Proceeds of the Linked Discontinued Policy Fund” means the Fund Value as on the date the policy was discontinued, after addition of
+         interest. The income earned in the Linked Discontinued Policy Fund net of Fund Management Charge of 0.50% per annum will be
+         subject to minimum guaranteed interest rate as prescribed by IRDAI. Currently, such minimum guaranteed interest rate is 4% per
+         annum
+ vii. Where the Policyholder opts to revive the Policy within the Revival Period, the Policy shall be Revived restoring the risk cover, along
+         with the investments made in the Funds as chosen by the Policyholder, out of the Linked Discontinued Policy Fund, less the applicable
+         charges in accordance with Part E of this Policy Contract.
+ viii. At the time of Revival, We shall:
+      i) Collect all due and unpaid Instalment Premiums without charging any interest or fee.
+      ii)Levy Premium Allocation Charges as applicable during the period of Discontinuance. No other Charges shall be levied.
+      iii)Add back to the Fund Value, the Discontinuance/Surrender Charges deducted at the time of Discontinuance of the Policy.
+
+
+      b.   Discontinuance after the Lock-in Period:
+
+      a.   Upon expiry of the Grace Period, in case of Discontinuance of Policy after the Lock-in Period, the Policy shall be converted into a
+           Reduced Paid-up Policy with the Reduced Paid-up Sum Assured. All applicable charges per the terms and conditions of the Policy
+           shall be deducted during the Revival Period. However, the Mortality Charge shall be deducted based on the Reduced Paid-up Sum
+           Assured only.
+
+      b.   On the Date of Discontinuance, We shall communicate the status of the Policy, within three months of the due date of first unpaid
+           Instalment Premium to You and provide the following options:
+            i) To revive the Policy within the Revival Period, or
+            ii) To completely withdraw/Surrender the Policy.
+
+      c.   In the event You opt to revive the Policy but do not do so during the Revival Period, the Fund Value shall be paid at the end of the
+           Revival Period.
+
+
+
+                                                                V05 - Nov/2025
+ Aditya Birla Sun Life Insurance                                                                                                 Part D
+ Wealth Max Plan
+ A unit linked life insurance plan
+
+     d.   In the event You do not exercise any option set out above, the Policy shall continue to be in Reduced Paid-up mode. At the end of
+          the Revival Period, the Fund Value shall be paid, and the Policy shall immediately terminate.
+
+     e.   However, You will have an option to Surrender the Policy anytime and the Fund Value shall be paid upon receipt of such request of
+          Surrender.
+
+     f.   Where You revive the Policy, the Policy shall be revived restoring the original risk cover in accordance with the terms and conditions
+          of the Policy.
+
+     g.   At the time of Revival, We shall:
+               i.   Collect all due and unpaid Instalment Premiums without charging any interest or fee.
+              ii.   Levy Premium Allocation Charge as applicable.
+             iii.   No other Charges shall be levied.
+
+    c. Surrender Benefit:
+The policy can be surrendered anytime during the Policy Term. Any such surrender will be treated according to the complete withdrawal as
+mentioned in Policy Discontinuance provision above.
+
+     d.  Revival
+     a)  The Revival request shall be initiated during the Revival Period. We will consider requests from You to revive a Discontinued Policy,
+         provided that such requests are received in writing and before the Maturity Date.
+     b) The Life Insured is required to furnish, at his / her own expense, satisfactory evidence of health and continuity of insurability. We
+         may call for additional information /documents to process the Revival request.
+     c) All due Installment Premiums till the date of Revival have been paid by You and received by Us.
+     d) We may revive or refuse to revive the Policy, based on the prevailing Board approved underwriting guidelines. The Revival will take
+         effect only on it being specifically communicated by Us to You.
+On Revival, all the benefits under the Policy, which prevailed before the date on which the Policy was converted to a Discontinued Policy, will
+be automatically reinstated.
+
+3.Policy Loans
+No loans are available under the Policy.
+
+4.Termination of Policy
+Your policy will terminate at the earliest of:
+(a) the date when there is complete withdrawal as per Policy Discontinuance Provision; or
+(b) the date the Policy Fund Value becomes zero; or
+(c) the date of settlement of the Death Benefit; or
+(d) the date of payment of the Surrender value, if any; or
+(e) the date when the Maturity Benefit is paid. Or
+(f) the date of payment of freelook cancellation amount.
+
+
+
+POLICY CHARGES
+1. Premium Allocation Charge (as a percentage of the premium paid) is deducted from the basic premium and top-up premium when paid
+   and before it is allocated to the segregated fund/s. This charge is guaranteed to never increase. The premium allocation charge on:
+  Basic Premium paid is 3.00%.
+  Top-Up Premium paid is 2.00%.
+
+2. Fund Management Charge (as a percentage of the net asset value) is deducted by adjusting the daily net asset value of each segregated
+   fund. We reserve the right to change this charge for any segregated fund at any time subject to a maximum of 1.35% per annum and prior
+   IRDAI approval. The current fund management charge on:
+   - Liquid Plus, Protector, Builder, Income Advantage and Assure is 1.00% per annum.
+   - Enhancer, Creator, Capped Nifty Index and Asset Allocation is 1.25% per annum.
+   - Magnifier, Maximiser, Multiplier, Super 20, Pure Equity, Value & Momentum & MNC is 1.35% per annum.
+   - Linked Discontinued Policy Fund is 0.50% per annum.
+
+3. Policy Administration Charge is deducted from your policy fund value on each monthly processing date by redemption of units in the
+   segregated fund/s. This is guaranteed never to increase. The policy administration charge is:
+
+     Rs. 20 per month in policy years 1 through 5.
+     Rs. 25 per month in policy year 6 and inflates by 5% p.a. on each subsequent policy year; subject to a maximum of Rs. 6,000 p.a.
+
+
+
+
+V05 - Noc/2025
+ Aditya Birla Sun Life Insurance                                                                                                 Part E
+ Wealth Max Plan
+4. Mortality Charge is deducted from your policy fund value on each monthly processing date by redemption of units in the segregated
+   fund/s. This charge is guaranteed to never increase. The mortality charge per 1000 of Sum at Risk is given in the Mortality Charge Table
+   below. The charge depends on the gender of the Life Insured and varies by policy year based on the then attained age of the Life Insured.
+
+
+5. Discontinuance Charge is deducted from your Basic Fund Value only in case you opt to completely withdraw from the policy during the
+    first five policy years as per the Policy Discontinuance provision. This charge is as per the IRDAI (Linked Insurance Products) Regulation,
+    2019. The discontinuance charge is as follows:
+Discontinuance Charge for polices having Single Premium up to Rs. 3,00,000
+ -     Policy discontinued in policy year 1 - Lower of 2% of Single Premium, 2% of Basic Fund Value, ₹3,000
+ -     Policy discontinued in policy year 2 – Lower of 1.5% of Single Premium, 1.5% of Basic Fund Value, ₹2,000
+ -     Policy discontinued in policy year 3 – Lower of 1% of Single Premium, 1% of Basic Fund Value, ₹1,500
+ -     Policy discontinued in policy year 4 – Lower of 0.5% of Single Premium, 0.5% of Basic Fund Value, ₹1,000
+ -     Policy discontinued in policy year 5 – Nil
+
+ Discontinuance Charge for polices having Single Premium above Rs. 3,00,000
+ -    Policy discontinued in policy year 1 - Lower of 1% of Single Premium, 1% of Basic Fund Value, ₹6,000
+ -    Policy discontinued in policy year 2 – Lower of 0.7% of Single Premium, 0.7% of Basic Fund Value, ₹5,000
+ -    Policy discontinued in policy year 3 – Lower of 0.5% of Single Premium, 0.5% of Basic Fund Value, ₹4,000
+ -    Policy discontinued in policy year 4 – Lower of 0.35% of Single Premium, 0.35% of Basic Fund Value, ₹2,000
+ -    Policy discontinued in policy year 5 –Nil
+No discontinuance charge shall be levied on top-up premiums.
+
+6. Switching Charge – is deducted from your Basic Fund Value in case you request for a switching between investment options or Segregated
+   Fund Switch. We currently charge Rs. 50 per request and reserve the right to increase this charge at any time in the future, subject to a
+   maximum of Rs. 500 per request and prior IRDAI approval.
+
+7. Partial Withdrawal Charge - is deducted from your Basic Fund Value in case you request for a partial withdrawal. We currently charge Rs.
+   50 per partial withdrawal and reserve the right to increase this charge at any time in the future, subject to a maximum of Rs. 500 per
+   request and prior IRDAI approval.
+
+8. Miscellaneous Charge – is deducted from your Basic Fund Value in case you request for a duplicate of the policy contract/ policy account
+   statement/tax certificate. Currently we charge Rs.50 for each request. We reserve the right to change this charge at any time subject to a
+   maximum of Rs.500 per request and prior IRDAI approval.
+
+
+
+9. Mortality Charge Table
+Mortality charge levied each month is 1/12th of the annual rate given in the table; plus Rs. xx per 1000.
+Sum at Risk is the excess, if any, of Death Benefit over Policy Fund Value.
+A discount of 20% is applicable on the mortality charge for Policy Term 5 and 10 years.
+The mortality charge rates for policy terms 15 and 20 (per 1000 Sum at Risk) are given below:
+
+                               Annual Mortality Rate per 1000 of Sum at Risk
+  Attained                            Attained                             Attained
+    Age          Male      Female       Age         Male        Female       Age         Male       Female
+      0          2.711      2.711        26         0.649        0.629        52         4.126       3.052
+      1          2.220      2.220        27         0.657        0.636        53         4.517       3.389
+      2          1.672      1.672        28         0.666        0.643        54        4.922        3.749
+      3          1.262      1.262        29         0.679        0.649        55        5.340        4.126
+      4          0.954      0.954        30         0.696        0.657        56         5.775       4.517
+      5          0.725      0.725        31         0.716        0.666        57         6.230       4.922
+      6          0.555      0.555        32         0.742        0.679        58        6.712        5.340
+      7          0.434      0.434        33         0.774        0.696        59         7.229       5.775
+      8          0.352      0.352        34         0.813        0.716        60         7.788       6.230
+      9          0.303      0.303        35         0.858        0.742        61         8.399       6.712
+     10          0.282      0.271        36         0.911        0.774        62         9.071       7.229
+     11          0.285      0.265        37         0.974        0.813        63         9.811       7.788
+     12          0.305      0.274        38         1.045        0.858        64        10.628       8.399
+     13          0.338      0.294        39         1.128        0.911        65        11.528       9.071
+     14          0.378      0.317        40         1.223        0.974        66        12.520       9.811
+     15          0.421      0.341        41         1.333        1.045        67        13.611      10.628
+     16          0.463      0.338        42         1.459        1.128        68        14.808      11.528
+     17          0.501      0.378        43         1.606        1.223        69        16.120      12.520
+     18          0.536      0.421        44         1.776        1.333        70        17.555      13.611
+     19          0.564      0.463        45         1.973        1.459        71        19.120      14.808
+
+
+V05 - Nov/2025
+     20            0.587    0.501        46         2.198       1.606         72        20.828      16.120
+     21            0.605    0.536        47         2.454       1.776         73        22.687      17.555
+     22            0.619    0.564        48         2.738       1.973         74        24.710      19.120
+     23            0.629    0.587        49         3.052       2.198         75        26.909      20.828
+     24            0.636    0.605        50         3.389       2.454
+     25            0.643    0.619        51         3.749       2.738
+
+
+
+
+SEGREGATED FUND PROVISIONS
+1. Investment Option
+You have two investment options to choose from – Systematic Transfer Option or Self-Managed Option.
+
+For the Systematic Transfer Option, we will initially allocate your basic premium in Liquid Plus segregated fund. Policy Schedule shows the
+Transfer Date and the Transfer Fund. On every Transfer Date we shall transfer 1/12th of the allocated amount from Liquid Plus segregated fund
+to your chosen Transfer Fund. Transfer Date & Transfer Fund once chosen at inception cannot be changed. Top-up premiums paid shall be
+directly allocated into the chosen Transfer Fund.
+
+For the Self-Managed Option, you may allocate a minimum of 5% and maximum of 100% to each segregated fund available under this option.
+The premium allocation percentage to each segregated fund must be in increments of 5% and the total percentage across all segregated funds
+must be 100%.
+
+
+The facility of switching between investment options can be availed of anytime after the first policy year, though only one investment option
+can be selected at a time. You can switch to Self-Managed Option, however, switching to Systematic Transfer Option can be done only on
+policy anniversary.
+All top-up premiums will be allocated to the new investment option selected from the date of change.
+
+2. Segregated Fund
+A segregated fund is a specific and separate fund managed for the exclusive interest of all policyholders sharing the same segregated fund.
+The company has sole discretion on the investment and management of each segregated fund within the limits defined in Schedule A given
+below. The allocation of units in the segregated fund under this policy is notional and is solely for the purpose of determining the Policy Fund
+Value.
+
+3. Investment Risk
+An investment by you in any segregated fund is subject to market and other risks. Other than the explicit guarantees provided by us, there is
+no assurance that the objectives of any segregated fund will be achieved.
+The unit price of any segregated fund may increase or decrease as per the performance of the financial markets. The past performance of any
+segregated fund offered by us in this policy or otherwise does not indicate the future performance of any segregated funds. The name/s of
+the segregated fund/s and that of the policy do not in any way indicate the quality of the returns that can be expected from the segregated
+fund/s.
+The company will manage the investment mix of each segregated Fund according to Schedule A given below.
+
+4. Segregated Fund Valuation
+We usually determine the value of each segregated fund at the end of every business day. The net asset value (NAV) is determined based on
+(the market value of investments held by the fund plus the value of any current assets less the value of any current liabilities & provisions)
+divided by the number of units existing at valuation date (before creation or redemption of any units)
+This unit price will be published on our company’s website.
+
+5. Segregated Fund Unit Allocation and Unit Redemption
+On each business day, the cut-off time is 3 p.m. by which time we must have received and accepted your instructions to invest in, or encash
+units from a segregated fund. Instructions accepted by us up to the cut-off time are executed using the unit price we determine at the end of
+that business day. Instructions accepted by us after the cut-off time will be executed using the unit price determined by us at the end of the
+next business day.
+Instruction to invest is deemed accepted by us when we receive cash, demand draft or local cheque at any of our offices by duly authorized
+officials. For outstation cheque, instruction to invest is deemed accepted by us only on the day we receive credit in any of our bank accounts.
+The number of units allocated equals the monetary amount invested in a segregated fund divided by its unit price at that time. Units are
+allocated when we receive a Basic and Top-up Premium or when we execute your request to switch units from another segregated fund (as
+applicable to your policy).
+The number of units redeemed equals the monetary amount encashed from a segregated fund divided by its unit price at that time. Units are
+redeemed when we execute your request for a partial withdrawal or when we execute your request to switch units to another segregated
+
+
+
+V05 - 19/02/2020
+fund (as applicable to your policy). In case of partial withdrawals, units will be redeemed from all segregated funds under your policy in
+proportion to their value at that time.
+On each monthly processing date, policy charges will be covered by redeeming units from all segregated funds under your policy in proportion
+to their value at that time. In case a Guaranteed Addition is added to your policy, units will be allocated to all segregated funds under your
+policy in proportion to their value at that time. For the purpose of this paragraph, we will use the latest unit prices available.
+Termination of your policy, for any reason, will result in the redemption of all units in all segregated funds under your policy at the time.
+
+6. Segregated Funds
+Current segregated fund/s under this policy:
+(a) Liquid Plus
+    Objective: To provide superior risk-adjusted returns with low volatility at a high level of safety and liquidity through investments in high
+    quality short term fixed income instruments – up to one year maturity.
+    Strategy: Fund will invest in high quality short-term fixed income instruments – up to one year maturity. The endeavour will be to optimize
+    returns while providing liquidity and safety with very low risk profile.
+(b) Income Advantage
+    Objective: To provide capital preservation and regular income, at a high level of safety over a medium term horizon by investing in high
+    quality debt instruments.
+    Strategy: To actively manage the fund by building a portfolio of fixed income instruments with medium term duration. The fund will invest
+    in government securities, high rated corporate bonds, high quality money market instruments and other fixed income securities. The
+    quality of the assets purchased would aim to minimize the credit risk and liquidity risk of the portfolio. The fund will maintain reasonable
+    level of liquidity.
+
+(c) Assure
+    Objective: To provide capital conservation, at a high level of safety and liquidity through judicious investments in high quality short-term
+    debt.
+    Strategy: To generate better return with low level of risk through investment into fixed interest securities having short-term maturity
+    profile up to 5 years.
+(d) Enhancer
+    Objective: To grow capital through enhanced returns over a medium to long-term period through investments in equity and debt
+    instruments, thereby providing a good balance between risk and return. This segregated fund is suitable for those who want to earn higher
+    return on investment through balanced exposure to equity and debt securities.
+    Strategy: To earn capital appreciation by maintaining a diversified equity portfolio and seek to earn regular returns on the fixed income
+    portfolio by active management resulting in wealth creation for policyholders.
+(e) Creator
+    Objective: To achieve optimum balance between growth and stability to provide long-term capital appreciation with balanced level of risk
+    by investing in fixed income securities and high quality equity security. This fund option is for those who are willing to take average to high
+    level of risk to earn attractive returns over a long period of time.
+    Strategy: To invest into fixed income securities and maintaining diversified equity portfolio along with active fund management
+    policyholder’s wealth in long run.
+(f) Magnifier
+    Objective: To maximize wealth by managing diversified portfolio.
+    Strategy: To invest in high quality equity security to provide long-term capital appreciation with high level of risk. This fund option is
+    suitable for those who want to have wealth maximization over long-term period with equity market dynamics.
+(g) Maximiser
+    Objective: To provide long-term capital appreciation by actively managing a well-diversified equity portfolio of fundamentally strong blue
+    chip companies. Further, the fund seeks to provide a cushion against the sudden volatility in the equities through some investments in
+    short-term money market instruments.
+    Strategy: To build and actively manage a well-diversified equity portfolio of value and growth driven stocks by following a research focused
+    investment approach. While appreciating the high risk associated with equities, the fund would attempt to maximize the risk-return pay
+    off for the long-term advantage of the policyholders. The fund will also explore the option of having exposure to quality mid cap stocks.
+    The non-equity portion of the fund will be invested in good rated (P1/A1 & above) money market instruments and fixed deposits. The fund
+    will also maintain reasonable level of liquidity.
+(h) Multiplier
+    Objective: To provide long-term wealth maximization by actively managing a well-diversified equity portfolio, predominantly comprising
+    of companies whose market capitalization is close to Rs. 1000 crores and above.
+    Strategy: To build and actively manage a well-diversified equity portfolio of value & growth driven stocks by following a research driven
+    investment approach. The investments would be predominantly made in mid cap stocks, with an option to invest 30% in large cap stocks
+    as well. While appreciating the high risk associated with equities, the fund would attempt to maximize the risk-return pay-off for the long-
+    term advantage of the policyholders. The fund will also maintain reasonable level of liquidity.
+(i) Super 20
+
+
+
+
+V05 - Nov/2025
+   Objective: To generate long-term capital appreciation for policyholders by making investments in fundamentally strong and liquid large
+   cap companies.
+   Strategy: To build and actively manage an equity portfolio of 20 fundamentally strong large cap stocks in terms of market capitalization by
+   following an in-depth research-focused investment approach. The fund will attempt to adequately diversify across sectors. The fund will
+   invest in companies having financial strength, robust, efficient & visionary management, enjoying competitive advantage along with good
+   growth prospects & adequate market liquidity. The fund will adopt a disciplined yet flexible long-term approach towards investing with a
+   focus on generating long-term capital appreciation. The non-equity portion of the fund will be invested in high rated money market
+   instruments and fixed deposits. The fund will also maintain reasonable level of liquidity.
+(j) Pure Equity
+    Objective: To provide long-term wealth creation by actively managing portfolio through investment in selective businesses. Fund will not
+    invest in businesses that provide goods or services in gambling, lottery /contests, animal produce, liquor, tobacco, entertainment like films
+    or hotels, banks and financial institutions.
+    Strategy: To build and actively manage a well-diversified equity portfolio of value & growth driven fundamentally strong companies by
+    following a research-focused investment approach. Equity investments in companies will be made in strict compliance with the objective
+    of the fund. The fund will not invest in banks and financial institutions and companies whose interest income exceeds 3% of total revenues.
+    Investment in leveraged-firms is restrained on the provision that heavily indebted companies ought to serve a considerable amount of
+    their revenue in interest payments.
+(k) Value & Momentum
+    Objective: To provide long-term wealth maximization by managing a well-diversified equity portfolio predominantly comprising of deep
+    value stocks with strong price and earnings momentum.
+   Strategy: To build & manage a well diversified equity portfolio of value and momentum driven stocks by following a prudent mix of
+   qualitative & quantitative investment factors. This strategy has outperformed the broader market indices over long-term. The fund would
+   seek to identify companies, which have attractive business fundamentals, competent management and prospects of robust future growth
+   and are yet available at a discount to their intrinsic value and display good momentum. The fund will also maintain reasonable level of
+   liquidity.
+
+(l) Capped Nifty Index
+    Objective: To provide capital appreciation by investing in a portfolio of equity shares that form part of a Capped NIFTY Index.
+    Strategy: To invest in all the equity shares that form part of the Capped Nifty in the same proportion as the Capped Nifty. The Capped Nifty
+    Index will have all 50 companies that form part of
+
+
+
+
+V05 - Nov/2025
+Nifty index and will be rebalanced on a quarterly basis. The index composition will change with every change in the price of Nifty constituents.
+Rebalancing to meet the capping requirements will be done on a quarterly basis.
+(m) Asset Allocation
+    Objective: To provide capital appreciation by investing in a suitable mix of cash, debt and equities. The investment strategy will involve a
+    flexible policy for allocating assets among equities, bonds and cash.
+    Strategy: To appropriately allocate money between equity, debt and money market instruments, to take advantage of the movement of
+    asset prices resulting from changing financial and economic conditions.
+
+(n) Protector
+   Objective: To generate consistent returns through active management of a fixed income portfolio and focus on creating a long-term equity
+   portfolio, which will enhance the yield of the composite portfolio with minimum risk appetite.
+   Strategy: To invest in fixed income securities with marginal exposure to equity up to 10% at low level of risk. This segregated fund is
+   suitable for those who want to preserve their capital and earn a steady return on investment through higher exposure to debt securities.
+
+(o) Builder
+    Objective: To build capital and generate better returns at moderate level of risk, over a medium or long-term period through a balance
+    of investment in equity and debt.
+    Strategy: To generate better returns with moderate level of risk through active management of a fixed income portfolio and focus on
+    creating a long-term equity portfolio, which will enhance the yield of the composite portfolio with low level of risk appetite.
+
+(p) MNC
+    Objective: To provide capital appreciation by investing in equity and equity related instruments of multi-national companies.
+    Strategy: The fund will predominantly invest in companies where FII / FDI and MNC parent combined holding is more than 50%. This
+    theme has outperformed the broader market indices over long-term. The companies chosen are likely to have above average growth,
+    enjoy distinct competitive advantages, and have superior financial strengths. The fund will also invest in high quality money market
+    instruments and maintain adequate liquidity.
+
+
+The company will manage the investment mix of each segregated fund according to Schedule A given below.
+
+
+7. Segregated Fund Switch
+You may switch part or all of your allocated units in one segregated fund to another segregated fund at any time under the Self-Managed
+Option.
+Your switch request must be sent and received by us in our prescribed format before a switch is performed. The minimum switch amount
+must be Rs. 5,000.
+
+
+8. Segregated Fund Additions and Closures
+With the approval from the IRDAI we may from time to time add new segregated funds under your policy. All provisions in this policy will
+continue to apply unless specifically stated otherwise. We will inform you of such addition no later than 60 days after it is made available under
+your policy.
+With the approval from the IRDAI we may at any time close a segregated fund available in your policy. We will inform you in writing of such
+closure no later than 60 days before we actually close the segregated fund.
+Unless we receive specific instructions from you by the time we close the segregated fund, all units in the segregated fund will be switched to
+the most conservative segregated fund then available in your policy. Similarly, reference to the segregated fund being closed in your premium
+allocation percentage will be changed to refer to the most conservative segregated fund then available in your policy. Income Advantage is
+currently the most conservative segregated fund. However, we can declare from time to time another segregated fund as the most
+conservative in your policy.
+
+
+Schedule A
+List of Segregated Fund/s available under this policy
+ Segregated                                                 Risk
+                  Segregated Fund Identification No.                     Asset Allocation *                           Min.     Max.
+ Fund                                                       Profile
+                                                                         Debt Instruments                             20%      100%
+ Liquid Plus      ULIF02807/10/11BSLLIQPLUS109              Very Low     Money Market & Cash                           0%       80%
+                                                                         Equities & Equity Related Securities          0%       0%
+                                                                         Debt Instruments,                            60%      100%
+ Income
+                  ULIF01507/08/08BSLIINCADV109              Very Low     Money Market & Cash                           0%       40%
+ Advantage
+                                                                         Equities & Equity Related Securities          0%       0%
+                                                                         Debt Instruments                             20%      100%
+ Assure           ULIF01008/07/05BSLIASSURE109              Very Low     Money Market & Cash                           0%       80%
+                                                                         Equities & Equity Related Securities          0%       0%
+
+
+
+V05 - Nov/2025
+                                                                                Debt Instrument,                                  25%        80%
+ Enhancer           ULIF00213/03/01BSLENHANCE109                  Medium        Money Market & Cash                                0%        40%
+                                                                                Equities & Equity Related Securities              20%        35%
+                                                                                Debt Instruments                                  50%        70%
+ Creator            ULIF00704/02/04BSLCREATOR109                  Medium        Money Market & Cash                                0%        40%
+                                                                                Equities & Equity Related Securities              30%        50%
+                                                                                Debt Instruments                                  10%        50%
+ Magnifier          ULIF00826/06/04BSLIIMAGNI109                  High          Money Market & Cash                                0%        40%
+                                                                                Equities & Equity Related Securities              50%        90%
+                                                                                Debt Instruments                                   0%        20%
+ Maximiser          ULIF01101/06/07BSLIINMAXI109                  High          Money Market & Cash                                0%        20%
+                                                                                Equities & Equity Related Securities              80%       100%
+                                                                                Debt Instruments                                   0%        20%
+ Multiplier         ULIF01217/10/07BSLIINMULTI109                 High          Money Market & Cash                                0%        20%
+                                                                                Equities & Equity Related Securities              80%       100%
+                                                                                Debt Instruments                                   0%        20%
+ Super 20           ULIF01723/06/09BSLSUPER20109                  High          Money Market & Cash                                0%        20%
+                                                                                Equities & Equity Related Securities              80%       100%
+                                                                                Debt Instruments                                   0%        20%
+ Pure Equity          ULIF02707/10/11BSLIPUREEQ109                High          Money Market & Cash                                0%        20%
+                                                                                Equities & Equity Related Securities              80%       100%
+                                                                                Debt Instruments                                   0%        20%
+ Value  &
+                    ULIF02907/10/11BSLIVALUEM109                  High          Money Market & Cash                                0%        20%
+ Momentum
+                                                                                Equities & Equity Related Securities              80%       100%
+                                                                                Debt Instruments                                   0%        10%
+ Capped
+                    ULIF03530/10/14BSLICNFIDX109                  High          Money Market & Cash                                0%        10%
+ Nifty Index
+                                                                                Equities                                          90%       100%
+                                                                                Debt Instruments                                  10%        80%
+ Asset
+                    ULIF03430/10/14BSLIASTALC109                  High          Money Market & Cash                                0%        40%
+ Allocation
+                                                                                Equities                                          10%        80%
+ Protector          ULIF00313/03/01BSLPROTECT109                  Low           Debt Instruments                                  90%       100%
+                                                                                Money Market & Cash                                0%        40%
+                                                                                Equities & Equity Related Securities               0%        10%
+ Builder            ULIF00113/03/01BSLBUILDER109                  Low           Debt Instruments                                  80%        90%
+                                                                                Money Market & Cash                                0%        40%
+                                                                                Equities & Equity Related Securities              10%        20%
+ MNC                ULIF03722/06/18ABSLIMUMNC109                  High          Debt Instruments                                   0%        20%
+                                                                                Money Market & Cash                                0%        20%
+                                                                                Equities                                          80%       100%
+ Linked                                                                         Government Securities                             60%      100%
+ Discontinued       ULIF03205/07/13BSLILDIS109                    Very Low      Money Market & Cash                               0%       40%
+ Policy Fund                                                                    Equities & Equity Related Securities               0%        0%
+
+* In each Segregated Fund except Liquid Plus, the Short Term Debt Instruments (Money Market, Mutual Fund & Cash) asset allocation will not exceed 40%.
+Money Market Instruments are debt instruments of less than one year maturity. It includes collateralised borrowing & lending obligation, certificate of deposits,
+commercial papers etc. Investment in Money Market Instrument supports for better liquidity management.
+
+
+
+
+V05 - Nov/2025
+ Aditya Birla Sun Life Insurance                                                                                                    Part F
+ Wealth Max Plan
+
+GENERAL PROVISIONS
+1.Contract
+Your contract includes this policy document, the proposal for the policy and any amendments, endorsements agreed upon in writing after the
+policy is issued. The contract also includes declarations given by the policy holder, any medical report form and written statements and answers
+furnished as evidence of insurability. We are bound only by statements that are part of the contract. Only Our authorized officers can agree
+to any change in the contract and the same shall become enforceable only when they are given in writing by the authorized officers.
+This contract does not provide for participation in the distribution of profits or surplus declared by us.All the communication/ documents
+including the Policy document will be sent and issued in electronic form unless a specific request is received from You to issue the Policy
+Document in physical form. It shall be Your responsibility to confirm Your address, email ID, mobile no, bank account details (contact
+information) or update any change in such contact information. In the event of non- receipt of the Contract You should contact Our Customer
+Care Unit before expiry of the Free-Look Period.
+For more details on E-Insurance Policy, please visit Our website or contact Our Relationship Manager.
+As the purchase of policy shall be in electronic mode through online or electronic application , the Application form and Sales Illustration shall
+be validated through One-time password (OTP) sent on Your mobile number/e-mail ID and undertaking obtained in the Client Declaration form
+if any or through any other means as may be notified by the Company from time to time.
+
+
+2.Currency and Place of Payment
+All payments to or by us will be in accordance with the prevailing Exchange Control regulations and other relevant laws and regulations of
+India.
+Indian Rupee (Rs.) is the currency of this policy. We will make or accept payments relating to this policy at any of our offices in India or such
+other locations as determined by us from time to time.
+
+3.Assignment
+Allowed as per the provisions of Section 38 of the Insurance Act, 1938 as amended from time to time.
+For more details on the assignment, please refer to Annexure A.
+
+4.Nomination
+Allowed as per the provisions of Section 39 of the Insurance Act, 1938 as amended from time to time.
+For more details on the nomination, please refer to Annexure B.
+
+5.Claim Procedures
+The Policyholder/Nominee should notify the claim with proof of claim at the nearest Aditya Birla Sun Life Insurance Co. Ltd. Branch office or
+through our Customer Portal https://lifeinsurance.adityabirlacapital.com/customer-service/claim-procedure/online-claim or to the ‘Claims
+Department’ at claimsnotification.lifeinsurance@adityabirlacapital.com and the claim documents to be simultaneously sent at Aditya Birla Sun
+Life Insurance Company Limited, G- Corp Tech Park, 5th & 6th Floor, Kasar Vadavali, Near Hypercity Mall, Ghodbunder Road, Thane (West) –
+400601.
+
+The claim is required to be intimated to us within a period of 90 days from the date of death. However, we may condone the delay in claim
+intimation, if any, and the delay is proved to be for reasons beyond the control of the claimant.
+
+For processing a claim (be it on maturity or death) under this policy the following documents are required as may be relevant:
+For Maturity Benefit:
+
+          Original policy document
+          Policy Payout Form
+
+
+
+For Death Benefit:
+Mandatory Claim Requirements:
+ Original policy document
+ Claimant’s statement
+ Death Certificate issued by Municipal Corporation/Gram Panchayat (Self attested copy)
+ KYC Document of beneficiary ( Self attested copy)
+ Relationship of beneficiary with Life Insured
+ Bank details of the beneficiary
+
+Additional Requirements: (Claims within 3 years from date of issue/Revival)
+ Medical Attendant’s Certificate, if Any
+ Employer’s Certificate, if applicable
+
+
+
+
+V05 - Nov/2025
+    Aditya Birla Sun Life Insurance                                                                                                             Part F
+    Wealth Max Plan
+    Hospital or treatment records, if any (Self attested copy)
+
+Additional Requirements for Accidental/Unnatural Death:
+1) FIR & Final Police Closure Report
+2) Post Mortem Report
+3) Policy Inquest Report/Inquest Panchnama
+4) News Paper Cutting (if any)
+
+For processing Maturity claim under this Policy, Maturity proceeds shall be credited in Policyholder’s bank account as per the bank details available in our
+records. In case of any change in the bank details You are requested to update the bank details by submitting a request at the nearest Aditya Birla Sun Life
+Insurance Co. Ltd. branch office or through our website https://lifeinsurance.adityabirlacapital.com/ or Customer Portal or any other mode as allowed by the
+company.
+Any other relevant information/ document as may be required by ABSLI depending on the circumstances of the death or illness needs to be provided.
+
+Beneficiary can download the claim documents from our website https://lifeinsurance.adityabirlacapital.com or can obtain the same from any of ABSLI
+branches. In case You are unable to provide any or all the above documents, in exceptional circumstances such as a natural calamity, we may at our own
+discretion conduct an investigation/ verification and accord a claim decision. More details on the Turn Around Time (TAT) for claims settlement and brief
+procedure can be found on https://lifeinsurance.adityabirlacapital.com/customer-service/service-tats. For any further queries, You can call us at our toll free
+no. 1800 270 7000 or email us at Aditya Birla Capital - Life Insurance claims.lifeinsurance@adityabirlacapital.com. The link for downloading claim form and list
+of documents required is https://lifeinsurance.adityabirlacapital.com/customer-service/claim-procedure/online-claim/claim-forms-and-downloads.
+
+Claimant/Beneficiary may intimate Us about Death claim via the following ways:
+
+• Online intimation through ABSLI Website (https://lifeinsurance.adityabirlacapital.com/ )
+• Through e-mail on claims.lifeinsurance@adityabirlacapital.com
+• Visit nearest ABSLI Branch Offices
+
+6. Policy Servicing
+All servicing related requests should be in writing and delivered to Us through any of the following modes:
+
+•You can email us at care.lifeinsurance@adityabirlacapital.com, or
+•For NRI Customer, you can email us at absli.nrihelpdesk@adityabirlacapital.com or
+•Visit Our nearest Branch Office
+
+More details on the Turn Around Time (TAT) for processing any servicing related request can be found on https://lifeinsurance.adityabirlacapital.com/customer-
+service/service-tats . The link for downloading applicable forms and list of documents for servicing related request is
+https://lifeinsurance.adityabirlacapital.com/forms-and-downloads/policy-servicing-forms . For any further assistance that You may require, You can call us at
+our toll free no. 1800 270 7000 or get in touch with Our relationship manager.
+
+7.Loss of Policy Document
+The Policyholder can make an application for duplicate Policy on payment of ₹ 250/- upon loss of Policy document along with other
+requirements as may be prescribed by the Company.
+
+8.Taxation
+The income tax benefits on your policy will be as per prevailing Income Tax laws in India and any amendment(s) made thereto from time to
+time. As per the applicable laws and any amendments made thereto from time to time, we reserve the right to:
+ deduct or withhold tax as the case may be; and
+ recover levies, taxes, cesses and duties including but not limited to GST from you or adjust the same from the amounts paid by you or accrued
+  or payable to you under the policy.
+
+9.Misstatement of Age
+If the date of birth of the life insured has been misstated, any amount payable shall be increased or decreased to the amount that would have
+been provided, as determined by us, given the correct age.
+If at the correct age, the life insured was not insurable under this policy according to our requirements, we reserve the right to pay the
+premiums paid till date and terminate the policy in accordance with Section 45 of the Insurance Act, 1938.
+
+10.Suicide
+In case of death due to suicide within 12 months from the date of commencement of the policy the nominee or the beneficiary of the
+policyholder shall be entitled to the Policy fund value, as available on the date of intimation of death.
+Further any charges other than Fund Management Charges (FMC) recovered subsequent to the date of death shall be added back to the Policy
+fund value as available on the date of intimation of death.
+
+11.Fraud and Misrepresentation
+As per the provisions of Section 45 of the Insurance Act, 1938 as amended from time to time. For more details on Section 45 of the Insurance
+Act, 1938 please refer to Annexure C.
+
+
+
+
+V05 - Nov/2025
+ Aditya Birla Sun Life Insurance                                                                                                 Part F
+ Wealth Max Plan
+12.Electronic Transactions
+You will comply with all the terms and conditions with respect to all transactions effected by or through facilities for conducting remote
+transactions including the internet, world wide web, electronic data interchange, call centre, tele-service operations or by other means of
+telecommunication established by Us or on Our behalf, for and in respect of the Policy or services, which will constitute legally binding and
+valid transactions when executed in adherence to and in compliance with the terms and conditions for such facilities.
+
+
+13.Communication and Notices
+All notices meant for Us should be in writing and delivered to Our address as mentioned in Part G or such other address as We may notify from
+time to time.
+
+
+14.Governing Law and Jurisdiction
+The Policy shall be interpreted in accordance with and governed by the laws of India and only competent courts at the place of issue of this
+Policy shall have jurisdiction to entertain legal action
+
+
+15.Force Majeure
+We shall derive the NAV on each Business Day. However, We may do so less frequently in case of a Force Majeure Event, where the value of
+the assets is too uncertain. In such circumstances, We may defer the valuation of assets for up to 30 days until we are certain that the
+valuation of Funds can be resumed. In which case, We shall inform IRDAI of such deferment in the valuation.
+
+During the continuance of the Force Majeure events, all requests for servicing the Policy including Policy related payment shall be kept in
+abeyance. We shall continue to invest as per the Fund mandates submitted with IRDAI. However, We reserve Our right to change the
+exposure of all or any part of the Funds to Money Market Instruments [as defined under applicable IRDAI law/regulation as amended from
+time to time] in circumstances mentioned under above. The exposure of the Fund as per the Fund mandates submitted with IRDAI, shall be
+reinstated within reasonable timelines once the Force Majeure Event ends.
+Some of the examples of the Force Majeure Event circumstances as mentioned are:
+•when one or more stock exchanges which provide a basis for valuation of the assets of the fund are closed otherwise than for ordinary
+holidays.
+•when, as a result of political, economic, monetary or any circumstances which are not in Our control, the disposal of the assets of the fund
+would be detrimental to the interests of the continuing policyholders.
+•in the event of natural calamities, strikes, war, civil unrest, riots and bandhs.
+•in the event of any force majeure or disaster that affects Our normal functioning.
+In such an event, an intimation of Force Majeure Event shall be uploaded on Our website for information
+
+Grievance or Complaint
+You may register Your grievance or complaint with any of Our nearest branches or with Our Grievance Officer at Customer Care Unit, Aditya
+Birla Sun Life Insurance Company Ltd., at G- Corp Tech Park, 5th & 6th Floor, Kasar Vadavali, Near Hypercity Mall, Ghodbunder Road, Thane
+(West) – 400601 or at Company’s registered address at One World Centre, Tower 1, 16th Floor, Jupiter Mill Compound, 841, Senapati Bapat
+Marg, Elphinstone Road, Mumbai – 400013. You may also lodge your grievance or compliant complaint with any of Our nearest branches or
+also call Our toll free no. 1-800-270-7000 or on Whatsapp no. 8828800040 or email: care.lifeinsurance@adityabirlacapital.com and for NRI
+Customers         - absli.nrihelpdesk@adityabirlacapital.com or You may also register your grievance on our web portal
+https://lifeinsurance.adityabirlacapital.com/grievance-redressal.
+In case you are dissatisfied with the decision of the above office or have not received any response with 7 days, you may contact Head
+Service Assurance at Customer Care Unit / Aditya Birla Sun Life Insurance Company Ltd. / at G- Corp Tech Park, 5th & 6th Floor, Kasar
+Vadavali, Near Hypercity Mall, Ghodbunder Road, Thane (West) – 400601 or at Company’s registered address at One World Centre, Tower
+1, 16th Floor, Jupiter Mill Compound, 841, Senapati Bapat Marg, Elphinstone Road, Mumbai – 400013. You may also call Our toll free no. 1-
+800-270-7000 on (Timings: Daily 10 a.m. to 7 p.m.) Whatsapp no. 8828800040 or email: Grievance.lifeinsurance@adityabirlacapital.com
+The complaint should be made in writing duly signed or through email by the complainant or by his/her legal heirs with full details of the
+complaint and the contact information of complainant.
+
+
+For senior citizens,         We provide priority redressal             of    grievances    and     complaints.    Please    email    Us     at:
+ABSLI.SeniorcitizenLifeinsurance@adityabirlacapital.com
+If you are not satisfied with the response or do not receive a response from us within 15 days, you may approach the Grievance Cell of the
+Insurance Regulatory and Development Authority of India (IRDAI) on the following contact details:
+IRDAI Grievance Call Centre (IGCC) TOLL FREE NO: 155255 or 1800 4254 732
+Email ID: complaints@irda.gov.in
+You can also register your complaint online at
+
+
+
+
+V05 - Nov/2025
+ Aditya Birla Sun Life Insurance                                                                                                     Part G
+ Wealth Max Plan
+https://bimabharosa.irdai.gov.in
+Address for communication for complaints by fax/paper:
+Policyholder's protection & Grievance Redressal Department – Grievance Redressal Cell Insurance Regulatory and Development Authority of
+India,
+4th Floor, Sy No. 115/1, Financial District,
+Nanakramguda,Gachibowli, Hyderabad – 500032
+Ph: (040) 20204000
+
+
+Insurance Ombudsman
+In case You are dissatisfied with the decision/resolution by Insurer or For redressal of Claims related grievances, claimants can also approach
+Insurance Ombudsman located nearest to You. The details of the existing offices of the Insurance Ombudsman are provided in Appendix-I
+below. You are requested to visit http://www.cioins.co.in/Ombudsman for updated details.
+
+The Ombudsman, as per Insurance Ombudsman Rules, 2017, can receive and consider complaints or disputes relating to the matters such as:
+
+a)Delay in settlement of claims, beyond the time specified in the regulations, framed under the Insurance Regulatory and Development
+Authority of India Act,1999
+b)Any partial or total repudiation of claims by the life insurer, General insurer or the health insurer;
+c)Disputes over premium paid or payable in terms of insurance policy;
+d)Misrepresentation of policy terms and conditions at any time in the policy document or policy contract;
+e)Legal construction of insurance policies insofar as the dispute relates to claim;
+f)Policy servicing related grievances against insurers and their agents and intermediaries;
+g)Issuance of life insurance policy, general insurance policy including health insurance policy which is not in conformity with the proposal form
+submitted by the proposer;
+h)Non-issuance of insurance policy after receipt of premium in life insurance and general insurance including health insurance; and
+i)Any other matter resulting from the violation of provisions of the Insurance Act, 1938, as amended from time to time, or the regulations,
+circulars , guidelines or instructions issued by IRDAI from time to time or the terms and conditions of the policy contract, in so far as they relate
+to issues mentioned at clauses (a) to (f).
+
+As per provision 14(3) of the Insurance Ombudsman Rules 2017, the complaint to the Ombudsman can be made only if:
+the complainant has made a representation in writing or through electronic mail or online through website of the insurer named in the
+complaint and
+(i) either the insurer had rejected the complaint; or
+(ii) the complainant had not received any reply within a period of one month after the insurer received his representation; or
+(iii) the complainant is not satisfied with the reply given to him by the insurer;
+The complaint is made within one year
+(i) after the order of the insurer rejecting the representation is received; or
+(ii) after receipt of decision of the insurer which is not to the satisfaction of the complainant;
+(iii) after expiry of a period of one month from the date of sending the written representation to the insurer if the insurer named fails to furnish
+reply to the complainant.
+Risk Factors / Disclaimers
+This policy is underwritten by Aditya Birla Sun Life Insurance Company Limited (ABSLI) and is a non-participating unit linked life insurance
+plan. Aditya Birla Sun Life Insurance and Wealth Max Plan are only the names of the Company and Policy respectively and do not in any way
+indicate their quality, future prospects or returns. The names of the funds offered in this plan do not in any way indicate their quality, future
+prospects or returns. Unless specifically stated as guaranteed, policy Charges can be modified by the company subject to the specified limits
+and prior IRDAI approval. The value of the segregated fund reflects the value of the underlying investments. These investments are subject
+to market
+
+risks and change in fundamentals such as tax rates etc affecting the investment portfolio. The premium paid in unit linked life insurance
+policies are subject to investment risk associated with capital markets and the Unit Price of the Units may go up or down based on the
+performance of segregated fund and factors influencing the capital market and the policyholder is responsible for his/her decisions. There is
+no guarantee or assurance of returns from the segregated fund/s. ABSLI reserves the right to recover levies such as GST levied by the
+authorities on insurance transactions. If there be any additional levies, they too will be recovered from you. Tax benefit is subject to changes
+in tax laws.
+
+
+NOTWITHSTANDING ANYTHING CONTAINED IN THIS POLICY DOCUMENT, THE PROVISIONS HEREIN SHALL
+STAND ALTERED, AMENDED, MODIFIED OR SUPERCEDED TO SUCH EXTENT AND IN SUCH MANNER AS MAY BE
+REQUIRED BY ANY CHANGE IN THE APPLICABLE LAW (INCLUDING BUT NOT LIMITED TO ANY REGULATIONS
+MADE OR DIRECTIONS / INSTRUCTIONS OR GUIDELINES ISSUED BY THE IRDAI) OR ANY OTHER COMPETENT
+AUTHORITY OR AS MAY BE NECESSARY UNDER A JUDGEMENT OR ORDER /DIRECTION/ INSTRUCTION OF A
+COURT OF LAW.
+
+
+
+
+V05 - Nov/2025
+                                                     Appendix – I
+                                                  *List of Ombudsman
+
+Office Details                                                 Jurisdiction of Office (Union Territory, District)
+AHMEDABAD - Shri Collu Vikas Rao                               Gujarat,
+Office of the Insurance Ombudsman,                             Dadra & Nagar Haveli,
+Jeevan Prakash Building, 6th floor,                            Daman and Diu.
+Tilak Marg, Relief Road,
+Ahmedabad – 380 001.
+Tel.: 079 - 25501201/02/05/06
+Email: bimalokpal.ahmedabad@cioins.co.in
+
+BENGALURU – Shri Vipin Anand                                   Karnataka.
+Office of the Insurance Ombudsman,
+Jeevan Soudha Building,PID No. 57-27-N-19
+Ground Floor, 19/19, 24th Main Road,
+JP Nagar, Ist Phase,
+Bengaluru – 560 078.
+Tel.: 080 - 26652048 / 26652049
+Email: bimalokpal.bengaluru@cioins.co.in
+BHOPAL – Shri R M Singh                                        Madhya Pradesh
+Office of the Insurance Ombudsman,                             Chattisgarh.
+Janak Vihar Complex, 2nd Floor,
+6, Malviya Nagar, Opp. Airtel Office,
+Near New Market,
+Bhopal – 462 003.
+Tel.: 0755 - 2769201 / 2769202
+Fax: 0755 - 2769203
+Email: bimalokpal.bhopal@cioins.co.in
+BHUBANESHWAR - Shri Manoj Kumar Parida                         Orissa.
+Office of the Insurance Ombudsman,
+62, Forest park,
+Bhubneshwar – 751 009.
+Tel.: 0674 - 2596461 /2596455
+Fax: 0674 - 2596429
+Email: bimalokpal.bhubaneswar@cioins.co.in
+CHANDIGARH - Shri Atul Jerath                                  Punjab,
+Office of the Insurance Ombudsman,                             Haryana(excluding Gurugram, Faridabad, Sonepat and Bahadurgarh)
+S.C.O. No. 101, 102 & 103, 2nd Floor,                          Himachal Pradesh, Union Territories of Jammu & Kashmir,
+Batra Building, Sector 17 – D,                                 Ladakh & Chandigarh.
+Chandigarh – 160 017.
+Tel.: 0172 - 2706196 / 2706468
+Fax: 0172 - 2708274
+Email: bimalokpal.chandigarh@cioins.co.in
+CHENNAI - Shri N Sankaran Office of the Insurance Ombudsman,   Tamil Nadu,
+Fatima Akhtar Court, 4th Floor, 453,                           Tamil Nadu
+Anna Salai, Teynampet,                                         PuducherryTown and
+CHENNAI – 600 018.                                             Karaikal (which are part of Puducherry).
+Tel.: 044 - 24333668 / 24335284
+Fax: 044 - 24333664
+Email: bimalokpal.chennai@cioins.co.in
+DELHI - Ms. Sunita Sharma                                      Delhi &
+Office of the Insurance Ombudsman,                             Following Districts of Haryana - Gurugram, Faridabad, Sonepat &
+2/2 A, Universal Insurance Building,                           Bahadurgarh.
+Asaf Ali Road,
+New Delhi – 110 002.
+Tel.: 011 - 23232481/23213504
+Email: bimalokpal.delhi@cioins.co.in
+GUWAHATI - Shri Somnath Ghosh                                  Assam,
+Office of the Insurance Ombudsman,                             Meghalaya,
+
+
+V05 - Nov/2025
+Office Details                                  Jurisdiction of Office (Union Territory, District)
+Jeevan Nivesh, 5th Floor,                       Manipur,
+Nr. Panbazar over bridge, S.S. Road,            Mizoram,
+Guwahati – 781001(ASSAM).                       Arunachal Pradesh,
+Tel.: 0361 - 2632204 / 2602205                  Nagaland and Tripura.
+Email: bimalokpal.guwahati@cioins.co.in
+
+HYDERABAD - Shri N Sankaran                     Andhra Pradesh,
+Office of the Insurance Ombudsman,              Telangana,
+6-2-46, 1st floor, "Moin Court",                Yanam and
+Lane Opp. Saleem Function Palace,               part of Union Territory of Puducherry.
+A. C. Guards, Lakdi-Ka-Pool,
+Hyderabad - 500 004.
+Tel.: 040 - 23312122
+Fax: 040 - 23376599
+Email: bimalokpal.hyderabad@cioins.co.in
+JAIPUR – Shri Rajiv Dutt Sharma                 Rajasthan.
+Office of the Insurance Ombudsman,
+Jeevan Nidhi – II Bldg., Gr. Floor,
+Bhawani Singh Marg,
+Jaipur - 302 005.
+Tel.: 0141 - 2740363
+Email: bimalokpal.jaipur@cioins.co.in
+KOCHI- Shri Girish Radhakrishnan                Kerala,
+10th Floor, Jeevan Prakash, LIC Building,       Lakshadweep,
+Opp to Maharaja's College, M.G.Road,            Mahe-a part of Union Territory of Puducherry.
+Kochi - 682 011Tel.: 0484 - 2358759
+
+Email: bimalokpal.ernakulam@cioins.co.in
+KOLKATA - Ms Kiran Sahdev                       West Bengal,
+Office of the Insurance Ombudsman,              Sikkim,
+Hindustan Bldg. Annexe, 4th Floor,              Andaman & Nicobar Islands.
+4, C.R. Avenue,
+KOLKATA - 700 072.
+Tel.: 033 - 22124339 / 22124340
+Fax : 033 - 22124341
+Email: bimalokpal.kolkata@cioins.co.in
+LUCKNOW - Shri. Atul Sahai                      Districts of Uttar Pradesh :
+Office of the Insurance Ombudsman,              Lalitpur, Jhansi, Mahoba, Hamirpur, Banda, Chitrakoot, Allahabad,
+6th Floor, Jeevan Bhawan, Phase-II,             Mirzapur, Sonbhabdra, Fatehpur, Pratapgarh, Jaunpur,Varanasi, Gazipur,
+Nawal Kishore Road, Hazratganj,                 Jalaun, Kanpur, Lucknow, Unnao, Sitapur, Lakhimpur, Bahraich,
+Lucknow - 226 001.                              Barabanki, Raebareli, Sravasti, Gonda, Faizabad, Amethi, Kaushambi,
+Tel.: 0522 - 2231330 / 2231331                  Balrampur, Basti, Ambedkarnagar, Sultanpur, Maharajgang,
+Fax: 0522 - 2231310                             Santkabirnagar, Azamgarh, Kushinagar, Gorkhpur, Deoria, Mau,
+Email: bimalokpal.lucknow@cioins.co.in          Ghazipur, Chandauli, Ballia, Sidharathnagar.
+MUMBAI –Ms. Susmita Mukherjee                   Goa,
+Office of the Insurance Ombudsman,              Mumbai Metropolitan Region
+3rd Floor, Jeevan Seva Annexe,                  excluding Navi Mumbai & Thane.
+S. V. Road, Santacruz (W),
+Mumbai - 400 054.
+Tel.: 69038821/23/24/25/26/27/28/28/29/30/31
+Fax: 022 - 26106052
+Email: bimalokpal.mumbai@cioins.co.in
+NOIDA - Shri Bimbadhar Pradhan                  State of Uttaranchal and the following Districts of Uttar Pradesh:
+Office of the Insurance Ombudsman,              Agra, Aligarh, Bagpat, Bareilly, Bijnor, Budaun, Bulandshehar, Etah,
+Bhagwan Sahai Palace                            Kanooj, Mainpuri, Mathura, Meerut, Moradabad, Muzaffarnagar,
+4th Floor, Main Road,                           Oraiyya, Pilibhit, Etawah, Farrukhabad, Firozbad, Gautambodhanagar,
+Naya Bans, Sector 15,                           Ghaziabad, Hardoi, Shahjahanpur, Hapur, Shamli, Rampur, Kashganj,
+Distt: Gautam Buddh Nagar,                      Sambhal, Amroha, Hathras, Kanshiramnagar, Saharanpur.
+U.P-201301.
+Tel.: 0120-2514252 / 2514253
+Email: bimalokpal.noida@cioins.co.in
+
+
+
+
+      M V05 - Nov/2025                                                                               Version 21/09/2017
+                                               18 of 19
+Office Details                                               Jurisdiction of Office (Union Territory, District)
+PATNA - Ms Susmita Mukherjee                                 Bihar,
+                                                             Jharkhand.
+Office of the Insurance Ombudsman,
+
+2nd Floor, Lalit Bhawan,
+Bailey Road,
+Patna 800 001.
+Tel.: 0612-2547068
+
+Email: bimalokpal.patna@cioins.co.in
+PUNE - Shri Sunil Jain                                       Maharashtra,
+Office of the Insurance Ombudsman,                           Area of Navi Mumbai and Thane
+Jeevan Darshan Bldg., 3rd Floor,                             excluding Mumbai Metropolitan Region.
+C.T.S. No.s. 195 to 198,
+N.C. Kelkar Road, Narayan Peth,
+Pune – 411 030.
+Tel.: 020-41312555
+Email: bimalokpal.pune@cioins.co.in
+
+*For updated list of Ombudsman please refer to the website at http://www.cioins.co.in/Ombudsman
+
+
+
+
+V05 - Nov/2025
+    ANNEXURE A
+
+
+    Section 38 - Assignment and Transfer of Insurance Policies
+    Assignment or transfer of a policy should be in accordance with Section 38 of the Insurance Act, 1938 as amended by the Insurance Laws
+    (Amendment) Act, 2015. The extant provisions in this regard are as follows:
+    1. This policy may be transferred/assigned, wholly or in part, with or without consideration.
+    2.   An Assignment may be effected in a policy by an endorsement upon the policy itself or by a separate instrument under notice to the
+         Insurer.
+    3.   The instrument of assignment should indicate the fact of transfer or assignment and the reasons for the assignment or transfer,
+         antecedents of the assignee and terms on which assignment is made.
+    4.   The assignment must be signed by the transferor or assignor or duly authorized agent and attested by at least one witness.
+    5.   The transfer of assignment shall not be operative as against an insurer until a notice in writing of the transfer or assignment and either
+d
+         the said endorsement or instrument itself or copy there of certified to be correct by both transferor and transferee or their duly authorised
+i        agents have been delivered to the insurer.
+    6.   Fee to be paid for assignment or transfer can be specified by the Authority through Regulations.
+    7.   On receipt of notice with fee, the insurer should Grant a written acknowledgement of receipt of notice. Such notice shall be conclusive
+         evidence against the insurer of duly receiving the notice.
+    8.   If the insurer maintains one or more places of business, such notices shall be delivered only at the place where the policy is being serviced.
+    9.   The insurer may accept or decline to act upon any transfer or assignment or endorsement, if it has sufficient reasons to believe that it is
+           a. not bonafide or
+           b. not in the interest of the policyholder or
+           c. not in public interest or
+           d. is for the purpose of trading of the insurance policy.
+    10. Before refusing to act upon endorsement, the Insurer should record the reasons in writing and communicate the same in writing to
+        Policyholder within 30 days from the date of policyholder giving a notice of transfer or assignment.
+    11. In case of refusal to act upon the endorsement by the Insurer, any person aggrieved by the refusal may prefer a claim to IRDAI within 30
+        days of receipt of the refusal letter from the Insurer.
+
+
+    12. The priority of claims of persons interested in an insurance policy would depend on the date on which the notices of assignment or
+        transfer is delivered to the insurer; where there are more than one instruments of transfer or assignment, the priority will depend on
+        dates of delivery of such notices. Any dispute in this regard as to priority should be referred to Authority.
+    13. Every assignment or transfer shall be deemed to be absolute assignment or transfer and the assignee or transferee shall be deemed to
+        be absolute assignee or transferee, except
+           a. where assignment or transfer is subject to terms and conditions of transfer or assignment OR
+           b. where the transfer or assignment is made upon condition that
+                  i.   the proceeds under the policy shall become payable to policyholder or Nominee(s) in the event of assignee or transferee
+                       dying before the insured OR
+                 ii.   the insured surviving the term of the policy. Such conditional assignee will not be entitled to obtain a loan on policy or
+                       Surrender the policy. This provision will prevail notwithstanding any law or custom having force of law which is contrary
+                       to the above position.
+    14. In other cases, the insurer shall, subject to terms and conditions of assignment, recognize the transferee or assignee named in the notice
+        as the absolute transferee or assignee and such person
+           a. shall be subject to all liabilities and equities to which the transferor or assignor was subject to at the date of transfer or assignment
+                and
+           b. may institute any proceedings in relation to the policy
+           c. obtain loan under the policy or Surrender the policy without obtaining the consent of the transferor or assignor or making him a
+                party to the proceedings
+    15. Any rights and remedies of an assignee or transferee of a life insurance policy under an assignment or transfer effected before
+        commencement of the Insurance Laws (Amendment) Act, 2015 shall not be affected by this section.
+
+    [Disclaimer: This is not a comprehensive list of amendments of the Insurance Laws (Amendment) Act, 2015 and only a simplified version
+    prepared for general information. Policy Holders are advised to refer to Original Act Gazette Notification dated March 23, 2015 for
+    complete and accurate details. ]
+
+
+
+
+          M V05 - Nov/2025                                                                                                    Version 21/09/2017
+                                                                         18 of 19
+ANNEXURE B
+
+Section 39 - Nomination by Policyholder
+Nomination of a life insurance Policy is as below in accordance with Section 39 of the Insurance Act, 1938 as amended by the Insurance Laws
+(Amendment) Act, 2015. The extant provisions in this regard are as follows:
+1. The policyholder of a life insurance on his own life may nominate a person or persons to whom money secured by the policy shall be paid
+     in the event of his death.
+2.   Where the Nominee is a minor, the policyholder may appoint any person to receive the money secured by the policy in the event of
+     policyholder’s death during the minority of the Nominee. The manner of appointment to be laid down by the insurer.
+3.   Nomination can be made at any time before the maturity of the policy.
+4.   Nomination may be incorporated in the text of the policy itself or may be endorsed on the policy communicated to the insurer and can
+     be registered by the insurer in the records relating to the policy.
+5.   Nomination can be cancelled or changed at any time before policy matures, by an endorsement or a further endorsement or a will as the
+     case may be.
+6.   A notice in writing of Change or Cancellation of nomination must be delivered to the insurer for the insurer to be liable to such Nominee.
+     Otherwise, insurer will not be liable if a bonafide payment is made to the person named in the text of the policy or in the registered
+     records of the insurer.
+7.   Fee to be paid to the insurer for registering change or cancellation of a nomination can be specified by the Authority through Regulations.
+8.   On receipt of notice with fee, the insurer should grant a written acknowledgement to the policyholder of having registered a nomination
+     or cancellation or change thereof.
+9.   A transfer or assignment made in accordance with Section 38 shall automatically cancel the nomination except in case of assignment to
+     the insurer or other transferee or assignee for purpose of loan or against security or its reassignment after repayment. In such case, the
+     nomination will not get cancelled to the extent of insurer’s or transferee’s or assignee’s interest in the policy. The nomination will get
+     revived on repayment of the loan.
+10. The right of any creditor to be paid out of the proceeds of any policy of life insurance shall not be affected by the nomination.
+11. In case of nomination by policyholder whose life is insured, if the Nominees die before the policyholder, the proceeds are payable to
+    policyholder or his heirs or legal representatives or holder of succession certificate.
+12. In case Nominee(s) survive the person whose life is insured, the amount secured by the policy shall be paid to such survivor(s).
+13. Where the policyholder whose life is insured nominates his
+    a. parents or
+    b. spouse or
+    c. children or
+    d. spouse and children
+    e. or any of them
+   the Nominees are beneficially entitled to the amount payable by the insurer to the policyholder unless it is proved that policyholder could
+   not have conferred such beneficial title on the Nominee having regard to the nature of his title.
+
+14. If Nominee(s) die after the policyholder but before his share of the amount secured under the policy is paid, the share of the expired
+    Nominee(s) shall be payable to the heirs or legal representative of the Nominee or holder of succession certificate of such Nominee(s).
+15. The provisions of sub-section 7 and 8 (13 and 14 above) shall apply to all life insurance policies maturing for payment after the
+    commencement of the Insurance Laws (Amendment) Act, 2015.
+16. If policyholder dies after maturity but the proceeds and benefit of the policy has not been paid to him because of his death, his Nominee(s)
+    shall be entitled to the proceeds and benefit of the policy.
+17. The provisions of Section 39 are not applicable to any life insurance policy to which Section 6 of Married Women’s Property Act, 1874
+    applies or has at any time applied except where before or after the Insurance Laws (Amendment) Act, 2015, a nomination is made in
+    favour of spouse or children or spouse and children whether or not on the face of the policy it is mentioned that it is made under Section
+    39. Where nomination is intended to be made to spouse or children or spouse and children under Section 6 of MWP Act, it should be
+    specifically mentioned on the policy. In such a case only, the provisions of Section 39 will not apply.
+
+[Disclaimer: This is not a comprehensive list of amendments of the Insurance Laws (Amendment) Act, 2015 and only a simplified version
+prepared for general information. Policy Holders are advised to refer to Original Act Gazette Notification dated March 23, 2015 for
+complete and accurate details.
+
+ANNEXURE C
+
+Section 45 – Policy shall not be called in question on the ground of mis-statement after three years
+Provisions regarding policy not being called into question in terms of Section 45 of the Insurance Act, 1938, as amended by the Insurance Laws
+(Amendment) Act, 2015 are as follows:
+1. No Policy of Life Insurance shall be called in question on any ground whatsoever after expiry of 3 yrs from
+
+V05 - Nov/2025
+     a. the date of issuance of policy or
+     b. the date of commencement of risk or
+     c. the date of revival of policy or
+     d. the date of rider to the policy
+     whichever is later.
+2.   On the ground of fraud, a policy of Life Insurance may be called in question within 3 years from
+     a. the date of issuance of policy or
+     b. the date of commencement of risk or
+     c. the date of revival of policy or
+     d. the date of rider to the policy
+     whichever is later.
+     For this, the insurer should communicate in writing to the insured or legal representative or Nominee or assignees of insured, as
+     applicable, mentioning the ground and materials on which such decision is based.
+3.   Fraud means any of the following acts committed by insured or by his agent, with the intent to deceive the insurer or to induce the insurer
+     to issue a life insurance policy:
+     a. The suggestion, as a fact of that which is not true and which the insured does not believe to be true;
+     b. The active concealment of a fact by the insured having knowledge or belief of the fact;
+     c. Any other act fitted to deceive; and
+     d. Any such act or omission as the law specifically declares to be fraudulent.
+4.   Mere silence is not fraud unless, depending on circumstances of the case, it is the duty of the insured or his agent keeping silence to speak
+     or silence is in itself equivalent to speak.
+5.   No Insurer shall repudiate a life insurance Policy on the ground of Fraud, if the Insured / beneficiary can prove that the misstatement was
+     true to the best of his knowledge and there was no deliberate intention to suppress the fact or that such mis-statement of or suppression
+     of material fact are within the knowledge of the insurer. Onus of disproving is upon the policyholder, if alive, or beneficiaries.
+6.   Life insurance Policy can be called in question within 3 years on the ground that any statement of or suppression of a fact material to
+     expectancy of life of the insured was incorrectly made in the proposal or other document basis which policy was issued or revived or rider
+     issued. For this, the insurer should communicate in writing to the insured or legal representative or Nominee or assignees of insured, as
+     applicable, mentioning the ground and materials on which decision to repudiate the policy of life insurance is based.
+7.   In case repudiation is on ground of mis-statement and not on fraud, the premium collected on policy till the date of repudiation shall be
+     paid to the insured or legal representative or Nominee or assignees of insured, within a period of 90 days from the date of repudiation.
+8.   Fact shall not be considered material unless it has a direct bearing on the risk undertaken by the insurer. The onus is on insurer to show
+     that if the insurer had been aware of the said fact, no life insurance policy would have been issued to the insured.
+9.   The insurer can call for proof of age at any time if he is entitled to do so and no policy shall be deemed to be called in question merely
+     because the terms of the policy are adjusted on subsequent proof of age of Life Insured. So, this Section will not be applicable for
+     questioning age or adjustment based on proof of age submitted subsequently.
+
+[Disclaimer: This is not a comprehensive list of amendments of the Insurance Laws (Amendment) Act, 2015 and only a simplified version
+prepared for general information. Policy Holders are advised to refer to Original Act Gazette Notification dated March 23, 2015 for
+complete and accurate details. ]
+
+
+
+
+V05 - Nov/2025
+

@@ -1,0 +1,1380 @@
+ Aditya Birla Sun Life Insurance                                                                    Part E
+ Wealth Aspire Plan
+
+For Classic Option - Sum at Risk is the excess, if any, of Death Benefit over Policy Fund Value.
+For Assured Option - Sum at Risk is Sum Assured plus discounted value of future premiums.
+A discount of (15% | 25%) is applicable on the mortality charge for Band 2 and 3 respectively.
+
+
+                             Attn     Male     Female     Attn      Male      Female
+                             Age                          Age
+                              0         0         0        43       2.718     2.069
+                              1       3.757     3.757      44       3.006     2.254
+                              2       2.830     2.830      45       3.339     2.469
+                              3       2.135     2.135      46       3.720     2.718
+                              4       1.614     1.614      47       4.152     3.006
+                              5       1.226     1.226      48       4.634     3.339
+                              6       0.939     0.939      49       5.164     3.720
+                              7       0.734     0.734      50       5.736     4.152
+                              8       0.595     0.595      51       6.343     4.634
+                              9       0.512     0.512      52       6.981     5.164
+                              10      0.477     0.458      53       7.644     5.736
+                              11      0.482     0.448      54       8.329     6.343
+                              12      0.516     0.464      55       9.037     6.981
+                              13      0.571     0.497      56       9.772     7.644
+                              14      0.639     0.537      57      10.543     8.329
+                              15      0.711     0.576      58      11.359     9.037
+                              16      0.783     0.571      59      12.233     9.772
+                              17      0.848     0.639      60      13.180     10.543
+                              18      0.906     0.711      61      14.214     11.359
+                              19      0.955     0.783      62      15.351     12.233
+                              20      0.993     0.848      63      16.603     13.180
+                              21      1.024     0.906      64      17.984     14.214
+                              22      1.047     0.955      65      19.509     15.351
+                              23      1.064     0.993      66      21.187     16.603
+                              24      1.077     1.024      67      23.034     17.984
+                              25      1.088     1.047      68      25.060     19.509
+                              26      1.098     1.064      69      27.280     21.187
+                              27      1.111     1.077      70      29.707     23.034
+                              28      1.128     1.088      71      32.358     25.060
+                              29      1.149     1.098      72      35.247     27.280
+
+
+
+
+                                                                                                   V06 – June 2026
+ Aditya Birla Sun Life Insurance                                                                Part E
+ Wealth Aspire Plan
+
+                              30     1.176   1.111       73         38.393    29.707
+                              31     1.211   1.128       74         41.817    32.358
+                              32     1.255   1.149       75         45.539    35.247
+                              33     1.310   1.176       76         49.584    38.393
+                              34     1.375   1.211       77         53.976    41.817
+                              35     1.452   1.255       78         58.746    45.539
+                              36     1.542   1.310       79         63.921    49.584
+                              37     1.648   1.375       80         69.535    53.976
+                              38     1.769   1.452       81         75.625    58.746
+                              39     1.908   1.542       82         82.228    63.921
+                              40     2.069   1.648       83         89.386    69.535
+                              41     2.254   1.769       84         97.145    75.625
+                              42     2.469   1.908       85         105.551   82.228
+
+
+SEGREGATED FUND PROVISIONS
+10.Investment Option
+You have four investment options to choose from – Smart Option, Systematic Transfer Option, Return
+Optimiser Option or Self-Managed Option.
+
+
+For the Smart Option, we will allocate your premiums in Maximiser and Income Advantage segregated funds
+in a predetermined proportion based on your selected risk profile and your maturity date when premium is
+received.
+The proportion invested in Maximiser will be according to the given schedule – the remaining amount will be
+invested in Income Advantage.
+
+
+                              Years to                  Risk Profile
+                              Maturity   Conservative    Moderate        Aggressive
+                          5                  0%               0%              0%
+                          6 – 10             5%               10%             15%
+                          11 – 15            15%              25%             35%
+                          16 – 20            30%              40%             50%
+                          21 – 30            35%              50%             65%
+                          31 – 40            50%              65%             80%
+
+
+You may request in writing to change your risk profile at any time. Once received by us, your change request
+will apply to the Policy Fund Value and all premiums received by us from that date onwards. The request for
+change in risk profile is currently free of cost.
+
+
+
+
+                                                                                               V06 – June 2026
+ Aditya Birla Sun Life Insurance                                                                     Part E
+ Wealth Aspire Plan
+
+For the Systematic Transfer Option, we will initially allocate your premiums in Liquid Plus segregated fund.
+Policy Schedule shows the Transfer Date and the Transfer Fund(s). This option is only available only if
+policyholder has opted for annual mode. For weekly transfer, on every Transfer Dates we shall transfer 1/48 th
+of the allocated amount from Liquid Plus segregated fund to your chosen Transfer Fund(s). For monthly
+transfer, on every Transfer Date we shall transfer 1/12th of the allocated amount from Liquid Plus segregated
+fund to your chosen Transfer Fund(s). Transfer Date & Transfer Fund(s) once chosen at inception cannot be
+changed. Top-up premiums paid during the premium paying term shall be initially allocated in the Liquid Plus
+segregated fund and shall be transferred to the chosen Transfer Fund(s) along with the last installment during
+the policy year. Top-up premiums paid after the premium paying term shall be directly allocated into the
+chosen Transfer Fund(s).
+For the Self-Managed Option, you may allocate a minimum of 5% and maximum of 100% to each segregated
+fund available under this option. The premium allocation percentage to each segregated fund must be in
+increments of 5% and the total percentage across all segregated funds must be 100%.
+For the Return Optimiser Option, we will initially allocate your premiums in Maximiser fund. Maximiser fund
+will be tracked every day for each policyholder for a pre-determined upside movement of 10% or more over
+the net invested amount (net of all charges). In the situation where the gain from the Maximiser fund reaches
+10% or more of the net invested amount, the amount equal to the appreciation will be transferred to the
+Income Advantage fund at the prevailing Unit Price.
+You may request in writing to change your premium allocation percentage by using the premium redirection
+facility at any time. Once received by us, your change request will apply to all Basic Premiums and top-up
+premiums received by us from that date onwards.
+The facility of switching between investment options can be availed of anytime after the first policy year,
+though only one investment option can be selected at a time. You can switch to Self-Managed Option and
+Smart Option anytime during the policy term; however, switching to Systematic Transfer Option can be done
+only on Policy Anniversary. Switching between weekly and monthly transfers under Systematic Transfer
+Option can be done only on Policy Anniversary. Switching to the Return Optimiser option is not allowed.
+All basic and top-up premiums will be allocated to the new investment option selected from the date of
+change.
+
+
+11.Segregated Fund
+A segregated fund is a specific and separate fund managed for the exclusive interest of all policyholders sharing
+the same segregated fund.
+The company has sole discretion on the investment and management of each segregated fund within the limits
+defined in Schedule A given below. The allocation of units in the segregated fund under this policy is notional
+and is solely for the purpose of determining the Policy Fund Value.
+
+
+12.Investment Risk
+An investment by you in any segregated fund is subject to market and other risks. Other than the explicit
+guarantees provided by us, there is no assurance that the objectives of any segregated fund will be achieved.
+The unit price of any segregated fund may increase or decrease as per the performance of the financial
+markets. The past performance of any segregated fund offered by us in this policy or otherwise does not
+indicate the future performance of any segregated funds. The name/s of the segregated fund/s and that of
+the policy do not in any way indicate the quality of the returns that can be expected from the segregated
+fund/s.
+The company will manage the investment mix of each segregated Fund according to Schedule A given below.
+
+
+
+
+                                                                                                    V06 – June 2026
+ Aditya Birla Sun Life Insurance                                                                        Part E
+ Wealth Aspire Plan
+
+
+13.Segregated Fund Valuation
+We usually determine the value of each segregated fund at the end of every business day. The Net Asset Value
+(NAV) is determined based on (the market value of investments held by the fund plus the value of any current
+assets less the value of any current liabilities & provisions) divided by the number of units existing at valuation
+date (before creation or redemption of any units)
+This unit price will be published on our company’s website.
+
+
+14.Segregated Fund Unit Allocation and Unit Redemption
+On each business day, the cut-off time is 3 p.m. by which time we must have received and accepted your
+instructions to invest in, or encash units from an segregated fund. Instructions accepted by us up to the cut-
+off time are executed using the unit price we determine at the end of that business day. Instructions accepted
+by us after the cut-off time will be executed using the unit price determined by us at the end of the next
+business day.
+Instruction to invest is deemed accepted by us when we receive cash, demand draft or local cheque at any of
+our offices by duly authorized officials. For outstation cheque, instruction to invest is deemed accepted by us
+only on the day we receive credit in any of our bank accounts. The number of units allocated equals the
+monetary amount invested in a segregated fund divided by its unit price at that time. Units are allocated when
+we receive a premium or when we execute your request to switch units from another segregated fund (as
+applicable to your policy).
+The number of units redeemed equals the monetary amount encashed from an segregated fund divided by its
+unit price at that time. Units are redeemed when we execute your request for a partial withdrawal or when
+we execute your request to switch units to another segregated fund (as applicable to your policy). In case of
+partial withdrawals, units will be redeemed from all segregated funds under your policy in proportion to their
+value at that time.
+On each Monthly Processing Date, policy charges will be covered by redeeming units from all segregated funds
+under your policy in proportion to their value at that time. In case a Guaranteed Addition is added to your
+policy, units will be allocated to all segregated funds under your policy in proportion to their value at that time.
+For the purpose of this paragraph, we will use the latest unit prices available.
+Termination of your policy, for any reason, will result in the redemption of all units in all segregated funds
+under your policy at the time.
+
+
+15.Segregated Funds
+Current segregated fund/s under this policy:
+(a) Liquid Plus
+   Objective: To provide superior risk-adjusted returns with low volatility at a high level of safety and liquidity
+   through investments in high quality short term fixed income instruments – up to one year maturity.
+   Strategy: Fund will invest in high quality short-term fixed income instruments – up to one year maturity.
+   The endeavour will be to optimize returns while providing liquidity and safety with very low risk profile.
+(b) Income Advantage
+   Objective: To provide capital preservation and regular income, at a high level of safety over a medium term
+   horizon by investing in high quality debt instruments.
+   Strategy: To actively manage the fund by building a portfolio of fixed income instruments with medium
+   term duration. The fund will invest in government securities, high rated corporate bonds, high quality
+
+
+
+
+                                                                                                       V06 – June 2026
+ Aditya Birla Sun Life Insurance                                                                       Part E
+ Wealth Aspire Plan
+
+   money market instruments and other fixed income securities. The quality of the assets purchased would
+   aim to minimize the credit risk and liquidity risk of the portfolio. The fund will maintain reasonable level of
+   liquidity.
+(c) Assure
+   Objective: To provide capital conservation, at a high level of safety and liquidity through judicious
+   investments in high quality short-term debt.
+   Strategy: To generate better return with low level of risk through investment into fixed interest securities
+   having short-term maturity profile up to 5 years.
+(d) Protector
+   Objective: To generate consistent returns through active management of a fixed income portfolio and
+   focus on creating a long-term equity portfolio, which will enhance the yield of the composite portfolio with
+   minimum risk appetite.
+   Strategy: To invest in fixed income securities with marginal exposure to equity up to 10% at low level of
+   risk. This segregated fund is suitable for those who want to preserve their capital and earn a steady return
+   on investment through higher exposure to debt securities.
+(e) Builder
+   Objective: To build capital and generate better returns at moderate level of risk, over a medium or long-
+   term period through a balance of investment in equity and debt.
+   Strategy: To generate better returns with moderate level of risk through active management of a fixed
+   income portfolio and focus on creating a long-term equity portfolio, which will enhance the yield of the
+   composite portfolio with low level of risk appetite.
+(f) Enhancer
+   Objective: To grow capital through enhanced returns over a medium to long-term period through
+   investments in equity and debt instruments, thereby providing a good balance between risk and return.
+   This segregated fund is suitable for those who want to earn higher return on investment through balanced
+   exposure to equity and debt securities.
+   Strategy: To earn capital appreciation by maintaining a diversified equity portfolio and seek to earn regular
+   returns on the fixed income portfolio by active management resulting in wealth creation for policyholders.
+
+
+(g) Creator
+   Objective: To achieve optimum balance between growth and stability to provide long-term capital
+   appreciation with balanced level of risk by investing in fixed income securities and high quality equity
+   security. This fund option is for those who are willing to take average to high level of risk to earn attractive
+   returns over a long period of time.
+   Strategy: To invest into fixed income securities and maintaining diversified equity portfolio along with
+   active fund management policyholder’s wealth in long run.
+(h) Asset Allocation
+   Objective: To provide capital appreciation by investing in a suitable mix of cash, debt and equities. The
+   investment strategy will involve a flexible policy for allocating assets among equities, bonds and cash.
+   Strategy: To appropriately allocate money between equity, debt and money market instruments, to take
+   advantage of the movement of asset prices resulting from changing financial and economic conditions.
+(i) Magnifier
+   Objective: To maximize wealth by managing diversified portfolio.
+
+
+
+
+                                                                                                      V06 – June 2026
+ Aditya Birla Sun Life Insurance                                                                    Part E
+ Wealth Aspire Plan
+
+   Strategy: To invest in high quality equity security to provide long-term capital appreciation with high level
+   of risk. This fund option is suitable for those who want to have wealth maximization over long-term period
+   with equity market dynamics.
+(j) Maximiser
+   Objective: To provide long-term capital appreciation by actively managing a well-diversified equity
+   portfolio of fundamentally strong blue chip companies. Further, the fund seeks to provide a cushion against
+   the sudden volatility in the equities through some investments in short-term money market instruments.
+   Strategy: To build and actively manage a well-diversified equity portfolio of value and growth driven stocks
+   by following a research focused investment approach. While appreciating the high risk associated with
+   equities, the fund would attempt to maximize the risk-return pay off for the long-term advantage of the
+   policyholders. The fund will also explore the option of having exposure to quality mid cap stocks. The non-
+   equity portion of the fund will be invested in good rated (P1/A1 & above) money market instruments and
+   fixed deposits. The fund will also maintain reasonable level of liquidity
+
+
+(k) Multiplier
+   Objective: To provide long-term wealth maximization by actively managing a well-diversified equity
+   portfolio, predominantly comprising of companies whose market capitalization is close to Rs. 1000 crores
+   and above.
+   Strategy: To build and actively manage a well-diversified equity portfolio of value & growth driven stocks
+   by following a research driven investment approach. The investments would be predominantly made in
+   mid cap stocks, with an option to invest 30% in large cap stocks as well. While appreciating the high risk
+   associated with equities, the fund would attempt to maximize the risk-return pay-off for the long-term
+   advantage of the policyholders. The fund will also maintain reasonable level of liquidity.
+(l) Super 20
+   Objective: To generate long-term capital appreciation for policyholders by making investments in
+   fundamentally strong and liquid large cap companies.
+   Strategy: To build and actively manage an equity portfolio of 20 fundamentally strong large cap stocks in
+   terms of market capitalization by following an in-depth research-focused investment approach. The fund
+   will attempt to adequately diversify across sectors. The fund will invest in companies having financial
+   strength, robust, efficient & visionary management, enjoying competitive advantage along with good
+   growth prospects & adequate market liquidity. The fund will adopt a disciplined yet flexible long-term
+   approach towards investing with a focus on generating long-term capital appreciation. The non-equity
+   portion of the fund will be invested in high rated money market instruments and fixed deposits. The fund
+   will also maintain reasonable level of liquidity.
+(m)Pure Equity
+   Objective: To provide long-term wealth creation by actively managing portfolio through investment in
+   selective businesses. Fund will not invest in businesses that provide goods or services in gambling, lottery
+   /contests, animal produce, liquor, tobacco, entertainment like films or hotels, banks and financial
+   institutions.
+   Strategy: To build and actively manage a well-diversified equity portfolio of value & growth driven
+   fundamentally strong companies by following a research-focused investment approach. Equity
+   investments in companies will be made in strict compliance with the objective of the fund. The fund will
+   not invest in banks and financial institutions and companies whose interest income exceeds 3% of total
+   revenues. Investment in leveraged-firms is restrained on the provision that heavily indebted companies
+   ought to serve a considerable amount of their revenue in interest payments.
+(n) Value & Momentum
+
+
+
+
+                                                                                                   V06 – June 2026
+ Aditya Birla Sun Life Insurance                                                                    Part E
+ Wealth Aspire Plan
+
+   Objective: To provide long-term wealth maximization by managing a well-diversified equity portfolio
+   predominantly comprising of deep value stocks with strong price and earnings momentum.
+   Strategy: To build & manage a well diversified equity portfolio of value and momentum driven stocks by
+   following a prudent mix of qualitative & quantitative investment factors. This strategy has outperformed
+   the broader market indices over long-term. The fund would seek to identify companies, which have
+   attractive business fundamentals, competent management and prospects of robust future growth and are
+   yet available at a discount to their intrinsic value and display good momentum. The fund will also maintain
+   reasonable level of liquidity.
+(o) Capped Nifty Index
+   Objective: To provide capital appreciation by investing in a portfolio of equity shares that form part of a
+   Capped NIFTY Index.
+   Strategy: To invest in all the equity shares that form part of the Capped Nifty in the same proportion as the
+   Capped Nifty. The Capped Nifty Index will have all 50 companies that form part of Nifty index and will be
+   rebalanced on a quarterly basis. The index composition will change with every change in the price of Nifty
+   constituents. Rebalancing to meet the capping requirements will be done on a quarterly basis.
+(p) MNC
+   Objective: To provide capital appreciation by investing in equity and equity related instruments of multi-
+   national companies.
+   Strategy: The fund will predominantly invest in companies where FII / FDI and MNC parent combined
+   holding is more than 50%. This theme has outperformed the broader market indices over long-term. The
+   companies chosen are likely to have above average growth, enjoy distinct competitive advantages, and
+   have superior financial strengths. The fund will also invest in high quality money market instruments and
+   maintain adequate liquidity.
+(q) ESG Fund
+   Objective: To focus on investing in select companies from the investment universe, which conduct business
+   in socially and environmentally responsible manner while maintaining governance standards.
+   Strategy: To invest in companies demonstrating sustainable practices across Environment, Social and
+   Governance theme. The ESG theme has outperformed the broader market indices over the long term. The
+   companies chosen are likely to have strong growth, enjoy distinct competitive advantages, and have
+   sustainable business models and financial strength. The fund will also invest in high quality money market
+   instruments and maintain adequate liquidity.
+(r) Small Cap Fund
+   Objective: To provide long-term wealth maximization by actively managing a well-diversified equity
+   portfolio, predominantly comprising of small cap companies (as per SEBI classification). Further, the fund
+   would also seek to provide a cushion against the sudden volatility in the equities through some investments
+   in debt and money market instruments.
+   Strategy: Active Fund Management with potentially 100% equity exposure. Research based investment
+   approach with a dedicated & experienced in-house research team. Identify undervalued stocks in the
+   growth phase. Focus on niche players with competitive advantage, in the sunrise industry & potential of
+   being tomorrow’s mid cap. Emphasize on early identification of stocks. 50-100% will be invested in small
+   cap companies and 0-50% in mid cap companies.
+(s) Dividend Yield Fund
+    Objective: To provide long-term wealth by investing primarily in a well-diversified portfolio of equity and
+    equity related instruments of predominantly dividend paying companies.
+
+
+
+
+                                                                                                   V06 – June 2026
+ Aditya Birla Sun Life Insurance                                                                       Part E
+ Wealth Aspire Plan
+
+    Strategy: Active Fund Management with potentially 100% equity exposure. The Scheme invests
+    predominantly in equity and equity related instruments of dividend yielding companies (not less than 75%).
+    Companies may also choose to do a buyback in addition to or as an alternative to dividend.
+    The company will manage the investment mix of each segregated fund according to Schedule A given
+    below.
+(t) Nifty Alpha 50 Index Fund
+     Objective: To provide capital appreciation by replicating the composition of the NIFTY Alpha 50 Index and
+     to generate returns that are commensurate with the performance of the NIFTY Alpha 50 Index, subject to
+     tracking errors. NIFTY Alpha 50 focuses on the performance of stocks with high alpha scores, which
+     indicates their potential for outperforming the market.
+     Strategy: To invest in all the equity shares that form part of the Nifty Alpha 50 Index in the same proportion
+     as the Index (customized as per IRDAI regulatory limits). NIFTY Alpha 50 index tracks the performance of
+     50 stocks with the highest Alphas during the last one year. It is chosen from the top 300 companies by
+     average free-float market capitalization and average daily turnover during the last six months. The weights
+     of securities in the index are assigned based on the alpha values i.e. security with highest alpha in the
+     index gets highest weight. The fund be rebalanced on a quarterly basis, using data from the six months
+     ending on the last trading day of February, May, August, and November.
+(u) Flexi Cap Fund
+     Objective: To provide long-term wealth creation by investing in companies across large, mid and small
+     caps with the flexibility to adapt as market conditions change.
+     Strategy: Active Fund Management with potentially 100% equity exposure. The Scheme invests
+     predominantly in equity and equity related instruments across large, mid and small caps companies. The
+     fund has the flexibility to move across sectors, themes and market cap to generate long term money for
+     investors.
+
+
+1.Segregated Fund Switch
+You may switch part or all of your allocated units in one segregated fund to another segregated fund at any
+time under the Self-Managed Option.
+Your switch request must be sent and received by us in our prescribed format before a switch is performed.
+The minimum switch amount must be Rs. 5,000.
+
+
+2.Segregated Fund Additions and Closures
+With the approval from the IRDAI we may from time to time add new segregated funds under your policy. All
+provisions in this policy will continue to apply unless specifically stated otherwise. We will inform you of such
+addition no later than 60 days after it is made available under your policy.
+With the approval from the IRDAI we may at any time close an segregated fund available in your policy. We
+will inform you in writing of such closure no later than 60 days before we actually close the segregated fund.
+Unless we receive specific instructions from you by the time we close the segregated fund, all units in the
+segregated fund will be switched to the most conservative segregated fund then available in your policy.
+Similarly, reference to the segregated fund being closed in your premium allocation percentage will be
+changed to refer to the most conservative segregated fund then available in your policy. Income Advantage is
+currently our conservative segregated fund. However, we can declare from time to time another segregated
+fund as the most conservative in your policy.
+
+
+Schedule A
+
+
+
+
+                                                                                                      V06 – June 2026
+ Aditya Birla Sun Life Insurance                                                                  Part E
+ Wealth Aspire Plan
+
+List of Segregated Fund/s available under this policy
+ Segregated            Segregated Fund            Risk
+                                                                 Asset Allocation *             Min.      Max.
+ fund                  Identification No.        Profile
+                                                           Debt Instruments
+                                                                                                20%       100%
+                 ULIF02807/10/11BSLLIQPLU        Very      Money Market & Cash
+ Liquid Plus                                                                                     0%        80%
+                 S109                            Low       Equities & Equity          Related
+                                                                                                 0%        0%
+                                                           Securities
+                                                           Debt Instruments,
+                                                                                                60%       100%
+ Income          ULIF01507/08/08BSLIINCAD        Very      Money Market & Cash
+                                                                                                 0%        40%
+ Advantage       V109                            Low       Equities & Equity          Related
+                                                                                                 0%        0%
+                                                           Securities
+                                                           Debt Instruments
+                                                                                                20%       100%
+                 ULIF01008/07/05BSLIASSUR        Very      Money Market & Cash
+ Assure                                                                                          0%        80%
+                 E109                            Low       Equities & Equity          Related
+                                                                                                 0%        0%
+                                                           Securities
+                                                           Debt Instruments
+                                                                                                90%       100%
+                 ULIF00313/03/01BSLPROTE                   Money Market & Cash
+ Protector                                       Low                                             0%        40%
+                 CT109                                     Equities & Equity          Related
+                                                                                                 0%        10%
+                                                           Securities
+                                                           Debt Instruments
+                                                                                                80%        90%
+                 ULIF00113/03/01BSLBUILDE                  Money Market & Cash
+ Builder                                         Low                                             0%        40%
+                 R109                                      Equities & Equity          Related
+                                                                                                10%        20%
+                                                           Securities
+                                                           Debt Instrument,
+                                                                                                25%        80%
+                 ULIF00213/03/01BSLENHAN         Mediu     Money Market & Cash
+ Enhancer                                                                                        0%        40%
+                 CE109                           m         Equities & Equity          Related
+                                                                                                20%        35%
+                                                           Securities
+                                                           Debt Instruments
+                                                                                                50%        70%
+                 ULIF00704/02/04BSLCREAT         Mediu     Money Market & Cash
+ Creator                                                                                         0%        40%
+                 OR109                           m         Equities & Equity          Related
+                                                                                                30%        50%
+                                                           Securities
+                                                           Debt Instruments                     10%        80%
+ Asset           ULIF03430/10/14BSLIASTAL
+                                                 High      Money Market & Cash                   0%        40%
+ Allocation      C109
+                                                           Equities                             10%        80%
+                                                           Debt Instruments
+                                                                                                10%        50%
+                 ULIF00826/06/04BSLIIMAG                   Money Market & Cash
+ Magnifier                                       High                                            0%        40%
+                 NI109                                     Equities & Equity          Related
+                                                                                                50%        90%
+                                                           Securities
+                                                           Debt Instruments
+                                                                                                 0%        20%
+                 ULIF01101/06/07BSLIINMAX                  Money Market & Cash
+ Maximiser                                       High                                            0%        20%
+                 I109                                      Equities & Equity          Related
+                                                                                                80%       100%
+                                                           Securities
+                                                           Debt Instruments
+                                                                                                 0%        20%
+                 ULIF01217/10/07BSLIINMUL                  Money Market & Cash
+ Multiplier                                      High                                            0%        20%
+                 TI109                                     Equities & Equity          Related
+                                                                                                80%       100%
+                                                           Securities
+                                                           Debt Instruments
+                                                                                                 0%        20%
+                 ULIF01723/06/09BSLSUPER                   Money Market & Cash
+ Super 20                                        High                                            0%        20%
+                 20109                                     Equities & Equity          Related
+                                                                                                80%       100%
+                                                           Securities
+
+
+
+
+                                                                                                 V06 – June 2026
+ Aditya Birla Sun Life Insurance                                                              Part E
+ Wealth Aspire Plan
+
+                                                       Debt Instruments
+                                                                                            0%         20%
+                ULIF02707/10/11BSLIPUREE               Money Market & Cash
+ Pure Equity                                 High                                           0%         20%
+                Q109                                   Equities & Equity        Related
+                                                                                           80%        100%
+                                                       Securities
+                                                       Debt Instruments
+                                                                                            0%         20%
+ Value   & ULIF02907/10/11BSLIVALUE                    Money Market & Cash
+                                             High                                           0%         20%
+ Momentum  M109                                        Equities & Equity        Related
+                                                                                           80%        100%
+                                                       Securities
+                                                       Debt Instruments                     0%         10%
+ Capped Nifty ULIF03530/10/14BSLICNFID
+                                             High      Money Market & Cash                  0%         10%
+ Index        X109
+                                                       Equities                            90%        100%
+                                                       Debt Instruments                     0%         20%
+                ULIF03722/06/18ABSLIMU                 Money Market & Cash
+ MNC                                         High                                           0%         20%
+                MNC109                                 Equities                            80%        100%
+                                                       Government Securities
+ Linked                                                                                    60%        100%
+                ULIF03205/07/13BSLILDIS10    Very      Money Market & Cash
+ Discontinued                                                                               0%         40%
+                9                            Low       Equities & Equity        Related
+ Policy Fund                                                                                0%         0%
+                                                       Securities
+                                                       Debt Instruments                     0%         20%
+                ULIF03810/11/23ABSLESGF                Money Market & Cash                  0%         20%
+ ESG                                         High
+                ND109                                  Equities &     Equity    Related     80%        100%
+                                                       Securities
+                                                        Debt Instruments                     0%         20%
+                ULIF03910/11/23ABSLSMAL                 Money Market & Cash                  0%         20%
+ Small Cap                                    High
+                CP109                                   Equities &     Equity    Related     80%       100%
+                                                        Securities
+                                                                                            0%          20%
+                                                        Debt Instruments
+ Dividend       ULIF04206/11/25ABSLDIVYL                Money Market & Cash
+                                              High                                          0%          20%
+ Yield Fund     D109                                    Equities &     Equity    Related
+                                                        Securities
+                                                                                           80%         100%
+
+
+                                                       Debt Instruments                     0%         20%
+ Nifty   Alpha                                         Money Market & Cash
+               ULIF04015/06/24ABSLIALPH
+ 50      Index                               High
+               A109                                    Equities &     Equity    Related    0%          20%
+ Fund
+                                                       Securities
+                                                                                           80%         100%
+                                                       Debt Instruments                     0%         20%
+ Flexi    Cap ULIF04312/02/26ABSLFLXCA                 Money Market & Cash                  0%         20%
+                                             High
+ Fund         P109                                     Equities &     Equity    Related
+                                                       Securities                          80%         100%
+* In each segregated Fund except Liquid Plus, the Short Term Debt Instruments (Money Market, Mutual Fund
+& Cash) asset allocation will not exceed 40%.
+
+
+
+
+                                                                                             V06 – June 2026
+ Aditya Birla Sun Life Insurance                                                               Part E
+ Wealth Aspire Plan
+
+Money Market Instruments are debt instruments of less than one year maturity. It includes collateralised
+borrowing & lending obligation, certificate of deposits, commercial papers etc. Investment in Money Market
+Instrument supports for better liquidity management.
+
+
+
+
+                                                                                              V06 – June 2026
+ Aditya Birla Sun Life Insurance                                                                              Part F
+ Wealth Aspire Plan
+
+GENERAL PROVISIONS
+
+1.Contract
+Your contract includes this policy document, the proposal for the policy and any amendments, endorsements agreed
+upon in writing after the policy is issued. The contract also includes declarations given by the policyholder, any
+medical report forms and written statements and answers furnished as evidence of insurability. We are bound only
+by statements that are part of the contract. Only Our authorized officers can agree to any change in the contract and
+the same shall become enforceable only when they are given in writing by the authorized officers.
+This contract does not provide for participation in the distribution of profits or surplus declared by us.
+All the communication/ documents including the Policy document will be sent and issued in electronic form unless
+a specific request is received from You to issue the Policy Document in physical form. It shall be Your responsibility
+to confirm Your address, email ID, mobile no, bank account details (contact information) or update any change in
+such contact information. In the event of non- receipt of the Contract You should contact Our Customer Care Unit
+before expiry of the Free-Look Period.
+For more details on E-Insurance Policy, please visit Our website or contact Our Relationship Manager.
+As the purchase of policy shall be in electronic mode through online or electronic application the Application form
+and Sales Illustration shall be validated through One-time password (OTP) sent on Your mobile number/e-mail ID
+and undertaking obtained in the Client Declaration form if any or through any other means as may be notified by the
+Company from time to time.
+
+
+2.Currency and Place of Payment
+All payments to or by us will be in accordance with the prevailing Exchange Control regulations and other relevant
+laws and regulations of India.
+Indian Rupee (Rs.) is the currency of this policy. We will make or accept payments relating to this policy at any of our
+offices in India or such other locations as determined by us from time to time.
+
+
+3.Assignment
+Assignment is allowed as per the provisions of Section 38 of the Insurance Act, 1938 as amended from time to time.
+For more details on the assignment, please refer to Annexure A.
+
+
+4.Nomination
+Nomination is allowed as per the provisions of Section 39 of the Insurance Act, 1938 as amended from time to time.
+For more details on the nomination, please refer to Annexure B.
+
+
+5.Force Majeure
+We shall derive the NAV on each Business Day. However, We may do so less frequently in case of a Force Majeure
+Event, where the value of the assets is too uncertain. In such circumstances, We may defer the valuation of assets
+for up to 30 days until we are certain that the valuation of Funds can be resumed. In which case, We shall inform
+IRDAI of such deferment in the valuation.
+
+
+During the continuance of the Force Majeure events, all requests for servicing the Policy including Policy related
+payment shall be kept in abeyance. We shall continue to invest as per the Fund mandates submitted with IRDAI.
+However, We reserve Our right to change the exposure of all or any part of the Funds to Money Market Instruments
+[as defined under applicable IRDAI law/regulation as amended from time to time] in circumstances mentioned under
+
+
+
+                                                                                                             V06 – June 2026
+ Aditya Birla Sun Life Insurance                                                                         Part F
+ Wealth Aspire Plan
+
+above. The exposure of the Fund as per the Fund mandates submitted with IRDAI, shall be reinstated within
+reasonable timelines once the Force Majeure Event ends.
+Some of the examples of the Force Majeure Event circumstances as mentioned are:
+•when one or more stock exchanges which provide a basis for valuation of the assets of the fund are closed otherwise
+than for ordinary holidays.
+•when, as a result of political, economic, monetary or any circumstances which are not in Our control, the disposal
+of the assets of the fund would be detrimental to the interests of the continuing policyholders.
+•in the event of natural calamities, strikes, war, civil unrest, riots and bandhs.
+•in the event of any force majeure or disaster that affects Our normal functioning.
+In such an event, an intimation of Force Majeure Event shall be uploaded on Our website for information
+
+
+6.Claim Procedures
+The Policyholder/Nominee should notify the claim with proof of claim at the nearest Aditya Birla Sun Life Insurance
+Co. Ltd. Branch office or through our Customer Portal https://lifeinsurance.adityabirlacapital.com/customer-
+service/claim-procedure/online-claim          or       to        the         ‘Claims        Department’          at
+claimsnotification.lifeinsurance@adityabirlacapital.com and the claim documents to be simultaneously sent at
+Aditya Birla Sun Life Insurance Company Limited, G- Corp Tech Park, 5th & 6th Floor, Kasar Vadavali, Near Hypercity
+Mall, Ghodbunder Road, Thane (West) – 400601.
+
+
+The claim is required to be intimated to us within a period of 90 days from the date of death. However, we may
+condone the delay in claim intimation, if any, and the delay is proved to be for reasons beyond the control of the
+claimant.
+
+
+For processing a claim (be it on maturity or death) under this policy the following documents are required:
+
+
+For Maturity Benefit:
+ Original policy document
+ Claimant’s statement
+For Death Benefit:
+Mandatory Claim Requirements:
+ Original policy document
+ Claimant’s statement
+ Death Certificate (only in the case of the death of the Life Insured)
+ KYC Document of beneficiary (Self attested copy)
+ Relationship of beneficiary with Life Insured
+ Bank details of the beneficiary
+
+
+Additional Requirements: (Claims within 3 years from date of issue/Revival)
+ Medical Attendant’s Certificate, if any
+ Employer’s Certificate, if applicable
+ Hospital or treatment records, if any (Self attested copy)
+
+
+
+
+                                                                                                        V06 – June 2026
+ Aditya Birla Sun Life Insurance                                                                            Part F
+ Wealth Aspire Plan
+
+Additional Requirements for Accidental/Unnatural Death:
+   1) FIR & Final Police Closure Report
+   2) Post Mortem Report
+   3) Policy Inquest Report/Inquest Panchnama
+   4) News Paper Cutting (if any)
+
+
+For processing Maturity claim under this Policy, Maturity proceeds shall be credited in Policyholder’s bank account
+as per the bank details available in our records. In case of any change in the bank details You are requested to update
+the bank details by submitting a request at the nearest Aditya Birla Sun Life Insurance Co. Ltd. branch office or
+through our website https://lifeinsurance.adityabirlacapital.com/ or Customer Portal or any other mode as allowed
+by the company.
+Any other relevant information/ document as may be required by ABSLI depending on the circumstances of the death
+or illness needs to be provided.
+Beneficiary can download the claim documents from our website https://lifeinsurance.adityabirlacapital.com/ or can
+obtain the same from any of ABSLI branches. In case You are unable to provide any or all the above documents, in
+exceptional circumstances such as a natural calamity, we may at our own discretion conduct an investigation/
+verification and accord a claim decision. More details on the Turn Around Time (TAT) for claims settlement and brief
+procedure can be found on https://lifeinsurance.adityabirlacapital.com/customer-service/service-tats. For any
+further queries, You can call us at our toll free no. 1800 270 7000 or email us at Aditya Birla Capital - Life Insurance
+claims.lifeinsurance@adityabirlacapital.com. The link for downloading claim form and list of documents required is
+https://lifeinsurance.adityabirlacapital.com/customer-service/claim-procedure/online-claim/claim-forms-and-
+downloads.
+
+
+Claimant/Beneficiary may intimate Us about Death claim via the following ways:
+• Online intimation through ABSLI Website (https://lifeinsurance.adityabirlacapital.com/)
+• Through e-mail on claims.lifeinsurance@adityabirlacapital.com
+• Visit nearest ABSLI Branch Offices
+
+
+7.Policy Servicing
+All servicing related requests should be in writing and delivered to Us through any of the following modes:
+
+•You can email us at care.lifeinsurance@adityabirlacapital.com, or
+
+•For NRI Customer, you can email us at absli.nrihelpdesk@adityabirlacapital.com or
+
+•Visit Our nearest Branch Office
+
+More details on the Turn Around Time (TAT) for processing any servicing related request can be found on
+https://lifeinsurance.adityabirlacapital.com/customer-service/service-tats . The link for downloading applicable
+forms and list of documents for servicing related request is https://lifeinsurance.adityabirlacapital.com/forms-and-
+downloads/policy-servicing-forms . For any further assistance that You may require, You can call us at our toll free
+no. 1800 270 7000 or get in touch with Our relationship manager.
+
+
+8.Reduction of Premium Payment Term:
+The policyholder shall have an option to reduce the premium payment term provided the policy is inforce for full
+sum assured and provided that such reduction is subject to boundary conditions of the product. This option shall be
+available only after the basic premiums have been paid in full for the first five policy years.
+
+
+                                                                                                           V06 – June 2026
+ Aditya Birla Sun Life Insurance                                                                            Part F
+ Wealth Aspire Plan
+
+
+9.Taxation
+The income tax benefits on your policy will be as per prevailing Income Tax laws in India and any amendment(s)
+made thereto from time to time. As per the applicable laws and any amendments made thereto from time to time,
+we reserve the right to:
+ deduct or withhold tax as the case may be; and
+ recover levies, taxes, cesses and duties including but not limited to GST from you or adjust the same from the
+  amounts paid by you or accrued or payable to you under the policy.
+
+
+10.Misstatement of Age
+If the date of birth of the Life Insured has been misstated and the policyholder has paid less installment premium
+than would have been payable for correct age, the company would be entitled to charge and the policyholder would
+be obliged to pay for such premium difference since inception of the policy with interest at the rate as applicable to
+the policy loan to continue this policy. In case of termination of the policy any unpaid balance will be adjusted from
+the benefit payout.
+If at the correct age, the Life Insured was not insurable under this policy according to our requirements, we reserve
+the right to pay the premiums paid till date and terminate the policy in accordance with Section 45 of the Insurance
+Act, 1938 as amended from time to time.
+
+
+11.Suicide
+In case of death due to suicide within 12 months from the date of commencement of the policy or from the date of
+revival of the policy, as applicable, the nominee or the beneficiary of the policyholder shall be entitled to the Policy
+fund value, as available on the date of intimation of death.
+Further any charges other than Fund Management Charges (FMC) recovered subsequent to the date of death shall
+be added back to the Policy fund value as available on the date of intimation of death.
+
+
+12.Fraud and Misrepresentation
+Fraud and Misrepresentation would be dealt with in accordance with accordance with provisions of Section 45 of
+the Insurance Act, 1938 as amended from time to time. For more details on Section 45 of the Insurance Act, 1938
+please refer to Annexure C.
+
+
+13.Electronic Transactions
+You will comply with all the terms and conditions with respect to all transactions effected by or through facilities for
+conducting remote transactions including the internet, world wide web, electronic data interchange, call centre, tele-
+service operations or by other means of telecommunication established by Us or on Our behalf, for and in respect of
+the Policy or services, which will constitute legally binding and valid transactions when executed in adherence to and
+in compliance with the terms and conditions for such facilities.
+
+14.Communication and Notices
+ All notices meant for Us should be in writing and delivered to Our address as mentioned in Part G or such other
+ address as We may notify from time to time.
+
+15.Governing Law and Jurisdiction
+   The Policy shall be interpreted in accordance with and governed by the laws of India and only competent courts
+   at the place of issue of this Policy shall have jurisdiction to entertain legal action.
+
+
+
+
+                                                                                                           V06 – June 2026
+ Aditya Birla Sun Life Insurance                                                                           Part G
+ Wealth Aspire Plan
+
+Grievance or Complaint
+You may register your grievance or complaint any of Our nearest branches or with our Grievance Officer at Customer
+Care Unit / Aditya Birla Sun Life Insurance Company Ltd. Aditya Birla Sun Life Insurance Company Ltd., at G- Corp
+Tech Park, 5th & 6th Floor, Kasar Vadavali, Near Hypercity Mall, Ghodbunder Road, Thane (West) – 400601 or at
+Company’s registered address at One World Centre, Tower 1, 16th Floor, Jupiter Mill Compound, 841, Senapati Bapat
+Marg, Elphinstone Road, Mumbai – 400013.
+
+
+
+You may also lodge your grievance or compliant complaint with any of Our nearest branches or also call Our toll free
+no. 1-800-270-7000 or on Whatsapp no. 8828800040 or email: care.lifeinsurance@adityabirlacapital.com and for
+NRI Customers -absli.nrihelpdesk@adityabirlacapital.com or You may also register your grievance on our web portal
+https://lifeinsurance.adityabirlacapital.com/grievance-redressal.
+In case you are dissatisfied with the decision of the above office or have not received any response with 7 days, you
+may contact Head Service Assurance at Customer Care Unit / Aditya Birla Sun Life Insurance Company Ltd. / at G-
+Corp Tech Park, 5th & 6th Floor, Kasar Vadavali, Near Hypercity Mall, Ghodbunder Road, Thane (West) – 400601 or
+at Company’s registered address at One World Centre, Tower 1, 16th Floor, Jupiter Mill Compound, 841, Senapati
+Bapat Marg, Elphinstone Road, Mumbai – 400013. You may also call our toll free no. 1-800-270-7000 or (Timings:
+Daily 10 a.m. to 7 p.m.) Whatsapp no. 8828800040 or email: Grievance.lifeinsurance@adityabirlacapital.com.
+The complaint should be made in writing duly signed or through email by the complainant or by his/her legal heirs
+with full details of the complaint and the contact information of complainant.
+For senior citizens, We provide priority redressal of grievances and complaints. Please email Us at:
+ABSLI.SeniorcitizenLifeinsurance@adityabirlacapital.com
+If you are not satisfied with the response or do not receive a response from us within 14 days, you may approach the
+Grievance Cell of the Insurance Regulatory and Development Authority of India (IRDAI) on the following contact
+details:
+IRDAI Grievance Call Centre- Bima Bharosa Shikayat Nivaran Kendra (IGCC) TOLL FREE NO: 155255
+Email ID: complaints@irda.gov.in
+You can also register your complaint online at
+https://bimabharosa.irdai.gov.in
+Address for communication for complaints by fax/paper:
+
+
+By Phone : 155255 or 1800 4254 732
+Policyholder's protection & Grievance Redressal Department – Grievance Redressal Cell
+Insurance Regulatory and Development Authority of India,
+4th Floor, Sy No. 115/1, Financial District,
+Nanakramguda,Gachibowli, Hyderabad – 500032
+Ph: (040) 20204000
+
+
+Insurance Ombudsman
+In case you are dissatisfied with the decision/resolution of the Company or For redressal of Claims related grievances,
+or have not received Our response within 1 month from the date of filing Your Complaint, then you may approach
+the Insurance Ombudsman located nearest to you (please refer to Appendix I below. You are requested to visit
+http://www.cioins.co.in/Ombudsman for updated details.
+                                                                                                          V06 - June/2026
+ Aditya Birla Sun Life Insurance                                                                            Part G
+ Wealth Aspire Plan
+
+The Ombudsman, as per Insurance Ombudsman Rules, 2017, can receive and consider complaints or disputes
+relating to the matters such as:
+a) Delay in settlement of claims, beyond the time specified in the regulations, framed under the Insurance
+   Regulatory and Development Authority of India Act,1999
+b) Any partial or total repudiation of claims by the life insurer, General insurer or the health insurer;
+c) Disputes over premium paid or payable in terms of insurance policy;
+d) Misrepresentation of policy terms and conditions at any time in the policy document or policy contract;
+e) Legal construction of insurance policies insofar as the dispute relates to claim;
+f)   Policy servicing related grievances against insurers and their agents and intermediaries;
+g) Issuance of life insurance policy, general insurance policy including health insurance policy which is not in
+   conformity with the proposal form submitted by the proposer;
+h) Non-issuance of insurance policy after receipt of premium in life insurance and general insurance including
+   health insurance; and
+i)   Any other matter resulting from the violation of provisions of the Insurance Act, 1938, as amended from time to
+     time, or the regulations, circulars , guidelines or instructions issued by IRDAI from time to time or the terms and
+     conditions of the policy contract, in so far as they relate to issues mentioned at clauses (a) to (f).
+
+
+     As per provision 14(3) of the Insurance Ombudsman Rules 2017, the complaint to the Ombudsman can be made
+     only if:
+ -   the complainant has made a representation in writing or through electronic mail or online through website of
+     the insurer named in the complaint and
+     (i) either the insurer had rejected the complaint; or
+     (ii) the complainant had not received any reply within a period of one month after the insurer received his
+     representation; or
+     (iii) the complainant is not satisfied with the reply given to him by the insurer;
+    The complaint is made within one year
+     (i) after the order of the insurer rejecting the representation is received; or
+     (ii) after receipt of decision of the insurer which is not to the satisfaction of the complainant;
+     (iii) after expiry of a period of one month from the date of sending the written representation to the insurer if
+     the insurer named fails to furnish reply to the complainant.
+
+
+Risk Factors / Disclaimers
+This policy is underwritten by Aditya Birla Sun Life Insurance Company Limited (ABSLI) and is a non-participating unit
+linked life insurance plan. Aditya Birla Sun Life Insurance and Wealth Aspire Plan are only the names of the Company
+and Policy respectively and do not in any way indicate their quality, future prospects or returns. The names of the
+funds offered in this plan do not in any way indicate their quality, future prospects or returns. Unless specifically
+stated as guaranteed, policy Charges can be modified by the company subject to the specified limits and prior IRDAI
+approval. The value of the segregated fund reflects the value of the underlying investments. These investments are
+subject to market risks and change in fundamentals such as tax rates etc affecting the investment portfolio. The
+premium paid in unit linked life insurance policies are subject to investment risk associated with capital markets and
+the Unit Price of the Units may go up or down based on the performance of segregated fund and factors influencing
+the capital market and the policyholder is responsible for his/her decisions. There is no guarantee or assurance of
+returns from the segregated fund/s. ABSLI reserves the right to recover levies such as GST levied by the authorities
+on insurance transactions. If there be any additional levies, they too will be recovered from you. Tax benefit is subject
+to changes in tax laws.
+                                                                                                            V06 - June/2026
+Aditya Birla Sun Life Insurance                                        Part G
+Wealth Aspire Plan
+
+
+NOTWITHSTANDING ANYTHING CONTAINED IN THIS POLICY DOCUMENT, THE PROVISIONS
+HEREIN SHALL STAND ALTERED, AMENDED, MODIFIED OR SUPERCEDED TO SUCH EXTENT
+AND IN SUCH MANNER AS MAY BE REQUIRED BY ANY CHANGE IN THE APPLICABLE LAW
+(INCLUDING BUT NOT LIMITED TO ANY REGULATIONS MADE OR DIRECTIONS / INSTRUCTIONS
+OR GUIDELINES ISSUED BY THE IRDAI) OR ANY OTHER COMPETENT AUTHORITY OR AS MAY
+BE NECESSARY UNDER A JUDGEMENT OR ORDER /DIRECTION/ INSTRUCTION OF A COURT OF
+LAW.
+
+
+
+
+                                                                      V06 - June/2026
+Aditya Birla Sun Life Insurance                          Part G
+Wealth Aspire Plan
+
+                         Appendix-I*List of Ombudsman:
+
+
+
+
+                                                         V06 - June/2026
+ Aditya Birla Sun Life Insurance                                                                  Part G
+ Wealth Aspire Plan
+
+Office Details                               Jurisdiction of Office (Union Territory, District)
+
+AHMEDABAD - Dr. Pranai Prabhakar
+Office of the Insurance Ombudsman,
+Jeevan Prakash Building, 6th floor,          Gujarat,
+Tilak Marg, Relief Road,                     Dadra & Nagar Haveli,
+AHMEDABAD – 380 001.                         Daman and Diu.
+Tel.: 079 - 25501201/02
+Email: oio.ahmedabad@cioins.co.in
+
+BENGALURU – Ms. Neerja Kapur
+Office of the Insurance Ombudsman,
+Jeevan Soudha Building, PID No. 57-27-N-19
+Ground Floor, 19/19, 24th Main Road,         Karnataka.
+JP Nagar, Ist Phase, Bengaluru – 560 078.
+Tel.: 080 - 26652048 / 26652049
+Email: oio.bengaluru@cioins.co.in
+
+BHOPAL – Shri Ajay Kumar
+Office of the Insurance Ombudsman,
+1st floor,"Jeevan Shikha",
+60-B,Hoshangabad Road, Opp. Gayatri Mandir, Madhya Pradesh
+Arera Hills                                 Chattisgarh.
+Bhopal – 462 011.
+Tel.: 0755 - 2769201 / 2769202 / 2769203
+Email: oio.bhopal@cioins.co.in
+
+BHUBANESHWAR - Shri Rashmi Raman Singh
+62, Forest park,
+Bhubaneswar – 751 009.
+                                             Orissa
+Tel.: 0674 - 2596461
+/2596455/2596429/2596003
+Email: oio.bhubaneswar@cioins.co.in
+
+CHANDIGARH - Ms. Alka Jha
+                                             Punjab,
+Office Of The Insurance Ombudsman,
+                                             Haryana(excluding Gurugram, Faridabad, Sonepat
+Jeevan Deep Building SCO 20-27,
+                                             and Bahadurgarh)
+Ground Floor Sector- 17 A,
+                                             Himachal Pradesh, Union Territories of Jammu &
+Chandigarh – 160 017.
+                                             Kashmir,
+Tel.: 0172-2706468
+                                             Ladakh & Chandigarh.
+Email: oio.chandigarh@cioins.co.in
+
+CHENNAI - Shri K.Vinayak Rao
+Office of the Insurance Ombudsman,
+                                             Tamil Nadu,
+Fatima Akhtar Court, 4th Floor, 453,
+Anna Salai, Teynampet,
+                                             Puducherry Town and
+CHENNAI – 600 018.
+                                             Karaikal (which are part of Puducherry).
+Tel.: 044 - 24333668 / 24333678
+Email: oio.chennai@cioins.co.in
+
+                                                                                                  V06 - June/2026
+Aditya Birla Sun Life Insurance                                                              Part G
+Wealth Aspire Plan
+
+DELHI - Shri Mukhmeet Singh Bhatia
+Office of the Insurance Ombudsman,
+2/2 A, Universal Insurance Building,           Delhi &
+Asaf Ali Road,                                 Following Districts of Haryana - Gurugram,
+New Delhi – 110 002.                           Faridabad, Sonepat & Bahadurgarh.
+Tel.: 011 - 46013992/23213504/23232481
+Email: oio.delhi@cioins.co.in
+
+GUWAHATI - Shri Ajay Kumar Sharma
+                                               Assam,
+Office of the Insurance Ombudsman,
+                                               Meghalaya,
+Jeevan Nivesh, 5th Floor,
+                                               Manipur,
+Near Pan Bazar , S.S. Road,
+                                               Mizoram,
+Guwahati – 781001(ASSAM).
+                                               Arunachal Pradesh,
+Tel.: 0361 - 2632204 / 2602205 / 2631307
+                                               Nagaland and Tripura.
+Email: oio.guwahati@cioins.co.in
+
+HYDERABAD - Ms G Shobha Reddy
+Office of the Insurance Ombudsman,
+6-2-46, 1st floor, "Moin Court",
+                                               Andhra Pradesh,
+Lane Opp. Hyundai Showroom ,
+                                               Telangana,
+A. C. Guards, Lakdi-Ka-Pool, Hyderabad - 500
+                                               Yanam and
+004.
+                                               part of Union Territory of Puducherry.
+Tel.: 040 - 23312122 / 23376991 / 23376599 /
+23328709 / 23325325
+Email: oio.hyderabad@cioins.co.in
+
+JAIPUR – Shri Satyajeet Rajan
+Office of the Insurance Ombudsman,
+Jeevan Nidhi – II Bldg., Gr. Floor,
+Bhawani Singh Marg,                            Rajasthan.
+Jaipur - 302 005.
+Tel.: 0141- 2740363
+Email: oio.jaipur@cioins.co.in
+
+Kochi - Shri Pradeep Kumar Jain
+
+Office of the Insurance Ombudsman,
+10th Floor, Jeevan Prakash, LIC Building,    Kerala,
+Opp to Maharaja's College Ground, M.G. Road, Lakshadweep,
+Kochi - 682 011.                             Mahe-a part of Union Territory of Puducherry.
+Tel.: 0484 - 2358759
+Email: oio.ernakulam@cioins.co.in
+
+
+
+
+                                                                                             V06 - June/2026
+Aditya Birla Sun Life Insurance                                                                      Part G
+Wealth Aspire Plan
+
+KOLKATA - Ms. Manju Bagga
+Office of the Insurance Ombudsman,
+Hindustan Bldg. Annexe, 7th Floor,            West Bengal,
+4, C.R. Avenue,                               Sikkim,
+KOLKATA - 700 072.                            Andaman & Nicobar Islands.
+Tel.: 033 - 22124339 / 22124341
+Email: oio.kolkata@cioins.co.in
+
+                                              Districts of Uttar Pradesh :
+                                              Lalitpur, Jhansi, Mahoba, Hamirpur, Banda,
+LUCKNOW- Shri Sanjai Singh                    Chitrakoot, Allahabad, Mirzapur, Sonbhabdra,
+Office of the Insurance Ombudsman,            Fatehpur, Pratapgarh, Jaunpur, Varanasi, Gazipur,
+6th Floor, Jeevan Bhawan, Phase-II,           Jalaun, Kanpur, Lucknow, Unnao, Sitapur,
+Nawal Kishore Road, Hazratganj,               Lakhimpur, Bahraich, Barabanki, Raebareli, Sravasti,
+Lucknow - 226 001.                            Gonda, Faizabad, Amethi, Kaushambi, Balrampur,
+Tel.: 0522 - 4002082 / 3500613                Basti, Ambedkarnagar, Sultanpur, Maharajgang,
+Email: oio.lucknow@cioins.co.in               Santkabirnagar, Azamgarh, Kushinagar, Gorkhpur,
+                                              Deoria, Mau, Ghazipur, Chandauli, Ballia,
+                                              Sidharathnagar.
+
+MUMBAI –Ms Sarojini S Dikhale
+                                              Jurisdiction : List of wards under Mumbai
+Office of the Insurance Ombudsman,
+3rd Floor, Jeevan Seva Annexe,                Metropolitan Region excluding wards in Mumbai –
+S. V. Road, Santacruz (W),                    i.e M/E, M/W, N , S and T covered under
+Mumbai - 400 054.
+                                              Office of Insurance Ombudsman Thane and
+Tel.: 022 - 69038800/27/29/31/32/33
+                                              excluding areas of Navi Mumbai.
+Email: oio.mumbai@cioins.co.in
+
+                                              State of Uttaranchal and the following Districts of
+                                              Uttar Pradesh:
+NOIDA - Shri Rajiv Talwar
+                                              Agra, Aligarh, Bagpat, Bareilly, Bijnor, Budaun,
+Office of the Insurance Ombudsman,
+                                              Bulandshehar, Etah, Kanooj, Mainpuri, Mathura,
+Bhagwan Sahai Palace
+                                              Meerut, Moradabad, Muzaffarnagar, Oraiyya,
+4th Floor, Main Road, Naya Bans, Sector 15,
+                                              Pilibhit, Etawah, Farrukhabad, Firozbad,
+Distt: Gautam Buddh Nagar, U.P-201301.
+                                              Gautambodhanagar, Ghaziabad, Hardoi,
+Tel.: 0120-2514252 / 2514253
+                                              Shahjahanpur, Hapur, Shamli, Rampur, Kashganj,
+Email: oio.noida@cioins.co.in
+                                              Sambhal, Amroha, Hathras, Kanshiramnagar,
+                                              Saharanpur.
+
+PATNA - Shri Inderjeet Singh
+Office of the Insurance Ombudsman,
+2nd Floor, Lalit Bhawan,
+                                              Bihar,
+Bailey Road,
+                                              Jharkhand.
+Patna 800 001.
+Tel.: 0612-2547068
+Email: oio.patna@cioins.co.in
+
+
+
+
+                                                                                                    V06 - June/2026
+ Aditya Birla Sun Life Insurance                                                                           Part G
+ Wealth Aspire Plan
+
+PUNE - Ms. Rachna Khare
+Office of the Insurance Ombudsman,
+                                                    State of Goa and State of Maharashtra excluding
+Jeevan Darshan Bldg., 3rd Floor,
+                                                    areas of Navi Mumbai, Thane district, Palghar
+C.T.S. No.s. 195 to 198, N.C. Kelkar Road,
+                                                    District, Raigad district & Mumbai Metropolitan
+Narayan Peth, Pune – 411 030.
+                                                    Region
+Tel.: 020-24471175
+Email: oio.pune@cioins.co.in
+
+Thane - Shri Umesh Sinha
+
+Office of the Insurance Ombudsman,
+2nd Floor, Jeevan Chintamani Building,              Area of Navi Mumbai, Thane District, Raigad District,
+Vasantrao Naik Mahamarg,                            Palghar District and wards of Mumbai, M/East,
+Thane (West)- 400604                                M/West, N, S and T.
+Tel.: 022-20812868/69
+Email: oio.thane@cioins.co.in
+
+
+*For updated list of Ombudsman please refer to the website at http://www.cioins.co.in/Ombudsman
+
+
+                                                    ANNEXURE A
+
+
+Section 38 - Assignment and Transfer of Insurance Policies
+Assignment or transfer of a policy should be in accordance with Section 38 of the Insurance Act, 1938 as amended
+by the Insurance Laws (Amendment) Act, 2015. The extant provisions in this regard are as follows:
+o   This policy may be transferred/assigned, wholly or in part, with or without consideration.
+o   An Assignment may be effected in a policy by an endorsement upon the policy itself or by a separate instrument
+    under notice to the Insurer.
+o   The instrument of assignment should indicate the fact of transfer or assignment and the reasons for the
+    assignment or transfer, antecedents of the assignee and terms on which assignment is made.
+o   The assignment must be signed by the transferor or assignor or duly authorized agent and attested by at least
+    one witness.
+o   The transfer of assignment shall not be operative as against an insurer until a notice in writing of the transfer or
+    assignment and either the said endorsement or instrument itself or copy there of certified to be correct by both
+    transferor and transferee or their duly authorised agents have been delivered to the insurer.
+o   Fee to be paid for assignment or transfer can be specified by the Authority through Regulations.
+o   On receipt of notice with fee, the insurer should Grant a written acknowledgement of receipt of notice. Such
+    notice shall be conclusive evidence against the insurer of duly receiving the notice.
+o   If the insurer maintains one or more places of business, such notices shall be delivered only at the place where
+    the policy is being serviced.
+o   The insurer may accept or decline to act upon any transfer or assignment or endorsement, if it has sufficient
+    reasons to believe that it is
+    (a) not bonafide or
+    (b) not in the interest of the policyholder or
+    (c) not in public interest or
+    (d) is for the purpose of trading of the insurance policy.
+                                                                                                           V06 - June/2026
+ Aditya Birla Sun Life Insurance                                                                            Part G
+ Wealth Aspire Plan
+
+o    Before refusing to act upon endorsement, the Insurer should record the reasons in writing and communicate the
+     same in writing to Policyholder within 30 days from the date of policyholder giving a notice of transfer or
+     assignment.
+o    In case of refusal to act upon the endorsement by the Insurer, any person aggrieved by the refusal may prefer a
+     claim to IRDAI within 30 days of receipt of the refusal letter from the Insurer.
+o    The priority of claims of persons interested in an insurance policy would depend on the date on which the notices
+     of assignment or transfer is delivered to the insurer; where there are more than one instruments of transfer or
+     assignment, the priority will depend on dates of delivery of such notices. Any dispute in this regard as to priority
+     should be referred to Authority.
+o       Every assignment or transfer shall be deemed to be absolute assignment or transfer and the assignee or
+        transferee shall be deemed to be absolute assignee or transferee, except
+     i.     where assignment or transfer is subject to terms and conditions of transfer or assignment OR
+    ii.     where the transfer or assignment is made upon condition that
+                  the proceeds under the policy shall become payable to policyholder or Nominee(s) in the event of
+                     assignee or transferee dying before the insured OR
+                  the insured surviving the term of the policy. Such conditional assignee will not be entitled to obtain
+                     a loan on policy or Surrender the policy. This provision will prevail notwithstanding any law or
+                     custom having force of law which is contrary to the above position.
+o   In other cases, the insurer shall, subject to terms and conditions of assignment, recognize the transferee or
+    assignee named in the notice as the absolute transferee or assignee and such person
+(a) shall be subject to all liabilities and equities to which the transferor or assignor was subject to at the date of
+    transfer or assignment and
+(b) may institute any proceedings in relation to the policy
+(c) obtain loan under the policy or Surrender the policy without obtaining the consent of the transferor or assignor
+    or making him a party to the proceedings
+o    Any rights and remedies of an assignee or transferee of a life insurance policy under an assignment or transfer
+     effected before commencement of the Insurance Laws (Amendment) Act, 2015 shall not be affected by this
+     section.
+
+
+[Disclaimer: This is not a comprehensive list of amendments of the Insurance Laws (Amendment) Act, 2015 and
+only a simplified version prepared for general information. Policy Holders are advised to refer to Original Act
+Gazette Notification dated March 23, 2015 for complete and accurate details.]
+
+
+
+
+                                                                                                            V06 - June/2026
+ Aditya Birla Sun Life Insurance                                                                          Part G
+ Wealth Aspire Plan
+
+
+
+
+                                                    ANNEXURE B
+
+
+Section 39 - Nomination by Policyholder
+Nomination of a life insurance Policy is as below in accordance with Section 39 of the Insurance Act, 1938 as amended
+by the Insurance Laws (Amendment) Act, 2015. The extant provisions in this regard are as follows:
+1. The policyholder of a life insurance on his own life may nominate a person or persons to whom money secured
+   by the policy shall be paid in the event of his death.
+2. Where the Nominee is a minor, the policyholder may appoint any person to receive the money secured by the
+   policy in the event of policyholder’s death during the minority of the Nominee. The manner of appointment to
+   be laid down by the insurer.
+3. Nomination can be made at any time before the maturity of the policy.
+4. Nomination may be incorporated in the text of the policy itself or may be endorsed on the policy communicated
+   to the insurer and can be registered by the insurer in the records relating to the policy.
+5. Nomination can be cancelled or changed at any time before policy matures, by an endorsement or a further
+   endorsement or a will as the case may be.
+6. A notice in writing of Change or Cancellation of nomination must be delivered to the insurer for the insurer to
+   be liable to such Nominee. Otherwise, insurer will not be liable if a bonafide payment is made to the person
+   named in the text of the policy or in the registered records of the insurer.
+7. Fee to be paid to the insurer for registering change or cancellation of a nomination can be specified by the
+   Authority through Regulations.
+8. On receipt of notice with fee, the insurer should grant a written acknowledgement to the policyholder of having
+   registered a nomination or cancellation or change thereof.
+9. A transfer or assignment made in accordance with Section 38 shall automatically cancel the nomination except
+   in case of assignment to the insurer or other transferee or assignee for purpose of loan or against security or its
+   reassignment after repayment. In such case, the nomination will not get cancelled to the extent of insurer’s or
+   transferee’s or assignee’s interest in the policy. The nomination will get revived on repayment of the loan.
+
+
+
+                                                                                                         V06 - June/2026
+ Aditya Birla Sun Life Insurance                                                                            Part G
+ Wealth Aspire Plan
+
+10. The right of any creditor to be paid out of the proceeds of any policy of life insurance shall not be affected by the
+    nomination.
+11. In case of nomination by policyholder whose life is insured, if the Nominees die before the policyholder, the
+    proceeds are payable to policyholder or his heirs or legal representatives or holder of succession certificate.
+12. In case Nominee(s) survive the person whose life is insured, the amount secured by the policy shall be paid to
+    such survivor(s).
+13. Where the policyholder whose life is insured nominates his
+     parents or
+     spouse or
+     children or
+     spouse and children
+     or any of them
+   the Nominees are beneficially entitled to the amount payable by the insurer to the policyholder unless it is proved
+   that policyholder could not have conferred such beneficial title on the Nominee having regard to the nature of
+   his title.
+
+
+14. If Nominee(s) die after the policyholder but before his share of the amount secured under the policy is paid, the
+    share of the expired Nominee(s) shall be payable to the heirs or legal representative of the Nominee or holder
+    of succession certificate of such Nominee(s).
+15. The provisions of sub-section 7 and 8 (13 and 14 above) shall apply to all life insurance policies maturing for
+    payment after the commencement of the Insurance Laws (Amendment) Act, 2015.
+16. If policyholder dies after maturity but the proceeds and benefit of the policy has not been paid to him because
+    of his death, his Nominee(s) shall be entitled to the proceeds and benefit of the policy.
+17. The provisions of Section 39 are not applicable to any life insurance policy to which Section 6 of Married Women’s
+    Property Act, 1874 applies or has at any time applied except where before or after the Insurance Laws
+    (Amendment) Act, 2015, a nomination is made in favour of spouse or children or spouse and children whether
+    or not on the face of the policy it is mentioned that it is made under Section 39. Where nomination is intended
+    to be made to spouse or children or spouse and children under Section 6 of MWP Act, it should be specifically
+    mentioned on the policy. In such a case only, the provisions of Section 39 will not apply.
+
+
+[Disclaimer: This is not a comprehensive list of amendments of the Insurance Laws (Amendment) Act, 2015 and
+only a simplified version prepared for general information. Policy Holders are advised to refer to Original Act
+Gazette Notification dated March 23, 2015 for complete and accurate details.]
+
+
+
+
+                                                                                                            V06 - June/2026
+    Aditya Birla Sun Life Insurance                                                                      Part G
+    Wealth Aspire Plan
+
+                                                    ANNEXURE C
+
+
+Section 45 – Policy shall not be called in question on the ground of mis-statement after three years
+Provisions regarding policy not being called into question in terms of Section 45 of the Insurance Act, 1938, as
+amended by the Insurance Laws (Amendment) Act, 2015 are as follows:
+    No Policy of Life Insurance shall be called in question on any ground whatsoever after expiry of 3 yrs from
+      the date of issuance of policy or
+      the date of commencement of risk or
+      the date of revival of policy or
+      the date of rider to the policy
+     whichever is later.
+    On the ground of fraud, a policy of Life Insurance may be called in question within 3 years from
+               the date of issuance of policy or
+               the date of commencement of risk or
+               the date of revival of policy or
+               the date of rider to the policy
+     whichever is later.
+     For this, the insurer should communicate in writing to the insured or legal representative or Nominee or
+     assignees of insured, as applicable, mentioning the ground and materials on which such decision is based.
+    Fraud means any of the following acts committed by insured or by his agent, with the intent to deceive the
+     insurer or to induce the insurer to issue a life insurance policy:
+     o     The suggestion, as a fact of that which is not true and which the insured does not believe to be true;
+     o     The active concealment of a fact by the insured having knowledge or belief of the fact;
+     o     Any other act fitted to deceive; and
+     o     Any such act or omission as the law specifically declares to be fraudulent.
+    Mere silence is not fraud unless, depending on circumstances of the case, it is the duty of the insured or his
+     agent keeping silence to speak or silence is in itself equivalent to speak.
+    No Insurer shall repudiate a life insurance Policy on the ground of Fraud, if the Insured / beneficiary can prove
+     that the misstatement was true to the best of his knowledge and there was no deliberate intention to suppress
+     the fact or that such mis-statement of or suppression of material fact are within the knowledge of the insurer.
+     Onus of disproving is upon the policyholder, if alive, or beneficiaries.
+    Life insurance Policy can be called in question within 3 years on the ground that any statement of or
+     suppression of a fact material to expectancy of life of the insured was incorrectly made in the proposal or
+     other document basis which policy was issued or revived or rider issued. For this, the insurer should
+     communicate in writing to the insured or legal representative or Nominee or assignees of insured, as
+     applicable, mentioning the ground and materials on which decision to repudiate the policy of life insurance is
+     based.
+    In case repudiation is on ground of mis-statement and not on fraud, the premium collected on policy till the
+     date of repudiation shall be paid to the insured or legal representative or Nominee or assignees of insured,
+     within a period of 90 days from the date of repudiation.
+    Fact shall not be considered material unless it has a direct bearing on the risk undertaken by the insurer. The
+     onus is on insurer to show that if the insurer had been aware of the said fact, no life insurance policy would
+     have been issued to the insured.
+    The insurer can call for proof of age at any time if he is entitled to do so and no policy shall be deemed to be
+     called in question merely because the terms of the policy are adjusted on subsequent proof of age of Life
+
+
+                                                                                                         V06 - June/2026
+ Aditya Birla Sun Life Insurance                                                                   Part G
+ Wealth Aspire Plan
+
+   Insured. So, this Section will not be applicable for questioning age or adjustment based on proof of age
+   submitted subsequently.
+
+
+[Disclaimer: This is not a comprehensive list of amendments of the Insurance Laws (Amendment) Act, 2015 and
+only a simplified version prepared for general information. Policy Holders are advised to refer to Original Act
+Gazette Notification dated March 23, 2015 for complete and accurate details.]
+
+
+
+
+                                                                                                   V06 - June/2026
+
