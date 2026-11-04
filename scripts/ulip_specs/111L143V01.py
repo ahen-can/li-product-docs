@@ -42,7 +42,7 @@ spec = {
  },
  'benefits': {
   'death_benefit_formula': F('highest of: fund value; sum assured less APW (not for minors); 105% of premiums paid', 'built-in', P, None, 'APW equals Partial Withdrawals, if any, in the last 2 years immediately preceding the death of the Life Assured.'),
-  'maturity_benefit': F('fund value as a lump sum', 'built-in', note='standard SBI maturity clause'),
+  'maturity_benefit': F('fund value as a lump sum', 'built-in', 'Policy Document', 30, 'We will pay Your Fund Value as the Maturity Benefit in lump-sum as on the Date of Maturity'),
   'loyalty_additions': F({'basis': '% of the 12-month average fund value', 'Y6': '1.0%', 'Y10': '2.5%', 'Y15': '3.5%', 'Y20': '5.0%', 'Y25': '6.0%', 'Y30': '7.0%'}, 'built-in', P, None,
                          'The Loyalty Additions would be calculated as a percentage of the average Fund Value.'),
   'wealth_boosters_or_guaranteed_additions': F(None, 'not offered'), 'return_of_mortality_charges': F(None, 'not offered'), 'return_of_premium_allocation_charges': F(None, 'not offered'), 'return_of_policy_admin_charges': F(None, 'not offered'), 'other_additions': NS(),
@@ -53,7 +53,7 @@ spec = {
   'partial_withdrawals': F('from year 6 and age 18; 2 free a year, up to 4 a year; 10 in the term (PT up to 10) or 15 (PT over 10)', 'optional (during term)', P, None, 'We will allow two free Partial Withdrawals in a Policy Year.'),
   'systematic_withdrawal_plan': F(None, 'not offered'),
   'top_up_premiums': F(None, 'not offered', P, None, 'Top up Premiums are not allowed under Your Policy.'),
-  'settlement_option': F('on death, in instalments to the claimant', 'optional (during term)', note='settlement-option clause present (clause 25 references "Date of payment under Settlement Option")'),
+  'settlement_option': F('on death, the claimant may take the death benefit in instalments over a settlement period', 'optional (during term)', 'Policy Document', 31, 'the Claimant may choose to get the Death Benefit in instalments during the Settlement Period'),
   'premium_holiday_or_offset': NS(), 'increase_decrease_cover': NS(), 'change_ppt_or_term': NS(),
   'policy_loan': F(None, 'not offered', P, None, 'Your Policy will not be eligible for any loans.'), 'auto_portfolio_strategies': F(None, 'not offered'),
  },

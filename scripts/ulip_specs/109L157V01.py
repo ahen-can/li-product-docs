@@ -94,7 +94,7 @@ spec = {
                         'critical_illness': NS(), 'accidental_death': NS(), 'terminal_illness': NS(), 'spouse_or_child_cover': F('Joint Life option lets any person with insurable interest be the secondary life', 'built-in', B, None, 'any person having insurable interest in the life of Primary Life can become'),
                         'riders_available': F(['ABSLI Waiver of Premium Rider (109A039V01), shown as Not Applicable in the plan at a glance'], 'rider', B, None, 'ABSLI Waiver of Premium Rider Not Applicable Rider (109A039V01)')},
  'surrender_revival': {
-  'lock_in_years': F(5, 'built-in', B, None, 'You have an option to surrender any time during the lock-in period.'),
+  'lock_in_years': F(5, 'built-in', B, None, 'You have an option to surrender any time during the lock-in period.', quote_2='• Discontinuance of the policy during the ﬁrst 5 policy years You have an option to surrender any time during the lock-in period. Upon receipt of request for', page_2=10),
   'discontinuance_rules': F('discontinuance in the first 5 years moves the fund, less the charge, to the Pension Discontinued Fund; the proceeds are paid at the end of the lock-in or revival period, whichever is later', 'built-in', B, None,
                             'the Regular/Limited/Single Fund Value after deduction of', quote_2='Discontinuance Charges are moved to the Pension Discontinued Fund.'),
   'revival_period': F('3 years from the date of the first unpaid premium', 'built-in', B, None, 'revival period of three years from date'),

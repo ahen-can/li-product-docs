@@ -61,7 +61,7 @@ spec = {
   'return_of_premium_allocation_charges': NS(), 'return_of_policy_admin_charges': NS(), 'other_additions': NS(),
  },
  'flexibility': {
-  'fund_switching': F('unlimited free switches; minimum Rs 5,000', 'optional (during term)', B, None, 'There is no limit on number of switches done in a policy year i.e. You may'),
+  'fund_switching': F('unlimited free switches; minimum Rs 5,000', 'optional (during term)', B, None, 'There is no limit on number of switches done in a policy year i.e. You may', quote_2='You may switch between available Funds at any time during the Policy Term, subject to a minimum Switch amount of ₹5,000. There is no limit on number of switches done in a policy year i.e. You may', page_2=23),
   'premium_redirection': F('up to 6 free redirections a year', 'optional (during term)', B, None, 'A maximum of six premium redirection are allowed in any policy year'),
   'partial_withdrawals': F({'from': 'after 5 policy years', 'frequency': 'up to 12 a year', 'minimum': 'Rs 5,000', 'maximum': '25% of fund value in a policy year; fund must stay at least 1 annualized premium (25% of single premium for single pay)'}, 'optional (during term)', B, None,
                            'thereafter a maximum of twelve partial withdrawals are allowed in any policy year.', quote_2='The minimum amount of partial withdrawal allowed per transaction is ₹5,000.', quote_3='The maximum amount of partial withdrawal allowed in any policy year is 25% of the Fund Value'),

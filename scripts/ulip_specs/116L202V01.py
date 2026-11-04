@@ -13,7 +13,7 @@ spec = {
   'variants_or_plan_options': NS(), 'target_segment_stated': NS(), 'online_offline': NS(),
  },
  'eligibility': {
-  'entry_age_min': F('0 years (risk cover starts at once)', 'n/a', B, None, 'Minimum Age at Entry'),
+  'entry_age_min': F('0 years (risk cover starts at once)', 'n/a', B, None, 'Minimum Age at Entry', quote_2='0 years In the case of minor life, the risk cover will commence immediately on date Minimum Age at Entry', page_2=14),
   'entry_age_max': F({'PPT 5 / PT 10, AP < 5 lakh': 54, 'PPT 5 / PT 10, AP >= 5 lakh': 59, 'other combinations': 60}, 'n/a', B, None, '• Annualized Premium < 5 Lakhs: 54 Years Maximum Age at Entry • Annualized Premium >= 5 Lakhs: 59 Years', quote_2='For All Other Premium Payment term and Policy term combinations: 60 Years'),
   'maturity_age_min': F(18, 'n/a', B, None, 'Minimum Age at Maturity 18 years'),
   'maturity_age_max': F(75, 'n/a', B, None, 'Maximum Age at Maturity 75 years'),
@@ -69,7 +69,7 @@ spec = {
                            'iv) The maximum amount of Partial Withdrawal at any one time is 50% of the Regular Premium Fund Value, as on the withdrawal request date.'),
   'systematic_withdrawal_plan': F('after year 5, policy term 10 years or more; % of fund value at a chosen frequency', 'optional (during term)', B, None, 'Systematic Partial Withdrawal is allowed only after completion of first five policy years'),
   'top_up_premiums': F({'minimum': 'Rs 5,000', 'not in': 'last 5 policy years', 'lock-in': '5 years each'}, 'optional (during term)', P, None, 'Top up Premiums at any time during the Policy Term, except during the last five (5) Policy Years'),
-  'settlement_option': F('maturity or death benefit in instalments over up to 5 years', 'optional (during term)', P, None, 'The Policyholder/Nominee will have the option to receive the Maturity Benefit or Death Benefit in installments'),
+  'settlement_option': F('maturity or death benefit in instalments over up to 5 years', 'optional (during term)', P, None, 'The Policyholder/Nominee will have the option to receive the Maturity Benefit or Death Benefit in installments', quote_2='spread over a maximum period of five (5) years. ii) If the Nominee chooses the settlement option, in case of death,', page_2=16),
   'premium_holiday_or_offset': NS(), 'increase_decrease_cover': F('SA falls in proportion when the premium is reduced', 'optional (during term)', P, None, 'reduced premium, the Sum Assured under the policy will be correspondingly reduced'),
   'change_ppt_or_term': F({'premium reduction': 'after year 5, by up to 50% of the original premium, once reduced cannot be raised'}, 'optional (during term)', P, None,
                           'The reduction can be up to a maximum percentage of 50% of the Regular Premium at the Policy Commencement Date subject to the minimum Annualized Premium allowed in the product.'),

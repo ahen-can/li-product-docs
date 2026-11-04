@@ -24,7 +24,7 @@ spec = {
   'entry_age_max': F('65 years', 'n/a', B, None, 'Entry Age (Age on last Birthday)', 'brochure table read in text order', quote_2='65 Years', page_2=2),
   'maturity_age_min': F('18 years (Wealth, Goal Secure); 24 years (Future, Family Secure)', 'n/a', B, None, 'Maturity Age (Age last Birthday)'),
   'maturity_age_max': F('100 (Wealth Secure); 85 (other options)', 'n/a', B, None, 'Maturity Age (Age last Birthday)', quote_2='• Loyalty Additions and Maturity Booster will boost your fund Wealth Secure 18 Years 100 Years value Future Secure 24 Years 85 Years', page_2=2),
-  'policy_term_options': F('minimum 5 years; see brochure for maximum by option', 'n/a', B, None, 'Minimum Policy Term'),
+  'policy_term_options': F('minimum 5 years; see brochure for maximum by option', 'n/a', B, None, 'Minimum Policy Term', quote_2='Minimum Policy Term 5 years for Single Pay, 6 years for Limited Pay, 10 years for', page_2=2),
   'ppt_options': F('single; limited 5 to 20 years; regular 10 to 50 years; no single pay for Future and Family Secure', 'n/a', B, None, 'Single Pay, Limited Pay – 5 to 20 years, Regular Pay – 10 to'),
   'premium_min_annual': F('Rs 1,200 a year (Wealth Secure); Rs 6,000 (other options)', 'n/a', B, None, 'Minimum Premium', 'same table layout as Smart SIP; read in text order', quote_2='Plan Options Single Premium Limited/ Regular Premium Wealth Secure ₹ 1,000 p.a ₹ 1,200 p.a b) The policyholder (in case the Life Insured is alive as on Future Secure - ₹ 6,000 p.a. the Maturity date).', page_2=3),
   'premium_min_single': F('Rs 1,000 (Wealth Secure, Goal Secure)', 'n/a', B, None, 'For Future Secure and Family Secure option Single Pay is', quote_2='Goal Secure Family Secure Single Premium ₹ 1,000 p.a', page_2=3),

@@ -57,7 +57,7 @@ spec = {
   'partial_withdrawals': F('after 5 policy anniversaries; minimum Rs 5,000; fund must stay above 1x AP; up to 4 a year', 'optional (during term)', P, None, 'Partial Withdrawal is allowed maximum up to 4 times in a Policy year.'),
   'systematic_withdrawal_plan': NS(),
   'top_up_premiums': F('not in the last 5 years; minimum Rs 5,000; SA 1.25x (under 50) or 1.10x', 'optional (during term)', P, None, 'Each Top-Up Premium shall not be less than Rupees Five Thousand (Rs. 5,000).'),
-  'settlement_option': F('on maturity, up to 5 years', 'optional (during term)', P, None, '4.6. SETTLEMENT OPTION'),
+  'settlement_option': F('on maturity, up to 5 years', 'optional (during term)', P, None, '4.6. SETTLEMENT OPTION', quote_2='period of time (termed as “Settlement Period”) provided that such period shall not exceed five years from the Maturity Date. The frequency of', page_2=9),
   'premium_holiday_or_offset': NS(),
   'increase_decrease_cover': F(None, 'not offered', P, None, 'Increase or decrease in Basic Sum Assured or TopUp Sum Assured is not allowed.'),
   'change_ppt_or_term': NS(),

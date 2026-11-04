@@ -815,7 +815,9 @@
    "doc": "Product Brochure",
    "page": 26,
    "quote": "C. Lock-in period:",
-   "note": null
+   "note": null,
+   "quote_2": "E. Discontinuance of Premium during Lock-in Period (during ﬁrst ﬁve years):",
+   "page_2": 26
   },
   "discontinuance_rules": {
    "value": "discontinuance in the first five years moves the fund, less the charge, to the Discontinued Policy Fund with a revival period; after year 5 the policy becomes reduced paid-up",

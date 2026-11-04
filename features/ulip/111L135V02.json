@@ -217,12 +217,14 @@
    "note": null
   },
   "mortality_charge": {
-   "value": "mortality charges apply (clause 34); the death benefit has little sum at risk (fund value or 105% of premiums)",
+   "value": {
+    "basis": "monthly, on the 1st working day of each policy month, by cancelling units: sum at risk times the annual mortality rate per unit"
+   },
    "status": "built-in",
-   "doc": null,
-   "page": null,
-   "quote": null,
-   "note": "clause 34 not quoted in this pass"
+   "doc": "Policy Document",
+   "page": 41,
+   "quote": "Mortality charges are recovered on a monthly basis, on the 1st working day of each Policy month",
+   "note": "the rate table sits in clause 34 and is not copied here"
   },
   "discontinuance_charge": {
    "value": "IRDAI-cap table by AP up to / above Rs 50,000 (lower of % x (AP or fund value), rupee cap); nil from year 5",

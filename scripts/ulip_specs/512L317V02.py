@@ -24,7 +24,7 @@ spec = {
   'premium_max': F('no limit', 'n/a', B, None, 'Maximum Premium : No Limits'),
   'sum_assured_rule': F({'option 1': '1.25 x single premium', 'option 2': '10 x single premium'}, 'built-in', B, None, 'Under Option 1 : 1.25 times of the single premium Under Option 2 : 10 times of the single premium'),
   'premium_modes': F('single premium only', 'n/a', B, None, 'Premium Paying Mode : Single Premium only'),
-  'life_cover_multiple_choice': F('Option 1 or Option 2, fixed at inception', 'optional (at inception)', B, None, 'The option once selected cannot be altered.'),
+  'life_cover_multiple_choice': F('Option 1 or Option 2, fixed at inception', 'optional (at inception)', B, None, 'The option once selected cannot be altered.', quote_2='the inception. The Sum Assured options are: Option 1: 1.25 times of Single Premium; Option 2: 10 times of Single Premium', page_2=7),
  },
  'charges': {
   'premium_allocation_charge': F({'offline sale': '3.30%', 'online sale': '1.50%'}, 'built-in', B, None, 'For Offline sale: 3.30%', quote_2='For Online sale: 1.50%'),

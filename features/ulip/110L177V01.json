@@ -113,7 +113,9 @@
    "doc": "Smart-fortune-plus-V1-brochure.pdf",
    "page": 2,
    "quote": "Minimum Policy Term",
-   "note": null
+   "note": null,
+   "quote_2": "Minimum Policy Term 5 years for Single Pay, 6 years for Limited Pay, 10 years for",
+   "page_2": 2
   },
   "ppt_options": {
    "value": "single; limited 5 to 20 years; regular 10 to 50 years; no single pay for Future and Family Secure",

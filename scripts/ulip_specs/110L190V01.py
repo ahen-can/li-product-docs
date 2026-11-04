@@ -12,7 +12,7 @@ spec = {
   'variants_or_plan_options': F({'options': ['Wealth Secure', 'Future Secure (premium waiver on death)', 'Family Secure (premium waiver plus monthly income)'], 'Future Secure sub-options': ['Classic (1x future premiums funded)', 'Prime (2x)', 'Ultima (3x; extra can be paid as income)']}, 'optional (at inception)', P, None,
                                 'The plan offers three (3) benefit options to the Life Insured to choose from at the outset'),
   'target_segment_stated': NS(),
-  'online_offline': F('both; online/digital sales pay no admin charge after year 10', 'n/a', P, None, 'In case of Online and Digital Sales, no policy administration'),
+  'online_offline': F('both; online/digital sales pay no admin charge after year 10', 'n/a', P, None, 'In case of Online and Digital Sales, no policy administration', quote_2='In case of Online and Digital Sales, no policy administration charges are applicable after 10th policy', page_2=28),
  },
  'eligibility': {
   'entry_age_min': F('30 days (Wealth Secure); 18 years (Future, Family Secure)', 'n/a', B, None, 'Maximum Entry Age', quote_2='• Multiple funds and investment strategies to choose from. Secure Secure Secure Minimum Entry Age 30 days 18 years 18 years', page_2=2),

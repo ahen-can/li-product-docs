@@ -10,7 +10,7 @@ SECTIONS = ['product', 'eligibility', 'charges', 'benefits', 'flexibility', 'fun
 SKIP = {'uin', 'uin_in_brochure', 'fund_list', 'fund_count'}
 WORDS = {'one': 1, 'two': 2, 'three': 3, 'four': 4, 'five': 5, 'fifth': 5, 'six': 6, 'seven': 7, 'eight': 8, 'nine': 9, 'ten': 10, 'twelve': 12, 'fifteen': 15, 'twice': 2, 'double': 2, 'half': 0.5}
 def nums(s):
-    s = re.sub(r'(?<=\d),(?=\d)', '', str(s))
+    s = re.sub(r'(?<=\d),(?=\d)', '', str(s).replace('\ufb01', 'fi').replace('\ufb02', 'fl'))
     s += ' ' + ' '.join(str(v) for w, v in WORDS.items() if re.search(r'\b' + w + r'\b', s, re.I))
     return {str(float(x)).rstrip('0').rstrip('.') for x in re.findall(r'\d+(?:\.\d+)?', s)}
 def leaves(v):

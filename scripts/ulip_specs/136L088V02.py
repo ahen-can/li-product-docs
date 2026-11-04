@@ -90,7 +90,7 @@ spec = {
                         'terminal_illness': NS(), 'spouse_or_child_cover': NS(),
                         'riders_available': F(['Accidental Benefit Rider (Linked) 136A016V01', 'Linked Critical Illness Benefit Rider 136A018V01'], 'rider', B, None, 'Accidental Beneﬁt Rider 136A016V01', quote_2='Linked Critical Illness 136A018V01')},
  'surrender_revival': {
-  'lock_in_years': F(5, 'built-in', B, None, 'C. Lock-in period:'),
+  'lock_in_years': F(5, 'built-in', B, None, 'C. Lock-in period:', quote_2='E. Discontinuance of Premium during Lock-in Period (during ﬁrst ﬁve years):', page_2=26),
   'discontinuance_rules': F('discontinuance in the first five years moves the fund, less the charge, to the Discontinued Policy Fund with a revival period; after year 5 the policy becomes reduced paid-up', 'built-in', B, None, 'E. Discontinuance of Premium during Lock-in Period (during ﬁrst ﬁve years):', quote_2='F. Discontinuance of Premium after the Lock-in Period (after ﬁrst ﬁve years)'),
   'revival_period': NS(), 'surrender_value_rule': NS(),
  },

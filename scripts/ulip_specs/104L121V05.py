@@ -75,7 +75,7 @@ spec = {
   'other_additions': NS(),
  },
  'flexibility': {
-  'fund_switching': F('unlimited free switches; minimum Rs 5,000', 'optional (during term)', B, None, 'subject to a minimum Switch amount'),
+  'fund_switching': F('unlimited free switches; minimum Rs 5,000', 'optional (during term)', B, None, 'subject to a minimum Switch amount', quote_2='You may switch between available Funds at any time during the Policy Term, subject to a minimum Switch amount of ₹ 5,000. Following receipt of your written notice, we will redeem the Units in the Fund you wish to switch from', page_2=31),
   'premium_redirection': F('unlimited and free; notice before the due date', 'optional (during term)', B, None, 'There is no limit on number of premium redirections done in a policy year without any charges being levied.'),
   'partial_withdrawals': F({'from': 'after 5 policy years', 'frequency': 'up to 12 a year', 'minimum': 'Rs 5,000', 'maximum': '25% of fund value in a policy year; fund must stay at least 1 annualised premium (25% of single premium for single pay)'}, 'optional (during term)', B, None,
                            'thereafter a maximum of twelve (12) partial withdrawals are allowed in any policy year.', quote_2='The minimum amount of partial withdrawal allowed per transaction is ₹ 5,000.', quote_3='The maximum amount of partial withdrawal allowed in any policy year is 25% of the Fund Value'),

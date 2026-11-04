@@ -393,7 +393,9 @@
    "doc": "Download Policy Document",
    "page": 9,
    "quote": "4.6. SETTLEMENT OPTION",
-   "note": null
+   "note": null,
+   "quote_2": "period of time (termed as “Settlement Period”) provided that such period shall not exceed five years from the Maturity Date. The frequency of",
+   "page_2": 9
   },
   "premium_holiday_or_offset": {
    "value": null,

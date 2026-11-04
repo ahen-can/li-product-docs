@@ -290,10 +290,10 @@
   "maturity_benefit": {
    "value": "fund value as a lump sum",
    "status": "built-in",
-   "doc": null,
-   "page": null,
-   "quote": null,
-   "note": "standard SBI maturity clause"
+   "doc": "Policy Document",
+   "page": 30,
+   "quote": "We will pay Your Fund Value as the Maturity Benefit in lump-sum as on the Date of Maturity",
+   "note": null
   },
   "loyalty_additions": {
    "value": {
@@ -396,12 +396,12 @@
    "note": null
   },
   "settlement_option": {
-   "value": "on death, in instalments to the claimant",
+   "value": "on death, the claimant may take the death benefit in instalments over a settlement period",
    "status": "optional (during term)",
-   "doc": null,
-   "page": null,
-   "quote": null,
-   "note": "settlement-option clause present (clause 25 references \"Date of payment under Settlement Option\")"
+   "doc": "Policy Document",
+   "page": 31,
+   "quote": "the Claimant may choose to get the Death Benefit in instalments during the Settlement Period",
+   "note": null
   },
   "premium_holiday_or_offset": {
    "value": null,

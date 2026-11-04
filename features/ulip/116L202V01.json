@@ -72,7 +72,9 @@
    "doc": "future-wealth-gain.pdf",
    "page": 14,
    "quote": "Minimum Age at Entry",
-   "note": null
+   "note": null,
+   "quote_2": "0 years In the case of minor life, the risk cover will commence immediately on date Minimum Age at Entry",
+   "page_2": 14
   },
   "entry_age_max": {
    "value": {
@@ -520,7 +522,9 @@
    "doc": "Download",
    "page": 16,
    "quote": "The Policyholder/Nominee will have the option to receive the Maturity Benefit or Death Benefit in installments",
-   "note": null
+   "note": null,
+   "quote_2": "spread over a maximum period of five (5) years. ii) If the Nominee chooses the settlement option, in case of death,",
+   "page_2": 16
   },
   "premium_holiday_or_offset": {
    "value": null,
@@ -942,7 +946,7 @@
    "note": null
   },
   {
-   "website_label": "Download",
+   "website_label": "Download (fwg-cis.pdf)",
    "doc_type": "CIS",
    "url": "https://www.bajajlifeinsurance.com/content/dam/balic-web/pdf/ulip/fwg-cis.pdf",
    "found_on_page_url": "https://www.bajajlifeinsurance.com/ulip-plans/future-wealth-gain.html",
