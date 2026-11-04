@@ -57,4 +57,4 @@ The gap grows slowly with time and stays under 0.15%. It probably comes from dai
 
 Bharti's "net yield" excludes mortality charges (the BI says so), so it is higher than the calculator's IRR, which includes them.
 
-All six pilot products are now checked against insurer figures. The calculator is 0.1% to 0.3% lower than the insurers at maturity, and the gap is close to zero in the early years. Both the "excluding GST" basis (what BIs show) and the "including GST" basis (what the customer pays) are valid outputs.
+Five of the six pilot products are now checked against insurer figures. HDFC Sampoorn Nivesh Plus is not, because it has no online quote. The calculator is 0.1% to 0.3% lower than the insurers at maturity, and the gap is close to zero in the early years. Both the "excluding GST" basis (what BIs show) and the "including GST" basis (what the customer pays) are valid outputs.
