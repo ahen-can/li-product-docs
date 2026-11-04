@@ -63,6 +63,26 @@ def flat(v):
     return '; '.join(f"{a}: {flat(b)}" for a, b in v.items())
 
 
+STOP = set('about above after again against all also amount annual annualised annualized any applicable based before being below between charge charges each every first from have into level month monthly other over paid payable per policy premium premiums rate same shall than their there these this through under until where which while will with within year years'.split())
+
+
+def strength(code, val, doc, quote):
+    """Does the quote show the value itself? strong / weak / n/a. Deep-data cells only."""
+    if not quote or doc in (None, 'brochure') or code in ('K', 'Y', '-', ''):
+        return ''
+    if not val:
+        return 'n/a (status only)'
+    q = re.sub(r'(?<=\d),(?=\d)', '', quote.lower())
+    v = re.sub(r'(?<=\d),(?=\d)', '', val.lower())
+    nums = set(re.findall(r'\d+(?:\.\d+)?', v)) - {'0', '1', '2'}
+    if nums:
+        return 'strong' if any(re.search(r'(?<![\d.])' + re.escape(n) + r'(?![\d])', q) for n in nums) else 'weak'
+    words = [w for w in re.findall(r'[a-z]{5,}', v) if w not in STOP]
+    if not words:
+        return 'n/a (status only)'
+    return 'strong' if sum(w in q for w in words) >= min(2, len(words)) else 'weak'
+
+
 def cell(d, path):
     o = fld(d, path)
     return CODE.get(o.get('status'), o.get('status') or '?'), flat(o.get('value')), o.get('doc'), o.get('page'), o.get('quote')
@@ -384,6 +404,7 @@ L = [
     'B built-in · O optional · R rider · N not offered · ? not stated in public documents · Y mentioned in brochure (v1, type unknown) · - not found in brochure · K keyword found in the brochure or policy text, not yet verified by reading.',
     'Counts for new features use deep products only (n of ' + str(nD) + '). K hits show where the feature may also exist; they are leads for the deep pass, not counts.',
     'TABS: Features (one row each, counts, Bharti has/lacks) · Matrix (products x features) · Charges (headline numbers) · New features · v1 corrections · Evidence · Products.',
+    'EVIDENCE STRENGTH: on the Evidence tab, deep cells are marked strong (the quote shows the value) or weak (the quote is a label or nearby line; the value is still from the cited page). The Products tab counts both per product. Weak quotes get redone at the end of deep wave 1.',
     'Sources: features/ulip/<UIN>.json (deep, each value with document label, page and quote), analysis/product_features_v1.csv (brochure). Rebuild: python3 -I analysis/scripts/build_ulip_v2.py <repo>.',
 ]
 for i, l in enumerate(L, 1):
@@ -439,14 +460,18 @@ sheet('v1 corrections', ['Insurer', 'Product', 'UIN', 'Feature', 'Difference', '
       note='Deep data wins where they disagree. These rows show how far the v1 keyword scan can be trusted for products without deep data yet.')
 
 EV = []
+WEAK = C.defaultdict(C.Counter)
 for r in rows:
     for k in keys:
         c = cells.get((r['id'], k))
         if c and c[4]:
-            EV.append([products[k]['insurer'], products[k]['name'], k, r['id'], c[0], c[1][:300] if c[1] else '', c[2], c[3], c[4][:400]])
-sheet('Evidence', ['Insurer', 'Product', 'UIN', 'Feature', 'Code', 'Value', 'Document', 'Page', 'Quote / snippet'], EV, {2: 30, 4: 28, 6: 50, 9: 80})
-sheet('Products', ['Insurer', 'Product', 'UIN', 'Data source', 'Sub-segment (v1)'],
-      [[products[k]['insurer'], products[k]['name'], k, products[k]['src'], products[k]['sub']] for k in keys], {1: 22, 2: 45, 5: 36})
+            stg = strength(c[0], c[1], c[2], c[4])
+            if stg: WEAK[k][stg] += 1
+            EV.append([products[k]['insurer'], products[k]['name'], k, r['id'], c[0], c[1][:300] if c[1] else '', c[2], c[3], c[4][:400], stg])
+sheet('Evidence', ['Insurer', 'Product', 'UIN', 'Feature', 'Code', 'Value', 'Document', 'Page', 'Quote / snippet', 'Evidence strength (deep)'], EV, {2: 30, 4: 28, 6: 50, 9: 80, 10: 16},
+      note='Evidence strength: strong = the quote shows the value. weak = the quote is a label or nearby line; the value is still read from the cited page, open the page to confirm. S2 is redoing weak quotes at the end of wave 1.')
+sheet('Products', ['Insurer', 'Product', 'UIN', 'Data source', 'Sub-segment (v1)', 'Deep cells: strong quote', 'Deep cells: weak quote'],
+      [[products[k]['insurer'], products[k]['name'], k, products[k]['src'], products[k]['sub'], WEAK[k]['strong'] or '', WEAK[k]['weak'] or ''] for k in keys], {1: 22, 2: 45, 5: 36})
 
 out = os.path.join(A, 'feature_list_ulip_v2.xlsx')
 wb.save(out)
