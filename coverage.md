@@ -9,7 +9,7 @@ could be verified. "Not found" means the script and a manual look at the site di
 | Acko Life | 2 | 0 | 2 | 0 | 0 | 0 | 0 | 0 |
 | Aditya Birla Sun Life | 34 | 1 | 33 | 0 | 0 | 0 | 0 | 0 |
 | Ageas Federal Life | 23 | 1 | 21 | 0 | 1 | 0 | 0 | 0 |
-| Aviva Life | 17 | 0 | 0 | 0 | 0 | 0 | 0 | 17 |
+| Aviva Life | 17 | 2 | 15 | 0 | 0 | 0 | 0 | 0 |
 | Axis Max Life | 26 | 0 | 0 | 0 | 0 | 0 | 0 | 26 |
 | Bajaj Life | 31 | 2 | 28 | 0 | 1 | 0 | 0 | 0 |
 | Bandhan Life | 22 | 0 | 22 | 0 | 0 | 0 | 0 | 0 |
@@ -30,7 +30,7 @@ could be verified. "Not found" means the script and a manual look at the site di
 | Shriram Life | 26 | 1 | 25 | 0 | 0 | 0 | 0 | 0 |
 | Star Union Dai-ichi Life | 33 | 0 | 0 | 0 | 0 | 0 | 0 | 33 |
 | Tata AIA Life | 38 | 1 | 34 | 0 | 3 | 0 | 0 | 0 |
-| **Total** | 633 | 16 | 414 | 0 | 8 | 0 | 0 | 195 |
+| **Total** | 633 | 18 | 429 | 0 | 8 | 0 | 0 | 178 |
 
 ## Manual-download list
 Products whose documents could not be fetched automatically. Each line gives the product, UIN, the insurer page to visit, and which document is missing.
