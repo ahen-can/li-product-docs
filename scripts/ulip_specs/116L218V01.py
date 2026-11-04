@@ -1,0 +1,103 @@
+import sys; sys.path.insert(0, 'scripts'); sys.path.insert(0, 'scripts/ulip_specs')
+from ulip_json import F, NS, build
+from bajaj_common import funds, FMC
+# Wealth variant values come from swg-wealth-brochure.pdf. The Child Wealth and Joint Life Wealth variants have their own tables
+# in two further brochures (see extra_notes); only variant names and a few headline facts are recorded for them.
+P, B = 'Download', 'swg-wealth-brochure.pdf'
+NAMES = [n for n in FMC if n not in ('Debt Plus Fund', 'Long Term Debt Solution Fund')]
+RIDERS = ['Bajaj Life Linked Accident Protection Rider II (116A057V03)', 'Bajaj Life Care Plus Rider (116A059V01)', 'Bajaj Life Linked New Critical Illness Benefit Rider (116A060V01)']
+spec = {
+ 'product': {
+  'uin': F('116L218V01', 'n/a', P, None, 'UIN: 116L218V01'),
+  'uin_in_brochure': NS(),
+  'product_name': F('Bajaj Life Smart Wealth Goal VII', 'n/a', P, None, 'Bajaj Life Smart Wealth Goal VII'),
+  'irdai_description_line': F('A Unit-Linked Non-Participating Individual Life Savings Insurance Plan', 'n/a', B, None, 'A Unit-Linked Non-Participating Individual Life Savings Insurance Plan'),
+  'launch_or_version_date': NS(), 'target_segment_stated': NS(),
+  'variants_or_plan_options': F(['Wealth', 'Child Wealth', 'Joint Life Wealth'], 'optional (at inception)', B, None, 'you can opt for any one of the three variants mentioned below', 'values in this file are for the Wealth variant unless a field says otherwise'),
+  'online_offline': NS(),
+ },
+ 'eligibility': {
+  'entry_age_min': F(0, 'n/a', B, None, 'Minimum Entry Age Details 0 year', 'Wealth variant; minors vest at 18'),
+  'entry_age_max': F({'regular/limited': {'SA multiple up to 20': 60, 'SA multiple up to 30': 50}, 'single premium': 70}, 'n/a', B, None, 'Maximum Entry Age SA Multiple Upto 20 Upto 30 Regular/Limited 60 Years 50 Years Single Premium: 70 years', 'Wealth variant'),
+  'maturity_age_min': F(18, 'n/a', B, None, 'Minimum Age at Maturity 18 years', 'Wealth variant'),
+  'maturity_age_max': F({'regular/limited by SA multiple': {'up to 10': 99, '11 to 15': 75, '16 to 20': 70, '21 to 30': 65}, 'single premium': 90}, 'n/a', B, None, 'Maximum Age at Maturity SA Multiple Upto 10 11 to 15 16 to 20 21 to 30 Age (Years) 99 75 70 65 Single premium: 90 years', 'Wealth variant'),
+  'policy_term_options': F({'regular/limited': {'min': 10, 'max': 'lower of 60 and (maximum maturity age minus entry age)'}, 'single premium': '10 to 20 years'}, 'n/a', B, None, 'Single Premium: 10 years to 20 years', 'Wealth variant', quote_2='Minimum of (60, Maximum Maturity Age minus Entry Age)'),
+  'ppt_options': F({'maturity age up to 80': '5 years to policy term', 'maturity age above 80': '10 years to policy term', 'cessation age': 80}, 'n/a', B, None, 'For maturity age less than or equal to 80 years: 5 years to PT chosen', 'Wealth variant', quote_2='For maturity age greater than 80 years: 10 years to PT chosen', quote_3='Maximum Premium Payment Term cessation age is 80 years'),
+  'premium_min_annual': F({'yearly': 12000, 'half-yearly': 6000, 'quarterly': 3000, 'monthly': 1000}, 'n/a', B, None, 'Regular/Limited Premium (in `) 12,000 6,000 3,000 1,000', 'Wealth variant'),
+  'premium_min_single': F(48000, 'n/a', B, None, 'Single premium `48000', 'Wealth variant'),
+  'premium_max': F('as per maximum sum assured', 'n/a', B, None, 'Maximum Premium As per maximum Sum Assured', 'Wealth variant'),
+  'sum_assured_rule': F({'single premium': {'min': {'entry < 50': '1.25 x SP', 'entry >= 50': '1.10 x SP'}}}, 'built-in', B, None, 'Age at Entry less than 50 Y: 1.25 times single premium', 'Wealth variant, single premium only; the regular/limited multiple table is not quoted', quote_2='Age at Entry 50 Y and Above: 1.10 times single premium'),
+  'premium_modes': F('single, yearly, half-yearly, quarterly, monthly', 'n/a', B, None, 'Yearly, Half-yearly, Quarterly and Monthly'),
+  'life_cover_multiple_choice': NS(),
+ },
+ 'charges': {
+  'premium_allocation_charge': F('nil', 'built-in', B, None, 'Charges Premium Nil Allocation Charge', 'Wealth variant; Child Wealth and Joint Life Wealth also print Nil'),
+  'policy_administration_charge': F({'regular/limited': {'Y1': '1.08% of annualized premium p.a.', 'Y2-5': '3%', 'Y6-10': '3%', 'Y11 to PT': 'nil'}, 'single premium': '0.50% of single premium p.a., Y1 nil', 'cap': 'Rs 500 in any month'}, 'built-in', B, None,
+                                    'Regular /Limited 1.08% of Annualized Premium per annum 3% of Annualized Premium per annum', 'Wealth variant; table on brochure p.31', quote_2='6th year to 10th year 11th year till PT 3% of Annualized Premium Nil per annum 0.50% of Single Premium per annum', quote_3='subject to maximum of Rs.500 in any month'),
+  'fund_management_charge': F({'equity and index funds': '1.35%', 'Pure Stock Fund II': '1.30%', 'Asset Allocation Fund II, Bluechip Equity Fund': '1.25%', 'Liquid, Bond, Individual Short Term Debt': '0.95%', 'Discontinued Life Policy Fund': '0.50%'},
+                              'built-in', B, None, 'Pure Stock Fund II 1.30%', quote_2='Bluechip Equity Fund 1.25%', quote_3='Individual Short Term Debt Fund 0.95%', quote_4='Discontinued Life Policy Fund 0.50%'),
+  'mortality_charge': F({'basis': 'annual rate (mx) per 1,000 sum at risk by attained age, deducted monthly', 'sample_rates_male': {'age 0': 0.915, 'age 5': 0.185, 'age 35': 1.202}}, 'built-in', P, 23,
+                        'Age Mortality Charge Age Mortality Charge Age Mortality Charge 1 0.915 35 1.202 69 22.04', 'Annexure 1 rate table on policy page 23 (ages 0 upward; rows are scrambled in the text, so ages and rates are not in strict row order)'),
+  'discontinuance_charge': F({'regular/limited, AP up to Rs 50,000': {'Y1': 'lower of 20% x (AP or FV), max Rs 3,000', 'Y2': '15%, max Rs 2,000', 'Y3': '10%, max Rs 1,500', 'Y4': '5%, max Rs 1,000', 'Y5+': 'nil'},
+                              'regular/limited, AP above Rs 50,000': {'Y1': '6%, max Rs 6,000', 'Y2': '4%, max Rs 5,000', 'Y3': '3%, max Rs 4,000', 'Y4': '2%, max Rs 2,000', 'Y5+': 'nil'},
+                              'single, SP up to Rs 3 lakh': {'Y1': '2.0%, max Rs 3,000', 'Y2': '1.5%, max Rs 2,000', 'Y3': '1%, max Rs 1,500', 'Y4': '0.5%, max Rs 1,000', 'Y5+': 'nil'},
+                              'single, SP above Rs 3 lakh': {'Y1': '1.00%, max Rs 6,000', 'Y2': '0.70%, max Rs 5,000', 'Y3': '0.50%, max Rs 4,000', 'Y4': '0.35%, max Rs 2,000', 'Y5+': 'nil'}, 'top-up': 'nil'}, 'built-in', B, None,
+                             'Lower of 20% * (AP or FV) 1 subject to maximum of `3,000 Lower of 15% * (AP or FV) 2 subject to maximum of `2,000 Lower of 10% * (AP or FV) 3 subject to maximum of `1,500', 'Wealth variant; two-column tables on brochure p.33, cells read from the layout text; top-up units carry no charge (Nil)',
+                             quote_2='Lower of 6%* (AP or FV) subject to maximum of `6,000 Lower of 4% * (AP or FV) subject to maximum of `5,000 Lower of 3% * (AP or FV) subject to maximum of `4,000 Lower of 5% * (AP or FV) subject to maximum of `1,000 Lower of 2% * (AP or FV) subject to maximum of `2,000 4 5 & above Nil Nil',
+                             quote_3='1 Lower of 2.0% *(SP or FV) subject to a maximum of `3000/ 2 Lower of 1.5% *(SP or FV) subject to a maximum of `2000/ 3 Lower of 1% *(SP or FV) subject to a maximum of `1500/ 4 5 Lower of 0.5% *(SP or FV) subject to a maximum of `1000/Nil',
+                             quote_4='Lower of 1.00% *(SP or FV) subject to a maximum of `6000/Lower of 0.70% *(SP or FV) subject to a maximum of `5000/Lower of 0.50%* (SP or FV) subject to a maximum of `4000/Lower of 0.35% *(SP or FV) subject to a maximum of `2000/Nil'),
+  'switching_charge': F('nil; unlimited free switches', 'built-in', B, None, 'You can make unlimited free switches'),
+  'partial_withdrawal_charge': NS(),
+  'premium_redirection_charge': NS(),
+  'miscellaneous_charge': F('Rs 100 per transaction', 'built-in', B, None, 'Miscellaneous charge of Rs.100/- per transaction'),
+  'guarantee_charge': NS(), 'rider_charges': NS(),
+  'any_charge_returned': F({'mortality charges': 'all returned at maturity (ROMC), policy term above 15 years', 'Child Wealth variant also returns income benefit, morbidity and waiver of premium charges': True}, 'built-in', B, None,
+                           'For Policy Term greater than 15, the total amount of mortality charges deducted in respect of life', 'Child Wealth return charges per the Child Wealth brochure p.4; not quoted here'),
+ },
+ 'benefits': {
+  'death_benefit_formula': F('higher of prevailing SA or fund value, plus higher of top-up SA or top-up fund value; at least 105% of total premiums paid', 'built-in', B, None, 'The Death Benefit payable is subject to the Guaranteed Benefit of 105% of the Total Premiums paid,', 'Wealth variant'),
+  'maturity_benefit': F('fund value at maturity', 'built-in', B, None, 'as on the date of maturity of your Policy.', 'Wealth variant; settlement option available'),
+  'loyalty_additions': F(None, 'not offered', note='the Wealth variant uses Fund Booster, ROMC and additional allocation instead'),
+  'wealth_boosters_or_guaranteed_additions': F({'Fund Booster (regular/limited)': '2% of the average daily fund value of the previous 3 years, at the end of year 15 and every 5th year to the end of the term (max year 60)', 'Additional Allocation (regular/limited)': '1.08% of each modal premium in year 1',
+                                                'Family Benefit': {'policy term < 20 years': '0.5%', 'policy term >= 20 years': '1%'}}, 'built-in', B, None,
+                                               'Fund Booster (%) 2% 2% 2% 2% 2% 2% 2% 2% 2% 2%', quote_2='During the first policy year, 1.08% of each modal Premium paid by you will be added to your Regular Premium', quote_3='Policy Term %age family benefit <20 years 0.5% >=20 years 1%'),
+  'return_of_mortality_charges': F('all mortality charges added back at maturity when the policy term is above 15 years (ROMC)', 'built-in', B, None, 'For Policy Term greater than 15, the total amount of mortality charges deducted in respect of life'),
+  'return_of_premium_allocation_charges': F(None, 'n/a', note='no allocation charge'), 'return_of_policy_admin_charges': NS(), 'other_additions': NS(),
+ },
+ 'flexibility': {
+  'fund_switching': F('unlimited free; minimum Rs 5,000 or the fund value', 'optional (during term)', B, None, 'The minimum switching amount is `5,000 or the value of units held in the Fund to be switched'),
+  'premium_redirection': F('change apportionment; minimum 5% per fund', 'optional (during term)', B, None, 'must be at least 5% of the'),
+  'partial_withdrawals': F({'from': 'after year 5', 'regular/limited': 'up to 50% of fund; fund must stay at least 2 x AP', 'single': 'up to 25% of fund; fund must stay at least 1/5 of SP', 'top-up': '5-year lock-in on each top-up payment'}, 'optional (during term)', B, None,
+                           'The maximum amount of Partial Withdrawal at any one time is 50% of the Regular Pre- mium Fund Value', quote_2='The maximum amount of Partial Withdrawal at any one time is 25% of the Single Premium Fund Value'),
+  'systematic_withdrawal_plan': NS(),
+  'top_up_premiums': NS(),
+  'settlement_option': NS(),
+  'premium_holiday_or_offset': NS(), 'increase_decrease_cover': NS(), 'change_ppt_or_term': NS(), 'policy_loan': NS(),
+  'auto_portfolio_strategies': F([{'name': 'Wheel of Life Portfolio Strategy II'}, {'name': 'Trigger Based Portfolio Strategy II (Joint Life Wealth brochure)'}, {'name': 'Auto Transfer Portfolio Strategy'}, {'name': 'Capital Preservation-Oriented Strategy'}], 'optional (at inception)', B, None,
+                                 'Investor Selectable Portfolio Strategy ` Wheel of Life Portfolio Strategy II ` Auto Transfer Portfolio Strategy', 'five strategies in total; mechanics not captured in this pass'),
+ },
+ 'funds': {
+  'fund_count': F(30, 'n/a', note='count from the brochure FMC table, excluding the Discontinued Life Policy Fund'),
+  'fund_list': F(funds(NAMES), 'n/a', B, None, 'Bluechip Equity Fund 1.25%', 'FMCs from the brochure; SFINs left out'),
+  'index_or_thematic_funds': F('BSE 500 Momentum Value 50, Nifty 200 Value 30, BSE 500 Quality 50, BSE 500 Dividend Leaders 50, BSE 500 Enhanced Value 50, Midcap, SmallCap Quality, Nifty Alpha 50, Nifty 200 Alpha 30, Nifty 200 Momentum 30, Nifty 500 Multicap Momentum Quality 50, Nifty 500 Multifactor 50, Nifty 500 Low Volatility 50 index funds; India Consumption Fund', 'n/a', B, None, 'Nifty 200 Value 30 Index Fund 1.35%'),
+  'discontinued_policy_fund': F({'name': 'Discontinued Life Policy Fund', 'SFIN': 'ULIF07026/03/13DISCONLIFE116', 'FMC': '0.50%', 'guaranteed return': '4% p.a.'}, 'built-in', B, None, 'SFIN: ULIF07026/03/13DISCONLIFE116'),
+ },
+ 'protection_add_ons': {
+  'waiver_of_premium_inbuilt': F('Child Wealth variant waives future premiums on death or accidental total permanent disability of the life assured', 'built-in', 'Download (swg-child-wealth-brochure.pdf)', None, 'all future prevailing premiums will be waived in case of earlier occurrence of Death or Accidental Total Permanent Disability', 'Child Wealth variant only; the Wealth variant has no built-in waiver'),
+  'critical_illness': F('via rider', 'rider', B, None, '3. Bajaj Life Linked New Critical Illness Benefit Rider UIN: 116A060V01'),
+  'accidental_death': F('via rider', 'rider', B, None, '1. Bajaj Life Linked Accident Protection Rider II UIN: 116A057V03'),
+  'terminal_illness': NS(), 'spouse_or_child_cover': NS(),
+  'riders_available': F(RIDERS, 'rider', B, None, '1. Bajaj Life Linked Accident Protection Rider II UIN: 116A057V03', 'the policy document lists Accident Protection Rider II for Variant 1 only'),
+ },
+ 'surrender_revival': {
+  'lock_in_years': F(5, 'built-in', B, None, 'lock-in period of 5 Policy years', 'Wealth variant'),
+  'discontinuance_rules': F('discontinuance in the first 5 years moves the fund, less the charge, to the Discontinued Life Policy Fund', 'built-in', B, None, 'Discontinued value as at the end of the lock-in period', 'Wealth variant'),
+  'revival_period': F('3 years from discontinuance', 'built-in', B, None, 'within three (3) years from the date of', 'Wealth variant'),
+  'surrender_value_rule': NS(),
+ },
+}
+build('116L218V01', spec,
+  new_features=[{'feature': 'Child Wealth variant', 'description': 'On death or accidental total permanent disability the company pays the sum assured, waives future premiums and pays one annualized premium each year until the end of the term', 'quote': 'Income Benefit paid each year till end of policy term in case of earlier occurrence of Death or Accidental Total Permanent Disability', 'doc': 'Download (swg-child-wealth-brochure.pdf)', 'page': None},
+                {'feature': 'Fund Booster every 5 years', 'description': '2% of the average fund value added at year 15 and every 5th year after', 'quote': 'Fund Booster (%) 2% 2% 2% 2% 2% 2% 2% 2% 2% 2%', 'doc': B, 'page': None}],
+  not_public=[],
+  extra_notes=['Smart Wealth Goal VII has three variants with separate tables. Values in this file are for the Wealth variant (swg-wealth-brochure.pdf). Child Wealth (brochure.pdf, eligibility p.10, charges p.30) and Joint Life Wealth (brochure-2.pdf, eligibility p.9, charges p.26) tables are not captured field by field.'])

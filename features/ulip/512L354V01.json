@@ -1,0 +1,747 @@
+{
+ "product": {
+  "uin": {
+   "value": "512L354V01",
+   "status": "n/a",
+   "doc": "Policy Document",
+   "page": 1,
+   "quote": "LIC’s Index Plus (UIN: 512L354V01)",
+   "note": null
+  },
+  "uin_in_brochure": {
+   "value": "512L354V01",
+   "status": "n/a",
+   "doc": "Sales Brochures (From 22/09/2025 onwards)",
+   "page": 2,
+   "quote": "LIC’s Index Plus (UIN: 512L354V01)",
+   "note": null
+  },
+  "product_name": {
+   "value": "LIC’s Index Plus",
+   "status": "n/a",
+   "doc": "Sales Brochures (From 22/09/2025 onwards)",
+   "page": 2,
+   "quote": "LIC’s Index Plus (UIN: 512L354V01)",
+   "note": null
+  },
+  "irdai_description_line": {
+   "value": "A Non-Par Linked, Life, Individual Savings Plan",
+   "status": "n/a",
+   "doc": "Sales Brochures (From 22/09/2025 onwards)",
+   "page": 2,
+   "quote": "(A Non-Par Linked, Life, Individual Savings Plan)",
+   "note": null
+  },
+  "launch_or_version_date": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "variants_or_plan_options": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "target_segment_stated": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "online_offline": {
+   "value": "both",
+   "status": "n/a",
+   "doc": "Sales Brochures (From 22/09/2025 onwards)",
+   "page": 2,
+   "quote": "This Plan can be purchased Offline through Licensed agents,",
+   "note": null
+  }
+ },
+ "eligibility": {
+  "entry_age_min": {
+   "value": "90 days (completed)",
+   "status": "n/a",
+   "doc": "Sales Brochures (From 22/09/2025 onwards)",
+   "page": 3,
+   "quote": "Minimum [90] Days (completed)",
+   "note": null
+  },
+  "entry_age_max": {
+   "value": {
+    "sum assured 10 x annualized premium": "50 years (nearer birthday)",
+    "sum assured 7 x annualized premium": "60 years (nearer birthday)"
+   },
+   "status": "n/a",
+   "doc": "Sales Brochures (From 22/09/2025 onwards)",
+   "page": 3,
+   "quote": "v Maximum Basic Sum Assured Maximum Age at entry Age at entry 10 times of Annualized [50] years (nearer Premium birthday) 7 times of Annualized [60] years(nearer Premium birthday)",
+   "note": null
+  },
+  "maturity_age_min": {
+   "value": 18,
+   "status": "n/a",
+   "doc": "Sales Brochures (From 22/09/2025 onwards)",
+   "page": 4,
+   "quote": "Minimum [18] years (Completed)",
+   "note": null
+  },
+  "maturity_age_max": {
+   "value": {
+    "7 x annualized premium": 85,
+    "10 x annualized premium": 75
+   },
+   "status": "n/a",
+   "doc": "Sales Brochures (From 22/09/2025 onwards)",
+   "page": 4,
+   "quote": "x Maximum Basic Sum Assured Maximum Maturity Age Maturity 7 times of Annualized Age 85 years(nearer birthday) Premium 10 times of Annualized 75 years (nearer birthday)",
+   "note": null
+  },
+  "policy_term_options": {
+   "value": {
+    "annualized premium below Rs 48,000": {
+     "min": 15,
+     "max": 25
+    },
+    "Rs 48,000 and above": {
+     "min": 10,
+     "max": 25
+    }
+   },
+   "status": "n/a",
+   "doc": "Sales Brochures (From 22/09/2025 onwards)",
+   "page": 3,
+   "quote": "Policy Less Than 15 25 Term ` 48,000 ` 48,000 and 10 25 above",
+   "note": null
+  },
+  "ppt_options": {
+   "value": "same as policy term",
+   "status": "n/a",
+   "doc": "Sales Brochures (From 22/09/2025 onwards)",
+   "page": 4,
+   "quote": "Same as Policy Term",
+   "note": null
+  },
+  "premium_min_annual": {
+   "value": {
+    "yearly": 30000,
+    "half-yearly": 15000,
+    "quarterly": 7500,
+    "monthly (NACH)": 2500
+   },
+   "status": "n/a",
+   "doc": "Sales Brochures (From 22/09/2025 onwards)",
+   "page": 3,
+   "quote": "Yearly 30,000/-",
+   "note": null,
+   "quote_2": "Half-yearly 15,000/-",
+   "page_2": 3,
+   "quote_3": "Quarterly 7,500/-",
+   "page_3": 3,
+   "quote_4": "Monthly (NACH) 2,500/-",
+   "page_4": 3
+  },
+  "premium_min_single": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "premium_max": {
+   "value": "no limit, subject to underwriting",
+   "status": "n/a",
+   "doc": "Sales Brochures (From 22/09/2025 onwards)",
+   "page": 3,
+   "quote": "No Limit. The maximum premium allowed to each",
+   "note": null
+  },
+  "sum_assured_rule": {
+   "value": {
+    "age 90 days to 50": "7 or 10 x annualized premium",
+    "age 51 to 60": "7 x annualized premium"
+   },
+   "status": "built-in",
+   "doc": "Sales Brochures (From 22/09/2025 onwards)",
+   "page": 3,
+   "quote": "Annualized Premium or • 10 times of Annualized Premium",
+   "note": null,
+   "quote_2": "From [51] years (nearer birthday)",
+   "page_2": 3
+  },
+  "premium_modes": {
+   "value": "yearly, half-yearly, quarterly, monthly (NACH)",
+   "status": "n/a",
+   "doc": "Sales Brochures (From 22/09/2025 onwards)",
+   "page": 4,
+   "quote": "Yearly/Half Yearly/Quarterly/Monthly (NACH)",
+   "note": null
+  },
+  "life_cover_multiple_choice": {
+   "value": "7 or 10 times annualized premium, by entry age",
+   "status": "optional (at inception)",
+   "doc": "Sales Brochures (From 22/09/2025 onwards)",
+   "page": 2,
+   "quote": "Basic Sum Assured as 7 or 10 times of Annualized",
+   "note": null
+  }
+ },
+ "charges": {
+  "premium_allocation_charge": {
+   "value": {
+    "offline sale": {
+     "Y1": "8.00%",
+     "Y2-5": "5.50%",
+     "Y6+": "4.00%"
+    },
+    "online sale": {
+     "Y1": "3.00%",
+     "Y2-5": "2.00%",
+     "Y6+": "1.50%"
+    }
+   },
+   "status": "built-in",
+   "doc": "Sales Brochures (From 22/09/2025 onwards)",
+   "page": 14,
+   "quote": "1st Year 8.00% 3.00% 2 to 5th Year nd 5.50% 2.00% Thereafter 4.00% 1.50%",
+   "note": null
+  },
+  "policy_administration_charge": {
+   "value": {
+    "Y1-5": "nil",
+    "Y6": "lower of (3.25% of annualized premium / 12) and Rs 125 a month",
+    "Y7+": "year 6 charge escalating 5% a year",
+    "cap": "Rs 500 a month"
+   },
+   "status": "built-in",
+   "doc": "Sales Brochures (From 22/09/2025 onwards)",
+   "page": 16,
+   "quote": "First 5 Years NIL",
+   "note": null,
+   "quote_2": "Minimum of [(One twelfth of 3.25% multiplied by Annualized Premium) or (` 125) ] per month",
+   "page_2": 16,
+   "quote_3": "Applicable Policy Administration Charges in 6th year escalating at the rate of 5% p.a",
+   "page_3": 16
+  },
+  "fund_management_charge": {
+   "value": {
+    "Flexi Growth Fund and Flexi Smart Growth Fund": "1.35%",
+    "Discontinued Policy Fund": "0.50%"
+   },
+   "status": "built-in",
+   "doc": "Sales Brochures (From 22/09/2025 onwards)",
+   "page": 16,
+   "quote": "1.35% p.a. of Unit Fund for both fund types available",
+   "note": null,
+   "quote_2": "0.50% p.a. of Unit Fund for “Discontinued Policy Fund”",
+   "page_2": 16
+  },
+  "mortality_charge": {
+   "value": {
+    "basis": "annual rate per Rs 1,000 sum at risk, age specific, healthy lives; taken monthly",
+    "sample_rates": {
+     "age 25": 1.26,
+     "age 35": 1.62,
+     "age 45": 3.48,
+     "age 50": 5.99,
+     "age 60": 15.07
+    }
+   },
+   "status": "built-in",
+   "doc": "Sales Brochures (From 22/09/2025 onwards)",
+   "page": 15,
+   "quote": "Age 25 35 45 50 60 ` 1.26 1.62 3.48 5.99 15.07",
+   "note": "sample ages only"
+  },
+  "discontinuance_charge": {
+   "value": {
+    "annualized premium up to Rs 50,000": {
+     "Y1": "lower of 20% x (AP or FV), max Rs 3,000",
+     "Y2": "15%, max Rs 2,000",
+     "Y3": "10%, max Rs 1,500",
+     "Y4": "5%, max Rs 1,000",
+     "Y5+": "nil"
+    },
+    "annualized premium above Rs 50,000": {
+     "Y1": "6%, max Rs 6,000",
+     "Y2": "4%, max Rs 5,000",
+     "Y3": "3%, max Rs 4,000",
+     "Y4": "2%, max Rs 2,000",
+     "Y5+": "nil"
+    }
+   },
+   "status": "built-in",
+   "doc": "Sales Brochures (From 22/09/2025 onwards)",
+   "page": 17,
+   "quote": "1 Lower of 20% Lower of 6% multiplied by (AP or multiplied by (AP or FV) subject to FV) subject to maximum of `3,000/- maximum of `6000/-",
+   "note": "brochure p.17 two-column table, read in order",
+   "quote_2": "2 Lower of 15% Lower of 4% multiplied by (AP or multiplied by (AP or FV) subject to FV) subject to maximum of `2,000/- maximum of `5000/-",
+   "page_2": 17
+  },
+  "switching_charge": {
+   "value": "4 free switches a year, then Rs 100 per switch",
+   "status": "built-in",
+   "doc": "Sales Brochures (From 22/09/2025 onwards)",
+   "page": 16,
+   "quote": "Within a given policy year 4 switches shall be allowed free of charge. Subsequent switches in that year shall be subject to a Switching Charge of ` 100 per switch.",
+   "note": null
+  },
+  "partial_withdrawal_charge": {
+   "value": "Rs 100 flat per withdrawal",
+   "status": "built-in",
+   "doc": "Sales Brochures (From 22/09/2025 onwards)",
+   "page": 16,
+   "quote": "A flat amount of ` 100/- shall be",
+   "note": null
+  },
+  "premium_redirection_charge": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "miscellaneous_charge": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "guarantee_charge": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "rider_charges": {
+   "value": "Accident benefit charge Rs 0.40 per thousand of accident benefit sum assured a year (Rs 0.80 for police duty)",
+   "status": "built-in",
+   "doc": "Sales Brochures (From 22/09/2025 onwards)",
+   "page": 15,
+   "quote": "shall be at the rate of ` 0.40 per",
+   "note": null
+  },
+  "any_charge_returned": {
+   "value": "all mortality charges refunded at maturity (excluding extra underwriting charges and tax)",
+   "status": "built-in",
+   "doc": "Sales Brochures (From 22/09/2025 onwards)",
+   "page": 5,
+   "quote": "an amount equal to the total amount of mortality charges deducted in respect of life insurance cover shall be payable along with the Maturity Benefit",
+   "note": null
+  }
+ },
+ "benefits": {
+  "death_benefit_formula": {
+   "value": "highest of basic sum assured (less withdrawals in the last 2 years), unit fund value and 105% of premiums received (less the same withdrawals); only the unit fund value if death is before the risk commencement date (entry under age 8)",
+   "status": "built-in",
+   "doc": "Sales Brochures (From 22/09/2025 onwards)",
+   "page": 4,
+   "quote": "Basic Sum Assured reduced by Partial Withdrawals, if any, made during the two years period immediately",
+   "note": null,
+   "quote_2": "105% of the total premiums received upto the date of death reduced by Partial Withdrawals",
+   "page_2": 5
+  },
+  "maturity_benefit": {
+   "value": "unit fund value at maturity plus refund of mortality charges",
+   "status": "built-in",
+   "doc": "Sales Brochures (From 22/09/2025 onwards)",
+   "page": 5,
+   "quote": "an amount equal to Unit Fund Value as on date of maturity shall be payable.",
+   "note": null
+  },
+  "loyalty_additions": {
+   "value": null,
+   "status": "not offered",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": "guaranteed additions are used instead"
+  },
+  "wealth_boosters_or_guaranteed_additions": {
+   "value": {
+    "Guaranteed Additions (% of one annualized premium)": {
+     "end of year 6": {
+      "below Rs 48,000": "3%",
+      "Rs 48,000 and above": "5%"
+     },
+     "year 10": {
+      "below": "6%",
+      "above": "10%"
+     },
+     "year 15": {
+      "below": "12%",
+      "above": "20%"
+     },
+     "year 20": {
+      "below": "15%",
+      "above": "25%"
+     },
+     "year 25": {
+      "below": "18%",
+      "above": "30%"
+     }
+    }
+   },
+   "status": "built-in",
+   "doc": "Sales Brochures (From 22/09/2025 onwards)",
+   "page": 6,
+   "quote": "6 3% 5% 10 6% 10% 15 12% 20% 20 15% 25% 25 18% 30%",
+   "note": null
+  },
+  "return_of_mortality_charges": {
+   "value": "all mortality charges refunded at maturity",
+   "status": "built-in",
+   "doc": "Sales Brochures (From 22/09/2025 onwards)",
+   "page": 5,
+   "quote": "an amount equal to the total amount of mortality charges deducted in respect of life insurance cover shall be payable along with the Maturity Benefit",
+   "note": null
+  },
+  "return_of_premium_allocation_charges": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "return_of_policy_admin_charges": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "other_additions": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  }
+ },
+ "flexibility": {
+  "fund_switching": {
+   "value": "4 free switches a year, then Rs 100; the whole fund moves to the new fund type",
+   "status": "optional (during term)",
+   "doc": "Sales Brochures (From 22/09/2025 onwards)",
+   "page": 8,
+   "quote": "On switching, the entire Fund Value shall be switched to the new Fund",
+   "note": null
+  },
+  "premium_redirection": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "partial_withdrawals": {
+   "value": {
+    "from": "after the 5-year lock-in",
+    "maximum % of unit fund per policy year": {
+     "Y6-10": "20%",
+     "Y11-15": "25%",
+     "Y16-20": "30%",
+     "Y21-25": "35%"
+    },
+    "floor": "balance at least 4 annualized premiums (premium below Rs 48,000) or 3 annualized premiums"
+   },
+   "status": "optional (during term)",
+   "doc": "Sales Brochures (From 22/09/2025 onwards)",
+   "page": 7,
+   "quote": "Policy Year Percent of Unit Fund 6th to 10th 20% 11th to 15th 25% 16th to 20th 30% 21st to 25th 35%",
+   "note": null,
+   "quote_2": "not less than 4 Annualized Premiums for Annual Premium less than ` 48,000/- and in all other",
+   "page_2": 7
+  },
+  "systematic_withdrawal_plan": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "top_up_premiums": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "settlement_option": {
+   "value": "death benefit in instalments (yearly to monthly) over up to 5 years; chosen by the policyholder or the life assured aged 18+",
+   "status": "optional (during term)",
+   "doc": "Sales Brochures (From 22/09/2025 onwards)",
+   "page": 8,
+   "quote": "spread over a period of not more than 5 years from the date of intimation of death of Life",
+   "note": null
+  },
+  "premium_holiday_or_offset": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "increase_decrease_cover": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "change_ppt_or_term": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "policy_loan": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "auto_portfolio_strategies": {
+   "value": null,
+   "status": "not offered",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": "two fund types only; no automatic strategy is described"
+  }
+ },
+ "funds": {
+  "fund_count": {
+   "value": 2,
+   "status": "n/a",
+   "doc": "Sales Brochures (From 22/09/2025 onwards)",
+   "page": 10,
+   "quote": "following two funds to invest your premiums initially",
+   "note": null
+  },
+  "fund_list": {
+   "value": [
+    {
+     "name": "Flexi Growth Fund",
+     "SFIN": "ULIF00510/11/23LICULIPFLX512",
+     "FMC_pct": 1.35,
+     "asset_allocation": "listed equity 40% to 100%; government securities 0% to 20%; money market 0% to 40%",
+     "risk_label": "Very High Risk"
+    },
+    {
+     "name": "Flexi Smart Growth Fund",
+     "SFIN": "ULIF00610/11/23LICULIPFSG512",
+     "FMC_pct": 1.35,
+     "asset_allocation": "listed equity 40% to 100%; government securities 0% to 20%; money market 0% to 40%",
+     "risk_label": "Very High Risk"
+    }
+   ],
+   "status": "n/a",
+   "doc": "Sales Brochures (From 22/09/2025 onwards)",
+   "page": 11,
+   "quote": "Fund Name: Flexi Growth Fund, SFIN No: ULIF00510/11/23 LICULIPFLX512 (Very High Risk)",
+   "note": null,
+   "quote_2": "Fund Name: Flexi Smart Growth Fund, SFIN No: ULIF00610/11/23 LICULIPFSG512 (Very High Risk)",
+   "page_2": 11
+  },
+  "index_or_thematic_funds": {
+   "value": "Flexi Growth Fund (NSE Nifty 100 stocks) and Flexi Smart Growth Fund (NSE Nifty 50 stocks)",
+   "status": "n/a",
+   "doc": "Sales Brochures (From 22/09/2025 onwards)",
+   "page": 10,
+   "quote": "NIFTY100 Index.",
+   "note": null
+  },
+  "discontinued_policy_fund": {
+   "value": {
+    "name": "Discontinued Policy Fund",
+    "SFIN": "ULIF001201114LICDPFNLIF512",
+    "FMC": "0.50%",
+    "allocation": "money market 0% to 40%, government securities 60% to 100%"
+   },
+   "status": "built-in",
+   "doc": "Sales Brochures (From 22/09/2025 onwards)",
+   "page": 11,
+   "quote": "Discontinued Policy Fund (SFIN: ULIF001201114LIC-",
+   "note": null
+  }
+ },
+ "protection_add_ons": {
+  "waiver_of_premium_inbuilt": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "critical_illness": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "accidental_death": {
+   "value": "via LIC’s Linked Accidental Death Benefit Rider (512A211V02)",
+   "status": "rider",
+   "doc": "Sales Brochures (From 22/09/2025 onwards)",
+   "page": 6,
+   "quote": "LIC’s Linked Accidental Death Benefit Rider (UIN: 512A211V02)",
+   "note": null
+  },
+  "terminal_illness": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "spouse_or_child_cover": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "riders_available": {
+   "value": [
+    "LIC’s Linked Accidental Death Benefit Rider (512A211V02)"
+   ],
+   "status": "rider",
+   "doc": "Sales Brochures (From 22/09/2025 onwards)",
+   "page": 6,
+   "quote": "LIC’s Linked Accidental Death Benefit Rider (UIN: 512A211V02)",
+   "note": null
+  }
+ },
+ "surrender_revival": {
+  "lock_in_years": {
+   "value": 5,
+   "status": "built-in",
+   "doc": "Sales Brochures (From 22/09/2025 onwards)",
+   "page": 7,
+   "quote": "after the 5 years’ lock-in period",
+   "note": null
+  },
+  "discontinuance_rules": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "revival_period": {
+   "value": "3 years from the first unpaid premium",
+   "status": "built-in",
+   "doc": "Policy Document",
+   "page": 7,
+   "quote": "Revival Period is the period of three consecutive complete years from the date of first unpaid premium",
+   "note": null
+  },
+  "surrender_value_rule": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  }
+ },
+ "documents_inventory": [
+  {
+   "website_label": "Sales Brochures (From 01/10/2024 To 21/09/2025)",
+   "doc_type": "brochure",
+   "url": "https://licindia.in/documents/20121/987437/101941+LIC_Index+Plus+Sales+Brochure.pdf/c2b46aa5-e6c5-7cb0-09e9-d1e2b8b4f824?t=1743578254204",
+   "found_on_page_url": "https://licindia.in/web/guest/lic-s-index-plus-873-512l354v01",
+   "pages": 36,
+   "stored_path": "docs/lic/512L354V01/brochure-2.pdf",
+   "status": "ok",
+   "note": "product page links a different brochure from the one stored in the light pass"
+  },
+  {
+   "website_label": "Policy Document",
+   "doc_type": "policy_document",
+   "url": "https://licindia.in/documents/20121/1244160/Final+Policy+document_LICs+Index+Plus_CC01102024.pdf/8ba7ff08-df02-6cc7-b063-8429e64eeb57?t=1728036002181",
+   "found_on_page_url": "https://licindia.in/web/guest/lic-s-index-plus-873-512l354v01",
+   "pages": 29,
+   "stored_path": "docs/lic/512L354V01/policy.pdf",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "website_label": "CIS LIC's Index Plus",
+   "doc_type": "CIS",
+   "url": "https://licindia.in/documents/20121/1244160/CIS_Index+Plus_PDF+File.pdf/0d819c1c-a846-db4a-3d8d-205c8e46b53d?t=1728037262334",
+   "found_on_page_url": "https://licindia.in/web/guest/lic-s-index-plus-873-512l354v01",
+   "pages": 8,
+   "stored_path": "docs/lic/512L354V01/cis.pdf",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "website_label": "Sales Brochures (From 22/09/2025 onwards)",
+   "doc_type": "brochure",
+   "url": "https://licindia.in/documents/20121/1319704/LIC++Index+Plus+Sales+Brochure_141025.pdf/94818313-c077-a709-fde7-58833a5874a3?t=1760429342629",
+   "found_on_page_url": "https://licindia.in/web/guest/lic-s-index-plus-873-512l354v01",
+   "pages": 36,
+   "stored_path": "docs/lic/512L354V01/brochure.pdf",
+   "status": "already stored",
+   "note": null
+  }
+ ],
+ "new_features_not_in_schema": [
+  {
+   "feature": "Refund of all mortality charges at maturity",
+   "description": "Total mortality charges (excluding underwriting extras and tax) are paid back with the maturity benefit",
+   "quote": "an amount equal to the total amount of mortality charges deducted in respect of life insurance cover shall be payable along with the Maturity Benefit",
+   "doc": "Sales Brochures (From 22/09/2025 onwards)",
+   "page": 5
+  },
+  {
+   "feature": "Two index-based fund types",
+   "description": "Flexi Growth Fund (Nifty 100 stocks) and Flexi Smart Growth Fund (Nifty 50 stocks), both 1.35% FMC",
+   "quote": "following two funds to invest your premiums initially",
+   "doc": "Sales Brochures (From 22/09/2025 onwards)",
+   "page": 10
+  }
+ ],
+ "data_not_public": [
+  {
+   "item": "mortality charge rate table",
+   "doc": "Policy Document",
+   "where_referenced": "definitions",
+   "quote": "Mortality Charge is the charge levied at the beginning of each policy month for providing the life insurance cover.",
+   "note": "the brochure gives rates for a few sample ages only and the policy document prints no rate table"
+  }
+ ]
+}

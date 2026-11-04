@@ -1,0 +1,982 @@
+{
+ "product": {
+  "uin": {
+   "value": "116L202V01",
+   "status": "n/a",
+   "doc": "Download",
+   "page": 1,
+   "quote": "UIN: 116L202V01",
+   "note": null
+  },
+  "uin_in_brochure": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "product_name": {
+   "value": "Bajaj Life Future Wealth Gain IV",
+   "status": "n/a",
+   "doc": "Download",
+   "page": 1,
+   "quote": "Bajaj Life Future Wealth Gain IV",
+   "note": null
+  },
+  "irdai_description_line": {
+   "value": "A Unit-linked Non-Participating Individual Life Savings Insurance Plan",
+   "status": "n/a",
+   "doc": "Download",
+   "page": 1,
+   "quote": "A Unit-linked Non-Participating Individual Life Savings Insurance Plan",
+   "note": null
+  },
+  "launch_or_version_date": {
+   "value": "policy document version 1 (08/2026)",
+   "status": "n/a",
+   "doc": "Download",
+   "page": 1,
+   "quote": "Policy Document Ver. 1 (082026)",
+   "note": null
+  },
+  "variants_or_plan_options": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "target_segment_stated": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "online_offline": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  }
+ },
+ "eligibility": {
+  "entry_age_min": {
+   "value": "0 years (risk cover starts at once)",
+   "status": "n/a",
+   "doc": "future-wealth-gain.pdf",
+   "page": 14,
+   "quote": "Minimum Age at Entry",
+   "note": null
+  },
+  "entry_age_max": {
+   "value": {
+    "PPT 5 / PT 10, AP < 5 lakh": 54,
+    "PPT 5 / PT 10, AP >= 5 lakh": 59,
+    "other combinations": 60
+   },
+   "status": "n/a",
+   "doc": "future-wealth-gain.pdf",
+   "page": 14,
+   "quote": "• Annualized Premium < 5 Lakhs: 54 Years Maximum Age at Entry • Annualized Premium >= 5 Lakhs: 59 Years",
+   "note": null,
+   "quote_2": "For All Other Premium Payment term and Policy term combinations: 60 Years",
+   "page_2": 14
+  },
+  "maturity_age_min": {
+   "value": 18,
+   "status": "n/a",
+   "doc": "future-wealth-gain.pdf",
+   "page": 14,
+   "quote": "Minimum Age at Maturity 18 years",
+   "note": null
+  },
+  "maturity_age_max": {
+   "value": 75,
+   "status": "n/a",
+   "doc": "future-wealth-gain.pdf",
+   "page": 14,
+   "quote": "Maximum Age at Maturity 75 years",
+   "note": null
+  },
+  "policy_term_options": {
+   "value": {
+    "PT 10": "PPT 5, 7, 10",
+    "PT 15 to 25": "PPT 5, 7, 10, 15"
+   },
+   "status": "n/a",
+   "doc": "future-wealth-gain.pdf",
+   "page": 14,
+   "quote": "Policy Term (in yrs) 10 15 to 25 Policy Term Premium Payment Term (in yrs) 5, 7, 10 5, 7, 10,15",
+   "note": null
+  },
+  "ppt_options": {
+   "value": [
+    5,
+    7,
+    10,
+    15
+   ],
+   "status": "n/a",
+   "doc": "future-wealth-gain.pdf",
+   "page": 14,
+   "quote": "Policy Term (in yrs) 10 15 to 25 Policy Term Premium Payment Term (in yrs) 5, 7, 10 5, 7, 10,15",
+   "note": "limited pay (PPT below PT) or regular pay (PPT 10 with PT 10)"
+  },
+  "premium_min_annual": {
+   "value": {
+    "annual": 50000,
+    "half-yearly": 30000,
+    "quarterly": 15000,
+    "monthly": 5000
+   },
+   "status": "n/a",
+   "doc": "future-wealth-gain.pdf",
+   "page": 14,
+   "quote": "Annual Premium Rs. 50,000 Half Yearly Premium Rs. 30,000 Minimum Quarterly Premium Rs. 15,000 Premium Monthly Premium Rs. 5,000",
+   "note": null
+  },
+  "premium_min_single": {
+   "value": null,
+   "status": "not offered",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": "regular and limited pay only"
+  },
+  "premium_max": {
+   "value": "as per underwriting policy",
+   "status": "n/a",
+   "doc": "future-wealth-gain.pdf",
+   "page": 14,
+   "quote": "Maximum As per Board approved underwriting policy",
+   "note": null
+  },
+  "sum_assured_rule": {
+   "value": {
+    "minimum": {
+     "entry < 50": "7 x AP",
+     "entry >= 50": "5 x AP"
+    },
+    "maximum (x AP by entry age)": {
+     "0-25": 40,
+     "26-35": 30,
+     "36-40": 20,
+     "41-44": 15,
+     "45+": 10
+    }
+   },
+   "status": "built-in",
+   "doc": "future-wealth-gain.pdf",
+   "page": 14,
+   "quote": "Age at entry less than 50 years: 7 times Annualized Premium",
+   "note": null,
+   "quote_2": "0 – 25 years 40 26 – 35 years 30 Maximum Sum Assured 36 – 40 years 20 41 – 44 years 15",
+   "page_2": 14
+  },
+  "premium_modes": {
+   "value": "yearly, half-yearly, quarterly, monthly",
+   "status": "n/a",
+   "doc": "future-wealth-gain.pdf",
+   "page": 14,
+   "quote": "Premium Payment Frequency Yearly, Half Yearly, Quarterly & Monthly",
+   "note": null
+  },
+  "life_cover_multiple_choice": {
+   "value": "SA multiplier chosen at inception between the minimum and maximum",
+   "status": "optional (at inception)",
+   "doc": "future-wealth-gain.pdf",
+   "page": 2,
+   "quote": "Step 2: Choose the sum assured multiplier to decide your life cover1",
+   "note": null
+  }
+ },
+ "charges": {
+  "premium_allocation_charge": {
+   "value": {
+    "annual mode (AP < 2.4L / 2.4-5L / 5L+)": {
+     "Y1-5": [
+      "6%",
+      "3%",
+      "1%"
+     ],
+     "Y6-10": [
+      "3%",
+      "3%",
+      "1%"
+     ],
+     "Y11+": "nil"
+    },
+    "other modes": {
+     "Y1-5": [
+      "5%",
+      "3%",
+      "1%"
+     ],
+     "Y6-10": [
+      "3%",
+      "3%",
+      "1%"
+     ],
+     "Y11+": "nil"
+    },
+    "top-up": "2%"
+   },
+   "status": "built-in",
+   "doc": "future-wealth-gain.pdf",
+   "page": 17,
+   "quote": "Premium < 2.4 Lakh 6% 3% Nil 2.4 Lakh < = Premium < 5 Lakh 3% 3% Nil Premium Allocation Premium >= 5Lakh 1% 1% Nil",
+   "note": null,
+   "quote_2": "Premium < 2.4 Lakh 5% 3% Nil 2.4 Lakh < = Premium < 5 Lakh 3% 3% Nil Premium >= 5Lakh 1% 1% Nil",
+   "page_2": 17,
+   "quote_3": "All Top ups have a premium allocation charge of 2%",
+   "page_3": 17
+  },
+  "policy_administration_charge": {
+   "value": {
+    "basis": "% of AP (deducted monthly)",
+    "AP < 2.4L": {
+     "Y1-5": "1.08%",
+     "Y6-15": "2.40%",
+     "Y16+": "nil"
+    },
+    "AP 2.4-5L": {
+     "Y1-5": "2.40%",
+     "Y6-15": "2.40%",
+     "Y16+": "nil"
+    },
+    "AP 5L+": {
+     "Y1-5": "1.20%",
+     "Y6-15": "1.20%",
+     "Y16+": "nil"
+    },
+    "cap": "Rs 500 per month"
+   },
+   "status": "built-in",
+   "doc": "future-wealth-gain.pdf",
+   "page": 17,
+   "quote": "Premium < 2.4 Lakh 1.08% 2.40% Nil 2.4 Lakh < = Premium < 5 Lakh 2.40% 2.40% Nil Policy Administra- Premium >= 5Lakh 1.20% 1.20% Nil",
+   "note": "the brochure says the charge is a % of the annualized premium; it does not say whether the % is per year or per month",
+   "quote_2": "The policy administration charge will be subject to maximum of Rs.500 in any month.",
+   "page_2": 17
+  },
+  "fund_management_charge": {
+   "value": {
+    "equity and index funds": "1.35%",
+    "Asset Allocation Fund II, Bluechip Equity Fund": "1.25%",
+    "Pure Stock Fund II": "1.30%",
+    "Bond, Liquid, Individual Short Term Debt": "0.95%",
+    "Discontinued Life Policy Fund": "0.50%"
+   },
+   "status": "built-in",
+   "doc": "future-wealth-gain.pdf",
+   "page": 17,
+   "quote": "Pure Stock Fund II 1.30%",
+   "note": null,
+   "quote_2": "Bluechip Equity Fund 1.25%",
+   "page_2": 17,
+   "quote_3": "Discontinued Life Policy Fund 0.50%",
+   "page_3": 18
+  },
+  "mortality_charge": {
+   "value": {
+    "basis": "annual rate per 1,000 sum at risk by attained age, deducted monthly",
+    "female": "rates of a male 3 years younger (brochure)",
+    "sample_rates": {
+     "age 30": 0.977,
+     "age 40": 1.68,
+     "age 57": 8.925
+    }
+   },
+   "status": "built-in",
+   "doc": "Download",
+   "page": 36,
+   "quote": "3 0.47 30 0.977 57 8.925",
+   "note": "Annexure 1 rate table on policy page 36 onwards; returned in full at maturity or year 15 (ROMC)",
+   "quote_2": "13 0.522 40 1.68 67 18.635",
+   "page_2": 36
+  },
+  "discontinuance_charge": {
+   "value": {
+    "AP up to Rs 50,000": {
+     "Y1": "lower of 20% x (AP or FV), max Rs 3,000",
+     "Y2": "15%, max Rs 2,000",
+     "Y3": "10%, max Rs 1,500",
+     "Y4": "5%, max Rs 1,000",
+     "Y5+": "nil"
+    },
+    "AP above Rs 50,000": {
+     "Y1": "lower of 6%, max Rs 6,000",
+     "Y2": "4%, max Rs 5,000",
+     "Y3": "3%, max Rs 4,000",
+     "Y4": "2%, max Rs 2,000",
+     "Y5+": "nil"
+    }
+   },
+   "status": "built-in",
+   "doc": "future-wealth-gain.pdf",
+   "page": 18,
+   "quote": "Lower of 20% * (AP or FV) sub- Lower of 6% * (AP or FV) sub- 1 ject to maximum of `3,000 ject to maximum of `6,000",
+   "note": "the brochure prints the rupee sign as `",
+   "quote_2": "Lower of 15% * (AP or FV) sub- Lower of 4% * (AP or FV) sub- Discontinuance/ 2 ject to maximum of `2,000 ject to maximum of `5,000",
+   "page_2": 18,
+   "quote_3": "Lower of 10% * (AP or FV) sub- Lower of 3% * (AP or FV) sub- 3 ject to maximum of `1,500 ject to maximum of `4,000",
+   "page_3": 18,
+   "quote_4": "Lower of 5% * (AP or FV) sub- Lower of 2% * (AP or FV) sub- 4 ject to maximum of `1,000 ject to maximum of `2,000",
+   "page_4": 18
+  },
+  "switching_charge": {
+   "value": "nil; unlimited free switches (Investor Selectable strategy only)",
+   "status": "built-in",
+   "doc": "Download",
+   "page": 14,
+   "quote": "The Policyholder can exercise unlimited free switches",
+   "note": null
+  },
+  "partial_withdrawal_charge": {
+   "value": "nil",
+   "status": "built-in",
+   "doc": "Download",
+   "page": 15,
+   "quote": "No Charges would be levied for partial withdrawal.",
+   "note": null
+  },
+  "premium_redirection_charge": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "miscellaneous_charge": {
+   "value": "Rs 100 per transaction",
+   "status": "built-in",
+   "doc": "future-wealth-gain.pdf",
+   "page": 18,
+   "quote": "A miscellaneous charge of Rs. 100 per transaction",
+   "note": null
+  },
+  "guarantee_charge": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "rider_charges": {
+   "value": "deducted monthly from the fund for unit-deducting riders",
+   "status": "rider",
+   "doc": "future-wealth-gain.pdf",
+   "page": 18,
+   "quote": "Applicable rider charge will be deducted from the fund value on a monthly basis,",
+   "note": null
+  },
+  "any_charge_returned": {
+   "value": {
+    "mortality charges": "all, at maturity or end of year 15, whichever is later"
+   },
+   "status": "built-in",
+   "doc": "Download",
+   "page": 11,
+   "quote": "an amount equal to the total of all the Mortality Charges deducted, in accordance with Section 16 a) below during the Policy Term, will be added to the Regular Premium Fund Value at the",
+   "note": null
+  }
+ },
+ "benefits": {
+  "death_benefit_formula": {
+   "value": "higher of prevailing SA or regular premium fund value, plus higher of top-up SA or top-up fund; at least 105% of premiums paid",
+   "status": "built-in",
+   "doc": "future-wealth-gain.pdf",
+   "page": 3,
+   "quote": "Higher of (Prevailing Sum assured2 or Regular Premium Fund Value)",
+   "note": null,
+   "quote_2": "The death benefit is subject to the Guaranteed Death Benefit of 105% of the total premiums paid, till the",
+   "page_2": 3
+  },
+  "maturity_benefit": {
+   "value": "fund value",
+   "status": "built-in",
+   "doc": "future-wealth-gain.pdf",
+   "page": 2,
+   "quote": "Fund Value will be payable on the survival of the life assured to the maturity date, provided the policy is in",
+   "note": null
+  },
+  "loyalty_additions": {
+   "value": {
+    "rate": "1% of the 3-year average regular premium fund value (all premium bands)",
+    "when": "end of every 5th year from year 15"
+   },
+   "status": "built-in",
+   "doc": "future-wealth-gain.pdf",
+   "page": 3,
+   "quote": "at the end of every 5 policy year",
+   "note": null,
+   "quote_2": "Percentage 1% 1% 1%",
+   "page_2": 3
+  },
+  "wealth_boosters_or_guaranteed_additions": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "return_of_mortality_charges": {
+   "value": "100% of mortality charges (excluding extra and taxes) at maturity or end of year 15, whichever is later",
+   "status": "built-in",
+   "doc": "Download",
+   "page": 11,
+   "quote": "an amount equal to the total of all the Mortality Charges deducted, in accordance with Section 16 a) below during the Policy Term, will be added to the Regular Premium Fund Value at the",
+   "note": null
+  },
+  "return_of_premium_allocation_charges": {
+   "value": null,
+   "status": "not offered",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "return_of_policy_admin_charges": {
+   "value": null,
+   "status": "not offered",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "other_additions": {
+   "value": {
+    "Family Benefit": "for family members of existing Bajaj Life customers: 0.5% (PT < 20) or 1% (PT >= 20) of the 3-year average fund, at maturity"
+   },
+   "status": "optional (at inception)",
+   "doc": "future-wealth-gain.pdf",
+   "page": 4,
+   "quote": "<20 Years 0.5% >=20 Years 1%",
+   "note": null
+  }
+ },
+ "flexibility": {
+  "fund_switching": {
+   "value": "unlimited free (Investor Selectable strategy); none under Wheel of Life",
+   "status": "optional (during term)",
+   "doc": "Download",
+   "page": 14,
+   "quote": "The Policyholder can exercise unlimited free switches",
+   "note": null
+  },
+  "premium_redirection": {
+   "value": "change premium apportionment at any time (minimum 5% per fund)",
+   "status": "optional (during term)",
+   "doc": "Download",
+   "page": 15,
+   "quote": "The Policyholder may, at any time, change the proportion of Regular Premium and Top up Premium, if any, to the Funds he wishes to invest in.",
+   "note": null
+  },
+  "partial_withdrawals": {
+   "value": {
+    "from": "after the 5-year lock-in",
+    "minimum": "Rs 5,000",
+    "maximum": "50% of regular premium fund value",
+    "charge": "nil"
+   },
+   "status": "optional (during term)",
+   "doc": "Download",
+   "page": 15,
+   "quote": "iv) The maximum amount of Partial Withdrawal at any one time is 50% of the Regular Premium Fund Value, as on the withdrawal request date.",
+   "note": null
+  },
+  "systematic_withdrawal_plan": {
+   "value": "after year 5, policy term 10 years or more; % of fund value at a chosen frequency",
+   "status": "optional (during term)",
+   "doc": "future-wealth-gain.pdf",
+   "page": 13,
+   "quote": "Systematic Partial Withdrawal is allowed only after completion of first five policy years",
+   "note": null
+  },
+  "top_up_premiums": {
+   "value": {
+    "minimum": "Rs 5,000",
+    "not in": "last 5 policy years",
+    "lock-in": "5 years each"
+   },
+   "status": "optional (during term)",
+   "doc": "Download",
+   "page": 17,
+   "quote": "Top up Premiums at any time during the Policy Term, except during the last five (5) Policy Years",
+   "note": null
+  },
+  "settlement_option": {
+   "value": "maturity or death benefit in instalments over up to 5 years",
+   "status": "optional (during term)",
+   "doc": "Download",
+   "page": 16,
+   "quote": "The Policyholder/Nominee will have the option to receive the Maturity Benefit or Death Benefit in installments",
+   "note": null
+  },
+  "premium_holiday_or_offset": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "increase_decrease_cover": {
+   "value": "SA falls in proportion when the premium is reduced",
+   "status": "optional (during term)",
+   "doc": "Download",
+   "page": 18,
+   "quote": "reduced premium, the Sum Assured under the policy will be correspondingly reduced",
+   "note": null
+  },
+  "change_ppt_or_term": {
+   "value": {
+    "premium reduction": "after year 5, by up to 50% of the original premium, once reduced cannot be raised"
+   },
+   "status": "optional (during term)",
+   "doc": "Download",
+   "page": 18,
+   "quote": "The reduction can be up to a maximum percentage of 50% of the Regular Premium at the Policy Commencement Date subject to the minimum Annualized Premium allowed in the product.",
+   "note": null
+  },
+  "policy_loan": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "auto_portfolio_strategies": {
+   "value": [
+    {
+     "name": "Wheel of Life Portfolio Strategy",
+     "mechanics": "company resets the split between Bluechip Equity, Equity Growth II, Accelerator Mid Cap II, Bond and Liquid funds each anniversary by years to maturity; no switching"
+    },
+    {
+     "name": "Investor Selectable Portfolio Strategy",
+     "mechanics": "policyholder picks funds; can change strategy at any anniversary"
+    }
+   ],
+   "status": "optional (at inception)",
+   "doc": "Download",
+   "page": 23,
+   "quote": "reallocate the Regular Premium Fund Value and the Top Up Premium Fund Value, if any, at each Policy Anniversary into the various Funds mentioned below, based on the Years to Maturity",
+   "note": null
+  }
+ },
+ "funds": {
+  "fund_count": {
+   "value": 30,
+   "status": "n/a",
+   "doc": "Download",
+   "page": 19,
+   "quote": "30) BSE 500 Momentum Value 50 Index Fund",
+   "note": null
+  },
+  "fund_list": {
+   "value": [
+    {
+     "name": "Accelerator Mid Cap Fund II",
+     "SFIN": null,
+     "FMC_pct": 1.35,
+     "asset_allocation": "see policy document Part E",
+     "risk_label": null
+    },
+    {
+     "name": "Asset Allocation Fund II",
+     "SFIN": null,
+     "FMC_pct": 1.25,
+     "asset_allocation": "see policy document Part E",
+     "risk_label": null
+    },
+    {
+     "name": "Bluechip Equity Fund",
+     "SFIN": null,
+     "FMC_pct": 1.25,
+     "asset_allocation": "see policy document Part E",
+     "risk_label": null
+    },
+    {
+     "name": "Bond Fund",
+     "SFIN": null,
+     "FMC_pct": 0.95,
+     "asset_allocation": "see policy document Part E",
+     "risk_label": null
+    },
+    {
+     "name": "Equity Growth Fund II",
+     "SFIN": null,
+     "FMC_pct": 1.35,
+     "asset_allocation": "see policy document Part E",
+     "risk_label": null
+    },
+    {
+     "name": "Liquid Fund",
+     "SFIN": null,
+     "FMC_pct": 0.95,
+     "asset_allocation": "see policy document Part E",
+     "risk_label": null
+    },
+    {
+     "name": "Pure Stock Fund",
+     "SFIN": null,
+     "FMC_pct": 1.35,
+     "asset_allocation": "see policy document Part E",
+     "risk_label": null
+    },
+    {
+     "name": "Nifty Alpha 50 Index Fund",
+     "SFIN": null,
+     "FMC_pct": 1.35,
+     "asset_allocation": "see policy document Part E",
+     "risk_label": null
+    },
+    {
+     "name": "Nifty 200 Alpha 30 Index Fund",
+     "SFIN": null,
+     "FMC_pct": 1.35,
+     "asset_allocation": "see policy document Part E",
+     "risk_label": null
+    },
+    {
+     "name": "Focused 25 Fund",
+     "SFIN": null,
+     "FMC_pct": 1.35,
+     "asset_allocation": "see policy document Part E",
+     "risk_label": null
+    },
+    {
+     "name": "Pure Stock Fund II",
+     "SFIN": null,
+     "FMC_pct": 1.3,
+     "asset_allocation": "see policy document Part E",
+     "risk_label": null
+    },
+    {
+     "name": "Flexi Cap Fund",
+     "SFIN": null,
+     "FMC_pct": 1.35,
+     "asset_allocation": "see policy document Part E",
+     "risk_label": null
+    },
+    {
+     "name": "Sustainable Equity Fund",
+     "SFIN": null,
+     "FMC_pct": 1.35,
+     "asset_allocation": "see policy document Part E",
+     "risk_label": null
+    },
+    {
+     "name": "Small Cap Fund",
+     "SFIN": null,
+     "FMC_pct": 1.35,
+     "asset_allocation": "see policy document Part E",
+     "risk_label": null
+    },
+    {
+     "name": "Dynamic Asset Allocation Fund",
+     "SFIN": null,
+     "FMC_pct": 1.35,
+     "asset_allocation": "see policy document Part E",
+     "risk_label": null
+    },
+    {
+     "name": "Individual Short Term Debt Fund",
+     "SFIN": null,
+     "FMC_pct": 0.95,
+     "asset_allocation": "see policy document Part E",
+     "risk_label": null
+    },
+    {
+     "name": "Midcap Index Fund",
+     "SFIN": null,
+     "FMC_pct": 1.35,
+     "asset_allocation": "see policy document Part E",
+     "risk_label": null
+    },
+    {
+     "name": "Smallcap Quality Index Fund",
+     "SFIN": null,
+     "FMC_pct": 1.35,
+     "asset_allocation": "see policy document Part E",
+     "risk_label": null
+    },
+    {
+     "name": "Nifty 200 Momentum 30 Index Fund",
+     "SFIN": null,
+     "FMC_pct": 1.35,
+     "asset_allocation": "see policy document Part E",
+     "risk_label": null
+    },
+    {
+     "name": "Nifty 500 Multicap Momentum Quality 50 Index Fund",
+     "SFIN": null,
+     "FMC_pct": 1.35,
+     "asset_allocation": "see policy document Part E",
+     "risk_label": null
+    },
+    {
+     "name": "Nifty 500 Multifactor 50 Index Fund",
+     "SFIN": null,
+     "FMC_pct": 1.35,
+     "asset_allocation": "see policy document Part E",
+     "risk_label": null
+    },
+    {
+     "name": "BSE 500 Enhanced Value 50 Index Fund",
+     "SFIN": null,
+     "FMC_pct": 1.35,
+     "asset_allocation": "see policy document Part E",
+     "risk_label": null
+    },
+    {
+     "name": "BSE 500 Dividend Leaders 50 Index Fund",
+     "SFIN": null,
+     "FMC_pct": 1.35,
+     "asset_allocation": "see policy document Part E",
+     "risk_label": null
+    },
+    {
+     "name": "India Consumption Fund",
+     "SFIN": null,
+     "FMC_pct": 1.35,
+     "asset_allocation": "see policy document Part E",
+     "risk_label": null
+    },
+    {
+     "name": "Pure Stock Innovation Fund",
+     "SFIN": null,
+     "FMC_pct": 1.35,
+     "asset_allocation": "see policy document Part E",
+     "risk_label": null
+    },
+    {
+     "name": "BSE 500 Quality 50 Index Fund",
+     "SFIN": null,
+     "FMC_pct": 1.35,
+     "asset_allocation": "see policy document Part E",
+     "risk_label": null
+    },
+    {
+     "name": "Opportunities Fund",
+     "SFIN": null,
+     "FMC_pct": 1.35,
+     "asset_allocation": "see policy document Part E",
+     "risk_label": null
+    },
+    {
+     "name": "Nifty 500 Low Volatility 50 Index Fund",
+     "SFIN": null,
+     "FMC_pct": 1.35,
+     "asset_allocation": "see policy document Part E",
+     "risk_label": null
+    },
+    {
+     "name": "Nifty 200 Value 30 Index Fund",
+     "SFIN": null,
+     "FMC_pct": 1.35,
+     "asset_allocation": "see policy document Part E",
+     "risk_label": null
+    },
+    {
+     "name": "BSE 500 Momentum Value 50 Index Fund",
+     "SFIN": null,
+     "FMC_pct": 1.35,
+     "asset_allocation": "see policy document Part E",
+     "risk_label": null
+    }
+   ],
+   "status": "n/a",
+   "doc": "Download",
+   "page": 18,
+   "quote": "1) Accelerator Mid-Cap Fund II 2) Asset Allocation Fund II 3) Bluechip Equity Fund 4) Bond Fund 5) Equity Growth Fund II",
+   "note": "FMCs from the brochure; SFINs left out (split across lines)"
+  },
+  "index_or_thematic_funds": {
+   "value": "Midcap, Smallcap Quality, Nifty Alpha 50, Nifty 200 Alpha 30, Nifty 200 Momentum 30, Nifty 500 Multicap Momentum Quality 50, Nifty 500 Multifactor 50, BSE 500 Enhanced Value 50, BSE 500 Dividend Leaders 50, BSE 500 Quality 50, Nifty 500 Low Volatility 50, Nifty 200 Value 30, BSE 500 Momentum Value 50 index funds",
+   "status": "n/a",
+   "doc": "Download",
+   "page": 19,
+   "quote": "28) Nifty 500 Low Volatility 50 Index Fund 29) Nifty 200 Value 30 Index Fund 30) BSE 500 Momentum Value 50 Index Fund",
+   "note": null
+  },
+  "discontinued_policy_fund": {
+   "value": {
+    "name": "Discontinued Life Policy Fund",
+    "FMC": "0.50%"
+   },
+   "status": "built-in",
+   "doc": "future-wealth-gain.pdf",
+   "page": 18,
+   "quote": "Discontinued Life Policy Fund 0.50%",
+   "note": null
+  }
+ },
+ "protection_add_ons": {
+  "waiver_of_premium_inbuilt": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "critical_illness": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "accidental_death": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "terminal_illness": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "spouse_or_child_cover": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "riders_available": {
+   "value": [
+    "Bajaj Life Linked Accident Protection Rider II (116A057V03)",
+    "Bajaj Life Care Plus Rider (116A059V01)",
+    "Bajaj Life Linked New Critical Illness Benefit Rider (116A060V01)"
+   ],
+   "status": "rider",
+   "doc": "future-wealth-gain.pdf",
+   "page": 4,
+   "quote": "1. Bajaj Life Linked Accident Protection Rider II UIN: 116A057V03",
+   "note": null
+  }
+ },
+ "surrender_revival": {
+  "lock_in_years": {
+   "value": 5,
+   "status": "built-in",
+   "doc": "future-wealth-gain.pdf",
+   "page": 2,
+   "quote": "The Policyholder will not be able to surrender or withdraw the monies invested in unit linked insurance",
+   "note": null
+  },
+  "discontinuance_rules": {
+   "value": "discontinuance in the first 5 years: fund less charge goes to the Discontinued Life Policy Fund, no cover; revival possible within 3 years",
+   "status": "built-in",
+   "doc": "future-wealth-gain.pdf",
+   "page": 14,
+   "quote": "On Discontinuance of regular premiums due during the first five (5) policy years, the policy will be",
+   "note": null
+  },
+  "revival_period": {
+   "value": "3 years from the first unpaid premium",
+   "status": "built-in",
+   "doc": "Download",
+   "page": 8,
+   "quote": "Revival Period” means the period of three (3) consecutive complete years from the date of first unpaid premium",
+   "note": null
+  },
+  "surrender_value_rule": {
+   "value": "in lock-in: discontinuance value paid at the end of year 5; after: fund value",
+   "status": "built-in",
+   "doc": "future-wealth-gain.pdf",
+   "page": 4,
+   "quote": "On surrender after the lock-in period, the surrender value available will be the Fund Value, as on the date",
+   "note": null
+  }
+ },
+ "documents_inventory": [
+  {
+   "website_label": "E-Policy Bond",
+   "doc_type": "policy_document",
+   "url": "https://la.bajajlife.com/login-module/login?goto=ZS1Qb2xpY3kgQm9uZA==",
+   "found_on_page_url": "https://www.bajajlifeinsurance.com/ulip-plans/future-wealth-gain.html",
+   "pages": null,
+   "stored_path": null,
+   "status": "web page (not stored)",
+   "note": "link opens a web page, not a document"
+  },
+  {
+   "website_label": "Investment Insight -->",
+   "doc_type": "fund_factsheet",
+   "url": "https://www.bajajlifeinsurance.com/content/dam/balic-web/pdf/individual-factsheet.pdf",
+   "found_on_page_url": "https://www.bajajlifeinsurance.com/ulip-plans/future-wealth-gain.html",
+   "pages": null,
+   "stored_path": null,
+   "status": "skipped",
+   "note": "fund document does not name this product (company-wide)"
+  },
+  {
+   "website_label": "Download",
+   "doc_type": "policy_document",
+   "url": "https://www.bajajlifeinsurance.com/content/dam/balic-web/pdf/ulip/fwg-policy-document.pdf",
+   "found_on_page_url": "https://www.bajajlifeinsurance.com/ulip-plans/future-wealth-gain.html",
+   "pages": 39,
+   "stored_path": "docs/bajaj-life/116L202V01/policy.pdf",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "website_label": "Download",
+   "doc_type": "CIS",
+   "url": "https://www.bajajlifeinsurance.com/content/dam/balic-web/pdf/ulip/fwg-cis.pdf",
+   "found_on_page_url": "https://www.bajajlifeinsurance.com/ulip-plans/future-wealth-gain.html",
+   "pages": 4,
+   "stored_path": "docs/bajaj-life/116L202V01/cis.pdf",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "website_label": "future-wealth-gain.pdf",
+   "doc_type": "brochure",
+   "url": "https://www.bajajlifeinsurance.com/content/dam/balic-web/pdf/ulip/future-wealth-gain.pdf",
+   "found_on_page_url": "https://www.bajajlifeinsurance.com/ulip-plans/future-wealth-gain.html",
+   "pages": 23,
+   "stored_path": "docs/bajaj-life/116L202V01/brochure.pdf",
+   "status": "already stored (not linked from product page)",
+   "note": null
+  }
+ ],
+ "new_features_not_in_schema": [
+  {
+   "feature": "Family benefit",
+   "description": "policies bought by family members of existing Bajaj Life customers get 0.5% or 1% of the 3-year average fund at maturity",
+   "quote": "If any of your family member is an existing policyholder of Bajaj Life Insurance Limited, you will be entitled to",
+   "doc": "future-wealth-gain.pdf",
+   "page": 3
+  },
+  {
+   "feature": "Age-based automatic fund mix",
+   "description": "Wheel of Life resets the equity, bond and liquid split each anniversary by years to maturity",
+   "quote": "based on the Years to Maturity (as on the last Policy Anniversary) as per the table below.",
+   "doc": "Download",
+   "page": 23
+  }
+ ],
+ "data_not_public": []
+}

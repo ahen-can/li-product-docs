@@ -1,0 +1,2227 @@
+Aditya Birla Sun Life Insurance
+ABSLI Smart Wealth Pension Plan
+A Unit Linked Non-Participating Individual Pension Plan
+POLICY CONTRACT
+ PART B – DEFINITIONS
+
+GENERAL
+The Company may amend or place endorsement/s to this Policy from time to time for any changes agreed to
+by the Policyholder and the Company, and any such amendments or endorsement/s will form part of this
+Policy.
+
+In this Policy, the words or terms below that appear in initial capitals will have the specific meaning assigned
+to them below. These defined words or terms will, where appropriate to the context, be read so that the
+singular includes the plural, and the masculine includes the feminine.
+
+Any capitalized term used and not defined herein shall have the same meaning as is ascribed to them under
+the Rider Terms and Conditions, if the Rider has been provided for and is in force under the Policy. In case of
+any common terms in the Rider Terms and Conditions and this Policy, for the purpose of this Policy the
+meaning ascribed to such terms in this Policy shall prevail. This is a Unit Linked Life Insurance Policy. The actual
+payment of benefits under this Policy will vary based on the actual performance of the Segregated Funds
+offered under this Policy and as selected by You.
+
+Please read this Policy document carefully.
+
+IRDAI PRIOR APPROVAL
+Unless specifically stated otherwise, We reserve the right to increase each Charge applicable to Your Policy at
+any time. We, however, need to get prior approval from the Insurance Regulatory and Development Authority
+of India (IRDAI) before such Charge increase is effective.
+
+1. “Act” refers to the Insurance Act 1938 as amended from time to time and shall include the Insurance Laws
+   (Amendment) Act 2015.
+2. “Age” refers to age of the Life Insured as on the last birthday in completed years attained as on the Policy
+    Issue Date or on the previous Policy Anniversary, as the case may be.
+3. “Allocation” means the process of allocating premium to create units at the prevailing unit price in the
+    segregated funds offered under the linked insurance product, as and when the premiums are received or
+    switches from one fund to another fund are made.
+4. “Appointee” is the person who is appointed by You and as named in the Policy Schedule, who is authorized
+   to receive benefits under the Policy on behalf of the Nominee(s), in cases where the Nominee is less than
+   Age 18 on the date of claim payment.
+5. “Annualized Premium” is the amount specified in the Policy Schedule and means Instalment Premium
+   amount payable in a Policy Year, excluding any rider premiums, underwriting extra premium on riders and
+   applicable taxes, cesses or levies, if any.
+6. “Assignee” means the person to whom the rights and benefits are transferred by virtue of an assignment.
+7. “Assignment” means a provision wherein the Policyholder can assign or transfer a Policy in accordance
+   with Section 38 of the Insurance Act, 1938 as amended from time to time.
+8. “Business Day” means days other than holidays where stock exchanges (excluding Muhurat trading day)
+   with national wide terminals are open for trade or any day declared by the IRDAI as a business day.
+9. “Charges” means or refers to the charges as detailed in Policy Charges section of Part E of this policy
+   specified in Part E of this Policy.
+
+
+
+
+Policy Contract                                                                                 Page 1 of 46
+Aditya Birla Sun Life Insurance
+ABSLI Smart Wealth Pension Plan
+A Unit Linked Non-Participating Individual Pension Plan
+POLICY CONTRACT
+
+10. “Claimant” means You, Life Insured (if You are not the Life Insured), Nominee(s) (if valid nomination is
+    effected), assignee(s) or their heirs, legal representatives or holders of a succession certificate in case
+    Nominee(s) or assignee(s) is/are not alive at the time of claim.
+11. “Date of Commencement of Risk” is the date as shown in the Policy Schedule when risk cover on the life
+    of the Life Insured begins under this Policy.
+12. "Date of Discontinuance" means the date on which We receive a written intimation from You about the
+    Surrender of the Policy or on expiry of the Grace Period, whichever is earlier.
+13. “Death Benefit” means the benefit payable on death of the Life Insured as specified in Part C of this Policy.
+14. "Discontinuance" means the state of the Policy arising out of the Surrender of the Policy or on non-
+    payment of the Instalment Premium due before the expiry of the Grace Period.
+15. "Discontinuance/Surrender Charge" means a charge levied by Us on the Discontinuance or Surrender of
+    the Policy in accordance with the rates as specified in Part E of this Policy.
+16. “Free-Look Period” means the period during which, subject to Part D, You have an option to return the
+    original Policy to Us by stating the objections/reasons for such disagreement in writing.
+17. “Force Majeure Event” means an event by which performance of any of Our obligations is prevented or
+    hindered as a consequence of any act of God, State, strike, lock-out, legislation or restriction by any
+    government or other authority or any circumstance beyond Our anticipation or control, during
+    continuance whereof the performance of Our obligations under this Policy shall remain wholly or partially
+    suspended.
+18. “Funds" means the segregated unit linked funds established and managed by Us in accordance with Part
+    E of this Policy.
+19. “Fund Management Charge” means a charge levied by Us for management of the Segregated Funds and
+    calculated as a percentage of the Fund Value and appropriated by adjusting the NAV. The Fund
+    Management Charge shall be levied on each Valuation Date throughout the Policy Term.
+20. “Fund Value” is equal to the number of Units pertaining to Annualized Premiums allocated to the
+    Segregated Fund(s) chosen by You multiplied by the respective NAV of those Segregated Fund(s).
+21. “Grace Period” means the time granted by Us from the due date for the payments of Instalment Premium,
+    without any penalty or late fee, during which time the risk cover under the Policy is considered to be in-
+    force without any interruption, as per the terms & conditions of the Policy. The Grace Period for payment
+    of Instalment Premium for monthly premium payment mode is fifteen (15) days and thirty (30) days for
+    all other modes.
+22. “Instalment Premium” is the premium as payable by You during the Premium Payment Term for the Policy
+    on the due dates in a Policy Year, as specified in the Policy Schedule for effecting and continuing risk cover
+    under this Policy.
+23. “IRDAI” or “Authority” means the Insurance Regulatory and Development Authority of India.
+24. “Life Insured” is the person named in the Policy Schedule, on whose life the Policy is effected.
+25. “Limited Pay” is where the Premium Payment Term is more than one year, however, lesser than the Policy
+    Term.
+26. "Pension Discontinued Policy Fund" means the Segregated Fund that is set aside and is constituted by
+    the Fund Value of all policies discontinued during the Lock-In Period. The Pension Discontinued Policy Fund
+    is invested and on which a minimum guaranteed interest rate of 4% per annum (or as mandated by the
+    IRDAI from time to time) is payable by Us.
+27. “Lock-In Period” means the period of five (5) consecutive completed Policy Years from the Policy Issue
+    Date during which period the proceeds of the policies cannot be paid by the Us to the Policyholder or to
+    the Life Insured, as the case may be, except in the case of death or upon the happening of any other
+    contingency covered under the policy.
+
+
+
+
+Policy Contract                                                                                Page 2 of 46
+Aditya Birla Sun Life Insurance
+ABSLI Smart Wealth Pension Plan
+A Unit Linked Non-Participating Individual Pension Plan
+POLICY CONTRACT
+
+28. “Lapse” is the status of the Policy when due premium is not paid within the grace period.
+29. “Loyalty Additions” are additional units, calculated as a percentage of the average Fund Value over the
+    preceding 24 (Twenty-four) months, credited to the Fund Value from the end of the 6th Policy Year until
+    the end of the Policy Term, provided the Policy is in force and all due premiums have been paid.
+30. “Minor” is a person who has not completed 18 years of Age.
+31. “Mortality Charge” means a charge levied by Us on a sum at risk basis for providing life insurance cover
+    to the Life Insured during the Policy Term. The Mortality Charge is deducted from the Fund Value at the
+    beginning of each Policy Month on the basis of his/her Attained Age in accordance with the rates as
+    specified in Part E of the Policy.
+32. “Monthly Processing Date” means the date which corresponds numerically with the Policy Issue Date in
+    every calendar month.
+33. “Net Asset Value” or “NAV” or “Unit Price” means the price in accordance with Part E of this Policy at
+    which We allocate or redeem Units in each of the Funds on that day.
+34. “Nomination” is the process of nominating a person who is named as “Nominee” in the
+    proposal/application form or subsequently included/ changed by an endorsement. Nomination should be
+    in accordance with provisions of Section 39 of the Insurance Act, 1938 as amended from time to time.
+35. “Nominee” is the person who is nominated by You in accordance with Part F and whose name is
+    mentioned in the Policy Schedule, to receive the Death Benefit under this Policy. Nomination can only be
+    effected if You are also the Life Insured under the Policy.
+36. “Partial Withdrawal” means any amount withdrawn partially out of Fund Value by the Policyholder during
+    the term of the Policy in accordance with Part D of the Policy.
+37. “Plan Option” means the option chosen at the inception of the Policy and as specified in the Policy
+    Schedule. The Plan Option chosen cannot be changed later during the Policy Term.
+38. “Policy” means the contract of insurance entered into between You and Us as evidenced by this
+    document, the Proposal Form, the Policy Schedule and any additional information/document(s) provided
+    to Us in respect of the Proposal Form along with any written instructions from You, subject to Our
+    acceptance of the same and any endorsement issued by Us.
+39. “Policyholder” or “You” or “Your” means the owner of the Policy at any point of time.
+40. “Policy Anniversary” means the date which corresponds numerically with the Policy Issue Date in every
+    calendar year until the Maturity Date.
+41. “Policy Issue Date” is the date specified in the Policy Schedule on which this Policy is issued, and Your
+    rights, benefits and risk cover begin under the Policy.
+42. “Policy Month” is the period of one calendar month from the Monthly Processing Date.
+43. “Policy Schedule” means the policy schedule and any annexures, tables, and/or endorsements attached
+    to it from time to time and forming part of the Policy.
+44. “Policy Term” means the number of Policy Years as specified in the Policy Schedule for which the Policy is
+    in-force, commencing from the Policy Issue Date and ending on the Maturity Date.
+45. “Policy Year” is the period of twelve calendar months from the Policy Anniversary.
+46. “Premium Allocation Charge” means a charge, if any, as specified in Part E which is levied by Us and
+    calculated as a percentage of the Annualized Premium and deducted from the Annualized Premium
+    received by Us before the same is invested in the Segregated Funds.
+47. “Premium Payment Term” means the period specified in the Policy Schedule during which the Instalment
+    Premium is payable.
+
+
+
+
+Policy Contract                                                                            Page 3 of 46
+Aditya Birla Sun Life Insurance
+ABSLI Smart Wealth Pension Plan
+A Unit Linked Non-Participating Individual Pension Plan
+POLICY CONTRACT
+
+48. “Proceeds of the Discontinued Policy” means the Fund Value as on the date the Policy was discontinued,
+    after addition of interest. The income earned in the Pension Discontinued Policy Fund (less a Fund
+    Management Charge of 0.50% pa) will be subject to minimum guaranteed interest rate (currently 4% pa).
+49. “Proposal Form” means the form filled in and completed by You, for the purpose of obtaining insurance
+    coverage under this Policy.
+50. “Reduced Paid-up Policy” means the Policy under which the due Instalment Premiums have been
+    discontinued after the completion of the Lock-In Period.
+51. “Regular Pay” is where the Premium Payment Term is the same as the Policy Term.
+52. “Revival” means restoration of the policy, which was discontinued due to the non-payment of Instalment
+    Premium, by the Company with all the benefits mentioned in the Policy document, with or without Rider
+    benefits if any, upon the receipt of all the Instalment Premiums due and other charges or late fee if any,
+    as per the terms and conditions of the Policy, upon being satisfied as to the continued insurability of the
+    Life Insured or Policyholder on the basis of the information, documents and reports furnished by the
+    Policyholder, in accordance with Our Board approved Underwriting policy.
+53. "Revival Period" means a period of 3 (Three) consecutive years from the due date of first unpaid
+    Instalment Premium, during which period You will be entitled to revive the Policy discontinued due to
+    non-payment of Instalment Premium.
+54. "Return of Allocation Charge (ROAC)" means the credit of previously deducted premium allocation
+    charges to the Fund Value at specified policy milestones, based on the Unit Price prevailing on the date of
+    such credit, provided the Policy is in force and all due premiums have been paid.
+55. “Single Premium” amount payable by the Policyholder as lumpsum at the inception of the Policy for Single
+    Pay option.
+56. “Segregated Funds” means each of the separately identifiable segregated unit linked funds established
+    and managed by Us for unit linked business and as specified in Part of E of this Policy .
+57. “Sum Assured” is the amount specified in the Policy Schedule that is used to calculate the Death Benefit
+    that is to be paid on the death of the Life Insured subject to the terms and conditions of the Policy.
+58. "Surrender" means complete withdrawal or termination of the Policy.
+59. “Top-up Premium" is an amount of Premium that is paid voluntarily by the Policyholder besides the
+    contractual premium.
+60. “Top-up Sum Assured” is equal to 105% of the Top-up premiums paid.
+61. “Total Premiums Paid” means total of all the Premiums received under the base product including top-
+    ups premium paid, if any. Under Joint Life, after the first death of either life, the Total Premiums Paid will
+    also consider any premiums infused by the Company on behalf of the Life Insured.
+62. “Unit” is a specific portion, or a part of the underlying Segregated Fund which represents Policyholder’s
+    entitlement in such Segregated Funds.
+63. “Unit Price” is the Net Asset Value (NAV) per Unit of the Fund.
+64. “Vesting Date” is the date when the Policy matures at the end of Policy Term. The Policyholder can choose
+    a Vesting Date as per the terms and conditions of the Policy.
+65. "Valuation Date" means every Business Day on which We value the assets to which each of the Segregated
+    Funds is referenced for the purpose of declaring the NAV.
+
+
+
+
+Policy Contract                                                                                Page 4 of 46
+Aditya Birla Sun Life Insurance
+ABSLI Smart Wealth Pension Plan
+A Unit Linked Non-Participating Individual Pension Plan
+POLICY CONTRACT
+
+66. “We” or ”Our” or “Company” means Aditya Birla Sun Life Insurance Company Limited.
+
+ ABSLI Smart Wealth            Ver 1/Sep/2026             POL/9/26-27/652       109L157V01
+ Pension Plan
+
+
+
+
+Policy Contract                                                                         Page 5 of 46
+Aditya Birla Sun Life Insurance
+ABSLI Smart Wealth Pension Plan
+A Unit Linked Non-Participating Individual Pension Plan
+POLICY CONTRACT
+ PART C – POLICY FEATURES, BENEFITS AND PREMIUM PAYMENT
+
+    1. POLICY BENEFIT PROVISIONS
+
+ 1.1 Vesting Benefit:
+
+1.1.1    For Single Life:
+         On survival of the Life Insured until the Vesting Date, the Fund Value (including Top-up Fund Value) as
+         on the Vesting Date shall be payable, provided all due premiums have been paid and the Policy is in
+         force.
+
+1.1.2    For Joint Life:
+         On survival of either of the lives Insured until the Vesting Date, the Fund Value (including Top-up Fund
+         Value) as on the Vesting Date shall be payable, provided all due premiums have been paid and the
+         Policy is in force.
+
+1.1.3    Options to avail Vesting Benefit:
+         Upon survival of the Life Insured under a Single Life Policy or any of the lives insured in case of a Joint
+         Life Policy, till the Vesting Date, provided all due Premiums have been paid, the Policyholder, shall
+         have the following options for receiving the Vesting Benefit under this Policy:
+
+     i. Utilize the entire Vesting Benefit to purchase an Immediate Annuity or Deferred Annuity from ABSLI
+        at the then prevailing annuity rates. The Policyholder may also purchase an Immediate Annuity or
+        Deferred Annuity from another insurer at the prevailing annuity rates by utilizing up to 50% of the
+        policy proceeds, net of commutation.
+
+     ii. Commute/withdraw up to 60% of the Vesting Benefit and utilize the remaining amount to purchase
+         an Immediate Annuity or Deferred Annuity from ABSLI at the prevailing annuity rates. The Policyholder
+         may also purchase an Immediate Annuity or Deferred Annuity from another insurer at the prevailing
+         annuity rates by utilizing up to 50% of the policy proceeds, net of commutation.
+
+         If the policy proceeds (net of commutation) on the Vesting Date are insufficient to purchase the
+         minimum annuity amount prescribed by the Authority from time to time, such proceeds may be paid
+         to the Policyholder as a lump sum.
+
+         For QROPS Policyholders, the commuted value shall be restricted to 30% of the total Fund Value after
+         the Policyholder has attained the age of 55 years.
+
+  1.1.4 Postponement of Vesting Date
+         On the Vesting Date, the Policyholder will have an option to postpone the Vesting Date of the Policy,
+         provided the Policyholder (both lives in case of Joint Life option) is below an age of 60 years and
+         notifies the Company in advance at least 2 (two) months prior to the end of the existing Policy Term.
+
+
+
+
+Policy Contract                                                                                 Page 6 of 46
+Aditya Birla Sun Life Insurance
+ABSLI Smart Wealth Pension Plan
+A Unit Linked Non-Participating Individual Pension Plan
+POLICY CONTRACT
+
+         The minimum period of postponement shall be 1 (one) year and the maximum period of
+         postponement shall be up to the Age of attaining 75 years (last birthday). This facility shall be available
+         multiple times while the Policy is in force.
+         Upon receipt of a request for postponement, the Vesting Date shall be reset to the revised date, and
+         the Policy Term shall be extended accordingly. All Policy Benefits shall continue during the revised
+         Policy Term, and all applicable charges shall be deducted for the extended period. The Annuity Booster
+         amount shall become payable on the revised Vesting Date.
+
+
+ 1.2 Death Benefit:
+
+1.2.1    For Single Life:
+         On the death of the Life Insured during the Policy Term, provided all due premiums have been paid
+         and the Policy is in force, the Claimant shall receive the higher of:
+            i.   Fund Value (including Top-up Fund Value) as on the date of intimation of death; or
+           ii.   105% of the Total Premiums Paid, including Top-up Premiums, if any.
+
+         At all times, provided the Policy has not been discontinued, the Death Benefit payable shall never be
+         less than 105% of the Total Annualized Premiums or Single Premium, together with Top-up Premiums
+         (if any), received up to the date of death.
+
+         Any charges other than Fund Management Charges (FMC) deducted subsequent to the date of death
+         shall be added back to the Fund Value as available on the date of intimation of death.
+
+
+ 1.2.2 For Joint Life:
+
+        a. On the death of either of the lives insured during the Policy Term, provided all due premiums have
+             been paid and the Policy is in force:
+        i. The Company shall fund all future due premiums from the date of the death of either of the lives
+             insured;
+        ii. The Policy shall continue until the end of the Policy Term or until the death of the surviving Life
+             Insured, whichever occurs earlier;
+        iii. Loyalty Addition, Return of Allocation Charge (ROAC) and Annuity Booster shall be applicable as and
+             when due.
+
+           Any Mortality Charges deducted subsequent to the date of occurrence of death of either of the lives
+           insured shall be added back to the Fund Value as available on the date of intimation of death that
+           occurs first.
+
+
+        b. On the death of the surviving Life Insured during the Policy Term, the Claimant shall receive the
+            higher of—
+        i. the Fund Value (including Top-up Fund Value) as on the date of intimation of death or
+        ii. 105% of the Total Premiums Paid, including Top-up Premiums, if any. This benefit shall be
+            determined as on the date of intimation of death. Any charges deducted after the date of death,
+            other than Fund Management Charges (FMC), shall be added back to the Fund Value as on the date
+            of intimation of death.
+
+
+
+
+Policy Contract                                                                                 Page 7 of 46
+Aditya Birla Sun Life Insurance
+ABSLI Smart Wealth Pension Plan
+A Unit Linked Non-Participating Individual Pension Plan
+POLICY CONTRACT
+
+ 1.2.3 Options to avail Death Benefit:
+       The Claimant shall have the following options for receiving the Death Benefit under this Policy:
+       i.      Receive the entire Death Benefit as a lump sum; or
+       ii.     To utilize the whole or any part of the Policy proceeds for the purchase of an Immediate
+               Annuity or Deferred Annuity at the annuity rates prevailing at the time of such purchase.
+
+         Where the Death Benefit is insufficient to purchase the minimum annuity as prescribed by IRDAI from
+         time to time, the entire Death Benefit shall be paid to the Claimant as a lump sum.
+
+2.   Grace Period
+     If We do not receive the due Instalment Premium by the Premium Due Date, a Grace Period of 15 days
+     for monthly Premium payment mode and 30 days for all other Premium payment modes shall be allowed.
+     The Policy will remain in force with all applicable benefits, including risk cover, during the Grace Period.
+     If the due Instalment Premium is not received by the end of the Grace Period, the Policy shall be dealt
+     with in accordance with the discontinuance provisions of this Policy. In case the Life Insured dies during
+     the Grace Period, the Company shall be entitled to deduct the unpaid premiums from the benefits
+     payable to the Nominee / Claimant.
+
+3.   Lapsation of Policy
+     If the due Premium is not paid within the Grace Period, the Policy shall lapse and the following provisions
+     shall apply:
+          i. Where less than five (5) full Policy Years Premiums have been paid, the Fund Value, after
+              deduction of the applicable Discontinuance Charge, shall be transferred to the Pension
+              Discontinued Policy Fund.
+          ii. Where at least five (5) full Policy Years Premiums have been paid, the Policyholder may choose to
+              surrender the Policy or continue the Policy on a reduced paid-up basis during the Revival Period.
+
+4.   Policy Premium
+      Your Policy Schedule specifies the Annualized Premium/Single Premium payable in a Policy Year, the
+      Instalment Premium, Sum Assured and its due dates, as applicable. Subject to the Policy Discontinuance
+      and Revival provisions, We must receive Instalment Premiums in full as and when due in order for this
+      Policy to be valid and remain in force.
+
+
+
+
+Policy Contract                                                                               Page 8 of 46
+Aditya Birla Sun Life Insurance
+ABSLI Smart Wealth Pension Plan
+A Unit Linked Non-Participating Individual Pension Plan
+POLICY CONTRACT
+
+ PART D – POLICY TERMS AND CONDITIONS
+
+ 1. Free-look Cancellation:
+    You shall have a period of 30 days from the date of receipt of the Policy to review the terms and conditions
+    of this Policy. In case You disagree with any of the terms and conditions, You shall have the right to return
+    the Policy by providing written notice of cancellation, stating the reasons for such cancellation, together
+    with the original Policy Document (where such Policy is issued in physical form). Upon receipt of such
+    request, We shall refund an amount equal to the Policy Fund Value as on the date of cancellation, plus
+    any non-allocated Premium, and all charges levied by cancellation of Units (excluding Fund Management
+    Charges). The refund shall be reduced by proportionate mortality/risk premium charges for the period of
+    cover, medical examination expenses incurred by the Company, and stamp duty charges, in accordance
+    with the IRDAI (Protection of Policyholders' Interests, Operations and Allied Matters of Insurers)
+    Regulations, 2024. If this product is purchased as QROPS through transfer of UK tax relieved assets, the
+    proceeds from cancellation in free look period shall only be transferred back to the Fund House from
+    where the money was received.
+
+ 2. Policy Discontinuance, Surrender, Reduced Paid-up and Revival:
+
+ 2.1 Policy Discontinuance:
+
+      For Single Pay Policies:
+
+      Discontinuance of the Policy during the First 5 (Five) Policy Years
+      The Policyholder shall have the option to surrender the Policy at any time during the lock-in period. Upon
+      receipt of surrender request, the Fund Value, after deduction of the applicable Discontinuance Charges,
+      shall be credited to the Pension Discontinued Policy Fund.
+
+         i.       Such Discontinuance Charges shall not exceed the charges stipulated in Part E and clause
+                  2(A)(vi)(c)(V) of Schedule-I of IRDAI (Insurance Products) Regulation, 2024.
+        ii.       The Policy shall continue to be invested in the Pension Discontinued Policy Fund and the proceeds
+                  from the Pension Discontinued Policy Fund shall be paid at the end of lock-in period. During this
+                  period only the Fund Management Charge may be deducted from such fund. Further, no risk
+                  cover shall be available on such Policy during the discontinuance period.
+
+      For the purpose of this provision, "Proceeds of the Discontinued Policy" means the Fund Value as on the
+      date of discontinuance, together with the applicable interest accrued thereon. The income earned in the
+      Pension Discontinued Policy Fund, net of the Fund Management Charge, shall be subject to a minimum
+      guaranteed interest rate of 4% p.a. (or such other rate as may be prescribed by the Authority from time
+      to time).
+
+      Discontinuance of the Policy after completion of First 5 (Five) Policy Years
+
+      The Policyholder shall have the option to surrender the Policy at any time. Upon receipt of a surrender
+      request, the Fund Value as on the date of surrender shall be payable.
+
+
+
+
+Policy Contract                                                                                 Page 9 of 46
+Aditya Birla Sun Life Insurance
+ABSLI Smart Wealth Pension Plan
+A Unit Linked Non-Participating Individual Pension Plan
+POLICY CONTRACT
+
+         For Regular Pay / Limited Pay Policies
+         Discontinuance of the Policy during the First 5 (Five) Policy Years
+   i.       Upon expiry of the Grace Period, if the Policy is discontinued due to non-payment of premium, the
+            Fund Value after deduction of the applicable Discontinuance Charges, shall be credited to the Pension
+            Discontinued Policy Fund and the risk cover shall cease.
+   ii.      All such discontinued Policies shall be provided a Revival Period of three (3) years from the date of the
+            first unpaid premium. Upon such discontinuance, the Company shall communicate the status of the
+            Policy to the Policyholder within three (3) months from the date of the first unpaid premium and shall
+            provide the option to revive the Policy during the Revival Period.
+
+                    a) In case the Policyholder opts to revive but does not revive the Policy during the Revival Period,
+                       the proceeds of the Pension Discontinued Policy Fund shall be paid to the Policyholder at the
+                       end of the Revival Period or the lock-in period whichever is later. Where the Revival Period
+                       ends after the Lock-in Period, the Policy shall continue to remain in the Pension Discontinued
+                       Policy Fund until the expiry of the Revival Period. During such period, only the Fund
+                       Management Charge applicable to the Pension Discontinued Policy Fund shall be deducted.
+                    b) If the Policyholder does not exercise the option to revive the Policy, the policy shall continue
+                       without any risk cover, and the Policy Fund shall remain invested in the Pension
+                       Discontinuance Fund. Upon the expiry of the lock-in period, the proceeds of the Pension
+                       Discontinuance Policy Fund shall be paid to the Policyholder and the Policy shall terminate.
+                    c) The Policyholder shall have the option to surrender the Policy at any time. However, the
+                       proceeds of the discontinued Policy shall be payable only upon completion of the Lock-in
+                       Period or on the date of surrender, whichever is later.
+
+            “Proceeds of the discontinued Policy” means the Fund Value as on the date of discontinuance,
+            together with the applicable interest thereon. The amount in the Pension Discontinued Policy Fund,
+            net of Fund Management Charges, shall be subject to a minimum guaranteed interest rate of 4% p.a.
+            or such other rate as declared by the Authority from time to time.
+
+            Under Single Life or under Joint Life where both Lives Insured are alive, upon revival of the Policy, the
+            risk cover shall be restored and the monies in the Pension Discontinued Policy Fund shall be
+            transferred to the segregated funds as chosen by the Policyholder, after deduction of applicable
+            charges, in accordance with the terms and conditions of the Policy.
+            Under Joint Life, where one of the Lives Insured has died on or before the date of revival, future
+            premiums shall not be waived upon revival. The surviving Life Insured shall be required to pay all
+            future due premiums to keep the Policy in force. Upon revival, the risk cover shall be restored and the
+            monies in the Pension Discontinued Policy Fund shall be transferred to the segregated funds selected
+            by the Policyholder, after deduction of applicable charges, in accordance with the terms and
+            conditions of the Policy.
+            At the time of revival, the Company:
+
+              i)      Shall collect all due and unpaid premiums without charging any interest or fee;
+              ii)     Shall levy Policy Administration Charge and Premium Allocation Charge, as applicable during
+                      the discontinuance period; and .
+
+
+
+
+Policy Contract                                                                                     Page 10 of 46
+Aditya Birla Sun Life Insurance
+ABSLI Smart Wealth Pension Plan
+A Unit Linked Non-Participating Individual Pension Plan
+POLICY CONTRACT
+
+              iii) Shall add back to the Policy Fund, the discontinuance charges deducted at the time of
+                     discontinuance of the Policy.
+         In all the above cases (Single pay / Limited pay / Regular pay) where the Fund Value, net of applicable
+         Discontinuance Charges has been transferred to the Pension Discontinued Policy Fund in accordance
+         with the discontinuance provisions of the Policy, the following death benefit provisions shall apply:
+
+         i)        Single Life
+
+                   The Policy proceeds shall be released and paid immediately upon the death of the Life Insured.
+
+         ii) Joint Life
+
+                   Upon the death of either of the lives insured that occurs first, no death benefit shall be payable,
+                   and the Policy shall continue in the Pension Discontinued Policy Fund.
+
+                   Upon the death of the surviving Life Insured, the Policy proceeds shall be released and paid
+                   immediately.
+
+
+         Discontinuance of the Policy after Completion of the First 5 (Five) Policy Years
+              i.     Upon expiry of the Grace Period, if the Policy is discontinued due to non-payment of premium
+                     after completion of the Lock-in Period, the Policy shall automatically convert into a Reduced
+                     Paid-up Policy. The paid-up death benefit shall be equal to 105% of total premiums paid. The
+                     policy shall continue to be in reduced paid-up status without rider cover, if any. All applicable
+                     charges under the Policy shall continue to be deducted during the Revival Period.
+              ii. Upon such discontinuance, the Company shall communicate the status of the Policy to the
+                     Policyholder within three months of the first unpaid premium and provide the following
+                     options:
+                         a. Revive the Policy within the Revival Period of three (3) years, or
+                         b. Fully surrender the Policy.
+                iii. Where the Policyholder opts to revive the Policy but does not do so during the Revival Period,
+                       the Fund Value shall be paid to the Policyholder at the end of the Revival Period.
+                iv. If the Policyholder does not exercise any of the options specified above, the Policy shall
+                       continue in Reduced Paid-up status. Upon expiry of the Revival Period, the proceeds of the
+                       Policy Fund shall be paid to the Policyholder and the Policy shall terminate.
+                 v. The Policyholder shall have the option to surrender the Policy at any time, and the proceeds
+                       of the Policy Fund shall be payable upon such surrender.
+
+
+         Under Single Life or under Joint Life where both Lives Insured are alive, upon revival of the Policy the
+         risk cover shall be restored and the monies shall be transferred from the Pension Discontinued Policy
+         Fund to the segregated funds chosen by the Policyholder , after deduction of applicable charges, in
+         accordance with the terms and conditions of the Policy.
+         Under Joint Life, where one of the Lives Insured has died on or before the date of revival, the future
+         premiums shall not be waived upon revival. The surviving Life Insured shall be required to pay all
+         future due premiums to keep the Policy in-force. Upon revival, the risk cover shall be restored and the
+         monies shall be transferred from the Pension Discontinued Policy Fund to the segregated funds
+         chosen by the Policyholder, after deduction of applicable charges, in accordance with the terms and
+         conditions of the Policy.
+
+
+
+
+Policy Contract                                                                                   Page 11 of 46
+Aditya Birla Sun Life Insurance
+ABSLI Smart Wealth Pension Plan
+A Unit Linked Non-Participating Individual Pension Plan
+POLICY CONTRACT
+
+    At the time of revival, the Company:
+           i.     Shall collect all due and unpaid premiums under base plan without charging any interest or fee;
+          ii.     Shall levy applicable Policy Administration Charge and Premium Allocation Charge; and
+         iii.     Shall not levy any other charges.
+
+
+2.2 Surrender Benefit:
+    The policy can be surrendered anytime during the Policy Term. Any such surrender will be treated
+    according to the complete withdrawal as mentioned in Policy Discontinuance provision.
+
+    Options to Avail Surrender Benefit:
+    The Policyholder shall have the following options on surrender of the Policy.
+
+     a. To utilize the entire proceeds of the Policy to purchase an immediate annuity or deferred annuity from
+        Us at the prevailing annuity rates. The Policyholder shall also have the option to purchase an
+        immediate annuity or deferred annuity from another insurer at the prevailing annuity rates, by
+        utilizing not more than 50% of the proceeds of the Policy, net of commutation.
+     b. To commute/withdraw up to 60% of the proceeds of the Policy and utilize the balance amount to
+        purchase an immediate annuity or deferred annuity from Us at the prevailing annuity rates. The
+        Policyholder shall also have the option to purchase an immediate annuity or deferred annuity from
+        another insurer at the prevailing annuity rates, by utilizing not more than 50% of the proceeds of the
+        Policy, net of commutation.
+
+         If the proceeds of the Policy available after commutation are insufficient to purchase the minimum
+         annuity as permitted under the applicable IRDAI regulations, as amended from time to time, such
+         proceeds may be paid to the Policyholder as a lumpsum.
+
+         For QROPS Policyholders, the commuted value shall be restricted to 30% of the total Fund Value after
+         the Policyholder has attained the age of 55 years.
+
+2.3 Revival:
+
+     a) The Revival request shall be initiated during the Revival Period. We will consider requests from You to
+        revive a Discontinued Policy, provided that such requests are received in writing and before the
+        Maturity Date.
+     b) The Life Insured is required to furnish, at his / her own expense, satisfactory evidence of health and
+        continuity of insurability. We may call for additional information /documents to process the Revival
+        request.
+     c) All due Instalment Premiums till the date of Revival have been paid by You and received by Us.
+     d) We may revive or refuse to revive the Policy, based on the prevailing Board approved underwriting
+        guidelines. The Revival will take effect only on it being specifically communicated by Us to You.
+
+         On Revival, all the benefits under the Policy, which prevailed before the date on which the Policy was
+         converted to a Discontinued Policy, will be automatically reinstated, unless stated otherwise under
+         this Policy.
+
+
+
+
+Policy Contract                                                                              Page 12 of 46
+Aditya Birla Sun Life Insurance
+ABSLI Smart Wealth Pension Plan
+A Unit Linked Non-Participating Individual Pension Plan
+POLICY CONTRACT
+
+          The revival provisions under this Policy shall not apply to Single Pay Policies.
+
+ 3. Policy Loans:
+    No loans are available under the Policy.
+
+ 4. Options under the Policy:
+    You may exercise the following options subject to the terms and conditions below, by giving Us a written
+    notice:
+
+     i)   Change in Investment Option
+
+          The Policyholder has an option to change the Investment Option to any other available Investment
+          Option on a Policy Anniversary by providing at least 30 days' prior written notice to Us. Upon switching
+          to the Self-Managed Option, the existing Fund Value and all future Regular Premiums and Top-up
+          Premiums shall be allocated among the funds selected by the Policyholder. Upon switching to any
+          other Investment Option, the existing Fund Value and all future Regular Premiums and Top-up
+          Premiums shall be allocated in accordance with the allocation pattern applicable to the selected
+          Investment Option as described under the section E of this Policy. Only one Investment Option can be
+          chosen under the Policy at any time. After the death of the Life Insured under a Single Life Policy, or
+          after the death of both lives insured under a Joint Life Policy, the Nominee shall not be permitted to
+          change the Investment Option.
+
+      ii) Premium Allocation
+
+           The Instalment Premiums/Single Premium are allocated net of applicable Charges to the Segregated
+           Funds in force under the Policy. If the Policyholder has opted for the Self-Managed Investment Option
+           under the Policy, he/she shall specify the percentage of Instalment Premiums/ Single Premium that
+           will be allocated to a particular Segregated Fund at the inception of the Policy. The minimum
+           allocation to any Fund shall be 5%, and in multiples of 5% thereafter, subject to the maximum of
+           100%. The total allocation across all Funds must be 100%.
+
+      iii) Premium Redirection
+           The Policyholder has the option to redirect future Premiums under the Self-Managed Option by
+           submitting a written request specifying the percentage allocation among the available Funds. The
+           Policyholder has the option to make unlimited Premium redirection requests without any charge
+           during the Vesting Period.
+
+      iv) Fund Switching
+           If the Policyholder has selected the Self-Managed Option, the Policyholder has the option to switch
+           all or part of the Fund Value from one or more Segregated Funds to another Segregated Fund(s),
+           subject to a minimum switch amount of Rs.5,000. The Policyholder has the option to make an
+           unlimited number of switches in a Policy Year without any charge. However, switches shall not be
+           permitted during the period of discontinuance within the first five Policy Years. Switches shall be
+           allowed where the Policy has acquired a Paid-up Status after completion of the Lock-in Period. In
+           case of Joint Life, fund switching shall be allowed by the surviving life assured.
+
+
+
+
+Policy Contract                                                                               Page 13 of 46
+Aditya Birla Sun Life Insurance
+ABSLI Smart Wealth Pension Plan
+A Unit Linked Non-Participating Individual Pension Plan
+POLICY CONTRACT
+
+      v)     Risk Profile Switching
+             This option is available only where Smart Investment Option or LifeCycle Investment Option is in force
+             under the Policy. You can give Us a written notice to switch the risk profile under the Smart
+             Investment Option or LifeCycle Investment Option, free of charge, at any time during the Policy Term.
+             The Fund will be automatically rebalanced after the switch under this option, in accordance with the
+             applicable percentages under the Smart Investment Option or LifeCycle Investment Option at that
+             time. All Instalment Premiums received prospectively from the date of switch will be invested in
+             Pension Maximiser Fund and Pension Income Advantage Fund based on then outstanding Policy Term
+             and the new risk profile.
+
+       vi) Partial Withdrawals
+              The Policyholder can make Partial Withdrawals only after completion of five (5) Policy Years and
+              during the Policy Term, subject to the following conditions:
+
+           a. The maximum amount that may be withdrawn at any time shall not exceed 25% of the Fund Value,
+              subject to a minimum withdrawal amount of Rs.5,000.
+           b. Partial Withdrawals shall be permitted a maximum of three (3) times during the entire Policy Term.
+           c. Partial Withdrawals shall first be adjusted against the Top-up Fund Value (excluding Top-up
+              Premiums paid during the five years immediately preceding the date of such withdrawal), if any.
+              Upon exhaustion of the Top-up Fund Value, any further Partial Withdrawals shall be adjusted against
+              the basic Fund Value.
+           d. No charge shall be levied for availing the Partial Withdrawal facility.
+           e. Partial Withdrawals shall not be permitted during the Discontinuance Period.
+           f. Partial Withdrawal shall not be used for any adjustment to the Death Benefit.
+           g. Partial Withdrawals which result into termination of the Policy shall not be allowed.
+           h. Partial Withdrawals shall be allowed only for any of the following purposes:
+                   i. Higher education of the Life Assured's children, including legally adopted children;
+                  ii. Marriage of the Life Assured's children, including legally adopted children;
+                 iii. Purchase or construction of a residential house or flat in the name of the Life Assured or
+                      jointly with their legally wedded spouse, provided the Life Assured does not already own a
+                      residential house or flat (other than ancestral property);
+                 iv.  Treatment of a critical illness of the Life Assured, spouse, or dependent children, including
+                      legally adopted children;
+                  v.  Medical and incidental expenses arising from disability or incapacitation suffered by the Life
+                      Assured;
+                 vi.  Expenses incurred by the Life Assured towards skill development, re-skilling, or other self-
+                      development activities;
+                vii.  Expenses incurred by the Life Assured for establishing their own business venture or start-
+                      up; or
+               viii.  Any other purpose permitted under applicable IRDAI circulars, guidelines, regulations, or
+                      any other applicable law, as amended from time to time.
+
+           To avail a Partial Withdrawal, the Policyholder shall submit a written request specifying the applicable
+           purpose for which the withdrawal is sought. Where the withdrawal is sought for a health-related
+           reason, the Company may require supporting documents, including a certificate from a registered
+
+
+
+
+Policy Contract                                                                                 Page 14 of 46
+Aditya Birla Sun Life Insurance
+ABSLI Smart Wealth Pension Plan
+A Unit Linked Non-Participating Individual Pension Plan
+POLICY CONTRACT
+
+            Medical Practitioner, hospital records, or any other documents deemed necessary to substantiate the
+            request.
+
+  vii)      Settlement Option
+            The default mode of payment of the Death Benefit shall be a lumpsum. However, the Claimant shall
+            have the option to receive the Death Benefit in instalments under the Settlement Option. The
+            instalments may be payable monthly, quarterly, half-yearly, or yearly over a period of five (5) years.
+
+            If the Claimant opts for the Settlement Option:
+
+            i.   The Death Benefit shall remain invested in the Fund(s) in the same proportion as on the date of
+                 intimation of death.
+           ii.   The first instalment shall be payable on the date of intimation of death.
+          iii.   Each instalment shall be equal to the outstanding Fund Value as on the respective instalment due
+                 date divided by the number of instalments then remaining to be paid.
+          iv.    Instalment payments shall be made by redemption of units at the Unit Price applicable on the
+                 respective instalment due date.
+           v.    No risk cover or rider cover shall be available during the Settlement Period.
+          vi.    Partial withdrawals shall not be permitted during the Settlement Period.
+         vii.    Fund switches shall be permitted during the Settlement Period in accordance with the terms and
+                 conditions then applicable under the Policy.
+         viii.   The Fund Management Charge shall continue to be deducted through adjustment of the Unit Price
+                 during the Settlement Period.
+          ix.    The Claimant shall have the option to withdraw the outstanding Fund Value in full at any time
+                 during the Settlement Period. The amount payable shall be equal to the total number of units
+                 standing to the credit of the Policy multiplied by the applicable Unit Price on the date of such
+                 withdrawal.
+           x.    The investment risk in the Fund(s) during the Settlement Period shall be borne by the Claimant.
+
+
+ viii)      Changes Permitted Under the Policy:
+
+    i.       Premium Payment Term (PPT):
+             The Policyholder has an option to increase the Premium Payment Term, provided all due premiums
+             under the Policy have been paid. This option may be exercised at any time during the prevailing
+             Premium Payment Term, subject to completion of the first five Policy Years and payment of all due
+             premiums up to the date of request. The request must be made before the expiry of the existing
+             Premium Payment Term. Change in Premium Payment Term shall not be allowed for Joint Life Policies.
+
+   ii.       Premium Payment Frequency:
+             The Policyholder has an option to change the Premium Payment Frequency at any time during the
+             Policy Term, provided the existing and revised premium frequencies can be aligned and the revised
+             premium meets the minimum premium requirements applicable under the Policy. A miscellaneous
+             charge, as specified by the Company from time to time, shall be applicable for such change.
+
+
+
+
+Policy Contract                                                                                 Page 15 of 46
+Aditya Birla Sun Life Insurance
+ABSLI Smart Wealth Pension Plan
+A Unit Linked Non-Participating Individual Pension Plan
+POLICY CONTRACT
+
+ ix)    Top-up Premium Option
+        The Policyholder shall have the option to pay Top-up Premiums at any time, provided all due
+        Annualized Premiums or Single Premium, as applicable, have been paid. The Top-up Sum Assured shall
+        be equal to 105% of the Top-up Premium. The minimum Top-up Premium amount shall be Rs.5,000.
+        At any point in time, the aggregate Top-up Premiums paid shall not exceed the aggregate Annualized
+        Premiums or Single Premium paid under the Policy till the date of Top-up.
+
+        Any Top-up Premium once paid shall not be withdrawn for a period of five years from the date of
+        payment, except in the event of complete surrender of the Policy. The Policyholder shall have the
+        option to pay Top-up Premiums throughout the Policy Term. The Top-up Premium will be treated as a
+        Single Premium. In the case of a Joint Life Policy, no Top-up Premium shall be permitted after the
+        occurrence of death of either of the Life Insureds.
+
+ x)     QROPS (Qualifying Recognized Overseas Pension Scheme)
+        i. A Qualifying Recognized Overseas Pension Scheme (QROPS) is an overseas pension scheme that
+           satisfies the requirements prescribed by Her Majesty's Revenue and Customs (HMRC). Where this
+           Policy is purchased as a QROPS through the transfer of UK tax-relieved assets, the minimum age for
+           receiving annuity benefits shall be governed by the HMRC rules applicable from time to time.
+
+       ii. Benefits on Vesting:
+           Where the Policy is purchased as a QROPS through the transfer of UK tax-relieved assets, access to
+           Policy benefits, including tax-free commutation and annuitisation, shall be permitted only upon the
+           Life Assured attaining the age of 55 years (or such other age as may be prescribed by HMRC from
+           time to time) or the Vesting Age, whichever is later.
+
+       iii. Non-Forfeiture Benefits:
+            Where the Policy is purchased as a QROPS through the transfer of UK tax-relieved assets, access to
+            Policy benefits in the form of Partial Withdrawals or tax-free commutation/annuitisation upon
+            surrender shall not be permitted until the Life Assured attains the age of 55 years (or such other age
+            as may be prescribed by HMRC from time to time), except in the event of a Critical Ill Health
+            condition. A Critical Ill Health condition shall mean a condition certified in writing by a registered
+            medical practitioner confirming that the Life Assured is expected to live for less than one year.
+
+       iv. Overseas Transfer Charge:
+           If any overseas transfer tax charge becomes payable in respect of the Policy and Aditya Birla Sun Life
+           Insurance Company Limited, in its capacity as Scheme Manager, becomes liable for such charge, the
+           Company shall deduct an amount equivalent to the applicable tax charge from the Policy Fund Value
+           and remit the same to HMRC.
+
+           The terms & conditions under QROPS will be guided by applicable HMRC guidelines, as amended
+           from time to time.
+
+ xi)    Termination of Policy
+        Your Policy will terminate at the earliest of:
+         a. the date of payment of Free-Look cancellation amount;
+
+
+
+
+Policy Contract                                                                               Page 16 of 46
+Aditya Birla Sun Life Insurance
+ABSLI Smart Wealth Pension Plan
+A Unit Linked Non-Participating Individual Pension Plan
+POLICY CONTRACT
+
+          b. the date on which there is complete withdrawal as per the Policy Discontinuance Provision under
+             the Policy;
+          c. the date on which the Fund Value becomes nil;
+          d. the date when Death Benefit is paid;
+          e. the date of settlement of the Death Benefit (where Settlement Option is opted for);
+          f. the date of payment of Surrender Benefit or
+          g. the date of payment of Vesting Benefit.
+
+
+
+
+Policy Contract                                                                          Page 17 of 46
+Aditya Birla Sun Life Insurance
+ABSLI Smart Wealth Pension Plan
+A Unit Linked Non-Participating Individual Pension Plan
+POLICY CONTRACT
+
+ PART E – POLICY CHARGES, INVESTMENT FUND PROVISIONS & FUND ADDITIONS
+
+ PREMIUM BANDS: The Premium bands are categorised as per the Premium Range detailed herein below:
+
+    Band                    Premium Range
+   Band 1             Rs. 36,000 to Rs. 49,999 p.a.
+   Band 2             Rs. 50,000 to Rs. 99,999 p.a.
+   Band 3             Rs. 1,00,000 p.a. and above
+
+ POLICY CHARGES
+
+ 1. Premium Allocation Charge:
+    From each Premium received, a specified percentage shall be allocated for the purchase of Units at the
+    applicable Unit Price, while the remaining portion shall be deducted as the Premium Allocation Charge.
+
+       A) For Limited/Regular Pay - As % of Annualized Premium
+
+
+         Annual Mode:
+                                       Advantage                       Prime                  Elite
+          Policy Year
+                              Band 1 & 2       Band 3     Band 1 & 2           Band 3    Band 1,2 & 3
+                  1              10%            10%          6%                 6%             0%
+                  2               4%               4%        6%                 6%             0%
+                  3               4%               4%        6%                 6%             0%
+                  4               3%               3%        3%                 3%             0%
+                  5               3%               3%        3%                 3%             0%
+                  6+              3%               Nil       3%                 Nil            0%
+
+         Non-Annual Mode:
+                                       Advantage                       Prime                  Elite
+         Policy Year
+                             Band 1 & 2        Band 3     Band 1 & 2           Band 3    Band 1, 2 & 3
+                  1               8%               8%        5%                 5%             0%
+                  2               3%               3%        5%                 5%             0%
+                  3               3%               3%        5%                 5%             0%
+                  4               3%               3%        2%                 2%             0%
+                  5               2%               2%        2%                 2%             0%
+                  6+              2%               Nil       2%                 Nil            0%
+
+
+
+
+Policy Contract                                                                         Page 18 of 46
+Aditya Birla Sun Life Insurance
+ABSLI Smart Wealth Pension Plan
+A Unit Linked Non-Participating Individual Pension Plan
+POLICY CONTRACT
+
+        B) Single Pay (As a % of Single Premium)
+         Policy Year            Advantage                               Prime                             Elite
+                  1                  4%                                  2%                                0%
+                  2+                 Nil                                 Nil                               Nil
+
+
+         A premium allocation charge of 2% is levied on any top-up premium when paid.
+
+
+ 2. Fund Management Charge:
+    The Fund Management Charge shall be levied as a percentage of the Fund Value and shall be adjusted
+    in the Net Asset Value (NAV) of the respective Fund on a daily basis. The applicable Fund Management
+    Charge shall depend on the Fund(s) selected by the Policyholder.
+
+                         Fund                                SFIN No.                   Fund Management Charge
+                                                                                              per annum
+         Pension Maximiser Fund               ULIF04410/09/26ABSLPENMAX109                         1.35%
+         Pension Income Advantage Fund ULIF04510/09/26ABSLPENINA109                                1.00%
+         Pension Nourish Fund                 ULIF00604/03/03BSLNOURISH109                         1.00%
+         Pension Growth Fund                  ULIF00504/03/03BSLIGROWTH109                         1.00%
+         Pension Enrich Fund                  ULIF00404/03/03BSLIENRICH109                         1.25%
+
+     If the Policyholder discontinues payment of due Premiums or surrenders the Policy during the first five
+     Policy Years, the Policy shall be treated as a Discontinued Policy. In such case, the Regular/Limited/Single
+     Premium Fund Value, after deduction of the applicable Discontinuance Charge, shall be transferred to
+     the Pension Discontinued Policy Fund. The Fund Management Charge applicable to the Pension
+     Discontinued Policy Fund shall be 0.50% per annum.
+
+ 3. Policy Administration Charge:
+    This charge shall be deducted on each monthly Policy Anniversary by cancellation of Units at the
+    applicable Unit Price.
+
+         A) For Limited/Regular Pay
+           Policy Year                 Advantage / Prime                                   Elite
+                                Band 1 & 2                Band 3               Band 2                 Band 3
+      1 to 5                      0.175%                  0.175%               0.325%                0.325%
+      6 to 10                      0.25%                  0.25%                0.325%                0.325%
+      11 +                       0.25%                 Nil                     0.325%                   Nil
+        The Elite Option is not available under Band 1.
+
+
+
+
+Policy Contract                                                                                    Page 19 of 46
+Aditya Birla Sun Life Insurance
+ABSLI Smart Wealth Pension Plan
+A Unit Linked Non-Participating Individual Pension Plan
+POLICY CONTRACT
+
+         B) Single Pay
+           Policy Year         Advantage / Prime                                               Elite
+                                                                                           Band 3
+                                       Band 3
+                                                              Premium < Rs. 10 Lacs                    Premium >= Rs. 10 Lacs
+      1 to 5                           0.075%                           0.03%                                     Nil
+      6 to 10                          0.05%                            0.05%                                     Nil
+      11 +                               Nil                                Nil                                   Nil
+
+
+     The maximum Policy Administration Charge cannot exceed the cap as allowed by IRDAI from time to time.
+     Currently, the maximum Policy Administration Charge is Rs. 500 per month.
+
+
+ 4. Mortality Charge:
+    The Mortality Charge shall be deducted on each monthly anniversary of the Policy by cancellation of units
+    at the prevailing Unit Price. This charge is guaranteed throughout the Policy Term.
+
+     The Mortality Charge shall be determined based on the Sum at Risk (SAR) and the applicable mortality
+     rate corresponding to the attained age of the Life Insured. The Sum at Risk means the excess of the
+     applicable Death Benefit over the Fund Value, if any.
+
+ 5. Discontinuance/Surrender Charge:
+    The Discontinuance Charge is guaranteed and shall not be increased during the Policy Term. The charge
+    shall be deducted from the Policy Fund Value upon discontinuance or surrender of the Policy. The
+    applicable Discontinuance Charge on discontinuance or surrender of the Policy is set out below.
+
+    For Annual Premium Policies:
+          Policy Year
+                                   Annualized Premium up to Rs. 50,000/-             Annualized Premium above Rs. 50,000/-
+       Of Discontinuance
+            1                     Lower of 20% of AP, 20% of FV, Rs 3,000             Lower of 6% of AP, 6% of FV, Rs 6,000
+             2                    Lower of 15% of AP, 15% of FV, Rs 2,000             Lower of 4% of AP, 4% of FV, Rs 5,000
+             3                    Lower of 10% of AP, 10% of FV, Rs 1,500             Lower of 3% of AP, 3% of FV, Rs 4,000
+             4                      Lower of 5% of AP, 5% of FV, Rs 1,000             Lower of 2% of AP, 2% of FV, Rs 2,000
+             5+                                      Nil                                                 Nil
+
+
+    For Single Premium Policies:
+         Policy Year of              Maximum discontinuance charges                     Maximum discontinuance charges
+        Discontinuance                 for the policies having single                      for the policies having single
+                                       premium up to Rs. 3,00,000/-                       premium above Rs. 3,00,000/-
+                  1                 Lower of 2% of SP, 2% of FV, Rs 3,000              Lower of 1% of SP, 1% of FV, Rs 6,000
+                  2               Lower of 1.5% of SP, 1.5% of FV, Rs 2,000          Lower of 0.7% of SP, 0.7% of FV, Rs 5,000
+                  3                 Lower of 1% of SP, 1% of FV, Rs 1,500            Lower of 0.5% of SP, 0.5% of FV, Rs 4,000
+                  4               Lower of 0.5% of SP, 0.5% of FV, Rs 1,000         Lower of 0.35% of SP, 0.35% of FV, Rs 2,000
+              5+                                     Nil                                                  Nil
+    AP: Annualized Premium payable in a year, SP: Single Premium, FV: Fund Value.
+    No discontinuance charge will be applied on units in respect of Top-up premium (if any).
+
+
+
+
+Policy Contract                                                                                                 Page 20 of 46
+Aditya Birla Sun Life Insurance
+ABSLI Smart Wealth Pension Plan
+A Unit Linked Non-Participating Individual Pension Plan
+POLICY CONTRACT
+
+ 6. Switching Charge: Nil.
+
+ 7. Miscellaneous Charge:
+    The Company currently levies a charge of Rs.50 per request for change in Premium Payment Frequency,
+   change in Premium Payment Term, and postponement of the Vesting Date. The Company reserves the
+   right to revise such charge up to a maximum of Rs.500 per request in the future, subject to prior approval
+   from the Insurance Regulatory and Development Authority of India (IRDAI), if required under applicable
+   laws and regulations.
+
+ All charges are exclusive of GST.
+
+ Revision of Charges:
+ The Company reserves the right to revise the charges under the Policy, except the Premium Allocation
+ Charge and Mortality Charge, which are guaranteed throughout the Policy Term. Any revision in charges shall
+ be subject to approval of the IRDAI, wherever required under applicable laws and regulations. The Company
+ shall provide at least three (3) month’s prior notice of any such revision, following which the Policyholder
+ shall have the option to continue with the Policy or surrender it.
+
+ The following charges may be revised, subject to the maximum limits specified below:
+   Fund Management Charge: Up to a maximum of 1.35% per annum for the funds available under the
+     Policy and 0.50% per annum for the Pension Discontinued Policy Fund, adjusted through the Unit Price.
+   Policy Administration Charge: Up to a maximum of Rs.500 per month.
+   Miscellaneous Charge: Up to a maximum of Rs.500 per transaction.
+   Partial Withdrawal Charge: Up to a maximum of Rs.500 per transaction.
+   Switching Charge: Up to a maximum of Rs.500 per transaction.
+
+
+
+SEGREGATED FUND PROVISION
+
+1.    Investment Option
+        You will have five Investment Options to choose from –
+        a. Self-Managed Option,
+        b. Smart Investment Option,
+        c. Return Optimiser Investment Option,
+        d. LifeCycle Investment Option,
+
+     a. Self-Managed Option
+        You may specify the allocation percentages of Your Annualized Premium amongst five (5) Segregated
+        Funds. Accordingly, the Annualized Premium (net of Premium Allocation Charge) shall be allocated to
+        the Segregated Funds chosen by You. The premium allocation percentage to each Fund must be in
+        increments of 5% ranging from 5% and the total percentage across all Funds must be 100%. You have
+        full freedom to switch from one Segregated Fund to another. Policyholder will have full flexibility to
+        redirect future Instalment Premiums by changing the premium allocation percentages at any time.
+        Policyholder will also have full flexibility to switch monies from one Segregated Fund to another at any
+        time.
+
+
+
+
+Policy Contract                                                                             Page 21 of 46
+Aditya Birla Sun Life Insurance
+ABSLI Smart Wealth Pension Plan
+A Unit Linked Non-Participating Individual Pension Plan
+POLICY CONTRACT
+
+      b. Smart Investment Option:
+         Under this option, the Policyholder shall specify the preferred risk profile, namely Conservative,
+         Moderate or Aggressive. The Annualized Premium/Single Premium, net of applicable Premium
+         Allocation Charges, shall be invested in the Pension Maximiser Fund (equity- fund) and the Pension
+         Income Advantage Fund (debt- fund) in a predetermined proportion based on the chosen risk profile
+         and the outstanding Vesting Term.
+
+         The allocation of funds shall be automatically managed throughout the Policy Term and will
+         progressively shift from higher-risk assets to lower-risk assets as the Policy approaches the Vesting
+         Date. Accordingly, the proportion of the Policy Fund invested in the Pension Maximiser Fund and the
+         Pension Income Advantage Fund shall be adjusted in accordance with the schedule set out below.
+
+
+       Outstanding              Aggressive                        Moderate               Conservative
+         term to         Pension         Pension           Pension      Pension     Pension         Pension
+         Vesting        Maximiser        Income           Maximiser     Income     Maximiser        Income
+                                        Advantage                      Advantage                   Advantage
+      21 & above            90%             10%             70%              30%      50%              50%
+      16-20                 80%             20%             60%              40%      40%              60%
+      8-15                  65%             35%             50%              50%      30%              70%
+      4-7                   50%             50%             25%              75%      15%              85%
+      0-3                   20%             80%             10%              90%       5%              95%
+
+         On each subsequent policy anniversary, We will automatically rebalance the Fund Value between
+         these Fund options according to then applicable percentages. You will not have an option to redirect
+         Instalment Premiums or effect unit switches during the period this option is in force. You may opt out
+         of this option anytime during the Policy Term, the said opt out will be effective from the next policy
+         anniversary. However, post opting out, You will be allowed to exercise free Switches or Premium
+         Redirection options.
+
+         You may request in writing to change Your risk profile at any time. Once received by us, Your change
+         request will apply to the Fund Value and all Instalment Premiums received by Us from that date
+         onwards. The request for change in risk profile is currently free of cost.
+
+      c. Return Optimiser Investment Option
+         We will initially allocate Your Annualized Premium/Single Premium (net of Premium Allocation Charge)
+         in Pension Maximiser Fund. Maximiser Fund will be tracked every day for each policyholder for a pre-
+         determined upside movement of 10% or more over the net invested amount (net of all charges). In
+         the situation where the gain from the Pension Maximiser Fund reaches 10% or more of the net
+         invested amount, the amount equal to the appreciation will be transferred to the Pension Income
+         Advantage Fund at the prevailing Unit Price. This ensures that the gains are protected from any future
+         market volatilities. In the situation where gain from the Pension Maximiser Fund is less than the pre-
+         determined upside movement of 10%, the Fund Value will continue to remain in the Pension
+         Maximiser Fund, and no transfers will be made to the Pension Income Advantage Fund.
+
+
+
+
+Policy Contract                                                                             Page 22 of 46
+Aditya Birla Sun Life Insurance
+ABSLI Smart Wealth Pension Plan
+A Unit Linked Non-Participating Individual Pension Plan
+POLICY CONTRACT
+
+     d. LifeCycle Investment Option
+        We will allocate Your Annualized Premium (net of Premium Allocation Charge) in a predetermined
+        proportion based on Your risk profile and Your attained age. The proportion invested in Pension
+        Maximiser Fund (equity Fund) and Pension Income Advantage Fund (debt Fund) will be according to
+        the schedule given below.
+
+                  Age Group               Aggressive                Moderate                  Conservative
+      18 - 30                                90%                       70%                        50%
+      31 - 40                                80%                       60%                        50%
+      41 - 50                                70%                       50%                        30%
+      51 - 60                                55%                       35%                        15%
+      61 - 70                                40%                       20%                         0%
+      71 +                                   25%                        5%                         0%
+
+         On each subsequent policy anniversary, We will automatically rebalance the Fund Value between
+         these Fund options according to then applicable percentages. Policyholder doesn’t have an option to
+         redirect Instalment Premiums or effect unit switches during the period this option is in force. The
+         Policyholder may opt out of this option anytime during the Policy Term, which will then be effective
+         from the next policy anniversary. Also post opting out, You will be allowed to exercise free Switches
+         or Premium Redirection options.
+
+ 2. Fund Valuation
+    We will determine the value of each Fund at the end of every Business Day.
+
+     The NAV means the price per unit of the Segregated Fund and is determined based on (the market value
+     of investments held by the Fund plus the value of any current assets less the value of any current liabilities
+     & provisions) divided by the number of Units existing at Valuation Date (before creation or redemption
+     of     any      Units)    This     Unit    Price     will   be      published       on      Our      website
+     https://lifeinsurance.adityabirlacapital.com/.
+
+ 3. Fund Unit Allocation and Unit Redemption
+    Units will be redeemed or created at their NAV on the date of redemption or creation of those Units as
+    per the extant regulatory guidelines issued by the Authority.
+    You are required to provide Us written instructions to invest or encash Units at Our address specified in
+    the Schedule or at any of Our branch offices:
+    a. at or before 3:00 p.m. on a Business Day will be processed at the closing NAV on that day; and
+    b. after 3:00 p.m. on a Business Day will be processed at the closing NAV on the next business day,
+
+     Instruction to invest is deemed accepted by Us when We receive cash, demand draft or local cheque at
+     any of Our offices by duly authorized officials, unless in either case the payment comprises outstation
+     cheques or demand drafts, in which case the payment will be processed at the closing NAV on the day of
+     realization.
+
+
+
+
+Policy Contract                                                                               Page 23 of 46
+Aditya Birla Sun Life Insurance
+ABSLI Smart Wealth Pension Plan
+A Unit Linked Non-Participating Individual Pension Plan
+POLICY CONTRACT
+
+     Instructions accepted by Us up to the following cut-off time are executed using the Unit Price We
+     determine at the end of that Business Day. Instructions accepted by Us after the cut-off time will be
+     executed using the Unit Price determined by Us at the end of the next Business Day.
+
+     Number of Units allocated in the Segregated Fund equals the monetary amount invested in the
+     Segregated Fund divided by its Unit Price. Units will be allocated:
+     a. When an Annualized Premium/Single Premium is received;
+     b. When Loyalty Additions and ROAC are paid into the Fund Value
+     c. When the Policyholder decides to switch monies from one Segregated Fund to another;
+
+     Number of units redeemed from the Fund equals the monetary amount encashed from a Fund divided
+     by its unit price. Units are redeemed:
+     a. When a request for partial withdrawal is received;
+     b. When a request for switch is received.
+
+     Unless specifically instructed by the Policyholder, Units will be redeemed from all Segregated Funds in
+     the Policy in proportion to their value at that time.
+     On each monthly processing date, Charges will be covered by redeeming Units from all Funds from the
+     Policy in proportion to the value at that time.
+     Termination of the Policy will result in redemption of all Units in all Segregated Funds under the Policy at
+     that time.
+     The above-mentioned cut-off timings are subject to change according to applicable regulations.
+
+ 4. Segregated Funds
+    Current Segregated Fund/s under this Policy:
+
+  a. Pension Maximiser Fund
+     Objective: To provide long term capital appreciation by actively managing a well-diversified equity
+     portfolio of fundamentally strong blue chip companies. Further, the fund seeks to provide a cushion
+     against the sudden volatility in the equities through some investments in short-term money market
+     instruments.
+     Strategy: To build and actively manage a well-diversified equity portfolio of value and growth driven
+     stocks by following a research focused investment approach. While appreciating the high risk associated
+     with equities, the fund would attempt to maximize the risk-return pay off for the long-term advantage of
+     the policyholders. The fund will also explore the option of having exposure to quality mid cap stocks. The
+     non-equity portion of the fund will be invested in good rated (P1/A1 & above) money market instruments
+     and fixed deposits. The fund will also maintain a reasonable level of liquidity.
+
+
+  b. Pension Income Advantage Fund
+     Objective: To provide capital preservation and regular income, at a high level of safety over a medium-
+     term horizon by investing in high-quality debt instruments.
+     Strategy: To actively manage the fund by building a portfolio of fixed income instruments with medium
+     term duration. The fund will invest in government securities, high rated corporate bonds, high-quality
+     money market instruments and other fixed income securities. The quality of the assets purchased would
+
+
+
+
+Policy Contract                                                                              Page 24 of 46
+Aditya Birla Sun Life Insurance
+ABSLI Smart Wealth Pension Plan
+A Unit Linked Non-Participating Individual Pension Plan
+POLICY CONTRACT
+
+     aim to minimize the credit risk and liquidity risk of the portfolio. The fund will maintain reasonable level
+     of liquidity.
+
+
+  c. Pension Nourish Fund
+     Objective: To generate consistent returns through active management of fixed income portfolio and
+     focus on creating long-term equity portfolio, which will enhance yield of composite portfolio with
+     minimum risk.
+     Strategy: To invest in fixed income securities with marginal exposure to equity up to 10% at low level of
+     risk. This product is suitable for those who want to preserve their capital and earn steady return on
+     investment through higher exposure to debt securities.
+
+
+ d. Pension Growth Fund
+     Objective: To grow your capital through enhanced returns over a medium to long term period through
+     investments in equity and debt instruments, thereby providing a good balance between risk and return.
+     It is suitable for those who want to earn a higher return on investment through balanced exposure to
+     equity and debt securities.
+     Strategy: To earn capital appreciation by maintaining diversified equity portfolio and seek to earn regular
+     return on the fixed income portfolio by active management resulting in wealth creation for policyholders.
+
+
+e. Pension Enrich Fund
+     Objective: To help build your capital and generate better returns at moderate level of risk, over a
+     medium or long-term period through a proper balance of investment in equity and debt.
+     Strategy: To generate better return with moderate level of risk through active management of fixed
+     income portfolio and focus on creating a longterm equity portfolio, which will enhance yield of the
+     composite portfolio with low level of risk.
+
+
+The Company will manage the investment mix of each Fund according to Schedule A given below.
+
+Schedule A
+List of Fund/s available under this policy, the risk profile and limits in asset classes for each segregated fund
+is mentioned below:
+
+  Segregated                                           Existing/New
+                  Segregated Fund Identification No.                  Risk Profile     Asset Allocation        Min.        Max.
+     Fund                                                  Fund
+    Pension                                                                           Debt Instruments          0%          20%
+   Maximiser      ULIF04410/09/26ABSLPENMAX109          New Fund         High        Money Market & Cash        0%          20%
+     Fund                                                                                 Equities             80%         100%
+    Pension
+                                                                                      Debt Instruments         60%         100%
+    Income
+                  ULIF04510/09/26ABSLPENINA109          New Fund       Very Low      Money Market & Cash        0%          40%
+   Advantage
+                                                                                          Equities              0%           0%
+     Fund
+
+
+
+
+Policy Contract                                                                                            Page 25 of 46
+Aditya Birla Sun Life Insurance
+ABSLI Smart Wealth Pension Plan
+A Unit Linked Non-Participating Individual Pension Plan
+POLICY CONTRACT
+
+                                                                                Debt Instruments         90%         100%
+   Pension
+                  ULIF00604/03/03BSLNOURISH109     Existing Fund    Very Low   Money Market & Cash        0%           0%
+ Nourish Fund
+                                                                                    Equities              0%          10%
+                                                                                Debt Instruments         80%         90%
+    Pension
+                  ULIF00504/03/03BSLIGROWTH109     Existing Fund    Very Low   Money Market & Cash        0%          0%
+  Growth Fund
+                                                                                    Equities             10%         20%
+                                                                                Debt Instruments         65%         80%
+ Pension Enrich
+                  ULIF00404/03/03BSLIENRICH109     Existing Fund      Low      Money Market & Cash        0%          0%
+     Fund
+                                                                                    Equities             20%         35%
+                                                                               Government Securities
+     Pension                                                                                             60%         100%
+                                                                               Money Market & Cash
+  Discontinued      ULIF03205/07/13BSLILDIS109     Existing Fund    Very Low                              0%          40%
+                                                                                 Equities & Equity
+   Policy Fund                                                                                            0%           0%
+                                                                                 Related Securities
+
+
+ 5. Funds Additions and Closures
+    With the approval from the IRDAI We may from time to time add new Funds under Your Policy. All
+    provisions in this Policy will continue to apply unless specifically stated otherwise. We will inform You of
+    such addition no later than 60 days after it is made available under Your Policy.
+
+     With the approval from the IRDAI We may at any time close a Fund available in Your Policy. We will inform
+     You in writing of such closure no later than 60 days before We actually close the Fund and You will be
+     requested to select an alternative Segregated Fund. If We do not receive any intimation from You, the
+     Fund shall be transferred to a conservative Fund by default. Pension Income Advantage is currently Our
+     conservative Segregated Fund.
+
+ 6. Additions to the Fund
+
+ 6.1 Loyalty Additions
+      Loyalty Additions are benefits credited at the end of every Policy Year in the form of additional units to
+      the Policy provided that the Policy is in-force (i.e. the Policy is either premium paying or fully paid up).
+      The Loyalty Addition shall be calculated as a percentage of the average Fund Value over the preceding
+      24 months. Loyalty Additions shall also be applicable to the Top-up Fund Value, if any.
+
+
+      Limited Pay/Regular Pay:
+              Bands              Policy Year              Advantage             Prime                     Elite
+      Band 1                          All                                          Nil
+                                    1 to 5                                         Nil
+                                   6 to 20                 0.20%                0.10%                    0.10%
+      Band 2 & Band 3              21 to 30                0.25%                0.15%                    0.15%
+                                   31 to 40                0.30%                0.20%                    0.20%
+                                     41+                    0.35%               0.25%                    0.25%
+
+
+
+
+Policy Contract                                                                                      Page 26 of 46
+Aditya Birla Sun Life Insurance
+ABSLI Smart Wealth Pension Plan
+A Unit Linked Non-Participating Individual Pension Plan
+POLICY CONTRACT
+
+      Single Pay:
+              Bands              Policy Year              Advantage           Prime                  Elite
+                                    1 to 5                                      Nil
+      Band 3                        6 to 10                1.20%              1.00%                 0.10%
+                                     11+                   0.25%              0.25%                 0.25%
+
+
+    The Loyalty Addition shall be 50% higher for policies where the Life Insured (under Single Life Policy) or
+    the Primary Life Insured (under Joint Life Policy) is female at the inception of the Policy. The Loyalty
+    Addition rate determined at inception shall remain applicable throughout the Policy Term and shall
+    continue to apply, in the case of a Joint Life Policy, even after the death of the Primary Life Insured.
+
+
+ 6.2 Return of Allocation Charge (ROAC)
+    Return of Allocation Charge (ROAC) is a benefit credited to the Policy in the form of additional units at the
+    end of specified policy years during the Policy Term, provided the Policy is in-force (i.e., the Policy is either
+    premium paying or fully paid-up). The ROAC shall be calculated as a specified percentage of the total
+    Allocation Charges collected up to the end of the relevant policy year.
+    For the avoidance of doubt, ROAC shall not be applicable on any Allocation Charges deducted in respect
+    of Top-up Premiums, if any.
+
+
+      Limited Pay/Regular Pay:
+           Policy Year           Advantage                 Prime               Elite
+                  10                60%                     50%
+                  15                60%                     50%
+                  20                120%                   100%                 NA
+                  25                120%                   100%
+                  30                240%                   200%
+
+      Single Pay:
+           Policy Year           Advantage                 Prime               Elite
+                  10                120%                   100%
+                  15                120%                   100%
+                  20                120%                   100%                 NA
+                  25                120%                   100%
+                  30                240%                   200%
+
+
+ 6.3 Annuity Booster
+      The Annuity Booster shall be is applicable if the Policyholder utilizes the Vesting Benefit (minimum 40%
+      to a maximum of 100%) to purchase an immediate or deferred annuity from ABSLI at the then prevailing
+
+
+
+
+Policy Contract                                                                                 Page 27 of 46
+Aditya Birla Sun Life Insurance
+ABSLI Smart Wealth Pension Plan
+A Unit Linked Non-Participating Individual Pension Plan
+POLICY CONTRACT
+
+      annuity rate. The proportion of the Vesting Benefit elected to be annuitized by the Policyholder must be
+      fully utilized for the purchase of such annuity from ABSLI. In such cases, the Company shall add a Vesting
+      Booster, to the annuitized portion as follows:
+        i.    1% of the average Fund Value (including Top-up Fund Value) of the last 24 months, for Limited
+              Pay and Regular Pay Policies; and
+       ii.    0.5% of the average Fund Value (including Top-up Fund Value) of the last 24 months, for Single
+              Pay Policies.
+      The Vesting Booster shall be available only if the Policy is in-force on the Vesting Date.
+      In the event the Vesting Date is postponed in accordance with the terms of the Policy, the Vesting
+      Booster shall become payable on the revised Vesting Date.
+
+
+
+
+Policy Contract                                                                               Page 28 of 46
+Aditya Birla Sun Life Insurance
+ABSLI Smart Wealth Pension Plan
+A Unit Linked Non-Participating Individual Pension Plan
+POLICY CONTRACT
+
+ PART F – GENERAL TERMS AND CONDITIONS
+
+ 1. Contract
+    Your contract includes this Policy Document, the proposal for the Policy and any amendments,
+    endorsements agreed upon in writing after the Policy is issued. The contract also includes declarations
+    given by the Policyholder, any medical report form and written statements and answers furnished as
+    evidence of insurability. We are bound only by statements that are part of the contract. Only Our
+    authorized officers can agree to any change in the contract and the same shall become enforceable only
+    when they are given in writing by the authorized officers.
+
+     This contract does not provide for participation in the distribution of profits or surplus declared by us.
+
+     All the communication/ documents including the Policy document will be sent and issued in electronic
+     form unless a specific request is received from You to issue the Policy Document in physical form. It shall
+     be Your responsibility to confirm Your address, email ID, mobile no, bank account details (contact
+     information) or update any change in such contact information. In the event of non- receipt of the
+     Contract, You should contact Our Customer Care Unit before expiry of the Free-Look Period.
+
+     For more details on E-Insurance Policy, please visit Our website or contact Our Relationship Manager.
+
+     As the purchase of policy shall be in electronic mode through online or electronic application, the
+     Application form and Sales Illustration shall be validated through One-time password (OTP) sent on Your
+     mobile number/e-mail ID and undertaking obtained in the Client Declaration form if any or through any
+     other means as may be notified by the Company from time to time.
+
+ 2. Taxes
+    The income tax on Your Policy will be as per prevailing Income Tax laws in India and any amendment(s)
+    made thereto from time to time. As per the applicable laws and any amendments made thereto from
+    time to time, We reserve the right to:
+     deduct or withhold tax as the case may be; and
+     recover levies, taxes, cesses and duties including but not limited to Goods and Service Tax (GST) from
+       You or adjust the same from the amounts paid by You or accrued or payable to You under the Policy.
+
+ 3. Claim Procedures
+    The Policyholder/Nominee/Claimant should notify the claim with proof of claim at the nearest Aditya
+    Birla Sun Life Insurance Co. Ltd. Branch office or through our Customer Portal
+    https://lifeinsurance.adityabirlacapital.com/customer-service/claim-procedure/online-claim or to the
+    ‘Claims Department’ at claimsnotification.lifeinsurance@adityabirlacapital.com and the claim documents
+    to be simultaneously sent at Aditya Birla Sun Life Insurance Company Limited, G- Corp Tech Park, 5th &
+    6th Floor, Kasar Vadavali, Near Hypercity Mall, Ghodbunder Road, Thane (West) – 400601.
+
+     The claim is required to be intimated to us within a period of 90 days from the date of death. However,
+     we may condone the delay in claim intimation, if any, and the delay is proved to be for reasons beyond
+     the control of the claimant.
+
+     For processing a claim (be it on maturity or death) under this policy the following documents are required:
+
+     For Maturity Benefit:
+     • Original policy document
+
+
+
+
+Policy Contract                                                                              Page 29 of 46
+Aditya Birla Sun Life Insurance
+ABSLI Smart Wealth Pension Plan
+A Unit Linked Non-Participating Individual Pension Plan
+POLICY CONTRACT
+
+     • Policy Payout Form
+
+     For Death Benefit:
+     Mandatory Claim Requirements:
+     • Original policy document
+     • Claimant’s statement form
+     • Death Certificate issued by Municipal Corporation/Gram Panchayat (Self attested copy)
+     • KYC Document of beneficiary (Self attested copy)
+     • Relationship of beneficiary with Life Insured
+     • Bank details of the beneficiary
+
+     Additional Requirements: (Claims within 3 years from date of issue/Revival)
+     • Medical Attendant’s Certificate, if any
+     • Hospital or treatment records, if any (Self attested copy)
+     • Employer’s Certificate, if applicable
+
+     Additional Requirements for Accidental/Unnatural Death:
+     1) FIR & Final Police Closure Report
+     2) Post Mortem Report
+     3) Policy Inquest Report/Inquest Panchnama
+     4) News Paper Cutting (if any)
+
+     For processing Maturity claim under this Policy, Maturity proceeds shall be credited in Policyholder’s bank
+     account as per the bank details available in our records. In case of any change in the bank details You are
+     requested to update the bank details by submitting a request at the nearest Aditya Birla Sun Life Insurance
+     Co. Ltd. branch office or through our website https://lifeinsurance.adityabirlacapital.com/ or Customer
+     Portal or any other mode as allowed by the company.
+
+     Any other relevant information/ document as may be required by ABSLI depending on the circumstances
+     of the death or illness needs to be provided.
+
+     Beneficiary       can     download         the     claim      documents        from     our       website
+     https://lifeinsurance.adityabirlacapital.com/ or can obtain the same from any of ABSLI branches. In case
+     You are unable to provide any or all the above documents, in exceptional circumstances such as a natural
+     calamity, we may at our own discretion conduct an investigation/ verification and accord a claim decision.
+
+     More details on the Turn Around Time (TAT) for claims settlement and brief procedure can be found on
+     https://lifeinsurance.adityabirlacapital.com/customer-service/service-tats. For any further queries, You
+     can call us at our toll free no. 1800 270 7000 or email us at Aditya Birla Capital - Life Insurance
+     “claims.lifeinsurance@adityabirlacapital.com”. The link for downloading claim form and list of documents
+     required is https://lifeinsurance.adityabirlacapital.com/customer-service/claim-procedure/online-
+     claim/claim-forms-and-downloads.
+
+     Claimant/Beneficiary may intimate Us about Death claim via the following ways:
+     • Online intimation through ABSLI Website (https://lifeinsurance.adityabirlacapital.com/)
+     • Through e-mail on claims.lifeinsurance@adityabirlacapital.com
+     • Visit nearest ABSLI Branch Offices
+
+
+
+
+Policy Contract                                                                             Page 30 of 46
+Aditya Birla Sun Life Insurance
+ABSLI Smart Wealth Pension Plan
+A Unit Linked Non-Participating Individual Pension Plan
+POLICY CONTRACT
+
+ 4. Policy Servicing
+    All servicing related requests should be in writing and delivered to Us through any of the following modes:
+
+     • You can email us at care.lifeinsurance@adityabirlacapital.com, or
+     • For NRI Customer, you can email us at absli.nrihelpdesk@adityabirlacapital.com or
+     • Visit Our nearest Branch Office
+
+     More details on the Turn Around Time (TAT) for processing any servicing related request can be found on
+     https://lifeinsurance.adityabirlacapital.com/customer-service/service-tats . The link for downloading
+     applicable     forms     and     list    of   documents      for      servicing    related   request      is
+     https://lifeinsurance.adityabirlacapital.com/forms-and-downloads/policy-servicing-forms . For any
+     further assistance that You may require, You can call us at our toll free no. 1800 270 7000 or get in touch
+     with Our relationship manager.
+
+ 5. Issuance of duplicate Policy
+    The Policyholder can make an application for duplicate Policy on payment of ₹ 250/- upon loss of Policy
+    document along with other requirements as may be prescribed by the Company.
+
+ 6. Fraud and Misstatement
+    Fraud and misstatement would be dealt with in accordance with provisions of Section 45 of the Insurance
+    Act, 1938, as amended from time to time. For more details on Section 45 of the Insurance Act, 1938, as
+    amended from time to time, please refer to Annexure C.
+
+ 7. Suicide Clause
+    In case of death of the Life Assured under Single Life or any of the lives under Joint Life due to suicide
+    within 12 months from the Policy Issue Date or from the date of Revival of the Policy, as applicable, the
+    Nominee or the beneficiary of the Policyholder shall be entitled to the Fund Value, as available on the
+    date of intimation of death.
+
+     Any charges other than Fund Management Charges recovered subsequent to the date of death shall be
+     added back to the Fund Value as available on the date of intimation of death.
+
+ 8. Travel and Occupation
+    There are no restrictions on travel or occupation under this Policy.
+
+ 9. Assignment
+    Assignment will be governed as per the provisions of Section 38 of the Insurance Act, 1938 as amended
+    from time to time. For more details on the assignment, please refer to Annexure A.
+
+ 10.Nomination
+    Nomination is allowed as per the provisions of Section 39 of the Insurance Act, 1938 as amended from
+    time to time. For more details on the nomination, please refer to Annexure B.
+
+ 11.Currency and Place of Payment
+    All payments to or by Us will be in accordance with the prevailing Exchange Control regulations and other
+    relevant laws and regulations of India. Indian Rupee (INR) is the currency of this Policy. We will make or
+    accept payments relating to this Policy at any of Our offices in India or such other locations as determined
+    by Us from time to time.
+
+
+
+
+Policy Contract                                                                              Page 31 of 46
+Aditya Birla Sun Life Insurance
+ABSLI Smart Wealth Pension Plan
+A Unit Linked Non-Participating Individual Pension Plan
+POLICY CONTRACT
+
+ 12.Electronic Transactions
+    You will comply with all the terms and conditions with respect to all transactions effected by or through
+    facilities for conducting remote transactions including the internet, world wide web, electronic data
+    interchange, call centre, tele-service operations or by other means of telecommunication established by
+    Us or on Our behalf, for and in respect of the Policy or services, which will constitute legally binding and
+    valid transactions when executed in adherence to and in compliance with the terms and conditions for
+    such facilities.
+
+ 13.Communication and Notices
+    All notices meant for Us should be in writing and delivered to Our address as mentioned in Part G or such
+    other address as We may notify from time to time.
+
+ 14.Governing Law and Jurisdiction
+    The Policy shall be interpreted in accordance with and governed by the laws of India and only competent
+    courts at the place of issue of this Policy shall have jurisdiction to entertain legal action.
+
+ 15.Force Majeure
+    We shall derive the NAV on each Business Day. However, We may do so less frequently in case of a Force
+    Majeure Event, where the value of the assets is too uncertain. In such circumstances, We may defer the
+    valuation of assets for up to 30 days until we are certain that the valuation of Funds can be resumed. In
+    which case, We shall inform IRDAI of such deferment in the valuation.
+
+     During the continuance of the Force Majeure events, all requests for servicing the Policy including Policy
+     related payment shall be kept in abeyance. We shall continue to invest as per the Fund mandates
+     submitted with IRDAI. However, We reserve Our right to change the exposure of all or any part of the
+     Funds to Money Market Instruments [as defined under applicable IRDAI law/regulation as amended from
+     time to time] in circumstances mentioned under above. The exposure of the Fund as per the Fund
+     mandates submitted with IRDAI, shall be reinstated within reasonable timelines once the Force Majeure
+     Event ends.
+
+     Some of the examples of the Force Majeure Event circumstances as mentioned are:
+       when one or more stock exchanges which provide a basis for valuation of the assets of the fund are
+        closed otherwise than for ordinary holidays.
+       when, as a result of political, economic, monetary or any circumstances which are not in Our control,
+        the disposal of the assets of the fund would be detrimental to the interests of the continuing
+        policyholders.
+       in the event of natural calamities, strikes, war, civil unrest, riots and bandhs.
+       in the event of any force majeure or disaster that affects Our normal functioning.
+
+     In such an event, an intimation of Force Majeure Event shall be uploaded on Our website for information.
+
+
+
+
+Policy Contract                                                                             Page 32 of 46
+Aditya Birla Sun Life Insurance
+ABSLI Smart Wealth Pension Plan
+A Unit Linked Non-Participating Individual Pension Plan
+POLICY CONTRACT
+
+ PART G – GRIEVANCE REDRESSAL MECHANISM AND OMBUDSMAN DETAILS
+
+ Grievance or Complaint
+ You may register Your grievance or complaint with any of Our nearest branches or with Our Grievance
+ Officer at Customer Care Unit, Aditya Birla Sun Life Insurance Company Ltd., at G- Corp Tech Park, 5 th & 6th
+ Floor, Kasar Vadavali, Near Hypercity Mall, Ghodbunder Road, Thane (West) – 400601 or at Company’s
+ registered address at One World Centre, Tower 1, 16th Floor, Jupiter Mill Compound, 841, Senapati Bapat
+ Marg, Elphinstone Road, Mumbai – 400013.
+
+ You may also lodge your grievance or compliant complaint with any of Our nearest branches or also call Our
+ toll    free     no.   1-800-270-7000       or    on    Whatsapp     no.   8828800040        or    email:
+ care.lifeinsurance@adityabirlacapital.com          and         for       NRI         Customers           -
+ absli.nrihelpdesk@adityabirlacapital.com or You may also register your grievance on our web portal
+ https://lifeinsurance.adityabirlacapital.com/grievance-redressal.
+
+
+ In case You are dissatisfied with the decision of the above office or have not received any response within
+ 07 days, You may contact Head Service Assurance at Customer Care Unit, / Aditya Birla Sun Life Insurance
+ Company Ltd. / at G- Corp Tech Park, 5 th & 6th Floor, Kasar Vadavali, Near Hypercity Mall, Ghodbunder Road,
+ Thane (West) – 400601 or at Company’s registered address at One World Centre, Tower 1, 16th Floor, Jupiter
+ Mill Compound, 841, Senapati Bapat Marg, Elphinstone Road, Mumbai – 400013. You may also call Our toll-
+ free no. 1-800-270-7000 on (Timings: Daily 10 a.m. to 7 p.m.) Whatsapp no. 8828800040 or email:
+ Grievance.lifeinsurance@adityabirlacapital.com
+
+ The complaint should be made in writing duly signed or through registered email by the complainant or by
+ his/her legal heirs with full details of the complaint and the contact information of complainant.
+
+ For senior citizens, We provide priority redressal of grievances and complaints. Please email Us at:
+ ABSLI.SeniorcitizenLifeinsurance@adityabirlacapital.com
+
+ If You are not satisfied with the response or do not receive a response from Us within 14 days, You may
+ approach the Grievance Cell of the Insurance Regulatory and Development Authority of India (IRDAI) on the
+ following contact details:
+
+ Email ID: complaints@irda.gov.in
+ You can also register Your complaint online at
+ https://bimabharosa.irdai.gov.in
+ Address for communication for complaints by fax/paper:
+ By Phone: 155255 or 1800 4254 732
+
+ Policyholder's protection & Grievance Redressal Department – Grievance Redressal Cell
+ Insurance Regulatory and Development Authority of India,
+ 4th Floor, Sy No. 115/1, Financial District,
+ Nanakramguda, Gachibowli, Hyderabad – 500032
+ Ph: (040) 20204000
+
+
+
+
+Policy Contract                                                                           Page 33 of 46
+Aditya Birla Sun Life Insurance
+ABSLI Smart Wealth Pension Plan
+A Unit Linked Non-Participating Individual Pension Plan
+POLICY CONTRACT
+
+ Insurance Ombudsman
+ In case You are dissatisfied with the decision/resolution by Insurer or For redressal of Claims related
+ grievances or have not received Our response within 1 month from the date of filing Your Complaint, then
+ You can also approach Insurance Ombudsman located nearest to You. The details of the existing offices of
+ the Insurance Ombudsman are provided in Appendix-I below. You are requested to visit
+ http://www.cioins.co.in/Ombudsman for updated details.
+
+ The Ombudsman, as per Insurance Ombudsman Rules, 2017, can receive and consider complaints or disputes
+ relating to the matters such as:
+ a) Delay in settlement of claims, beyond the time specified in the regulations, framed under the Insurance
+    Regulatory and Development Authority of India Act,1999
+ b) Any partial or total repudiation of claims by the life insurer, General insurer or the health insurer;
+ c) Disputes over premium paid or payable in terms of insurance policy;
+ d) Misrepresentation of policy terms and conditions at any time in the policy document or policy contract;
+ e) Legal construction of insurance policies insofar as the dispute relates to claim;
+ f) Policy servicing related grievances against insurers and their agents and intermediaries;
+ g) Issuance of life insurance policy, general insurance policy including health insurance policy which is not
+    in conformity with the proposal form submitted by the proposer;
+ h) Non-issuance of insurance policy after receipt of premium in life insurance and general insurance
+    including health insurance; and
+ i) Any other matter resulting from the violation of provisions of the Insurance Act, 1938, as amended from
+    time to time, or the regulations, circulars , guidelines or instructions issued by IRDAI from time to time or
+    the terms and conditions of the policy contract, in so far as they relate to issues mentioned at clauses (a)
+    to (f).
+
+ As per provision 14(3) of the Insurance Ombudsman Rules 2017, the complaint to the Ombudsman can be
+ made only if:
+    The complainant has made a representation in writing or through electronic mail or online through
+       website of the insurer named in the complaint and
+       (i) either the insurer had rejected the complaint; or
+       (ii) the complainant had not received any reply within a period of one month after the insurer received
+       his representation; or
+       (iii) the complainant is not satisfied with the reply given to him by the insurer;
+
+        The complaint is made within one year
+         (i) after the order of the insurer rejecting the representation is received; or
+         (ii) after receipt of decision of the insurer which is not to the satisfaction of the complainant;
+         (iii) after expiry of a period of one month from the date of sending the written representation to the
+         insurer if the insurer named fails to furnish reply to the complainant.
+
+ Risk Factors / Disclaimers
+ This policy is underwritten by Aditya Birla Sun Life Insurance Company Limited (Company) and is a unit linked
+ non-participating individual pension plan issued in accordance with the IRDAI (Insurance Products)
+ Regulations, 2024. All terms & conditions are guaranteed throughout the policy term. The Company reserves
+ the right to recover levies such as the GST levied by the authorities on insurance transactions. If there be any
+ additional levies, they too will be recovered from You. Tax benefits are subject to changes in the tax laws.
+
+ NOTWITHSTANDING ANYTHING CONTAINED IN THIS POLICY DOCUMENT, THE PROVISIONS HEREIN SHALL
+ STAND ALTERED, AMENDED, MODIFIED OR SUPERCEDED TO SUCH EXTENT AND IN SUCH MANNER AS MAY
+
+
+
+
+Policy Contract                                                                              Page 34 of 46
+Aditya Birla Sun Life Insurance
+ABSLI Smart Wealth Pension Plan
+A Unit Linked Non-Participating Individual Pension Plan
+POLICY CONTRACT
+
+ BE REQUIRED BY ANY CHANGE IN THE APPLICABLE LAW (INCLUDING BUT NOT LIMITED TO ANY
+ REGULATIONS MADE OR DIRECTIONS / INSTRUCTIONS OR GUIDELINES ISSUED BY THE IRDAI) OR ANY
+ OTHER COMPETENT AUTHORITY OR AS MAY BE NECESSARY UNDER A JUDGEMENT OR ORDER
+ /DIRECTION/ INSTRUCTION OF A COURT OF LAW.
+
+
+
+
+Policy Contract                                                         Page 35 of 46
+Aditya Birla Sun Life Insurance
+ABSLI Smart Wealth Pension Plan
+A Unit Linked Non-Participating Individual Pension Plan
+POLICY CONTRACT
+
+                                                      Appendix-I
+ *List of Ombudsman:
+
+
+
+
+Policy Contract                                                    Page 36 of 46
+Aditya Birla Sun Life Insurance
+ABSLI Smart Wealth Pension Plan
+A Unit Linked Non-Participating Individual Pension Plan
+POLICY CONTRACT
+
+                  Office Details                      Jurisdiction of Office (Union Territory, District)
+
+      AHMEDABAD - Dr. Pranai Prabhakar
+      Office of the Insurance Ombudsman,
+       Jeevan Prakash Building, 6th floor,                               Gujarat,
+             Tilak Marg, Relief Road,                              Dadra & Nagar Haveli,
+            AHMEDABAD – 380 001.                                     Daman and Diu.
+             Tel.: 079 - 25501201/02
+      Email: oio.ahmedabad@cioins.co.in
+
+         BENGALURU – Ms. Neerja Kapur
+      Office of the Insurance Ombudsman,
+  Jeevan Soudha Building, PID No. 57-27-N-19
+     Ground Floor, 19/19, 24th Main Road,                                Karnataka.
+    JP Nagar, Ist Phase, Bengaluru – 560 078.
+         Tel.: 080 - 26652048 / 26652049
+        Email: oio.bengaluru@cioins.co.in
+
+          BHOPAL – Shri Ajay Kumar
+     Office of the Insurance Ombudsman,
+           1st floor,"Jeevan Shikha",
+60-B,Hoshangabad Road, Opp. Gayatri Mandir,                           Madhya Pradesh
+                    Arera Hills                                        Chattisgarh.
+               Bhopal – 462 011.
+  Tel.: 0755 - 2769201 / 2769202 / 2769203
+         Email: oio.bhopal@cioins.co.in
+
+ BHUBANESHWAR - Shri Rashmi Raman Singh
+              62, Forest park,
+         Bhubaneswar – 751 009.
+                                                                           Orissa
+            Tel.: 0674 - 2596461
+      /2596455/2596429/2596003
+   Email: oio.bhubaneswar@cioins.co.in
+
+           CHANDIGARH - Ms. Alka Jha
+                                                                        Punjab,
+      Office Of The Insurance Ombudsman,
+                                                    Haryana(excluding Gurugram, Faridabad, Sonepat
+        Jeevan Deep Building SCO 20-27,
+                                                                   and Bahadurgarh)
+            Ground Floor Sector- 17 A,
+                                                    Himachal Pradesh, Union Territories of Jammu &
+              Chandigarh – 160 017.
+                                                                       Kashmir,
+               Tel.: 0172-2706468
+                                                                 Ladakh & Chandigarh.
+       Email: oio.chandigarh@cioins.co.in
+
+
+
+
+Policy Contract                                                                                 Page 37 of 46
+Aditya Birla Sun Life Insurance
+ABSLI Smart Wealth Pension Plan
+A Unit Linked Non-Participating Individual Pension Plan
+POLICY CONTRACT
+
+         CHENNAI - Shri K.Vinayak Rao
+      Office of the Insurance Ombudsman,
+                                                                         Tamil Nadu,
+      Fatima Akhtar Court, 4th Floor, 453,
+             Anna Salai, Teynampet,
+                                                                     Puducherry Town and
+               CHENNAI – 600 018.
+                                                           Karaikal (which are part of Puducherry).
+        Tel.: 044 - 24333668 / 24333678
+        Email: oio.chennai@cioins.co.in
+
+      DELHI - Shri Mukhmeet Singh Bhatia
+      Office of the Insurance Ombudsman,
+       2/2 A, Universal Insurance Building,                                 Delhi &
+                   Asaf Ali Road,                         Following Districts of Haryana - Gurugram,
+               New Delhi – 110 002.                           Faridabad, Sonepat & Bahadurgarh.
+   Tel.: 011 - 46013992/23213504/23232481
+           Email: oio.delhi@cioins.co.in
+
+     GUWAHATI - Shri Ajay Kumar Sharma
+                                                                           Assam,
+     Office of the Insurance Ombudsman,
+                                                                        Meghalaya,
+            Jeevan Nivesh, 5th Floor,
+                                                                          Manipur,
+           Near Pan Bazar , S.S. Road,
+                                                                          Mizoram,
+          Guwahati – 781001(ASSAM).
+                                                                     Arunachal Pradesh,
+   Tel.: 0361 - 2632204 / 2602205 / 2631307
+                                                                    Nagaland and Tripura.
+        Email: oio.guwahati@cioins.co.in
+
+       HYDERABAD - Ms G Shobha Reddy
+      Office of the Insurance Ombudsman,
+         6-2-46, 1st floor, "Moin Court",
+                                                                       Andhra Pradesh,
+        Lane Opp. Hyundai Showroom ,
+                                                                         Telangana,
+ A. C. Guards, Lakdi-Ka-Pool, Hyderabad - 500
+                                                                         Yanam and
+                        004.
+                                                            part of Union Territory of Puducherry.
+Tel.: 040 - 23312122 / 23376991 / 23376599 /
+              23328709 / 23325325
+       Email: oio.hyderabad@cioins.co.in
+
+          JAIPUR – Shri Satyajeet Rajan
+      Office of the Insurance Ombudsman,
+        Jeevan Nidhi – II Bldg., Gr. Floor,
+              Bhawani Singh Marg,                                        Rajasthan.
+                 Jaipur - 302 005.
+               Tel.: 0141- 2740363
+          Email: oio.jaipur@cioins.co.in
+
+
+
+
+Policy Contract                                                                                Page 38 of 46
+Aditya Birla Sun Life Insurance
+ABSLI Smart Wealth Pension Plan
+A Unit Linked Non-Participating Individual Pension Plan
+POLICY CONTRACT
+
+         Kochi - Shri Pradeep Kumar Jain
+
+    Office of the Insurance Ombudsman,
+  10th Floor, Jeevan Prakash, LIC Building,                              Kerala,
+Opp to Maharaja's College Ground, M.G. Road,                         Lakshadweep,
+               Kochi - 682 011.                       Mahe-a part of Union Territory of Puducherry.
+             Tel.: 0484 - 2358759
+     Email: oio.ernakulam@cioins.co.in
+
+           KOLKATA - Ms. Manju Bagga
+      Office of the Insurance Ombudsman,
+       Hindustan Bldg. Annexe, 7th Floor,                             West Bengal,
+                  4, C.R. Avenue,                                        Sikkim,
+               KOLKATA - 700 072.                                Andaman & Nicobar Islands.
+        Tel.: 033 - 22124339 / 22124341
+         Email: oio.kolkata@cioins.co.in
+
+                                                                Districts of Uttar Pradesh :
+                                                       Lalitpur, Jhansi, Mahoba, Hamirpur, Banda,
+           LUCKNOW- Shri Sanjai Singh                 Chitrakoot, Allahabad, Mirzapur, Sonbhabdra,
+      Office of the Insurance Ombudsman,            Fatehpur, Pratapgarh, Jaunpur, Varanasi, Gazipur,
+      6th Floor, Jeevan Bhawan, Phase-II,               Jalaun, Kanpur, Lucknow, Unnao, Sitapur,
+        Nawal Kishore Road, Hazratganj,                Lakhimpur, Bahraich, Barabanki, Raebareli,
+                Lucknow - 226 001.                   Sravasti, Gonda, Faizabad, Amethi, Kaushambi,
+         Tel.: 0522 - 4002082 / 3500613               Balrampur, Basti, Ambedkarnagar, Sultanpur,
+        Email: oio.lucknow@cioins.co.in                 Maharajgang, Santkabirnagar, Azamgarh,
+                                                      Kushinagar, Gorkhpur, Deoria, Mau, Ghazipur,
+                                                            Chandauli, Ballia, Sidharathnagar.
+
+         MUMBAI –Ms Sarojini S Dikhale
+                                                           Jurisdiction : List of wards under Mumbai
+      Office of the Insurance Ombudsman,
+         3rd Floor, Jeevan Seva Annexe,             Metropolitan Region excluding wards in Mumbai –
+             S. V. Road, Santacruz (W),                 i.e M/E, M/W, N , S and T covered under
+                 Mumbai - 400 054.
+                                                          Office of Insurance Ombudsman Thane and
+      Tel.: 022 - 69038800/27/29/31/32/33
+                                                                excluding areas of Navi Mumbai.
+         Email: oio.mumbai@cioins.co.in
+
+                                                     State of Uttaranchal and the following Districts of
+                                                                        Uttar Pradesh:
+           NOIDA - Shri Rajiv Talwar
+                                                       Agra, Aligarh, Bagpat, Bareilly, Bijnor, Budaun,
+     Office of the Insurance Ombudsman,
+                                                     Bulandshehar, Etah, Kanooj, Mainpuri, Mathura,
+              Bhagwan Sahai Palace
+                                                       Meerut, Moradabad, Muzaffarnagar, Oraiyya,
+  4th Floor, Main Road, Naya Bans, Sector 15,
+                                                          Pilibhit, Etawah, Farrukhabad, Firozbad,
+   Distt: Gautam Buddh Nagar, U.P-201301.
+                                                          Gautambodhanagar, Ghaziabad, Hardoi,
+         Tel.: 0120-2514252 / 2514253
+                                                     Shahjahanpur, Hapur, Shamli, Rampur, Kashganj,
+          Email: oio.noida@cioins.co.in
+                                                       Sambhal, Amroha, Hathras, Kanshiramnagar,
+                                                                         Saharanpur.
+
+
+
+
+Policy Contract                                                                                 Page 39 of 46
+Aditya Birla Sun Life Insurance
+ABSLI Smart Wealth Pension Plan
+A Unit Linked Non-Participating Individual Pension Plan
+POLICY CONTRACT
+
+           PATNA - Shri Inderjeet Singh
+      Office of the Insurance Ombudsman,
+             2nd Floor, Lalit Bhawan,
+                                                                          Bihar,
+                   Bailey Road,
+                                                                        Jharkhand.
+                  Patna 800 001.
+               Tel.: 0612-2547068
+          Email: oio.patna@cioins.co.in
+
+            PUNE - Ms. Rachna Khare
+      Office of the Insurance Ombudsman,
+                                                     State of Goa and State of Maharashtra excluding
+         Jeevan Darshan Bldg., 3rd Floor,
+                                                      areas of Navi Mumbai, Thane district, Palghar
+    C.T.S. No.s. 195 to 198, N.C. Kelkar Road,
+                                                     District, Raigad district & Mumbai Metropolitan
+          Narayan Peth, Pune – 411 030.
+                                                                           Region
+               Tel.: 020-24471175
+           Email: oio.pune@cioins.co.in
+
+             Thane - Shri Umesh Sinha
+
+      Office of the Insurance Ombudsman,
+     2nd Floor, Jeevan Chintamani Building,            Area of Navi Mumbai, Thane District, Raigad
+           Vasantrao Naik Mahamarg,                   District, Palghar District and wards of Mumbai,
+              Thane (West)- 400604                               M/East, M/West, N, S and T.
+             Tel.: 022-20812868/69
+          Email: oio.thane@cioins.co.in
+
+
+*For updated list of Ombudsman please refer to the website at http://www.cioins.co.in/Ombudsman
+
+
+
+
+Policy Contract                                                                               Page 40 of 46
+Aditya Birla Sun Life Insurance
+ABSLI Smart Wealth Pension Plan
+A Unit Linked Non-Participating Individual Pension Plan
+POLICY CONTRACT
+
+ Annexure A:
+ Section 38 - Assignment and Transfer of Insurance Policies
+Section 38 - Assignment and Transfer of Insurance Policies
+Assignment or transfer of a policy should be in accordance with Section 38 of the Insurance Act, 1938 as
+amended by the Insurance Laws (Amendment) Act, 2015. The extant provisions in this regard are as follows:
+1. This policy may be transferred/assigned, wholly or in part, with or without consideration.
+2. An Assignment may be effected in a policy by an endorsement upon the policy itself or by a separate
+     instrument under notice to the Insurer.
+3. The instrument of assignment should indicate the fact of transfer or assignment and the reasons for the
+     assignment or transfer, antecedents of the assignee and terms on which assignment is made.
+4. The assignment must be signed by the transferor or assignor or duly authorized agent and attested by at
+     least one witness.
+5. The transfer of assignment shall not be operative as against an insurer until a notice in writing of the
+     transfer or assignment and either the said endorsement or instrument itself or copy there of certified to
+     be correct by both transferor and transferee or their duly authorised agents have been delivered to the
+     insurer.
+6. Fee to be paid for assignment or transfer can be specified by the Authority through Regulations.
+7. On receipt of notice with fee, the insurer should Grant a written acknowledgement of receipt of notice.
+     Such notice shall be conclusive evidence against the insurer of duly receiving the notice.
+8. If the insurer maintains one or more places of business, such notices shall be delivered only at the place
+     where the policy is being serviced.
+9. The insurer may accept or decline to act upon any transfer or assignment or endorsement, if it has
+     sufficient reasons to believe that it is
+       a. not bonafide or
+       b. not in the interest of the policyholder or
+       c. not in public interest or
+       d. is for the purpose of trading of the insurance policy.
+10. Before refusing to act upon endorsement, the Insurer should record the reasons in writing and
+     communicate the same in writing to Policyholder within 30 days from the date of policyholder giving a
+     notice of transfer or assignment.
+11. In case of refusal to act upon the endorsement by the Insurer, any person aggrieved by the refusal may
+     prefer a claim to IRDAI within 30 days of receipt of the refusal letter from the Insurer.
+12. The priority of claims of persons interested in an insurance policy would depend on the date on which
+     the notices of assignment or transfer is delivered to the insurer; where there are more than one
+     instruments of transfer or assignment, the priority will depend on dates of delivery of such notices. Any
+     dispute in this regard as to priority should be referred to Authority.
+13. Every assignment or transfer shall be deemed to be absolute assignment or transfer and the assignee or
+     transferee shall be deemed to be absolute assignee or transferee, except
+       a. where assignment or transfer is subject to terms and conditions of transfer or assignment OR
+       b. where the transfer or assignment is made upon condition that
+              i.   the proceeds under the policy shall become payable to policyholder or Nominee(s) in the
+                   event of assignee or transferee dying before the insured OR
+             ii.   the insured surviving the term of the policy. Such conditional assignee will not be entitled
+                   to obtain a loan on policy or Surrender the policy. This provision will prevail notwithstanding
+                   any law or custom having force of law which is contrary to the above position.
+
+
+
+
+Policy Contract                                                                              Page 41 of 46
+Aditya Birla Sun Life Insurance
+ABSLI Smart Wealth Pension Plan
+A Unit Linked Non-Participating Individual Pension Plan
+POLICY CONTRACT
+
+14. In other cases, the insurer shall, subject to terms and conditions of assignment, recognize the transferee
+     or assignee named in the notice as the absolute transferee or assignee and such person
+       a. shall be subject to all liabilities and equities to which the transferor or assignor was subject to at the
+           date of transfer or assignment and
+       b. may institute any proceedings in relation to the policy
+       c. obtain loan under the policy or Surrender the policy without obtaining the consent of the transferor
+           or assignor or making him a party to the proceedings
+15. Any rights and remedies of an assignee or transferee of a life insurance policy under an assignment or
+     transfer effected before commencement of the Insurance Laws (Amendment) Act, 2015 shall not be
+     affected by this section.
+[Disclaimer: This is not a comprehensive list of amendments of the Insurance Laws (Amendment) Act, 2015
+and only a simplified version prepared for general information. Policy Holders are advised to refer to Original
+Act Gazette Notification dated March 23, 2015 for complete and accurate details.]
+
+
+
+
+Policy Contract                                                                                Page 42 of 46
+Aditya Birla Sun Life Insurance
+ABSLI Smart Wealth Pension Plan
+A Unit Linked Non-Participating Individual Pension Plan
+POLICY CONTRACT
+
+ Annexure B:
+ Section 39 – Nomination by Policyholder
+Nomination of a life insurance Policy is as below in accordance with Section 39 of the Insurance Act, 1938 as
+amended by the Insurance Laws (Amendment) Act, 2015. The extant provisions in this regard are as follows:
+
+ 1. The policyholder of a life insurance on his own life may nominate a person or persons to whom money
+     secured by the policy shall be paid in the event of his death.
+ 2. Where the Nominee is a minor, the policyholder may appoint any person to receive the money secured
+     by the policy in the event of policyholder’s death during the minority of the Nominee. The manner of
+     appointment to be laid down by the insurer.
+ 3. Nomination can be made at any time before the maturity of the policy.
+ 4. Nomination may be incorporated in the text of the policy itself or may be endorsed on the policy
+     communicated to the insurer and can be registered by the insurer in the records relating to the policy.
+ 5. Nomination can be cancelled or changed at any time before policy matures, by an endorsement or a
+     further endorsement or a will as the case may be.
+ 6. A notice in writing of Change or Cancellation of nomination must be delivered to the insurer for the
+     insurer to be liable to such Nominee. Otherwise, insurer will not be liable if a bonafide payment is made
+     to the person named in the text of the policy or in the registered records of the insurer.
+ 7. Fee to be paid to the insurer for registering change or cancellation of a nomination can be specified by
+     the Authority through Regulations.
+ 8. On receipt of notice with fee, the insurer should grant a written acknowledgement to the policyholder of
+     having registered a nomination or cancellation or change thereof.
+ 9. A transfer or assignment made in accordance with Section 38 shall automatically cancel the nomination
+     except in case of assignment to the insurer or other transferee or assignee for purpose of loan or against
+     security or its reassignment after repayment. In such case, the nomination will not get cancelled to the
+     extent of insurer’s or transferee’s or assignee’s interest in the policy. The nomination will get revived on
+     repayment of the loan.
+ 10. The right of any creditor to be paid out of the proceeds of any policy of life insurance shall not be affected
+     by the nomination.
+ 11. In case of nomination by policyholder whose life is insured, if the Nominees die before the policyholder,
+     the proceeds are payable to policyholder or his heirs or legal representatives or holder of succession
+     certificate.
+ 12. In case Nominee(s) survive the person whose life is insured, the amount secured by the policy shall be
+     paid to such survivor(s).
+ 13. Where the policyholder whose life is insured nominates his
+    a. parents or
+    b. spouse or
+    c. children or
+    d. spouse and children
+    e. or any of them
+the Nominees are beneficially entitled to the amount payable by the insurer to the policyholder unless it is
+proved that policyholder could not have conferred such beneficial title on the Nominee having regard to the
+nature of his title.
+ 14. If Nominee(s) die after the policyholder but before his share of the amount secured under the policy is
+     paid, the share of the expired Nominee(s) shall be payable to the heirs or legal representative of the
+     Nominee or holder of succession certificate of such Nominee(s).
+
+
+
+
+Policy Contract                                                                               Page 43 of 46
+Aditya Birla Sun Life Insurance
+ABSLI Smart Wealth Pension Plan
+A Unit Linked Non-Participating Individual Pension Plan
+POLICY CONTRACT
+
+ 15. The provisions of sub-section 7 and 8 (13 and 14 above) shall apply to all life insurance policies maturing
+     for payment after the commencement of the Insurance Laws (Amendment) Act, 2015.
+ 16. If policyholder dies after maturity but the proceeds and benefit of the policy has not been paid to him
+     because of his death, his Nominee(s) shall be entitled to the proceeds and benefit of the policy.
+ 17. The provisions of Section 39 are not applicable to any life insurance policy to which Section 6 of Married
+     Women’s Property Act, 1874 applies or has at any time applied except where before or after the
+     Insurance Laws (Amendment) Act, 2015, a nomination is made in favour of spouse or children or spouse
+     and children whether or not on the face of the policy it is mentioned that it is made under Section 39.
+     Where nomination is intended to be made to spouse or children or spouse and children under Section 6
+     of MWP Act, it should be specifically mentioned on the policy. In such a case only, the provisions of
+     Section 39 will not apply.
+[Disclaimer: This is not a comprehensive list of amendments of the Insurance Laws (Amendment) Act, 2015
+and only a simplified version prepared for general information. Policy Holders are advised to refer to Original
+Act Gazette Notification dated March 23, 2015 for complete and accurate details.]
+
+
+
+
+Policy Contract                                                                             Page 44 of 46
+Aditya Birla Sun Life Insurance
+ABSLI Smart Wealth Pension Plan
+A Unit Linked Non-Participating Individual Pension Plan
+POLICY CONTRACT
+
+ Annexure C:
+ Section 45 – Policy shall not be called in question on the ground of mis-statement after three years
+Provisions regarding policy not being called into question in terms of Section 45 of the Insurance Act, 1938, as
+amended by the Insurance Laws (Amendment) Act, 2015 are as follows:
+ 1. No Policy of Life Insurance shall be called in question on any ground whatsoever after expiry of 3 yrs from
+    a. the date of issuance of policy or
+    b. the date of commencement of risk or
+    c. the date of revival of policy or
+    d. the date of rider to the policy
+whichever is later.
+ 2. On the ground of fraud, a policy of Life Insurance may be called in question within 3 years from
+    a. the date of issuance of policy or
+    b. the date of commencement of risk or
+    c. the date of revival of policy or
+    d. the date of rider to the policy
+whichever is later.
+For this, the insurer should communicate in writing to the insured or legal representative or Nominee or
+assignees of insured, as applicable, mentioning the ground and materials on which such decision is based.
+ 3. Fraud means any of the following acts committed by insured or by his agent, with the intent to deceive
+     the insurer or to induce the insurer to issue a life insurance policy:
+    a. The suggestion, as a fact of that which is not true and which the insured does not believe to be true;
+    b. The active concealment of a fact by the insured having knowledge or belief of the fact;
+    c. Any other act fitted to deceive; and
+    d. Any such act or omission as the law specifically declares to be fraudulent.
+ 4. Mere silence is not fraud unless, depending on circumstances of the case, it is the duty of the insured or
+     his agent keeping silence to speak or silence is in itself equivalent to speak.
+ 5. No Insurer shall repudiate a life insurance Policy on the ground of Fraud, if the Insured / beneficiary can
+     prove that the misstatement was true to the best of his knowledge and there was no deliberate intention
+     to suppress the fact or that such mis-statement of or suppression of material fact are within the
+     knowledge of the insurer. Onus of disproving is upon the policyholder, if alive, or beneficiaries.
+ 6. Life insurance Policy can be called in question within 3 years on the ground that any statement of or
+     suppression of a fact material to expectancy of life of the insured was incorrectly made in the proposal
+     or other document basis which policy was issued or revived or rider issued. For this, the insurer should
+     communicate in writing to the insured or legal representative or Nominee or assignees of insured, as
+     applicable, mentioning the ground and materials on which decision to repudiate the policy of life
+     insurance is based.
+ 7. In case repudiation is on ground of mis-statement and not on fraud, the premium collected on policy till
+     the date of repudiation shall be paid to the insured or legal representative or Nominee or assignees of
+     insured, within a period of 90 days from the date of repudiation.
+ 8. Fact shall not be considered material unless it has a direct bearing on the risk undertaken by the insurer.
+     The onus is on insurer to show that if the insurer had been aware of the said fact, no life insurance policy
+     would have been issued to the insured.
+ 9. The insurer can call for proof of age at any time if he is entitled to do so and no policy shall be deemed to
+     be called in question merely because the terms of the policy are adjusted on subsequent proof of age of
+     Life Insured. So, this Section will not be applicable for questioning age or adjustment based on proof of
+     age submitted subsequently.
+
+
+
+
+Policy Contract                                                                              Page 45 of 46
+Aditya Birla Sun Life Insurance
+ABSLI Smart Wealth Pension Plan
+A Unit Linked Non-Participating Individual Pension Plan
+POLICY CONTRACT
+
+[Disclaimer: This is not a comprehensive list of amendments of the Insurance Laws (Amendment) Act, 2015
+and only a simplified version prepared for general information. Policy Holders are advised to refer to Original
+Act Gazette Notification dated March 23, 2015 for complete and accurate details.]
+
+
+
+
+Policy Contract                                                                            Page 46 of 46
+

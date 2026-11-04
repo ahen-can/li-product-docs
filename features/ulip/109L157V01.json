@@ -1,0 +1,1058 @@
+{
+ "product": {
+  "uin": {
+   "value": "109L157V01",
+   "status": "n/a",
+   "doc": "Prospectus",
+   "page": 14,
+   "quote": "UIN: 109L157V01",
+   "note": null
+  },
+  "uin_in_brochure": {
+   "value": "109L157V01",
+   "status": "n/a",
+   "doc": "Prospectus",
+   "page": 14,
+   "quote": "UIN: 109L157V01",
+   "note": null
+  },
+  "product_name": {
+   "value": "ABSLI Smart Wealth Pension Plan",
+   "status": "n/a",
+   "doc": "Prospectus",
+   "page": 2,
+   "quote": "ABSLI SMART WEALTH PENSION PLAN – AN OVERVIEW",
+   "note": null
+  },
+  "irdai_description_line": {
+   "value": "a Unit Linked Non-Participating Pension Plan",
+   "status": "n/a",
+   "doc": "Prospectus",
+   "page": 2,
+   "quote": "Unit Linked Non-Participating Pension Plan,",
+   "note": null
+  },
+  "launch_or_version_date": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "variants_or_plan_options": {
+   "value": [
+    "Advantage",
+    "Prime",
+    "Elite",
+    "Single Life",
+    "Joint Life"
+   ],
+   "status": "n/a",
+   "doc": "Prospectus",
+   "page": 2,
+   "quote": "3 Plan Options - Advantage, Prime, and Elite",
+   "note": null,
+   "quote_2": "Option of Single Life and Joint Life with Waiver of Premium on death*",
+   "page_2": 2
+  },
+  "target_segment_stated": {
+   "value": "retirement planning",
+   "status": "n/a",
+   "doc": "Prospectus",
+   "page": 2,
+   "quote": "designed to help you plan for your retirement today",
+   "note": null
+  },
+  "online_offline": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  }
+ },
+ "eligibility": {
+  "entry_age_min": {
+   "value": 18,
+   "status": "n/a",
+   "doc": "Prospectus",
+   "page": 3,
+   "quote": "Minimum Entry Age 18 years***",
+   "note": null
+  },
+  "entry_age_max": {
+   "value": {
+    "single life": 75,
+    "joint life": 55
+   },
+   "status": "n/a",
+   "doc": "Prospectus",
+   "page": 3,
+   "quote": "Maximum Entry Age 75 years 55 years",
+   "note": null
+  },
+  "maturity_age_min": {
+   "value": "minimum age at vesting 38 years for bands 1 and 2, 35 years for band 3 (limited and regular pay); single pay minimum age at vesting 35 years",
+   "status": "n/a",
+   "doc": "Prospectus",
+   "page": 3,
+   "quote": "Minimum Age at Band 1",
+   "note": null,
+   "quote_2": "38 years Band 1",
+   "page_2": 3,
+   "quote_3": "Single Pay: 35 years",
+   "page_3": 3
+  },
+  "maturity_age_max": {
+   "value": 85,
+   "status": "n/a",
+   "doc": "Prospectus",
+   "page": 3,
+   "quote": "Maximum Age at 85 years",
+   "note": null
+  },
+  "policy_term_options": {
+   "value": {
+    "minimum": {
+     "single pay": 10,
+     "regular and limited pay, band 1 and 2": 20,
+     "regular and limited pay, band 3": 15
+    },
+    "maximum": 57
+   },
+   "status": "n/a",
+   "doc": "Prospectus",
+   "page": 3,
+   "quote": "Single Pay: 10 years Single Pay: NA",
+   "note": null,
+   "quote_2": "Maximum Policy 57 years",
+   "page_2": 3
+  },
+  "ppt_options": {
+   "value": {
+    "limited pay": [
+     5,
+     6,
+     7,
+     8,
+     10,
+     12
+    ],
+    "single pay": "single premium",
+    "regular pay": "for the policy term"
+   },
+   "status": "n/a",
+   "doc": "Prospectus",
+   "page": 3,
+   "quote": "Limited Pay: 5 | 6 | 7 | 8 | 10 | 12 Years",
+   "note": null
+  },
+  "premium_min_annual": {
+   "value": {
+    "Prime": 36000,
+    "Advantage": 36000,
+    "Elite": 50000
+   },
+   "status": "n/a",
+   "doc": "Prospectus",
+   "page": 3,
+   "quote": "Prime Rs. 36,000 p.a.",
+   "note": null,
+   "quote_2": "Advantage Rs. 36,000 p.a. Rs. 2,00,000 p.a.",
+   "page_2": 3,
+   "quote_3": "Elite Rs. 50,000 p.a.",
+   "page_3": 3
+  },
+  "premium_min_single": {
+   "value": 200000,
+   "status": "n/a",
+   "doc": "Prospectus",
+   "page": 3,
+   "quote": "Advantage Rs. 36,000 p.a. Rs. 2,00,000 p.a.",
+   "note": "minimum shown in the single pay column"
+  },
+  "premium_max": {
+   "value": "no limit, subject to the Board approved underwriting policy",
+   "status": "n/a",
+   "doc": "Prospectus",
+   "page": 3,
+   "quote": "Maximum: No Limit (subject to Board Approved Underwriting Policy)",
+   "note": null
+  },
+  "sum_assured_rule": {
+   "value": "no separate sum assured; death benefit is the higher of fund value and 105% of premiums paid",
+   "status": "built-in",
+   "doc": "Prospectus",
+   "page": 4,
+   "quote": "Fund Value (including Top-up Fund Value) as on date of intimation of death; or",
+   "note": null,
+   "quote_2": "105% of Total Premiums Paid (including Top-up premium, if any)",
+   "page_2": 4
+  },
+  "premium_modes": {
+   "value": [
+    "annual",
+    "semi-annual",
+    "quarterly",
+    "monthly"
+   ],
+   "status": "n/a",
+   "doc": "Prospectus",
+   "page": 3,
+   "quote": "Annual | Semi-Annual | Quarterly | Monthly",
+   "note": null
+  },
+  "life_cover_multiple_choice": {
+   "value": null,
+   "status": "not offered",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": "no sum assured multiple; death benefit is fund value or 105% of premiums"
+  }
+ },
+ "charges": {
+  "premium_allocation_charge": {
+   "value": {
+    "limited and regular pay, annual mode (percent of annualized premium)": {
+     "Advantage": {
+      "year 1": "10%",
+      "year 2": "4%",
+      "year 3": "4%",
+      "year 4": "3%",
+      "year 5": "3%",
+      "year 6+": "3% for bands 1 and 2, nil for band 3"
+     },
+     "Prime": {
+      "year 1": "6%",
+      "year 2": "6%",
+      "year 3": "6%",
+      "year 4": "3%",
+      "year 5": "3%",
+      "year 6+": "3% for bands 1 and 2, nil for band 3"
+     },
+     "Elite": "nil"
+    },
+    "limited and regular pay, other than annual mode": {
+     "Advantage": {
+      "year 1": "8%",
+      "year 2": "3%",
+      "year 3": "3%",
+      "year 4": "3%",
+      "year 5": "2%",
+      "year 6+": "2% for bands 1 and 2, nil for band 3"
+     },
+     "Prime": {
+      "year 1": "5%",
+      "year 2": "5%",
+      "year 3": "5%",
+      "year 4": "2%",
+      "year 5": "2%",
+      "year 6+": "2% for bands 1 and 2, nil for band 3"
+     },
+     "Elite": "nil"
+    },
+    "single pay (percent of single premium)": {
+     "Advantage": {
+      "year 1": "4%",
+      "year 2+": "nil"
+     },
+     "Prime": {
+      "year 1": "2%",
+      "year 2+": "nil"
+     },
+     "Elite": "nil"
+    },
+    "top-up premium": "2%"
+   },
+   "status": "built-in",
+   "doc": "Prospectus",
+   "page": 9,
+   "quote": "1 10% 6%",
+   "note": "the brochure p.9 tables use merged cells across bands 1 to 3 for years 1 to 5; rows are read as Advantage then Prime",
+   "quote_2": "3 4% 6% Nil",
+   "page_2": 9,
+   "quote_3": "1 8% 5%",
+   "page_3": 9,
+   "quote_4": "1 4% 2%",
+   "page_4": 9
+  },
+  "policy_administration_charge": {
+   "value": {
+    "basis": "percent of annualized premium, charged monthly; cap Rs 500 a month",
+    "limited and regular pay": {
+     "Advantage": {
+      "years 1-5": "0.175%",
+      "years 6-10": "0.25%",
+      "year 11+": "0.25% for bands 1 and 2, nil for band 3"
+     },
+     "Prime": {
+      "years 1-5": "0.175%",
+      "years 6-10": "0.25%",
+      "year 11+": "0.25% for bands 1 and 2, nil for band 3"
+     },
+     "Elite": {
+      "years 1-5": "0.325%",
+      "years 6-10": "0.325%",
+      "year 11+": "0.325% for band 2, nil for band 3"
+     }
+    },
+    "single pay": {
+     "Advantage": {
+      "years 1-5": "0.075%",
+      "years 6-10": "0.05%",
+      "year 11+": "nil"
+     },
+     "Prime": {
+      "years 1-5": "0.075%",
+      "years 6-10": "0.05%",
+      "year 11+": "nil"
+     },
+     "Elite": {
+      "years 1-5": "0.03%",
+      "years 6-10": "0.05%",
+      "year 11+": "nil"
+     }
+    }
+   },
+   "status": "built-in",
+   "doc": "Prospectus",
+   "page": 9,
+   "quote": "1 to 5 0.175% 0.175% 0.325%",
+   "note": null,
+   "quote_2": "6 to 10 0.25% 0.25% 0.325%",
+   "page_2": 9,
+   "quote_3": "1 to 5 0.075% 0.075% 0.03%",
+   "page_3": 9,
+   "quote_4": "6 to 10 0.05% 0.05% 0.05%",
+   "page_4": 9
+  },
+  "fund_management_charge": {
+   "value": {
+    "Pension Maximiser": "1.35%",
+    "Pension Income Advantage": "1.00%",
+    "Pension Nourish": "1.00%",
+    "Pension Growth": "1.00%",
+    "Pension Enrich": "1.25%",
+    "Pension Discontinued Fund": "0.50%"
+   },
+   "status": "built-in",
+   "doc": "Prospectus",
+   "page": 9,
+   "quote": "Pension Maximiser 1.35%",
+   "note": null,
+   "quote_2": "Pension Income Advantage 1.00%",
+   "page_2": 9,
+   "quote_3": "Pension Enrich 1.25%",
+   "page_3": 9,
+   "quote_4": "The Fund Management Charge for this fund is 0.50% p.a.",
+   "page_4": 9
+  },
+  "mortality_charge": {
+   "value": {
+    "basis": "per 1,000 sum at risk by gender and attained age; guaranteed; applies at annualized premium of Rs 1,00,000 or more for single life",
+    "sample_rates_age_25_35_45_55_65": {
+     "male": [
+      0.545,
+      0.703,
+      1.509,
+      4.395,
+      9.32
+     ],
+     "female": [
+      0.548,
+      0.61,
+      1.152,
+      3.247,
+      7.506
+     ]
+    }
+   },
+   "status": "built-in",
+   "doc": "Prospectus",
+   "page": 9,
+   "quote": "Male* 0.545 0.703 1.509 4.395 9.320 Female 0.548 0.610 1.152 3.247 7.506",
+   "note": "sample rates only; the full table is on the website or from the advisor",
+   "quote_2": "Mortality charges are guaranteed1 throughout the policy",
+   "page_2": 9
+  },
+  "discontinuance_charge": {
+   "value": {
+    "annual premium policies": {
+     "annualized premium up to Rs 50,000": {
+      "Y1": "lower of 20% of AP, 20% of FV, Rs 3,000",
+      "Y2": "15%, Rs 2,000",
+      "Y3": "10%, Rs 1,500",
+      "Y4": "5%, Rs 1,000",
+      "Y5+": "nil"
+     },
+     "annualized premium above Rs 50,000": {
+      "Y1": "lower of 6% of AP, 6% of FV, Rs 6,000",
+      "Y2": "4%, Rs 5,000",
+      "Y3": "3%, Rs 4,000",
+      "Y4": "2%, Rs 2,000",
+      "Y5+": "nil"
+     }
+    },
+    "single premium policies": {
+     "up to Rs 3,00,000": {
+      "Y1": "lower of 2% of the premium, 2% of FV, Rs 3,000",
+      "Y2": "1.5%, Rs 2,000",
+      "Y3": "1%, Rs 1,500",
+      "Y4": "0.5%, Rs 2,000",
+      "Y5+": "nil"
+     },
+     "above Rs 3,00,000": {
+      "Y1": "lower of 1% of SP, 1% of FV, Rs 6,000",
+      "Y2": "0.7%, Rs 5,000",
+      "Y3": "0.5%, Rs 4,000",
+      "Y4": "0.35%, Rs 2,000",
+      "Y5+": "nil"
+     }
+    },
+    "top-up": "nil"
+   },
+   "status": "built-in",
+   "doc": "Prospectus",
+   "page": 9,
+   "quote": "1 Lower of 20% of AP, 20% of FV, Rs 3,000 Lower of 6% of AP, 6% of FV, Rs 6,000",
+   "note": null,
+   "quote_2": "2 Lower of 15% of AP, 15% of FV, Rs 2,000 Lower of 4% of AP, 4% of FV, Rs 5,000",
+   "page_2": 9,
+   "quote_3": "1 Lower of 2% of AP, 2% of FV, Rs 3,000 Lower of 1% of SP, 1% of FV, Rs 6,000",
+   "page_3": 9,
+   "quote_4": "4 Lower of 0.5% of AP, 0.5% of FV, Rs 2,000 Lower of 0.35% of SP, 0.35% of FV, Rs 2,000",
+   "page_4": 9
+  },
+  "switching_charge": {
+   "value": "nil; unlimited switches",
+   "status": "built-in",
+   "doc": "Prospectus",
+   "page": 8,
+   "quote": "There is no limit on the number of switches that can be exercised in",
+   "note": null,
+   "quote_2": "a policy year and all switches are free of charge.",
+   "page_2": 8
+  },
+  "partial_withdrawal_charge": {
+   "value": "nil",
+   "status": "built-in",
+   "doc": "Prospectus",
+   "page": 8,
+   "quote": "There is no charge for exercising the partial withdrawal facility.",
+   "note": null
+  },
+  "premium_redirection_charge": {
+   "value": "nil",
+   "status": "built-in",
+   "doc": "Prospectus",
+   "page": 8,
+   "quote": "you may change the split in which the premiums are to be",
+   "note": null,
+   "quote_2": "saved in the funds, without any charge.",
+   "page_2": 8
+  },
+  "miscellaneous_charge": {
+   "value": "Rs 50 per request for change in premium payment frequency, change in premium payment term and postponement of vesting date (may rise to Rs 500)",
+   "status": "built-in",
+   "doc": "Prospectus",
+   "page": 9,
+   "quote": "We currently charge Rs. 50 per request for change in premium payment frequency",
+   "note": null
+  },
+  "guarantee_charge": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "rider_charges": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "any_charge_returned": {
+   "value": "premium allocation charges returned as units every 5 years from year 10 to year 30; up to 600% with the Advantage option and a policy term of 30 years or more",
+   "status": "built-in",
+   "doc": "Prospectus",
+   "page": 5,
+   "quote": "Premium allocation charges deducted till that year under the policy will be added back to",
+   "note": null,
+   "quote_2": "Up to 600%** of Return of Premium Allocation Charges and Loyalty",
+   "page_2": 2
+  }
+ },
+ "benefits": {
+  "death_benefit_formula": {
+   "value": {
+    "single life": "higher of fund value (including top-up) and 105% of total premiums paid; the policy ends",
+    "joint life": "first death: future premiums are waived and the policy continues; second death: higher of fund value and 105% of premiums paid"
+   },
+   "status": "built-in",
+   "doc": "Prospectus",
+   "page": 4,
+   "quote": "Fund Value (including Top-up Fund Value) as on date of intimation of death; or",
+   "note": null,
+   "quote_2": "We will waive off all future due premiums after the date of ﬁrst death of any of the lives",
+   "page_2": 4,
+   "quote_3": "105% of Total Premiums Paid (including Top-up premium, if any)",
+   "page_3": 4
+  },
+  "maturity_benefit": {
+   "value": "fund value (including top-up fund value) at the vesting date; up to 60% can be commuted tax-free and the rest must buy an annuity, or 100% can buy an annuity",
+   "status": "built-in",
+   "doc": "Prospectus",
+   "page": 4,
+   "quote": "On survival of Life Insured till the Vesting Date, Fund Value (including Top-up",
+   "note": null,
+   "quote_2": "To commute / withdraw up to 60% of the",
+   "page_2": 4,
+   "quote_3": "Fully tax-Free withdrawal of up to 60% of fund on maturity",
+   "page_3": 2
+  },
+  "loyalty_additions": {
+   "value": {
+    "limited and regular pay, male lives, bands 2 and 3": {
+     "years 6-20": {
+      "Advantage": "0.20%",
+      "Prime": "0.10%",
+      "Elite": "0.10%"
+     },
+     "years 21-30": {
+      "Advantage": "0.25%",
+      "Prime": "0.15%",
+      "Elite": "0.15%"
+     },
+     "years 31-40": {
+      "Advantage": "0.30%",
+      "Prime": "0.20%",
+      "Elite": "0.20%"
+     },
+     "year 41+": {
+      "Advantage": "0.35%",
+      "Prime": "0.25%",
+      "Elite": "0.25%"
+     }
+    },
+    "band 1": "nil",
+    "female lives": "1.5 times the male rate",
+    "basis": "average fund value of the last 24 months, from the end of year 6"
+   },
+   "status": "built-in",
+   "doc": "Prospectus",
+   "page": 5,
+   "quote": "6 to 20 0.20% 0.10% 0.10%",
+   "note": null,
+   "quote_2": "21 to 30 0.25% 0.15% 0.15%",
+   "page_2": 5,
+   "quote_3": "31 to 40 0.30% 0.20% 0.20%",
+   "page_3": 5,
+   "quote_4": "Loyalty Additions for female lives will be 1.5 times higher than the Male lives.",
+   "page_4": 5
+  },
+  "wealth_boosters_or_guaranteed_additions": {
+   "value": {
+    "Annuity Booster": "1% of the average fund value of the last 24 months for limited and regular pay, 0.5% for single pay, if 40% to 100% of the vesting benefit buys an annuity from ABSLI"
+   },
+   "status": "built-in",
+   "doc": "Prospectus",
+   "page": 5,
+   "quote": "1% for Limited Pay/Regular Pay policies of the average of the Fund Value (including Top-up",
+   "note": null,
+   "quote_2": "0.5% for Single Pay policies of the average of the Fund Value (including Top-up Fund Value)",
+   "page_2": 5
+  },
+  "return_of_mortality_charges": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "return_of_premium_allocation_charges": {
+   "value": {
+    "limited and regular pay": {
+     "year 10": {
+      "Advantage": "60%",
+      "Prime": "50%"
+     },
+     "year 15": {
+      "Advantage": "60%",
+      "Prime": "50%"
+     },
+     "year 20": {
+      "Advantage": "120%",
+      "Prime": "100%"
+     },
+     "year 25": {
+      "Advantage": "120%",
+      "Prime": "100%"
+     },
+     "year 30": {
+      "Advantage": "240%",
+      "Prime": "200%"
+     }
+    },
+    "single pay": {
+     "years 10, 15, 20, 25": {
+      "Advantage": "120%",
+      "Prime": "100%"
+     },
+     "year 30": {
+      "Advantage": "240%",
+      "Prime": "200%"
+     }
+    },
+    "elite": "NA",
+    "top-up premiums": "not applicable"
+   },
+   "status": "built-in",
+   "doc": "Prospectus",
+   "page": 5,
+   "quote": "10 60% 50%",
+   "note": null,
+   "quote_2": "20 120% 100% NA",
+   "page_2": 5,
+   "quote_3": "30 240% 200%",
+   "page_3": 5,
+   "quote_4": "Return of Allocation charge will not be applicable for Top-up premium, if any.",
+   "page_4": 5
+  },
+  "return_of_policy_admin_charges": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "other_additions": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  }
+ },
+ "flexibility": {
+  "fund_switching": {
+   "value": "free and unlimited under the Self-Managed Option; at least Rs 5,000 per switch",
+   "status": "optional (during term)",
+   "doc": "Prospectus",
+   "page": 8,
+   "quote": "provided the switched",
+   "note": null,
+   "quote_2": "amount is at least Rs. 5,000.",
+   "page_2": 8
+  },
+  "premium_redirection": {
+   "value": "free of charge, applicable at the policy anniversary",
+   "status": "optional (during term)",
+   "doc": "Prospectus",
+   "page": 8,
+   "quote": "saved in the funds, without any charge.",
+   "note": null
+  },
+  "partial_withdrawals": {
+   "value": {
+    "from": "after 5 policy years",
+    "maximum": "25% of fund value",
+    "count": "three times in the whole term",
+    "purposes": "children education or marriage, house purchase, critical illness treatment, disability expenses, skill development, own venture"
+   },
+   "status": "optional (during term)",
+   "doc": "Prospectus",
+   "page": 8,
+   "quote": "Partial withdrawal can be made only after completion of 5 policy years",
+   "note": null,
+   "quote_2": "withdraw up to 25% of the Fund Value during the policy term subject to",
+   "page_2": 8,
+   "quote_3": "Partial withdrawal is allowed only three times during the entire",
+   "page_3": 8
+  },
+  "systematic_withdrawal_plan": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "top_up_premiums": {
+   "value": {
+    "minimum": "Rs 5,000",
+    "cap": "total top-ups cannot exceed total regular or single premium paid",
+    "death benefit on top-up": "105% of the top-up paid",
+    "allocation charge": "2%"
+   },
+   "status": "optional (during term)",
+   "doc": "Prospectus",
+   "page": 8,
+   "quote": "The minimum amount of Top- Up premium is Rs. 5,000, subject to",
+   "note": null,
+   "quote_2": "At any point in time, total top-up premium paid cannot exceed the",
+   "page_2": 8,
+   "quote_3": "All Top up premiums made during the vesting period, will have death",
+   "page_3": 8
+  },
+  "settlement_option": {
+   "value": "nominee can take the death benefit in instalments over 5 years (yearly, half-yearly, quarterly or monthly)",
+   "status": "optional (during term)",
+   "doc": "Prospectus",
+   "page": 8,
+   "quote": "frequency can be yearly, half yearly, quarterly, or monthly spread over",
+   "note": null,
+   "quote_2": "a period of 5 years.",
+   "page_2": 8
+  },
+  "premium_holiday_or_offset": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "increase_decrease_cover": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "change_ppt_or_term": {
+   "value": "premium payment term can be increased after 5 full policy years; vesting date can be postponed up to age 75 if both lives are under 60",
+   "status": "optional (during term)",
+   "doc": "Prospectus",
+   "page": 8,
+   "quote": "Policyholder will have an option to increase the Premium Payment",
+   "note": null,
+   "quote_2": "The minimum postponement can be of one year and the maximum would be up to the age of",
+   "page_2": 4
+  },
+  "policy_loan": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "auto_portfolio_strategies": {
+   "value": [
+    {
+     "name": "Smart Investment Option",
+     "mechanics": "Pension Maximiser and Pension Income Advantage split by outstanding vesting term and risk profile; moderate 70% equity with 21+ years to go, 10% with 0-3 years to go; rebalanced each policy anniversary"
+    },
+    {
+     "name": "LifeCycle Investment Option",
+     "mechanics": "split by age and risk profile; moderate 70% equity at ages 18-30, 5% at 71+"
+    },
+    {
+     "name": "Return Optimiser Investment Option",
+     "mechanics": "all premium goes to Pension Maximiser; a gain of 10% over the net invested amount moves to Pension Income Advantage"
+    },
+    {
+     "name": "Self-Managed Option"
+    }
+   ],
+   "status": "optional (at inception)",
+   "doc": "Prospectus",
+   "page": 7,
+   "quote": "21 & above 90% 10% 70% 30% 50% 50%",
+   "note": null,
+   "quote_2": "71 + 25% 5% 0%",
+   "page_2": 7,
+   "quote_3": "upside movement of 10% or more over the net invested amount.",
+   "page_3": 7
+  }
+ },
+ "funds": {
+  "fund_count": {
+   "value": 5,
+   "status": "n/a",
+   "doc": "Prospectus",
+   "page": 2,
+   "quote": "Create dedicated retirement corpus with choice of 5 funds and 4 investment",
+   "note": null
+  },
+  "fund_list": {
+   "value": [
+    {
+     "name": "Pension Maximiser",
+     "SFIN": "ULIF04410/09/26ABSLPENMAX109",
+     "FMC_pct": 1.35,
+     "asset_allocation": "equity 80% to 100%",
+     "risk_label": "High"
+    },
+    {
+     "name": "Pension Income Advantage",
+     "SFIN": "ULIF04510/09/26ABSLPENINA109",
+     "FMC_pct": 1.0,
+     "asset_allocation": "debt and money market, no equity",
+     "risk_label": "Very Low"
+    },
+    {
+     "name": "Pension Nourish",
+     "SFIN": "ULIF00604/03/03BSLNOURISH109",
+     "FMC_pct": 1.0,
+     "asset_allocation": "debt 90% to 100%, equity 0% to 10%",
+     "risk_label": "Very Low"
+    },
+    {
+     "name": "Pension Growth",
+     "SFIN": "ULIF00504/03/03BSLIGROWTH109",
+     "FMC_pct": 1.0,
+     "asset_allocation": "debt 80% to 90%, equity 10% to 20%",
+     "risk_label": "Very Low"
+    },
+    {
+     "name": "Pension Enrich",
+     "SFIN": "ULIF00404/03/03BSLIENRICH109",
+     "FMC_pct": 1.25,
+     "asset_allocation": "debt 65% to 80%, equity 20% to 35%",
+     "risk_label": "Low"
+    }
+   ],
+   "status": "n/a",
+   "doc": "Prospectus",
+   "page": 9,
+   "quote": "Pension Maximiser 1.35%",
+   "note": "FMCs from the charges table. Fund identification numbers are wrapped across lines in the brochure table and joined here, so check them against the brochure p.7"
+  },
+  "index_or_thematic_funds": {
+   "value": null,
+   "status": "not offered",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": "no index or thematic fund"
+  },
+  "discontinued_policy_fund": {
+   "value": {
+    "name": "Pension Discontinued Fund",
+    "fmc": "0.50%"
+   },
+   "status": "built-in",
+   "doc": "Prospectus",
+   "page": 9,
+   "quote": "moved to the Pension Discontinued Fund.",
+   "note": null
+  }
+ },
+ "protection_add_ons": {
+  "waiver_of_premium_inbuilt": {
+   "value": "Joint Life: on the first death of either life, all future premiums are waived",
+   "status": "built-in",
+   "doc": "Prospectus",
+   "page": 2,
+   "quote": "on ﬁrst death of either of the Life Assured, all future premiums payable under the policy will be waived.",
+   "note": null
+  },
+  "critical_illness": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "accidental_death": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "terminal_illness": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "spouse_or_child_cover": {
+   "value": "Joint Life option lets any person with insurable interest be the secondary life",
+   "status": "built-in",
+   "doc": "Prospectus",
+   "page": 3,
+   "quote": "any person having insurable interest in the life of Primary Life can become",
+   "note": null
+  },
+  "riders_available": {
+   "value": [
+    "ABSLI Waiver of Premium Rider (109A039V01), shown as Not Applicable in the plan at a glance"
+   ],
+   "status": "rider",
+   "doc": "Prospectus",
+   "page": 3,
+   "quote": "ABSLI Waiver of Premium Rider Not Applicable Rider (109A039V01)",
+   "note": null
+  }
+ },
+ "surrender_revival": {
+  "lock_in_years": {
+   "value": 5,
+   "status": "built-in",
+   "doc": "Prospectus",
+   "page": 10,
+   "quote": "You have an option to surrender any time during the lock-in period.",
+   "note": null
+  },
+  "discontinuance_rules": {
+   "value": "discontinuance in the first 5 years moves the fund, less the charge, to the Pension Discontinued Fund; the proceeds are paid at the end of the lock-in or revival period, whichever is later",
+   "status": "built-in",
+   "doc": "Prospectus",
+   "page": 9,
+   "quote": "the Regular/Limited/Single Fund Value after deduction of",
+   "note": null,
+   "quote_2": "Discontinuance Charges are moved to the Pension Discontinued Fund.",
+   "page_2": 9
+  },
+  "revival_period": {
+   "value": "3 years from the date of the first unpaid premium",
+   "status": "built-in",
+   "doc": "Prospectus",
+   "page": 10,
+   "quote": "revival period of three years from date",
+   "note": null
+  },
+  "surrender_value_rule": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  }
+ },
+ "documents_inventory": [
+  {
+   "website_label": "Abridged Factsheets",
+   "doc_type": "fund_factsheet",
+   "url": "https://lifeinsurance.adityabirlacapital.com/forms-and-downloads/abridged-factsheets/",
+   "found_on_page_url": "https://lifeinsurance.adityabirlacapital.com/retirement-and-pension-plans/absli-smart-wealth-pension-plan/",
+   "pages": null,
+   "stored_path": null,
+   "status": "web page (not stored)",
+   "note": "link opens a web page, not a document"
+  },
+  {
+   "website_label": "Brochures & Specimen Contracts",
+   "doc_type": "policy_document",
+   "url": "https://lifeinsurance.adityabirlacapital.com/forms-and-downloads/brochures-and-specimen-contracts/",
+   "found_on_page_url": "https://lifeinsurance.adityabirlacapital.com/retirement-and-pension-plans/absli-smart-wealth-pension-plan/",
+   "pages": null,
+   "stored_path": null,
+   "status": "web page (not stored)",
+   "note": "link opens a web page, not a document"
+  },
+  {
+   "website_label": "Investment Factsheets",
+   "doc_type": "fund_factsheet",
+   "url": "https://lifeinsurance.adityabirlacapital.com/forms-and-downloads/investment-factsheets/",
+   "found_on_page_url": "https://lifeinsurance.adityabirlacapital.com/retirement-and-pension-plans/absli-smart-wealth-pension-plan/",
+   "pages": null,
+   "stored_path": null,
+   "status": "web page (not stored)",
+   "note": "link opens a web page, not a document"
+  },
+  {
+   "website_label": "Prospectus",
+   "doc_type": "brochure",
+   "url": "https://lifeinsurance.adityabirlacapital.com/uploads/ABSLI_Smart_Wealth_Pension_Brochure_Final_2ee6bb7ae3.pdf",
+   "found_on_page_url": "https://lifeinsurance.adityabirlacapital.com/retirement-and-pension-plans/absli-smart-wealth-pension-plan/",
+   "pages": 14,
+   "stored_path": "docs/absli/109L157V01/brochure.pdf",
+   "status": "already stored",
+   "note": null
+  },
+  {
+   "website_label": "Policy Contract",
+   "doc_type": "policy_document",
+   "url": "https://lifeinsurance.adityabirlacapital.com/uploads/ABSLI_Smart_Wealth_Pension_Plan_V1_Policy_Document_Tn_C_fbbb5632d3.pdf",
+   "found_on_page_url": "https://lifeinsurance.adityabirlacapital.com/retirement-and-pension-plans/absli-smart-wealth-pension-plan/",
+   "pages": 46,
+   "stored_path": "docs/absli/109L157V01/policy.pdf",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "website_label": "Prime Leaflet",
+   "doc_type": "leaflet",
+   "url": "https://lifeinsurance.adityabirlacapital.com/uploads/ABSLI_Leaftlet_Prime_b090cd004d.pdf",
+   "found_on_page_url": "https://lifeinsurance.adityabirlacapital.com/retirement-and-pension-plans/absli-smart-wealth-pension-plan/",
+   "pages": null,
+   "stored_path": null,
+   "status": "not stored (leaflet; brochure already stored)",
+   "note": null
+  },
+  {
+   "website_label": "Advantage Leaflet",
+   "doc_type": "leaflet",
+   "url": "https://lifeinsurance.adityabirlacapital.com/uploads/ABSLI_Leaftlet_Advantage_c2ba45352c.pdf",
+   "found_on_page_url": "https://lifeinsurance.adityabirlacapital.com/retirement-and-pension-plans/absli-smart-wealth-pension-plan/",
+   "pages": null,
+   "stored_path": null,
+   "status": "not stored (leaflet; brochure already stored)",
+   "note": null
+  },
+  {
+   "website_label": "Elite Leaflet",
+   "doc_type": "leaflet",
+   "url": "https://lifeinsurance.adityabirlacapital.com/uploads/ABSLI_Leaftlet_Elite_9fa4f8fc99.pdf",
+   "found_on_page_url": "https://lifeinsurance.adityabirlacapital.com/retirement-and-pension-plans/absli-smart-wealth-pension-plan/",
+   "pages": null,
+   "stored_path": null,
+   "status": "not stored (leaflet; brochure already stored)",
+   "note": null
+  },
+  {
+   "website_label": "CIS",
+   "doc_type": "CIS",
+   "url": "https://lifeinsurance.adityabirlacapital.com/uploads/ABSLI_Smart_Wealth_Pension_Plan_V1_Customer_Information_Sheet_bf3031f4a4.pdf",
+   "found_on_page_url": "https://lifeinsurance.adityabirlacapital.com/retirement-and-pension-plans/absli-smart-wealth-pension-plan/",
+   "pages": 7,
+   "stored_path": "docs/absli/109L157V01/cis.pdf",
+   "status": "ok",
+   "note": null
+  }
+ ],
+ "new_features_not_in_schema": [
+  {
+   "feature": "Annuity booster at vesting",
+   "description": "A booster of 1% (0.5% for single pay) of the average fund value of the last 24 months is added when the vesting benefit buys an ABSLI annuity",
+   "quote": "Up to 1% Annuity Booster#",
+   "doc": "Prospectus",
+   "page": 2
+  },
+  {
+   "feature": "Up to 600% return of premium allocation charges",
+   "description": "Allocation charges are returned as units every 5 years from year 10 to 30; 600% in total for Advantage with a policy term of 30 years or more",
+   "quote": "Up to 600%** of Return of Premium Allocation Charges and Loyalty",
+   "doc": "Prospectus",
+   "page": 2
+  }
+ ],
+ "data_not_public": [
+  {
+   "item": "Full mortality charge table",
+   "doc": "Prospectus",
+   "where_referenced": "Mortality Charge section",
+   "quote": "Please visit our website or ask your ﬁnancial advisor for the rates applicable to you.",
+   "note": "sample rates for five ages are printed"
+  }
+ ]
+}

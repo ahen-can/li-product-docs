@@ -31,6 +31,69 @@
 **Done:** Bharti PDs FY22 to FY26 and Q1 FY27 (FY24 PD now in hand), annual reports FY21 to FY26, KPI files, and FY26 PDs for all 13 peers. The file "fy2025 - L1-to-L45-consolidated-q4.pdf" is the FY26 PD. The "H2 FY27" KPI files cover Apr to Sep 2026 (H1).
 **Asks / blockers:** annual reports FY23, FY25 and FY26 are scanned and need OCR; the user is installing tesseract. Peer PDs live on the user's laptop only (Desktop/LI-PDs), so S1 cannot see them.
 
+### 4 Nov 2026 · S2 · ULIP deep: ABSLI done
+**Status:** Bharti, SBI, HDFC, Tata AIA, Bajaj, Axis Max, LIC and ABSLI are complete (70 of 84). Next: Canara HSBC (8), Ageas Federal (6).
+
+**Done:**
+- **ABSLI (10).** 10 policy documents, 8 CIS, 10 brochures. No BIs. All 70 JSON files pass `validate_ulip_json.py`, and `check_consistency.py` reports 0 problems.
+- **Gaps.** Fortune Wealth and Salaried Suraksha link no CIS. Wealth Aspire's policy document prints no product code, so it is stored with a note and not quoted. Charges and benefits are quoted from the brochures.
+
+**Asks / blockers:** none.
+
+
+### 4 Nov 2026 · S2 · ULIP deep: LIC done
+**Status:** Bharti, SBI, HDFC, Tata AIA, Bajaj, Axis Max and LIC are complete (60 of 84). Next: ABSLI, Canara HSBC, Ageas Federal.
+
+**Done:**
+- **LIC (5).** 5 policy documents, 5 CIS, 9 brochures (four products link an old and a new brochure; the JSON uses the one from 22/09/2025). No BIs. All 60 JSON files pass `validate_ulip_json.py`, and `check_consistency.py` reports 0 problems.
+- **Gap.** The LIC policy documents print no charge or mortality tables, so charges come from the brochures and mortality rates are sample ages only.
+
+**Asks / blockers:** none.
+
+
+### 4 Nov 2026 · S2 · ULIP deep: Axis Max Life done
+**Status:** Bharti, SBI, HDFC, Tata AIA, Bajaj and Axis Max are complete (55 of 84). Next: LIC, ABSLI, Canara HSBC, Ageas Federal.
+
+**Done:**
+- **Axis Max (9).** 8 policy documents, 8 CIS, 9 prospectuses. No BIs. All 55 JSON files pass `validate_ulip_json.py`, and `check_consistency.py` reports 0 problems.
+- **Documents found off the visible links.** Forever Young's policy document and CIS are in its page source. The Online Savings Plan Plus page links Online Savings Plan documents (UIN 104L098V06), which I stored under that product.
+- **Gap.** Online Savings Plan Plus has no policy document of its own, so no mortality table.
+
+**Asks / blockers:** none.
+
+
+### 4 Nov 2026 · S2 · ULIP deep: Bajaj Life done
+**Status:** Bharti, SBI, HDFC, Tata AIA and Bajaj are complete (46 of 84). Next: Axis Max, LIC, ABSLI, Canara HSBC, Ageas Federal.
+
+**Done:**
+- **Bajaj (11).** 11 policy documents, 13 CIS and 13 brochures. No BIs. Supreme and Smart Pension policy documents are not linked on their pages; I found them by the site's file-name pattern. All 46 JSON files pass `validate_ulip_json.py`, and `check_consistency.py` reports 0 problems.
+- **Smart Wealth Goal VII (116L218V01).** It has three variants. The JSON records the Wealth variant field by field. Child Wealth and Joint Life Wealth are on the retry list.
+- **Label change.** Bajaj labels every document "Download". `scripts/ulip_json.py` now tags later stored files with the same label as "Download (file name)". The first one keeps "Download".
+
+**Asks / blockers:**
+- Smart Pension: the site's policy document is V03, not V08. Every value from it is flagged.
+- Fortune Gain II: the mortality annexure and the admin charge are not in its policy document.
+
+### 4 Nov 2026 · S2 · Calculator products redone
+@S1 the charge, eligibility and addition fields of your six calculator products are redone: 130L100V03, 130L123V01, 130L121V01, 111L147V01, 101L133V03 and 101L180V01. Every quote now contains its value, and charge tables are nested numbers. Mortality notes give the rate-table pages and a few sample rates.
+- **New fields.** A table too long for one 300-character quote now uses `quote_2` to `quote_4`, each with `page_2` to `page_4`. `validate_ulip_json.py` checks them the same way as `quote`.
+- **Changed value shapes.** Some values that were text are now objects. For example, Sampoorn Nivesh Plus allocation charges are lists by premium band, and entry ages are dicts by option or term. Please re-read these if your calculator parsed the old strings.
+
+### 4 Nov 2026 · S2 · S2 project memory added
+@S1 my working context is now in `S2_PROJECT_MEMORY.md`, and my reading tools are in `scripts/s2_tools/`. The format answer is received. Per the user: the new quote rule applies from Bajaj onwards, old quotes get redone at the end of wave 1, and first I redo the charge, eligibility and addition fields for your six calculator products (130L100V03, 130L123V01, 130L121V01, 111L147V01, 101L133V03, 101L180V01).
+
+### 4 Nov 2026 · S2 · ULIP deep: Tata AIA done
+**Status:** Bharti, SBI, HDFC and Tata AIA are complete (35 of 78). Next: Bajaj, Axis Max, LIC, ABSLI, Canara HSBC.
+
+**Done:**
+- **Tata AIA (14).** 13 policy documents and 13 CIS. The "Quote/Benefit Illustration" link opens a quote web page, so there are no BIs. All 35 JSON files pass `scripts/validate_ulip_json.py`.
+- **Gaps.** i Systematic Insurance Plan's page links only the V04 sales literature (the deep set lists V11), so its JSON is brochure-only with every value flagged. Smart Sampoorna Raksha Pro's brochure is image-only with no readable UIN, so its eligibility is "not stated".
+- **Mortality rates.** Several Tata policies do not print them: two say they are on the website, and five name no place at all. These are listed under `data_not_public`.
+
+**Asks / blockers:**
+- @S1 the format question on `features/ulip/130L100V03.json` is still open. I am keeping the same format.
+
+**Answers to earlier asks:** none.
 ### 4 Nov 2026 · S1 · New session S3 for the Bharti analysis
 **Status:** the user is starting S3 on their laptop for the Bharti trend and portfolio analysis. Brief: briefs/bharti_analysis_brief.md. S3 works on branch s3-bharti-analysis in analysis/bharti/ only. S2 is not affected.
 

@@ -71,19 +71,25 @@
  },
  "eligibility": {
   "entry_age_min": {
-   "value": "30 days (life assured); 18 years (proposer, Premium Waiver)",
+   "value": {
+    "life assured": "30 days",
+    "proposer (Premium Waiver)": "18 years"
+   },
    "status": "n/a",
    "doc": "Download Brochure",
    "page": 2,
-   "quote": "(30 days) to 60 years",
-   "note": null
+   "quote": "Life Assured: 0 years Life Assured: (30 days) to 60 years Life Assured: 0 years Age at Entry 0 years (30 days) Proposer: 18 years (30 days) to 60 years to 60 years to 65 years 18 years to",
+   "note": "three-column table (Invest Plus, Premium Waiver, Golden Years) read in layout order"
   },
   "entry_age_max": {
-   "value": "60 years (life assured); 65 years (proposer, Premium Waiver)",
+   "value": {
+    "life assured": "60 years",
+    "proposer (Premium Waiver)": "65 years"
+   },
    "status": "n/a",
    "doc": "Download Brochure",
    "page": 2,
-   "quote": "(30 days) to 60 years",
+   "quote": "Life Assured: 0 years Life Assured: (30 days) to 60 years Life Assured: 0 years Age at Entry 0 years (30 days) Proposer: 18 years (30 days) to 60 years to 60 years to 65 years 18 years to",
    "note": null
   },
   "maturity_age_min": {
@@ -111,20 +117,36 @@
    "note": null
   },
   "ppt_options": {
-   "value": "single; limited 5/7/10; regular 10 to 40; Golden Years: limited 10 to 70 minus entry age",
+   "value": {
+    "Invest Plus": [
+     "single",
+     "limited 5, 7, 10",
+     "regular 10 to 40"
+    ],
+    "Premium Waiver": [
+     "limited 5, 7, 10",
+     "regular 10 to 40"
+    ],
+    "Golden Years": "limited 10 to 70 minus entry age"
+   },
    "status": "n/a",
    "doc": "Download Brochure",
    "page": 3,
-   "quote": "Regular: 10 to 40 years",
+   "quote": "Premium Payment Limited: 5, 7 and 10 years 10 to 70 minus Term 10 years Regular: 10 to age at Entry Regular: 10 to 40 years 40 years",
    "note": null
   },
   "premium_min_annual": {
-   "value": "Rs 12,000 annual / 6,000 half-yearly / 3,000 quarterly / 1,000 monthly",
+   "value": {
+    "annual": 12000,
+    "half-yearly": 6000,
+    "quarterly": 3000,
+    "monthly": 1000
+   },
    "status": "n/a",
    "doc": "Download Brochure",
    "page": 3,
-   "quote": "Annual: ` 12,000",
-   "note": null
+   "quote": "Single: ` 24,000 Annual: ` 12,000 Minimum Premiums Half-yearly: ` 6,000 Quarterly: ` 3,000 Monthly: ` 1,000",
+   "note": "the brochure prints the rupee sign as `"
   },
   "premium_min_single": {
    "value": "Rs 24,000",
@@ -143,12 +165,25 @@
    "note": null
   },
   "sum_assured_rule": {
-   "value": "single: 1.25x SP (< 50) or 1.10x (>= 50); regular/limited: 7x AP (< 50) or 5x AP (>= 50); top-up: 1.25x",
+   "value": {
+    "single": {
+     "entry < 50": "1.25 x SP",
+     "entry >= 50": "1.10 x SP"
+    },
+    "regular/limited": {
+     "entry < 50": "7 x AP",
+     "entry >= 50": "5 x AP"
+    },
+    "top-up": "1.25 x top-up",
+    "maximum": "as per underwriting policy"
+   },
    "status": "built-in",
    "doc": "Download Brochure",
    "page": 3,
-   "quote": "7 x Annualized Premium",
-   "note": null
+   "quote": "1.25 x Single Premium < 50 years) Single Pay 2 (Age at Entry 1.10 x Single Premium Sum > = 50 years) Maximum Sum",
+   "note": null,
+   "quote_2": "(Age at Entry 7 x Annualized Premium Regular & as per Board < 50 years) Approved Limited Pay (Age at Entry Underwriting 5 x Annualized Premium Policy (BAUP). > = 50 years)",
+   "page_2": 3
   },
   "premium_modes": {
    "value": "single, yearly, half-yearly, quarterly, monthly",
@@ -197,12 +232,26 @@
    "note": null
   },
   "mortality_charge": {
-   "value": "sum at risk x rate (Appendix 1), guaranteed; Premium Waiver: present value of future premiums at 5%",
+   "value": {
+    "basis": "sum at risk (death benefit less fund value) x rate in Appendix 1, deducted monthly",
+    "premium waiver sum at risk": "present value of future premiums at 5%",
+    "guaranteed": true,
+    "sample_rates": {
+     "age 30": 1.075,
+     "age 40": 1.848,
+     "age 50": 4.88
+    },
+    "unit": "annual rate per Rs 1,000 sum at risk"
+   },
    "status": "built-in",
    "doc": "HDFC Life Click 2 Wealth- 101L133V03- Policy Document",
    "page": 19,
    "quote": "The Sum at Risk for Premium Waiver Option will be Present Value of Future Premiums discounted at 5%.",
-   "note": null
+   "note": "Appendix 1 rate table (ages 0 to 99) on policy pages 25-26; annual rates per Rs 1,000 of sum at risk, as stated on p.26",
+   "quote_2": "30 1.075 83 91.390",
+   "page_2": 25,
+   "quote_3": "40 1.848 93 238.202",
+   "page_3": 26
   },
   "discontinuance_charge": {
    "value": "nil",
@@ -261,12 +310,16 @@
    "note": null
   },
   "any_charge_returned": {
-   "value": "all mortality charges returned at maturity (Golden Years: at age 70)",
+   "value": {
+    "mortality charges": "all returned at maturity; Golden Years at the end of the policy year at or after the 70th birthday"
+   },
    "status": "built-in",
    "doc": "HDFC Life Click 2 Wealth- 101L133V03- Policy Document",
    "page": 12,
    "quote": "At maturity, the sum total of mortality charges* deducted in respect of the life cover throughout the Policy",
-   "note": null
+   "note": null,
+   "quote_2": "the total amount of mortality charges will be added to the Fund Value at the end of Policy year coinciding or immediately following 70th birthday of Life Assured.",
+   "page_2": 12
   }
  },
  "benefits": {
@@ -295,19 +348,30 @@
    "note": null
   },
   "wealth_boosters_or_guaranteed_additions": {
-   "value": "Special Additions: 1% of AP added at each allocation for the first 5 years (single pay: 1% of SP once)",
+   "value": {
+    "Special Additions": {
+     "regular/limited": "1% of AP at each allocation in years 1-5",
+     "single": "1% of SP once"
+    }
+   },
    "status": "built-in",
    "doc": "HDFC Life Click 2 Wealth- 101L133V03- Policy Document",
    "page": 12,
    "quote": "For Regular and Limited Pay Policies, 1% of your Annualised Premium shall be added to the Fund Value at the time of allocation of Premium for first 5 Policy years.",
-   "note": null
+   "note": null,
+   "quote_2": "For Single Pay Policies, 1% of your Single Premium shall be added to the Fund Value once during Premium allocation.",
+   "page_2": 12
   },
   "return_of_mortality_charges": {
-   "value": "at maturity; Golden Years at the policy year at or after age 70; not for surrendered, paid-up or waiver-triggered policies",
+   "value": {
+    "when": "at maturity; Golden Years at the end of the policy year at or after age 70",
+    "share": "100% of mortality charges (excluding extra, waiver and taxes)",
+    "not paid": "surrendered, discontinued, paid-up or waiver-triggered policies"
+   },
    "status": "built-in",
    "doc": "HDFC Life Click 2 Wealth- 101L133V03- Policy Document",
    "page": 12,
-   "quote": "For Golden Years Benefit Option, which is whole of life option, the total amount of mortality charges will",
+   "quote": "the total amount of mortality charges will be added to the Fund Value at the end of Policy year coinciding or immediately following 70th birthday of Life Assured.",
    "note": null
   },
   "return_of_premium_allocation_charges": {

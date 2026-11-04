@@ -1,0 +1,1041 @@
+{
+ "product": {
+  "uin": {
+   "value": "109L100V06",
+   "status": "n/a",
+   "doc": "Prospectus",
+   "page": 14,
+   "quote": "UIN: 109L100V06",
+   "note": null
+  },
+  "uin_in_brochure": {
+   "value": "109L100V06",
+   "status": "n/a",
+   "doc": "Prospectus",
+   "page": 14,
+   "quote": "UIN: 109L100V06",
+   "note": null
+  },
+  "product_name": {
+   "value": "Aditya Birla Sun Life Insurance Wealth Aspire Plan",
+   "status": "n/a",
+   "doc": "Prospectus",
+   "page": 1,
+   "quote": "Aditya Birla Sun Life Insurance Wealth Aspire Plan",
+   "note": null
+  },
+  "irdai_description_line": {
+   "value": "A unit linked life insurance plan",
+   "status": "n/a",
+   "doc": "Prospectus",
+   "page": 1,
+   "quote": "A unit linked life insurance plan",
+   "note": null
+  },
+  "launch_or_version_date": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "variants_or_plan_options": {
+   "value": [
+    "Classic Option",
+    "Assured Option"
+   ],
+   "status": "n/a",
+   "doc": "Prospectus",
+   "page": 3,
+   "quote": "Options Classic Option Assured Option",
+   "note": null
+  },
+  "target_segment_stated": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "online_offline": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  }
+ },
+ "eligibility": {
+  "entry_age_min": {
+   "value": {
+    "Classic": "30 days (risk starts from the first policy anniversary)",
+    "Assured": "18 years"
+   },
+   "status": "n/a",
+   "doc": "Prospectus",
+   "page": 3,
+   "quote": "Minimum – 30 days* Minimum - 18 years",
+   "note": null
+  },
+  "entry_age_max": {
+   "value": {
+    "Classic": {
+     "5 pay": 50,
+     "6 and 7 pay": 55,
+     "8 pay and above": 65
+    },
+    "Assured": {
+     "5 to 8 pay": 45,
+     "9 pay and above": 50
+    }
+   },
+   "status": "n/a",
+   "doc": "Prospectus",
+   "page": 3,
+   "quote": "For 5 Pay: 50 years For 5 to 8 Pay: 45 years",
+   "note": null,
+   "quote_2": "For 6 Pay & 7 Pay: 55 years For 9 Pay and above: 50 years",
+   "page_2": 3,
+   "quote_3": "For 8 Pay and above: 65 years",
+   "page_3": 3
+  },
+  "maturity_age_min": {
+   "value": {
+    "Classic": 18,
+    "Assured": 28
+   },
+   "status": "n/a",
+   "doc": "Prospectus",
+   "page": 3,
+   "quote": "5 Pay: 18 to 75 years 28 to 60 years",
+   "note": null
+  },
+  "maturity_age_max": {
+   "value": {
+    "Classic": {
+     "5 pay": 75,
+     "6 to 7 pay": 80,
+     "8 pay and above": 85
+    },
+    "Assured": 60
+   },
+   "status": "n/a",
+   "doc": "Prospectus",
+   "page": 3,
+   "quote": "5 Pay: 18 to 75 years 28 to 60 years",
+   "note": null,
+   "quote_2": "For 6 to 7 Pay: 18 to 80 years",
+   "page_2": 3,
+   "quote_3": "For 8 Pay and above: 18 to 85 years",
+   "page_3": 3
+  },
+  "policy_term_options": {
+   "value": "10 to 40 years",
+   "status": "n/a",
+   "doc": "Prospectus",
+   "page": 3,
+   "quote": "Minimum – 10 years",
+   "note": null,
+   "quote_2": "Maximum – 40 years",
+   "page_2": 3
+  },
+  "ppt_options": {
+   "value": "5 to 40 years",
+   "status": "n/a",
+   "doc": "Prospectus",
+   "page": 3,
+   "quote": "5 to 40 years",
+   "note": null
+  },
+  "premium_min_annual": {
+   "value": {
+    "annual": 40000,
+    "semi-annual": 45000,
+    "quarterly and monthly": 50000,
+    "entry age 61 to 65": 500000
+   },
+   "status": "n/a",
+   "doc": "Prospectus",
+   "page": 3,
+   "quote": "40,000 for annual mode",
+   "note": null,
+   "quote_2": "45,000 for semi-annual mode",
+   "page_2": 3,
+   "quote_3": "50,000 for quarterly and monthly mode",
+   "page_3": 3,
+   "quote_4": "5,00,000 p.a. if the age at entry is between 61 to 65 years, both inclusive",
+   "page_4": 3
+  },
+  "premium_min_single": {
+   "value": null,
+   "status": "not offered",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": "regular pay only"
+  },
+  "premium_max": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "sum_assured_rule": {
+   "value": "10 times the annualized premium (basic); minimum Rs 4,00,000; top-up 125% of the top-up premium",
+   "status": "built-in",
+   "doc": "Prospectus",
+   "page": 3,
+   "quote": "is equal to 10 times of your Annualized premium.",
+   "note": null,
+   "quote_2": "Top-up Sum Assured will be 125% of the top-up premium being paid.",
+   "page_2": 3,
+   "quote_3": "Minimum Sum `4,00,000",
+   "page_3": 3
+  },
+  "premium_modes": {
+   "value": [
+    "monthly",
+    "quarterly",
+    "semi-annual",
+    "annual"
+   ],
+   "status": "n/a",
+   "doc": "Prospectus",
+   "page": 3,
+   "quote": "you can pay basic premium in monthly, quarterly, semi-annual or annual",
+   "note": null
+  },
+  "life_cover_multiple_choice": {
+   "value": null,
+   "status": "not offered",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": "basic sum assured is fixed at 10 times the annualized premium"
+  }
+ },
+ "charges": {
+  "premium_allocation_charge": {
+   "value": {
+    "band 1 (Rs 40,000 to 1,99,999)": {
+     "year 1": "7%",
+     "year 2+": "5%"
+    },
+    "band 2 (Rs 2,00,000 to 4,99,999)": {
+     "year 1": "6%",
+     "year 2+": "4%"
+    },
+    "band 3 (Rs 5,00,000+)": {
+     "year 1": "4.5%",
+     "year 2+": "3%"
+    },
+    "top-up premium": "2%"
+   },
+   "status": "built-in",
+   "doc": "Prospectus",
+   "page": 9,
+   "quote": "1 7% 6% 4.5%",
+   "note": null,
+   "quote_2": "2+ 5% 4% 3%",
+   "page_2": 9,
+   "quote_3": "Basic Premium (R) 40,000 to 1,99,999 2,00,000 to 4,99,999 5,00,000+",
+   "page_3": 3,
+   "quote_4": "A premium allocation charge of 2% is levied on any top-up premium when paid.",
+   "page_4": 9
+  },
+  "policy_administration_charge": {
+   "value": {
+    "band 1": {
+     "years 1-5": "Rs 450 a year",
+     "year 6 onwards": "Rs 600 a year, rising 5% a year from year 7"
+    },
+    "band 2 and 3": {
+     "years 1-5": "1.2% of basic premium",
+     "year 6 onwards": "nil"
+    },
+    "cap": "Rs 6,000 a year"
+   },
+   "status": "built-in",
+   "doc": "Prospectus",
+   "page": 9,
+   "quote": "Band 1 For Year 1-5 : `450 p.a.",
+   "note": null,
+   "quote_2": "For Year 6 onwards : `600 p.a. inﬂating at 5% from year 7 onwards.",
+   "page_2": 9,
+   "quote_3": "Band 2 & Band 3 For Year 1-5 : 1.2% of Basic Premium",
+   "page_3": 9,
+   "quote_4": "For Year 6 onwards : Nil",
+   "page_4": 9
+  },
+  "fund_management_charge": {
+   "value": {
+    "Liquid Plus, Income Advantage, Assure, Protector, Builder": "1.00%",
+    "Enhancer, Creator, Capped Nifty Index, Asset Allocation": "1.25%",
+    "MNC, Magnifier, Maximiser, Multiplier, Super 20, Pure Equity, Value & Momentum, Small Cap, ESG, Dividend Yield, Nifty Alpha 50 Index, Flexicap": "1.35%"
+   },
+   "status": "built-in",
+   "doc": "Prospectus",
+   "page": 9,
+   "quote": "1.00% p.a. for Liquid Plus, Income Advantage, Assure, Protector and Builder",
+   "note": null,
+   "quote_2": "1.25% p.a. for Enhancer, Creator, Capped Nifty Index, Asset Allocation",
+   "page_2": 9,
+   "quote_3": "1.35% p.a. for MNC, Magniﬁer, Maximiser, Multiplier, Super 20, Pure Equity, Value &",
+   "page_3": 9
+  },
+  "mortality_charge": {
+   "value": {
+    "basis": "per 1,000 sum at risk by gender and attained age; guaranteed; discount of 15% in band 2 and 25% in band 3",
+    "sample_rates_age_25_35_45_55_65": {
+     "male": [
+      1.088,
+      1.452,
+      3.339,
+      9.037,
+      19.509
+     ],
+     "female": [
+      1.047,
+      1.255,
+      2.469,
+      6.981,
+      15.351
+     ]
+    }
+   },
+   "status": "built-in",
+   "doc": "Prospectus",
+   "page": 9,
+   "quote": "Male* 1.088 1.452 3.339 9.037 19.509 Female 1.047 1.255 2.469 6.981 15.351",
+   "note": "sample rates only; the full table is on the website or from the advisor",
+   "quote_2": "a discount of 15% and 25% respectively is applicable on the mortality charge.",
+   "page_2": 9
+  },
+  "discontinuance_charge": {
+   "value": {
+    "annualized premium up to Rs 50,000": {
+     "Y1": "lower of 20% of AP, 20% of BFV, Rs 3,000",
+     "Y2": "15%, Rs 2,000",
+     "Y3": "10%, Rs 1,500",
+     "Y4": "5%, Rs 1,000",
+     "Y5": "nil"
+    },
+    "annualized premium above Rs 50,000": {
+     "Y1": "lower of 6% of AP, 6% of BFV, Rs 6,000",
+     "Y2": "4%, Rs 5,000",
+     "Y3": "3%, Rs 4,000",
+     "Y4": "2%, Rs 2,000",
+     "Y5": "nil"
+    },
+    "top-up": "nil"
+   },
+   "status": "built-in",
+   "doc": "Prospectus",
+   "page": 10,
+   "quote": "In Policy Year 1 Lower of 20% of AP, 20% of BFV, R3,000 Lower of 6% of AP, 6% of BFV, R6,000",
+   "note": null,
+   "quote_2": "In Policy Year 2 Lower of 15% of AP, 15% of BFV, R2,000 Lower of 4% of AP, 4% of BFV, R5,000",
+   "page_2": 10,
+   "quote_3": "In Policy Year 3 Lower of 10% of AP, 10% of BFV, R1,500 Lower of 3% of AP, 3% of BFV, R4,000",
+   "page_3": 10,
+   "quote_4": "In Policy Year 4 Lower of 5% of AP, 5% of BFV, R1,000 Lower of 2% of AP, 2% of BFV, R2,000",
+   "page_4": 10
+  },
+  "switching_charge": {
+   "value": "Rs 50 per request (may rise to Rs 500)",
+   "status": "built-in",
+   "doc": "Prospectus",
+   "page": 9,
+   "quote": "We currently charge R50 per request for change in investment option, premium re-direction,",
+   "note": null
+  },
+  "partial_withdrawal_charge": {
+   "value": "Rs 50 per request (may rise to Rs 500)",
+   "status": "built-in",
+   "doc": "Prospectus",
+   "page": 9,
+   "quote": "We currently charge R50 per request for change in investment option, premium re-direction,",
+   "note": null
+  },
+  "premium_redirection_charge": {
+   "value": "Rs 50 per request (may rise to Rs 500)",
+   "status": "built-in",
+   "doc": "Prospectus",
+   "page": 9,
+   "quote": "We currently charge R50 per request for change in investment option, premium re-direction,",
+   "note": null
+  },
+  "miscellaneous_charge": {
+   "value": "Rs 50 per request (may rise to Rs 500)",
+   "status": "built-in",
+   "doc": "Prospectus",
+   "page": 9,
+   "quote": "We do however reserve the right to charge up to R500 per request in the future.",
+   "note": null
+  },
+  "guarantee_charge": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "rider_charges": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "any_charge_returned": {
+   "value": "guaranteed additions only; no return of charges as such",
+   "status": "n/a",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": "see guaranteed additions"
+  }
+ },
+ "benefits": {
+  "death_benefit_formula": {
+   "value": {
+    "Classic": "greater of basic fund value and basic sum assured, plus greater of top-up fund value and top-up sum assured; never below 105% of premiums paid",
+    "Assured": "basic sum assured plus top-up sum assured paid at once; the policy continues to maturity with future premiums paid by the insurer and no mortality charge"
+   },
+   "status": "built-in",
+   "doc": "Prospectus",
+   "page": 4,
+   "quote": "Basic Fund Value as on date of intimation of death; or",
+   "note": null,
+   "quote_2": "we shall pay immediately to the nominee the Basic Sum Assured",
+   "page_2": 4,
+   "quote_3": "Future installment premiums shall be paid by us when due to be",
+   "page_3": 4
+  },
+  "maturity_benefit": {
+   "value": "basic fund value plus top-up fund value at the end of the policy term",
+   "status": "built-in",
+   "doc": "Prospectus",
+   "page": 4,
+   "quote": "You will receive the Basic Fund Value plus the Top-Up Fund Value as of",
+   "note": null
+  },
+  "loyalty_additions": {
+   "value": null,
+   "status": "not offered",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": "guaranteed additions are used instead"
+  },
+  "wealth_boosters_or_guaranteed_additions": {
+   "value": {
+    "percent of average policy fund value over the last 12 months": {
+     "anniversaries 6 to 10": {
+      "band 1": "0%",
+      "band 2 and 3": "0.6%"
+     },
+     "anniversaries 11 to 15": {
+      "band 1": "0.2%",
+      "band 2 and 3": "0.9%"
+     },
+     "anniversary 16+": {
+      "band 1": "0.2%",
+      "band 2 and 3": "1.0%"
+     }
+    },
+    "every 5th anniversary from the 10th": {
+     "band 1": "2% of basic premiums paid in the last 60 months",
+     "band 2 and 3": "2.5% of basic premiums paid in the last 60 months"
+    }
+   },
+   "status": "built-in",
+   "doc": "Prospectus",
+   "page": 4,
+   "quote": "6 – 10 0% 0.6% 0.6%",
+   "note": null,
+   "quote_2": "11 – 15 0.2% 0.9% 0.9%",
+   "page_2": 4,
+   "quote_3": "16 + 0.2% 1.0% 1.0%",
+   "page_3": 4,
+   "quote_4": "Band 2 & Band 3: 2.5% of basic premiums paid in last 60",
+   "page_4": 4
+  },
+  "return_of_mortality_charges": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "return_of_premium_allocation_charges": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "return_of_policy_admin_charges": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "other_additions": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  }
+ },
+ "flexibility": {
+  "fund_switching": {
+   "value": "at least Rs 5,000 per switch; Rs 50 per request",
+   "status": "optional (during term)",
+   "doc": "Prospectus",
+   "page": 5,
+   "quote": "switch monies from one segregated fund to another at any time provided the",
+   "note": null,
+   "quote_2": "switched amount is for at least R5,000.",
+   "page_2": 5
+  },
+  "premium_redirection": {
+   "value": "change premium allocation percentages at any time, in steps of 5%",
+   "status": "optional (during term)",
+   "doc": "Prospectus",
+   "page": 5,
+   "quote": "ﬂexibility to redirect future",
+   "note": null,
+   "quote_2": "premiums by changing your premium allocation percentages at any time.",
+   "page_2": 5
+  },
+  "partial_withdrawals": {
+   "value": {
+    "from": "after 5 complete policy years or the life insured turning 18, whichever is later",
+    "minimum": "Rs 5,000",
+    "maximum": "25% of policy fund value at the start of the policy year",
+    "minimum fund after withdrawal": "one basic premium plus top-ups of the last 5 years"
+   },
+   "status": "optional (during term)",
+   "doc": "Prospectus",
+   "page": 9,
+   "quote": "You are allowed to make unlimited partial withdrawals any time after (a) ﬁve complete policy",
+   "note": null,
+   "quote_2": "The minimum amount of partial withdrawal is R5,000.",
+   "page_2": 9,
+   "quote_3": "shall not exceed 25% of the total Policy fund value at the beginning of the policy year.",
+   "page_3": 9,
+   "quote_4": "Basic Fund Value of one basic premium chosen plus any top-up premiums",
+   "page_4": 9
+  },
+  "systematic_withdrawal_plan": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "top_up_premiums": {
+   "value": {
+    "minimum": "Rs 5,000",
+    "allowed": "any time except the last 5 years of the policy term, while all basic premiums are paid",
+    "cap": "total top-ups cannot exceed total basic premiums paid to date",
+    "top-up sum assured": "125% of the top-up premium",
+    "allocation charge": "2%"
+   },
+   "status": "optional (during term)",
+   "doc": "Prospectus",
+   "page": 3,
+   "quote": "The minimum top-up premium is R5,000 and at",
+   "note": null,
+   "quote_2": "any point the total top-up premiums paid cannot exceed the total basic premiums paid to date.",
+   "page_2": 3,
+   "quote_3": "anytime except during the last",
+   "page_3": 3
+  },
+  "settlement_option": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "premium_holiday_or_offset": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "increase_decrease_cover": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "change_ppt_or_term": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "policy_loan": {
+   "value": "not allowed",
+   "status": "n/a",
+   "doc": "Prospectus",
+   "page": 10,
+   "quote": "Policy loans are not allowed in this plan.",
+   "note": null
+  },
+  "auto_portfolio_strategies": {
+   "value": [
+    {
+     "name": "Smart Option",
+     "mechanics": "Maximiser and Income Advantage split by years to maturity and risk profile; equity share in Moderate falls from 65% (31-40 years to go) to 0% (5 years to go); rebalanced each policy anniversary"
+    },
+    {
+     "name": "Systematic Transfer Option",
+     "mechanics": "annual mode only; premium goes to Liquid Plus, then 1/12 monthly or 1/48 weekly moves to up to four chosen funds"
+    },
+    {
+     "name": "Return Optimiser Option",
+     "mechanics": "all basic premiums go to Maximiser; when the gain reaches 10% of the net invested amount, the gain moves to Income Advantage; cannot be switched into after inception"
+    },
+    {
+     "name": "Self-Managed Option"
+    }
+   ],
+   "status": "optional (at inception)",
+   "doc": "Prospectus",
+   "page": 5,
+   "quote": "Moderate 0% 10% 25% 40% 50% 65%",
+   "note": null,
+   "quote_2": "monthly 1/12th or weekly 1/48th of the allocated amount shall be transferred to a",
+   "page_2": 5,
+   "quote_3": "pre-determined upside movement of",
+   "page_3": 5,
+   "quote_4": "switching to the Return Optimiser Option is not allowed.",
+   "page_4": 5
+  }
+ },
+ "funds": {
+  "fund_count": {
+   "value": 21,
+   "status": "n/a",
+   "doc": "Prospectus",
+   "page": 5,
+   "quote": "suite of 21 segregated funds,",
+   "note": null
+  },
+  "fund_list": {
+   "value": [
+    {
+     "name": "Liquid Plus",
+     "SFIN": "ULIF02807/10/11BSLLIQPLUS109",
+     "FMC_pct": 1.0,
+     "asset_allocation": "see brochure Schedule A",
+     "risk_label": "Very Low"
+    },
+    {
+     "name": "Income Advantage",
+     "SFIN": "ULIF01507/08/08BSLIINCADV109",
+     "FMC_pct": 1.0,
+     "asset_allocation": "see brochure Schedule A",
+     "risk_label": "Very Low"
+    },
+    {
+     "name": "Assure",
+     "SFIN": "ULIF01008/07/05BSLIASSURE109",
+     "FMC_pct": 1.0,
+     "asset_allocation": "see brochure Schedule A",
+     "risk_label": "Very Low"
+    },
+    {
+     "name": "Protector",
+     "SFIN": "ULIF00313/03/01BSLPROTECT109",
+     "FMC_pct": 1.0,
+     "asset_allocation": "see brochure Schedule A",
+     "risk_label": "Low"
+    },
+    {
+     "name": "Builder",
+     "SFIN": "ULIF00113/03/01BSLBUILDER109",
+     "FMC_pct": 1.0,
+     "asset_allocation": "see brochure Schedule A",
+     "risk_label": "Low"
+    },
+    {
+     "name": "Enhancer",
+     "SFIN": "ULIF00213/03/01BSLENHANCE109",
+     "FMC_pct": 1.25,
+     "asset_allocation": "see brochure Schedule A",
+     "risk_label": "Medium"
+    },
+    {
+     "name": "Creator",
+     "SFIN": "ULIF00704/02/04BSLCREATOR109",
+     "FMC_pct": 1.25,
+     "asset_allocation": "see brochure Schedule A",
+     "risk_label": "Medium"
+    },
+    {
+     "name": "Capped Nifty Index",
+     "SFIN": "ULIF03530/10/14BSLICNFIDX109",
+     "FMC_pct": 1.25,
+     "asset_allocation": "see brochure Schedule A",
+     "risk_label": "High"
+    },
+    {
+     "name": "Asset Allocation",
+     "SFIN": "ULIF03430/10/14BSLIASTALC109",
+     "FMC_pct": 1.25,
+     "asset_allocation": "see brochure Schedule A",
+     "risk_label": "High"
+    },
+    {
+     "name": "Magnifier",
+     "SFIN": "ULIF00826/06/04BSLIIMAGNI109",
+     "FMC_pct": 1.35,
+     "asset_allocation": "see brochure Schedule A",
+     "risk_label": "High"
+    },
+    {
+     "name": "MNC",
+     "SFIN": "ULIF03722/06/18ABSLIMUMNC109",
+     "FMC_pct": 1.35,
+     "asset_allocation": "see brochure Schedule A",
+     "risk_label": "High"
+    },
+    {
+     "name": "Maximiser",
+     "SFIN": "ULIF01101/06/07BSLIINMAXI109",
+     "FMC_pct": 1.35,
+     "asset_allocation": "see brochure Schedule A",
+     "risk_label": "High"
+    },
+    {
+     "name": "Multiplier",
+     "SFIN": "ULIF01217/10/07BSLIINMULTI109",
+     "FMC_pct": 1.35,
+     "asset_allocation": "see brochure Schedule A",
+     "risk_label": "High"
+    },
+    {
+     "name": "Super 20",
+     "SFIN": "ULIF01723/06/09BSLSUPER20109",
+     "FMC_pct": 1.35,
+     "asset_allocation": "see brochure Schedule A",
+     "risk_label": "High"
+    },
+    {
+     "name": "Pure Equity",
+     "SFIN": "ULIF02707/10/11BSLIPUREEQ109",
+     "FMC_pct": 1.35,
+     "asset_allocation": "see brochure Schedule A",
+     "risk_label": "High"
+    },
+    {
+     "name": "Value & Momentum",
+     "SFIN": "ULIF02907/10/11BSLIVALUEM109",
+     "FMC_pct": 1.35,
+     "asset_allocation": "see brochure Schedule A",
+     "risk_label": "High"
+    },
+    {
+     "name": "Small Cap Fund",
+     "SFIN": "ULIF03910/11/23ABSLSMALCP109",
+     "FMC_pct": 1.35,
+     "asset_allocation": "see brochure Schedule A",
+     "risk_label": "High"
+    },
+    {
+     "name": "ESG Fund",
+     "SFIN": "ULIF03810/11/23ABSLESGFND109",
+     "FMC_pct": 1.35,
+     "asset_allocation": "see brochure Schedule A",
+     "risk_label": "High"
+    },
+    {
+     "name": "Dividend Yield Fund",
+     "SFIN": "ULIF04206/11/25ABSLDIVYLD109",
+     "FMC_pct": 1.35,
+     "asset_allocation": "see brochure Schedule A",
+     "risk_label": "High"
+    },
+    {
+     "name": "Nifty Alpha 50 Index Fund",
+     "SFIN": "ULIF04015/06/24ABSLIALPHA109",
+     "FMC_pct": 1.35,
+     "asset_allocation": "see brochure Schedule A",
+     "risk_label": "High"
+    },
+    {
+     "name": "Flexicap Fund",
+     "SFIN": "ULIF04312/02/26ABSLFLXCAP109",
+     "FMC_pct": 1.35,
+     "asset_allocation": "see brochure Schedule A",
+     "risk_label": "High"
+    }
+   ],
+   "status": "n/a",
+   "doc": "Prospectus",
+   "page": 8,
+   "quote": "Income ULIF01507/08/08BSLIINCADV109 Very Low",
+   "note": "FMCs from the policy charges section, risk labels from Schedule A"
+  },
+  "index_or_thematic_funds": {
+   "value": "Capped Nifty Index, Nifty Alpha 50 Index, Value & Momentum, MNC, ESG, Small Cap, Dividend Yield, Flexicap, Pure Equity",
+   "status": "n/a",
+   "doc": "Prospectus",
+   "page": 8,
+   "quote": "ESG Fund ULIF03810/11/23ABSLESGFND109 High",
+   "note": null,
+   "quote_2": "Fund ULIF04015/06/24ABSLIALPHA109",
+   "page_2": 8,
+   "quote_3": "Yield Fund ULIF04206/11/25ABSLDIVYLD109 High",
+   "page_3": 8
+  },
+  "discontinued_policy_fund": {
+   "value": {
+    "name": "Linked Discontinued Policy Fund",
+    "fmc": "0.50%",
+    "min_guaranteed_rate": "4% (currently)",
+    "SFIN": "ULIF03205/07/13BSLILDIS109"
+   },
+   "status": "built-in",
+   "doc": "Prospectus",
+   "page": 8,
+   "quote": "ued Policy ULIF03205/07/13BSLILDIS109",
+   "note": null,
+   "quote_2": "0.50% per annum will be subject to minimum guaranteed interest rate as prescribed by IRDAI.",
+   "page_2": 10
+  }
+ },
+ "protection_add_ons": {
+  "waiver_of_premium_inbuilt": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "critical_illness": {
+   "value": "ABSLI Comprehensive Critical Illness Rider (UIN 109A041V01), Silver 10 CIs, Gold 25 CIs, Platinum 64 CIs",
+   "status": "rider",
+   "doc": "Prospectus",
+   "page": 4,
+   "quote": "ABSLI Comprehensive Critical Illness Rider (UIN: 109A041V01)",
+   "note": null,
+   "quote_2": "Silver Variant covers 10 CIs, Gold Variant covers 25 CIs and Platinum",
+   "page_2": 4
+  },
+  "accidental_death": {
+   "value": "ABSLI Accidental Death Benefit Rider Plus (UIN 109A024V01), 100% of rider sum assured",
+   "status": "rider",
+   "doc": "Prospectus",
+   "page": 4,
+   "quote": "ABSLI Accidental Death Beneﬁt Rider Plus (UIN:109A024V01)",
+   "note": null
+  },
+  "terminal_illness": {
+   "value": "accelerated under ABSLI Suraksha Term Rider (109A042V01) and Suraksha Term Rider Plus (109A045V01)",
+   "status": "rider",
+   "doc": "Prospectus",
+   "page": 4,
+   "quote": "Rider Sum Assured will be",
+   "note": null,
+   "quote_2": "accelerated in case the Life Insured is diagnosed with Terminal Illness.",
+   "page_2": 4
+  },
+  "spouse_or_child_cover": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "riders_available": {
+   "value": [
+    "ABSLI Accidental Death Benefit Rider Plus (109A024V01)",
+    "ABSLI Waiver of Premium Rider (109A039V01)",
+    "ABSLI Comprehensive Critical Illness Rider (109A041V01)",
+    "ABSLI Suraksha Term Rider (109A042V01)",
+    "ABSLI Suraksha Term Rider Plus (109A045V01)"
+   ],
+   "status": "rider",
+   "doc": "Prospectus",
+   "page": 4,
+   "quote": "ABSLI Waiver of Premium Rider (UIN: 109A039V01)",
+   "note": null,
+   "quote_2": "ABSLI Suraksha Term Rider (UIN: 109A042V01)",
+   "page_2": 4,
+   "quote_3": "ABSLI Suraksha Term Rider Plus (UIN: 109A045V01)",
+   "page_3": 4
+  }
+ },
+ "surrender_revival": {
+  "lock_in_years": {
+   "value": 5,
+   "status": "built-in",
+   "doc": "Prospectus",
+   "page": 1,
+   "quote": "till the end of the ﬁfth year from inception.",
+   "note": null
+  },
+  "discontinuance_rules": {
+   "value": "discontinuance in the first 5 years moves the fund, less the charge, to the discontinued policy fund until the lock-in ends; after 5 years the policy becomes reduced paid-up and the fund value is paid at the end of the revival period",
+   "status": "built-in",
+   "doc": "Prospectus",
+   "page": 10,
+   "quote": "the Policy fund value after",
+   "note": null,
+   "quote_2": "the policy shall be converted into a reduced paid up policy with",
+   "page_2": 10
+  },
+  "revival_period": {
+   "value": "3 years from the due date of the first unpaid premium",
+   "status": "built-in",
+   "doc": "Prospectus",
+   "page": 10,
+   "quote": "revival period of three years from due date of ﬁrst unpaid premium.",
+   "note": null
+  },
+  "surrender_value_rule": {
+   "value": "surrender is allowed any time; treated under the discontinuance rules",
+   "status": "built-in",
+   "doc": "Prospectus",
+   "page": 4,
+   "quote": "Any such surrender will be treated according to",
+   "note": null
+  }
+ },
+ "documents_inventory": [
+  {
+   "website_label": "Abridged Factsheets",
+   "doc_type": "fund_factsheet",
+   "url": "https://lifeinsurance.adityabirlacapital.com/forms-and-downloads/abridged-factsheets/",
+   "found_on_page_url": "https://lifeinsurance.adityabirlacapital.com/ulip-plan/wealth-aspire-plan/",
+   "pages": null,
+   "stored_path": null,
+   "status": "web page (not stored)",
+   "note": "link opens a web page, not a document"
+  },
+  {
+   "website_label": "Brochures & Specimen Contracts",
+   "doc_type": "policy_document",
+   "url": "https://lifeinsurance.adityabirlacapital.com/forms-and-downloads/brochures-and-specimen-contracts/",
+   "found_on_page_url": "https://lifeinsurance.adityabirlacapital.com/ulip-plan/wealth-aspire-plan/",
+   "pages": null,
+   "stored_path": null,
+   "status": "web page (not stored)",
+   "note": "link opens a web page, not a document"
+  },
+  {
+   "website_label": "Investment Factsheets",
+   "doc_type": "fund_factsheet",
+   "url": "https://lifeinsurance.adityabirlacapital.com/forms-and-downloads/investment-factsheets/",
+   "found_on_page_url": "https://lifeinsurance.adityabirlacapital.com/ulip-plan/wealth-aspire-plan/",
+   "pages": null,
+   "stored_path": null,
+   "status": "web page (not stored)",
+   "note": "link opens a web page, not a document"
+  },
+  {
+   "website_label": "Prospectus",
+   "doc_type": "brochure",
+   "url": "https://lifeinsurance.adityabirlacapital.com/uploads/ABSLI_Wealth_Aspire_Plan_V06_Brochure_vfadv_4a069ed842.pdf",
+   "found_on_page_url": "https://lifeinsurance.adityabirlacapital.com/ulip-plan/wealth-aspire-plan/",
+   "pages": 14,
+   "stored_path": "docs/absli/109L100V06/brochure.pdf",
+   "status": "already stored",
+   "note": null
+  },
+  {
+   "website_label": "Policy Contract",
+   "doc_type": "policy_document",
+   "url": "https://lifeinsurance.adityabirlacapital.com/uploads/ABSLI_Wealth_Aspire_Plan_e998dbfba5.pdf",
+   "found_on_page_url": "https://lifeinsurance.adityabirlacapital.com/ulip-plan/wealth-aspire-plan/",
+   "pages": null,
+   "stored_path": null,
+   "status": "failed",
+   "note": "product code not in the document"
+  },
+  {
+   "website_label": "Leaflet",
+   "doc_type": "leaflet",
+   "url": "https://lifeinsurance.adityabirlacapital.com/uploads/ABSLI_Wealth_Aspire_Plan_V06_Leaflet_vfadv_a033a88365.pdf",
+   "found_on_page_url": "https://lifeinsurance.adityabirlacapital.com/ulip-plan/wealth-aspire-plan/",
+   "pages": null,
+   "stored_path": null,
+   "status": "not stored (leaflet; brochure already stored)",
+   "note": null
+  },
+  {
+   "website_label": "CIS",
+   "doc_type": "CIS",
+   "url": "https://lifeinsurance.adityabirlacapital.com/uploads/ABSLI_Wealth_Aspire_Plan_CIS_2359878243.pdf",
+   "found_on_page_url": "https://lifeinsurance.adityabirlacapital.com/ulip-plan/wealth-aspire-plan/",
+   "pages": 11,
+   "stored_path": "docs/absli/109L100V06/cis.pdf",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "website_label": "Policy Contract",
+   "doc_type": "policy",
+   "url": "https://lifeinsurance.adityabirlacapital.com/uploads/ABSLI_Wealth_Aspire_Plan_e998dbfba5.pdf",
+   "found_on_page_url": "https://lifeinsurance.adityabirlacapital.com/ulip-plan/wealth-aspire-plan/",
+   "pages": 28,
+   "stored_path": "docs/absli/109L100V06/policy.pdf",
+   "status": "already stored",
+   "note": "linked as Policy Contract on the Wealth Aspire Plan page; the document prints no product code (it begins at Part E) and its header names the Wealth Aspire Plan, so the UIN check could not run"
+  }
+ ],
+ "new_features_not_in_schema": [
+  {
+   "feature": "Assured Option keeps the policy running after a death claim",
+   "description": "The sum assured is paid at once, the policy stays in force to maturity, the insurer pays the future premiums and the maturity value goes to the nominee",
+   "quote": "The policy will not terminate once this death beneﬁt is paid to the",
+   "doc": "Prospectus",
+   "page": 4
+  },
+  {
+   "feature": "Return Optimiser option",
+   "description": "All premiums go to Maximiser, and any gain of 10% over the net invested amount moves to Income Advantage",
+   "quote": "pre-determined upside movement of",
+   "doc": "Prospectus",
+   "page": 5
+  }
+ ],
+ "data_not_public": [
+  {
+   "item": "Full mortality charge table",
+   "doc": "Prospectus",
+   "where_referenced": "Mortality Charge section",
+   "quote": "Please visit our website or ask your ﬁnancial advisor for the rates applicable to you.",
+   "note": "sample rates for five ages are printed; the policy document has no product code, so it was not used"
+  }
+ ]
+}

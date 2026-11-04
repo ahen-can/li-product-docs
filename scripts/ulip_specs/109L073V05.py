@@ -1,0 +1,82 @@
+import sys; sys.path.insert(0, 'scripts'); sys.path.insert(0, 'scripts/ulip_specs')
+from ulip_json import F, NS, build
+from absli_common import funds
+P, B = 'Policy Contract', 'Prospectus'
+FMC = {'Liquid Plus': 1.00, 'Income Advantage': 1.00, 'Assure': 1.00, 'Protector': 1.00, 'Builder': 1.00, 'Enhancer': 1.25, 'Creator': 1.25, 'Capped Nifty Index': 1.25, 'Asset Allocation': 1.25,
+       'Magnifier': 1.35, 'Maximiser': 1.35, 'Multiplier': 1.35, 'Super 20': 1.35, 'Pure Equity': 1.35, 'Value & Momentum': 1.35}
+spec = {
+ 'product': {
+  'uin': F('109L073V05', 'n/a', B, None, 'UIN: 109L073V05'),
+  'uin_in_brochure': F('109L073V05', 'n/a', B, None, 'UIN: 109L073V05'),
+  'product_name': F('Aditya Birla Sun Life Insurance Wealth Max Plan', 'n/a', B, None, 'Aditya Birla Sun Life Insurance Wealth Max Plan'),
+  'irdai_description_line': F('A Non-Participating unit linked insurance Plan', 'n/a', B, None, 'A Non-Participating unit linked insurance Plan'),
+  'launch_or_version_date': NS(), 'target_segment_stated': NS(), 'variants_or_plan_options': NS(),
+  'online_offline': NS(),
+ },
+ 'eligibility': {
+  'entry_age_min': F({'policy term 5': '13 years', '10': '8 years', '15': '3 years', '20': '30 days'}, 'n/a', B, None, '5 13 70 60 50', quote_2='10 8 65 55 45', quote_3='15 3 60 50 40', quote_4='20 30 days 55 45 35'),
+  'entry_age_max': F({'policy term 5': {'1.25xSP': 70, '5xSP': 60, '10xSP': 50}, '10': {'1.25xSP': 65, '5xSP': 55, '10xSP': 45}, '15': {'1.25xSP': 60, '5xSP': 50, '10xSP': 40}, '20': {'1.25xSP': 55, '5xSP': 45, '10xSP': 35}}, 'n/a', B, None, '5 13 70 60 50', quote_2='10 8 65 55 45', quote_3='15 3 60 50 40', quote_4='20 30 days 55 45 35'),
+  'maturity_age_min': F(18, 'n/a', B, None, 'subject to minimum attained age of 18 at'),
+  'maturity_age_max': NS(),
+  'policy_term_options': F([5, 10, 15, 20], 'n/a', B, None, 'Policy Term 5 |10 | 15 | 20 years'),
+  'ppt_options': F('single pay', 'n/a', B, None, 'Single pay'),
+  'premium_min_annual': NS(),
+  'premium_min_single': F({'policy term 5 and 10': 100000, 'policy term 15 and 20': 200000}, 'n/a', B, None, 'Minimum Rs. 100,000 for policy term 5 & 10 years', quote_2='Minimum Rs. 200,000 for policy term 15 & 20 years'),
+  'premium_max': F('no upper limit', 'n/a', B, None, 'There is no upper limit on the amount'),
+  'sum_assured_rule': F({'basic sum assured': '1.25, 5 or 10 times the basic premium', 'top-up sum assured': '125% of the top-up premium'}, 'built-in', B, None, 'Basic Sum Assured 1.25 | 5 | 10 times the Basic Premium', quote_2='Top-up Sum Assured will be 125% of'),
+  'premium_modes': F('single premium; top-ups allowed', 'n/a', B, None, 'Single pay'),
+  'life_cover_multiple_choice': F('1.25, 5 or 10 times the basic premium', 'optional (at inception)', B, None, 'you can choose 1.25, 5 or 10 times the basic premium as your Basic Sum Assured.'),
+ },
+ 'charges': {
+  'premium_allocation_charge': F({'basic premium': '3%', 'top-up premium': '2%'}, 'built-in', B, None, 'A premium allocation charge of 3% is levied on the basic premium when received.', quote_2='A premium allocation charge of 2% is levied on any top-up premium when paid.'),
+  'policy_administration_charge': F('Rs 20 a month for the first five years, Rs 25 a month in year 6, then rising 5% a year, max Rs 6,000 a year', 'built-in', B, None, 'The policy administration charge is Rs. 20 per month for the ﬁrst ﬁve policy years. It shall increase to Rs. 25 per month in the sixth year and inﬂate at 5% p.a. thereafter, subject to a maximum of Rs. 6,000 p.a.'),
+  'fund_management_charge': F({'Liquid Plus, Income Advantage, Assure, Protector, Builder': '1.00%', 'Enhancer, Creator, Capped Nifty Index, Asset Allocation': '1.25%', 'MNC, Magnifier, Maximiser, Multiplier, Super 20, Pure Equity, Value & Momentum': '1.35%'}, 'built-in', B, None,
+                              '1.00% p.a. for Liquid Plus, Income Advantage, Assure, Protector and Builder', quote_2='1.25% p.a. for Enhancer, Creator, Capped Nifty Index and Asset Allocation', quote_3='1.35% p.a. for MNC, Magniﬁer, Maximiser, Multiplier, Super 20, Pure Equity and Value &'),
+  'mortality_charge': F({'basis': 'per 1,000 sum at risk by gender and attained age; guaranteed for the term; 20% discount for policy terms of 5 and 10 years', 'sample_rates_age_25_35_45_55_65': {'male': [0.643, 0.858, 1.973, 5.340, 11.528], 'female': [0.619, 0.742, 1.459, 4.126, 9.071]}}, 'built-in', B, None,
+                        'Male 0.643 0.858 1.973 5.340 11.528 Female 0.619 0.742 1.459 4.126 9.071', 'the Policy Contract Part E prints the full table (p.7)', quote_2='For policy term of 5 and 10 years, a discount of 20% is applicable on the mortality charge.'),
+  'discontinuance_charge': F({'single premium up to Rs 3,00,000': {'Y1': 'lower of 2% of SP, 2% of basic fund value, Rs 3,000', 'Y2': '1.5%, Rs 2,000', 'Y3': '1%, Rs 1,500', 'Y4': '0.5%, Rs 1,000', 'Y5': 'nil'}, 'single premium above Rs 3,00,000': {'Y1': '1%, Rs 6,000', 'Y2': '0.7%, Rs 5,000', 'Y3': '0.5%, Rs 4,000', 'Y4': '0.35%, Rs 2,000', 'Y5': 'nil'}, 'top-up': 'nil'}, 'built-in', B, None,
+                             '1 Lower of 2% of SP, 2% of BFV, ₹3,000 Lower of 1% of SP, 1% of BFV, ₹6,000', quote_2='2 Lower of 1.5% of SP, 1.5% of BFV, ₹2,000 Lower of 0.7% of SP, 0.7% of BFV, ₹5,000', quote_3='3 Lower of 1% of SP, 1% of BFV, ₹1,500 Lower of 0.5% of SP, 0.5% of BFV, ₹4,000', quote_4='4 Lower of 0.5% of SP, 0.5% of BFV, ₹1,000 Lower of 0.35% of SP, 0.35% of BFV, ₹2,000'),
+  'switching_charge': F('Rs 50 per request (may rise to Rs 500)', 'built-in', B, None, 'We currently charge Rs. 50 per request for change in investment option, fund switch, partial withdrawal or any additional servicing request.'),
+  'partial_withdrawal_charge': F('Rs 50 per request (may rise to Rs 500)', 'built-in', B, None, 'We currently charge Rs. 50 per request for change in investment option, fund switch, partial withdrawal or any additional servicing request.'),
+  'premium_redirection_charge': NS(),
+  'miscellaneous_charge': F('Rs 50 per request (may rise to Rs 500)', 'built-in', B, None, 'We currently charge Rs. 50 per request for change in investment option', quote_2='We do however reserve the right to charge up to Rs. 500 per request in the future.'),
+  'guarantee_charge': NS(), 'rider_charges': NS(), 'any_charge_returned': F(None, 'not offered', note='no return of charges'),
+ },
+ 'benefits': {
+  'death_benefit_formula': F('higher of basic fund value and basic sum assured, plus higher of top-up fund value and top-up sum assured; never below 105% of premiums paid less withdrawals in the last 2 years', 'built-in', B, None, 'Basic Fund Value as on date of intimation of death; or', quote_2='the Death beneﬁt shall never be less than 105% of basic premiums plus top-up premiums paid'),
+  'maturity_benefit': F('basic fund value plus top-up fund value at the end of the policy term', 'built-in', B, None, 'you will receive the Basic Fund Value plus the Top-Up Fund Value as of that'),
+  'loyalty_additions': F(None, 'not offered', note='guaranteed additions are used instead'),
+  'wealth_boosters_or_guaranteed_additions': F({'Guaranteed Additions': {'policy anniversaries 6 to 10': '0.25% of the average policy fund value over the last 12 months', 'from the 11th anniversary, every year': '0.60% of the average policy fund value over the last 12 months'}}, 'built-in', B, None,
+                                               'Guaranteed Addition is 0.25% of the average Policy', quote_2='Guaranteed Addition is 0.60% of the average Policy Fund Value in the last 12 months.'),
+  'return_of_mortality_charges': NS(), 'return_of_premium_allocation_charges': NS(), 'return_of_policy_admin_charges': NS(), 'other_additions': NS(),
+ },
+ 'flexibility': {
+  'fund_switching': F('Rs 50 per request; self-managed option only', 'optional (during term)', B, None, 'full freedom to switch from one segregated'),
+  'premium_redirection': NS(),
+  'partial_withdrawals': F({'from': 'after 5 complete policy years or the life insured turning 18, whichever is later', 'minimum': 'Rs 5,000', 'maximum': 'none; fund must stay at least 50% of basic premium plus 100% of top-ups paid in the last 5 years', 'order': 'top-up fund first'}, 'optional (during term)', B, None,
+                           'You are allowed to make unlimited partial withdrawals any time after (a) ﬁve complete policy', quote_2='The minimum amount of partial withdrawal is ` 5,000.', quote_3='maintain a minimum Policy Fund Value of 50% of the basic premium paid plus 100%'),
+  'systematic_withdrawal_plan': NS(),
+  'top_up_premiums': F({'minimum': 'Rs 5,000', 'allowed': 'any time except the last 5 years of the policy term', 'cap': 'total top-ups cannot exceed the single basic premium', 'top-up sum assured': '125% of the top-up premium', 'allocation charge': '2%'}, 'optional (during term)', B, None,
+                       'The minimum top-up premium is ` 5,000 and the total top-up', quote_2='anytime except during the last ﬁve years of the policy term'),
+  'settlement_option': NS(), 'premium_holiday_or_offset': NS(), 'increase_decrease_cover': NS(), 'change_ppt_or_term': NS(),
+  'policy_loan': F('not allowed', 'n/a', B, None, 'Policy loans are not allowed in this plan.'),
+  'auto_portfolio_strategies': F([{'name': 'Systematic Transfer Option', 'mechanics': 'premium goes to Liquid Plus, then 1/12 moves monthly to a chosen equity fund; top-ups go straight to the target fund'}, {'name': 'Self-Managed Option'}], 'optional (at inception)', B, None,
+                                 'You have a choice to invest your money in the ‘Systematic Transfer’ Option or the ‘Self-Managed’', quote_2='monthly 1/12th of the allocated amount shall'),
+ },
+ 'funds': {
+  'fund_count': F(16, 'n/a', B, None, 'suite of 16 segregated funds,'),
+  'fund_list': F(funds(FMC), 'n/a', B, None, 'Liquid Plus ULIF02807/10/11BSLLIQPLUS109 Very Low', 'FMCs from the policy charges section; the MNC fund is named in the FMC list but not in Schedule A'),
+  'index_or_thematic_funds': F('Capped Nifty Index, Value & Momentum, MNC', 'n/a', B, None, 'Value &'),
+  'discontinued_policy_fund': F({'name': 'Linked Discontinued Policy Fund', 'SFIN': 'ULIF03205/07/13BSLILDIS109', 'allocation': 'government securities 60% to 100%, money market 0% to 40%'}, 'built-in', B, None, 'ULIF03205/07/13BSLILDIS109 Very Low'),
+ },
+ 'protection_add_ons': {'waiver_of_premium_inbuilt': NS(), 'critical_illness': NS(), 'accidental_death': NS(), 'terminal_illness': NS(), 'spouse_or_child_cover': NS(), 'riders_available': NS()},
+ 'surrender_revival': {
+  'lock_in_years': F(5, 'built-in', B, None, 'till the end of the ﬁfth year from inception.'),
+  'discontinuance_rules': F('discontinuance in the first 5 years pays the fund less the discontinuance charge after the lock-in; after 5 years the fund value is paid', 'built-in', B, None, 'After ﬁve completed policy years – On the discontinuance date of the policy, we will pay to you the Policy Fund Value and terminate the policy.'),
+  'revival_period': NS(), 'surrender_value_rule': NS(),
+ },
+}
+build('109L073V05', spec,
+  new_features=[{'feature': 'Single premium with systematic transfer', 'description': 'Premium sits in Liquid Plus and moves 1/12 a month into a chosen equity fund', 'quote': 'monthly 1/12th of the allocated amount shall', 'doc': B, 'page': None},
+                {'feature': 'Guaranteed additions as a share of average fund value', 'description': '0.25% of the average fund over 12 months from anniversary 6, rising to 0.60% from anniversary 11', 'quote': 'Guaranteed Addition is 0.60% of the average Policy Fund Value in the last 12 months.', 'doc': B, 'page': None}],
+  not_public=[])

@@ -1,0 +1,526 @@
+                      CUSTOMER INFORMATION SHEET / KNOW YOUR POLICY
+
+This document provides key information about your policy. You are also advised to go through your policy
+document.
+   Sl.    Title                    Description in Simple Words                                    Policy
+   no.                             (Please refer to applicable Policy Clause Number in next       Clause
+                                   column)                                                        Number
+   1.     Name of the Insurance ABSLI Param Suraksha                                             Part A
+          Product and Unique UIN: 109L149V01
+          Identification Number
+          (UIN)
+   2.     Application Number    <Dynamic>
+   3.     Type of Insurance                                                                      Part B
+          Policy               Linked
+   4.     Basic Policy details • Instalment Premium with applicable taxes:                       Refer Part-A
+                                  st
+                                 1 Year – Rs <Dynamic>                                           Policy
+                                                                                                 Schedule
+                                 2nd Year onwards – Rs <Dynamic>
+                               • Mode of premium payment: <Dynamic>
+                                Sum Assured on death: Rs <Dynamic>
+                               • Sum Assured on Maturity: Not Applicable
+                               • Premium payment Term: <Dynamic>
+                               • Policy Term: <Dynamic>
+   5.      Policy              • Benefits payable on maturity: The Maturity Benefit shall be Refer Part C -
+          Coverage/benefits    the Basic Fund Value plus the Top-up Fund Value, if any,          Maturity
+                                                                                                 Benefit
+          payable              valued at applicable NAV on the date of maturity.
+                               • Benefits payable on death: Highest of the below:                Refer Part C-
+                               a)       Sum Assured (reduced by partial withdrawals made         Death Benefit
+                               during the two years immediately preceding the date of death
+                                                                                                 Refer Part-D-
+                               of the Life Insured, if any)                                      Surrender
+                               b)       Fund Value as on the date of intimation death of the     Benefit
+                               Life Insured
+                               c)       105% of the Total Annualized Premiums received by Refer Part-B,
+                                                                                                 Lock in
+                               Us till the date of death of the Life Insured (reduced by all     period.
+                               partial withdrawals, if any made during the two years’ period
+                               immediately preceding the death of the Life Insured, if any).
+                               • Survival Benefits excluding that payable on maturity: Not
+                               Applicable
+                               • Surrender benefits:
+                               Within first 5 policy years: Policy fund value after deduction of
+                               applicable discontinuance charges. The policy fund in the
+                               discontinued policy fund shall be payable at the end of lock-in
+                               period or date of surrender whichever is later.
+                              After completion of 5 policy years: Policy fund value
+                              • Options to policyholders for availing benefits, if any, covered
+                              under the policy:
+                                  - Death Benefit
+                                  - Reduced paid up benefit
+                                  - Maturity Benefit
+                                  - Settlement option
+                                  - Grace period to pay premium
+                                  - Return of Mortality Charge & Premium Allocation
+                                      Charge
+
+                              • Other benefits/options payable, specific to the policy, if any:
+                              Not applicable
+                              • Lock-in period for Linked Insurance products: 5 Years
+6.    Options available (in        • Partial Withdrawal                                         Refer Part-D
+     case of Linked                • Switches
+     Insurance Products)           • Investment Option
+                                   • Change in Investment Option
+                                   • Premium Redirection
+                                   • Risk Profile Switching
+                                   • Systematic Withdrawal Facility
+7.    Option available(in     • Type of immediate annuity, for example Life annuity with        Not Applicable
+     case of Annuity          Return of Purchase price etc.: Not applicable
+     product)                 • Proportion of annuity amount guaranteed for variable pay-
+                              out option: Not applicable
+                                • Any other option: Not applicable
+8.   Riders opted, if any     Summary of coverage                                               Refer Part-A-
+                                                                                                  Policy
+                                                                                                  Schedule
+                              • Rider Name: ABSLI ADB Rider Plus
+                              • Rider UIN: 109A024V01
+                              • Rider Sum Assured (Rs): <Dynamic>
+                              • Rider Premium (GST as applicable): Rs. <Dynamic>
+
+                              • Rider Name: ABSLI Waiver of Premium Rider
+                              • Rider UIN: <Dynamic>
+                              • Rider Sum Assured (Rs): <Dynamic>
+                              • Rider Premium (GST as applicable): Rs <Dynamic>
+
+                              • Rider Name: ABSLI Suraksha Term Rider
+                              • Rider UIN: 109A042V01
+                              • Rider Sum Assured (Rs): <Dynamic>
+                              • Rider Installment Premium (GST as applicable): Rs
+                              <Dynamic>
+
+                              • Rider Name: Comprehensive Critical Illness
+                           • Rider UIN: 109A041V01
+                           • Rider Sum Assured (Rs): <Dynamic>
+                           • Rider Premium (GST as applicable): Rs. <Dynamic>
+
+                           • Rider Name: ABSLI Suraksha Term Rider Plus
+                           • Rider UIN: 109A045V01
+                           • Rider Sum Assured (Rs): <Dynamic>
+                           • Rider Installment Premium (GST as applicable): Rs
+                           <Dynamic>
+9.    Exclusions (events   Base Coverage Suicide Exclusion: In case of death of the
+     where insurance       Life Insured due to suicide within 12 months from the Policy
+     coverage is not       Issue Date or from the date of Revival of the Policy, as
+                           applicable, the Nominee or the beneficiary of the Policyholder Refer Part F
+     payable), if any.                                                                      for Base
+                           shall be entitled to the Fund Value, as available on the date of
+                                                                                            Coverage
+                           intimation of death.
+
+                           Rider Exclusion - ABSLI ADB Rider Plus
+                           You shall not be entitled to any benefits for the death of     Refer Part F
+                           the Life Insured directly or indirectly due to or caused,      of Rider
+                           occasioned, accelerated, or aggravated by any of the           Contract for
+                           following:                                                     Rider
+                           − Death as a result of any disease or infection other than     Exclusion
+                           directly linked with an Accident.
+                           − Suicide, attempted suicide, or self-inflicted injury
+                           Notwithstanding this exclusion:
+                           In case of death of Life Insured due to suicide within 12
+                           months from the date of commencement of risk under
+                           the policy or from the date of revival of the policy, as
+                           applicable, the Accidental Death Benefit, as described
+                           in Part C, will not be payable. In such circumstances,
+                           ABSLI shall refund the rider premiums paid since date
+                           of inception of policy till date or ABSLI shall pay the
+                           Surrender Value available as on the date of death,
+                           whichever is higher to the nominee or beneficiary of
+                           the policyholder, provided the policy is in force. For
+                           this purpose, rider premiums considered will be
+                           exclusive of applicable taxes as the same are collected
+                           over and above the premiums as per prevailing tax
+                           rules.
+                           − Participation of the insured person in a criminal, illegal
+                           activity or unlawful act with criminal intent .
+                           − Taking or absorbing, accidentally or otherwise, any
+                           intoxicating liquor, drug, narcotic, medicine, sedative
+                           or poison, except as prescribed by a licensed doctor
+                           other than life assured .
+                           − Nuclear Contamination; the radioactive, explosive or
+                           hazardous nature of nuclear fuel materials or property
+                           contaminated by nuclear fuel materials or Accident
+                           arising from such nature.
+− Entering, exiting, operating, servicing, or being
+transported by any aerial device or conveyance except
+when on a commercial passenger airline on a regular
+scheduled passenger trip over its established
+passenger route.
+− Engaging in or taking part in hazardous sport(s) or any
+hazardous pursuits, including but not limited to, diving
+or riding or any kind of race; underwater activities
+involving the use of breathing apparatus or not;
+martial arts; hunting; mountaineering; parachuting;
+bungee jumping.
+− War, terrorism, invasion, act of foreign enemy,
+hostilities (whether war be declared or not), armed or
+unarmed truce, civil war, mutiny, martial law,
+rebellion, revolution, insurrection, military or usurper
+power, riot or civil commotion, strikes. War means any
+war whether declared or not.
+− Service in the armed forces in time of declared or
+undeclared war or while under orders for warlike
+operations or restoration of public order
+− Accident occurring while or because the Insured is
+under the influence of Alcohol or Solvent abuse or
+taking of Drugs, narcotics, or psychotropic substances
+unless taken in accordance with the lawful directions
+and prescription of a registered medical practitioner.
+
+Rider Exclusion - ABSLI Waiver of Premium Rider
+You shall not be entitled to any benefits if a disability or
+covered critical illness results either directly or indirectly
+from any of the following causes:
+– any pre-existing disease
+“Pre-existing Disease” means any condition, ailment,
+injury or disease:
+a) That is/are diagnosed by a physician within 36
+months prior to the effective date of the policy issued
+by the insurer or its latest revival date, whichever is
+later; OR
+b) For which medical advice or treatment was
+recommended by, or received from, a physician within
+36 months prior to the effective date of the policy or
+its latest revival date, whichever is later.
+This exclusion shall not be applicable to conditions,
+ailments or injuries or related condition(s) which are
+underwritten and accepted by insurer at inception
+– any condition (disease, illness or injury) manifesting
+itself within 90 days from the effective date of the rider
+or its latest revival date, whichever is later;
+– any congenital condition;
+– Any sexually transmitted diseases;
+– attempted suicide or self-inflicted injury, irrespective
+of mental condition;
+– participation in a criminal, unlawful or illegal activity;
+– taking or absorbing, accidentally or otherwise, any
+intoxicating liquor, drug, narcotic, medicine, sedative
+or poison, except as prescribed by a registered medical
+practitioner acceptable to us;
+– nuclear contamination, the radioactive, explosive or
+hazardous nature of nuclear fuel materials or property
+contaminated by nuclear fuel materials or accident
+arising from such nature;
+– entering, exiting, operating, servicing, or being
+transported by any aerial device or conveyance except
+when on a commercial passenger airline on a regular
+scheduled passenger trip over its established
+passenger route;
+– engaging in or taking part in professional sport(s) or
+any hazardous pursuits, including but not limited to,
+diving or riding or any kind of race, underwater
+activities involving the use of breathing apparatus or
+not, martial arts, hunting, mountaineering,
+parachuting, bungee jumping;
+– war (whether declared or not), terrorism, invasion, act
+of foreign enemy, hostilities, civil war, martial law,
+– rebellion, revolution, insurrection, military, or usurper
+power, riot or civil commotion;
+– taking part in any naval, military or air force operation
+during peace time;
+– no payment will be made by the Company for any
+claim directly or indirectly caused by, based on, arising
+out of, or howsoever, to any Illness or accident for
+which care, treatment, or advice was recommended by or
+received from a Physician, or which first manifested itself or
+was contracted before the start of
+the Policy Period, or for which a claim has or could have been
+made under any earlier policy.
+
+Rider Exclusion- Suraksha Term Rider
+Terminal Illness Exclusion:
+You shall not be entitled to any benefits if a terminal illness
+results either directly or indirectly from any of the following
+causes:
+a)occasioned, accelerated or aggravated by intentional self-
+inflicted injury or;
+b)attempted suicide
+Suicide Exclusion:
+In case of death of Life Insured due to suicide within 12
+months from the date of commencement of risk under the
+policy or from the date of revival of the policy, as applicable,
+the Death Benefit will not be payable. In such circumstances,
+ABSLI shall refund the rider premiums paid since date of
+inception of policy till date or ABSLI shall pay the Surrender
+Value available as on the date of death, whichever is higher to
+the nominee or beneficiary of the policyholder, provided the
+policy is in force. For this purpose, rider premiums considered
+will be exclusive of applicable taxes as the same are collected
+over and above the premiums as per prevailing tax rules.
+
+Rider Exclusion- Suraksha Term Rider Plus
+Terminal Illness Exclusion:
+You shall not be entitled to any benefits if a terminal illness
+results either directly or indirectly from any of the following
+causes:
+a)occasioned, accelerated or aggravated by intentional self-
+inflicted injury or;
+b)attempted suicide
+Suicide Exclusion:
+In case of death of Life Insured due to suicide within 12
+months from the date of commencement of risk under the
+policy or from the date of revival of the policy, as applicable,
+the Death Benefit will not be payable. In such circumstances,
+ABSLI shall refund the rider premiums paid since date of
+inception of policy till date or ABSLI shall pay the Surrender
+Value available as on the date of death, whichever is higher to
+the nominee or beneficiary of the policyholder, provided the
+policy is in force. For this purpose, rider premiums considered
+will be exclusive of applicable taxes as the same are collected
+over and above the premiums as per prevailing tax rules.
+
+Rider Exclusion - ABSLI Comprehensive Critical Illness
+Rider
+You shall not be entitled to any benefits if a covered critical
+illness /condition/procedure results either directly or indirectly
+from any of the following causes:
+1. Any Illness, sickness, or disease other than those specified
+as Critical Illnesses under this Rider.
+2. Any Pre-existing Disease or any complication arising
+therefrom. Pre-existing Disease means any condition, aliment,
+injury, or disease / critical illness / disability:
+   a. That is/are diagnosed by a physician within 36 months
+prior to the effective date of the rider issued by the insurer or
+its reinstatement; or
+   b. For which medical advice or treatment was recommended
+by, or received from, a Physician within 36 months Prior to the
+effective date of the rider issued by the insurer or its
+reinstatement. In case of enhancement of sum insured the
+exclusion shall apply afresh to the extent of sum insured
+increase. Coverage under the Rider after the expiry of 36
+months for any pre-existing disease is subject to the same
+being declared at the time of application and accepted by
+Insurer.
+3. Any Critical Illness caused due to treatment for, Alcoholism,
+drug or substance abuse or any addictive condition and
+consequences thereof.
+4. Narcotics used by the Insured Person unless taken as
+prescribed by a registered Medical Practitioner.
+5. Any Critical Illness caused due to intentional self-injury,
+suicide, or attempted suicide.
+6. Any Critical Illness caused by or arising from or attributable
+to a foreign invasion, act of foreign enemies, hostilities, warlike
+operations (whether war be declared or not or while
+performing duties in the armed forces of any country during
+war or at peace time), civil war, public defense, rebellion,
+revolution, insurrection, military, or usurped power.
+7. Any Critical Illness caused by ionizing radiation or
+contamination by radioactivity from any nuclear fuel (explosive
+or hazardous form) or from any nuclear waste from the
+combustion of nuclear fuel, nuclear, chemical, or biological
+attack.
+8. Congenital External Anomalies or any complications or
+conditions arising therefrom including any developmental
+conditions of the Insured.
+9. Any Critical Illness caused by any treatment necessitated
+due to participation as a professional in hazardous or
+adventure sport, including but not limited to, para jumping,
+rock climbing, mountaineering, rafting, motor racing, horse
+racing or scuba diving, hand gliding, sky diving, deep sea
+diving.
+10. Participation by the Insured Person in any flying activity,
+except as a bona fide, fare-paying passenger of a recognized
+airline on regular routes and on a scheduled timetable.
+11. Any Critical Illness caused by medical treatment traceable
+to childbirth (including complicated deliveries and caesarean
+sections incurred during hospitalization) except ectopic
+pregnancy. Any Critical Illness caused due to miscarriages
+(unless due to an accident) and lawful medical termination of
+pregnancy during the rider period.
+12. Any Critical Illness caused by any unproven/ experimental
+treatment, service and supplies for or in connection with any
+treatment. Unproven/ experimental treatments are treatments,
+procedures or supplies that lack significant medical
+documentation to support their effectiveness.
+13. Any Critical Illness based on
+certification/diagnosis/treatment from persons not registered
+as Medical Practitioners, or from a Medical Practitioner who is
+                                practicing outside the discipline that he/ she is licensed for.
+                                14. Any Critical Illness caused due to any treatment, including
+                                surgical management, to change characteristics of the body to
+                                those of opposite sex.
+                                15. Any Critical Illness caused due to cosmetic or plastic
+                                surgery or any treatment to change the appearance unless for
+                                reconstruction following an Accident, burn(s), or Cancer or as
+                                part of medically necessary treatment to remove a direct and
+                                immediate health risk to the insured. For this to be considered
+                                a medical necessity, it must be certified by the attending
+                                Medical Practitioner.
+                                16. Any Critical Illness caused due to surgical treatment of
+                                obesity that does not fulfil all the below conditions:
+                                a. Surgery to be conducted is upon the advice of the Doctor
+                                b. The Surgery / Procedure conducted should be supported by
+                                clinical protocols
+                                c. The member has to be 18 years of age or older and
+                                d. Body Mass Index (BMI): • greater than or equal to 40 or •
+                                greater than or equal to 35 in conjunction with any of the
+                                following severe co-morbidities following failure of less
+                                invasive methods of weight loss:
+                                   i. Obesity related cardiomyopathy
+                                   ii. Coronary heart disease
+                                   iii. Severe Sleep Apnea
+                                   iv. Uncontrolled Type 2 Diabetes
+                                17. Any Critical Illness caused due to treatments received in
+                                health hydros, nature cure clinics, spas or similar
+                                establishments or private beds registered as a nursing home
+                                attached to such establishments or where admission is
+                                arranged wholly or partly for domestic reason.
+                                18. Any Critical Illness caused by treatment directly arising
+                                from or consequent upon any Insured Person committing or
+                                attempting to commit a breach of law with criminal intent.
+                                19. In the event of the death of the Insured Person within the
+                                stipulated survival period as set out above.
+                                20. Any Critical Illness caused by sterility and infertility. This
+                                includes:
+                                 a. Any type of contraception, sterilization
+                                 b. Assisted Reproductive services including artificial
+                                insemination and advanced reproductive technologies such as
+                                IVF, ZIFT, GIFT, ICSI
+                                 c. Gestational Surrogacy
+                                 d. Reversal of sterilization
+10.    Waiting /lien Period, if • ABSLI Waiver of Premium Rider – Waiting period of 90 days
+      any                        • Comprehensive Critical Illness – 90 days (for all major CI
+                                                                                                   Section F of
+                                 conditions) and 180 days (for all minor CI conditions) is
+                                                                                                   the Rider
+                                 applicable from the rider risk commencement date, or revival Contract
+                                 date, whichever is later.
+                                 • ABSLI Suraksha Term Rider – None
+                                • ABSLI Suraksha Term Rider Plus – None
+11.    Grace period            “Grace Period” refers to the time granted by us from the due Part C
+                               date for the payment of premium, without any penalty or late
+                               fee, during which time your Policy is considered to be in-force
+                               with the risk cover without any interruption, as per the terms
+                               and conditions of your Policy. A period of 15 (Fifteen) days
+                               from the due date of the first unpaid Premium for monthly
+                               Premium payment mode and 30 (Thirty) days from the due
+                               date of the first unpaid Premium for annually, semi-annually or
+                               quarterly premium payment modes will be allowed. The
+                               insurance coverage continues during the grace period,
+                               however, in case of death during the grace period, the
+                               Company will recover the unpaid premium due from the death
+                               benefit payable.
+12.    Free Look Period        You will have the right to return the Policy to Us within 30 Part D
+                               days from the date of receipt of the Policy, in case You are
+                               not satisfied with the terms & conditions of Your Policy. We
+                               will pay the Policy Fund Value plus non allocated Instalment
+                               Premiums plus all Charges levied (excluding the Fund
+                               Management Charge) by cancellation of Units once We
+                               receive Your written notice of cancellation (along with
+                               reasons thereof) together with the original Policy documents.
+                               We will reduce the amount of the refund by the proportionate
+                               risk premium and expenses incurred by Us on medical
+                               examination of the Life Insured and stamp duty charges in
+                               accordance with the IRDAI (Protection of Policyholders
+                               Interest) Regulations, 2024.
+13.    Lapse,        paid-up     “Lapse” is the status of the Policy when due premium is not
+      and revival of the Policy paid within the grace period.                                  Refer Part B –
+                                                                                                Lapse
+                               “Reduced Paid-up Policy” means the Policy under which
+                               the due Instalment Premiums have been discontinued after
+                               the completion of the Lock-In Period.                            Refer Part D
+                                                                                                for Reduced
+                                                                                                Paid-up
+                               “Revival” means restoration of the policy, which was
+                               discontinued due to the non-payment of Instalment
+                               Premium, by the Company with all the benefits mentioned
+                               in the Policy document, with or without Rider benefits if any,
+                                                                                                Refer Part D
+                               upon the receipt of all the Instalment Premiums due and
+                                                                                                for Revival
+                               other charges or late fee if any, as per the terms and
+                               conditions of the Policy, upon being satisfied as to the
+                               continued insurability of the Life Insured or Policyholder on
+                               the basis of the information, documents and reports
+                               furnished by the Policyholder, in accordance with Our
+                               Board approved Underwriting policy.
+14.    Policy       Loan, if   Not Applicable                                                   Not Applicable
+      applicable
+15.   Claims/Claims         • Turn Around Time* (TAT) for claims settlement and brief                    Refer Part F
+      Procedure             procedure:
+                            Maturity Claims, Survival Benefits and Annuities: On or before the
+                            due date
+                            Death Claims - settlement/repudiation with
+                            investigation:45 days
+                            Death Claims - settlement without investigation: 15 days
+                            *For updated TAT, please refer below link
+                            https://lifeinsurance.adityabirlacapital.com/customer-service/service-tats
+                            Mandatory Claim Requirements:
+                            1. Claimant Statement Form
+                            2. Death certificate issued by municipal corporation / Gram
+                                Panchayat (Self attested copy)
+                            3. Original Policy Document
+                            4. KYC document of beneficiary (Self attested copy)
+                            5. Relationship with the beneficiary with the Life Insured
+                         6. Bank details of the beneficiary
+                         7. Additional Requirements (Claims within 3 years from date of
+                            issue/revival):
+                            1. Medical Attendant’s Certificate, if any.
+                            2. Hospital or treatment records, if any (Self attested
+                                copy)
+                         3. Employer’s certificate (if applicable)
+                         4. Additional Requirements for Accidental/Unnatural Death:
+                            1. FIR & Final Police Closure Report
+                            2. Post Mortem Report
+                            3. Policy Inquest Report/Inquest Panchnama
+                            4. News Paper Cutting (if any)
+
+                            • Helpline/Call Centre number: You can call us at our toll-free
+                            no. 1800 270 7000
+                            • Contact details of the insurer: You can email us at Aditya
+                            Birla Capital - Life Insurance
+                            claims.lifeinsurance@adityabirlacapital.com
+                            • Link for downloading claim form and list of documents
+                            required including bank account details:
+                            https://lifeinsurance.adityabirlacapital.com/customer-
+                            service/claim-procedure/online-claim/claim-forms-and-
+                            downloads
+
+16.   Policy Servicing      • Turn Around Time* (TAT):                                                   Refer Part F
+                            Free Look Payout: T+7days
+                            Processing of Insurance Proposal and seeking further
+                            requirements for consideration of the proposal: 7 days
+                                     Decision on proposal from the date of receipt of proposal or
+                                     from the date of receipt of additional requirement whichever is
+                                     later: 7 days
+                                     Providing copy of the policy along with the proposal form: 15
+                                     days
+                                     Non-Financial Request: 7 days
+                                     Policy Withdrawal and Surrender: Within 7 days from the
+                                     date of receipt of complete requests and requirements
+                                     *For updated TAT, please refer below link
+                                     https://lifeinsurance.adityabirlacapital.com/customer-
+                                     service/service-tats
+                                     • Helpline/Call Centre number: You can call us at our toll-free
+                                     no.: 1800 270 7000
+                                     • Contact details of the insurer: You can email us at
+                                     care.lifeinsurance@adityabirlacapital.com , For NRI Customer
+                                     absli.nrihelpdesk@adityabirlacapital.com
+                                     • Link for downloading applicable forms and list of documents
+                                     required including bank account details:
+                                      https://lifeinsurance.adityabirlacapital.com/forms-and-
+                                      downloads/policy-servicing-forms
+   17.     Grievances                   • Contact details of Grievance Redressal Officer of the Refer Part G
+           /Complaints                      insurer:
+                                            https://lifeinsurance.adityabirlacapital.com/grievance-
+                                            redressal
+                                        • Link for registering the grievance with the insurer’s portal-
+                                            https://lifeinsurance.adityabirlacapital.com/grievance-
+                                            redressal
+                                        • Contact details of Ombudsman
+                                            http://www.cioins.co.in/Ombudsman
+
+“We”, “Us”, “Our”, “Insurer” or “Company” refers to Aditya Birla Sun Life Insurance Company Limited.
+
+Declaration by the Policyholder
+
+I have read the above and confirm having noted the details.
+
+Place: <City mentioned in the Address>
+
+Date: <OTP Authentication Date DD-MMM-YYYY>
+                                                                                        <Name of the Policy Owner>
+                                                                                             Authenticated through OTP
+                                                                                      (Signature of the Policyholder)
+

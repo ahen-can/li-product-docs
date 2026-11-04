@@ -180,7 +180,10 @@
    "note": "returned twice over from year 10"
   },
   "policy_administration_charge": {
-   "value": "0.50% of annualised premium per month, maximum Rs 500 per month",
+   "value": {
+    "rate": "0.50% of annualised premium per month",
+    "cap": "Rs 500 per month"
+   },
    "status": "built-in",
    "doc": "Policy Bond",
    "page": 15,
@@ -200,23 +203,52 @@
    "note": null
   },
   "mortality_charge": {
-   "value": "per 1000 sum at risk by attained age, monthly; table in the policy bond; 3-year setback for female lives",
+   "value": {
+    "basis": "annual rate per 1,000 sum at risk by attained age (age last birthday), deducted monthly",
+    "female": "3-year setback",
+    "sample_rates": {
+     "age 30": 0.97,
+     "age 40": 1.68,
+     "age 50": 4.43,
+     "age 60": 11.16
+    }
+   },
    "status": "built-in",
    "doc": "Policy Bond",
-   "page": 15,
-   "quote": "The annual charge per thousand of Sum at Risk will be based on the attained Age of the Life Insured, age last birthday.",
-   "note": "returned in multiples from year 11"
+   "page": 16,
+   "quote": "1 NA 51 4.96 30 0.97 80 61.98",
+   "note": "rate table for ages 0 to 105 on policy bond pp.16-17 (NA below age 18); returned in multiples from year 11",
+   "quote_2": "*There is a 3-year setback for female lives",
+   "page_2": 17
   },
   "discontinuance_charge": {
    "value": {
-    "AP up to Rs 50,000": "lower of 20/15/10/5% of AP or FV or Rs 3,000/2,000/1,500/1,000 in Y1-4, nil from Y5",
-    "AP above Rs 50,000": "lower of 6/4/3/2% of AP or FV or Rs 6,000/5,000/4,000/2,000, nil from Y5"
+    "AP up to Rs 50,000": {
+     "Y1": "lower of 20% AP, 20% FV, Rs 3,000",
+     "Y2": "lower of 15% AP, 15% FV, Rs 2,000",
+     "Y3": "lower of 10% AP, 10% FV, Rs 1,500",
+     "Y4": "lower of 5% AP, 5% FV, Rs 1,000",
+     "Y5+": "nil"
+    },
+    "AP above Rs 50,000": {
+     "Y1": "lower of 6% AP, 6% FV, Rs 6,000",
+     "Y2": "lower of 4% AP, 4% FV, Rs 5,000",
+     "Y3": "lower of 3% AP, 3% FV, Rs 4,000",
+     "Y4": "lower of 2% AP, 2% FV, Rs 2,000",
+     "Y5+": "nil"
+    }
    },
    "status": "built-in",
    "doc": "Policy Bond",
    "page": 17,
-   "quote": "The Discontinuance Charge is levied on the Unit Fund when the Policyholder opts for complete Surrender or Discontinuance of the Policy.",
-   "note": null
+   "quote": "Lower of a) 20% of annualized premium, or b) 20% of Policy Fund Value, or c) Rs. 3,000 Lower of a) 15% of annualized premium, or b) 15% of Policy Fund Value, or c) Rs. 2,000 Lower of a) 10% of annualized premium, or b) 10% of Policy Fund Value, or c) Rs. 1,500",
+   "note": null,
+   "quote_2": "Lower of a) 6% of annualized premium, or b) 6% of Policy fund value, or c) Rs. 6,000 Lower of a) 4% of annualized premium, or b) 4% of Policy Fund Value, or c) Rs. 5,000 Lower of a) 3% of annualized premium, or b) 3% of Fund Value, or c) Rs. 4,000",
+   "page_2": 17,
+   "quote_3": "Lower of a) 5% of annualized premium, or b) 5% of Policy Fund Value, or c) Rs. 1,000 Nil",
+   "page_3": 17,
+   "quote_4": "Lower of a) 2% of annualized premium, or b) 2% of Policy Fund Value, or c) Rs. 2,000 Nil",
+   "page_4": 17
   },
   "switching_charge": {
    "value": "unlimited free switches",
@@ -267,12 +299,18 @@
    "note": null
   },
   "any_charge_returned": {
-   "value": "premium allocation charges returned 2x from year 10; mortality charges returned in multiples from year 11",
+   "value": {
+    "premium allocation": "2x the year 1-4 charges, returned at the end of years 10-13",
+    "mortality": "1x, 2x then 3x, monthly from year 11 (see return_of_mortality_charges)",
+    "not paid": "surrendered, discontinued or reduced paid-up policies"
+   },
    "status": "built-in",
    "doc": "Policy Bond",
    "page": 4,
-   "quote": "Return of Charges shall not apply in case the Policy is Surrendered, Discontinued or is in a Reduced Paid-up status.",
-   "note": null
+   "quote": "Two times the Premium Allocation Charges shall be returned after the completion of the 10th Policy year and onwards as provided in the table below.",
+   "note": null,
+   "quote_2": "Return of Charges shall not apply in case the Policy is Surrendered, Discontinued or is in a Reduced Paid-up status.",
+   "page_2": 4
   }
  },
  "benefits": {
@@ -307,7 +345,9 @@
    "doc": "Policy Bond",
    "page": 3,
    "quote": "The Loyalty Additions shall be added to the Policy Fund as a percentage of the average Policy Fund Value of the three years preceding the Maturity Date.",
-   "note": null
+   "note": null,
+   "quote_2": "Premium Payment Term/ Policy Term 10 Years 30 Years 35 Years 40 Years 26% 28% 30% 30 Years 22% NA NA 40 Years NA NA 26%",
+   "page_2": 3
   },
   "wealth_boosters_or_guaranteed_additions": {
    "value": null,
@@ -318,20 +358,39 @@
    "note": "loyalty additions at maturity only"
   },
   "return_of_mortality_charges": {
-   "value": "from year 11, monthly, 120-month lag: 1x (years 11-20), 2x (21-30), 3x (31-40)",
+   "value": {
+    "timing": "monthly from year 11; each month returns the charge deducted 120 months earlier",
+    "multiple": {
+     "Y1-10": "nil",
+     "Y11-20": "1x",
+     "Y21-30": "2x",
+     "Y31-40": "3x"
+    }
+   },
    "status": "built-in",
    "doc": "Policy Bond",
    "page": 4,
-   "quote": "A multiple of the Mortality Charges starting from the 11th Policy year and onwards shall be refunded as stated below:",
+   "quote": "Multiple of Mortality Charges Nil 1 time of the Mortality Charges collected during the 1st to 10th Policy Year 2 times of the Mortality Charges collected during the 11th to 20th Policy Year 3 times of the Mortality Charges collected during the 21st to 30th Policy Year",
    "note": null
   },
   "return_of_premium_allocation_charges": {
-   "value": "2x the premium allocation charges of years 1-4, returned at the end of years 10-13 (same mode as deducted)",
+   "value": {
+    "multiple": "2x",
+    "schedule": {
+     "end of Y10": "Y1 charges",
+     "end of Y11": "Y2 charges",
+     "end of Y12": "Y3 charges",
+     "end of Y13": "Y4 charges"
+    },
+    "mode": "same mode as deducted"
+   },
    "status": "built-in",
    "doc": "Policy Bond",
    "page": 4,
    "quote": "Two times the Premium Allocation Charges shall be returned after the completion of the 10th Policy year and onwards as provided in the table below.",
-   "note": null
+   "note": null,
+   "quote_2": "Return of Premium Allocation Charges from the end of 10th Policy Year 11th Policy Year 12th Policy Year 13th Policy Year Premium Allocation Charges deducted earlier in the 1st Policy Year 2nd Policy Year 3rd Policy Year 4th Policy Year",
+   "page_2": 4
   },
   "return_of_policy_admin_charges": {
    "value": null,
