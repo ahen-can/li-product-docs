@@ -487,7 +487,7 @@ for per in YEARS + ['Q1 FY27']:
         v = val('Individual new business premium by channel', ch, per)
         add('Channel share of individual NBP', ch, per, round(100 * v / ind, 1), '%', src, 'L-38', pg, 'Derived.')
 # Single vs regular for individual NBP
-for per in YEARS + ['Q1 FY27']:
+for per in YEARS + ['Q1 FY27', 'Q1 FY26']:
     s = val('Single premium share of individual NBP', 'Individual', per)
     src, p1 = L22P[per][0], L22P[per][1]
     add('Regular premium share of individual NBP', 'Individual', per, round(100 - s, 1), '%', src, 'L-22 row 2', p1, 'Derived: 100 minus single share.')
@@ -504,6 +504,106 @@ for per, prev_files in (('FY24', None), ('FY25', None), ('FY26', None), ('Q1 FY2
         'Product Performance table', key[2], 'Derived: sum of listed products.')
     add('Listed products as share of individual NBP', 'Total of listed products', per, round(100 * s / ind_cr, 1), '%', key[1],
         'Product Performance table and L-38', key[2], f'Derived: listed-product NBP / L-38 individual NBP ({ind_cr:,.2f} cr).')
+
+
+# ---------------------------------------------------------------- Peer view, FY26 (year to date)
+# Persistency: L-22 row 19, premium basis, regular/limited pay, individual, "up to the quarter / year ended
+# March 31, 2026" column. Conservation: L-22 row 5, same column. Files are in Desktop/LI-PDs.
+# Segment premium: deliverables/01 Data tab, which S1 built from each insurer's L-1-A-RA (a) Premium.
+PEERS = {
+    # name: (file, L-1 pages, L-22 conservation page, L-22 persistency page,
+    #        persistency 13/25/37/49/61, conservation {segment: value})
+    'SBI Life': ('sbi-life-q4fy26.pdf', '3-6', 38, 39, [87.55, 77.66, 72.22, 68.64, 57.98],
+                 {'Linked life': 87.57, 'Par life': 89.58, 'Non-par life': 86.71, 'Overall': 85.40}),
+    'HDFC Life': ('hdfc-life-q4fy26.pdf', '2-6', 32, 33, [84.9, 77.1, 72.6, 70.9, 64.4],
+                  {'Linked life': 83.6, 'Par life': 84.6, 'Non-par life': 87.6}),
+    'ICICI Prudential Life': ('icici-pru-q4fy26.pdf', '3-6', 53, 54, [83.1, 76.5, 76.6, 71.1, 61.7],
+                              {'Linked life': 79.5, 'Par life': 79.9, 'Non-par life': 88.5}),
+    'Axis Max Life': ('axis-max-q4fy26.pdf', '2-6', 27, 28, [83, 73, 66, 58, 58],
+                      {'Linked life': 77.2, 'Par life': 84.4, 'Non-par life': 87.7}),
+    'Tata AIA Life': ('tata-aia-q4fy26.pdf', '2-6', 29, 30, [86.10, 78.39, 76.57, 72.29, 66.41],
+                      {'Linked life': 85.78, 'Par life': 84.28, 'Non-par life': 90.25}),
+    'Bajaj Life': ('bajaj-life-q4fy26.pdf', '2-6', 39, 40, [80.6, 70.9, 67.4, 61.8, 51.4],
+                   {'Linked life': 83.3, 'Par life': 82.0, 'Non-par life': 85.5}),
+    'Aditya Birla Sun Life': ('absli-q4fy26.pdf', '1-5', 33, 33, [82.40, 70.11, 68.59, 62.96, 58.45],
+                              {'Linked life': 77.09, 'Par life': 88.08, 'Non-par life': 84.81}),
+    'Canara HSBC Life': ('canara-hsbc-q4fy26.pdf', '2-6', 41, 42, [85.4, 72.1, 66.2, 60.8, 54.3],
+                         {'Linked life': 85.2, 'Par life': 86.2, 'Non-par life': 87.4}),
+    'Ageas Federal Life': ('ageas-federal-q4fy26.pdf', '1-4', 34, 35, [79.02, 71.16, 66.18, 58.98, 43.51],
+                           {'Linked life': 79.30, 'Par life': 82.17, 'Non-par life': 87.00}),
+    'Shriram Life': ('shriram-life-q4fy26.pdf', '2-6', 31, 32, [60.9, 45.4, 41.6, 33.0, 28.5],
+                     {'Linked life': 77.9, 'Par life': 79.9, 'Non-par life': 76.8}),
+    'Generali Central Life': ('generali-central-q4fy26.pdf', '4-7', 36, 37, [71.03, 56.41, 50.59, 40.89, 29.07],
+                              {'Linked life': 61, 'Par life': 87, 'Non-par life': 54}),
+    'Pramerica Life': ('pramerica-q4fy26.pdf', '2-6', 31, 32, [73.2, 64.6, 60.1, 58.0, 54.6],
+                       {'Linked life': 74.85, 'Par life': 83.24, 'Non-par life': 81.63}),
+    'IndusInd Nippon Life': ('indusind-nippon-q4fy26.pdf', '3-6', 31, 31, [80.2, 67.7, 63.7, 57.8, 38.7],
+                             {'Linked life': 73.2, 'Par life': 87, 'Non-par life': 82}),
+}
+for name, (f, l1p, cp, pp, pers, cons) in PEERS.items():
+    for mth, v in zip(MON, pers):
+        add('Peer: persistency, premium basis, regular/limited pay', name + ' | ' + mth, 'FY26', v, '%', f, 'L-22 row 19', pp,
+            'Year-to-date FY26 column. ' + ('Printed as whole percentages.' if name == 'Axis Max Life' else ''))
+    for seg, v in cons.items():
+        note = 'Year-to-date FY26 column.'
+        if name == 'Aditya Birla Sun Life':
+            note += ' ABSLI labels rows by segment name (e.g. "Non Participating Linked - Individual Life").'
+        if name in ('Generali Central Life', 'IndusInd Nippon Life'):
+            note += ' Printed as whole percentages.'
+        add('Peer: conservation ratio', name + ' | ' + seg, 'FY26', v, '%', f, 'L-22 row 5', cp, note)
+for mth, v in zip(MON, PR['FY26'][0]):
+    add('Peer: persistency, premium basis, regular/limited pay', 'Bharti Life | ' + mth, 'FY26', v, '%', P26, 'L-22 row 19', 30, 'Same as the Bharti KPI rows.')
+for seg, key in (('Linked life', 'Linked life'), ('Par life', 'Par life'), ('Non-par life', 'Non-par individual life')):
+    add('Peer: conservation ratio', 'Bharti Life | ' + seg, 'FY26', val('Conservation ratio', key, 'FY26'), '%', P26, 'L-22 row 5', 29, 'Same as the Bharti KPI rows.')
+
+D01 = 'deliverables/01_life_insurance_category_analysis_Q4FY26.xlsx'
+try:
+    import openpyxl
+    wb = openpyxl.load_workbook(os.path.join(os.path.dirname(__file__), '..', '..', '..', D01), data_only=True)
+    ws = wb['Data']
+    hdr = [c.value for c in ws[4]]
+    files = {n: v[0] for n, v in PEERS.items()}
+    files['Bharti Life'] = 'bharti-life-q4fy26.pdf'
+    l1pages = {n: v[1] for n, v in PEERS.items()}
+    l1pages['Bharti Life'] = '2-5'
+    for r in ws.iter_rows(min_row=5, values_only=True):
+        if r[0] not in files:
+            continue
+        for h, v in zip(hdr[2:], r[2:]):
+            if h is None or v is None:
+                continue
+            add('Peer: gross premium by segment', r[0] + ' | ' + h, h.split(' ')[0], v, 'Rs cr', files[r[0]],
+                'L-1-A-RA (a) Premium, via deliverable 01 Data tab', l1pages[r[0]],
+                'Copied from deliverable 01 (S1). Group business sits inside each segment. FY25 values are the prior-year column of the FY26 PD.')
+
+    # Derived peer mix and growth (used by the Peer view tab)
+    def pseg(n, col):
+        for r in rows:
+            if r[0] == 'Peer: gross premium by segment' and r[1] == f'{n} | {col}':
+                return r[3] or 0
+        return 0
+    for n in list(PEERS) + ['Bharti Life']:
+        t26, t25 = pseg(n, 'FY26 Grand Total (L-1)'), pseg(n, 'FY25 Grand Total (L-1)')
+        cat26 = {'Par': sum(pseg(n, f'FY26 {c}') for c in ('Par Life', 'Par Pension', 'Par Annuity')),
+                 'Non-par life': pseg(n, 'FY26 Non-Par Life'),
+                 'Non-par pension and annuity': sum(pseg(n, f'FY26 {c}') for c in ('Non-Par Annuity', 'Non-Par Pension')),
+                 'Linked': sum(pseg(n, f'FY26 {c}') for c in ('Linked Life', 'Linked Pension'))}
+        cat25 = {'Par': sum(pseg(n, f'FY25 {c}') for c in ('Par Life', 'Par Pension', 'Par Annuity')),
+                 'Non-par life': pseg(n, 'FY25 Non-Par Life'),
+                 'Linked': sum(pseg(n, f'FY25 {c}') for c in ('Linked Life', 'Linked Pension'))}
+        cat26['Health and variable'] = t26 - sum(cat26.values())
+        f, pg = files[n], l1pages[n]
+        for c, v in cat26.items():
+            add('Peer: share of gross premium', f'{n} | {c}', 'FY26', round(100 * v / t26, 1), '%', f,
+                'L-1-A-RA, via deliverable 01 Data tab', pg, 'Derived: category / grand total. Non-par life includes group.')
+        add('Peer: gross premium growth', f'{n} | Total', 'FY26', round(100 * (t26 / t25 - 1), 1), '%', f,
+            'L-1-A-RA, via deliverable 01 Data tab', pg, 'Derived: FY26 vs FY25 grand total.')
+        for c, v25 in cat25.items():
+            if v25:
+                add('Peer: gross premium growth', f'{n} | {c}', 'FY26', round(100 * (cat26[c] / v25 - 1), 1), '%', f,
+                    'L-1-A-RA, via deliverable 01 Data tab', pg, 'Derived: FY26 vs FY25.')
+except ImportError:
+    print('openpyxl not installed: peer segment premium rows skipped')
 
 with open(OUT, 'w', newline='') as f:
     w = csv.writer(f)

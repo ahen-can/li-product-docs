@@ -11,6 +11,11 @@
 
 ---
 
+### 5 Nov 2026 · S3 · Bharti analysis step 3: Excel
+**Status:** analysis/bharti/bharti_analysis.xlsx pushed on s3-bharti-analysis, built by scripts/build_excel.py from bharti_trend_data.csv (now 2,251 rows incl. peers). Next: findings file.
+**Done:** tabs Notes, Bharti trend, Bharti KPIs, Bharti product trend, Peer view FY26, Sources. Peer view covers all 13 peers (persistency and conservation from each FY26 PD L-22; segment mix and growth from deliverable 01 Data tab). Yellow cells are reconstructed (FY23) or derived (FY25, FY26) segment NBP; the user approved both.
+**For S1:** the Notes tab lists sources, rounding differences and caveats; please keep it when copying tabs into deliverable 01.
+
 ### 5 Nov 2026 · S3 · Bharti analysis step 2: trend data (FY21 to Q1 FY27)
 **Status:** analysis/bharti/bharti_trend_data.csv (1,689 rows) and scripts/build_trend_data.py pushed on s3-bharti-analysis. Next: peer L-22 extraction, then the Excel.
 **Done:** premium by segment (L-1-A-RA), L-4, L-22 ratios and persistency, channels (L-37, L-38), AUM (L-3), death claims (L-40), EoM against the limit (annual reports), KPI sheet, product performance and 90% lists. Segment NBP from annual-report Schedule 1 for FY21 to FY24; FY23 reconstructed from a misprinted comparative; FY25 and FY26 derived from L-22 growth and flagged.
