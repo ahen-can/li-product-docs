@@ -95,7 +95,7 @@ spec = {
  'protection_add_ons': {'waiver_of_premium_inbuilt': NS(),
                         'critical_illness': F('ABSLI Comprehensive Critical Illness Rider (UIN 109A041V01), Silver 10 CIs, Gold 25 CIs, Platinum 64 CIs', 'rider', B, None, 'ABSLI Comprehensive Critical Illness Rider (UIN: 109A041V01)', quote_2='Silver Variant covers 10 CIs, Gold Variant covers 25 CIs and Platinum'),
                         'accidental_death': F('ABSLI Accidental Death Benefit Rider Plus (UIN 109A024V01), 100% of rider sum assured', 'rider', B, None, 'ABSLI Accidental Death Beneﬁt Rider Plus (UIN: 109A024V01)'),
-                        'terminal_illness': F('accelerated under ABSLI Suraksha Term Rider (109A042V01) and Suraksha Term Rider Plus (109A045V01)', 'rider', B, None, 'Rider', quote_2='Sum Assured will be accelerated in case the Life Insured is'),
+                        'terminal_illness': F('accelerated under ABSLI Suraksha Term Rider (109A042V01) and Suraksha Term Rider Plus (109A045V01)', 'rider', B, None, 'Sum Assured will be accelerated in case the Life Insured is'),
                         'spouse_or_child_cover': NS(),
                         'riders_available': F(['ABSLI Accidental Death Benefit Rider Plus (109A024V01)', 'ABSLI Waiver of Premium Rider (109A039V01)', 'ABSLI Comprehensive Critical Illness Rider (109A041V01)', 'ABSLI Suraksha Term Rider (109A042V01)', 'ABSLI Suraksha Term Rider Plus (109A045V01)'], 'rider', B, None, 'ABSLI Waiver of Premium Rider (UIN: 109A039V01)', quote_2='ABSLI Suraksha Term Rider (UIN: 109A042V01)', quote_3='ABSLI Suraksha Term Rider Plus (UIN: 109A045V01)')},
  'surrender_revival': {

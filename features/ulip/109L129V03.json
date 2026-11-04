@@ -894,10 +894,8 @@
    "status": "rider",
    "doc": "Prospectus",
    "page": 4,
-   "quote": "Rider",
-   "note": null,
-   "quote_2": "Sum Assured will be accelerated in case the Life Insured is",
-   "page_2": 4
+   "quote": "Sum Assured will be accelerated in case the Life Insured is",
+   "note": null
   },
   "spouse_or_child_cover": {
    "value": null,
