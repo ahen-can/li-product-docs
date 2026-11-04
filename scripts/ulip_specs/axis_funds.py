@@ -3,9 +3,14 @@ Each fund prints as: name line(s), an (SFIN: ...) fragment and a percentage, in 
 import re, subprocess
 
 def parse(uin, doc='brochure'):
+    out = _parse_sfin_table(uin, doc)
+    return out if len(out) >= 5 else _parse_name_pct(uin, doc)
+
+def _parse_sfin_table(uin, doc):
     pdf = f'docs/axis-max-life/{uin}/{doc}.pdf'
     pages = subprocess.run(['pdftotext', '-layout', pdf, '-'], capture_output=True, text=True).stdout.split('\f')
-    start = next(i for i, p in enumerate(pages) if re.search(r'annual rate of Fund Management Charge|Charge \(per annum\)', p, re.I))
+    start = next((i for i, p in enumerate(pages) if re.search(r'annual rate of Fund Management Charge|Charge \(per annum\)', p, re.I)), None)
+    if start is None: return []
     lines = []
     for p in pages[start:start + 4]:
         lines += [re.sub(r'\s{2,}', '  ', l.strip()) for l in p.split('\n') if l.strip()]
@@ -27,6 +32,26 @@ def parse(uin, doc='brochure'):
         if m1: sfin = m1.group(1).replace(' ', '')
         if m2: pct = m2.group(1)
         if sfin is not None and pct is not None and name: flush()
+    return out
+
+
+def _parse_name_pct(uin, doc='brochure'):
+    """Tables that print 'Fund name   1.25%' on one line; SFINs come from the fund descriptions elsewhere in the prospectus."""
+    pdf = f'docs/axis-max-life/{uin}/{doc}.pdf'
+    full = subprocess.run(['pdftotext', pdf, '-'], capture_output=True, text=True).stdout
+    flat = re.sub(r'\s+', ' ', full)
+    sf = {}
+    for m in re.finditer(r'(?:[a-z]{1,2}\)\s*)?([A-Z][A-Za-z0-9 &\.\-]+?(?:Fund|FUND)(?: II)?)\s*\(+\s*SFIN:\s*(ULIF[0-9A-Z/ ]+?)\s*\)', flat):
+        sf.setdefault(m.group(1).strip().lower(), m.group(2).replace(' ', ''))
+    pages = subprocess.run(['pdftotext', '-layout', pdf, '-'], capture_output=True, text=True).stdout.split('\f')
+    start = next(i for i, p in enumerate(pages) if re.search(r'Fund Management Charge \(p\.a\.\)|Fund Management Charge \(per annum\)', p))
+    out = []
+    for p in pages[start:start + 3]:
+        for l in p.split('\n'):
+            m = re.match(r'\s*(?:\d+\s+)?([A-Z][A-Za-z0-9 &\.\-]+?(?:Fund|FUND)(?: II)?)\s+(\d\.\d+)%\s*$', l)
+            if m and m.group(1).strip() not in [o['name'] for o in out]:
+                out.append({'name': m.group(1).strip(), 'SFIN': sf.get(m.group(1).strip().lower()), 'FMC_pct': float(m.group(2))})
+        if any('Discontinuance Policy Fund' in o['name'] for o in out): break
     return out
 
 if __name__ == '__main__':
