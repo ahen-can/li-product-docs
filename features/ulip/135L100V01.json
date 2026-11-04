@@ -1,0 +1,972 @@
+{
+ "product": {
+  "uin": {
+   "value": "135L100V01",
+   "status": "n/a",
+   "doc": "Golden_Years_Pension_Tax_Update_20897_f8de8d73f5.pdf",
+   "page": 1,
+   "quote": "UIN: 135L100V01",
+   "note": null
+  },
+  "uin_in_brochure": {
+   "value": "135L100V01",
+   "status": "n/a",
+   "doc": "Golden_Years_Pension_Tax_Update_20897_f8de8d73f5.pdf",
+   "page": 1,
+   "quote": "UIN: 135L100V01",
+   "note": null
+  },
+  "product_name": {
+   "value": "Ageas Federal Life Insurance Golden Years Pension Plan",
+   "status": "n/a",
+   "doc": "Golden_Years_Pension_Tax_Update_20897_f8de8d73f5.pdf",
+   "page": 1,
+   "quote": "Ageas Federal Life Insurance Golden Years Pension Plan",
+   "note": null
+  },
+  "irdai_description_line": {
+   "value": "Unit Linked, Non-Participating, Individual Pension Plan",
+   "status": "n/a",
+   "doc": "Golden_Years_Pension_Tax_Update_20897_f8de8d73f5.pdf",
+   "page": 1,
+   "quote": "Unit Linked, Non-Participating, Individual Pension Plan",
+   "note": null
+  },
+  "launch_or_version_date": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "variants_or_plan_options": {
+   "value": [
+    "Classic Option",
+    "Golden Waiver of Premium Option"
+   ],
+   "status": "n/a",
+   "doc": "Golden_Years_Pension_Tax_Update_20897_f8de8d73f5.pdf",
+   "page": 3,
+   "quote": "Classic Option or Golden",
+   "note": null,
+   "quote_2": "Waiver of Premium option",
+   "page_2": 2
+  },
+  "target_segment_stated": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "online_offline": {
+   "value": "also sold online",
+   "status": "n/a",
+   "doc": "Golden_Years_Pension_Tax_Update_20897_f8de8d73f5.pdf",
+   "page": 30,
+   "quote": "The product is also available for sale through online mode.",
+   "note": null
+  }
+ },
+ "eligibility": {
+  "entry_age_min": {
+   "value": 18,
+   "status": "n/a",
+   "doc": "Golden_Years_Pension_Tax_Update_20897_f8de8d73f5.pdf",
+   "page": 10,
+   "quote": "Minimum 18 years",
+   "note": null
+  },
+  "entry_age_max": {
+   "value": {
+    "Classic": 70,
+    "Golden Waiver of Premium": 60
+   },
+   "status": "n/a",
+   "doc": "Golden_Years_Pension_Tax_Update_20897_f8de8d73f5.pdf",
+   "page": 10,
+   "quote": "For Classic Option: 70 years",
+   "note": null,
+   "quote_2": "For Golden Waiver of Premium Option: 60 years",
+   "page_2": 10
+  },
+  "maturity_age_min": {
+   "value": 45,
+   "status": "n/a",
+   "doc": "Golden_Years_Pension_Tax_Update_20897_f8de8d73f5.pdf",
+   "page": 10,
+   "quote": "Minimum 45 years",
+   "note": null
+  },
+  "maturity_age_max": {
+   "value": {
+    "Classic": 80,
+    "Golden Waiver of Premium": 70
+   },
+   "status": "n/a",
+   "doc": "Golden_Years_Pension_Tax_Update_20897_f8de8d73f5.pdf",
+   "page": 10,
+   "quote": "For Classic Option: 80 years",
+   "note": null,
+   "quote_2": "For Golden Waiver of Premium Option: 70 years",
+   "page_2": 10
+  },
+  "policy_term_options": {
+   "value": {
+    "minimum": "10 years",
+    "maximum by premium paying term": {
+     "regular pay, single pay (Classic), 6, 8 and 10 pay": "10 to 40 years",
+     "12 pay": "13 to 40 years",
+     "15 pay": "16 to 40 years",
+     "20 pay": "21 to 40 years"
+    }
+   },
+   "status": "n/a",
+   "doc": "Golden_Years_Pension_Tax_Update_20897_f8de8d73f5.pdf",
+   "page": 10,
+   "quote": "Minimum 10 years",
+   "note": null,
+   "quote_2": "12 Pay 13 to 40 years 13 to 40 years",
+   "page_2": 10,
+   "quote_3": "15 Pay 16 to 40 years 16 to 40 years",
+   "page_3": 10,
+   "quote_4": "20 Pay 21 to 40 years 21 to 40 years",
+   "page_4": 10
+  },
+  "ppt_options": {
+   "value": {
+    "single pay": "1 year (Classic only)",
+    "limited pay": "6, 8, 10, 12, 15 or 20 years",
+    "regular pay": "10 to 40 years"
+   },
+   "status": "n/a",
+   "doc": "Golden_Years_Pension_Tax_Update_20897_f8de8d73f5.pdf",
+   "page": 10,
+   "quote": "Limited Pay 6/8/10/12/15 & 20 years",
+   "note": null,
+   "quote_2": "RP 10 Years 10 years",
+   "page_2": 10
+  },
+  "premium_min_annual": {
+   "value": {
+    "policy term 10 to 19 years, yearly / half-yearly / monthly": 50000,
+    "policy term 20 to 40 years, yearly / half-yearly": 30000,
+    "top-up": 5000
+   },
+   "status": "n/a",
+   "doc": "Golden_Years_Pension_Tax_Update_20897_f8de8d73f5.pdf",
+   "page": 10,
+   "quote": "Rs 50,000",
+   "note": null,
+   "quote_2": "Yearly/Half-Yearly – 30,000",
+   "page_2": 10,
+   "quote_3": "Top- up Premium – Rs. 5,000",
+   "page_3": 10
+  },
+  "premium_min_single": {
+   "value": 200000,
+   "status": "n/a",
+   "doc": "Golden_Years_Pension_Tax_Update_20897_f8de8d73f5.pdf",
+   "page": 10,
+   "quote": "Single Pay All Policy Terms 2,00,000",
+   "note": null
+  },
+  "premium_max": {
+   "value": "no limit, subject to the Board approved underwriting policy",
+   "status": "n/a",
+   "doc": "Golden_Years_Pension_Tax_Update_20897_f8de8d73f5.pdf",
+   "page": 10,
+   "quote": "No limit, subject to Board approved underwriting policy.",
+   "note": null
+  },
+  "sum_assured_rule": {
+   "value": null,
+   "status": "not offered",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": "no sum assured; the death benefit is the fund value or 105% of premiums paid"
+  },
+  "premium_modes": {
+   "value": [
+    "single",
+    "yearly",
+    "half-yearly",
+    "monthly"
+   ],
+   "status": "n/a",
+   "doc": "Golden_Years_Pension_Tax_Update_20897_f8de8d73f5.pdf",
+   "page": 10,
+   "quote": "Single Pay/ Yearly/ Half-Yearly/Monthly",
+   "note": null
+  },
+  "life_cover_multiple_choice": {
+   "value": null,
+   "status": "not offered",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": "no sum assured multiple"
+  }
+ },
+ "charges": {
+  "premium_allocation_charge": {
+   "value": {
+    "offline, non-staff": {
+     "single pay": "0.50%",
+     "regular and limited pay, throughout the premium paying term": "6.00%",
+     "after the premium paying term": "nil"
+    },
+    "staff and online": {
+     "single pay": "nil",
+     "6 pay": "4.50%",
+     "8 pay": "4.00%",
+     "10 pay and above": "3.75%"
+    },
+    "top-up premium": "nil",
+    "discount for prevailing annualized premium of Rs 3,00,000 and above": "1% off the allocation charge"
+   },
+   "status": "built-in",
+   "doc": "Golden_Years_Pension_Tax_Update_20897_f8de8d73f5.pdf",
+   "page": 23,
+   "quote": "Single Pay 0.50%",
+   "note": null,
+   "quote_2": "Regular/Limited Pay 6.00% Nil",
+   "page_2": 23,
+   "quote_3": "6 Pay 4.50%",
+   "page_3": 23,
+   "quote_4": "Rs. 3,00,000 and above 1%",
+   "page_4": 28
+  },
+  "policy_administration_charge": {
+   "value": {
+    "regular and limited pay": "1% of annualized premium a year",
+    "single pay": "1% of single premium a year",
+    "cap": "Rs 500 a month, deducted monthly in advance"
+   },
+   "status": "built-in",
+   "doc": "Golden_Years_Pension_Tax_Update_20897_f8de8d73f5.pdf",
+   "page": 24,
+   "quote": "Limited/Regular Pay 1% of Annualized Premium",
+   "note": null,
+   "quote_2": "Sigle Pay 1% of Single Premium",
+   "page_2": 24,
+   "quote_3": "maximum of Rs 500/- per month",
+   "page_3": 24
+  },
+  "fund_management_charge": {
+   "value": {
+    "Equity Growth Fund - Pension": "1.35%",
+    "Income Fund - Pension": "1.25%",
+    "Bluechip Fund - Pension": "1.35%",
+    "Discontinued Policy Fund - Pension": "0.50%"
+   },
+   "status": "built-in",
+   "doc": "Golden_Years_Pension_Tax_Update_20897_f8de8d73f5.pdf",
+   "page": 24,
+   "quote": "Equity Growth Fund - Pension 1.35%",
+   "note": null,
+   "quote_2": "Income Fund - Pension 1.25%",
+   "page_2": 24,
+   "quote_3": "Bluechip Fund - Pension 1.35%",
+   "page_3": 24,
+   "quote_4": "Discontinued Policy Fund – Pension 0.50%",
+   "page_4": 24
+  },
+  "mortality_charge": {
+   "value": {
+    "basis": "1/12 x rate x sum at risk / 1,000; 100% of IALM (2012-14) Ult.; transgender lives use the male rate",
+    "rate_per_1000_sum_at_risk_by_age": {
+     "male": {
+      "18": 0.87,
+      "19": 0.91,
+      "20": 0.92,
+      "21": 0.93,
+      "22": 0.94,
+      "23": 0.94,
+      "24": 0.93,
+      "25": 0.93,
+      "26": 0.93,
+      "27": 0.93,
+      "28": 0.94,
+      "29": 0.96,
+      "30": 0.98,
+      "31": 1.01,
+      "32": 1.04,
+      "33": 1.09,
+      "34": 1.14,
+      "35": 1.2,
+      "36": 1.28,
+      "37": 1.36,
+      "38": 1.45,
+      "39": 1.56,
+      "40": 1.68,
+      "41": 1.82,
+      "42": 1.97,
+      "43": 2.14,
+      "44": 2.35,
+      "45": 2.58,
+      "46": 2.85,
+      "47": 3.17,
+      "48": 3.54,
+      "49": 3.96,
+      "50": 4.44,
+      "51": 4.97,
+      "52": 5.55,
+      "53": 6.17,
+      "54": 6.83,
+      "55": 7.51,
+      "56": 8.21,
+      "57": 8.93,
+      "58": 9.65,
+      "59": 10.39,
+      "60": 11.16,
+      "61": 11.97,
+      "62": 12.83,
+      "63": 13.77,
+      "64": 14.79,
+      "65": 15.93,
+      "66": 17.21,
+      "67": 18.64,
+      "68": 20.24,
+      "69": 22.04,
+      "70": 24.06,
+      "71": 26.31,
+      "72": 28.83,
+      "73": 31.64,
+      "74": 34.76,
+      "75": 38.22,
+      "76": 42.06,
+      "77": 46.32,
+      "78": 51.02,
+      "79": 56.23,
+      "80": 61.99
+     },
+     "female": {
+      "18": 0.7,
+      "19": 0.77,
+      "20": 0.83,
+      "21": 0.87,
+      "22": 0.91,
+      "23": 0.92,
+      "24": 0.93,
+      "25": 0.94,
+      "26": 0.94,
+      "27": 0.93,
+      "28": 0.93,
+      "29": 0.93,
+      "30": 0.93,
+      "31": 0.94,
+      "32": 0.96,
+      "33": 0.98,
+      "34": 1.01,
+      "35": 1.04,
+      "36": 1.09,
+      "37": 1.14,
+      "38": 1.2,
+      "39": 1.28,
+      "40": 1.36,
+      "41": 1.45,
+      "42": 1.56,
+      "43": 1.68,
+      "44": 1.82,
+      "45": 1.97,
+      "46": 2.14,
+      "47": 2.35,
+      "48": 2.58,
+      "49": 2.85,
+      "50": 3.17,
+      "51": 3.54,
+      "52": 3.96,
+      "53": 4.44,
+      "54": 4.97,
+      "55": 5.55,
+      "56": 6.17,
+      "57": 6.83,
+      "58": 7.51,
+      "59": 8.21,
+      "60": 8.93,
+      "61": 9.65,
+      "62": 10.39,
+      "63": 11.16,
+      "64": 11.97,
+      "65": 12.83,
+      "66": 13.77,
+      "67": 14.79,
+      "68": 15.93,
+      "69": 17.21,
+      "70": 18.64,
+      "71": 20.24,
+      "72": 22.04,
+      "73": 24.06,
+      "74": 26.31,
+      "75": 28.83,
+      "76": 31.64,
+      "77": 34.76,
+      "78": 38.22,
+      "79": 42.06,
+      "80": 46.32
+     }
+    }
+   },
+   "status": "built-in",
+   "doc": "Golden_Years_Pension_Tax_Update_20897_f8de8d73f5.pdf",
+   "page": 25,
+   "quote": "18 0.87 0.70 39 1.56 1.28 60 11.16 8.93",
+   "note": "full table, ages 18 to 80",
+   "quote_2": "38 1.45 1.20 59 10.39 8.21 80 61.99 46.32",
+   "page_2": 25
+  },
+  "discontinuance_charge": {
+   "value": {
+    "regular and limited pay, annualized premium up to Rs 50,000": {
+     "Y1": "lower of 20% of AP or FV, max Rs 3,000",
+     "Y2": "15%, Rs 2,000",
+     "Y3": "10%, Rs 1,500",
+     "Y4": "5%, Rs 1,000",
+     "Y5+": "nil"
+    },
+    "regular and limited pay, annualized premium above Rs 50,000": {
+     "Y1": "lower of 6%, max Rs 6,000",
+     "Y2": "4%, Rs 5,000",
+     "Y3": "3%, Rs 4,000",
+     "Y4": "2%, Rs 2,000",
+     "Y5+": "nil"
+    },
+    "single pay, premium up to Rs 3,00,000": {
+     "Y1": "lower of 2% of SP or FV, max Rs 3,000",
+     "Y2": "1.5%, Rs 2,000",
+     "Y3": "1%, Rs 1,500",
+     "Y4": "0.5%, Rs 1,000",
+     "Y5+": "nil"
+    },
+    "single pay, premium above Rs 3,00,000": {
+     "Y1": "lower of 1%, max Rs 6,000",
+     "Y2": "0.70%, Rs 5,000",
+     "Y3": "0.50%, Rs 4,000",
+     "Y4": "0.35%, Rs 2,000",
+     "Y5+": "nil"
+    }
+   },
+   "status": "built-in",
+   "doc": "Golden_Years_Pension_Tax_Update_20897_f8de8d73f5.pdf",
+   "page": 26,
+   "quote": "Lower of 20%* (AP or FV) subject to a Lower of 6%* (AP or FV) subject to",
+   "note": null,
+   "quote_2": "Lower of 15%* (AP or FV) subject to a Lower of 4%* (AP or FV) subject to",
+   "page_2": 26,
+   "quote_3": "Lower of 2%* (SP or FV) subject to a Lower of 1%* (SP or FV) subject to",
+   "page_3": 26,
+   "quote_4": "Lower of 0.5%* (SP or FV) subject to a Lower of 0.35%* (SP or FV) subject",
+   "page_4": 26
+  },
+  "switching_charge": {
+   "value": "nil",
+   "status": "built-in",
+   "doc": "Golden_Years_Pension_Tax_Update_20897_f8de8d73f5.pdf",
+   "page": 26,
+   "quote": "There is no switching charge.",
+   "note": null
+  },
+  "partial_withdrawal_charge": {
+   "value": "nil",
+   "status": "built-in",
+   "doc": "Golden_Years_Pension_Tax_Update_20897_f8de8d73f5.pdf",
+   "page": 11,
+   "quote": "There is no partial withdrawal charge.",
+   "note": null
+  },
+  "premium_redirection_charge": {
+   "value": "nil",
+   "status": "built-in",
+   "doc": "Golden_Years_Pension_Tax_Update_20897_f8de8d73f5.pdf",
+   "page": 17,
+   "quote": "The redirection of your Premium is allowed free of charge",
+   "note": null
+  },
+  "miscellaneous_charge": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "guarantee_charge": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "rider_charges": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "any_charge_returned": {
+   "value": "all premium allocation charges added to the fund value at maturity",
+   "status": "built-in",
+   "doc": "Golden_Years_Pension_Tax_Update_20897_f8de8d73f5.pdf",
+   "page": 7,
+   "quote": "sum of all premium allocation",
+   "note": null
+  }
+ },
+ "benefits": {
+  "death_benefit_formula": {
+   "value": {
+    "Classic": "higher of fund value and 105% of total premiums paid (including top-ups) less applicable withdrawals",
+    "Golden Waiver of Premium": "105% of total premiums paid; the policy continues with no cover and the company funds the future premiums; the fund moves to the Systematic Allocator (Wealth Care Switcher)"
+   },
+   "status": "built-in",
+   "doc": "Golden_Years_Pension_Tax_Update_20897_f8de8d73f5.pdf",
+   "page": 7,
+   "quote": "Death Benefit shall be higher of:",
+   "note": null,
+   "quote_2": "Death Benefit equals 105% of Total Premiums Paid",
+   "page_2": 7
+  },
+  "maturity_benefit": {
+   "value": "fund value including return of allocation charges and loyalty boosters, used to buy an annuity from the company or another insurer (up to 60% can be commuted), or the accumulation period can be extended below age 60",
+   "status": "built-in",
+   "doc": "Golden_Years_Pension_Tax_Update_20897_f8de8d73f5.pdf",
+   "page": 5,
+   "quote": "To commute up to 60%",
+   "note": null,
+   "quote_2": "below an age of 60 years",
+   "page_2": 5
+  },
+  "loyalty_additions": {
+   "value": {
+    "name": "Guaranteed Loyalty Booster",
+    "timing": "end of every year from the end of the 7th policy year to the end of the term",
+    "percent of annualized premium by premium paying term": {
+     "1 and 6": "2.00%",
+     "8": "2.20%",
+     "10 and 11": "2.40%",
+     "12 and above": "2.50%"
+    }
+   },
+   "status": "built-in",
+   "doc": "Golden_Years_Pension_Tax_Update_20897_f8de8d73f5.pdf",
+   "page": 5,
+   "quote": "1&6 2.00%",
+   "note": null,
+   "quote_2": "8 2.20%",
+   "page_2": 5,
+   "quote_3": "10 & 11 2.40%",
+   "page_3": 5,
+   "quote_4": "12 and above 2.50%",
+   "page_4": 5
+  },
+  "wealth_boosters_or_guaranteed_additions": {
+   "value": {
+    "name": "Early Investment Booster",
+    "rate": "25% on top of the Guaranteed Loyalty Booster",
+    "who": "life assured aged 18 to 35 at entry"
+   },
+   "status": "built-in",
+   "doc": "Golden_Years_Pension_Tax_Update_20897_f8de8d73f5.pdf",
+   "page": 6,
+   "quote": "Early Investment Booster of 25%",
+   "note": null
+  },
+  "return_of_mortality_charges": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "return_of_premium_allocation_charges": {
+   "value": "all premium allocation charges added at maturity, excluding tax",
+   "status": "built-in",
+   "doc": "Golden_Years_Pension_Tax_Update_20897_f8de8d73f5.pdf",
+   "page": 7,
+   "quote": "sum of all premium allocation",
+   "note": null
+  },
+  "return_of_policy_admin_charges": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "other_additions": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  }
+ },
+ "flexibility": {
+  "fund_switching": {
+   "value": "free",
+   "status": "optional (during term)",
+   "doc": "Golden_Years_Pension_Tax_Update_20897_f8de8d73f5.pdf",
+   "page": 26,
+   "quote": "There is no switching charge.",
+   "note": null
+  },
+  "premium_redirection": {
+   "value": "free, any number of times; at least 15% of the annualized premium to any fund",
+   "status": "optional (during term)",
+   "doc": "Golden_Years_Pension_Tax_Update_20897_f8de8d73f5.pdf",
+   "page": 17,
+   "quote": "The redirection of your Premium is allowed free of charge",
+   "note": null,
+   "quote_2": "at least 15% of the Annualized Premium",
+   "page_2": 17
+  },
+  "partial_withdrawals": {
+   "value": {
+    "from": "after the 5-year lock-in",
+    "maximum": "25% of the fund value at the time, at most 3 times in the term",
+    "allowed reasons": "children's education or marriage, house purchase or construction, critical illness, disability, skill development, own venture",
+    "minimum": "Rs 10,000"
+   },
+   "status": "optional (during term)",
+   "doc": "Golden_Years_Pension_Tax_Update_20897_f8de8d73f5.pdf",
+   "page": 11,
+   "quote": "It shall not exceed 25% of the fund value at the time of",
+   "note": null,
+   "quote_2": "It can happen only three times during the entire term of",
+   "page_2": 11,
+   "quote_3": "minimum amount of any partial withdrawal is",
+   "page_3": 11
+  },
+  "systematic_withdrawal_plan": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "top_up_premiums": {
+   "value": {
+    "minimum": "Rs 5,000",
+    "lock": "no withdrawal for 5 years; none after death under the Golden Waiver option",
+    "allocation charge": "nil"
+   },
+   "status": "optional (during term)",
+   "doc": "Golden_Years_Pension_Tax_Update_20897_f8de8d73f5.pdf",
+   "page": 27,
+   "quote": "Minimum Top-up will be Rs 5,000.",
+   "note": null,
+   "quote_2": "for a period of 5 years from the date of payment of the",
+   "page_2": 27
+  },
+  "settlement_option": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "premium_holiday_or_offset": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "increase_decrease_cover": {
+   "value": "sum assured cannot change; after 5 years the premium can be reduced to up to 50% of the original, once; premium increase is not allowed",
+   "status": "optional (during term)",
+   "doc": "Golden_Years_Pension_Tax_Update_20897_f8de8d73f5.pdf",
+   "page": 27,
+   "quote": "decrease the premium up to 50% of the original Annualized Premium",
+   "note": null,
+   "quote_2": "Increase in Premium Not allowed at any point in time under the policy.",
+   "page_2": 27
+  },
+  "change_ppt_or_term": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "policy_loan": {
+   "value": null,
+   "status": "not offered",
+   "doc": "Golden_Years_Pension_Tax_Update_20897_f8de8d73f5.pdf",
+   "page": 27,
+   "quote": "There are no policy loans available with the policy.",
+   "note": null
+  },
+  "auto_portfolio_strategies": {
+   "value": [
+    {
+     "name": "AutoSwitcher",
+     "mechanics": "fixed amount of at least Rs 5,000 switched monthly from one fund to others, for at least 6 months"
+    },
+    {
+     "name": "Systematic Allocator",
+     "mechanics": "moves from Equity Growth Fund - Pension to Income Fund - Pension as vesting nears: 80% equity with 15 or more years left, 5% with 1 year left"
+    },
+    {
+     "name": "Wealth Care Switcher",
+     "mechanics": "under the Golden Waiver option, on the life assured's death the fund moves to the Systematic Allocator"
+    }
+   ],
+   "status": "optional (at inception)",
+   "doc": "Golden_Years_Pension_Tax_Update_20897_f8de8d73f5.pdf",
+   "page": 13,
+   "quote": "Transfer Amount Rs. 5,000",
+   "note": null,
+   "quote_2": "15 and above 80.00% 20.00%",
+   "page_2": 16,
+   "quote_3": "this feature switches the",
+   "page_3": 8
+  }
+ },
+ "funds": {
+  "fund_count": {
+   "value": 3,
+   "status": "n/a",
+   "doc": "Golden_Years_Pension_Tax_Update_20897_f8de8d73f5.pdf",
+   "page": 20,
+   "quote": "ULIF05419/02/09EQOPPPEN135",
+   "note": "three pension funds plus the Discontinued Policy Fund - Pension, counted from the charges table",
+   "quote_2": "ULIF078140823BLUECHPEN135",
+   "page_2": 21
+  },
+  "fund_list": {
+   "value": [
+    {
+     "name": "Equity Growth Fund - Pension",
+     "SFIN": "ULIF05419/02/09EQOPPPEN135",
+     "FMC_pct": 1.35,
+     "asset_allocation": "equity 50-100%, cash and money market 0-50%",
+     "risk_label": "returns likely high, risk high"
+    },
+    {
+     "name": "Income Fund - Pension",
+     "SFIN": "ULIF05619/02/09INCOMEPEN135",
+     "FMC_pct": 1.25,
+     "asset_allocation": "fixed income 0-100%",
+     "risk_label": "returns likely moderate, risk moderate"
+    },
+    {
+     "name": "Bluechip Fund - Pension",
+     "SFIN": "ULIF078140823BLUECHPEN135",
+     "FMC_pct": 1.35,
+     "asset_allocation": "equity 50-100%, cash and money market 0-50%",
+     "risk_label": "returns likely high, risk high"
+    },
+    {
+     "name": "Discontinued Policy Fund - Pension",
+     "SFIN": "ULIF079140823DISCONPEN135",
+     "FMC_pct": 0.5,
+     "asset_allocation": "see brochure fund table",
+     "risk_label": null
+    }
+   ],
+   "status": "n/a",
+   "doc": "Golden_Years_Pension_Tax_Update_20897_f8de8d73f5.pdf",
+   "page": 24,
+   "quote": "ULIF05419/02/09EQOPPPEN135 Equity Growth Fund - Pension 1.35%",
+   "note": "SFINs and FMCs from the fund management charge table; allocation and risk text from the fund descriptions",
+   "quote_2": "ULIF079140823DISCONPEN135 Discontinued Policy Fund – Pension 0.50%",
+   "page_2": 24
+  },
+  "index_or_thematic_funds": {
+   "value": "Bluechip Fund - Pension",
+   "status": "n/a",
+   "doc": "Golden_Years_Pension_Tax_Update_20897_f8de8d73f5.pdf",
+   "page": 24,
+   "quote": "Bluechip Fund - Pension 1.35%",
+   "note": null
+  },
+  "discontinued_policy_fund": {
+   "value": {
+    "name": "Discontinued Policy Fund - Pension",
+    "fmc": "0.50%"
+   },
+   "status": "built-in",
+   "doc": "Golden_Years_Pension_Tax_Update_20897_f8de8d73f5.pdf",
+   "page": 24,
+   "quote": "Discontinued Policy Fund – Pension 0.50%",
+   "note": null
+  }
+ },
+ "protection_add_ons": {
+  "waiver_of_premium_inbuilt": {
+   "value": "Golden Waiver of Premium Option: after the life assured dies the company funds future premiums and the policy continues without death cover",
+   "status": "optional (at inception)",
+   "doc": "Golden_Years_Pension_Tax_Update_20897_f8de8d73f5.pdf",
+   "page": 7,
+   "quote": "future premiums, if any are waived off",
+   "note": null,
+   "quote_2": "funded by us on the respective due date",
+   "page_2": 7
+  },
+  "critical_illness": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "accidental_death": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "terminal_illness": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "spouse_or_child_cover": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "riders_available": {
+   "value": null,
+   "status": "not offered",
+   "doc": "Golden_Years_Pension_Tax_Update_20897_f8de8d73f5.pdf",
+   "page": 30,
+   "quote": "There are no riders attached to this plan.",
+   "note": null
+  }
+ },
+ "surrender_revival": {
+  "lock_in_years": {
+   "value": 5,
+   "status": "built-in",
+   "doc": "Golden_Years_Pension_Tax_Update_20897_f8de8d73f5.pdf",
+   "page": 1,
+   "quote": "fifth year",
+   "note": null
+  },
+  "discontinuance_rules": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "revival_period": {
+   "value": "3 years from the first unpaid premium",
+   "status": "built-in",
+   "doc": "Golden_Years_Pension_Tax_Update_20897_f8de8d73f5.pdf",
+   "page": 17,
+   "quote": "revival period of three years",
+   "note": null
+  },
+  "surrender_value_rule": {
+   "value": "after the lock-in, at least the unit fund value on the surrender date; during the lock-in, the fund value less discontinuance charge goes to the Discontinued Policy Fund and is paid at the end of the lock-in",
+   "status": "built-in",
+   "doc": "Golden_Years_Pension_Tax_Update_20897_f8de8d73f5.pdf",
+   "page": 12,
+   "quote": "surrender value shall be at least equal to the unit fund value",
+   "note": null
+  }
+ },
+ "documents_inventory": [
+  {
+   "website_label": "Prospectus",
+   "doc_type": "brochure",
+   "url": "https://sacicwpprd01.blob.core.windows.net/%24web/sccicwppr01/assets/Golden_Years_Pension_Tax_Update_20897_7091b1af82.pdf",
+   "found_on_page_url": "https://www.ageasfederal.com/retirement-and-pension-plans/golden-year-pension-plan",
+   "pages": 31,
+   "stored_path": null,
+   "status": "already stored (same file)",
+   "note": "identical to 135L100V01-brochure"
+  },
+  {
+   "website_label": "Sample Policy Document",
+   "doc_type": "policy_document",
+   "url": "https://sacicwpprd01.blob.core.windows.net/%24web/sccicwppr01/assets/Golden_Years_Pension_Plan_PD_V1_1_Website_04092024_2cd28d7dee_f8a91e5b08.pdf",
+   "found_on_page_url": "https://www.ageasfederal.com/retirement-and-pension-plans/golden-year-pension-plan",
+   "pages": 35,
+   "stored_path": "docs/ageas-federal/135L100V01/policy.pdf",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "website_label": "Flyer",
+   "doc_type": "leaflet",
+   "url": "https://sacicwpprd01.blob.core.windows.net/%24web/sccicwppr01/assets/Golden_Yeras_Pension_Plan_Flyer_Revamp_da6520e285_4feb205356.pdf",
+   "found_on_page_url": "https://www.ageasfederal.com/retirement-and-pension-plans/golden-year-pension-plan",
+   "pages": null,
+   "stored_path": null,
+   "status": "not stored (leaflet; brochure already stored)",
+   "note": null
+  },
+  {
+   "website_label": "Customer Information Sheet",
+   "doc_type": "CIS",
+   "url": "https://sacicwpprd01.blob.core.windows.net/%24web/sccicwppr01/assets/Golden_Years_Pension_Plan_CIS_V1_1_30092024_9b6663f3e3_36369d7f3e.pdf",
+   "found_on_page_url": "https://www.ageasfederal.com/retirement-and-pension-plans/golden-year-pension-plan",
+   "pages": 4,
+   "stored_path": "docs/ageas-federal/135L100V01/cis.pdf",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "website_label": "Golden_Years_Pension_Tax_Update_20897_f8de8d73f5.pdf",
+   "doc_type": "brochure",
+   "url": "https://sacicwpprd01.blob.core.windows.net/%24web/sccicwppr01/assets/Golden_Years_Pension_Tax_Update_20897_f8de8d73f5.pdf",
+   "found_on_page_url": "https://www.ageasfederal.com/retirement-and-pension-plans/golden-year-pension-plan",
+   "pages": 31,
+   "stored_path": "docs/ageas-federal/135L100V01/brochure.pdf",
+   "status": "already stored (not linked from product page)",
+   "note": null
+  }
+ ],
+ "new_features_not_in_schema": [
+  {
+   "feature": "Golden Waiver of Premium Option with Wealth Care Switcher",
+   "description": "After the life assured dies the company funds future premiums and the fund moves to the Systematic Allocator",
+   "quote": "this feature switches the",
+   "doc": "Golden_Years_Pension_Tax_Update_20897_f8de8d73f5.pdf",
+   "page": 8
+  },
+  {
+   "feature": "Early Investment Booster",
+   "description": "Adds 25% to the Guaranteed Loyalty Booster for life assured aged 18 to 35 at entry",
+   "quote": "Early Investment Booster of 25%",
+   "doc": "Golden_Years_Pension_Tax_Update_20897_f8de8d73f5.pdf",
+   "page": 6
+  },
+  {
+   "feature": "Restricted partial withdrawals for named life events",
+   "description": "Up to 25% of the fund value, 3 times in the term, only for listed reasons such as children's education or marriage, house purchase and critical illness",
+   "quote": "It can happen only three times during the entire term of",
+   "doc": "Golden_Years_Pension_Tax_Update_20897_f8de8d73f5.pdf",
+   "page": 11
+  }
+ ],
+ "data_not_public": []
+}

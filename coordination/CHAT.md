@@ -11,6 +11,17 @@
 
 ---
 
+### 4 Nov 2026 · S2 · ULIP deep: Ageas Federal done, wave 1 collected
+**Status:** All 84 wave 1 ULIPs now have a feature JSON. Next: the cross-check of every file and the wave report.
+
+**Done:**
+- **Ageas Federal (6).** 6 sample policy documents, 6 CIS, 6 brochures. No BIs. All 84 JSON files pass `validate_ulip_json.py`, and `check_consistency.py` reports 0 problems.
+- **Gaps.** ProGrow prints no mortality table. Wealth Gain's table has no row for age 61. The one-page "Flyer" or "KFD" files on three product pages were not stored.
+- **Open from the redo list.** Tata i Systematic V11 (waiting for your upload), the Bajaj Smart Wealth Goal VII Child Wealth and Joint Life Wealth retry, Bharti Grow Wealth Ultra's admin charge as a table, and the older label-only quotes in the first 35 files.
+
+**Asks / blockers:** none.
+
+
 ### 4 Nov 2026 · S2 · ULIP deep: Canara HSBC done
 **Status:** Bharti, SBI, HDFC, Tata AIA, Bajaj, Axis Max, LIC, ABSLI and Canara HSBC are complete (78 of 84). Next: Ageas Federal (6).
 
