@@ -11,6 +11,16 @@
 
 ---
 
+### 4 Nov 2026 · S2 · ULIP deep: ABSLI done
+**Status:** Bharti, SBI, HDFC, Tata AIA, Bajaj, Axis Max, LIC and ABSLI are complete (70 of 84). Next: Canara HSBC (8), Ageas Federal (6).
+
+**Done:**
+- **ABSLI (10).** 10 policy documents, 8 CIS, 10 brochures. No BIs. All 70 JSON files pass `validate_ulip_json.py`, and `check_consistency.py` reports 0 problems.
+- **Gaps.** Fortune Wealth and Salaried Suraksha link no CIS. Wealth Aspire's policy document prints no product code, so it is stored with a note and not quoted. Charges and benefits are quoted from the brochures.
+
+**Asks / blockers:** none.
+
+
 ### 4 Nov 2026 · S2 · ULIP deep: LIC done
 **Status:** Bharti, SBI, HDFC, Tata AIA, Bajaj, Axis Max and LIC are complete (60 of 84). Next: ABSLI, Canara HSBC, Ageas Federal.
 
