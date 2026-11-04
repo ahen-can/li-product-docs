@@ -33,7 +33,8 @@ def inventory(uin):
         if key in seen: continue
         seen.add(key)
         dt = {'policy': 'policy_document', 'cis': 'CIS', 'bi': 'BI'}.get(r['doc_type'], r['doc_type'])
-        out.append({'website_label': r['website_label'], 'doc_type': dt, 'url': r['url'], 'found_on_page_url': r['found_on_page_url'],
+        lab = r['website_label'] or urllib.parse.unquote(r['url']).rsplit('/', 1)[-1]     # unlabelled link: file name
+        out.append({'website_label': lab, 'doc_type': dt, 'url': r['url'], 'found_on_page_url': r['found_on_page_url'],
                     'pages': int(r['pages']) if str(r['pages']).isdigit() else None,
                     'stored_path': r['stored_path'] if r['status'] in ('ok', 'already stored', 'already stored (not linked from product page)') else None,
                     'status': r['status'], 'note': r['notes'] or None})
