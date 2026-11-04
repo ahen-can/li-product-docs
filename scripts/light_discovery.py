@@ -133,6 +133,12 @@ def score(url, text, prod, on_product_page=False):
     if prod['uin'] and prod['uin'].lower() in blob.replace(' ', ''): s += 2
     toks = name_tokens(prod['product_name'])
     if toks: s += 8 * sum(1 for t in toks if t in blob) / len(toks)
+    words = [w for w in re.findall(r'[a-z0-9+]+', re.sub(r'\([^)]*\)', ' ', prod['product_name'].lower()))
+             if w not in ('axis', 'max', 'life', 'insurance', 'lic', 'lics', 'sbi', 'hdfc', 'tata', 'aia', 'bajaj', 'pnb', 'metlife', 'canara',
+                          'hsbc', 'indiafirst', 'pramerica', 'aviva', 'bandhan', 'edelweiss', 'ageas', 'federal', 'shriram', 'bharti', 'axa')]
+    acro = ''.join(w[0] for w in words)
+    fname = urllib.parse.unquote(u).lower().rsplit('/', 1)[-1]
+    if len(acro) >= 3 and re.search(r'(^|[^a-z])' + re.escape(acro) + r'([^a-z]|$)', fname): s += 5   # Axis-style 'PWP_Prospectus.pdf'
     slug = re.sub(r'[^a-z0-9]+', '-', prod['product_name'].lower().replace("'", '')).strip('-')
     if slug and re.search(r'(^|[/_-])' + re.escape(slug) + r'([._-]|$)', u.rsplit('/', 1)[-1] + '/' + u): s += 6   # full name as a file/folder slug
     if BROCHURE_WORDS.search(blob): s += 3
