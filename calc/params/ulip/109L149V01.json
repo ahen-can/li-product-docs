@@ -1,0 +1,141 @@
+{
+ "product": "ABSLI Param Suraksha",
+ "variant_used": "PPT 10, policy term 20, cover 10x (minimum Rs 7 lakh), equity fund at 1.35% FMC",
+ "sum_assured_multiple": 10,
+ "fmc_pct": 1.35,
+ "allocation_charge_pct": [
+  [
+   1,
+   1,
+   12.0
+  ],
+  [
+   2,
+   2,
+   6.0
+  ],
+  [
+   3,
+   3,
+   4.0
+  ],
+  [
+   4,
+   4,
+   3.0
+  ]
+ ],
+ "admin": {
+  "basis": "pct_ap",
+  "schedule": [
+   [
+    1,
+    4,
+    0.0
+   ],
+   [
+    5,
+    null,
+    0.32
+   ]
+  ],
+  "escalation_pa": 0.05,
+  "escalation_from_year": 5,
+  "cap_per_month": 500
+ },
+ "additions": [
+  {
+   "name": "Return of 2x allocation charges of years 1-4, in years 10-13",
+   "type": "refund_pac_by_year",
+   "pairs": {
+    "10": 1,
+    "11": 2,
+    "12": 3,
+    "13": 4
+   },
+   "multiple": 2
+  },
+  {
+   "name": "Return of 2x mortality charges, monthly from year 11 with a 120-month lag",
+   "type": "refund_mort_lagged",
+   "from_year": 11,
+   "lag_months": 120,
+   "multiples": [
+    [
+     11,
+     null,
+     2
+    ]
+   ]
+  }
+ ],
+ "sources": "Policy Document p.11 (allocation, admin, FMC, mortality basis), p.13 (mortality table), p.2 and p.4 (returns of charges), p.3 (eligibility)",
+ "mortality_per_1000": {
+  "18": 0.79,
+  "19": 0.82,
+  "20": 0.84,
+  "21": 0.84,
+  "22": 0.85,
+  "23": 0.85,
+  "24": 0.84,
+  "25": 0.84,
+  "26": 0.84,
+  "27": 0.84,
+  "28": 0.85,
+  "29": 0.86,
+  "30": 0.88,
+  "31": 0.91,
+  "32": 0.94,
+  "33": 0.98,
+  "34": 1.03,
+  "35": 1.09,
+  "36": 1.16,
+  "37": 1.23,
+  "38": 1.32,
+  "39": 1.41,
+  "40": 1.52,
+  "41": 1.65,
+  "42": 1.79,
+  "43": 1.95,
+  "44": 2.13,
+  "45": 2.34,
+  "46": 2.59,
+  "47": 2.88,
+  "48": 3.21,
+  "49": 3.6,
+  "50": 4.03,
+  "51": 4.52,
+  "52": 5.05,
+  "53": 5.61,
+  "54": 6.21,
+  "55": 6.83,
+  "56": 7.47,
+  "57": 8.12,
+  "58": 8.78,
+  "59": 9.45,
+  "60": 10.15,
+  "61": 10.89,
+  "62": 11.67,
+  "63": 12.52,
+  "64": 13.46,
+  "65": 14.49,
+  "66": 15.65,
+  "67": 16.95,
+  "68": 18.41,
+  "69": 20.05,
+  "70": 21.89,
+  "71": 23.94,
+  "72": 26.23,
+  "73": 28.79,
+  "74": 31.62,
+  "75": 34.78
+ },
+ "mortality_source": "policy.txt lines 655-674, PDF page(s) [13], ages 18-75 (male / unisex table, age last birthday)",
+ "uin": "109L149V01",
+ "standard_profile": {
+  "age": 30,
+  "ap": 100000,
+  "ppt": 10,
+  "pt": 20
+ }
+}

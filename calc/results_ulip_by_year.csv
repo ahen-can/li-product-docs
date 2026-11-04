@@ -1,121 +1,291 @@
-uin,product,gross,year,age,fund_value_end_of_year,additions_in_year
-101L133V03,HDFC Life Click 2 Wealth,8%,1,30,106167,0
-101L133V03,HDFC Life Click 2 Wealth,8%,2,31,219113,0
-101L133V03,HDFC Life Click 2 Wealth,8%,3,32,339277,0
-101L133V03,HDFC Life Click 2 Wealth,8%,4,33,467126,0
-101L133V03,HDFC Life Click 2 Wealth,8%,5,34,603165,0
-101L133V03,HDFC Life Click 2 Wealth,8%,6,35,746874,0
-101L133V03,HDFC Life Click 2 Wealth,8%,7,36,899832,0
-101L133V03,HDFC Life Click 2 Wealth,8%,8,37,1062617,0
-101L133V03,HDFC Life Click 2 Wealth,8%,9,38,1235624,0
-101L133V03,HDFC Life Click 2 Wealth,8%,10,39,1419496,0
-101L133V03,HDFC Life Click 2 Wealth,8%,11,40,1508634,0
-101L133V03,HDFC Life Click 2 Wealth,8%,12,41,1603369,0
-101L133V03,HDFC Life Click 2 Wealth,8%,13,42,1704054,0
-101L133V03,HDFC Life Click 2 Wealth,8%,14,43,1811061,0
-101L133V03,HDFC Life Click 2 Wealth,8%,15,44,1924788,0
-101L133V03,HDFC Life Click 2 Wealth,8%,16,45,2045656,0
-101L133V03,HDFC Life Click 2 Wealth,8%,17,46,2174114,0
-101L133V03,HDFC Life Click 2 Wealth,8%,18,47,2310639,0
-101L133V03,HDFC Life Click 2 Wealth,8%,19,48,2455737,0
-101L133V03,HDFC Life Click 2 Wealth,8%,20,49,2614274,4327
-101L180V01,HDFC Life Sampoorn Nivesh Plus,8%,1,30,97240,0
-101L180V01,HDFC Life Sampoorn Nivesh Plus,8%,2,31,200718,0
-101L180V01,HDFC Life Sampoorn Nivesh Plus,8%,3,32,310837,0
-101L180V01,HDFC Life Sampoorn Nivesh Plus,8%,4,33,428032,0
-101L180V01,HDFC Life Sampoorn Nivesh Plus,8%,5,34,552768,0
-101L180V01,HDFC Life Sampoorn Nivesh Plus,8%,6,35,684192,0
-101L180V01,HDFC Life Sampoorn Nivesh Plus,8%,7,36,823864,0
-101L180V01,HDFC Life Sampoorn Nivesh Plus,8%,8,37,972339,0
-101L180V01,HDFC Life Sampoorn Nivesh Plus,8%,9,38,1129984,0
-101L180V01,HDFC Life Sampoorn Nivesh Plus,8%,10,39,1297232,0
-101L180V01,HDFC Life Sampoorn Nivesh Plus,8%,11,40,1388204,16049
-101L180V01,HDFC Life Sampoorn Nivesh Plus,8%,12,41,1468511,0
-101L180V01,HDFC Life Sampoorn Nivesh Plus,8%,13,42,1571688,18170
-101L180V01,HDFC Life Sampoorn Nivesh Plus,8%,14,43,1663065,0
-101L180V01,HDFC Life Sampoorn Nivesh Plus,8%,15,44,1780762,20582
-101L180V01,HDFC Life Sampoorn Nivesh Plus,8%,16,45,1885267,0
-101L180V01,HDFC Life Sampoorn Nivesh Plus,8%,17,46,2019673,23338
-101L180V01,HDFC Life Sampoorn Nivesh Plus,8%,18,47,2139181,0
-101L180V01,HDFC Life Sampoorn Nivesh Plus,8%,19,48,2292682,26488
-101L180V01,HDFC Life Sampoorn Nivesh Plus,8%,20,49,2429334,0
-111L147V01,SBI Life eWealth Plus,8%,1,30,103643,0
-111L147V01,SBI Life eWealth Plus,8%,2,31,213896,0
-111L147V01,SBI Life eWealth Plus,8%,3,32,331192,0
-111L147V01,SBI Life eWealth Plus,8%,4,33,455995,0
-111L147V01,SBI Life eWealth Plus,8%,5,34,588791,0
-111L147V01,SBI Life eWealth Plus,8%,6,35,730109,0
-111L147V01,SBI Life eWealth Plus,8%,7,36,880521,0
-111L147V01,SBI Life eWealth Plus,8%,8,37,1040622,0
-111L147V01,SBI Life eWealth Plus,8%,9,38,1210785,0
-111L147V01,SBI Life eWealth Plus,8%,10,39,1391632,0
-111L147V01,SBI Life eWealth Plus,8%,11,40,1477557,0
-111L147V01,SBI Life eWealth Plus,8%,12,41,1568877,0
-111L147V01,SBI Life eWealth Plus,8%,13,42,1665932,0
-111L147V01,SBI Life eWealth Plus,8%,14,43,1769082,0
-111L147V01,SBI Life eWealth Plus,8%,15,44,1878709,0
-111L147V01,SBI Life eWealth Plus,8%,16,45,1995219,0
-111L147V01,SBI Life eWealth Plus,8%,17,46,2119047,0
-111L147V01,SBI Life eWealth Plus,8%,18,47,2250650,0
-111L147V01,SBI Life eWealth Plus,8%,19,48,2390517,0
-111L147V01,SBI Life eWealth Plus,8%,20,49,2539167,0
-130L100V03,Bharti AXA Life Wealth Pro,8%,1,30,91713,0
-130L100V03,Bharti AXA Life Wealth Pro,8%,2,31,191781,0
-130L100V03,Bharti AXA Life Wealth Pro,8%,3,32,300739,0
-130L100V03,Bharti AXA Life Wealth Pro,8%,4,33,419160,0
-130L100V03,Bharti AXA Life Wealth Pro,8%,5,34,547770,1366
-130L100V03,Bharti AXA Life Wealth Pro,8%,6,35,678854,0
-130L100V03,Bharti AXA Life Wealth Pro,8%,7,36,818349,0
-130L100V03,Bharti AXA Life Wealth Pro,8%,8,37,966821,0
-130L100V03,Bharti AXA Life Wealth Pro,8%,9,38,1124718,0
-130L100V03,Bharti AXA Life Wealth Pro,8%,10,39,1292530,0
-130L100V03,Bharti AXA Life Wealth Pro,8%,11,40,1373695,0
-130L100V03,Bharti AXA Life Wealth Pro,8%,12,41,1459957,0
-130L100V03,Bharti AXA Life Wealth Pro,8%,13,42,1551636,0
-130L100V03,Bharti AXA Life Wealth Pro,8%,14,43,1649072,0
-130L100V03,Bharti AXA Life Wealth Pro,8%,15,44,1752626,0
-130L100V03,Bharti AXA Life Wealth Pro,8%,16,45,1862683,0
-130L100V03,Bharti AXA Life Wealth Pro,8%,17,46,1979652,0
-130L100V03,Bharti AXA Life Wealth Pro,8%,18,47,2103965,0
-130L100V03,Bharti AXA Life Wealth Pro,8%,19,48,2236085,0
-130L100V03,Bharti AXA Life Wealth Pro,8%,20,49,2446581,70080
-130L121V01,Bharti AXA Life Wealth Maximizer,8%,1,30,101956,0
-130L121V01,Bharti AXA Life Wealth Maximizer,8%,2,31,205378,0
-130L121V01,Bharti AXA Life Wealth Maximizer,8%,3,32,315370,0
-130L121V01,Bharti AXA Life Wealth Maximizer,8%,4,33,432997,0
-130L121V01,Bharti AXA Life Wealth Maximizer,8%,5,34,558117,0
-130L121V01,Bharti AXA Life Wealth Maximizer,8%,6,35,691224,0
-130L121V01,Bharti AXA Life Wealth Maximizer,8%,7,36,834100,0
-130L121V01,Bharti AXA Life Wealth Maximizer,8%,8,37,986136,0
-130L121V01,Bharti AXA Life Wealth Maximizer,8%,9,38,1149036,0
-130L121V01,Bharti AXA Life Wealth Maximizer,8%,10,39,1322166,0
-130L121V01,Bharti AXA Life Wealth Maximizer,8%,11,40,1441313,37036
-130L121V01,Bharti AXA Life Wealth Maximizer,8%,12,41,1568196,37289
-130L121V01,Bharti AXA Life Wealth Maximizer,8%,13,42,1703316,37559
-130L121V01,Bharti AXA Life Wealth Maximizer,8%,14,43,1847208,37846
-130L121V01,Bharti AXA Life Wealth Maximizer,8%,15,44,2000441,38152
-130L121V01,Bharti AXA Life Wealth Maximizer,8%,16,45,2129396,4250
-130L121V01,Bharti AXA Life Wealth Maximizer,8%,17,46,2266722,4524
-130L121V01,Bharti AXA Life Wealth Maximizer,8%,18,47,2412963,4816
-130L121V01,Bharti AXA Life Wealth Maximizer,8%,19,48,2568699,5127
-130L121V01,Bharti AXA Life Wealth Maximizer,8%,20,49,2734546,5458
-130L128V01,Bharti AXA Life Grow Wealth Ultra,8%,1,30,255721,0
-130L128V01,Bharti AXA Life Grow Wealth Ultra,8%,2,31,527739,0
-130L128V01,Bharti AXA Life Grow Wealth Ultra,8%,3,32,817097,0
-130L128V01,Bharti AXA Life Grow Wealth Ultra,8%,4,33,1124934,0
-130L128V01,Bharti AXA Life Grow Wealth Ultra,8%,5,34,1452439,0
-130L128V01,Bharti AXA Life Grow Wealth Ultra,8%,6,35,1800923,0
-130L128V01,Bharti AXA Life Grow Wealth Ultra,8%,7,36,2171782,0
-130L128V01,Bharti AXA Life Grow Wealth Ultra,8%,8,37,2566499,0
-130L128V01,Bharti AXA Life Grow Wealth Ultra,8%,9,38,2986044,0
-130L128V01,Bharti AXA Life Grow Wealth Ultra,8%,10,39,3431934,0
-130L128V01,Bharti AXA Life Grow Wealth Ultra,8%,11,40,3643785,0
-130L128V01,Bharti AXA Life Grow Wealth Ultra,8%,12,41,3868940,0
-130L128V01,Bharti AXA Life Grow Wealth Ultra,8%,13,42,4108233,0
-130L128V01,Bharti AXA Life Grow Wealth Ultra,8%,14,43,4362553,0
-130L128V01,Bharti AXA Life Grow Wealth Ultra,8%,15,44,4632842,0
-130L128V01,Bharti AXA Life Grow Wealth Ultra,8%,16,45,4920105,0
-130L128V01,Bharti AXA Life Grow Wealth Ultra,8%,17,46,5225407,0
-130L128V01,Bharti AXA Life Grow Wealth Ultra,8%,18,47,5549880,0
-130L128V01,Bharti AXA Life Grow Wealth Ultra,8%,19,48,5894729,0
-130L128V01,Bharti AXA Life Grow Wealth Ultra,8%,20,49,6632337,371105
+uin,product,basis,year,age,fund_value_end_of_year,additions_in_year
+101L133V03,HDFC Life Click 2 Wealth,8% incl. GST,1,30,106167,0
+101L133V03,HDFC Life Click 2 Wealth,8% incl. GST,2,31,219113,0
+101L133V03,HDFC Life Click 2 Wealth,8% incl. GST,3,32,339277,0
+101L133V03,HDFC Life Click 2 Wealth,8% incl. GST,4,33,467126,0
+101L133V03,HDFC Life Click 2 Wealth,8% incl. GST,5,34,603165,0
+101L133V03,HDFC Life Click 2 Wealth,8% incl. GST,6,35,746874,0
+101L133V03,HDFC Life Click 2 Wealth,8% incl. GST,7,36,899832,0
+101L133V03,HDFC Life Click 2 Wealth,8% incl. GST,8,37,1062617,0
+101L133V03,HDFC Life Click 2 Wealth,8% incl. GST,9,38,1235624,0
+101L133V03,HDFC Life Click 2 Wealth,8% incl. GST,10,39,1419496,0
+101L133V03,HDFC Life Click 2 Wealth,8% incl. GST,11,40,1508634,0
+101L133V03,HDFC Life Click 2 Wealth,8% incl. GST,12,41,1603369,0
+101L133V03,HDFC Life Click 2 Wealth,8% incl. GST,13,42,1704054,0
+101L133V03,HDFC Life Click 2 Wealth,8% incl. GST,14,43,1811061,0
+101L133V03,HDFC Life Click 2 Wealth,8% incl. GST,15,44,1924788,0
+101L133V03,HDFC Life Click 2 Wealth,8% incl. GST,16,45,2045656,0
+101L133V03,HDFC Life Click 2 Wealth,8% incl. GST,17,46,2174114,0
+101L133V03,HDFC Life Click 2 Wealth,8% incl. GST,18,47,2310639,0
+101L133V03,HDFC Life Click 2 Wealth,8% incl. GST,19,48,2455737,0
+101L133V03,HDFC Life Click 2 Wealth,8% incl. GST,20,49,2614274,4327
+101L180V01,HDFC Life Sampoorn Nivesh Plus,8% incl. GST,1,30,97240,0
+101L180V01,HDFC Life Sampoorn Nivesh Plus,8% incl. GST,2,31,200718,0
+101L180V01,HDFC Life Sampoorn Nivesh Plus,8% incl. GST,3,32,310837,0
+101L180V01,HDFC Life Sampoorn Nivesh Plus,8% incl. GST,4,33,428032,0
+101L180V01,HDFC Life Sampoorn Nivesh Plus,8% incl. GST,5,34,552768,0
+101L180V01,HDFC Life Sampoorn Nivesh Plus,8% incl. GST,6,35,684192,0
+101L180V01,HDFC Life Sampoorn Nivesh Plus,8% incl. GST,7,36,823864,0
+101L180V01,HDFC Life Sampoorn Nivesh Plus,8% incl. GST,8,37,972339,0
+101L180V01,HDFC Life Sampoorn Nivesh Plus,8% incl. GST,9,38,1129984,0
+101L180V01,HDFC Life Sampoorn Nivesh Plus,8% incl. GST,10,39,1297232,0
+101L180V01,HDFC Life Sampoorn Nivesh Plus,8% incl. GST,11,40,1388204,16049
+101L180V01,HDFC Life Sampoorn Nivesh Plus,8% incl. GST,12,41,1468511,0
+101L180V01,HDFC Life Sampoorn Nivesh Plus,8% incl. GST,13,42,1571688,18170
+101L180V01,HDFC Life Sampoorn Nivesh Plus,8% incl. GST,14,43,1663065,0
+101L180V01,HDFC Life Sampoorn Nivesh Plus,8% incl. GST,15,44,1780762,20582
+101L180V01,HDFC Life Sampoorn Nivesh Plus,8% incl. GST,16,45,1885267,0
+101L180V01,HDFC Life Sampoorn Nivesh Plus,8% incl. GST,17,46,2019673,23338
+101L180V01,HDFC Life Sampoorn Nivesh Plus,8% incl. GST,18,47,2139181,0
+101L180V01,HDFC Life Sampoorn Nivesh Plus,8% incl. GST,19,48,2292682,26488
+101L180V01,HDFC Life Sampoorn Nivesh Plus,8% incl. GST,20,49,2429334,0
+104L121V05,Axis Max Life Flexi Wealth Advantage Plan,8% incl. GST,1,30,84394,0
+104L121V05,Axis Max Life Flexi Wealth Advantage Plan,8% incl. GST,2,31,176984,0
+104L121V05,Axis Max Life Flexi Wealth Advantage Plan,8% incl. GST,3,32,282677,0
+104L121V05,Axis Max Life Flexi Wealth Advantage Plan,8% incl. GST,4,33,395102,0
+104L121V05,Axis Max Life Flexi Wealth Advantage Plan,8% incl. GST,5,34,514695,0
+104L121V05,Axis Max Life Flexi Wealth Advantage Plan,8% incl. GST,6,35,646951,0
+104L121V05,Axis Max Life Flexi Wealth Advantage Plan,8% incl. GST,7,36,787672,0
+104L121V05,Axis Max Life Flexi Wealth Advantage Plan,8% incl. GST,8,37,941818,4686
+104L121V05,Axis Max Life Flexi Wealth Advantage Plan,8% incl. GST,9,38,1106289,5504
+104L121V05,Axis Max Life Flexi Wealth Advantage Plan,8% incl. GST,10,39,1281637,6376
+104L121V05,Axis Max Life Flexi Wealth Advantage Plan,8% incl. GST,11,40,1368929,6811
+104L121V05,Axis Max Life Flexi Wealth Advantage Plan,8% incl. GST,12,41,1462166,7274
+104L121V05,Axis Max Life Flexi Wealth Advantage Plan,8% incl. GST,13,42,1561753,7770
+104L121V05,Axis Max Life Flexi Wealth Advantage Plan,8% incl. GST,14,43,1668124,8299
+104L121V05,Axis Max Life Flexi Wealth Advantage Plan,8% incl. GST,15,44,1781739,8864
+104L121V05,Axis Max Life Flexi Wealth Advantage Plan,8% incl. GST,16,45,1903092,9468
+104L121V05,Axis Max Life Flexi Wealth Advantage Plan,8% incl. GST,17,46,2032711,10113
+104L121V05,Axis Max Life Flexi Wealth Advantage Plan,8% incl. GST,18,47,2171158,10802
+104L121V05,Axis Max Life Flexi Wealth Advantage Plan,8% incl. GST,19,48,2319035,11537
+104L121V05,Axis Max Life Flexi Wealth Advantage Plan,8% incl. GST,20,49,2497981,33321
+109L149V01,ABSLI Param Suraksha,8% incl. GST,1,30,90251,0
+109L149V01,ABSLI Param Suraksha,8% incl. GST,2,31,193772,0
+109L149V01,ABSLI Param Suraksha,8% incl. GST,3,32,306397,0
+109L149V01,ABSLI Param Suraksha,8% incl. GST,4,33,427454,0
+109L149V01,ABSLI Param Suraksha,8% incl. GST,5,34,555314,0
+109L149V01,ABSLI Param Suraksha,8% incl. GST,6,35,691110,0
+109L149V01,ABSLI Param Suraksha,8% incl. GST,7,36,835357,0
+109L149V01,ABSLI Param Suraksha,8% incl. GST,8,37,988610,0
+109L149V01,ABSLI Param Suraksha,8% incl. GST,9,38,1151276,0
+109L149V01,ABSLI Param Suraksha,8% incl. GST,10,39,1347873,24000
+109L149V01,ABSLI Param Suraksha,8% incl. GST,11,40,1439896,12000
+109L149V01,ABSLI Param Suraksha,8% incl. GST,12,41,1533252,8000
+109L149V01,ABSLI Param Suraksha,8% incl. GST,13,42,1629980,6000
+109L149V01,ABSLI Param Suraksha,8% incl. GST,14,43,1726257,0
+109L149V01,ABSLI Param Suraksha,8% incl. GST,15,44,1828319,0
+109L149V01,ABSLI Param Suraksha,8% incl. GST,16,45,1936552,0
+109L149V01,ABSLI Param Suraksha,8% incl. GST,17,46,2051293,0
+109L149V01,ABSLI Param Suraksha,8% incl. GST,18,47,2172891,0
+109L149V01,ABSLI Param Suraksha,8% incl. GST,19,48,2302020,0
+109L149V01,ABSLI Param Suraksha,8% incl. GST,20,49,2439258,0
+111L142V01,SBI Life Smart Fortune Builder,8% incl. GST,1,30,93807,0
+111L142V01,SBI Life Smart Fortune Builder,8% incl. GST,2,31,196730,0
+111L142V01,SBI Life Smart Fortune Builder,8% incl. GST,3,32,306225,0
+111L142V01,SBI Life Smart Fortune Builder,8% incl. GST,4,33,423353,0
+111L142V01,SBI Life Smart Fortune Builder,8% incl. GST,5,34,547977,0
+111L142V01,SBI Life Smart Fortune Builder,8% incl. GST,6,35,680804,0
+111L142V01,SBI Life Smart Fortune Builder,8% incl. GST,7,36,822171,0
+111L142V01,SBI Life Smart Fortune Builder,8% incl. GST,8,37,973286,0
+111L142V01,SBI Life Smart Fortune Builder,8% incl. GST,9,38,1133994,0
+111L142V01,SBI Life Smart Fortune Builder,8% incl. GST,10,39,1304794,0
+111L142V01,SBI Life Smart Fortune Builder,8% incl. GST,11,40,1383802,0
+111L142V01,SBI Life Smart Fortune Builder,8% incl. GST,12,41,1467771,0
+111L142V01,SBI Life Smart Fortune Builder,8% incl. GST,13,42,1557013,0
+111L142V01,SBI Life Smart Fortune Builder,8% incl. GST,14,43,1651860,0
+111L142V01,SBI Life Smart Fortune Builder,8% incl. GST,15,44,1752662,0
+111L142V01,SBI Life Smart Fortune Builder,8% incl. GST,16,45,1859794,0
+111L142V01,SBI Life Smart Fortune Builder,8% incl. GST,17,46,1973653,0
+111L142V01,SBI Life Smart Fortune Builder,8% incl. GST,18,47,2094662,0
+111L142V01,SBI Life Smart Fortune Builder,8% incl. GST,19,48,2223271,0
+111L142V01,SBI Life Smart Fortune Builder,8% incl. GST,20,49,2364955,5000
+111L147V01,SBI Life eWealth Plus,8% incl. GST,1,30,103643,0
+111L147V01,SBI Life eWealth Plus,8% incl. GST,2,31,213896,0
+111L147V01,SBI Life eWealth Plus,8% incl. GST,3,32,331192,0
+111L147V01,SBI Life eWealth Plus,8% incl. GST,4,33,455995,0
+111L147V01,SBI Life eWealth Plus,8% incl. GST,5,34,588791,0
+111L147V01,SBI Life eWealth Plus,8% incl. GST,6,35,730109,0
+111L147V01,SBI Life eWealth Plus,8% incl. GST,7,36,880521,0
+111L147V01,SBI Life eWealth Plus,8% incl. GST,8,37,1040622,0
+111L147V01,SBI Life eWealth Plus,8% incl. GST,9,38,1210785,0
+111L147V01,SBI Life eWealth Plus,8% incl. GST,10,39,1391632,0
+111L147V01,SBI Life eWealth Plus,8% incl. GST,11,40,1477557,0
+111L147V01,SBI Life eWealth Plus,8% incl. GST,12,41,1568877,0
+111L147V01,SBI Life eWealth Plus,8% incl. GST,13,42,1665932,0
+111L147V01,SBI Life eWealth Plus,8% incl. GST,14,43,1769082,0
+111L147V01,SBI Life eWealth Plus,8% incl. GST,15,44,1878709,0
+111L147V01,SBI Life eWealth Plus,8% incl. GST,16,45,1995219,0
+111L147V01,SBI Life eWealth Plus,8% incl. GST,17,46,2119047,0
+111L147V01,SBI Life eWealth Plus,8% incl. GST,18,47,2250650,0
+111L147V01,SBI Life eWealth Plus,8% incl. GST,19,48,2390517,0
+111L147V01,SBI Life eWealth Plus,8% incl. GST,20,49,2539167,0
+116L204V01,Bajaj Life Goal Assure IV,8% incl. GST,1,30,103013,0
+116L204V01,Bajaj Life Goal Assure IV,8% incl. GST,2,31,211130,0
+116L204V01,Bajaj Life Goal Assure IV,8% incl. GST,3,32,326141,0
+116L204V01,Bajaj Life Goal Assure IV,8% incl. GST,4,33,448494,0
+116L204V01,Bajaj Life Goal Assure IV,8% incl. GST,5,34,578669,0
+116L204V01,Bajaj Life Goal Assure IV,8% incl. GST,6,35,717181,0
+116L204V01,Bajaj Life Goal Assure IV,8% incl. GST,7,36,864586,0
+116L204V01,Bajaj Life Goal Assure IV,8% incl. GST,8,37,1021477,0
+116L204V01,Bajaj Life Goal Assure IV,8% incl. GST,9,38,1188242,0
+116L204V01,Bajaj Life Goal Assure IV,8% incl. GST,10,39,1377086,11607
+116L204V01,Bajaj Life Goal Assure IV,8% incl. GST,11,40,1463560,0
+116L204V01,Bajaj Life Goal Assure IV,8% incl. GST,12,41,1555466,0
+116L204V01,Bajaj Life Goal Assure IV,8% incl. GST,13,42,1653142,0
+116L204V01,Bajaj Life Goal Assure IV,8% incl. GST,14,43,1756952,0
+116L204V01,Bajaj Life Goal Assure IV,8% incl. GST,15,44,1892945,25664
+116L204V01,Bajaj Life Goal Assure IV,8% incl. GST,16,45,2011814,0
+116L204V01,Bajaj Life Goal Assure IV,8% incl. GST,17,46,2138147,0
+116L204V01,Bajaj Life Goal Assure IV,8% incl. GST,18,47,2272413,0
+116L204V01,Bajaj Life Goal Assure IV,8% incl. GST,19,48,2415111,0
+116L204V01,Bajaj Life Goal Assure IV,8% incl. GST,20,49,2664930,98161
+130L100V03,Bharti AXA Life Wealth Pro,8% incl. GST,1,30,91713,0
+130L100V03,Bharti AXA Life Wealth Pro,8% incl. GST,2,31,191781,0
+130L100V03,Bharti AXA Life Wealth Pro,8% incl. GST,3,32,300739,0
+130L100V03,Bharti AXA Life Wealth Pro,8% incl. GST,4,33,419160,0
+130L100V03,Bharti AXA Life Wealth Pro,8% incl. GST,5,34,547770,1366
+130L100V03,Bharti AXA Life Wealth Pro,8% incl. GST,6,35,678854,0
+130L100V03,Bharti AXA Life Wealth Pro,8% incl. GST,7,36,818349,0
+130L100V03,Bharti AXA Life Wealth Pro,8% incl. GST,8,37,966821,0
+130L100V03,Bharti AXA Life Wealth Pro,8% incl. GST,9,38,1124718,0
+130L100V03,Bharti AXA Life Wealth Pro,8% incl. GST,10,39,1292530,0
+130L100V03,Bharti AXA Life Wealth Pro,8% incl. GST,11,40,1373695,0
+130L100V03,Bharti AXA Life Wealth Pro,8% incl. GST,12,41,1459957,0
+130L100V03,Bharti AXA Life Wealth Pro,8% incl. GST,13,42,1551636,0
+130L100V03,Bharti AXA Life Wealth Pro,8% incl. GST,14,43,1649072,0
+130L100V03,Bharti AXA Life Wealth Pro,8% incl. GST,15,44,1752626,0
+130L100V03,Bharti AXA Life Wealth Pro,8% incl. GST,16,45,1862683,0
+130L100V03,Bharti AXA Life Wealth Pro,8% incl. GST,17,46,1979652,0
+130L100V03,Bharti AXA Life Wealth Pro,8% incl. GST,18,47,2103965,0
+130L100V03,Bharti AXA Life Wealth Pro,8% incl. GST,19,48,2236085,0
+130L100V03,Bharti AXA Life Wealth Pro,8% incl. GST,20,49,2446581,70080
+130L121V01,Bharti AXA Life Wealth Maximizer,8% incl. GST,1,30,101956,0
+130L121V01,Bharti AXA Life Wealth Maximizer,8% incl. GST,2,31,205378,0
+130L121V01,Bharti AXA Life Wealth Maximizer,8% incl. GST,3,32,315370,0
+130L121V01,Bharti AXA Life Wealth Maximizer,8% incl. GST,4,33,432997,0
+130L121V01,Bharti AXA Life Wealth Maximizer,8% incl. GST,5,34,558117,0
+130L121V01,Bharti AXA Life Wealth Maximizer,8% incl. GST,6,35,691224,0
+130L121V01,Bharti AXA Life Wealth Maximizer,8% incl. GST,7,36,834100,0
+130L121V01,Bharti AXA Life Wealth Maximizer,8% incl. GST,8,37,986136,0
+130L121V01,Bharti AXA Life Wealth Maximizer,8% incl. GST,9,38,1149036,0
+130L121V01,Bharti AXA Life Wealth Maximizer,8% incl. GST,10,39,1322166,0
+130L121V01,Bharti AXA Life Wealth Maximizer,8% incl. GST,11,40,1441313,37036
+130L121V01,Bharti AXA Life Wealth Maximizer,8% incl. GST,12,41,1568196,37289
+130L121V01,Bharti AXA Life Wealth Maximizer,8% incl. GST,13,42,1703316,37559
+130L121V01,Bharti AXA Life Wealth Maximizer,8% incl. GST,14,43,1847208,37846
+130L121V01,Bharti AXA Life Wealth Maximizer,8% incl. GST,15,44,2000441,38152
+130L121V01,Bharti AXA Life Wealth Maximizer,8% incl. GST,16,45,2129396,4250
+130L121V01,Bharti AXA Life Wealth Maximizer,8% incl. GST,17,46,2266722,4524
+130L121V01,Bharti AXA Life Wealth Maximizer,8% incl. GST,18,47,2412963,4816
+130L121V01,Bharti AXA Life Wealth Maximizer,8% incl. GST,19,48,2568699,5127
+130L121V01,Bharti AXA Life Wealth Maximizer,8% incl. GST,20,49,2734546,5458
+130L123V01,Bharti AXA Life Growth Shield Plus,8% incl. GST,1,30,82829,0
+130L123V01,Bharti AXA Life Growth Shield Plus,8% incl. GST,2,31,178462,0
+130L123V01,Bharti AXA Life Growth Shield Plus,8% incl. GST,3,32,283953,0
+130L123V01,Bharti AXA Life Growth Shield Plus,8% incl. GST,4,33,396176,0
+130L123V01,Bharti AXA Life Growth Shield Plus,8% incl. GST,5,34,519329,0
+130L123V01,Bharti AXA Life Growth Shield Plus,8% incl. GST,6,35,650364,0
+130L123V01,Bharti AXA Life Growth Shield Plus,8% incl. GST,7,36,789806,0
+130L123V01,Bharti AXA Life Growth Shield Plus,8% incl. GST,8,37,938218,0
+130L123V01,Bharti AXA Life Growth Shield Plus,8% incl. GST,9,38,1096095,0
+130L123V01,Bharti AXA Life Growth Shield Plus,8% incl. GST,10,39,1287885,24000
+130L123V01,Bharti AXA Life Growth Shield Plus,8% incl. GST,11,40,1374358,12000
+130L123V01,Bharti AXA Life Growth Shield Plus,8% incl. GST,12,41,1460194,6000
+130L123V01,Bharti AXA Life Growth Shield Plus,8% incl. GST,13,42,1551345,6000
+130L123V01,Bharti AXA Life Growth Shield Plus,8% incl. GST,14,43,1642127,0
+130L123V01,Bharti AXA Life Growth Shield Plus,8% incl. GST,15,44,1738509,0
+130L123V01,Bharti AXA Life Growth Shield Plus,8% incl. GST,16,45,1840816,0
+130L123V01,Bharti AXA Life Growth Shield Plus,8% incl. GST,17,46,1949397,0
+130L123V01,Bharti AXA Life Growth Shield Plus,8% incl. GST,18,47,2064615,0
+130L123V01,Bharti AXA Life Growth Shield Plus,8% incl. GST,19,48,2186946,0
+130L123V01,Bharti AXA Life Growth Shield Plus,8% incl. GST,20,49,2316958,0
+130L123V01,Bharti AXA Life Growth Shield Plus,8% incl. GST,21,50,2455134,0
+130L123V01,Bharti AXA Life Growth Shield Plus,8% incl. GST,22,51,2601987,0
+130L123V01,Bharti AXA Life Growth Shield Plus,8% incl. GST,23,52,2758061,0
+130L123V01,Bharti AXA Life Growth Shield Plus,8% incl. GST,24,53,2923937,0
+130L123V01,Bharti AXA Life Growth Shield Plus,8% incl. GST,25,54,3100229,0
+130L123V01,Bharti AXA Life Growth Shield Plus,8% incl. GST,26,55,3287591,0
+130L123V01,Bharti AXA Life Growth Shield Plus,8% incl. GST,27,56,3486719,0
+130L123V01,Bharti AXA Life Growth Shield Plus,8% incl. GST,28,57,3698351,0
+130L123V01,Bharti AXA Life Growth Shield Plus,8% incl. GST,29,58,3923272,0
+130L123V01,Bharti AXA Life Growth Shield Plus,8% incl. GST,30,59,5156461,994143
+130L128V01,Bharti AXA Life Grow Wealth Ultra,8% incl. GST,1,30,255721,0
+130L128V01,Bharti AXA Life Grow Wealth Ultra,8% incl. GST,2,31,527739,0
+130L128V01,Bharti AXA Life Grow Wealth Ultra,8% incl. GST,3,32,817097,0
+130L128V01,Bharti AXA Life Grow Wealth Ultra,8% incl. GST,4,33,1124934,0
+130L128V01,Bharti AXA Life Grow Wealth Ultra,8% incl. GST,5,34,1452439,0
+130L128V01,Bharti AXA Life Grow Wealth Ultra,8% incl. GST,6,35,1800923,0
+130L128V01,Bharti AXA Life Grow Wealth Ultra,8% incl. GST,7,36,2171782,0
+130L128V01,Bharti AXA Life Grow Wealth Ultra,8% incl. GST,8,37,2566499,0
+130L128V01,Bharti AXA Life Grow Wealth Ultra,8% incl. GST,9,38,2986044,0
+130L128V01,Bharti AXA Life Grow Wealth Ultra,8% incl. GST,10,39,3431934,0
+130L128V01,Bharti AXA Life Grow Wealth Ultra,8% incl. GST,11,40,3643785,0
+130L128V01,Bharti AXA Life Grow Wealth Ultra,8% incl. GST,12,41,3868940,0
+130L128V01,Bharti AXA Life Grow Wealth Ultra,8% incl. GST,13,42,4108233,0
+130L128V01,Bharti AXA Life Grow Wealth Ultra,8% incl. GST,14,43,4362553,0
+130L128V01,Bharti AXA Life Grow Wealth Ultra,8% incl. GST,15,44,4632842,0
+130L128V01,Bharti AXA Life Grow Wealth Ultra,8% incl. GST,16,45,4920105,0
+130L128V01,Bharti AXA Life Grow Wealth Ultra,8% incl. GST,17,46,5225407,0
+130L128V01,Bharti AXA Life Grow Wealth Ultra,8% incl. GST,18,47,5549880,0
+130L128V01,Bharti AXA Life Grow Wealth Ultra,8% incl. GST,19,48,5894729,0
+130L128V01,Bharti AXA Life Grow Wealth Ultra,8% incl. GST,20,49,6632337,371105
+135L101V01,Ageas Federal Life ProGrow Plan,8% incl. GST,1,30,97168,0
+135L101V01,Ageas Federal Life ProGrow Plan,8% incl. GST,2,31,200529,0
+135L101V01,Ageas Federal Life ProGrow Plan,8% incl. GST,3,32,311741,0
+135L101V01,Ageas Federal Life ProGrow Plan,8% incl. GST,4,33,429435,0
+135L101V01,Ageas Federal Life ProGrow Plan,8% incl. GST,5,34,554654,0
+135L101V01,Ageas Federal Life ProGrow Plan,8% incl. GST,6,35,687891,0
+135L101V01,Ageas Federal Life ProGrow Plan,8% incl. GST,7,36,830967,0
+135L101V01,Ageas Federal Life ProGrow Plan,8% incl. GST,8,37,983253,0
+135L101V01,Ageas Federal Life ProGrow Plan,8% incl. GST,9,38,1145178,0
+135L101V01,Ageas Federal Life ProGrow Plan,8% incl. GST,10,39,1328053,9685
+135L101V01,Ageas Federal Life ProGrow Plan,8% incl. GST,11,40,1406357,0
+135L101V01,Ageas Federal Life ProGrow Plan,8% incl. GST,12,41,1489468,0
+135L101V01,Ageas Federal Life ProGrow Plan,8% incl. GST,13,42,1577688,0
+135L101V01,Ageas Federal Life ProGrow Plan,8% incl. GST,14,43,1671312,0
+135L101V01,Ageas Federal Life ProGrow Plan,8% incl. GST,15,44,1786079,15421
+135L101V01,Ageas Federal Life ProGrow Plan,8% incl. GST,16,45,1892445,0
+135L101V01,Ageas Federal Life ProGrow Plan,8% incl. GST,17,46,2005260,0
+135L101V01,Ageas Federal Life ProGrow Plan,8% incl. GST,18,47,2125082,0
+135L101V01,Ageas Federal Life ProGrow Plan,8% incl. GST,19,48,2252429,0
+135L101V01,Ageas Federal Life ProGrow Plan,8% incl. GST,20,49,2557042,169268
+136L092V02,Canara HSBC Life SecureInvest,8% incl. GST,1,30,93907,0
+136L092V02,Canara HSBC Life SecureInvest,8% incl. GST,2,31,197563,0
+136L092V02,Canara HSBC Life SecureInvest,8% incl. GST,3,32,307833,0
+136L092V02,Canara HSBC Life SecureInvest,8% incl. GST,4,33,425137,0
+136L092V02,Canara HSBC Life SecureInvest,8% incl. GST,5,34,549938,0
+136L092V02,Canara HSBC Life SecureInvest,8% incl. GST,6,35,682907,0
+136L092V02,Canara HSBC Life SecureInvest,8% incl. GST,7,36,824406,0
+136L092V02,Canara HSBC Life SecureInvest,8% incl. GST,8,37,975013,0
+136L092V02,Canara HSBC Life SecureInvest,8% incl. GST,9,38,1135166,0
+136L092V02,Canara HSBC Life SecureInvest,8% incl. GST,10,39,1324583,19207
+136L092V02,Canara HSBC Life SecureInvest,8% incl. GST,11,40,1401662,0
+136L092V02,Canara HSBC Life SecureInvest,8% incl. GST,12,41,1483582,0
+136L092V02,Canara HSBC Life SecureInvest,8% incl. GST,13,42,1570645,0
+136L092V02,Canara HSBC Life SecureInvest,8% incl. GST,14,43,1663176,0
+136L092V02,Canara HSBC Life SecureInvest,8% incl. GST,15,44,1794075,30716
+136L092V02,Canara HSBC Life SecureInvest,8% incl. GST,16,45,1902324,0
+136L092V02,Canara HSBC Life SecureInvest,8% incl. GST,17,46,2017191,0
+136L092V02,Canara HSBC Life SecureInvest,8% incl. GST,18,47,2139089,0
+136L092V02,Canara HSBC Life SecureInvest,8% incl. GST,19,48,2268418,0
+136L092V02,Canara HSBC Life SecureInvest,8% incl. GST,20,49,2659237,253638
+512L354V01,LIC's Index Plus,8% incl. GST,1,30,94786,0
+512L354V01,LIC's Index Plus,8% incl. GST,2,31,198781,0
+512L354V01,LIC's Index Plus,8% incl. GST,3,32,309442,0
+512L354V01,LIC's Index Plus,8% incl. GST,4,33,427204,0
+512L354V01,LIC's Index Plus,8% incl. GST,5,34,552539,0
+512L354V01,LIC's Index Plus,8% incl. GST,6,35,691008,5000
+512L354V01,LIC's Index Plus,8% incl. GST,7,36,833338,0
+512L354V01,LIC's Index Plus,8% incl. GST,8,37,984811,0
+512L354V01,LIC's Index Plus,8% incl. GST,9,38,1145797,0
+512L354V01,LIC's Index Plus,8% incl. GST,10,39,1326788,10000
+512L354V01,LIC's Index Plus,8% incl. GST,11,40,1509032,0
+512L354V01,LIC's Index Plus,8% incl. GST,12,41,1702604,0
+512L354V01,LIC's Index Plus,8% incl. GST,13,42,1908209,0
+512L354V01,LIC's Index Plus,8% incl. GST,14,43,2126596,0
+512L354V01,LIC's Index Plus,8% incl. GST,15,44,2378561,20000
+512L354V01,LIC's Index Plus,8% incl. GST,16,45,2626207,0
+512L354V01,LIC's Index Plus,8% incl. GST,17,46,2889256,0
+512L354V01,LIC's Index Plus,8% incl. GST,18,47,3168665,0
+512L354V01,LIC's Index Plus,8% incl. GST,19,48,3465457,0
+512L354V01,LIC's Index Plus,8% incl. GST,20,49,3811530,30817

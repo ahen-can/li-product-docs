@@ -1,0 +1,158 @@
+{
+ "product": "LIC's Index Plus",
+ "variant_used": "Regular pay (premium term equals policy term) 20 years, offline sale, cover 10x, Flexi Growth Fund",
+ "sum_assured_multiple": 10,
+ "fmc_pct": 1.35,
+ "allocation_charge_pct": [
+  [
+   1,
+   1,
+   8.0
+  ],
+  [
+   2,
+   5,
+   5.5
+  ],
+  [
+   6,
+   null,
+   4.0
+  ]
+ ],
+ "admin": {
+  "basis": "flat",
+  "schedule": [
+   [
+    1,
+    5,
+    0.0
+   ],
+   [
+    6,
+    null,
+    125.0
+   ]
+  ],
+  "escalation_pa": 0.05,
+  "escalation_from_year": 6,
+  "cap_per_month": 500
+ },
+ "additions": [
+  {
+   "name": "Guaranteed Additions (% of annualised premium, Rs 48,000 and above)",
+   "type": "pct_ap_years",
+   "years": [
+    6,
+    10,
+    15,
+    20
+   ],
+   "pct_by_year": {
+    "6": 5,
+    "10": 10,
+    "15": 20,
+    "20": 25
+   }
+  },
+  {
+   "name": "Return of mortality charges at maturity",
+   "type": "refund_at_maturity",
+   "charges": [
+    "mort"
+   ]
+  }
+ ],
+ "standard_profile": {
+  "age": 30,
+  "ap": 100000,
+  "ppt": 20,
+  "pt": 20
+ },
+ "note": "Regular pay only: premiums for all 20 years (Rs 20 lakh in total), so compare the yield, not the maturity amount.",
+ "sources": "Policy Document p.14 (allocation), p.16 (admin, FMC), p.19-20 (mortality table), p.6 (guaranteed additions), p.5 (return of mortality charges), p.3 (eligibility)",
+ "mortality_per_1000": {
+  "2": 1.24,
+  "3": 0.63,
+  "4": 0.37,
+  "5": 0.25,
+  "6": 0.21,
+  "7": 0.2,
+  "8": 0.23,
+  "9": 0.28,
+  "10": 0.36,
+  "11": 0.46,
+  "12": 0.58,
+  "13": 0.7,
+  "14": 0.83,
+  "15": 0.94,
+  "16": 1.04,
+  "17": 1.12,
+  "18": 1.18,
+  "19": 1.22,
+  "20": 1.25,
+  "21": 1.26,
+  "22": 1.26,
+  "23": 1.26,
+  "24": 1.26,
+  "25": 1.26,
+  "26": 1.26,
+  "27": 1.26,
+  "28": 1.27,
+  "29": 1.29,
+  "30": 1.32,
+  "31": 1.36,
+  "32": 1.41,
+  "33": 1.47,
+  "34": 1.54,
+  "35": 1.62,
+  "36": 1.72,
+  "37": 1.83,
+  "38": 1.96,
+  "39": 2.11,
+  "40": 2.27,
+  "41": 2.45,
+  "42": 2.66,
+  "43": 2.89,
+  "44": 3.17,
+  "45": 3.48,
+  "46": 3.85,
+  "47": 4.28,
+  "48": 4.77,
+  "49": 5.34,
+  "50": 5.99,
+  "51": 6.71,
+  "52": 7.49,
+  "53": 8.33,
+  "54": 9.22,
+  "55": 10.14,
+  "56": 11.09,
+  "57": 12.05,
+  "58": 13.03,
+  "59": 14.03,
+  "60": 15.07,
+  "61": 16.16,
+  "62": 17.32,
+  "63": 18.58,
+  "64": 19.97,
+  "65": 21.51,
+  "66": 23.23,
+  "67": 25.16,
+  "68": 27.32,
+  "69": 29.75,
+  "70": 32.48,
+  "71": 35.52,
+  "72": 38.92,
+  "73": 42.71,
+  "74": 46.92,
+  "75": 51.6,
+  "76": 56.78,
+  "77": 62.53,
+  "78": 68.88,
+  "79": 75.91,
+  "80": 83.68,
+  "81": 92.26
+ },
+ "mortality_source": "policy.txt lines 1201-1229, PDF page(s) [19, 20], ages 2-81 (male / unisex table, age last birthday)",
+ "uin": "512L354V01"
+}
