@@ -1,0 +1,830 @@
+{
+ "product": {
+  "uin": {
+   "value": "104L075V11",
+   "status": "n/a",
+   "doc": "FYPP_Policy_Document_0392bd543f.pdf",
+   "page": 3,
+   "quote": "UIN [104L075V11]",
+   "note": null
+  },
+  "uin_in_brochure": {
+   "value": "104L075V11",
+   "status": "n/a",
+   "doc": "FYPP_Prospectus_d730250c0e.pdf",
+   "page": 1,
+   "quote": "UIN: 104L075V11",
+   "note": null
+  },
+  "product_name": {
+   "value": "Axis Max Life Forever Young Pension Plan",
+   "status": "n/a",
+   "doc": "FYPP_Prospectus_d730250c0e.pdf",
+   "page": 1,
+   "quote": "Axis Max Life Forever Young Pension Plan",
+   "note": null
+  },
+  "irdai_description_line": {
+   "value": "A Unit-Linked Non-Participating Individual Pension Plan",
+   "status": "n/a",
+   "doc": "FYPP_Prospectus_d730250c0e.pdf",
+   "page": 1,
+   "quote": "Pension Plan",
+   "note": null
+  },
+  "launch_or_version_date": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "variants_or_plan_options": {
+   "value": [
+    "Single Pay",
+    "Limited Pay",
+    "Regular Pay",
+    "Save More Tomorrow (top-up option)"
+   ],
+   "status": "optional (at inception)",
+   "doc": "FYPP_Prospectus_d730250c0e.pdf",
+   "page": 4,
+   "quote": "Regular Pay and Limited Pay- Annual, Semi Annual, Quarterly & Monthly modes are offered",
+   "note": null
+  },
+  "target_segment_stated": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "online_offline": {
+   "value": "both",
+   "status": "n/a",
+   "doc": "FYPP_Prospectus_d730250c0e.pdf",
+   "page": 8,
+   "quote": "The product will also be sold through online mode.",
+   "note": null
+  }
+ },
+ "eligibility": {
+  "entry_age_min": {
+   "value": 18,
+   "status": "n/a",
+   "doc": "FYPP_Prospectus_d730250c0e.pdf",
+   "page": 3,
+   "quote": "Minimum: 18 years",
+   "note": null
+  },
+  "entry_age_max": {
+   "value": 70,
+   "status": "n/a",
+   "doc": "FYPP_Prospectus_d730250c0e.pdf",
+   "page": 3,
+   "quote": "Maximum: 70 years",
+   "note": null
+  },
+  "maturity_age_min": {
+   "value": {
+    "standard": 40,
+    "QROPS": 55
+   },
+   "status": "n/a",
+   "doc": "FYPP_Prospectus_d730250c0e.pdf",
+   "page": 3,
+   "quote": "Minimum: 40 years (55 years for policies sourced under Qualifying Recognized Overseas",
+   "note": "age at vesting"
+  },
+  "maturity_age_max": {
+   "value": 80,
+   "status": "n/a",
+   "doc": "FYPP_Prospectus_d730250c0e.pdf",
+   "page": 4,
+   "quote": "Maximum: 80 years",
+   "note": "age at vesting"
+  },
+  "policy_term_options": {
+   "value": "vesting age less entry age; minimum 10 years, maximum 80 less entry age",
+   "status": "n/a",
+   "doc": "FYPP_Prospectus_d730250c0e.pdf",
+   "page": 4,
+   "quote": "Minimum policy term is 10 years",
+   "note": null
+  },
+  "ppt_options": {
+   "value": {
+    "single pay": 1,
+    "limited pay": "5 to 15",
+    "regular pay": "equal to policy term"
+   },
+   "status": "n/a",
+   "doc": "FYPP_Prospectus_d730250c0e.pdf",
+   "page": 4,
+   "quote": "For Limited Pay – 5 years",
+   "note": null,
+   "quote_2": "For Limited Pay – 15 years",
+   "page_2": 4,
+   "quote_3": "For Regular Pay – Same as policy term",
+   "page_3": 4
+  },
+  "premium_min_annual": {
+   "value": {
+    "regular and limited pay": 24000
+   },
+   "status": "n/a",
+   "doc": "FYPP_Prospectus_d730250c0e.pdf",
+   "page": 4,
+   "quote": "For Regular Pay and Limited Pay - ` Rs. 24,000 per annum for all premium payment modes",
+   "note": null,
+   "quote_2": "The minimum amount for Top-up premium is ` Rs. 1,000",
+   "page_2": 13
+  },
+  "premium_min_single": {
+   "value": 100000,
+   "status": "n/a",
+   "doc": "FYPP_Prospectus_d730250c0e.pdf",
+   "page": 4,
+   "quote": "For Single Pay - Rs. 100,000",
+   "note": null
+  },
+  "premium_max": {
+   "value": "no limit, subject to underwriting",
+   "status": "n/a",
+   "doc": "FYPP_Prospectus_d730250c0e.pdf",
+   "page": 4,
+   "quote": "Maximum per annum Premium: No limit, subject to underwriting",
+   "note": null
+  },
+  "sum_assured_rule": {
+   "value": {
+    "rule": "105% of total premiums paid, excluding rider charges",
+    "minimum": {
+     "single pay": 105000,
+     "regular and limited pay": 25200
+    },
+    "maximum": "no limit, subject to underwriting"
+   },
+   "status": "built-in",
+   "doc": "FYPP_Prospectus_d730250c0e.pdf",
+   "page": 5,
+   "quote": "Sum assured on death in this product is 105% of Total Premiums Paid, exclusive of rider",
+   "note": null,
+   "quote_2": "For Single Pay - Rs. 1,05,000",
+   "page_2": 6,
+   "quote_3": "For Regular Pay and Limited Pay - Rs. 25,200",
+   "page_3": 6
+  },
+  "premium_modes": {
+   "value": "single, annual, semi-annual, quarterly, monthly",
+   "status": "n/a",
+   "doc": "FYPP_Prospectus_d730250c0e.pdf",
+   "page": 4,
+   "quote": "Annual, Semi Annual, Quarterly & Monthly modes are offered",
+   "note": null
+  },
+  "life_cover_multiple_choice": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  }
+ },
+ "charges": {
+  "premium_allocation_charge": {
+   "value": {
+    "single pay": "0%",
+    "regular and limited pay, offline": {
+     "annual mode": {
+      "Y1": "12%",
+      "Y2+": "4%"
+     },
+     "non-annual modes": {
+      "Y1": "9%",
+      "Y2+": "3%"
+     }
+    },
+    "regular and limited pay, online": {
+     "annual mode": "0.75%",
+     "non-annual modes": "0%"
+    },
+    "top-up": "1%"
+   },
+   "status": "built-in",
+   "doc": "FYPP_Prospectus_d730250c0e.pdf",
+   "page": 13,
+   "quote": "Annual premium payment mode : 12% of each modal premium in first policy year, 4% of each modal premium 2nd policy year onwards",
+   "note": null,
+   "quote_2": "Non-Annual premium payment mode: 9% of each modal premium in first policy year, 3% of each modal premium 2nd policy year onwards",
+   "page_2": 13,
+   "quote_3": "Annual premium payment mode: 0.75% of each modal premium Non-Annual premium payment mode: 0% of each modal premium",
+   "page_3": 13,
+   "quote_4": "1% of Top Up Premium",
+   "page_4": 13
+  },
+  "policy_administration_charge": {
+   "value": {
+    "single pay": "0.08% of single premium per month, rising 4% a year from year 2, max Rs 400 per month",
+    "regular and limited pay, non-ISNP": {
+     "Y1-5": "0.1% of annual premium per month",
+     "Y6-10": "0.45%",
+     "Y11-15": "0.2%",
+     "Y16+": "0.5%",
+     "cap": "Rs 500 per month"
+    },
+    "ISNP": "1% of annual premium per month with caps of Rs 100 to Rs 350 by premium band"
+   },
+   "status": "built-in",
+   "doc": "FYPP_Prospectus_d730250c0e.pdf",
+   "page": 14,
+   "quote": "Single Pay: 0.08% of the Single Premium per month increasing @ 4% p.a. starting year 2.",
+   "note": null,
+   "quote_2": "o During policy years 1 to 5: 0.1% of Annual Premium per month o During policy years 6 to 10: 0.45% of Annual Premium per month",
+   "page_2": 14,
+   "quote_3": "o During policy years 11-15: 0.2% of Annual Premium per month o Policy year 16+: 0.5% of Annual Premium per month",
+   "page_3": 14
+  },
+  "fund_management_charge": {
+   "value": {
+    "1.35%": "Multifactor, High Growth, Dividend Leaders, BSE 500 Value, Sustainable Wealth, Smart Innovation and Flexi Cap pension funds",
+    "1.25%": "UL Pension Growth Super and Pension Life Growth",
+    "1.10%": "Pension Life Balanced",
+    "0.90%": "Pension Life Conservative and Secured",
+    "0.50%": "Pension Discontinuance Policy Fund"
+   },
+   "status": "built-in",
+   "doc": "FYPP_Prospectus_d730250c0e.pdf",
+   "page": 14,
+   "quote": "Axis Max Life Pension Life Balanced Fund 1.10%",
+   "note": "full list in the funds group",
+   "quote_2": "Axis Max Life Pension Life Conservative Fund 0.90%",
+   "page_2": 14,
+   "quote_3": "In case of Pension Discontinuance Policy Fund, Fund Management Charge of 0.50% per annum will be deducted.",
+   "page_3": 14
+  },
+  "mortality_charge": {
+   "value": {
+    "basis": "per 1,000 sum at risk on attained age; sum at risk is 105% of premiums paid less fund value",
+    "sample_rates_male": {
+     "age 30": 0.98,
+     "age 35": 1.2,
+     "age 40": 1.68,
+     "age 45": 2.58
+    }
+   },
+   "status": "built-in",
+   "doc": "FYPP_Prospectus_d730250c0e.pdf",
+   "page": 15,
+   "quote": "Male Age 30 35 40 45 Mortality Charge (`Rs.) 0.98 1.2 1.68 2.58",
+   "note": "sample ages; the policy document p.22 prints the full male and female table by attained age"
+  },
+  "discontinuance_charge": {
+   "value": {
+    "regular and limited pay, AP up to Rs 50,000": {
+     "Y1": "lower of 20% x (AP or FV), max Rs 3,000",
+     "Y2": "15%, max Rs 2,000",
+     "Y3": "10%, max Rs 1,500",
+     "Y4": "5%, max Rs 1,000",
+     "Y5+": "nil"
+    },
+    "regular and limited pay, AP above Rs 50,000": {
+     "Y1": "6%, max Rs 6,000",
+     "Y2": "4%, max Rs 5,000",
+     "Y3": "3%, max Rs 4,000",
+     "Y4": "2%, max Rs 2,000",
+     "Y5+": "nil"
+    }
+   },
+   "status": "built-in",
+   "doc": "FYPP_Prospectus_d730250c0e.pdf",
+   "page": 16,
+   "quote": "Lower of 20% * (AP or FV) Lower of 6% * (AP subject to a maximum of Rs or FV) subject to a In 1st Policy Year 3000 maximum of Rs 6000",
+   "note": "single pay table on prospectus p.17 is not recorded here",
+   "quote_2": "In 2nd Policy Year 2000 maximum of Rs 5000",
+   "page_2": 16,
+   "quote_3": "Surrender Charge Lower of 10% * (AP or FV) Lower of 3% * (AP subject to a maximum of Rs or FV) subject to a In 3rd Policy Year 1500 maximum of Rs 4000",
+   "page_3": 16,
+   "quote_4": "In 4th Policy Year 1000 maximum of Rs 2000 In 5th Policy Year and onwards Nil Nil",
+   "page_4": 16
+  },
+  "switching_charge": {
+   "value": "nil; no limit on switches; minimum Rs 500",
+   "status": "built-in",
+   "doc": "FYPP_Prospectus_d730250c0e.pdf",
+   "page": 15,
+   "quote": "There is no limit on number of switches done in a",
+   "note": null
+  },
+  "partial_withdrawal_charge": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "premium_redirection_charge": {
+   "value": "nil; no cap on redirections",
+   "status": "built-in",
+   "doc": "FYPP_Prospectus_d730250c0e.pdf",
+   "page": 15,
+   "quote": "There is no cap on the number of",
+   "note": null
+  },
+  "miscellaneous_charge": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "guarantee_charge": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "rider_charges": {
+   "value": "nil",
+   "status": "built-in",
+   "doc": "FYPP_Prospectus_d730250c0e.pdf",
+   "page": 16,
+   "quote": "Rider Charge Nil",
+   "note": null
+  },
+  "any_charge_returned": {
+   "value": null,
+   "status": "not offered",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": "no return of charges"
+  }
+ },
+ "benefits": {
+  "death_benefit_formula": {
+   "value": "higher of fund value and 105% of total premiums paid, excluding rider charges; paid as annuity purchase or lump sum",
+   "status": "built-in",
+   "doc": "FYPP_Prospectus_d730250c0e.pdf",
+   "page": 6,
+   "quote": "Higher of the Fund Value as on the date of the death or 105% of the Total Premiums Paid",
+   "note": null
+  },
+  "maturity_benefit": {
+   "value": "fund value at vesting: commute up to 60% and buy an annuity with the rest, extend accumulation (age under 60), or buy an annuity with all of it",
+   "status": "built-in",
+   "doc": "FYPP_Prospectus_d730250c0e.pdf",
+   "page": 3,
+   "quote": "To commute up to 60% of the Fund Value and to utilize the balance amount to purchase an immediate annuity",
+   "note": null
+  },
+  "loyalty_additions": {
+   "value": {
+    "rate": "0.50% of fund value at the end of each policy year from year 10, rising 0.02% (absolute) a year from year 11",
+    "applies": "premium-paying regular, limited and single pay policies"
+   },
+   "status": "built-in",
+   "doc": "FYPP_Prospectus_d730250c0e.pdf",
+   "page": 7,
+   "quote": "0.50% of the Fund Value shall be added to the fund by creation of additional units, at the end of every policy year starting end of 10th policy year.",
+   "note": null,
+   "quote_2": "Guaranteed Loyalty Additions shall be payable in case of Regular Pay, Limited Pay and Single Pay variants.",
+   "page_2": 8
+  },
+  "wealth_boosters_or_guaranteed_additions": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "return_of_mortality_charges": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "return_of_premium_allocation_charges": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "return_of_policy_admin_charges": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "other_additions": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  }
+ },
+ "flexibility": {
+  "fund_switching": {
+   "value": "unlimited free switches; minimum Rs 500",
+   "status": "optional (during term)",
+   "doc": "FYPP_Prospectus_d730250c0e.pdf",
+   "page": 15,
+   "quote": "subject to a minimum switch amount of Rs. 500",
+   "note": null
+  },
+  "premium_redirection": {
+   "value": "unlimited and free",
+   "status": "optional (during term)",
+   "doc": "FYPP_Prospectus_d730250c0e.pdf",
+   "page": 15,
+   "quote": "There is no cap on the number of premium redirection during a year and all are free of charge.",
+   "note": null
+  },
+  "partial_withdrawals": {
+   "value": {
+    "from": "after 5 years",
+    "maximum": "25% of fund value",
+    "count": "three times in the whole term",
+    "reasons": "listed purposes only (education, marriage, house, critical illness, disability, skill development, own venture)"
+   },
+   "status": "optional (during term)",
+   "doc": "FYPP_Prospectus_d730250c0e.pdf",
+   "page": 15,
+   "quote": "Total partial withdrawal shall not exceed 25% of Fund Value as on the date of",
+   "note": null,
+   "quote_2": "Partial Withdrawal shall be allowed only three times during the entire term of",
+   "page_2": 15
+  },
+  "systematic_withdrawal_plan": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "top_up_premiums": {
+   "value": {
+    "minimum": "Rs 1,000",
+    "frequency": "up to 12 a year",
+    "cap": "150% of annual premium paid in a year",
+    "allocation charge": "1%",
+    "lock-in": "5 years per top-up except in the last 5 policy years"
+   },
+   "status": "optional (during term)",
+   "doc": "FYPP_Prospectus_d730250c0e.pdf",
+   "page": 13,
+   "quote": "A maximum of twelve Top-ups are allowed in any policy year",
+   "note": null,
+   "quote_2": "Total Top-up premium in any policy year cannot be more than 150% of the Annual Premium paid",
+   "page_2": 13
+  },
+  "settlement_option": {
+   "value": "not available for death benefit",
+   "status": "n/a",
+   "doc": "FYPP_Prospectus_d730250c0e.pdf",
+   "page": 2,
+   "quote": "Settlement option will not be provided",
+   "note": null
+  },
+  "premium_holiday_or_offset": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "increase_decrease_cover": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "change_ppt_or_term": {
+   "value": "accumulation period can be extended before vesting if age is under 60",
+   "status": "optional (during term)",
+   "doc": "FYPP_Prospectus_d730250c0e.pdf",
+   "page": 12,
+   "quote": "You can opt to extend the accumulation period up to prior to the vesting of",
+   "note": null
+  },
+  "policy_loan": {
+   "value": "not allowed",
+   "status": "n/a",
+   "doc": "FYPP_Prospectus_d730250c0e.pdf",
+   "page": 8,
+   "quote": "Loans are not allowed for this product.",
+   "note": null
+  },
+  "auto_portfolio_strategies": {
+   "value": [
+    {
+     "name": "Save More Tomorrow",
+     "mechanics": "top-up premium that rises 5% (simple) a year, up to 150% of annual premium; chosen at inception"
+    }
+   ],
+   "status": "optional (at inception)",
+   "doc": "FYPP_Prospectus_d730250c0e.pdf",
+   "page": 13,
+   "quote": "progressively paying 5% (simple) additional Top up premium every year till the end of the",
+   "note": null
+  }
+ },
+ "funds": {
+  "fund_count": {
+   "value": 12,
+   "status": "n/a",
+   "doc": "FYPP_Prospectus_d730250c0e.pdf",
+   "page": 8,
+   "quote": "We offer you to choose any of the twelve investment funds offered under the product.",
+   "note": null
+  },
+  "fund_list": {
+   "value": [
+    {
+     "name": "Axis Max Life UL Pension Growth Super Fund",
+     "SFIN": "ULIF01213/08/07PENSGRWSUP104",
+     "FMC_pct": 1.25,
+     "asset_allocation": "see prospectus fund table",
+     "risk_label": null
+    },
+    {
+     "name": "Axis Max Life Pension Life Growth Fund",
+     "SFIN": "ULIF00525/11/05PENSGROWTH104",
+     "FMC_pct": 1.25,
+     "asset_allocation": "see prospectus fund table",
+     "risk_label": null
+    },
+    {
+     "name": "Axis Max Life Pension Life Balanced Fund",
+     "SFIN": "ULIF00625/11/05PENSBALANC104",
+     "FMC_pct": 1.1,
+     "asset_allocation": "see prospectus fund table",
+     "risk_label": null
+    },
+    {
+     "name": "Axis Max Life Pension Life Conservative Fund",
+     "SFIN": "ULIF00725/11/05PENSCONSER104",
+     "FMC_pct": 0.9,
+     "asset_allocation": "see prospectus fund table",
+     "risk_label": null
+    },
+    {
+     "name": "Axis Max Life Pension Life Secured Fund",
+     "SFIN": "ULIF00825/11/05PENSSECURE104",
+     "FMC_pct": 0.9,
+     "asset_allocation": "see prospectus fund table",
+     "risk_label": null
+    },
+    {
+     "name": "Axis Max Life NIFTY 500 Multifactor 50 Index Pension Fund",
+     "SFIN": "ULIF03523/06/25PENSMULFAC104",
+     "FMC_pct": 1.35,
+     "asset_allocation": "see prospectus fund table",
+     "risk_label": null
+    },
+    {
+     "name": "Axis Max Life High Growth Pension Fund",
+     "SFIN": "ULIF03722/09/25PENSHIGHGR104",
+     "FMC_pct": 1.35,
+     "asset_allocation": "see prospectus fund table",
+     "risk_label": null
+    },
+    {
+     "name": "Axis Max Life BSE 500 Dividend leaders 50 Index Pension Fund",
+     "SFIN": "ULIF04017/11/25PENDIVLEAD104",
+     "FMC_pct": 1.35,
+     "asset_allocation": "see prospectus fund table",
+     "risk_label": null
+    },
+    {
+     "name": "Axis Max Life BSE 500 Value 50 Index Pension Fund",
+     "SFIN": "ULIF04408/01/26BSEVALIPEN104",
+     "FMC_pct": 1.35,
+     "asset_allocation": "see prospectus fund table",
+     "risk_label": null
+    },
+    {
+     "name": "Axis Max Life Sustainable Wealth 50 Index Pension Fund",
+     "SFIN": "ULIF04506/02/26PENSUSWLTH104",
+     "FMC_pct": 1.35,
+     "asset_allocation": "see prospectus fund table",
+     "risk_label": null
+    },
+    {
+     "name": "Axis Max Life Smart Innovation Pension Fund",
+     "SFIN": "ULIF04705/06/26PENSMINNOV104",
+     "FMC_pct": 1.35,
+     "asset_allocation": "see prospectus fund table",
+     "risk_label": null
+    },
+    {
+     "name": "Axis Max Life Flexi Cap Pension Fund",
+     "SFIN": "ULIF05224/09/26FLXICAPFND104",
+     "FMC_pct": 1.35,
+     "asset_allocation": "see prospectus fund table",
+     "risk_label": null
+    }
+   ],
+   "status": "n/a",
+   "doc": "FYPP_Prospectus_d730250c0e.pdf",
+   "page": 14,
+   "quote": "Axis Max Life UL Pension Growth Super Fund 1.25%",
+   "note": "name, SFIN and FMC from the prospectus fund descriptions and charge table"
+  },
+  "index_or_thematic_funds": {
+   "value": "NIFTY 500 Multifactor 50, BSE 500 Dividend Leaders 50, BSE 500 Value 50, Sustainable Wealth 50 index pension funds; Smart Innovation Pension Fund",
+   "status": "n/a",
+   "doc": "FYPP_Prospectus_d730250c0e.pdf",
+   "page": 2,
+   "quote": "Axis Max Life NIFTY 500 Multifactor 50 Index Pension Fund (SFIN:",
+   "note": null
+  },
+  "discontinued_policy_fund": {
+   "value": {
+    "name": "Pension Discontinuance Policy Fund",
+    "FMC": "0.50%",
+    "guaranteed return": "4.0% p.a."
+   },
+   "status": "built-in",
+   "doc": "FYPP_Prospectus_d730250c0e.pdf",
+   "page": 14,
+   "quote": "Fund Management Charge of 0.50% per annum will be deducted.",
+   "note": null
+  }
+ },
+ "protection_add_ons": {
+  "waiver_of_premium_inbuilt": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "critical_illness": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "accidental_death": {
+   "value": "via rider (Smart Ultra Protect, variants 2 and 3)",
+   "status": "rider",
+   "doc": "FYPP_Prospectus_d730250c0e.pdf",
+   "page": 5,
+   "quote": "Rider benefit variant 2 - Accidental Death Benefit",
+   "note": null
+  },
+  "terminal_illness": {
+   "value": "via rider (Smart Ultra Protect, variant 1)",
+   "status": "rider",
+   "doc": "FYPP_Prospectus_d730250c0e.pdf",
+   "page": 5,
+   "quote": "Term Booster with Accelerated Terminal Illness",
+   "note": null
+  },
+  "spouse_or_child_cover": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "riders_available": {
+   "value": [
+    "Axis Max Life Smart Ultra Protect Rider (104A049V03)"
+   ],
+   "status": "rider",
+   "doc": "FYPP_Prospectus_d730250c0e.pdf",
+   "page": 5,
+   "quote": "Axis Max Life Smart Ultra Protect Rider (UIN: 104A049V03)",
+   "note": null
+  }
+ },
+ "surrender_revival": {
+  "lock_in_years": {
+   "value": 5,
+   "status": "built-in",
+   "doc": "FYPP_Prospectus_d730250c0e.pdf",
+   "page": 12,
+   "quote": "Surrender within five years of the inception of the policy",
+   "note": null
+  },
+  "discontinuance_rules": {
+   "value": "surrender in the first 5 years moves the fund, less the charge, to the Pension Discontinuance Policy Fund",
+   "status": "built-in",
+   "doc": "FYPP_Prospectus_d730250c0e.pdf",
+   "page": 12,
+   "quote": "credit the Fund Value to the Pension Discontinuance Policy Fund after deducting the applicable Surrender",
+   "note": null
+  },
+  "revival_period": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "surrender_value_rule": {
+   "value": "after year 5: commute up to 60% and buy an annuity with the rest, or buy an annuity with all of it",
+   "status": "built-in",
+   "doc": "FYPP_Prospectus_d730250c0e.pdf",
+   "page": 12,
+   "quote": "In case of surrender after the lock-in period, the surrender value can be utilized by you",
+   "note": null
+  }
+ },
+ "documents_inventory": [
+  {
+   "website_label": "Axis Max Life Sustainable Yield Index Factsheet",
+   "doc_type": "fund_factsheet",
+   "url": "https://www.axismaxlife.com/static-page/assets/homepage/Axis%20Max%20Life%20Sustainable%20Yield%20Index%20Factsheet.pdf",
+   "found_on_page_url": "https://www.axismaxlife.com/pension-plans/forever-young-pension-plan",
+   "pages": null,
+   "stored_path": null,
+   "status": "skipped",
+   "note": "fund document does not name this product (company-wide)"
+  },
+  {
+   "website_label": "Monthly Factsheets",
+   "doc_type": "fund_factsheet",
+   "url": "https://www.axismaxlife.com/fund-performance/monthly-factsheets",
+   "found_on_page_url": "https://www.axismaxlife.com/pension-plans/forever-young-pension-plan",
+   "pages": null,
+   "stored_path": null,
+   "status": "web page (not stored)",
+   "note": "link opens a web page, not a document"
+  },
+  {
+   "website_label": "FYPP_Prospectus_d730250c0e.pdf",
+   "doc_type": "brochure",
+   "url": "https://www.axismaxlife.com/static-page/assets/homepage/FYPP_Prospectus_d730250c0e.pdf",
+   "found_on_page_url": "https://www.axismaxlife.com/pension-plans/forever-young-pension-plan",
+   "pages": 26,
+   "stored_path": "docs/axis-max-life/104L075V11/brochure.pdf",
+   "status": "already stored (not linked from product page)",
+   "note": null
+  },
+  {
+   "website_label": "FYPP_Policy_Document_0392bd543f.pdf",
+   "doc_type": "policy_document",
+   "url": "https://www.axismaxlife.com/static-page/assets/homepage/FYPP_Policy_Document_0392bd543f.pdf",
+   "found_on_page_url": "https://www.axismaxlife.com/pension-plans/forever-young-pension-plan",
+   "pages": 34,
+   "stored_path": "docs/axis-max-life/104L075V11/policy.pdf",
+   "status": "ok",
+   "note": "link is in the product page source (script data), not a visible anchor; no label on the page"
+  },
+  {
+   "website_label": "FYPP_CIS_114b9d4532.pdf",
+   "doc_type": "CIS",
+   "url": "https://www.axismaxlife.com/static-page/assets/homepage/FYPP_CIS_114b9d4532.pdf",
+   "found_on_page_url": "https://www.axismaxlife.com/pension-plans/forever-young-pension-plan",
+   "pages": 4,
+   "stored_path": "docs/axis-max-life/104L075V11/cis.pdf",
+   "status": "ok",
+   "note": "link is in the product page source (script data), not a visible anchor; no label on the page"
+  }
+ ],
+ "new_features_not_in_schema": [
+  {
+   "feature": "Save More Tomorrow",
+   "description": "Top-up premium that rises 5% a year (simple) up to 150% of the annual premium, chosen at inception",
+   "quote": "progressively paying 5% (simple) additional Top up premium every year till the end of the",
+   "doc": "FYPP_Prospectus_d730250c0e.pdf",
+   "page": 13
+  },
+  {
+   "feature": "QROPS-eligible pension plan",
+   "description": "Accepts UK pension transfers with a minimum vesting age of 55",
+   "quote": "Minimum: 40 years (55 years for policies sourced under Qualifying Recognized Overseas",
+   "doc": "FYPP_Prospectus_d730250c0e.pdf",
+   "page": 3
+  }
+ ],
+ "data_not_public": []
+}
