@@ -8,7 +8,7 @@ could be verified. "Not found" means the script and a manual look at the site di
 |---|---|---|---|---|---|---|---|---|
 | Acko Life | 2 | 0 | 2 | 0 | 0 | 0 | 0 | 0 |
 | Aditya Birla Sun Life | 34 | 1 | 33 | 0 | 0 | 0 | 0 | 0 |
-| Ageas Federal Life | 23 | 0 | 0 | 0 | 0 | 0 | 0 | 23 |
+| Ageas Federal Life | 23 | 1 | 21 | 0 | 1 | 0 | 0 | 0 |
 | Aviva Life | 17 | 0 | 0 | 0 | 0 | 0 | 0 | 17 |
 | Axis Max Life | 26 | 0 | 0 | 0 | 0 | 0 | 0 | 26 |
 | Bajaj Life | 31 | 0 | 0 | 0 | 0 | 0 | 0 | 31 |
@@ -30,11 +30,12 @@ could be verified. "Not found" means the script and a manual look at the site di
 | Shriram Life | 26 | 1 | 25 | 0 | 0 | 0 | 0 | 0 |
 | Star Union Dai-ichi Life | 33 | 0 | 0 | 0 | 0 | 0 | 0 | 33 |
 | Tata AIA Life | 38 | 1 | 34 | 0 | 3 | 0 | 0 | 0 |
-| **Total** | 633 | 13 | 289 | 0 | 3 | 0 | 0 | 328 |
+| **Total** | 633 | 14 | 310 | 0 | 4 | 0 | 0 | 305 |
 
 ## Manual-download list
 Products whose documents could not be fetched automatically. Each line gives the product, UIN, the insurer page to visit, and which document is missing.
 
+- **Ageas Federal Life**: Ageas Federal Life Insurance Guaranteed Lifetime Income Plan (`135N073V04`): brochure missing (not found). Visit (no product page found; see notes). 47 PDF links seen on 1 pages; none verified (product code not in text or no match); no product page or document on ageasfederal.com (sitemap and savings-plans pages checked)
 - **Tata AIA Life**: Tata AIA Life Insurance POS Saat Saath - Micro Insurance Product (`110N134V04`): brochure missing (not found). Visit (no product page found; see notes). 18 PDF links seen on 1 pages; none verified (product code not in text or no match); POS variant: listed Active on tataaia.com/active-and-withdrawn-product-status.html but no product page or document link on tataaia.com (sitemap, status page, base-product page checked)
 - **Tata AIA Life**: Tata AIA Life Insurance POS Smart Income Plus (`110N148V07`): brochure missing (not found). Visit (no product page found; see notes). 18 PDF links seen on 1 pages; none verified (product code not in text or no match); POS variant: listed Active on tataaia.com/active-and-withdrawn-product-status.html but no product page or document link on tataaia.com (sitemap, status page, base-product page checked)
 - **Tata AIA Life**: Tata AIA Life Insurance Sampoorna Raksha Supreme Plan (`110N160V06`): brochure missing (not found). Visit https://www.tataaia.com/sampoorna-raksha-supreme/non-linked-comprehensive-protection.html. 37 PDF links seen on 8 pages; none verified (product code not in text or no match); listed Active (V06) on tataaia.com status page; product pages tataaia.com/sampoorna-raksha-supreme.html and /sampoorna-raksha-supreme/non-linked-comprehensive-protection.html link no brochure or policy document
