@@ -1,0 +1,77 @@
+import sys; sys.path.insert(0, 'scripts'); sys.path.insert(0, 'scripts/ulip_specs')
+from ulip_json import F, NS, build
+B, P = 'Download Brochure', 'Policy Document'
+FUNDS = [{'name': 'Pension Nifty Alpha 50 Index Fund', 'SFIN': 'ULIF02618/08/25PNALFEQFND136', 'FMC_pct': 1.35, 'asset_allocation': 'equity 70% to 100%, money market and others 0% to 30%', 'risk_label': 'High'},
+         {'name': 'Pension Debt Fund', 'SFIN': 'ULIF01605/11/15PENSDEBFND136', 'FMC_pct': 1.00, 'asset_allocation': 'debt 20% to 100%, money market and others 0% to 80%', 'risk_label': 'Low'}]
+spec = {
+ 'product': {
+  'uin': F('136L094V01', 'n/a', B, None, 'UIN: 136L094V01'),
+  'uin_in_brochure': F('136L094V01', 'n/a', B, None, 'UIN: 136L094V01'),
+  'product_name': F('Canara HSBC Life Insurance EZ Pension Plan', 'n/a', B, None, 'Canara HSBC Life Insurance EZ Pension Plan'),
+  'irdai_description_line': F('An Individual Linked Pension Plan', 'n/a', B, None, 'An Individual Linked Pension Plan'),
+  'launch_or_version_date': NS(), 'target_segment_stated': NS(), 'variants_or_plan_options': NS(), 'online_offline': NS(),
+ },
+ 'eligibility': {
+  'entry_age_min': F(18, 'n/a', B, None, 'Minimum: 18 years Entry Age', 'age quoted from the At a Glance table (Minimum: 18 years)'),
+  'entry_age_max': F(60, 'n/a', B, None, 'Maximum: 60 years'),
+  'maturity_age_min': F('vesting age 40 years', 'n/a', B, None, 'Minimum: 40 years'),
+  'maturity_age_max': F('vesting age 75 years', 'n/a', B, None, 'Maximum: 75 years'),
+  'policy_term_options': F('vesting age less entry age; minimum 15 years, maximum the lower of 75 minus entry age and 30 years', 'n/a', B, None, 'Maximum policy term is 75 years less entry age or 30 years,', quote_2='Minimum policy term is 15 years'),
+  'ppt_options': F({'single pay': 'one-time premium', 'limited pay': '5 to 25 years', 'regular pay': 'equal to the policy term'}, 'n/a', B, None, 'For Single pay – One time premium only', quote_2='Maximum: 25 years', quote_3='For Regular pay: Equal to the Policy Term'),
+  'premium_min_annual': F({'annual': 36000, 'half-yearly': 18000, 'quarterly': 9000, 'monthly': 3000}, 'n/a', B, None, 'Premium for Annual mode: ` 36,000', quote_2='Premium for half-yearly mode: ` 18,000', quote_3='Premium for quarterly mode: ` 9,000', quote_4='Premium for monthly mode: ` 3,000'),
+  'premium_min_single': F(500000, 'n/a', B, None, 'Single Premium: ` 5,00,000'),
+  'premium_max': NS(),
+  'sum_assured_rule': F('no sum assured; death benefit is the higher of fund value and 105% of premiums paid', 'built-in', B, None, 'Fund Value, if any, as on date of intimation of death, or', quote_2='105% of all Premiums paid up to the date of death'),
+  'premium_modes': F(['single', 'annual', 'half-yearly', 'quarterly', 'monthly'], 'n/a', B, None, 'Single Pay, Regular / Limited pay – Annual, Half-Yearly, Quarterly'),
+  'life_cover_multiple_choice': F(None, 'not offered', note='no sum assured multiple'),
+ },
+ 'charges': {
+  'premium_allocation_charge': F('nil', 'built-in', B, None, 'There are no Premium Allocation Charge(s) on base premium.'),
+  'policy_administration_charge': F({'regular and limited pay': '2.6% of the annual premium a year', 'single pay': '0.6% of the single premium a year', 'cap': 'Rs 500 a month'}, 'built-in', B, None,
+                                    'it will be 2.6% of the annual premium chargeable will be', quote_2='Policy Administration Charge will be 0.6% of Single Premium will be', quote_3='subject to cap of ` 500 per month'),
+  'fund_management_charge': F({'Pension Nifty Alpha 50 Index Fund': '1.35%', 'Pension Debt Fund': '1.00%', 'Pension Discontinued Policy Fund': '0.50%'}, 'built-in', B, None,
+                              'Pension Nifty Alpha 50 Index Fund 1.35%', quote_2='Pension Debt Fund 1.00%', quote_3='Pension Discontinued Policy Fund 0.50%'),
+  'mortality_charge': F({'basis': 'per 1,000 sum at risk a year; sum at risk is 105% of premiums paid less fund value; female lives rated down 3 years', 'sample_rates_age_20_30_40_50': {'male': [0.878, 0.928, 1.596, 4.214], 'female': [0.788, 0.887, 1.290, 3.010]}}, 'built-in', B, None,
+                        'Male 0.878 0.928 1.596 4.214', 'sample rates only; the policy document prints no rate table', quote_2='Female 0.788 0.887 1.290 3.010'),
+  'discontinuance_charge': F({'regular and limited pay': {'annualized premium up to Rs 50,000': {'Y1': 'lower of 20% of AP or FV, max Rs 3,000', 'Y2': '15%, Rs 2,000', 'Y3': '10%, Rs 1,500', 'Y4': '5%, Rs 1,000'}, 'annualized premium above Rs 50,000': {'Y1': 'lower of 6%, max Rs 6,000', 'Y2': '4%, Rs 5,000', 'Y3': '3%, Rs 4,000', 'Y4': '2%, Rs 2,000'}},
+                              'single pay': {'premium up to Rs 3,00,000': {'Y1': 'lower of 2% of SP or FV, max Rs 3,000', 'Y2': '1.5%, Rs 2,000', 'Y3': '1%, Rs 1,500', 'Y4': '0.5%, Rs 1,000'}, 'premium above Rs 3,00,000': {'Y1': 'lower of 1%, max Rs 6,000', 'Y2': '0.70%, Rs 5,000', 'Y3': '0.50%, Rs 4,000', 'Y4': '0.35%, Rs 2,000'}}, 'year 5 onwards': 'nil'}, 'built-in', B, None,
+                             'Lower of 20% *(AP or FV) subject Lower of 6% *(AP or FV) subject', quote_2='Lower of 15% *(AP or FV) subject Lower of 4% *(AP or FV) subject', quote_3='Lower of 2% *(SP or FV) subject to Lower of 1% *(SP or FV) subject', quote_4='Lower of 1.5% *(SP or FV) subject Lower of 0.70% *(SP or FV) subject'),
+  'switching_charge': F('nil; unlimited switches', 'built-in', B, None, 'The switches in any given Policy Year or in any year during entire policy term will be free of charge.'),
+  'partial_withdrawal_charge': NS(),
+  'premium_redirection_charge': F('nil', 'built-in', B, None, 'Premium Redirection facility is allowed without any charge'),
+  'miscellaneous_charge': NS(), 'guarantee_charge': NS(), 'rider_charges': NS(), 'any_charge_returned': F(None, 'not offered', note='no return of charges; a maturity booster is paid instead'),
+ },
+ 'benefits': {
+  'death_benefit_formula': F('higher of fund value and 105% of all premiums paid; the policy ends', 'built-in', B, None, 'Fund Value, if any, as on date of intimation of death, or', quote_2='105% of all Premiums paid up to the date of death'),
+  'maturity_benefit': F('fund value at the vesting date, to buy an annuity or commute up to 60%', 'built-in', B, None, 'Fund value is payable to the policyholder and the Policy will terminate.', quote_2='To commute/ withdraw up to 60% of the entire Vesting Beneﬁt and'),
+  'loyalty_additions': F(None, 'not offered', note='a maturity booster is paid instead'),
+  'wealth_boosters_or_guaranteed_additions': F({'maturity booster, percent of the average fund value of the last 60 monthly anniversaries': {'limited and regular pay (annual premium below / at least Rs 2 lakh)': {'policy term 15': '4.50% / 6.50%', '16-20': '6.50% / 8.50%', '21-25': '8.50% / 10.50%', '26-30': '10.50% / 12.50%'}, 'single pay': {'policy term 15': '8%', '16-20': '11%', '21-25': '14%', '26-30': '17%'}}}, 'built-in', B, None,
+                                               '15 4.50% 6.50%', quote_2='26-30 10.50% 12.50%', quote_3='15 8%', quote_4='26-30 17%'),
+  'return_of_mortality_charges': NS(), 'return_of_premium_allocation_charges': NS(), 'return_of_policy_admin_charges': NS(), 'other_additions': NS(),
+ },
+ 'flexibility': {
+  'fund_switching': F('free and unlimited; at least Rs 10,000 per switch', 'optional (during term)', B, None, 'Minimum switch amount is ` 10,000/-.', quote_2='There are no restrictions on the'),
+  'premium_redirection': F('free of charge, effective from the next premium due date', 'optional (during term)', B, None, 'Premium Redirection facility is allowed without any charge'),
+  'partial_withdrawals': F({'from': '6th policy year, if the first 5 years of premiums are paid', 'minimum': 'Rs 10,000 in multiples of Rs 1,000', 'maximum': '25% of fund value', 'count': '3 times in the whole term', 'purposes': 'children education or marriage, house purchase, critical illness treatment, disability expenses, skill development, own venture'}, 'optional (during term)', B, None,
+                           'You have the ﬂexibility to make partial withdrawals from 6th policy year onwards provided all due premiums for', quote_2='The minimum partial withdrawal amount allowed is', quote_3='Partial withdrawal shall not exceed 25% of the Fund Value at the time of partial withdrawal.', quote_4='The request for partial withdrawal can only be made 3 times during the entire term of the policy'),
+  'systematic_withdrawal_plan': NS(), 'top_up_premiums': NS(), 'settlement_option': NS(), 'premium_holiday_or_offset': NS(),
+  'increase_decrease_cover': F('premium can be cut by up to 50% once, after 5 years', 'optional (during term)', B, None, 'option to decrease the premium payable by up to 50% of the original Annualized Premium,'),
+  'change_ppt_or_term': F('vesting date can be postponed up to age 75 if the life assured is below 60', 'optional (during term)', B, None, 'you will have an option to postpone the vesting date of', quote_2='the policy, provided you are below an age of 60 years.'),
+  'policy_loan': NS(), 'auto_portfolio_strategies': NS(),
+ },
+ 'funds': {
+  'fund_count': F(2, 'n/a', B, None, 'There are two investment funds in the plan.'),
+  'fund_list': F(FUNDS, 'n/a', P, None, 'Pension Nifty Alpha 50 Fund                  : ULIF02618/08/25PNALFEQFND136', 'SFINs from the policy document, FMC and risk labels from the brochure'),
+  'index_or_thematic_funds': F('Pension Nifty Alpha 50 Index Fund', 'n/a', B, None, 'To track Nifty Alpha 50 Index'),
+  'discontinued_policy_fund': F({'name': 'Pension Discontinued Policy Fund', 'SFIN': 'ULIF01705/11/15PENSDISFND136'}, 'built-in', P, None, 'Pension Discontinued Policy Fund             : ULIF01705/11/15PENSDISFND136','FMC 0.50% is in the brochure charges table'),
+ },
+ 'protection_add_ons': {'waiver_of_premium_inbuilt': NS(), 'critical_illness': NS(), 'accidental_death': NS(), 'terminal_illness': NS(), 'spouse_or_child_cover': NS(), 'riders_available': NS()},
+ 'surrender_revival': {
+  'lock_in_years': F(5, 'built-in', B, None, 'There is a lock-in period of ﬁve years as well.'),
+  'discontinuance_rules': F('surrender or discontinuance in the first 5 years moves the fund, less the charge, to the Pension Discontinued Policy Fund, which earns at least 4%; the proceeds buy an annuity or are commuted up to 60%', 'built-in', B, None, 'will be transferred to the Pension Discontinued Policy Fund and will earn at least a', quote_2='minimum guaranteed interest rate of 4% or as decided by IRDAI from time to time.'),
+  'revival_period': NS(), 'surrender_value_rule': NS(),
+ },
+}
+build('136L094V01', spec,
+  new_features=[{'feature': 'Zero premium allocation charge pension ULIP with maturity booster', 'description': 'All of the premium is invested; the booster adds 4.5% to 17% of the average fund value at vesting by policy term', 'quote': 'Zero allocation charges ensure 100% premium allocation to funds', 'doc': B, 'page': None}],
+  not_public=[{'item': 'Full mortality charge table', 'doc': B, 'where_referenced': 'Mortality Charge section', 'quote': 'Sample standard mortality rates applicable', 'note': 'the brochure prints rates for four sample ages; the policy document prints no rate table'}])
