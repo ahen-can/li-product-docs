@@ -28,3 +28,12 @@ def mortality(path, start_marker, n_max=160, stop_after=12):
             miss += 1
             if miss > stop_after: break
     return {'male': dict(sorted(male.items())), 'female': dict(sorted(female.items()))}
+
+RISK_ALL = {'Equity Growth Fund': 'returns likely high, risk high', 'Midcap Fund': 'returns likely high, risk high', 'Multicap Fund': 'risk moderate to high', 'Momentum Growth Fund': 'returns likely high, risk high',
+            'India Sector Leaders Fund': 'returns likely high, risk high', 'Enhanced Value Fund': 'returns likely high, risk high', 'Pure Fund': 'returns likely high, risk high', 'Bond Fund II': 'returns likely moderate, risk moderate',
+            'Aggressive Asset Allocator Fund': 'returns high, risk high', 'Moderate Asset Allocator Fund': 'returns high, risk high, lower than Aggressive', 'Large Cap Quality Fund': 'returns likely high, risk high', 'IndiGenius Fund': 'returns likely high, risk high'}
+ALLOC_ALL = {'Equity Growth Fund': 'equity 50-100%, cash and money market 0-50%', 'Midcap Fund': 'mid cap stocks 50-100%, large cap 0-50%, cash and money market 0-50%', 'Multicap Fund': 'equity 50-100%, cash and money market 0-50%',
+             'Momentum Growth Fund': 'equity 90-100%, cash and money market 0-10%', 'India Sector Leaders Fund': 'equity 90-100%, cash and money market 0-10%', 'Enhanced Value Fund': 'equity 90-100%, cash and money market 0-10%',
+             'Pure Fund': 'equity 80-100%, cash and money market 0-20%', 'Bond Fund II': 'fixed income 50-100%, money market 0-50%', 'Aggressive Asset Allocator Fund': 'equity 50-100%, money market 0-50%, fixed income 0-50%',
+             'Moderate Asset Allocator Fund': 'fixed income 50-100%, money market 0-50%, equity 0-50%', 'Large Cap Quality Fund': 'equity 80-100%, cash and money market 0-10%', 'IndiGenius Fund': 'equity 80-100%, cash and money market 0-20%'}
+FMC_12 = {**{k: 1.35 for k in ['Equity Growth Fund', 'Midcap Fund', 'Multicap Fund', 'Momentum Growth Fund', 'India Sector Leaders Fund', 'Enhanced Value Fund', 'Pure Fund', 'Aggressive Asset Allocator Fund', 'Moderate Asset Allocator Fund', 'Large Cap Quality Fund', 'IndiGenius Fund']}, 'Bond Fund II': 1.25}
