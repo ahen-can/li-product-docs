@@ -1,0 +1,82 @@
+import sys; sys.path.insert(0, 'scripts'); sys.path.insert(0, 'scripts/ulip_specs')
+from ulip_json import F, NS, build
+P, B = 'Policy Bond', 'Download Brochure'
+FUNDS6 = [
+    {'name': 'Growth Opportunities Plus Fund', 'SFIN': 'ULIF01614/12/2009EGRWTHOPPL130', 'FMC_pct': 1.35, 'asset_allocation': 'equity 80-100%, money market 0-20%', 'risk_label': 'High'},
+    {'name': 'Grow Money Plus Fund', 'SFIN': 'ULIF01214/12/2009EGROMONYPL130', 'FMC_pct': 1.35, 'asset_allocation': 'equity 80-100%, money market 0-20%', 'risk_label': 'High'},
+    {'name': 'Build India Fund', 'SFIN': 'ULIF01909/02/2010EBUILDINDA130', 'FMC_pct': 1.35, 'asset_allocation': 'equity 80-100%, debt 0-20%, money market 0-20%', 'risk_label': 'High'},
+    {'name': "Save'n'grow Money Fund", 'SFIN': 'ULIF00121/08/2006BSAVENGROW130', 'FMC_pct': 1.25, 'asset_allocation': 'equity 0-60%, debt 0-90%, money market 0-40%', 'risk_label': 'Moderate'},
+    {'name': 'Steady Money Fund', 'SFIN': 'ULIF00321/08/2006DSTDYMOENY130', 'FMC_pct': 1.00, 'asset_allocation': 'debt 60-100%, money market 0-40%', 'risk_label': 'Low'},
+    {'name': 'Safe Money Fund', 'SFIN': 'ULIF01007/07/2009LSAFEMONEY130', 'FMC_pct': 1.00, 'asset_allocation': 'debt 60-100%, money market 0-40%', 'risk_label': 'Low'}]
+spec = {
+ 'product': {
+  'uin': F('130L049V05', 'n/a', P, None, 'UIN: 130L049V05'),
+  'uin_in_brochure': F('130L049V05', 'n/a', B, None, 'Bharti AXA Life Future Invest UIN: 130L049V05. Advt. No.: II-Sep-2024-5454'),
+  'product_name': F('Bharti AXA Life Future Invest', 'n/a', P, 1, 'Bharti AXA Life Future Invest', 'the policy bond\'s definition of "Policy" names Bharti AXA Life Grow Wealth (copy error)'),
+  'irdai_description_line': F('A unit linked non-participating individual life insurance plan', 'n/a', P, 1, 'A unit linked non-participating individual life insurance plan'),
+  'launch_or_version_date': F('brochure Advt No II-Sep-2024-5454 (September 2024)', 'n/a', B, None, 'Bharti AXA Life Future Invest UIN: 130L049V05. Advt. No.: II-Sep-2024-5454'),
+  'variants_or_plan_options': F(None, 'n/a', note='single plan; single pay or 5-year pay'),
+  'target_segment_stated': NS(), 'online_offline': NS(),
+ },
+ 'eligibility': {
+  'entry_age_min': F('18 years', 'n/a', B, 15, 'Minimum age at entry Maximum age at entry Maximum age at maturity Premium modes Minimum premium Eligibility 18 years (age last birthday) 59 years (age last birthday) 69 years (age last birthday)'),
+  'entry_age_max': F('59 years', 'n/a', B, 15, 'Minimum age at entry Maximum age at entry Maximum age at maturity Premium modes Minimum premium Eligibility 18 years (age last birthday) 59 years (age last birthday) 69 years (age last birthday)'),
+  'maturity_age_min': NS(),
+  'maturity_age_max': F('69 years', 'n/a', B, 15, 'Minimum age at entry Maximum age at entry Maximum age at maturity Premium modes Minimum premium Eligibility 18 years (age last birthday) 59 years (age last birthday) 69 years (age last birthday)'),
+  'policy_term_options': F('10 years', 'n/a', B, 16, 'Policy benefit period 10 years'),
+  'ppt_options': F('single pay or 5 years', 'n/a', B, 16, 'Premium payment term Single Pay and 5 years'),
+  'premium_min_annual': F('5-year pay: Rs 18,000 annual, Rs 9,000 half-yearly, Rs 4,500 quarterly, Rs 1,500 monthly', 'n/a', B, 16, 'Annual - Rs 18,000'),
+  'premium_min_single': F('Rs 50,000', 'n/a', B, 16, 'Premium payment term: Single Pay Rs 50000'),
+  'premium_max': NS(),
+  'sum_assured_rule': F('single pay: 125% of single premium; 5-year pay: higher of 10 x AP or 0.5 x policy term x AP', 'built-in', B, None, 'Premium Payment Term: 5 Years Sum Assured Higher of 10 times Annualized Premium Or (0.5* Policy Term* annualized premium)'),
+  'premium_modes': F('yearly, half-yearly, quarterly, monthly (quarterly and monthly through ECS only)', 'n/a', P, None, 'Premium Payment modes available under the Policy are annual, half yearly, quarterly and monthly.'),
+  'life_cover_multiple_choice': F(None, 'not offered', note='sum assured is fixed by formula'),
+ },
+ 'charges': {
+  'premium_allocation_charge': F('nil', 'built-in', B, None, 'Zero Allocation Charge: With this plan, you are not charged any premium allocation charge.', 'the policy bond\'s charges section lists no premium allocation charge'),
+  'policy_administration_charge': F({'5-year pay': {'Y1-5': '0.5% of AP per month', 'Y6-10': '0.5%'}, 'single pay': {'Y1-5': '0.2%', 'Y6-10': '0%'}, 'cap': 'Rs 6,000 a year'}, 'built-in', P, None, 'The Policy administration charge is subject to a maximum of Rs. 6000 per annum.', 'table read from layout text of policy bond p.6'),
+  'fund_management_charge': F({'min': '1.00%', 'max': '1.35%', 'discontinued_policy_fund': '0.50%'}, 'built-in', P, None, 'The above charges will not exceed the maximum cap prescribed by IRDAI which is currently 1.35% pa.'),
+  'mortality_charge': F('per 1000 sum at risk; separate rates for healthy male and healthy female lives published in the policy bond', 'built-in', P, None, 'Mortality Charge per Rs. 1000 Sum at Risk', 'sum at risk = sum assured net of partial withdrawals less fund value'),
+  'discontinuance_charge': F({'5-year pay': 'AP up to Rs 50,000: lower of 20/15/10/5% of AP or FV or Rs 3,000/2,000/1,500/1,000; above: lower of 6/4/3/2% or Rs 6,000/5,000/4,000/2,000; nil from Y5',
+                              'single pay': 'SP up to Rs 3 lakh: lower of 2/1.5/1/0.5% of SP or FV or Rs 3,000/2,000/1,500/1,000; above: lower of 1/0.7/0.5/0.35% or Rs 6,000/5,000/4,000/2,000; nil from Y5'},
+                             'built-in', P, None, 'The Discontinuance Charge shall be levied at the time of surrender or on Discontinuance of Premium whichever is earlier.'),
+  'switching_charge': F('12 free switches a year, then Rs 100 per switch; minimum switch Rs 1,000; can be raised to Rs 300 with IRDAI approval', 'built-in', P, None, 'Switches more than twelve times in a policy year will be charged at Rs. 100 per Switch.'),
+  'partial_withdrawal_charge': F('two free partial withdrawals per policy year; no further withdrawals that year', 'built-in', P, None, 'In a Policy Year, the Policyholder is entitled to make two Partial Withdrawals, free of charge subject to the limit of minimum and maximum Partial Withdrawal amount.'),
+  'premium_redirection_charge': NS(), 'miscellaneous_charge': NS(), 'guarantee_charge': NS(), 'rider_charges': NS(),
+  'any_charge_returned': F(None, 'not offered', note='no charge is returned'),
+ },
+ 'benefits': {
+  'death_benefit_formula': F('higher of: sum assured net of partial withdrawals in the last 2 years; 105% of premiums paid; fund value', 'built-in', P, None, 'The death beneﬁt payable under the product will be Higher of : 1. Sum assured (net of partial withdrawals#) 2. 105% of all premiums paid till the date of death (excluding underwriting extra) 3. Policy Fund Value as on the date of intimation of death'),
+  'maturity_benefit': F('fund value; settlement option', 'built-in', P, None, 'In case the life assured survives till maturity and all due premiums have been paid till the date of maturity, the Policy Fund Value will be payable to Policyholder on the Maturity Date.'),
+  'loyalty_additions': F(None, 'not offered', note='no additions of any kind in the policy bond'),
+  'wealth_boosters_or_guaranteed_additions': F(None, 'not offered'),
+  'return_of_mortality_charges': F(None, 'not offered'), 'return_of_premium_allocation_charges': F(None, 'n/a', note='no allocation charge'),
+  'return_of_policy_admin_charges': F(None, 'not offered'), 'other_additions': F(None, 'not offered'),
+ },
+ 'flexibility': {
+  'fund_switching': F('12 free a year, then Rs 100 each', 'built-in', P, None, 'Switches more than twelve times in a policy year will be charged at Rs. 100 per Switch.'),
+  'premium_redirection': F('after the first policy year; minimum 5% per fund', 'optional (during term)', P, None, 'can be modiﬁed only after the ﬁrst Policy Year by submitting the Investment Fund Allocation Instruction.'),
+  'partial_withdrawals': F('after the 5-year lock-in; minimum Rs 1,000; two per policy year; policy terminates if fund falls below 120% of AP after a withdrawal', 'optional (during term)', P, None, 'In case the Policy Fund Value becomes less than 120% of the Annualised Regular Premium after the partial withdrawal, the Policy will be terminated.'),
+  'systematic_withdrawal_plan': NS(), 'top_up_premiums': NS(),
+  'settlement_option': F('periodic withdrawals for up to 5 years after maturity; cover during settlement: higher of fund value or 105% of premiums', 'optional (during term)', P, None, 'If the Life Insured dies during the Settlement Period, then the higher of Policy Fund Value as on the date of death or 105% of total premiums paid shall be paid to the Nominee and the Policy will stand terminated'),
+  'premium_holiday_or_offset': NS(), 'increase_decrease_cover': NS(), 'change_ppt_or_term': NS(), 'policy_loan': NS(),
+  'auto_portfolio_strategies': F(None, 'not offered', note='no investment strategies in the policy bond'),
+ },
+ 'funds': {
+  'fund_count': F('6 funds plus the Discontinued Policy Fund', 'n/a', P, None, 'The six Investment Funds currently oﬀered under the Policy by the Company are - Growth Opportunities Plus Fund, Grow Money Plus Fund, Save’n’grow Money Fund, Steady Money Fund, Safe Money Fund and Build India Fund.'),
+  'fund_list': F(FUNDS6, 'n/a', P, None, 'Growth Opportunities Plus Fund Grow Money Plus Fund Build India Fund Save’n’grow Money Fund Steady Money Fund Safe Money Fund Discontinued Policy Fund Fund Management Charge 1.35% per annum 1.35% per annum 1.35% per annum 1.25% per annum 1.00% per annum 1.00% per annum 0.50% per annum'),
+  'index_or_thematic_funds': F('Build India Fund (infrastructure); no index fund', 'n/a', P, None, 'To provide long term capital appreciation, through exposure to equity investments in Infrastructure and allied sectors'),
+  'discontinued_policy_fund': F({'name': 'Discontinued Policy Fund', 'FMC': '0.50%'}, 'built-in', P, None, 'Discontinued Policy Fund Fund Management Charge'),
+ },
+ 'protection_add_ons': {'waiver_of_premium_inbuilt': F(None, 'not offered'), 'critical_illness': NS(), 'accidental_death': NS(), 'terminal_illness': NS(), 'spouse_or_child_cover': NS(), 'riders_available': NS('no rider is named in the policy bond or brochure pages read')},
+ 'surrender_revival': {
+  'lock_in_years': F(5, 'built-in', P, 1, 'Lock-in Period is a period of ﬁve years from the Date of Commencement of Risk.'),
+  'discontinuance_rules': F('in lock-in: fund less discontinuance charge to the Discontinued Policy Fund, cover stops; after lock-in: reduced paid-up unless revived or withdrawn', 'built-in', P, None, 'the fund value after deducting the applicable discontinuance charges, shall be credited to the discontinued policy fund and the risk cover and rider cover, if any, shall cease.'),
+  'revival_period': F('3 years from the first unpaid premium', 'built-in', P, None, 'All such discontinued policies shall be provided a revival period of three years from date of ﬁrst unpaid premium.'),
+  'surrender_value_rule': F('single pay: fund value any time (less discontinuance charge in lock-in); regular: discontinued fund proceeds after lock-in', 'built-in', P, None, 'In case of Single Premium Policies, the Policyholder has an option to surrender the Policy any time.'),
+ },
+}
+build('130L049V05', spec,
+  new_features=[{'feature': 'Zero premium allocation charge', 'description': 'all of each premium is invested', 'quote': 'Zero Allocation Charge: With this plan, you are not charged any premium allocation charge.', 'doc': B, 'page': None},
+                {'feature': 'Separate male and female mortality tables', 'description': 'the policy bond publishes distinct rates for healthy male and female lives rather than an age setback', 'quote': 'Mortality Charge per Rs. 1000 Sum at Risk', 'doc': P, 'page': None}],
+  not_public=[])

@@ -1,0 +1,80 @@
+import sys; sys.path.insert(0, 'scripts'); sys.path.insert(0, 'scripts/ulip_specs')
+from ulip_json import F, NS, build
+from bharti_common import FUNDS8
+P, B = 'Policy Bond', 'Download Brochure'
+spec = {
+ 'product': {
+  'uin': F('130L088V04', 'n/a', P, None, 'UIN: 130L088V04'),
+  'uin_in_brochure': F('130L088V04', 'n/a', B, None, 'UIN: 130L088V04 ADVT No.: II-Sep-2024-5484'),
+  'product_name': F('Bharti AXA Life Grow Wealth', 'n/a', P, None, 'Policy Document Bharti AXA Life Grow Wealth'),
+  'irdai_description_line': F('A Unit Linked, Non-participating Individual Life Insurance Plan', 'n/a', P, None, 'Bharti AXA Life Grow Wealth A Unit Linked, Non-participating Individual Life Insurance Plan'),
+  'launch_or_version_date': F('brochure ADVT No II-Sep-2024-5484 (September 2024)', 'n/a', B, None, 'UIN: 130L088V04 ADVT No.: II-Sep-2024-5484'),
+  'variants_or_plan_options': F([{'name': 'Single Life option', 'description': 'cover on one life; single, 5, 7, 10, 15 or 20-year pay'}, {'name': 'Joint Life option', 'description': 'two lives, single pay only; on first death the fund is topped up to at least 125% of the single premium, on second death the higher of 10x single premium, fund or 105% of premiums is paid'}],
+                                'optional (at inception)', B, None, 'The plan allows you the option to choose between Single Life (life coverage for one individual) and Joint Life Coverage (life coverage for two individuals under the policy).'),
+  'target_segment_stated': NS(),
+  'online_offline': F('both (online and other-channel admin charges and minimum premiums)', 'n/a', B, None, 'Minimum Premium varies by channel and premium payment option.'),
+ },
+ 'eligibility': {
+  'entry_age_min': F('single life: 13 / 8 / 3 years / 91 days for PT 5 / 10 / 15 / 20; joint life: at least one life aged 18', 'n/a', B, None, 'Under Joint Life Option inclusive of conditions above at least one of the two lives under Joint Life should be 18 years age last birthday on entry.'),
+  'entry_age_max': F('single life: 64 / 60 / 55 / 50 for PT 5 / 10 / 15 / 20; joint life: 70 / 70 / 70 / 64', 'n/a', B, None, 'Maximum age at entry'),
+  'maturity_age_min': NS(),
+  'maturity_age_max': F('70 (single life), 85 (joint life)', 'n/a', B, None, '70 years for Single Life Option'),
+  'policy_term_options': F('5, 10, 15, 20 years', 'n/a', B, None, 'The following Policy Terms and corresponding Premium Payment Terms (PPTs) are available under the product:'),
+  'ppt_options': F('single life: single pay, 5, 7, 10, 15, 20 years (by term); joint life: single pay only', 'n/a', P, None, 'Paid up benefits are not applicable for the Joint life option in the product, as this option is only available with the single premium variant.'),
+  'premium_min_annual': F('Rs 26,000 (online) / Rs 35,000 (other channels), limited/regular pay', 'n/a', B, None, 'Online Rs. 1,00,000 Rs. 26,000'),
+  'premium_min_single': F('Rs 1,00,000 (online) / Rs 1,50,000 (other channels)', 'n/a', B, None, 'Online Rs. 1,00,000 Rs. 26,000'),
+  'premium_max': F('no limit, subject to board-approved underwriting policy', 'n/a', B, None, 'No Limit, subject to Board Approved Underwriting Policy'),
+  'sum_assured_rule': F('single pay: Option 1 125% of single premium or Option 2 10x single premium (Option 2 only for younger entry ages by term); limited/regular: 10x annualised premium (brochure minimum sum assured Rs 2,60,000 online / Rs 3,50,000 other)', 'optional (at inception)', P, None, 'Option 1: 125% * Single Premium Option 2: 10 times Single Premium'),
+  'premium_modes': F('annual, half-yearly, quarterly, monthly', 'n/a', B, None, 'Annual, Semi-Annual, Quarterly$ and Monthly$'),
+  'life_cover_multiple_choice': F('single pay only: 1.25x or 10x', 'optional (at inception)', B, None, 'You can now opt for higher coverage of 10 times the annualized premium even in the single pay variant of the product (for specific age groups).'),
+ },
+ 'charges': {
+  'premium_allocation_charge': F('nil', 'built-in', B, None, 'Since there is no premium allocation charge under the product, the entire premium will be invested in the fund options chosen by you.'),
+  'policy_administration_charge': F({'monthly': {'single pay (% of SP)': {'online': '0.10%', 'others': '0.15%', 'charged': 'years 1-5'}, 'limited/regular (% of AP)': {'online': '0.40%', 'others': '0.45%', 'charged': 'years 1-10'}}, 'cap': 'Rs 500 per month', 'guaranteed': True},
+                                    'built-in', P, None, 'The policy administration charge is nil for Single Premium and Limited/Regular policies after completion of 5 years and 10 years respectively.'),
+  'fund_management_charge': F({'min': '0.80%', 'max': '1.35%', 'discontinued_policy_fund': '0.50%'}, 'built-in', P, None, 'The above charges (except for Discontinued Policy Fund) will not exceed the maximum cap prescribed by IRDAI which is currently 1.35% pa.'),
+  'mortality_charge': F('per 1000 sum at risk; tables published for single pay, regular/limited with AP >= Rs 1.5 lakh, and joint life (sample age)', 'built-in', P, None, 'This charge is applied on the Sum at Risk (as defined below) and is deducted proportionately by cancellation of Units on a monthly basis.'),
+  'discontinuance_charge': F('IRDAI-cap tables: regular/limited by AP up to / above Rs 50,000; single pay by SP up to / above Rs 3 lakh (lower of % of premium, % of fund, rupee cap in years 1-4; nil from year 5)', 'built-in', P, None, 'The Discontinuance Charge shall be levied on the unit fund at the time of Surrender or on Discontinuance of Premium whichever is earlier.', 'same table values as other Bharti ULIPs'),
+  'switching_charge': F('any number of free switches', 'built-in', B, None, 'You can make any number of switches in a policy year'),
+  'partial_withdrawal_charge': F('any number free', 'built-in', P, None, 'In a Policy Year, the Policyholder is entitled to make any number of Partial Withdrawals free of charge subject to the limit of minimum and maximum Partial Withdrawal amount.'),
+  'premium_redirection_charge': NS(), 'miscellaneous_charge': NS(), 'guarantee_charge': NS(), 'rider_charges': NS(),
+  'any_charge_returned': F(None, 'not offered'),
+ },
+ 'benefits': {
+  'death_benefit_formula': F('single life: highest of sum assured less partial withdrawals in the last 2 years, 105% of premiums, fund value incl. loyalty additions; joint life: see variants', 'built-in', P, None, 'The Death Benefit will be highest of: 1. Sum Assured Less Partial Withdrawals made in the two year period immediately preceding the death of Life Insured.'),
+  'maturity_benefit': F('fund value including loyalty additions', 'built-in', P, None, 'the Policy Fund Value including loyalty additions shall be payable to Policyholder on the Maturity Date.'),
+  'loyalty_additions': F('0.7% of fund value at the end of each year from year 6 to one year before maturity, and 1.4% at maturity (PT 5: maturity addition only)', 'built-in', P, None, 'Loyalty Additions will be credited to the Policy at the end of each Policy Year starting from the end of the sixth Policy Year up to (and including) the Maturity Date.'),
+  'wealth_boosters_or_guaranteed_additions': F(None, 'not offered'), 'return_of_mortality_charges': F(None, 'not offered'),
+  'return_of_premium_allocation_charges': F(None, 'n/a', note='no allocation charge'), 'return_of_policy_admin_charges': F(None, 'not offered'), 'other_additions': NS(),
+ },
+ 'flexibility': {
+  'fund_switching': F('any number of free switches', 'built-in', B, None, 'You can make any number of switches in a policy year'),
+  'premium_redirection': F('after the first policy year', 'optional (during term)', P, None, 'can be modified only after the first Policy Year by submitting the Investment Fund Allocation Instruction.'),
+  'partial_withdrawals': F('after lock-in, in force or reduced paid-up; minimum Rs 5,000; fund must stay at least 120% of AP (25% of SP); not before the minor is 18', 'optional (during term)', P, None, 'The minimum partial withdrawal limit is Rs 5,000.'),
+  'systematic_withdrawal_plan': NS(), 'top_up_premiums': NS(),
+  'settlement_option': F('up to 5 years after maturity; no withdrawals or switches; cover is the higher of fund value or 105% of premiums', 'optional (during term)', P, None, 'Partial Withdrawals and Switches shall not be allowed during the settlement period.'),
+  'premium_holiday_or_offset': NS(), 'increase_decrease_cover': NS(), 'change_ppt_or_term': NS(), 'policy_loan': NS(), 'auto_portfolio_strategies': NS(),
+ },
+ 'funds': {
+  'fund_count': F('8 funds plus the Discontinued Policy Fund', 'n/a', P, None, 'The Investment Funds currently offered under the Policy by the Company are - Growth Opportunities Plus Fund, Grow Money Plus Fund, Save’n’grow Money Fund, Steady Money Fund, Safe Money Fund, Build India Fund, and Stability Plus Money Fund and Emerging Equity Fund.'),
+  'fund_list': F(FUNDS8, 'n/a', P, None, 'Growth Opportunities Plus Fund 1.35% per annum Grow Money Plus Fund 1.35% per annum Build India Fund 1.35% per annum Emerging Equity Fund 1.35% per annum'),
+  'index_or_thematic_funds': F('Build India Fund (infrastructure), Emerging Equity Fund (mid cap); no index fund', 'n/a', P, None, 'Emerging Equity Fund 1.35% per annum'),
+  'discontinued_policy_fund': F({'name': 'Discontinued Policy Fund', 'FMC': '0.50%', 'guaranteed_return': '4% p.a. minimum'}, 'built-in', P, None, 'subject to a minimum guarantee of interest @ 4% p.a. or as prescribed by IRDA of India from time to time.'),
+ },
+ 'protection_add_ons': {
+  'waiver_of_premium_inbuilt': F(None, 'not offered'), 'critical_illness': NS(), 'terminal_illness': NS(),
+  'spouse_or_child_cover': F('Joint Life option covers two lives (single pay)', 'optional (at inception)', B, None, 'The plan allows you the option to choose between Single Life (life coverage for one individual) and Joint Life Coverage (life coverage for two individuals under the policy).'),
+  'accidental_death': F('Bharti AXA Life Linked Complete Shield Rider (130A012V02)', 'rider', B, None, 'Bharti AXA Life Linked Complete Shield Rider 130A012V02'),
+  'riders_available': F([{'name': 'Bharti AXA Life Linked Complete Shield Rider', 'UIN': '130A012V02'}], 'rider', B, None, 'Bharti AXA Life Linked Complete Shield Rider 130A012V02'),
+ },
+ 'surrender_revival': {
+  'lock_in_years': F(5, 'built-in', P, None, 'Lock-in Period is a period of five years from the Date of Commencement of Risk.'),
+  'discontinuance_rules': F('in lock-in: fund less discontinuance charge to the Discontinued Policy Fund, cover stops; after lock-in: reduced paid-up unless revived or withdrawn', 'built-in', P, None, 'the fund value after deducting the applicable discontinuance charges, shall be credited to the discontinued policy fund and the risk cover and rider cover, if any, shall cease.'),
+  'revival_period': F('3 years from the first unpaid premium', 'built-in', P, None, 'All such discontinued policies shall be provided a revival period of three years from date of first unpaid premium.'),
+  'surrender_value_rule': F('in lock-in: fund less discontinuance charge, paid after year 5; after year 5: total fund value', 'built-in', P, None, 'Upon complete withdrawal of the policy after five policy years, the Total Fund Value as on the date of complete withdrawal, shall be payable.'),
+ },
+}
+build('130L088V04', spec,
+  new_features=[{'feature': 'Joint life ULIP (single pay)', 'description': 'two lives under one single-pay policy, with a top-up of the fund on the first death', 'quote': 'Paid up benefits are not applicable for the Joint life option in the product, as this option is only available with the single premium variant.', 'doc': P, 'page': None},
+                {'feature': 'Admin charge only for a limited period', 'description': 'admin charge stops after 5 years (single) or 10 years (limited/regular) and is guaranteed', 'quote': 'The policy administration charges are guaranteed to remain the same throughout the Policy Term.', 'doc': P, 'page': None}],
+  not_public=[])

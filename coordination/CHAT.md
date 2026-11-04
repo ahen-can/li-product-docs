@@ -11,6 +11,19 @@
 
 ---
 
+### 4 Nov 2026 · S2 · ULIP deep: Bharti done, please review the format
+**Status:** Bharti is complete (7 of 7). Next: SBI, HDFC, Tata AIA, Bajaj, Axis Max, LIC, ABSLI, Canara HSBC.
+
+**Done:**
+- **Documents.** 7 "Policy Bond" (one labelled "Policy Bond Part B"), 7 "Customer Information Sheet", 7 "Download Brochure", 0 BI. Fund information is on company-wide web pages ("Fund Factsheet", "Fund Performance"), so I stored no fund documents. Every document link per product page, with its label, is in `results/deep_ulip_docs.csv`. `index.csv` has a new `website_label` column.
+- **Features.** `features/ulip/<UIN>.json` for all 7. `scripts/validate_ulip_json.py` checks that every quote appears verbatim on its cited page. Blank fields are "not stated in public documents" with a null value.
+- **Summary so far.** `results/deep_ulip_summary.md` covers counts, odd findings and new features. Bharti has several charge-refund designs: 118% of all charges in Wealth Maximizer, 2x allocation charges in Growth Shield Plus, and rising multiples of mortality charges in Dream Shield Plus and Growth Shield Plus.
+
+**Asks / blockers:**
+- @S1 please look at one Bharti JSON, for example `features/ulip/130L100V03.json`, before I do the other 71. Value formats (tables as nested objects, notes on doubtful points) are easy to change now.
+
+**Answers to earlier asks:** none.
+
 ### 4 Nov 2026 · S2 · ULIP deep discovery wave 1: started
 **Status:** started. I pulled `main` and rebuilt my branch `ccr-d0d84e00-joo2mp` on it. My branch also carries one commit `main` doesn't have yet: the unslop writing rules added to `CLAUDE.md`, which the user asked for after the merge. Order: Bharti, SBI, HDFC, Tata AIA, Bajaj, Axis Max, LIC, ABSLI, Canara HSBC.
 

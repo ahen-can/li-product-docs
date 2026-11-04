@@ -1,0 +1,670 @@
+{
+ "product": {
+  "uin": {
+   "value": "130L049V05",
+   "status": "n/a",
+   "doc": "Policy Bond",
+   "page": 1,
+   "quote": "UIN: 130L049V05",
+   "note": null
+  },
+  "uin_in_brochure": {
+   "value": "130L049V05",
+   "status": "n/a",
+   "doc": "Download Brochure",
+   "page": 23,
+   "quote": "Bharti AXA Life Future Invest UIN: 130L049V05. Advt. No.: II-Sep-2024-5454",
+   "note": null
+  },
+  "product_name": {
+   "value": "Bharti AXA Life Future Invest",
+   "status": "n/a",
+   "doc": "Policy Bond",
+   "page": 1,
+   "quote": "Bharti AXA Life Future Invest",
+   "note": "the policy bond's definition of \"Policy\" names Bharti AXA Life Grow Wealth (copy error)"
+  },
+  "irdai_description_line": {
+   "value": "A unit linked non-participating individual life insurance plan",
+   "status": "n/a",
+   "doc": "Policy Bond",
+   "page": 1,
+   "quote": "A unit linked non-participating individual life insurance plan",
+   "note": null
+  },
+  "launch_or_version_date": {
+   "value": "brochure Advt No II-Sep-2024-5454 (September 2024)",
+   "status": "n/a",
+   "doc": "Download Brochure",
+   "page": 23,
+   "quote": "Bharti AXA Life Future Invest UIN: 130L049V05. Advt. No.: II-Sep-2024-5454",
+   "note": null
+  },
+  "variants_or_plan_options": {
+   "value": null,
+   "status": "n/a",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": "single plan; single pay or 5-year pay"
+  },
+  "target_segment_stated": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "online_offline": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  }
+ },
+ "eligibility": {
+  "entry_age_min": {
+   "value": "18 years",
+   "status": "n/a",
+   "doc": "Download Brochure",
+   "page": 15,
+   "quote": "Minimum age at entry Maximum age at entry Maximum age at maturity Premium modes Minimum premium Eligibility 18 years (age last birthday) 59 years (age last birthday) 69 years (age last birthday)",
+   "note": null
+  },
+  "entry_age_max": {
+   "value": "59 years",
+   "status": "n/a",
+   "doc": "Download Brochure",
+   "page": 15,
+   "quote": "Minimum age at entry Maximum age at entry Maximum age at maturity Premium modes Minimum premium Eligibility 18 years (age last birthday) 59 years (age last birthday) 69 years (age last birthday)",
+   "note": null
+  },
+  "maturity_age_min": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "maturity_age_max": {
+   "value": "69 years",
+   "status": "n/a",
+   "doc": "Download Brochure",
+   "page": 15,
+   "quote": "Minimum age at entry Maximum age at entry Maximum age at maturity Premium modes Minimum premium Eligibility 18 years (age last birthday) 59 years (age last birthday) 69 years (age last birthday)",
+   "note": null
+  },
+  "policy_term_options": {
+   "value": "10 years",
+   "status": "n/a",
+   "doc": "Download Brochure",
+   "page": 16,
+   "quote": "Policy benefit period 10 years",
+   "note": null
+  },
+  "ppt_options": {
+   "value": "single pay or 5 years",
+   "status": "n/a",
+   "doc": "Download Brochure",
+   "page": 16,
+   "quote": "Premium payment term Single Pay and 5 years",
+   "note": null
+  },
+  "premium_min_annual": {
+   "value": "5-year pay: Rs 18,000 annual, Rs 9,000 half-yearly, Rs 4,500 quarterly, Rs 1,500 monthly",
+   "status": "n/a",
+   "doc": "Download Brochure",
+   "page": 16,
+   "quote": "Annual - Rs 18,000",
+   "note": null
+  },
+  "premium_min_single": {
+   "value": "Rs 50,000",
+   "status": "n/a",
+   "doc": "Download Brochure",
+   "page": 16,
+   "quote": "Premium payment term: Single Pay Rs 50000",
+   "note": null
+  },
+  "premium_max": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "sum_assured_rule": {
+   "value": "single pay: 125% of single premium; 5-year pay: higher of 10 x AP or 0.5 x policy term x AP",
+   "status": "built-in",
+   "doc": "Download Brochure",
+   "page": 3,
+   "quote": "Premium Payment Term: 5 Years Sum Assured Higher of 10 times Annualized Premium Or (0.5* Policy Term* annualized premium)",
+   "note": null
+  },
+  "premium_modes": {
+   "value": "yearly, half-yearly, quarterly, monthly (quarterly and monthly through ECS only)",
+   "status": "n/a",
+   "doc": "Policy Bond",
+   "page": 2,
+   "quote": "Premium Payment modes available under the Policy are annual, half yearly, quarterly and monthly.",
+   "note": null
+  },
+  "life_cover_multiple_choice": {
+   "value": null,
+   "status": "not offered",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": "sum assured is fixed by formula"
+  }
+ },
+ "charges": {
+  "premium_allocation_charge": {
+   "value": "nil",
+   "status": "built-in",
+   "doc": "Download Brochure",
+   "page": 2,
+   "quote": "Zero Allocation Charge: With this plan, you are not charged any premium allocation charge.",
+   "note": "the policy bond's charges section lists no premium allocation charge"
+  },
+  "policy_administration_charge": {
+   "value": {
+    "5-year pay": {
+     "Y1-5": "0.5% of AP per month",
+     "Y6-10": "0.5%"
+    },
+    "single pay": {
+     "Y1-5": "0.2%",
+     "Y6-10": "0%"
+    },
+    "cap": "Rs 6,000 a year"
+   },
+   "status": "built-in",
+   "doc": "Policy Bond",
+   "page": 6,
+   "quote": "The Policy administration charge is subject to a maximum of Rs. 6000 per annum.",
+   "note": "table read from layout text of policy bond p.6"
+  },
+  "fund_management_charge": {
+   "value": {
+    "min": "1.00%",
+    "max": "1.35%",
+    "discontinued_policy_fund": "0.50%"
+   },
+   "status": "built-in",
+   "doc": "Policy Bond",
+   "page": 6,
+   "quote": "The above charges will not exceed the maximum cap prescribed by IRDAI which is currently 1.35% pa.",
+   "note": null
+  },
+  "mortality_charge": {
+   "value": "per 1000 sum at risk; separate rates for healthy male and healthy female lives published in the policy bond",
+   "status": "built-in",
+   "doc": "Policy Bond",
+   "page": 6,
+   "quote": "Mortality Charge per Rs. 1000 Sum at Risk",
+   "note": "sum at risk = sum assured net of partial withdrawals less fund value"
+  },
+  "discontinuance_charge": {
+   "value": {
+    "5-year pay": "AP up to Rs 50,000: lower of 20/15/10/5% of AP or FV or Rs 3,000/2,000/1,500/1,000; above: lower of 6/4/3/2% or Rs 6,000/5,000/4,000/2,000; nil from Y5",
+    "single pay": "SP up to Rs 3 lakh: lower of 2/1.5/1/0.5% of SP or FV or Rs 3,000/2,000/1,500/1,000; above: lower of 1/0.7/0.5/0.35% or Rs 6,000/5,000/4,000/2,000; nil from Y5"
+   },
+   "status": "built-in",
+   "doc": "Policy Bond",
+   "page": 7,
+   "quote": "The Discontinuance Charge shall be levied at the time of surrender or on Discontinuance of Premium whichever is earlier.",
+   "note": null
+  },
+  "switching_charge": {
+   "value": "12 free switches a year, then Rs 100 per switch; minimum switch Rs 1,000; can be raised to Rs 300 with IRDAI approval",
+   "status": "built-in",
+   "doc": "Policy Bond",
+   "page": 5,
+   "quote": "Switches more than twelve times in a policy year will be charged at Rs. 100 per Switch.",
+   "note": null
+  },
+  "partial_withdrawal_charge": {
+   "value": "two free partial withdrawals per policy year; no further withdrawals that year",
+   "status": "built-in",
+   "doc": "Policy Bond",
+   "page": 3,
+   "quote": "In a Policy Year, the Policyholder is entitled to make two Partial Withdrawals, free of charge subject to the limit of minimum and maximum Partial Withdrawal amount.",
+   "note": null
+  },
+  "premium_redirection_charge": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "miscellaneous_charge": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "guarantee_charge": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "rider_charges": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "any_charge_returned": {
+   "value": null,
+   "status": "not offered",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": "no charge is returned"
+  }
+ },
+ "benefits": {
+  "death_benefit_formula": {
+   "value": "higher of: sum assured net of partial withdrawals in the last 2 years; 105% of premiums paid; fund value",
+   "status": "built-in",
+   "doc": "Policy Bond",
+   "page": 2,
+   "quote": "The death beneﬁt payable under the product will be Higher of : 1. Sum assured (net of partial withdrawals#) 2. 105% of all premiums paid till the date of death (excluding underwriting extra) 3. Policy Fund Value as on the date of intimation of death",
+   "note": null
+  },
+  "maturity_benefit": {
+   "value": "fund value; settlement option",
+   "status": "built-in",
+   "doc": "Policy Bond",
+   "page": 2,
+   "quote": "In case the life assured survives till maturity and all due premiums have been paid till the date of maturity, the Policy Fund Value will be payable to Policyholder on the Maturity Date.",
+   "note": null
+  },
+  "loyalty_additions": {
+   "value": null,
+   "status": "not offered",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": "no additions of any kind in the policy bond"
+  },
+  "wealth_boosters_or_guaranteed_additions": {
+   "value": null,
+   "status": "not offered",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "return_of_mortality_charges": {
+   "value": null,
+   "status": "not offered",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "return_of_premium_allocation_charges": {
+   "value": null,
+   "status": "n/a",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": "no allocation charge"
+  },
+  "return_of_policy_admin_charges": {
+   "value": null,
+   "status": "not offered",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "other_additions": {
+   "value": null,
+   "status": "not offered",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  }
+ },
+ "flexibility": {
+  "fund_switching": {
+   "value": "12 free a year, then Rs 100 each",
+   "status": "built-in",
+   "doc": "Policy Bond",
+   "page": 5,
+   "quote": "Switches more than twelve times in a policy year will be charged at Rs. 100 per Switch.",
+   "note": null
+  },
+  "premium_redirection": {
+   "value": "after the first policy year; minimum 5% per fund",
+   "status": "optional (during term)",
+   "doc": "Policy Bond",
+   "page": 2,
+   "quote": "can be modiﬁed only after the ﬁrst Policy Year by submitting the Investment Fund Allocation Instruction.",
+   "note": null
+  },
+  "partial_withdrawals": {
+   "value": "after the 5-year lock-in; minimum Rs 1,000; two per policy year; policy terminates if fund falls below 120% of AP after a withdrawal",
+   "status": "optional (during term)",
+   "doc": "Policy Bond",
+   "page": 3,
+   "quote": "In case the Policy Fund Value becomes less than 120% of the Annualised Regular Premium after the partial withdrawal, the Policy will be terminated.",
+   "note": null
+  },
+  "systematic_withdrawal_plan": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "top_up_premiums": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "settlement_option": {
+   "value": "periodic withdrawals for up to 5 years after maturity; cover during settlement: higher of fund value or 105% of premiums",
+   "status": "optional (during term)",
+   "doc": "Policy Bond",
+   "page": 2,
+   "quote": "If the Life Insured dies during the Settlement Period, then the higher of Policy Fund Value as on the date of death or 105% of total premiums paid shall be paid to the Nominee and the Policy will stand terminated",
+   "note": null
+  },
+  "premium_holiday_or_offset": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "increase_decrease_cover": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "change_ppt_or_term": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "policy_loan": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "auto_portfolio_strategies": {
+   "value": null,
+   "status": "not offered",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": "no investment strategies in the policy bond"
+  }
+ },
+ "funds": {
+  "fund_count": {
+   "value": "6 funds plus the Discontinued Policy Fund",
+   "status": "n/a",
+   "doc": "Policy Bond",
+   "page": 5,
+   "quote": "The six Investment Funds currently oﬀered under the Policy by the Company are - Growth Opportunities Plus Fund, Grow Money Plus Fund, Save’n’grow Money Fund, Steady Money Fund, Safe Money Fund and Build India Fund.",
+   "note": null
+  },
+  "fund_list": {
+   "value": [
+    {
+     "name": "Growth Opportunities Plus Fund",
+     "SFIN": "ULIF01614/12/2009EGRWTHOPPL130",
+     "FMC_pct": 1.35,
+     "asset_allocation": "equity 80-100%, money market 0-20%",
+     "risk_label": "High"
+    },
+    {
+     "name": "Grow Money Plus Fund",
+     "SFIN": "ULIF01214/12/2009EGROMONYPL130",
+     "FMC_pct": 1.35,
+     "asset_allocation": "equity 80-100%, money market 0-20%",
+     "risk_label": "High"
+    },
+    {
+     "name": "Build India Fund",
+     "SFIN": "ULIF01909/02/2010EBUILDINDA130",
+     "FMC_pct": 1.35,
+     "asset_allocation": "equity 80-100%, debt 0-20%, money market 0-20%",
+     "risk_label": "High"
+    },
+    {
+     "name": "Save'n'grow Money Fund",
+     "SFIN": "ULIF00121/08/2006BSAVENGROW130",
+     "FMC_pct": 1.25,
+     "asset_allocation": "equity 0-60%, debt 0-90%, money market 0-40%",
+     "risk_label": "Moderate"
+    },
+    {
+     "name": "Steady Money Fund",
+     "SFIN": "ULIF00321/08/2006DSTDYMOENY130",
+     "FMC_pct": 1.0,
+     "asset_allocation": "debt 60-100%, money market 0-40%",
+     "risk_label": "Low"
+    },
+    {
+     "name": "Safe Money Fund",
+     "SFIN": "ULIF01007/07/2009LSAFEMONEY130",
+     "FMC_pct": 1.0,
+     "asset_allocation": "debt 60-100%, money market 0-40%",
+     "risk_label": "Low"
+    }
+   ],
+   "status": "n/a",
+   "doc": "Policy Bond",
+   "page": 6,
+   "quote": "Growth Opportunities Plus Fund Grow Money Plus Fund Build India Fund Save’n’grow Money Fund Steady Money Fund Safe Money Fund Discontinued Policy Fund Fund Management Charge 1.35% per annum 1.35% per annum 1.35% per annum 1.25% per annum 1.00% per annum 1.00% per annum 0.50% per annum",
+   "note": null
+  },
+  "index_or_thematic_funds": {
+   "value": "Build India Fund (infrastructure); no index fund",
+   "status": "n/a",
+   "doc": "Policy Bond",
+   "page": 5,
+   "quote": "To provide long term capital appreciation, through exposure to equity investments in Infrastructure and allied sectors",
+   "note": null
+  },
+  "discontinued_policy_fund": {
+   "value": {
+    "name": "Discontinued Policy Fund",
+    "FMC": "0.50%"
+   },
+   "status": "built-in",
+   "doc": "Policy Bond",
+   "page": 6,
+   "quote": "Discontinued Policy Fund Fund Management Charge",
+   "note": null
+  }
+ },
+ "protection_add_ons": {
+  "waiver_of_premium_inbuilt": {
+   "value": null,
+   "status": "not offered",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "critical_illness": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "accidental_death": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "terminal_illness": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "spouse_or_child_cover": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "riders_available": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": "no rider is named in the policy bond or brochure pages read"
+  }
+ },
+ "surrender_revival": {
+  "lock_in_years": {
+   "value": 5,
+   "status": "built-in",
+   "doc": "Policy Bond",
+   "page": 1,
+   "quote": "Lock-in Period is a period of ﬁve years from the Date of Commencement of Risk.",
+   "note": null
+  },
+  "discontinuance_rules": {
+   "value": "in lock-in: fund less discontinuance charge to the Discontinued Policy Fund, cover stops; after lock-in: reduced paid-up unless revived or withdrawn",
+   "status": "built-in",
+   "doc": "Policy Bond",
+   "page": 3,
+   "quote": "the fund value after deducting the applicable discontinuance charges, shall be credited to the discontinued policy fund and the risk cover and rider cover, if any, shall cease.",
+   "note": null
+  },
+  "revival_period": {
+   "value": "3 years from the first unpaid premium",
+   "status": "built-in",
+   "doc": "Policy Bond",
+   "page": 3,
+   "quote": "All such discontinued policies shall be provided a revival period of three years from date of ﬁrst unpaid premium.",
+   "note": null
+  },
+  "surrender_value_rule": {
+   "value": "single pay: fund value any time (less discontinuance charge in lock-in); regular: discontinued fund proceeds after lock-in",
+   "status": "built-in",
+   "doc": "Policy Bond",
+   "page": 3,
+   "quote": "In case of Single Premium Policies, the Policyholder has an option to surrender the Policy any time.",
+   "note": null
+  }
+ },
+ "documents_inventory": [
+  {
+   "website_label": "Fund Factsheet",
+   "doc_type": "fund_factsheet",
+   "url": "https://www.bhartiaxa.com/manage-funds/newsletter-and-fund-factsheet",
+   "found_on_page_url": "https://www.bhartiaxa.com/investment-plans/future-invest-plan",
+   "pages": null,
+   "stored_path": null,
+   "status": "web page (not stored)",
+   "note": "fund information is a web page, not a document"
+  },
+  {
+   "website_label": "Download Brochure",
+   "doc_type": "brochure",
+   "url": "https://www.bhartiaxa.com/sites/default/files/2025-01/bharti-axa-life-future-invest-sales-literature.pdf",
+   "found_on_page_url": "https://www.bhartiaxa.com/investment-plans/future-invest-plan",
+   "pages": 23,
+   "stored_path": "docs/bharti-life/130L049V05/brochure.pdf",
+   "status": "already stored",
+   "note": null
+  },
+  {
+   "website_label": "Policy Bond",
+   "doc_type": "policy_document",
+   "url": "https://www.bhartiaxa.com/sites/default/files/2025-03/bharti-axa-life-future-invest-policy-bond-part_b.pdf",
+   "found_on_page_url": "https://www.bhartiaxa.com/investment-plans/future-invest-plan",
+   "pages": 13,
+   "stored_path": "docs/bharti-life/130L049V05/policy.pdf",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "website_label": "Customer Information Sheet",
+   "doc_type": "CIS",
+   "url": "https://www.bhartiaxa.com/sites/default/files/2024-09/bharti-axa-life-future-invest-cis.pdf",
+   "found_on_page_url": "https://www.bhartiaxa.com/investment-plans/future-invest-plan",
+   "pages": 15,
+   "stored_path": "docs/bharti-life/130L049V05/cis.pdf",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "website_label": "Fund Performance",
+   "doc_type": "fund_factsheet",
+   "url": "https://www.bhartiaxa.com/life-insurance-policy-updates",
+   "found_on_page_url": "https://www.bhartiaxa.com/investment-plans/future-invest-plan",
+   "pages": null,
+   "stored_path": null,
+   "status": "web page (not stored)",
+   "note": "fund information is a web page, not a document"
+  }
+ ],
+ "new_features_not_in_schema": [
+  {
+   "feature": "Zero premium allocation charge",
+   "description": "all of each premium is invested",
+   "quote": "Zero Allocation Charge: With this plan, you are not charged any premium allocation charge.",
+   "doc": "Download Brochure",
+   "page": 2
+  },
+  {
+   "feature": "Separate male and female mortality tables",
+   "description": "the policy bond publishes distinct rates for healthy male and female lives rather than an age setback",
+   "quote": "Mortality Charge per Rs. 1000 Sum at Risk",
+   "doc": "Policy Bond",
+   "page": 6
+  }
+ ],
+ "data_not_public": []
+}

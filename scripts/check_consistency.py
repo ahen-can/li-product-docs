@@ -23,8 +23,8 @@ for f, n in paths.items():
         notes = [r['notes'] for r in I if r['file_path'] == f]
         if sum('same file as' in x for x in notes) != n - 1: print('file shared without dedupe note', f, n); bad += 1
 for rf in sys.argv[1:] or ['results/light_discovery_results.csv']:
-    keys = collections.Counter((r['uin'], r['product_name']) for r in I)
+    keys = collections.Counter((r['uin'], r['product_name'], r['doc_type']) for r in I)   # the light pass keeps one file per product
     for r in csv.DictReader(open(rf)):
-        if r['status'] == 'ok' and keys[(r['uin'], r['product_name'])] != 1:
-            print(rf, 'ok result with', keys[(r['uin'], r['product_name'])], 'index rows:', r['row_id'], r['product_name']); bad += 1
+        if r['status'] == 'ok' and keys[(r['uin'], r['product_name'], r['doc_type'])] != 1:
+            print(rf, 'ok result with', keys[(r['uin'], r['product_name'], r['doc_type'])], 'index rows of its doc type:', r['row_id'], r['product_name']); bad += 1
 print('problems:', bad, '| index rows', len(I), '| files', len(files))

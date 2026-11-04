@@ -1,0 +1,1853 @@
+Policy Document-
+Bharti AXA Life Wealth Pro
+A Unit Linked, Non-Participating Individual Life Insurance Plan
+In this policy, the investment risk in the investment portfolio is borne by the policyholder
+                                                              PART B
+
+1. Definitions: (meaning of technical words used in Policy             s) Nominee is the person nominated under the Policy to
+   Document)                                                              receive the benefits under the Policy in the event of death
+                                                                          of the Life Insured before Maturity Date as per the
+   a) Age is the Age at last birthday in completed years.
+                                                                          provisions of Section 39 of Insurance Act, 1938 as
+   b) Allocation means the creation of Units in the applicable            amended from time to time. This is applicable where the
+      Investment Fund/s at the prevailing Unit Price.                     Policyholder and Life Insured are the same.
+   c) Annualized Premium means the premium amount                      t) Partial Withdrawal means any part of fund / partial
+      payable in a year excluding the taxes, rider premiums               withdrawal that is encashed / withdrawn by the
+      and underwriting extra premium on riders, if any.                   Policyholder during the term of the Policy.
+   d) Appointee means the person appointed by You to                   u) Policy means Bharti AXA Life Wealth Pro along with the
+      receive the benefits payable under the Policy till the              unique Policy number issued to You as mentioned in the
+      Nominee is a minor as per applicable Indian Laws                    “Policy Schedule”
+   e) Base Policy is the life insurance product chosen by the          v) Policy Anniversary Date is the date which periodically
+      Policyholder out of the various products offered by the             falls after every twelve months starting from the Date of
+      Company.                                                            Commencement of Risk whilst the Policy is in force.
+   f) Date of Commencement of Risk is the date from which              w) Policy Charges are the charges associated with the Policy
+      the Life Insurance coverage under this Policy                       as detailed in Part E of the Policy Document.
+      commences and is as specified in the Policy Schedule.
+                                                                       x) Policy Document means and includes the proposal form
+   g) Date of Inception of Policy is the date on which the                for insurance submitted by the Policyholder, the Policy
+      Policy is issued and is as specified in the Policy                  Schedule, the first premium receipt, any attached
+      Schedule.                                                           endorsements or supplements provided by the Company
+                                                                          from time to time, the medical examiner’s report and any
+   h) Discontinuance means the state of a Policy that could               other document/s called for by the Company and submitted
+      arise on account of Surrender of the Policy or non-                 by the Policyholder to enable the Company to process the
+      payment of the premium before the expiry of the grace               proposal.
+      period.
+                                                                       y) Policy Fund Value is the value of the aggregate of the
+   i) Discontinuance charge means a charge that can be                    number of outstanding Units on any day in each
+      levied upon the Discontinuance of the Policy                        Investment Fund allocated under this Policy multiplied by
+   j) Discontinued Policy Fund means the fund that is set                 their respective Unit Prices applicable as on that day.
+      aside and is constituted by the fund value, as applicable,          Illustration:
+      of all the discontinued policies.                                     (if a customer holds 100 units of Grow Money Plus Fund
+   k) Investment Fund is a specific and separate fund                       and 50 units of Growth Opportunities Plus Fund, and
+      managed for the exclusive interest of all Policyholders               assuming the NAV of the Grow Money Plus Fund is Rs.11
+      sharing the same Investment Fund option. The Company                  and that of Growth Opportunities Plus Fund is Rs.12, the
+      offers a number of Investment Funds from time to time                 Policy Fund Value of the customer would be calculated as
+      earmarked for its unit linked business and each of these              follows:
+      Investment Funds have an asset Allocation mix of                      Grow Money Plus Fund :100 units x Rs.11 = Rs.1100
+      various financial instruments.                                        Growth Opportunities Plus Fund 50 units x Rs.12 = Rs.600
+   l) Investment      Fund      Allocation     Instruction   is             Policy Fund Value               = Rs.1700)
+      Policyholders instruction for Allocation of the premiums         z)   Policy Schedule contains a brief description of the
+      net of all relevant Premium Allocation Charge for                     Policy, the Policyholder and the Life Insured and forms an
+      purchase of Units in the Investment Fund as specified by              integral part of the Policy.
+      Policyholder.
+                                                                   aa) Policy Term is the number of Policy Years for which the
+   m) Lapse is the status of the Policy where the premium due          Policy is in-force, commencing from the Date of
+      is not paid before the expiry of grace period.                   Commencement of Risk and ending on the Maturity Date
+   n) Life/Lives Insured is the person(s) named in the Policy          and is mentioned in the Policy Schedule.
+      Schedule and whose life/lives is(are) covered under the      bb) Policy Year is measured from the Date of Commencement
+      Policy.                                                          of Risk and is a period of twelve consecutive calendar
+   o) Limited Premium Payment Policy is a Policy wherein               months and includes every subsequent twelve consecutive
+      the Premium Payment Term is limited as compared to               calendar months.
+      the Policy Term.                                             cc) Policyholder is the owner of the Policy whose name is
+   p) Lock-in Period is a period of five years from the Date of        mentioned in the proposal form.
+      Commencement of Risk.                                        dd) Premium Payment Term means the number of Policy
+   q) Maturity Date is the date on which the Policy Term               Years for which the Policyholder is required to pay the
+      concludes and is specified in the Policy Schedule.               premium.
+
+   r) Modal Premium is the amount payable by the                   ee) Premium Redirection means an option which allows the
+       Policyholder on the due dates in a policy year as per the       Policyholder to modify the Allocation of amount of renewal
+       mode chosen by the Policyholder.                                premium to various segregated funds, under a unit linked
+UIN: 130L100V03
+Policy Document-
+Bharti AXA Life Wealth Pro
+A Unit Linked, Non-Participating Individual Life Insurance Plan
+
+
+
+
+       policy, offered through a different investment pattern from    tt)   Unit is a portion or a part of the underlying Investment
+       the option exercised at the Date of Commencement of Risk             Fund Purchased from the Premiums paid under the Policy.
+       of the Policy.
+                                                                      uu) Unit Price is the value per Unit of each Investment Fund
+ ff)   “Proceeds of the Discontinued Policy” means the fund               calculated in accordance with Part E.
+       value as on the date of discontinuance plus entire income
+                                                                      vv) Valuation Date is the date on which the Unit Price of the
+       earned after deduction of the fund management charges,
+                                                                          Investment Fund is determined in accordance with the
+       subject to a minimum guarantee of interest @ 4% p.a. or
+                                                                          Valuation provisions of this Policy
+       as prescribed by IRDA of India from time to time.
+                                                                      ww) You/Your/Yours refers to the Policyholder/ Life Insured
+ gg) Regular Premium Payment Policy is a Policy wherein the
+     premium payment is made throughout the Policy Term.
+ hh) Return of Mortality Charges (RoMC) is the total amount           The terms defined above shall also act as a reference guide
+                                                                      to the Policy Document in terms of IRDA of India Circular
+     of Mortality charges (excluding any extra Mortality charge
+                                                                      No. IRDA/LIFE/CIR/GDL/034/01/2014 dated 14 January 2014'
+     & or any other applicable tax/cess levied) deducted during
+     the Policy Term which will be credited to the Policy at
+     maturity date. RoMC will be allocated to the Policy by
+     creating additional Units across Investment Funds.
+ ii)   Return of Premium Allocation charges (RoPC) is the
+       total Premium Allocation Charges (excluding any
+       applicable tax/cess levied) deducted during the Policy
+       Term which will be credited to the Policy at maturity date.
+       RoPAC will be allocated to the Policy by creating additional
+       Units across Investment Funds.
+ jj)   Revival means reviving the Policy after the Policyholder
+       has paid all due premiums.
+ kk) Revival Period is the time of 3 years from the date of the
+     first unpaid premium and is the period available to the
+     Policyholder to revive the Policy
+ ll)   Segregated Fund means the funds as referred in Clause 1
+       Part E.
+ mm) Settlement Option means a facility made available to the
+     Policyholder to receive the Policy Fund Value on Maturity
+     Date in installments in accordance with the terms and
+     conditions.
+ nn) Single Premium Payment Policy means linked insurance
+     products, where the premium payment is made by a single
+     payment at the inception of the Policy.
+ oo) Sum Assured is an assured amount used to calculate the
+     Death Benefit
+ pp) Surrender means complete withdrawal/ termination of the
+     entire Policy by the Policyholder.
+ qq) Surrender Value means an amount, if any, that becomes
+     payable in case of Surrender in accordance with the terms
+     and conditions
+ rr)   Switch is the facility allowing the Policyholder to change
+       the investment pattern by moving from one Investment
+       Fund to other Investment Fund(s) amongst the Investment
+       Funds offered under the Policy.
+ ss) The Company /Company means Bharti AXA Life
+     Insurance Company Limited.
+
+
+
+
+UIN: 130L100V03
+Policy Document-
+Bharti AXA Life Wealth Pro
+A Unit Linked, Non-Participating Individual Life Insurance Plan
+
+                                                                  PART C
+                                                           Benefits payable
+
+1. Death Benefit                                                      In case of the death of the Life Insured while the policy is in a
+   In case of death of the Life Insured during the Policy Term,       discontinuance status and the monies are a part of the
+   the Death Benefit will be payable to the Nominee or the            ‘Discontinued Policy Fund’, the Policy Fund Value as on the
+   Policyholder as the case may be, subject to Policy being in        date of death shall be payable and the Policy will terminate.
+   force and all due premiums till the date of death have been
+                                                                      In case of the death of the Life Insured during the Settlement
+   paid.
+                                                                      Period, the Higher of Policy Fund Value or 105% of total
+   The Death Benefit will be highest of:                              premiums paid as on the date of death shall be payable to the
+                                                                      Nominee/ legal heirs and the policy will terminate.
+   1.   Sum Assured* less Partial Withdrawals made in the
+        two-year period immediately preceding the date of             Subject to the exclusions as mentioned in the Policy Document,
+        death of Life Insured.                                        the death benefit shall be payable for death under all situations
+                                                                      (including death during declared or undeclared war, civil
+   2.   105% of all premiums paid as on date of death.
+                                                                      commotion, invasion, terrorism, Naxalite Operation and
+   3.   Policy Fund Value (including any Loyalty Additions) as        hostilities).
+        on the date of death of the Life Insured
+                                                                      2. Maturity Benefit
+Sum Assured will be as per table below:
+                                                                      On maturity, subject to the policy being in-force and depending
+                                                                      upon the variant chosen, the Policyholder shall be eligible for
+Variant Premium Policy          Age last        Sum Assured
+                                                                      the Maturity Benefit as follows –
+        Payment Term            birthday
+          Term                                                        i.   Growth Variant: Maturity Benefit payable shall be equal to
+                                                                           the Policy Fund Value (including Return of Mortality
+Growth     Single  10          <= 50 years     Option 1: 125% *
+                                                                           Charges, Return of Premium Allocation Charges and Wealth
+          Premium years                        Single Premium              Boosters) as on the date of maturity.
+                                                Option 2: 10 *        ii. Legacy Variant: Maturity Benefit payable shall be equal to
+                                               Single Premium             the Policy Fund Value (including Loyalty Additions and
+                               > 50 years       125% * Single             Wealth Boosters) as on the date of maturity.
+                                                  Premium             The Policy Fund Value is calculated with the respective Unit
+                      15       <= 46 years     Option 1: 125% *       Prices of the relevant Investment Funds to which the premium/s
+                     years                     Single Premium         have been allocated as on their Valuation Dates, coinciding with
+                                                                      the Maturity Date of the Policy.
+                                                Option 2: 10 *
+                                               Single Premium         At maturity, the Policyholder may also choose to avail of the
+                                                                      Settlement Option.
+                               > 46 years       125% * Single
+                                                  Premium
+                                                                      3. Other Benefits
+                      20       <= 43 years     Option 1: 125% *            a) Loyalty Additions (Applicable in Legacy variant):
+                     years                     Single Premium                 Subject to the Policy being in-force, and the Variant
+                                                Option 2: 10 *                chosen, Loyalty Additions will be credited to the Policy at
+                                                                              the end of each Policy Year starting from the end of tenth
+                                               Single Premium
+                                                                              Policy Year till one year before the date of maturity.
+                               > 43 years       125% * Single                 Loyalty Additions will be allocated to the Policy by
+                                                  Premium                     creating additional Units across Investment Funds, in the
+Growth Limited/        All         All         10 * Annualized                same proportion as the investment fund allocation
+ and   Regular                                   Premium#                     instruction then in effect.
+Legacy Premium                                                                The Loyalty Additions are as follows:
+
+# Annualized premium is the premium selected by the
+                                                                                                               % of Policy Fund Value*
+policyholder at inception of the policy, excluding applicable                Variant          Policy Year
+taxes.                                                                                                         as at end of Policy Year
+                                                                                              From end of
+The Death Benefit shall become payable on/from the date of
+                                                                                             Policy Year 10
+intimation of death, subject to acceptance of the claim by the
+Company. The Policy shall terminate upon payment of Death                    Legacy           till one year             0.75%
+Benefit.                                                                                           before
+                                                                                                 maturity
+In case of the death of the Life Insured during the grace period
+allowed for payment of due Premium, the death benefit shall be               Growth               NA                     0.00
+payable and the Policy will be terminated.
+                                                                       The Loyalty Additions will be payable along with the Policy Fund
+The risk coverage will start from the Date of Commencement of          Value on Maturity. In event of Paid-up Policy, Loyalty Additions
+Risk for all lives, including minors                                   will not be credited after the Policy has attained Paid-Up status.
+
+
+
+
+UIN: 130L100V03
+Policy Document-
+Bharti AXA Life Wealth Pro
+A Unit Linked, Non-Participating Individual Life Insurance Plan
+
+
+
+
+   b) Wealth Booster: Subject to the Policy being in-force,            ii. You are required to pay Premiums for the entire
+      Wealth Booster will be credited to the Policy at the end of          Premium Payment Term.
+      fifth policy year and at Maturity date. Wealth Booster will
+                                                                       iii. If Single Pay option has been chosen by You, only one
+      be allocated to the Policy by creating additional Units
+                                                                            Premium is to be paid and no future Premiums are
+      across Investment Funds, in the same proportion as the
+                                                                            payable.
+      investment fund allocation instruction then in effect.
+                                                                       iv. Premium Payment modes available under the Policy are
+                                      % of Policy Fund Value*              annual, half yearly, quarterly and monthly.
+       Variant         Policy Year
+                                      as at end of Policy Year         v. If the Policyholder discontinues the payment of
+                        End of 5h                                         premiums, the Policy will be treated as Lapsed or Paid-
+                                                0.25%                     up as per the conditions under Part D section 2.
+       Growth &        Policy Year
+        Legacy
+                       At date of                                   6. Riders
+                                                1.25%
+                        Maturity
+                                                                       In case the Policyholder opts for a Rider, the outstanding
+                                                                       term of the Base Policy will be at least equal to 5 years. The
+        For Growth Variant, Wealth Booster shall be calculated         Policy Term of the Rider shall be less than or equal to the
+        as of 1.25% of Fund Value at maturity before adding            Premium Payment Term of the Base Policy.
+        back RoMC and RoPAC units.
+                                                                       The Premium pertaining to health related or critical illness
+        The Wealth Booster will be payable along with the Policy       riders shall not exceed 100% of premium under the Base
+        Fund Value at Maturity. In event of Paid-up Policy,            Policy, the Premiums under all other life insurance Riders
+        Wealth Booster will not be credited after the Policy has       put together shall not exceed 30% of premiums under the
+        attained Paid-Up status.                                       Base Policy and any benefit arising under each of the above
+   c) Return of Mortality Charges (RoMC) and Return of                 mentioned Riders shall not exceed the Sum Assured under
+      Premium Allocation Charge (RoPAC) (Applicable                    the Base Policy.
+      only in Growth Variant): Subject to Policy being in force
+      (including revived policies), the total amount of Mortality
+      charges (excluding any extra Mortality charge & or any
+      applicable tax/cess levied) and total Premium Allocation
+      Charges (excluding any applicable tax/cess levied)
+      deducted during the Policy Term will be credited to the
+      Policy at maturity. RoMC and RoPAC will be allocated to
+      the Policy by creating additional Units across Investment
+      Funds, in the same proportion as the investment fund
+      allocation instruction then in effect.
+        RoMC and RoPAC shall not be credited in case of
+        Surrender, Discontinued or Paid-up Policy.
+
+4. Grace Period
+   Grace period is the period, as mentioned below, which shall
+   be applicable to the Policyholder to pay all the unpaid
+   premiums, in case the premiums had not been paid as on
+   the Premium Due date.
+   The Policyholder gets the Grace period of:
+   •    Fifteen (15) days in case of Monthly Premium Payment
+        Mode
+   •    Thirty (30) days in case of Annual Premium Payment
+        mode
+   to pay the premiums which fell due and the benefits under
+   the Policy remain unaltered during this period.
+   During the said Grace period, the policy will be inforce
+   status.
+   Grace Period is not applicable for Single Premium Payment
+   Policy.
+
+5. Payment of Premium
+  i.    You are required to pay Premiums on the due dates and
+        for the amount mentioned in the Policy Schedule.
+
+
+UIN: 130L100V03
+Policy Document-
+Bharti AXA Life Wealth Pro
+A Unit Linked, Non-Participating Individual Life Insurance Plan
+
+                                                               PART D
+                                                  Policy Servicing Related Aspects
+
+1. Free Look Period                                                            period. The Fund management charges of
+   If Policyholder disagrees with any of the terms and                         discontinued fund will be applicable during this period
+   conditions of the Policy, there is an option to return the                  and no other charges will be applied.
+   original Policy along with a letter stating reason/s within 30         ii. In case the Policyholder does not exercise the option
+   days of receipt of the Policy in case of offline Policy and                as set out above, the Policy shall continue without
+   within 30 days of receipt of the Policy in case of electronic              any risk cover and rider cover, if any, and the policy
+   Policy & policy sourced through distance marketing (i.e.                   fund shall remain invested in the discontinuance fund.
+   online sales). The Policy will accordingly be cancelled and                At the end of the lock-in period, the proceeds of the
+   the Company will refund the premium amount paid by the                     discontinuance fund shall be paid to the Policyholder
+   Policyholder excluding the Proportionate risk premium for                  and the Policy shall terminate.
+   the period on cover and the medical expenses incurred by               iii. However, the Policyholder has an option to surrender
+   the insurer and stamp duty charges.                                         the Policy anytime and proceeds of the discontinued
+   In addition to this, the Company shall also be entitled to                  policy shall be payable at the end of lock-in period or
+   repurchase the units at the price of the units on the date of               date of surrender whichever is later.
+   cancellation.                                                       c) In case of Single premium policies, the Policyholder has
+   All rights under this Policy shall stand extinguished                  an option to surrender any time during the lock-in period.
+   immediately on cancellation of the Policy under the free look          Upon receipt of request for surrender, the fund value,
+   option.                                                                after deducting the applicable discontinuance charges,
+   If the Policy is opted through Insurance Repository (IR), the          shall be credited to the discontinued policy fund.
+   computation of the said Free Look Period will be as stated
+                                                                          i.   Such discontinuance charges shall not exceed the
+   below:-                                                                     charges stipulated in ‘Charges’ – Discontinuance
+   For existing e-Insurance Account: Computation of the said                   charges of this document.
+   Free Look Period will commence from the date of delivery of
+   the e mail confirming the credit of the Insurance Policy by            ii. The Policy shall continue to be invested in the
+                                                                              discontinued policy fund and the proceeds from the
+   the IR.
+                                                                              discontinuance fund shall be paid at the end of lock-in
+   For New e-Insurance Account: If an application for e-
+                                                                              period. Fund management charge can be deducted
+   Insurance Account accompanies the proposal for insurance,                  from this fund during this period. Further, no risk
+   the date of receipt of the ‘welcome kit’ from the IR with the              cover shall be available on such policy during the
+   credentials to log on to the e-Insurance Account(e IA) or the              discontinuance period.
+   delivery date of the email confirming the grant of access to
+                                                                          The minimum guaranteed interest rate applicable to the
+   the eIA or the delivery date of the email confirming the credit
+                                                                          ‘Discontinued Policy Fund’ shall be as per the prevailing
+   of the Insurance policy by the IR to the eIA, whichever is
+                                                                          regulations and is currently 4% p.a. The proceeds of the
+   later shall be reckoned for the purpose of computation of the          discontinued policy shall be refunded only upon
+   free look period.                                                      completion of the lock-in period.
+
+2. Discontinuance of Premium Provision                                    Proceeds of the discontinued policies means the fund
+                                                                          value as on the date the policy was discontinued, after
+   I. Discontinuance of Policy during the lock-in Period:
+                                                                          addition of interest computed at the interest rate
+   a) For other than single premium policies, upon expiry of              stipulated as above.
+      the grace period, in case of discontinuance of Policy due
+      to non-payment of premium, the fund value after                  II. Discontinuance of Policy after the lock-in Period:
+      deducting the applicable discontinuance charges shall be         a) For other than Single Premium Policies:
+      credited to the discontinued policy fund and the risk
+                                                                          i.   Upon expiry of the grace period, in case of
+      cover and rider cover, if any, shall cease.
+                                                                               discontinuance of Policy due to non-payment of
+   b) Such discontinuance charges shall not exceed the                         premium after lock-in period, the Policy shall be
+      charges, stipulated in ‘Charges’ section – Discontinuance                converted into a reduced paid up policy with the paid-
+      charges of this document. All such discontinued policies                 up sum assured i.e. original sum assured multiplied
+      shall be provided a revival period of three years from                   by the total number of premiums paid to the original
+      date of first unpaid premium. On such discontinuance,                    number of premiums payable as per the terms and
+      the Company will communicate the status of the Policy,                   conditions of the Policy. The Policy shall continue to
+      within three months of the first unpaid premium, to the                  be in reduced paid-up status without rider cover, if
+      Policyholder and provide the option to revive the Policy                 any. All charges as per terms and conditions of the
+      within the revival period of three years.                                Policy shall be deducted during the revival period.
+      i. In case the Policyholder opts to revive but does not                  However, the mortality charges shall be deducted
+          revive the Policy during the revival period, the                     based on the reduced paid up sum assured only.
+          proceeds of the discontinued policy fund shall be paid          ii. On such discontinuance, the Company will
+          to the Policyholder at the end of the revival period or             communicate the status of the Policy, within three
+          lock-in period whichever is later. In respect of revival            months of the first unpaid premium, to the
+          period ending after lock-in period, the Policy will                 Policyholder and provide the following options:
+          remain in discontinuance fund till the end of revival
+
+
+
+UIN: 130L100V03
+Policy Document-
+Bharti AXA Life Wealth Pro
+A Unit Linked, Non-Participating Individual Life Insurance Plan
+
+
+
+
+            1. To revive the policy within the revival period of         SWP will be subject to following conditions:
+               three years, or
+                                                                         a) SWP will start from 10th policy year or thereafter;
+            2. Complete withdrawal of the Policy.
+                                                                         b) Maximum allowed systematic withdrawal should not be
+        iii. In case the Policyholder opts for (1) above but does           greater than One Annualized premium.
+             not revive the Policy during the revival period, the
+                                                                              The amount paid out to the Policyholder in each installment
+             fund value shall be paid to the Policyholder at the end
+                                                                              will be withdrawn as Units from the Segregated Funds which
+             of the revival period.
+                                                                              have been invested into in the same proportion. The Units
+        iv. In case the Policyholder does not exercise any option             will be calculated as follows:
+            as set out above, the Policy shall continue to be in
+                                                                              Systematic Withdrawal Amount chosen/ NAV
+            reduced paid up status. At the end of the revival
+            period the proceeds of the policy fund shall be paid to      c) SWP option can be opted anytime during the Policy Term.
+            the Policyholder and the Policy shall terminate.                Once opted, the SWP options such as Systematic
+                                                                            withdrawal amount per annum, Policy year from which the
+        v. However, the Policyholder has an option to surrender
+                                                                            Systematic Withdrawal Plan (SWP), will be payable cannot
+           the Policy anytime and proceeds of the policy fund
+                                                                            be changed.
+           shall be payable. In case of Single Premium Policies,
+           the Policyholder has an option to surrender the Policy        d) The Policyholder may opt out of the Systematic Withdrawal
+           any time. Upon receipt of request for surrender, the             Plan option during the Policy Term by giving the Company
+           fund value as on date of surrender shall be payable.             prior written request, in which case this option will cease to
+                                                                            be effective from the Policy Anniversary following the receipt
+In case of Single Premium Policies, the Policyholder has an
+                                                                            of the request. Once opted out, the Systematic Withdrawal
+option to surrender the Policy any time. Upon receipt of request
+                                                                            Plan cannot be re-chosen.
+for surrender, the fund value as on date of surrender shall be
+payable.                                                                 e) Minimum amount that can be withdrawn under SWP is Rs.
+                                                                            5,000 per installment.
+NON-RECEIPT OF ANY NOTICE AS REQUIRED UNDER THIS
+CONTRACT SHALL NOT BE CONSTRUED AS A BREACH OF                           f) If an installment amount to be withdrawn under SWP is less
+ANY CONTRACTUAL OBLIGATION ON OUR PART                                      than Rs. 5,000 such installment amount shall not be paid.
+                                                                         g) Fund Value after SWP installment and/or partial withdrawal
+3. Partial Withdrawal of Fund Value
+                                                                            should be greater than or equal to 120% of one annualized
+The Policyholder has the option to apply for Partial Withdrawal             premium
+of funds from the Policy Fund Value in the specified form, at any
+time after the completion of the Lock-in Period, if Policy is in         h) Sum Assured at all times should be at least 10 times one
+force or in Reduced Paid Up.                                                annualized premium
+i.   The minimum partial withdrawal limit is Rs 5,000.                   i)   For Policies issued on minor lives, SWP shall not be allowed
+                                                                              until the minor life Insured attains majority i.e. on or after
+ii. The Policy Fund Value should be at least equal to 120% of
+                                                                              attainment of age 18.
+    one Annualized Premium for Regular/Limited Premium
+    Payment Policy or 25% of single premium for Single                   Both Systematic Withdrawal Plan and Partial Withdrawal can be
+    Premium Payment Policy after a Partial Withdrawal.                   availed simultaneously. SWP will follow all other the conditions
+                                                                         of partial withdrawals.
+iii. For Policies issued on minor lives, Partial Withdrawals shall
+     not be allowed until the minor life Insured attains majority i.e.
+     on or after attainment of Age 18.                                   4. Complete Withdrawal / Surrender
+                                                                              a) Complete withdrawal of this Policy within Lock-in
+In a Policy Year, the Policyholder is entitled to make any                       period: Upon Your request, Policy can be completely
+number of Partial Withdrawals free of charge subject to the limit                withdrawn during lock-in period of 5 years. On complete
+of minimum and maximum Partial Withdrawal amount as                              withdrawal of the Policy, fund value less applicable
+described above.                                                                 discontinuance charges as on the date of
+Partial withdrawal shall not be allowed if it would result in                    discontinuance, shall be credited into the Discontinued
+termination of the contract.                                                     Policy Fund maintained by the Company at a minimum
+                                                                                 guaranteed rate of 4% p.a. or as prescribed by IRDAI of
+SWP (Systematic Withdrawal Plan): is an automated partial                        India from time to time. The “Proceeds of the
+withdrawal facility which can be opted by the Policyholder under                 Discontinued Policy” shall be payable to Policyholder
+Legacy Variant. Under this facility, a pre-decided amount will be                immediately after completion of the lock-in period. All
+withdrawn from the Policy Fund Value from the end of chosen                      benefits in this Policy shall cease on the date of complete
+policy year and paid to Policyholder till the end of the Policy                  withdrawal.
+Term. At the time of the written request to effect the SWP, the
+Policyholder needs to choose the following:                                   b) Complete withdrawal of Policy after Lock-in period:
+                                                                                 Upon complete withdrawal of the policy after five policy
+a.   Systematic Withdrawal amount per annum, Payout will only                    years, the Total Fund Value as on the date of complete
+     be annually.                                                                withdrawal, shall be payable and the Policy shall
+b.   Policy Year from which the amount under SWP will be                         terminate
+     payable
+
+
+UIN: 130L100V03
+Policy Document-
+Bharti AXA Life Wealth Pro
+A Unit Linked, Non-Participating Individual Life Insurance Plan
+
+
+
+
+5. Settlement Option: The Policyholder may choose to                 The Investment Fund Allocation Instruction is subject to a
+   receive the Policy Fund Value as:                                 minimum allocation percentage in a chosen Investment Fund/s,
+   i.   A lumpsum payment on the date of maturity                    which is currently 5% of the Modal Premium. Currently, the
+                                                                     number of Investment Funds for Allocation is seven. The
+   ii. At regular intervals chosen by the Policyholder, during       change in the Investment Fund Allocation will be effective from
+       the Settlement Period as defined below                        the next premium due date provided the premium is paid within
+   iii. A combination of the above                                   the due date.
+
+   Settlement Period is the period not exceeding five years          Premium Redirection is not applicable for Single Premium
+   commencing from the date of maturity and is an option             Payment Policy.
+   available to the Policyholder at maturity.
+                                                                     7. UNITS
+   a) The Policyholder is required to apply to The Company, in
+      the specified form, intimating the choice at least 90 days     a) Creation of Units
+      prior to the date of maturity. The default option in case of   The Units shall be created based on the Unit Price.
+      non-receipt of such an application would be Option 1 as
+                                                                     Units will be created in the Investment Fund/s on receipt by the
+      mentioned above.
+                                                                     Company of the premium along with a local cheque/demand
+   b) During the Settlement period the death benefit shall be        draft payable at par at the place where the premium/application
+      higher of existing Policy Fund Value or 105% of total          for Switch is received on the following basis:
+      premiums paid as on the date of death. The mortality
+                                                                     i.      the same day’s closing Unit Price shall be applicable if
+      charges shall be deducted accordingly.
+                                                                             received by 3.00 p.m.
+   c) In case Options 2 or 3 are chosen, the Policyholder is
+                                                                     ii.     the next day’s closing Unit Price shall be applicable if
+      required to choose a frequency of withdrawals
+                                                                             received after 3.00 p.m.
+      (monthly/quarterly/semi-annually/annually) from   the
+      Fund.                                                          In   respect    of    premiums      received  with  outstation
+                                                                     cheques/demand drafts at the place where the premium is
+   d) Depending on the frequency of withdrawals chosen, the
+                                                                     received, the closing Unit Price of the day on which cheques/
+      number of units as on the date of maturity will be divided
+                                                                     demand draft is realized shall be applicable.
+      equally as per the frequency. The withdrawal amount will
+      be calculated with the respective Unit Prices of the           However, Units for the first premium shall be allocated on the
+      relevant Investment Funds to which the Annual Regular          day the proposal is accepted and results into a Policy by
+      Premiums have been allocated as on their Valuation             adjustment of proposal deposit towards premium.
+      Dates, multiplied by the number of units.
+                                                                     In case the premium is paid in advance, Units will be created
+   e) The Company shall levy fund management charge and              only on the due date. No interest shall be payable on premium
+      mortality charge during the settlement period and no           paid in advance.
+      other charges shall be levied.
+                                                                     b) Cancellation of Units
+   f) At any time during the Settlement Period the policy            Units will be cancelled from the Investment Funds, wherein an
+      holder can withdraw the balance available Policy Fund          application (including claims, Surrender, Free-Look option,
+      value as on that date.                                         Policy closure, Switch request, Partial Withdrawal and
+   g) However, the Policyholder is not entitled to opt for partial   Discontinuance of Premium) is received by the Company:
+      withdrawals or Switches between Investment Funds               i.    by 3.00 p.m., at the same day’s closing Unit Price shall be
+      during this period.                                                  applicable.
+   The inherent risk of fluctuating markets during the               ii. after 3.00 p.m., at the next day’s closing Unit Price shall be
+   Settlement Period, in respect of Policy Fund Value, shall be          applicable.
+   borne by Policyholder and applicable Fund Management
+   Charge as specified in Clause 2 C under Part E will be
+                                                                     8. Reduced Paid Up
+   levied.
+                                                                     a) In the event of Reduced Paid Up, Policy shall continue with
+   If the Life Insured dies during the settlement period, then the      Reduced Paid Up Sum Assured as mentioned below till the
+   higher of Policy Fund Value as on the date of death or 105%          end of the Revival Period:
+   of total premiums paid shall be paid to the Nominee or the
+   Policyholder as the case may be and the policy shall be                 Sum Assured X Number of Premiums Paid
+   terminated.                                                             Total Number of Premiums Payable
+                                                                     b) The timing of reduced benefits under a Paid up policy
+6. Change in the Investment Fund Allocation (Premium                    remains unaltered and all applicable charges i.e. Policy
+   Redirection)                                                         Administration Charge, Mortality Charge and Fund
+The Investment Fund Allocation as chosen by Policyholder at             Management Charge will continue to be levied.
+the Date of Commencement of Risk of the Policy can be
+modified only after the first Policy Year by submitting the
+Investment Fund Allocation Instruction. Units will be created in
+each of the prevalent Investment Funds for all the future
+premiums as per the modified Investment Fund Allocation
+Instruction.
+
+UIN: 130L100V03
+Policy Document-
+Bharti AXA Life Wealth Pro
+A Unit Linked, Non-Participating Individual Life Insurance Plan
+
+
+
+
+           Events                                    Description of Benefits payable in Reduced Paid Up status
+
+                                  Paid-up Death Benefit, which is the highest of:
+                                  1. Paid-Up Sum assured less all partial withdrawals* made during the two year period immediately
+                                     preceding the date of death of the Life Insured
+                                  2. Policy Fund Value(including any Loyalty Additions and Wealth Boosters already credited as on
+                                     date of Paid-up)
+ Death
+                                  3. 105% of all premiums paid as on date of death
+                                  * Details of Partial withdrawals allowed are specified in Clause 3 Part D
+                                  In case of the death of the life insured during the Settlement Period (as defined in Clause 5 Part D
+                                  above), the Higher of Policy Fund Value as on the date of death or 105% premiums paid shall be
+                                  payable and the policy will terminate.
+                                  Policy Fund Value (including any Loyalty Additions and Wealth Boosters already credited as on date
+ Maturity
+                                  of Paid up)
+ Loyalty Additions                No Loyalty Additions will be credited to the Policy Fund Value after the Policy becomes Paid-up
+ Wealth Booster                   No Wealth Booster will be credited to the Policy Fund Value after the Policy becomes Paid-up
+
+ Return of Mortality Charge
+ (RoMC) and Return of
+                            No RoMC and RoPAC shall be credited to the Policy Fund Value after the Policy becomes Paid-up
+ Premium Allocation
+ Charge (RoPAC)
+
+                                  Policy Fund Value (including any Loyalty Additions and Wealth Boosters already credited as on date
+ Surrender
+                                  of Paid up)
+
+
+9. Revival                                                                     c) Shall add back to the fund, the discontinuance charges
+   a) Subject to Clause 2 under Part D (“Discontinuance of                        deducted at the time of discontinuance of the policy.
+      Premium provision”), and subject to (i) Your written                  II. Revival of a discontinued policy after lock-in period:
+      application for revival is made within three(3) years from                The policyholder can revive the policy, as mentioned
+      the date of first unpaid premium; (ii) production of                      above. Where the policyholder revives the policy, the
+      Insured’s Declaration of Good Heath as per Board                          policy shall be revived restoring the original risk cover in
+      approved Underwriting policy and other evidence of                        accordance with the terms and conditions of the policy.
+      insurability satisfactory to Us; (iii) payment of all overdue             The insurer, at the time of revival:
+      premiums; the Policy may be revived Any evidence of
+                                                                               a) Shall collect all due and unpaid premiums under base
+      insurability requested at the time of revival will be based
+                                                                                  plan without charging any interest or fee.
+      on the prevailing Board approved underwriting policy.
+                                                                               b) Will levy premium allocation charge as applicable.
+   b) Any revival shall only cover loss or Insured event which
+      occurs after the Revival Date.                                           c) No other charges shall be levied.
+   c) The revival of the Policy may be on terms different from
+      those applicable to the Policy before it lapsed. The              10. Suicide
+      revival will take effect only on it being specifically            In case of death due to suicide within 12 months from the date of
+      communicated by the Company.                                      Commencement of the Policy or from the date of Revival of the
+                                                                        Policy as applicable, the Nominee or beneficiary of the
+   I.   Revival of a discontinued policy during lock-in                 Policyholder shall be entitled to the Fund Value as available on
+        period:                                                         the date of intimation of death.
+        Where the policyholder exercises the option to revive the
+        policy, the policy shall be revived restoring the risk cover    Any charges recovered, other than Fund Management Charges
+        along with the investments made in the segregated funds         and guarantee charges subsequent to the date of death shall be
+        as chosen by the policyholder, out of the discontinued          added back to the fund value as available on the date of
+        fund less the applicable charges as mentioned below             intimation of death.
+        and conditions as mentioned above. The Company, at
+        the time of revival:                                            11. Termination
+                                                                        The Policy will terminate on the earliest of the following:
+        a) Shall collect all due and unpaid premiums without
+           charging any interest or fee.                                a) On the date the Surrender Value is paid to the Policyholder.
+        b) May levy policy administration charge and premium            b) Upon receipt of written intimation about the death of Life
+           allocation charge as applicable during the                      Insured along with a supporting document to the satisfaction
+           discontinuance period. No other charges shall be                of the Company and on payment of Death Benefit or
+           levied.
+UIN: 130L100V03
+Policy Document-
+Bharti AXA Life Wealth Pro
+A Unit Linked, Non-Participating Individual Life Insurance Plan
+
+
+
+
+c) If at any time after the Lock-in Period, the Fund Value falls
+   below at least one Annualized Premium, the Policy shall
+   stand terminated.
+d) The Maturity Date of the Policy and on payment of Maturity
+   Benefit; or
+e) Acceptance of Free look request by the Company.
+f) On payment of Fund Value in case of Suicide.
+
+12. Loan
+There is no provision of loan on the Policy.
+
+13. Policy alterations / Modifications
+Only a duly authorized officer of the Company has the power to
+effect changes on the Policy/Plan at the request of the
+Policyholder, subject to the rules of the Company and within the
+regulatory parameters.
+
+14. Advance Premium
+i.   Collection of advance premium shall be allowed within the
+     same financial year for the premium due in that financial
+     year. However, where the premium due in one financial year
+     is being collected in advance in earlier financial year, The
+     Company may collect the same for a maximum period of
+     three months in advance of the due date of the premium.
+ii. The premium so collected in advance shall only be adjusted
+    on the due date of the premium.
+
+
+
+
+UIN: 130L100V03
+Policy Document-
+Bharti AXA Life Wealth Pro
+A Unit Linked, Non-Participating Individual Life Insurance Plan
+
+                                                           PART E
+
+
+1. INVESTMENT FUNDS                                                      the Company are - Growth Opportunities Plus Fund,
+  A. The Company holds legal and beneficial interests in the             Grow Money Plus Fund, Save’n’grow Money Fund,
+     assets of each Investment Fund and has sole discretion              Steady Money Fund, Safe Money Fund, Build India
+     on the investment and the management of each                        Fund, Stability Plus Money Fund and Emerging Equity
+     Investment Fund within the defined asset portfolio                  Fund.
+     Allocation as set out under Clause 1B Part E. The               B. The investment objective, risk profile and asset allocation
+     Investment Funds currently offered under the Policy by             range for the various funds is as mentioned below:
+
+
+
+                                                                                    Asset Category and            Risk-Return
+         Investment Fund                            Objective
+                                                                                     Asset Allocation              Potential
+ Growth Opportunities Plus Fund          To provide long term capital           Debt: NA                         High
+ SFIN:                                   appreciation by investing in stocks    Money Market Instruments:
+ ULIF01614/12/2009EGRWTHOPPL130          across all market capitalization       0% - 20%
+                                         ranges (Large, Mid or small)           Equities: 80% - 100%
+
+
+ Grow Money Plus Fund                    To provide long term capital           Debt: NA                         High
+ SFIN:                                   appreciation by investing across a     Money Market Instruments:
+ ULIF01214/12/2009EGROMONYPL130          diversified high quality equity        0% - 20%
+                                         portfolio                              Equities: 80% - 100%
+
+
+ Build India Fund                        To provide long term capital           Debt: 0% - 20%                   High
+ SFIN:                                   appreciation, through exposure to      Money Market Instruments:
+ ULIF01909/02/2010EBUILDINDA130          equity investments in Infrastructure   0% - 20%
+                                         and allied sectors, and by             Equities: 80% - 100%
+                                         diversifying investments across
+                                         various     sub-sectors    of    the
+                                         infrastructure sector
+
+ Save‘n’grow Money Fund                  To provide steady accumulation of      Debt: 0% - 90%                   Moderate
+ SFIN:                                   income in medium to long term by       Money Market Instruments:
+ ULIF00121/08/2006BSAVENGROW130          investing in high quality debt         0% - 40%
+                                         papers and government securities       Equities: 0% - 60%
+                                         and a limited opportunity of capital
+                                         appreciation. This would be more
+                                         of a defensively managed fund
+
+ Steady Money Fund                       To provide steady accumulation of      Debt: 60% - 100%                 Low
+ SFIN:                                   income in medium to long term by       Money Market Instruments:
+ ULIF00321/08/2006DSTDYMOENY130          investing in corporate bonds and       0% - 40%
+                                         government securities                  Equities: NA
+
+
+ Safe Money Fund                         To provide capital protection          Debt: 60% - 100%                 Low
+ SFIN:                                   through investment in low-risk         Money Market Instruments:
+ ULIF01007/07/2009LSAFEMONEY130          money-market & short-term debt         0% - 40%
+                                         instruments with maturity of 1 year    Equities: NA
+                                         or lesser.
+
+ Stability Plus Money Fund               To provide long term absolute total    Debt: 55% - 100%                 Moderate
+ SFIN:                                   return through investing across a      Money Market Instruments:
+ ULIF02322/02/17STAPLUMONF130            diversified high quality debt          0% - 20%
+                                         portfolio                              Equities: 0% - 25%
+
+
+ Emerging Equity Fund                    To provide long term capital           Debt: NA                         High
+ SFIN:                                   appreciation through investing in a    Money Market Instruments:
+ ULIF02507/04/23EMERGINGEQ130            portfolio of mid cap companies         0% - 35%
+                                                                                Equities: 65-100%
+
+
+
+UIN: 130L100V03
+Policy Document-
+Bharti AXA Life Wealth Pro
+A Unit Linked, Non-Participating Individual Life Insurance Plan
+
+
+
+
+Note:                                                                     i.   Limited Pay policies: In case of Limited Pay policies,
+•     Growth Opportunities Plus Fund, Grow Money Plus Fund,                    the Company will automatically allocate the monies
+      Save’n’grow Money Fund, Build India Fund, Steady Money                   between Grow Money Plus Fund and Steady Money
+      Fund, Safe Money Fund Stability Plus Money Fund and                      Fund, from the end of 5th year before Policy Maturity, in
+      Emerging Equity Fund are the names of the Investment                     a pre-determined manner as described below through
+      Funds and do not in any manner indicate the quality of the               switching Units in the respective Fund
+      Investment Funds, their future prospects or returns.
+                                                                                                         Existing Funds
+•     Investments in the Investment Funds are subject to market
+      and other risks and the achievement of the Objective of any              Year        Grow Money Plus           Steady Money
+      of the Investment Funds cannot be assured.                                                Fund                     Fund
+•     The Company may from time to time change the asset                   (PT-5) yr               80%                    20%
+      portfolio Allocation in the existing Investment Funds with the       (PT-4) yr               75%                    25%
+      approval of the Insurance Regulatory and Development
+      Authority of India (IRDAI).                                          (PT-3) yr               70%                    30%
+                                                                           (PT-2) yr               50%                    50%
+The Company shall also maintain a Discontinued Policy Fund
+that comprises of the fund values of all the Policies that have            (PT-1) yr               0%                     100%
+been discontinued and will earn a minimum interest computed at
+a rate specified by IRDAI from time to time which is currently 4%         ii. For Regular Pay Policies: The Company will
+pa. If the Company earns higher than 4% on Discontinued                       automatically allocate/ switch Units in the Funds on each
+Policy Fund, that will also be credited to Discontinued Policy                Policy Anniversary with respect to Regular Premium
+Fund. The Discontinued Policy Fund shall be a unit fund with the              received on Policy Anniversary or date of receipt of the
+following asset categories:                                                   Regular Premium and switch Units in the Funds on each
+                                                                              Policy Anniversary, in a predetermined proportion
+                           Discontinued Policy Fund                           specified in the applicable table below:
+       Assets
+                    SFIN: ULIF02219/01/2011DDISCONTLF130
+       Money
+                                                                                                                    New Premium
+       Market                           0%-40%                                           Existing Funds
+                                                                                                                      (Regular)
+      securities
+                                                                          Year          Grow        Steady      Grow          Steady
+     Government                                                                       Money Plus    Money     Money Plus      Money
+                                      60%-100%
+      securities                                                                        Fund         Fund       Fund           Fund
+
+The excess income earned in the Discontinued Policy Fund over           (PT-5) yr        80%         20%          80%            20%
+and above the minimum guaranteed interest rate shall also be            (PT-4) yr        75%         25%          75%            25%
+apportioned to the Discontinued Policy Fund. The proceeds
+from the Discontinued Policy Fund shall be payable only upon            (PT-3) yr        70%         30%          70%            30%
+completion of Lock-in Period. However, in case of death of the          (PT-2) yr        50%         50%          50%            50%
+Life Insured, the proceeds of the Discontinued Policy Fund shall        (PT-1) yr        0%          100%          0%           100%
+be payable immediately to the Nominee.
+You can, through a secured login, access the value of policy           4. You may opt out of the Dynamic Fund Allocation option
+wise units held by you in the format as per Form D02 prescribed           during the Policy Term by giving the Company prior written
+under IRDAI Investment Regulations, 2016.                                 request, in which case this option will cease to be effective
+C. Investment Strategy                                                    from the Policy Anniversary following the receipt of the
+                                                                          request. In such instances, the existing funds shall continue
+At inception of the Policy, the Policyholder may also choose to           to remain in the vested funds and new Premium amounts will
+allocate the premium/s in one of the Investment strategies as             be allocated basis the funds and proportion chosen at
+per the conditions of the Product, with a maximum of two                  inception.
+Investment strategies being available. If the Policyholder has
+opted for any one of the Investment Strategies then the                5. Once the Policyholder has opted out, then the Policyholder
+Policyholder cannot opt for the other.                                    shall not be permitted to recommence the Dynamic Fund
+                                                                          Allocation option during the Policy Term
+The two strategies available are as follows:
+                                                                       6. While Dynamic Fund Allocation is operational Switching in or
+Dynamic Fund Allocation:                                                  out of the Steady Money Fund will cause the Dynamic Fund
+1.     This Strategy can only be chosen on inception of the Policy.       Allocation to cease. Dynamic Fund Allocation will continue to
+                                                                          be active in Reduced Paid- Up status.
+2.     In case this strategy is chosen at inception, the 1st
+       Premium and subsequent premiums will be allocated (after
+       deducting Premium Allocation Charges) to Grow Money
+       Plus Fund.
+3.     During the last 5 years of the Policy Term, the funds will
+       automatically be allocated between Grow Money Plus Fund
+       and Steady Money Fund
+
+
+UIN: 130L100V03
+Policy Document-
+Bharti AXA Life Wealth Pro
+A Unit Linked, Non-Participating Individual Life Insurance Plan
+
+
+
+
+Systematic Transfer Plan (STP)                                       E. Switch amongst Investment Funds
+1. This Strategy can only be chosen on inception of the Policy.      There is an option available to the Policyholders to apply for
+                                                                     Switch of Investment Fund/s from one Investment Fund to
+2. If the Systematic Transfer Plan is opted, then the Company
+                                                                     another through a Switch Application Form specified by the
+   will automatically allocate the Single Premium/Regular
+                                                                     Company, subject to Policy being in force. The facility of Switch
+   Premium received (after deducting Premium Allocation
+                                                                     would be subject to the administrative rules of the Company,
+   Charges) to purchase Units in the Safe Money Fund. On
+                                                                     existing at the time of Your Switch application and will be
+   each subsequent monthly anniversary, the Fund Value of
+                                                                     applicable to all Premium Payment Term options. Switch of funds
+   [1/(13 less month number in the Policy Year)] of the Units
+                                                                     will be effected at a Unit Price declared on the date Your Switch
+   available at the beginning of the month] shall be switched to
+                                                                     application is received and accepted by the Company before
+   the Grow Money Plus Fund by cancelling Units in the Safe
+                                                                     3.00 p.m. and on the next day’s Unit Price declared if the
+   Money Fund, and purchasing Units in the Grow Money Plus
+                                                                     application is received and accepted at the Company after 3.00
+   Fund till the availability of Units in Safe Money Fund. For
+                                                                     p.m. The Policyholder is entitled to make any number of
+   instance: Policy month 1: 1/(13-1)= 1/12th of the Units to be
+                                                                     Switches in a Policy Year free of charge. The minimum
+   switched Policy month 2: 1/(13-2)= 1/11th of the Units to be
+                                                                     investment in any allocated fund should not be less than 5% of
+   switched Policy month 11: 1/(13-11)= 1/2 of the Units to be
+                                                                     the Fund Value at the time of allocation, However, there is no
+   switched Policy month 12: 1/(13- 12)= balance Units to be
+                                                                     minimum amount of transaction.
+   switched.
+3. The Company will not levy any switching charges for the           F.    Investment Fund Closure
+   operation of the Systematic Transfer Plan.                        The Company reserves the right to close any Investment Fund at
+4. You shall not be permitted to make partial withdrawals from       any time by giving a three month written notice of its intention to
+   the Safe Money Fund during the period when this option is in      close an Investment Fund and from the date of such closure the
+   force.                                                            Company will cease to create or cancel Units in the said
+                                                                     Investment Fund (‘Closing Investment Fund’). Closure of an
+5. You may opt out of the Systematic Transfer Plan during the        Investment Fund shall be subject to prior approval of IRDAI and
+   Policy Term by giving the Company a prior written notice, in      will follow the guidelines issued by IRDAI from time to time. The
+   which case this option will cease to be effective from the        Company will require the Policyholder who has invested in the
+   next Monthly Policy Anniversary following the receipt of the      Closing Investment Fund to replace it with another Investment
+   request.                                                          Fund/s (‘Replacing Investment Fund’) before the date specified
+6. While STP is operational, you are not allowed to change           in the written notice of The Company. Upon receiving the notice
+   your fund choice.                                                 from the Policyholder, Units in the Closing Investment Fund
+                                                                     allocated to this Policy will be cancelled on the last Valuation
+7. This strategy can be availed only on annual Premium               Date of the Closing Investment Fund. The Company will replace
+   payment mode and will be active during the Premium                the Closing Investment Fund with the Replacing Investment
+   Payment Term chosen by you provided due Premium has               Fund/s chosen by the Policyholder, by creating Units in the
+   been paid. STP cannot be opted once all Premiums payable          Replacing Investment Fund/s, with proceeds from the
+   under the Policy have been paid.                                  cancellation of Units in the Closing Investment Fund on the last
+                                                                     Valuation Date of the Closing Investment Fund.
+8. If due Premium is not received during the Grace Period, STP
+   will cease to be operational.                                     If The Company has not received valid notice from the
+                                                                     Policyholder for modification of the Investment Fund Allocation
+9. The Premiums received after the expiry of Grace Period will       by the time of closure of the Investment Fund, the Company will:
+   be allocated entirely to the Grow Money Plus Fund unless
+                                                                     •    Switch the funds from the Closing Investment Fund to the
+   otherwise specified by You.
+                                                                          ‘Stability Plus Money Fund’. This switch will be free of charge.
+10. If you give the request for Premium redirection or to change     •    Change the Investment Fund Allocation in such a way that
+    to monthly Premium payment mode then such request will                the percentage allocated to the Closing Investment Fund is
+    make STP ineffective.                                                 added to the percentage allocated to the ‘Stability Plus
+11. Once STP ceases to exist, your future Premiums will                   Money Fund’.
+    continue to be invested in the Grow Money Plus Fund
+    chosen at the time of opting STP unless otherwise specified      G. Risks of investments
+    by you.                                                          Investments in any of the Investment Funds are subject to the
+                                                                     following, amongst other risks:
+D. Investment Fund Addition
+                                                                     •    The Unit Price of any Investment Fund may increase or
+The Company may from time to time create and add new                      decrease as per the performance of the financial markets.
+Investment Funds with different fees/ charges with the approval
+of the Insurance Regulatory and Development Authority of India       •    The past performance of these or other Investment Funds of
+(IRDAI) and consequently, new Investment Funds may be made                the Company do not indicate the future performance of these
+available to Policyholder. All provisions of the Policy will apply        Investment Funds.
+to such new Investment Funds unless stated otherwise.                The investment risk in investment portfolio is borne by the
+                                                                     Policyholder.
+
+
+
+
+UIN: 130L100V03
+Policy Document-
+Bharti AXA Life Wealth Pro
+A Unit Linked, Non-Participating Individual Life Insurance Plan
+
+
+
+
+2. POLICY CHARGES                                                  C. Fund Management Charge
+Applicable taxes on Policy Charges as per prevailing regulations      Fund Management Charge will be charged by adjustment of
+will be levied at the prevailing rates.                               the Unit Price on the Investment Fund/s on each Valuation
+A. Premium Allocation Charge                                          Date. This is a charge levied as a percentage of the value of
+                                                                      assets and shall be appropriated by adjusting the Net Asset
+   The Company will levy an Allocation Charge as a
+                                                                      Value. This is a charge levied at the time of computation of
+   percentage of the Annualised Premium. The balance
+                                                                      NAV, which is usually done on daily basis.
+   allocation amount will be utilized to purchase Units for the
+   Policy in accordance with the Investment Fund Allocation                                                Fund Management
+   mentioned by the Policyholder.                                                 Fund                   Charge (as a % of Fund
+   The allocation charge is as per the tables below:                                                             Value)
+For Online Channel:                                                 Growth Opportunities Plus Fund      1.35% per annum
+                                                 Limited/           Grow Money Plus Fund                1.35% per annum
+                             Limited/
+                                                 Regular            Build India Fund                    1.35% per annum
+   Policy        Single      Regular
+                                                 Premium            Emerging Equity Fund                1.35% per annum
+    Year        Premium     Premium
+                                                Non Annual          Save’n’grow Money Fund              1.25% per annum
+                           Annual Mode
+                                                  Mode              Steady Money Fund                   1.00% per annum
+   Year 1        1.0%           6.0%               4.5%             Safe Money Fund                     1.00% per annum
+   Year 2          -            5.0%                   3.0%         Stability Plus Money Fund           0.80% per annum
+   Year 3          -            4.0%                   3.0%         Discontinued Policy Fund            0.50% per annum
+
+   Year 4          -            3.0%                   2.0%        The above charges (except for Discontinued Policy Fund) will
+  Year 5+          -            2.0%                   2.0%        not exceed the maximum cap prescribed by IRDAI which is
+                                                                   currently 1.35% p.a.
+For Other Channels
+                                                                   The fund management charges for Discontinued Policy Fund
+                                                 Limited/
+                              Limited/                             will not exceed the maximum cap prescribed by IRDAI which is
+                                                 Regular
+   Policy        Single       Regular                              currently 0.50% pa.
+                                                 Premium
+    Year        Premium      Premium                               These charges are exclusive of applicable taxes.
+                                                Non Annual
+                            Annual Mode
+                                                  Mode
+                                                                   D. Mortality Charge
+   Year 1         3%            9.0%               7.5%
+                                                                      This charge is levied to provide the life insurance benefit. This
+   Year 2          -            7.0%               5.0%
+                                                                      charge is applied on the Sum at Risk (as defined below) and
+   Year 3          -            5.0%               4.0%
+                                                                      is deducted proportionately by cancellation of Units on a
+   Year 4          -            3.0%               2.0%               monthly basis. The annual charge per thousand of Sum at
+  Year 5 +         -            2.0%               2.0%               Risk will be based on the attained Age of the policyholder,
+                                                                      age last birthday.
+B. Policy Administration Charge
+                                                                      Sum at Risk is defined as the higher of excess of Sum
+   This charge shall represent the expenses other than those          Assured over Policy Fund Value as on the corresponding
+   covered by the fund management expenses. This charge is            Policy Date in the Policy Month and zero. For Policy in paid
+   levied at the beginning of each Policy month from the unit         up status, the Sum at Risk is defined as the higher of excess
+   fund by canceling Units of an equivalent amount.                   of paid up sum assured over Policy Fund Value as on the
+   The Policy Administration Charge will be deducted by               corresponding Policy Date in the Policy Month and zero.
+   cancellation of Units from the Policy Fund Value at the            The rates of mortality charges are guaranteed to remain the
+   prevailing Unit Price on the corresponding Policy Date in          same during the policy term. These charges are exclusive of
+   each Policy Month as a percentage of Annualized Premium            Taxes.
+   for Regular and Limited Premium Payment Policy and as a
+   percentage of single premium for Single Premium Payment            This charge is applied on per 1000 Sum at Risk. Mortality
+   Policy.                                                            rates are as follows.
+
+The monthly Policy administration charge is as per the table
+below:
+                                             Limited/Regular
+    Policy Year         Single Premium
+                                                Premium
+        1-5                 0.15%                  0.15%
+       6 - 10                 Nil                  0.45%
+        11+                   Nil                      Nil
+The Policy administration charge is subject to a maximum of
+Rs 500 per month.
+These charges are exclusive of applicable taxes.
+
+UIN: 130L100V03
+Policy Document-
+Bharti AXA Life Wealth Pro
+A Unit Linked, Non-Participating Individual Life Insurance Plan
+
+
+
+
+                                                                  E. Discontinuance Charge
+        Mortality rates* Per 1000 sum at risk per annum
+                                                                    The Discontinuance Charge shall be levied at the time of
+                                                                    Surrender or on Discontinuance of Premium whichever is
+  Age      Mortality Charge       Age          Mortality Charge     earlier.
+
+    0           0.9150             50               4.4360          The Discontinuance charge for Regular and Limited Premium
+    1           0.9150             51               4.9690          Payment Policy will be computed as follows:
+    2           0.9150             52               5.5500                           Charges for the       Charges for the
+                                                                       Year of
+    3           0.4700             53               6.1740                           policies having       policies having
+                                                                   Discontinuance
+                                                                                       annualized            annualized
+    4           0.2710             54               6.8310          of Premium/
+                                                                                    premium up to Rs.      premium above
+    5           0.1850             55               7.5130            Surrender
+                                                                                         50,000/-            Rs. 50,000/-
+    6           0.1520             56               8.2120
+                                                                                    Lower of              Lower of
+    7           0.1490             57               8.9250
+    8           0.1670             58               9.6510                          a) 20% of             a) 6% of
+    9           0.2060             59              10.3930                             Annualized            Annualized
+                                                                          1            Premium               Premium
+   10           0.2650             60              11.1620
+                                                                                    b) 20% of Fund        b) 6% of Fund
+   11           0.3410             61              11.9690
+                                                                                       Value                 Value
+   12           0.4290             62              12.8310
+   13           0.5220             63              13.7650                          c) Rs. 3,000          c) Rs. 6,000
+   14           0.6140             64              14.7920
+   15           0.6980             65              15.9320                          Lower of              Lower of
+   16           0.7700             66              17.2060                          a) 15% of             a) 4% of
+   17           0.8290             67              18.6350                             Annualized            Annualized
+   18           0.8740             68              20.2400                2            Premium               Premium
+   19           0.9050             69              22.0400                          b) 15% of Fund        b) 4% of Fund
+   20           0.9240             70              24.0580                             Value                 Value
+   21           0.9340             71              26.3140                          c) Rs. 2,000          c) Rs. 5,000
+   22           0.9370             72              28.8320
+   23           0.9360             73              31.6380                          Lower of              Lower of
+   24           0.9330             74              34.7570
+                                                                                    a) 10% of             a)  3% of
+   25           0.9310             75              38.2210                             Annualized             Annualized
+   26           0.9310             76              42.0610                3            Premium                Premium
+   27           0.9340             77              46.3160                          b) 10% of Fund        b) 3% of Fund
+   28           0.9420             78              51.0240                             Value                 Value
+   29           0.9560             79              56.2310
+                                                                                    c) Rs. 1,500          c) Rs. 4,000
+   30           0.9770             80              61.9850
+   31           1.0050             81              68.3380
+                                                                                    Lower of              Lower of
+   32           1.0420             82              75.3500
+   33           1.0860             83              83.0820                                                a) 2% of
+                                                                                    a) 5% of Annualized
+                                                                                                             Annualized
+   34           1.1400             84              91.6010                             Premium
+                                                                          4                                  Premium
+   35           1.2020             85             100.9790
+                                                                                    b) 5% of Fund         b) 2% of Fund
+   36           1.2750             86             111.2910                             Value                 Value
+   37           1.3580             87             122.6160
+   38           1.4530             88             135.0370                          c) Rs. 1,000          c) Rs. 2,000
+   39           1.5600             89             148.6390         5 and onwards    NIL                   NIL
+   40           1.6800             90             163.5070
+   41           1.8150             91             179.7260
+   42           1.9690             92             197.3800
+   43           2.1440             93             216.5470
+   44           2.3450             94             237.3020
+   45           2.5790             95             259.7060
+   46           2.8510             96             283.8130
+   47           3.1680             97             309.6590
+   48           3.5360             98             337.2650
+   49           3.9580             99             366.6300
+*There is a 3-year setback for female lives.
+UIN: 130L100V03
+Policy Document-
+Bharti AXA Life Wealth Pro
+A Unit Linked, Non-Participating Individual Life Insurance Plan
+
+
+
+
+The Discontinuance charge for Single Premium Payment Policy       b) The Company shall inform IRDAI of such deferment in
+will be computed as follows                                          the valuation of assets. During the continuance of the
+                                                                     force majeure events, all requests for servicing the policy
+                      Charges for the      Charges for the           including policy related payment shall be kept in
+     Year of                                                         abeyance.
+                      policies having      policies having
+ Discontinuance
+                      Single Premium       Single Premium         c) The Company shall continue to invest as per the fund
+  of Premium/                                                        mandates submitted in Section E (1B) above. However,
+                         up to Rs.            above Rs.
+    Surrender                                                        the Company shall reserve its right to change the
+                         3,00,000/-           3,00,000/-
+                                                                     exposure of all or any part of the Fund to Money Market
+                     Lower of             Lower of                   Instruments in circumstances mentioned under points (a
+                     a) 2% of Single      a) 1% of Single            and b) above. The exposure to of the fund as per the
+                        Premium              Premium                 fund mandates submitted in Section E (1B) shall be
+         1                                                           reinstated within reasonable timelines once the force
+                     b) 2% of Fund        b) 1% of Fund
+                                                                     majeure situation ends.
+                        Value                Value
+                     c) Rs. 3,000         c) Rs. 6,000            d) Few examples of circumstances as mentioned [in point 3
+                                                                     (a & b) above] are:
+                     Lower of             Lower of
+                     a) 1.5% of Single    a) 0.7% of Single          i.   When one or more stock exchanges which provide a
+                                                                          basis for valuation of the assets of the fund are
+                        Premium              Premium
+         2                                                                closed otherwise than for ordinary holidays.
+                     b) 1.5% of Fund      b) 0.7% of Fund
+                        Value                Value                   ii. When, as a result of political, economic, monetary or
+                                                                         any circumstances which are not in the control of the
+                     c) Rs. 2,000         c) Rs. 5,000                   insurer, the disposal of the assets of the fund would
+                     Lower of             Lower of                       be detrimental to the interests of the continuing
+                     a) 1% of Single      a) 0.5% of Single              Policyholders.
+                        Premium              Premium                 iii. in the event of natural calamities, strikes, war, civil
+         3
+                     b) 1% of Fund        b) 0.5% of Fund                 unrest, riots and bandhs.
+                        Value                Value                   iv. in the event of any force majeure or disaster that
+                     c) Rs. 1,500         c) Rs. 4,000                   affects the normal functioning of the Insurer.
+                     Lower of             Lower of                e) In such an event, an intimation of such force majeure
+                     a) 0.5% of Single    a) 0.35% of Single         event shall be uploaded on the Company’s website for
+                        Premium              Premium                 information.
+         4
+                     b) 0.5% of Fund      b) 0.35% of Fund
+                        Value                Value
+                     c) Rs. 1,000         c) Rs. 2,000
+  5 and onwards      NIL                  NIL
+
+
+F. Revision of Policy Charges
+   The Company may at any time revise the below mentioned
+   charge to the maximum limit as indicated, subject to prior
+   approval from Insurance Regulatory and Development
+   Authority of India (IRDAI):
+   Fund Management Charge: The maximum charge shall not
+   exceed be the cap as prescribed by IRDAI which is currently
+   1.35% p.a.
+
+3. Force Majeure
+   a) The Company shall value the Funds (SFIN) on each day
+      for which the financial markets are open. However, the
+      Company may value the SFIN less frequently in extreme
+      circumstances external to the Company i.e. in force
+      majeure events, where the value of the assets is too
+      uncertain. In such circumstances, the Company may
+      defer the valuation of assets for up to 30 days until the
+      Company is certain that the valuation of SFIN can be
+      resumed.
+
+
+
+
+UIN: 130L100V03
+Policy Document-
+Bharti AXA Life Wealth Pro
+A Unit Linked, Non-Participating Individual Life Insurance Plan
+
+                                                                 PART F
+                                                      General Terms and Conditions
+
+1. Fraud And Misstatement                                                  iii. If the Life Insured is eligible for the Policy as per his / her
+   Fraud, Misstatement would be dealt with in accordance with                   correct Age, then the Company will calculate the
+   provisions of Sec 45 of the Insurance Act 1938 as amended                    applicable charges basis the correct Age of Life Insured
+   from time to time. [A Leaflet containing the simplified                      and will accordingly adjust the Fund Value / Coverage
+   version of the provisions of Section 45 is enclosed in                       Sum Assured.
+   appendix – IV for reference]
+                                                                        4. Assignment and Nomination
+2. Claims                                                                  Assignment: Assignment shall be in accordance with the
+   The Company would require the following primary                         provisions of sec 38 of the Insurance Act 1938 as amended
+   documents in support of a claim at the stage of claim                   from time to time.
+   intimation under the Policy:                                            [A Leaflet containing the simplified version of the
+   For Maturity Benefit: Claimant’s Statement, KYC                         provisions of Section 38 is enclosed in annexure – (II)
+   Documents and personalized cancelled cheque of the                      for reference]
+   Claimant or beneficiary, acceptable to the Company.                     Nomination: Nomination shall be in accordance with the
+   For Death Benefit (other than death due to                              provisions of sec 39 of the Insurance Act 1938 as amended
+   Accident/natural death): the original Policy (entire booklet),          from time to time.
+   Death Certificate of the Life Insured. Claimant’s Statement             [A Leaflet containing the simplified version of the
+   and KYC Document of Nominee or beneficiary, acceptable                  provisions of Section 39 is enclosed in annexure – (III)
+   to the Company and Copy of medical records pertaining to                for reference]
+   treatment taken by the insured such as admission notes,
+   discharge / death summary, test report etc. in case of               5. Vesting of Ownership
+   hospitalization.
+                                                                           In case the Life Insured is a minor, the ownership of Policy
+   For Death Benefit (death due to Accident/Unnatural                      will automatically vest on the Life Insured on attainment of
+   death): First Information Report (FIR) and Post Mortem                  majority. In case of death of the Policyholder while the Life
+   report is required in addition to the documents required for            Insured is a minor, surrender and any other such options
+   Death Benefit (other than death due to Accident/ natural                available under the policy cannot be exercised during the
+   death) as mentioned above.                                              period of minority of the Life Insured.
+   The Company is entitled to call for additional documents, if in
+   the opinion of the Company such additional documents are             6. Incorrect information and Non-Disclosure
+   warranted to process the claim.                                         The Policyholder and the Life Insured under the Policy have
+                                                                           an obligation to disclose every fact material for assessment
+   Easy ways of claim intimation                                           of the risk in connection with issuance of the Policy.
+   i.   Walk in to your nearest Bharti AXA Life Branch
+                                                                           In case of fraud, misrepresentation and suppression of
+   ii. Call us Toll Free: 1800-102-4444*                                   material facts the Policy contract shall be treated in
+                                                                           accordance with the Section 45 of the Insurance Act,1938 as
+   iii. Intimate Online through Claims Portal:
+                                                                           amended from time to time.
+        https://online.bhartiaxa.com/OnlineClaims
+   iv. Have us call you*                                                7. Taxation
+   v. E-mail us: lifeclaims@bhartiaxa.com                                  The tax benefits, if any, on the Policy may be available as
+                                                                           per the prevailing provisions of the tax laws in India. If
+   vi. Submit online claim through our website                             required by the relevant legislations prevailing from time to
+       www.bhartiaxa.com                                                   time, the Company will withhold taxes from the benefits
+*Claims intimated through these modes will be considered as                payable under the Policy. The Company reserves the right to
+verbal intimation. Claim will be formally registered only when             recover statutory levies including applicable taxes by way of
+written intimation is received at branch or directly to Claims             adjustment of the premiums paid by the Policyholder.
+team at Service Office
+                                                                        8. Notices
+3. Misstatement of Age and Gender:                                         Any notice to be given to the Policyholder under the Policy
+   i.   If the correct Age of the Life Insured is different from that      will be issued by post or electronic mail or telephone
+        mentioned in the proposal form, the Company will assess            facsimile transmission to the latest address/es/fax
+        the eligibility of the Life Insured for the Policy in              number/email of the Policyholder available in the records of
+        accordance with the correct Age of the Life Insured.               the Company.
+
+   ii. If on the basis of correct Age, the Life Insured is not             Any change in the address of the Policyholder should be
+       eligible for the Policy, the Policy shall be cancelled              informed to the Company so as to ensure timely
+       immediately by refunding the premium received by the                communication of notices and to the correct address.
+       Company under the Policy as per the provisions of                   Kindly refer to Part G section 1 of the Bond for intimating
+       Section 45 of Insurance Act as amended from time to                 about the change in existing details.
+       time.
+
+
+
+UIN: 130L100V03
+Policy Document-
+Bharti AXA Life Wealth Pro
+A Unit Linked, Non-Participating Individual Life Insurance Plan
+
+
+
+
+9. Currency and Place of Payment
+   All payments to or by the Company will be in Indian rupees
+   and shall be in accordance with the prevailing Exchange
+   Control regulations and other relevant laws in force in India.
+
+10. Mode of communication
+   The Company and the Policyholder may exchange
+   communications pertaining to the Policy either through
+   normal correspondence or through electronic mail and the
+   Company shall be within its right to seek clarifications / to
+   carry out the mandates of the Policyholder on merits in
+   accordance with such communications. While accepting
+   requests / mandate from the Policyholder through electronic
+   mail, the Company may stipulate such conditions as deemed
+   fit to give effect to and comply with the provisions of
+   Information Technology Act 2000 and/ or such other
+   applicable laws in force from time to time.
+
+11. Governing Laws & Jurisdiction
+   The terms and conditions of the Policy Document shall be
+   governed by and shall be subject to the laws of India. The
+   parties shall submit themselves to the jurisdiction of the
+   competent court/s of law in India in respect of all matters and
+   disputes which may arise out of in connection with the Policy
+   Document and / or relating to the Policy.
+
+12. Term used and its meaning
+   If a particular term is not defined or otherwise articulated
+   either in the Policy Document or under the Policy, endeavor
+   shall be to impart the natural meaning to the said term in the
+   context in which it is used.
+
+
+
+
+UIN: 130L100V03
+Policy Document-
+Bharti AXA Life Wealth Pro
+A Unit Linked, Non-Participating Individual Life Insurance Plan
+
+                                                                 PART G
+                                                           Grievance Redressal
+
+1. Customer Service                                                      You can also register your                complaint   online   at
+     You can seek clarification or assistance on the Policy from         https://bimabharosa.irdai.gov.in/
+     the following:                                                      Address for communication for complaints by paper:
+     •     The Advisor through whom the Policy was bought                General Manager
+     •     The Customer Service Representative of The Company            Insurance Regulatory and Development Authority of
+           at toll free no. 1800 102 4444                                India(IRDAI)
+                                                                         Consumer Affairs Department – Grievance Redressal Cell.
+     •     SMS "SERVICE" to 56677
+                                                                         Sy.No.115/1, Financial District, Nanakramguda,
+     •     WhatsApp us ‘Hi’ at 02248815768                               Gachibowli, Hyderabad – 500 032
+     •     Email: service@bhartiaxa.com
+     •     Mail to: Customer Service                                     Step 3: If you are not satisfied with the resolution
+                                                                         provided by the Company
+           Bharti AXA Life Insurance Company Ltd.
+           Spectrum tower, 3rd Floor,                                    Where the redressal provided by the Company is not
+           Malad link road, Malad (west),                                satisfactory despite the escalation above, the customer may
+           Mumbai 400064. Maharashtra’                                   represent the case to the Ombudsman for Redressal of the
+                                                                         grievance, if it pertains to the following:
+2.       Grievance Redressal Procedure                                   •   Delay in settlement of claim
+         Step 1: Inform us about your grievance                          •   Partial or total rejection of claim
+         In case you have any grievance, you may approach our
+                                                                         •   Dispute with regard to premium
+         Grievance Redressal Cell at any of the below-mentioned
+         helplines:                                                      •   Misrepresentation of policy terms and conditions
+     •     Lodge your complaint online at www.bhartiaxa.com              •   Legal construction of the policy in so far as dispute
+                                                                             related to claim
+     •     Call us at our toll free no. 1800 102 4444
+                                                                         •   Grievance relating to policy servicing
+     •     Email us at complaints.unit@bhartiaxa.com
+                                                                         •   Issuance of policy which is not in conformity with
+     •     Write to us at:
+                                                                             proposal form
+           Registered Office:
+                                                                         •   Non- issuance of your insurance document and
+           Bharti AXA Life Insurance Company Ltd.
+           Unit No. 1902, 19th Floor, Parinee Crescenzo                  •   Any other matter resulting from the violation of provisions
+           'G' Block, Bandra Kurla Complex, BKC Road,                        of the Insurance Act, 1938 or the regulations, circulars,
+           Behind MCA Ground, Bandra East,                                   guidelines or instructions issued by the IRDAI from time
+           Mumbai - 400051, Maharashtra’                                     to time or the terms and conditions of the policy contract,
+                                                                             in so far as they relate to issues mentioned hereinabove.
+           Grievance Redressal Cell:
+           Bharti AXA Life Insurance Company Ltd.                        The complaint should be made in writing duly signed by the
+           Spectrum tower, 3rd Floor,                                    complainant or through his legal heirs, Nominee(s)/legal
+           Malad link road, Malad (west),                                heirs in case of death of the Nominee(s)or Assignee, and
+           Mumbai 400064. Maharashtra’                                   shall state clearly the name and address of the complainant,
+                                                                         the name of the branch or office of the insurer against whom
+     •     Visit our nearest branch and meet our Grievance Officer
+                                                                         the complaint is made, the facts giving rise to the complaint,
+           who will assist you to redress your grievance/ lodge your
+                                                                         supported by documents, the nature and extent of the loss
+           complaint.
+                                                                         caused to the complainant and the relief sought from the
+                                                                         Insurance Ombudsman. As per provision 14(3) of the
+     Step 2: Tell us if you are not satisfied                            Insurance Ombudsman Rules, 2017, the complaint to the
+     In case you are not satisfied with the decision provided or if      Ombudsman can be made, within a period of one year
+     you have not received any response post completion of 14            provided it is not simultaneously under any litigation:
+     days, you may write to Head - Customer Service for                  •   Only if the grievance has been rejected by the Grievance
+     resolution at the above mentioned address or email                      Redressal Machinery of the Insurer; or
+     at: head.customerservice@bhartiaxa.com
+                                                                         •   the complainant had not received any reply within a
+     You are requested to inform us about your concern (if any)              period of one month after the Insurer received his
+     within 8 weeks of receipt of resolution as stated above,                representation; or
+     failing which it will be construed that the complaint is            •   the complainant is not satisfied with the reply given to
+     satisfactorily resolved.                                                him by the insurer.
+     If you are not satisfied with the response or do not receive a      For informative purpose and for Your ready reference,
+     response from us within 14 days, you may approach the               the relevant clause/s of the Insurance Act,1938 as
+     Grievance Cell of the Insurance Regulatory and                      amended from time to time are reproduced below:
+     Development Authority of India (IRDA of India) on the
+     following contact details:                                          Section 41 of the Insurance Act, 1938, as amended from
+                                                                         time to time:
+     Integrated Grievance Management System (IGMS)
+                                                                         1) “No person shall allow or offer to allow, either directly or
+     TOLL FREE NO: 1800 4254 732 or 155255
+                                                                            indirectly, as an inducement to any person to take out or
+     Email ID: complaints@irdai.gov.in
+                                                                            renew or continue an insurance in respect of any kind of
+
+
+UIN: 130L100V03
+Policy Document-
+Bharti AXA Life Wealth Pro
+A Unit Linked, Non-Participating Individual Life Insurance Plan
+
+
+
+
+        risk relating to lives or property in India, any rebate of the      Company complained against or the residential address
+        whole or part of the commission payable or any rebate of            or place of residence of the complainant is located.
+        the premium shown on the Policy, nor shall any person
+                                                                         2) The complaint shall be in writing, duly signed by the
+        taking out or renewing or continuing a Policy accept any
+                                                                            complainant or through his legal heirs, nominee or
+        rebate, except such rebate as may be allowed in
+                                                                            assignee and shall state clearly the name and address of
+        accordance with the published prospectus or tables of
+                                                                            the complainant, the name of the branch or office of the
+        the insurer:
+                                                                            Company against whom the complaint is made, the facts
+   2) Any person making default in complying with the                       giving rise to the complaint, supported by documents, the
+      provisions of this section shall be liable for a penalty              nature and extent of the loss caused to the complainant
+      which may extend to ten lakh rupees.”                                 and the relief sought from the Insurance Ombudsman.
+                                                                         3) No complaint to the Insurance Ombudsman shall lie
+Section 13 of the Insurance Ombudsman Rules, 2017:                          unless—
+Duties and Powers of Insurance Ombudsman
+                                                                            a. the complainant makes a written representation to the
+1) The Ombudsman shall receive and consider complaints or                      Company named in the complaint and—
+   disputes relating to—
+                                                                                i.   either the Company had rejected the complaint; or
+   a) Delay in settlement of claims, beyond the time specified
+      in the regulations, framed under the Insurance                            ii. the complainant had not received any reply within
+      Regulatory and Development Authority of India Act,                            a period of one month after the Company received
+      1999;                                                                         his representation; or
+
+   b) Any partial or total repudiation of claims by the Company;                iii. the complainant is not satisfied with the reply given
+                                                                                     to him by the Company;
+   c) Disputes over premium paid or payable in terms of
+      insurance policy;                                                     b. The complaint is made within one year—
+
+   d) Misrepresentation of policy terms and conditions at any                   i.   after the order of the Company rejecting the
+      time in the policy document or policy contract;                                representation is received; or
+   e) Legal construction of insurance policies in so far as the                 ii. after receipt of decision of the Company which is
+      dispute relates to claim;                                                     not to the satisfaction of the complainant;
+   f) Policy servicing related grievances against insurers and                  iii. after expiry of a period of one month from the date
+      their agents and intermediaries;                                               of sending the written representation to the
+                                                                                     Company if the Company fails to furnish reply to
+   g) Issuance of life insurance policy, general insurance                           the complainant.
+      policy including health insurance policy which is not in
+      conformity with the proposal form submitted by the                 4) The Ombudsman shall be empowered to condone the
+      proposer;                                                             delay in such cases as he may consider necessary, after
+                                                                            calling for objections of the Company against the
+   h) Non-issuance of insurance policy after receipt of                     proposed condonation and after recording reasons for
+      premium in life insurance; and                                        condoning the delay and in case the delay is condoned,
+   i)   Any other matter resulting from the violation of provisions         the date of condonation of delay shall be deemed to be
+        of the Insurance Act, 1938, as amended from time to                 the date of filing of the complaint, for further proceedings
+        time, or the regulations, circulars, guidelines or                  under these rules.
+        instructions issued by the IRDAI from time to time or the        5) No complaint before the Insurance Ombudsman shall be
+        terms and conditions of the policy contract, in so far as           maintainable on the same subject matter on which
+        they relate to issues mentioned at clauses (a) to (f).              proceedings are pending before or disposed of by any
+2. The Ombudsman shall act as counsellor and mediator                       court or consumer forum or arbitrator.
+   relating to matters specified in sub-rule (1) provided there is
+   written consent of the parties to the dispute.
+3. The Ombudsman shall be precluded from handling any
+   matter if he is an interested party or having conflict of
+   interest.
+4. The Central Government or as the case may be, the IRDAI
+   may, at any time refer any complaint or dispute relating to
+   insurance matters specified in sub-rule (1), to the Insurance
+   Ombudsman and such complaint or dispute shall be
+   entertained by the Insurance Ombudsman and be dealt with
+   as if it is a complaint made under Clause provided herein
+   below.
+Section 14 of the Insurance Ombudsman Rules, 2017:
+Manner in which complaint to be made
+1) Any person who has a grievance against the Company, may
+   himself or through his legal heirs, nominee or assignee,
+   make a complaint in writing to the Insurance Ombudsman
+   within whose territorial jurisdiction the branch or office of the
+
+
+UIN: 130L100V03
+Policy Document-
+Bharti AXA Life Wealth Pro
+A Unit Linked, Non-Participating Individual Life Insurance Plan
+
+
+
+
+                                                      List of Ombudsman
+                                     (For the updated list You may refer to IRDAI website)
+
+
+
+                                      Address & Contact Details of Ombudsman Centres
+
+                  Council for Insurance Ombudsmen (Monitoring Body for Offices of Insurance Ombudsman)
+                        3rd Floor, Jeevan Seva Annexe, S V Road, Santacruz (West), Mumbai – 400054.
+                   Tel no: 022-26106671/6889/980. Email id: inscoun@cioins.co.in website:www.cioins.co.in
+
+             =================================================================================
+       If you have a grievance, approach the grievance cell of Insurance Company first. If complaint is not resolved/
+          not satisfied/not responded for 30 days then You can approach The Office of the Insurance Ombudsman
+                                                        (Bimalokpal)
+
+                           Please visit our website for details to lodge complaint with Ombudsman.
+
+
+                                                Annexure I- List of Ombudsman
+                                     (For the updated list you may refer to IRDAI website)
+
+
+    Office of the
+                                      Address                              Contact Details               Areas of Jurisdiction
+    Ombudsman
+
+ AHEMDABAD               Office of the Insurance Ombudsman,     Tel: 079 - 25501201/02/05/06             Gujrat, Dadra & Nagar
+                         Jeevan Prakash Building, 6th Floor,    Email:                                   Haveli, Daman & Diu
+                         Tilak Marg, Relief Road,               bimalokpal.ahmedabad@cioins.co.in
+                         Ahemdabad- 380 001
+
+ Bengaluru               Office of the Insurance Ombudsman,     Tel.: 080 – 26652048/ 26652049           Karnataka
+                         Jeewan Soudha Building, PID No.        Email:
+                         57-27-N-19,Ground Floor, 19/19,        bimalokpal.bengaluru@cioins.co.in
+                         24th Main Road, JP Nagar, 1st
+                         Phase
+                         Bengaluru- 560 078
+
+ BHOPAL                  Office of the Insurance Ombudsman,     Tel.: 0755 - 2769201 / 2769202           Madhya Pradesh,
+                         1st Floor of LIC Zonal Office          Email: bimalokpal.bhopal@cioins.co.in    Chhattisgarh
+                         Building, Jeevan Shikha, 60-B,
+                         Hoshangabad Road, (Opp Gayatri
+                         Mandir)
+                         Bhopal 462011
+
+ BHUBANESHWAR            Office of the Insurance Ombudsman,     Tel.: 0674 - 2596461 /2596455            Odisha
+                         62, Forest Park,                       Email:
+                         BHUBANESHWAR-751 009                   bimalokpal.bhubaneswar@cioins.co.in
+
+ CHANDIGARH              Office of the Insurance Ombudsman,     Tel.: 0172- 2706196/2706468              Punjab, Haryana
+                         S. C.O. No. 101, 102 & 103, 2nd        Email:                                   (excluding Gurugram,
+                         Floor,                                 bimalokpal.chandigarh@cioins.co.in       Faridabad, Sonepat
+                         Batra Building, Sector 17 – D,                                                  and Bahadurgarh),
+                         CHANDIGARH-160 017                                                              Himachal Pradesh,
+                                                                                                         Union Territories of
+                                                                                                         Jammu & Kashmir,
+                                                                                                         Ladakh & Chandigarh
+
+ CHENNAI                 Office of the Insurance Ombudsman,     Tel.: 044 - 24333668 / 24335284          Tamil Nadu,
+                         Fatima Akhtar Court, 4th Floor, 453,   Email: bimalokpal.chennai@cioins.co.in   Puducherry Town and
+                         Anna Salai, Teynampet,                                                          Karaikal (which are
+                         CHENNAI-600 018.                                                                part of Puducherry)
+
+
+
+
+UIN: 130L100V03
+Policy Document-
+Bharti AXA Life Wealth Pro
+A Unit Linked, Non-Participating Individual Life Insurance Plan
+
+
+
+
+    Office of the
+                                     Address                              Contact Details               Areas of Jurisdiction
+    Ombudsman
+
+ DELHI                Office of the Insurance Ombudsman,      Tel.: 011 - 23232481/23213504             Delhi & following
+                      2/2 A, Universal Insurance Bldg.,Asaf   Email: bimalokpal.delhi@cioins.co.in      Districts of Haryana -
+                      Ali Road,                                                                         Gurugram, Faridabad,
+                      NEW DELHI-110 002.                                                                Sonepat &
+                                                                                                        Bahadurgarh
+
+ GUWAHATI             Office of the Insurance Ombudsman,      Tel.: 0361 – 2632204 / 2602205            Assam,
+                      “Jeevan Nivesh”, 5th Floor, Nr.         Email: bimalokpal.guwahati@cioins.co.in   Meghalaya, Manipur,
+                      Paanbazar over bridge, S.S. Road                                                  Mizoram,
+                      GUWAHATI- 781 001 (ASSAM)                                                         Arunachal Pradesh,
+                                                                                                        Nagaland and Tripura.
+
+ HYDERABAD.           Office of the Insurance Ombudsman,      Tel.: 040- 23312122                       Andhra Pradesh,
+                      6-2-46, 1st floor, "Moin Court",        Email:                                    Telangana, Yanam
+                      Lane Opp. Saleem Function Palace,       bimalokpal.hyderabad@cioins.co.in         and part of Union
+                      A. C. Guards, Lakdi-Ka-Pool,                                                      Territory of
+                      HYDERABAD-500 004.                                                                Puducherry
+
+ JAIPUR               Office of the Insurance Ombudsman,      Tel.: 0141 - 2740363                      Rajasthan
+                      Jeevan Nidhi- II Bldg., Ground Floor,   Email: bimalokpal.jaipur@cioins.co.in
+                      Bhawani Singh Marg,
+                      JAIPUR – 302 005.
+
+ ERNAKULAM            10th floor, LIC building                Tel.: 0484 – 2358759/ 2359338             Kerala, Lakshadweep,
+                      ‘Jeevan Prakash’                        Email:                                    Mahe-a part of UT of
+                      M G road, Ernakulam                     bimalokpal.ernakulam@cioins.co.in         Puducherry
+                      Kochi – 682011
+
+ KOLKATA              Office of the Insurance Ombudsman,      Tel.: 033 - 22124339 / 22124340           West Bengal, Sikkim,
+                      Hindustan Building, Annexe, 4th         Email: bimalokpal.kolkata@cioins.co.in    Andaman & Nicobar
+                      Floor, 4, CR Avenue                                                               Islands
+                      KOLKATA- 700 072
+
+ LUCKNOW              Office of the Insurance Ombudsman,      Tel.: 0522 - 2231330 / 2231331            Districts of Uttar
+                      6th Floor, Jeevan Bhawan, Phase-II,     Email: bimalokpal.lucknow@cioins.co.in    Pradesh:
+                      Nawal Kishore Road, Hazratganj,                                                   Lalitpur, Jhansi,
+                      LUCKNOW-226 001.                                                                  Mahoba, Hamirpur,
+                                                                                                        Banda, Chitrakoot,
+                                                                                                        Allahabad, Mirzapur,
+                                                                                                        Sonbhabdra,
+                                                                                                        Fatehpur, Pratapgarh,
+                                                                                                        Jaunpur, Varanasi,
+                                                                                                        Gazipur, Jalaun,
+                                                                                                        Kanpur, Lucknow,
+                                                                                                        Unnao, Sitapur,
+                                                                                                        Lakhimpur, Bahraich,
+                                                                                                        Barabanki,
+                                                                                                        Raebareli,Sravasti,
+                                                                                                        Gonda, Faizabad,
+                                                                                                        Amethi Kaushambi,
+                                                                                                        Balrampur, Basti,
+                                                                                                        Ambedkarnagar,
+                                                                                                        Sultanpur,
+                                                                                                        Maharajgang,
+                                                                                                        Santkabirnagar,
+                                                                                                        Azamgarh,
+                                                                                                        Kushinagar, Gorkhpur
+                                                                                                        Deoria, Mau, Ghazipur
+                                                                                                        Chandauli, Ballia
+                                                                                                        Sidharathnagar.
+
+
+
+UIN: 130L100V03
+Policy Document-
+Bharti AXA Life Wealth Pro
+A Unit Linked, Non-Participating Individual Life Insurance Plan
+
+
+
+
+    Office of the                                                                                          Areas of
+                                   Address                              Contact Details
+    Ombudsman                                                                                             Jurisdiction
+
+ MUMBAI               Office of the Insurance Ombudsman,    Tel.:                                     Goa, Mumbai
+                      3rd Floor, Jeevan Seva Annexe,S.V.    69038821/23/24/25/26/27/28/28/29/30/31    Metropolitan Region
+                      Road, Santacruz(W),                   Email: bimalokpal.mumbai@cioins.co.in     (excluding Navi
+                      MUMBAI-400 054.                                                                 Mumbai & Thane).
+
+ NOIDA                Office of the Insurance Ombudsman,    Tel.: 0120- 2514252 / 2514253             State of Uttarakhand l
+                      Bhagwan Sahai Palace, 4th Floor,      Email: bimalokpal.noida@cioins.co.in      and the following
+                      Main Road, Naya Bans, Sector-15,                                                Districts of Uttar
+                      Distt. Gautam Buddh Nagar                                                       Pradesh:
+                      U.P- 201301                                                                     Agra, Aligarh, Bagpat,
+                                                                                                      Bareilly, Bijnor,
+                                                                                                      Budaun,
+                                                                                                      Bulandshehar, Etah,
+                                                                                                      Kannauj, Mainpuri,
+                                                                                                      Mathura, Meerut,
+                                                                                                      Moradabad,
+                                                                                                      Muzaffarnagar,
+                                                                                                      Oraiyya, Pilibhit,
+                                                                                                      Etawah, Farrukhabad,
+                                                                                                      Firozbad, Gautam
+                                                                                                      Buddhnagar,
+                                                                                                      Ghaziabad, Hardoi,
+                                                                                                      Shahjahanpur, Hapur,
+                                                                                                      Shamli, Rampur,
+                                                                                                      Kashganj, Sambhal,
+                                                                                                      Amroha, Hathras,
+                                                                                                      Kanshiramnagar,
+                                                                                                      Saharanpur.
+
+ PUNE                 Office of the Insurance Ombudsman,    Tel.: 020 - 41312555                      Maharashtra,
+                      Jeevan Darshan Bldg., 3rd Floor, C.   Email: bimalokpal.pune@cioins.co.in       Area of Navi Mumbai
+                      T.S No’s 195 to198, N.C. Kelkar                                                 and Thane (excluding
+                      Road, Narayan Peth,                                                             Mumbai Metropolitan
+                      PUNE – 411030.                                                                  Region).
+
+ PATNA                Office of the Insurance Ombudsman,    Tel.: 0612- 2547068                       Bihar, Jharkhand.
+                      2nd Floor, Lalit Bhawan,              Email id: bimalokpal.patna@cioins.co.in
+                      Bailey Road,
+                      Patna - 800 001
+
+
+
+
+UIN: 130L100V03
+Policy Document-
+Bharti AXA Life Wealth Pro
+A Unit Linked, Non-Participating Individual Life Insurance Plan
+
+
+
+
+Annexure II: Section 38 - Assignment and Transfer of                 13. Every assignment or transfer shall be deemed to be absolute
+Insurance Policies                                                       assignment or transfer and the assignee or transferee shall
+Assignment or transfer of a policy should be in accordance with          be deemed to be absolute assignee or transferee, except
+Section 38 of the Insurance Act, 1938 as amended from time to           a) where assignment or transfer is subject to terms and
+time. The extant provisions in this regard are as follows:                 conditions of transfer or assignment OR
+1. This policy may be transferred/assigned, wholly or in part,          where the transfer or assignment is made upon condition
+   with or without consideration.                                       that
+                                                                        i.   the proceeds under the policy shall become payable to
+2. An Assignment may be effected in a policy by an
+                                                                             policyholder or nominee(s) in the event of assignee or
+   endorsement upon the policy itself or by a separate
+                                                                             transferee dying before the insured OR
+   instrument under notice to the Insurer.
+                                                                        ii. the insured surviving the term of the policy
+3. The instrument of assignment should indicate the fact of
+                                                                        Such conditional assignee will not be entitled to obtain a loan
+   transfer or assignment and the reasons for the assignment
+                                                                        on policy or surrender the policy. This provision will prevail
+   or transfer, antecedents of the assignee and terms on which
+                                                                        notwithstanding any law or custom having force of law which
+   assignment is made.
+                                                                        is contrary to the above position.
+4. The assignment must be signed by the transferor or assignor
+                                                                     14. In other cases, the insurer shall, subject to terms and
+   or duly authorized agent and attested by at least one
+                                                                         conditions of assignment, recognize the transferee or
+   witness.
+                                                                         assignee named in the notice as the absolute transferee or
+5. The transfer of assignment shall not be operative as against          assignee and such person
+   an insurer until a notice in writing of the transfer or              a) shall be subject to all liabilities and equities to which the
+   assignment and either the said endorsement or instrument                transferor or assignor was subject to at the date of
+   itself or copy there of certified to be correct by both                 transfer or assignment and
+   transferor and transferee or their duly authorised agents
+                                                                        b) may institute any proceedings in relation to the policy
+   have been delivered to the insurer.
+                                                                        c) obtain loan under the policy or surrender the policy
+6. Fee to be paid for assignment or transfer can be specified by           without obtaining the consent of the transferor or
+   the Authority through Regulations.                                      assignor or making him a party to the proceedings
+7. On receipt of notice with fee, the insurer should Grant a         15. Any rights and remedies of an assignee or transferee of a
+   written acknowledgement of receipt of notice. Such notice             life insurance policy under an assignment or transfer
+   shall be conclusive evidence against the insurer of duly              effected before commencement of the Insurance Laws
+   receiving the notice.                                                 (Amendment) Ordinance, 2014 shall not be affected by this
+8. If the insurer maintains one or more places of business, such         section.
+   notices shall be delivered only at the place where the policy        Disclaimer: This is not a comprehensive list of
+   is being serviced.                                                   amendments of Insurance Laws (Amendment) Act, 2015
+                                                                        and only a simplified version prepared for general
+9. The insurer may accept or decline to act upon any transfer           information. Policy Holders are advised to refer to
+   or assignment or endorsement, if it has sufficient reasons to        Original Ordinance Gazette Notification dated March 23 ,
+   believe that it is                                                   2015 for complete and accurate details.]
+   a)   not bonafide or
+   b)   not in the interest of the policyholder or                   Annexure III: Section 39 - Nomination by policyholder
+   c)   not in public interest or                                    Nomination of a life insurance Policy is as below in accordance
+   d)   is for the purpose of trading of the insurance policy.       with Section 39 of the Insurance Act, 1938 as amended from
+                                                                     time to time. The extant provisions in this regard are as follows:
+10. Before refusing to act upon endorsement, the Insurer should
+    record the reasons in writing and communicate the same in        1. The policyholder of a life insurance on his own life may
+    writing to Policyholder within 30 days from the date of             nominate a person or persons to whom money secured by
+    policyholder giving a notice of transfer or assignment.             the policy shall be paid in the event of his death.
+
+11. In case of refusal to act upon the endorsement by the            2. Where the nominee is a minor, the policyholder may appoint
+    Insurer, any person aggrieved by the refusal may prefer a           any person to receive the money secured by the policy in the
+    claim to IRDAI within 30 days of receipt of the refusal letter      event of policyholder’s death during the minority of the
+    from the Insurer.                                                   nominee. The manner of appointment to be laid down by the
+                                                                        insurer.
+12. The priority of claims of persons interested in an insurance
+    policy would depend on the date on which the notices of          3. Nomination can be made at any time before the maturity of
+    assignment or transfer is delivered to the insurer; where           the policy.
+    there are more than one instruments of transfer or               4. Nomination may be incorporated in the text of the policy
+    assignment, the priority will depend on dates of delivery of        itself or may be endorsed on the policy communicated to the
+    such notices. Any dispute in this regard as to priority should      insurer and can be registered by the insurer in the records
+    be referred to Authority.                                           relating to the policy.
+                                                                     5. Nomination can be cancelled or changed at any time before
+                                                                        policy matures, by an endorsement or a further endorsement
+                                                                        or a will as the case may be.
+UIN: 130L100V03
+Policy Document-
+Bharti AXA Life Wealth Pro
+A Unit Linked, Non-Participating Individual Life Insurance Plan
+
+
+
+
+6. A notice in writing of Change or Cancellation of nomination        17. The provisions of Section 39 are not applicable to any life
+   must be delivered to the insurer for the insurer to be liable to       insurance policy to which Section 6 of Married Women’s
+   such nominee. Otherwise, insurer will not be liable if a               Property Act, 1874 applies or has at any time applied except
+   bonafide payment is made to the person named in the text of            where before or after Insurance Laws (Ordinance) 2014, a
+   the policy or in the registered records of the insurer.                nomination is made in favour of spouse or children or spouse
+                                                                          and children whether or not on the face of the policy it is
+7. Fee to be paid to the insurer for registering change or
+                                                                          mentioned that it is made under Section 39. Where
+   cancellation of a nomination can be specified by the
+                                                                          nomination is intended to be made to spouse or children or
+   Authority through Regulations.
+                                                                          spouse and children under Section 6 of MWP Act, it should
+8. On receipt of notice with fee, the insurer should grant a              be specifically mentioned on the policy. In such a case only,
+   written acknowledgement to the policyholder of having                  the provisions of Section 39 will not apply.
+   registered a nomination or cancellation or change thereof.
+                                                                      [Disclaimer: This is not a comprehensive list of amendments
+9. A transfer or assignment made in accordance with Section           of Insurance Laws (Amendment) Ordinance,2014 and only a
+   38 shall automatically cancel the nomination except in case        simplified version prepared for general information. Policy
+   of assignment to the insurer or other transferee or assignee       Holders are advised to refer to Original Ordinance Gazette
+   for purpose of loan or against security or its reassignment        Notification dated December 26 , 2014 for complete and
+   after repayment. In such case, the nomination will not get         accurate details.]
+   cancelled to the extent of insurer’s or transferee’s or
+   assignee’s interest in the policy. The nomination will get         Annexure IV: Section 45 – Policy shall not be called in
+   revived on repayment of the loan.                                  question on the ground of mis-statement after three years
+10. The right of any creditor to be paid out of the proceeds of       Provisions regarding policy not being called into question in
+    any policy of life insurance shall not be affected by the         terms of Section 45 of the Insurance Act, 1938, as amended from
+    nomination.                                                       time to time are as follows:
+
+11. In case of nomination by policyholder whose life is insured, if   1. No Policy of Life Insurance shall be called in question on any
+    the nominees die before the policyholder, the proceeds are           ground whatsoever after expiry of 3 yrs from
+    payable to policyholder or his heirs or legal representatives        a) the date of issuance of policy or
+    or holder of succession certificate.
+                                                                         b) the date of commencement of risk or
+12. In case nominee(s) survive the person whose life is insured,
+    the amount secured by the policy shall be paid to such               c) the date of revival of policy or
+    survivor(s).                                                         d) the date of rider to the policy
+13. Where the policyholder whose life is insured nominates his           whichever is later.
+   a) parents or
+                                                                      2. On the ground of fraud, a policy of Life Insurance may be
+   b) spouse or                                                          called in question within 3 years from
+   c) children or                                                        a) the date of issuance of policy or
+   d) spouse and children                                                b) the date of commencement of risk or
+   e) or any of them                                                     c) the date of revival of policy or
+the nominees are beneficially entitled to the amount payable by          d) the date of rider to the policy
+the insurer to the policyholder unless it is proved that
+policyholder could not have conferred such beneficial title on the       whichever is later.
+nominee having regard to the nature of his title.                        For this, the insurer should communicate in writing to the
+14. If nominee(s) die after the policyholder but before his share        insured or legal representative or nominee or assignees of
+    of the amount secured under the policy is paid, the share of         insured, as applicable, mentioning the ground and materials
+    the expired nominee(s) shall be payable to the heirs or legal        on which such decision is based.
+    representative of the nominee or holder of succession             3. Fraud means any of the following acts committed by insured
+    certificate of such nominee(s).                                      or by his agent, with the intent to deceive the insurer or to
+15. The provisions of sub-section 7 and 8 (13 and 14 above)              induce the insurer to issue a life insurance policy:
+    shall apply to all life insurance policies maturing for payment      a)   The suggestion, as a fact of that which is not true and
+    after the commencement of Insurance Laws (Amendment)                      which the insured does not believe to be true;
+    Ordinance, 2014 (i.e 26.12.2014).
+                                                                         b)   The active concealment of a fact by the insured having
+16. If policyholder dies after maturity but the proceeds and                  knowledge or belief of the fact;
+    benefit of the policy has not been paid to him because of his
+    death, his nominee(s) shall be entitled to the proceeds and          c)   Any other act fitted to deceive; and
+    benefit of the policy.                                               d)   Any such act or omission as the law specifically declares
+                                                                              to be fraudulent.
+
+
+
+
+UIN: 130L100V03
+Policy Document-
+Bharti AXA Life Wealth Pro
+A Unit Linked, Non-Participating Individual Life Insurance Plan
+
+
+
+
+4. Mere silence is not fraud unless, depending on
+   circumstances of the case, it is the duty of the insured or his
+   agent keeping silence to speak or silence is in itself
+   equivalent to speak.
+5. No Insurer shall repudiate a life insurance Policy on the
+   ground of Fraud, if the Insured / beneficiary can prove that
+   the misstatement was true to the best of his knowledge and
+   there was no deliberate intention to suppress the fact or that
+   such mis-statement of or suppression of material fact are
+   within the knowledge of the insurer. Onus of disproving is
+   upon the policyholder, if alive, or beneficiaries.
+6. Life insurance Policy can be called in question within 3 years
+   on the ground that any statement of or suppression of a fact
+   material to expectancy of life of the insured was incorrectly
+   made in the proposal or other document basis which policy
+   was issued or revived or rider issued. For this, the insurer
+   should communicate in writing to the insured or legal
+   representative or nominee or assignees of insured, as
+   applicable, mentioning the ground and materials on which
+   decision to repudiate the policy of life insurance is based.
+7. In case repudiation is on ground of mis-statement and not on
+   fraud, the premium collected on policy till the date of
+   repudiation shall be paid to the insured or legal
+   representative or nominee or assignees of insured, within a
+   period of 90 days from the date of repudiation.
+8. Fact shall not be considered material unless it has a direct
+   bearing on the risk undertaken by the insurer. The onus is on
+   insurer to show that if the insurer had been aware of the said
+   fact, no life insurance policy would have been issued to the
+   insured.
+9. The insurer can call for proof of age at any time if he is
+   entitled to do so and no policy shall be deemed to be called
+   in question merely because the terms of the policy are
+   adjusted on subsequent proof of age of life insured. So, this
+   Section will not be applicable for questioning age or
+   adjustment based on proof of age submitted subsequently.
+[Disclaimer: This is not a comprehensive list of
+amendments of Insurance Laws (Amendment) Act, 2015
+and only a simplified version prepared for general
+information. Policy Holders are advised to refer to Original
+Ordinance Gazette Notification dated March 23 , 2015 for
+complete and accurate details. ]
+
+
+ BEWARE OF SPURIOUS/FRAUD PHONE CALLS!
+ IRDAI is not involved in activities like selling insurance
+ policies, announcing bonus or investment of premiums.
+ Public receiving such phone calls are requested to lodge a
+ police complaint
+
+
+
+
+UIN: 130L100V03
+
