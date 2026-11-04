@@ -1,0 +1,773 @@
+{
+ "product": {
+  "uin": {
+   "value": "101L187V04",
+   "status": "n/a",
+   "doc": "HDFC Life Smart Protect Plus- 101L187V04- Policy Document",
+   "page": 2,
+   "quote": "HDFC Life Smart Protect Plus (UIN- 101L187V04)",
+   "note": null
+  },
+  "uin_in_brochure": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "product_name": {
+   "value": "HDFC Life Smart Protect Plus",
+   "status": "n/a",
+   "doc": "HDFC Life Smart Protect Plus- 101L187V04- Policy Document",
+   "page": 2,
+   "quote": "HDFC Life Smart Protect Plus (UIN- 101L187V04)",
+   "note": null
+  },
+  "irdai_description_line": {
+   "value": "A Unit Linked Non-Participating Individual Life Insurance Savings Plan",
+   "status": "n/a",
+   "doc": "HDFC Life Smart Protect Plus- 101L187V04- Policy Document",
+   "page": 2,
+   "quote": "A Unit Linked Non-Participating Individual Life Insurance Savings Plan",
+   "note": null
+  },
+  "launch_or_version_date": {
+   "value": "policy document F&U dated 16 September 2026",
+   "status": "n/a",
+   "doc": "HDFC Life Smart Protect Plus- 101L187V04- Policy Document",
+   "page": 2,
+   "quote": "F&U Date: 16th September, 2026",
+   "note": null
+  },
+  "variants_or_plan_options": {
+   "value": [
+    "A: Level Cover",
+    "B: Level Cover with Capital Guarantee",
+    "C: Decreasing Cover",
+    "D: Decreasing Cover with Capital Guarantee"
+   ],
+   "status": "optional (at inception)",
+   "doc": "HDFC Life Smart Protect Plus- 101L187V04- Policy Document",
+   "page": 11,
+   "quote": "There are four Plan Options available to the Policyholder.",
+   "note": null
+  },
+  "target_segment_stated": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "online_offline": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  }
+ },
+ "eligibility": {
+  "entry_age_min": {
+   "value": "30 days (life assured); 18 years (proposer)",
+   "status": "n/a",
+   "doc": "Download Brochure",
+   "page": 2,
+   "quote": "Age at Entry Life Assured: 0 years (30 days) Life Assured: 60 years",
+   "note": null
+  },
+  "entry_age_max": {
+   "value": "60 years (life assured); no limit (proposer)",
+   "status": "n/a",
+   "doc": "Download Brochure",
+   "page": 2,
+   "quote": "Proposer: 18 years Proposer: No Limit",
+   "note": null
+  },
+  "maturity_age_min": {
+   "value": "25 years",
+   "status": "n/a",
+   "doc": "Download Brochure",
+   "page": 2,
+   "quote": "Age at Maturity 25 years 99 years",
+   "note": null
+  },
+  "maturity_age_max": {
+   "value": "99 years",
+   "status": "n/a",
+   "doc": "Download Brochure",
+   "page": 2,
+   "quote": "Age at Maturity 25 years 99 years",
+   "note": null
+  },
+  "policy_term_options": {
+   "value": "25 years to 99 minus entry age",
+   "status": "n/a",
+   "doc": "Download Brochure",
+   "page": 2,
+   "quote": "Policy Term 25 years 99 – Age at Entry",
+   "note": null
+  },
+  "ppt_options": {
+   "value": "limited 5 to 20 years; regular 25 to 99 minus entry age",
+   "status": "n/a",
+   "doc": "Download Brochure",
+   "page": 2,
+   "quote": "Limited Pay (5 to 20 years)",
+   "note": null
+  },
+  "premium_min_annual": {
+   "value": "Rs 50,000 annual / 25,000 half-yearly / 12,500 quarterly / 4,500 monthly; top-up Rs 5,000",
+   "status": "n/a",
+   "doc": "Download Brochure",
+   "page": 3,
+   "quote": "Annual Rs. 50,000",
+   "note": null
+  },
+  "premium_min_single": {
+   "value": null,
+   "status": "not offered",
+   "doc": "Download Brochure",
+   "page": 2,
+   "quote": "Premium payment options of Limited pay and Regular Pay",
+   "note": null
+  },
+  "premium_max": {
+   "value": "as per underwriting policy",
+   "status": "n/a",
+   "doc": "Download Brochure",
+   "page": 3,
+   "quote": "As per Board Approved",
+   "note": null
+  },
+  "sum_assured_rule": {
+   "value": "minimum basic SA: 10x AP (entry < 18), 7x (18-49), 5x (50+); top-up SA 1.25x (< 50) or 1.10x (50+)",
+   "status": "built-in",
+   "doc": "Download Brochure",
+   "page": 3,
+   "quote": "Below 18 10 x AP",
+   "note": null
+  },
+  "premium_modes": {
+   "value": "yearly, half-yearly, quarterly, monthly",
+   "status": "n/a",
+   "doc": "HDFC Life Smart Protect Plus- 101L187V04- Policy Document",
+   "page": 17,
+   "quote": "Premiums under the Policy can be paid on yearly, half-yearly, quarterly or monthly basis",
+   "note": null
+  },
+  "life_cover_multiple_choice": {
+   "value": "SA can be reduced at any policy anniversary (stops further decrease under C and D); decreasing cover options reduce SA after a chosen level cover period",
+   "status": "optional (during term)",
+   "doc": "HDFC Life Smart Protect Plus- 101L187V04- Policy Document",
+   "page": 23,
+   "quote": "At any policy anniversary, the Policyholder will have the option to reduce Sum Assured subject to the",
+   "note": null
+  }
+ },
+ "charges": {
+  "premium_allocation_charge": {
+   "value": {
+    "annual mode": "Y1 12.5%, Y2 7%, Y3 6%, Y4 3.5%, Y5+ 0%",
+    "non-annual": "Y1 12%, Y2 6%, Y3 3%, Y4 3%, Y5+ 0%",
+    "top-up": "2%"
+   },
+   "status": "built-in",
+   "doc": "HDFC Life Smart Protect Plus- 101L187V04- Policy Document",
+   "page": 25,
+   "quote": "Premium allocation charge of 2% shall be levied on top-up Premiums.",
+   "note": null
+  },
+  "policy_administration_charge": {
+   "value": "nil for years 1-4; from year 5: 0.40% (annual mode) or 0.38% (non-annual) of AP per month, rising 5% a year compound",
+   "status": "built-in",
+   "doc": "HDFC Life Smart Protect Plus- 101L187V04- Policy Document",
+   "page": 25,
+   "quote": "of the annualized premium increasing at compound rate of 5% per annum on each policy anniversary.",
+   "note": null
+  },
+  "fund_management_charge": {
+   "value": {
+    "all funds": "1.35%",
+    "discontinued_policy_fund": "0.50%"
+   },
+   "status": "built-in",
+   "doc": "HDFC Life Smart Protect Plus- 101L187V04- Policy Document",
+   "page": 26,
+   "quote": "The Fund Management Charge for Discontinued Policy Fund shall be 0.50% p.a.",
+   "note": null
+  },
+  "mortality_charge": {
+   "value": "sum at risk (death benefit less fund value) x rate in Appendix 1; guaranteed",
+   "status": "built-in",
+   "doc": "HDFC Life Smart Protect Plus- 101L187V04- Policy Document",
+   "page": 26,
+   "quote": "The mortality charges are guaranteed for the entire Policy Term.",
+   "note": null
+  },
+  "discontinuance_charge": {
+   "value": {
+    "AP up to Rs 50,000": "lower of 20/15/10/5% of (AP or FV), max Rs 3,000/2,000/1,500/1,000 in years 1-4",
+    "AP above Rs 50,000": "lower of 6/4/3/2%, max Rs 6,000/5,000/4,000/2,000",
+    "year 5+": "nil"
+   },
+   "status": "built-in",
+   "doc": "HDFC Life Smart Protect Plus- 101L187V04- Policy Document",
+   "page": 27,
+   "quote": "No discontinuance charges are applicable on the Top-Up Premium Fund Value.",
+   "note": null
+  },
+  "switching_charge": {
+   "value": "nil",
+   "status": "built-in",
+   "doc": "HDFC Life Smart Protect Plus- 101L187V04- Policy Document",
+   "page": 28,
+   "quote": "There are no Switching Charges under this Policy.",
+   "note": null
+  },
+  "partial_withdrawal_charge": {
+   "value": "nil",
+   "status": "built-in",
+   "doc": "HDFC Life Smart Protect Plus- 101L187V04- Policy Document",
+   "page": 28,
+   "quote": "There are no Partial Withdrawal Charges under this Policy.",
+   "note": null
+  },
+  "premium_redirection_charge": {
+   "value": "nil",
+   "status": "built-in",
+   "doc": "HDFC Life Smart Protect Plus- 101L187V04- Policy Document",
+   "page": 28,
+   "quote": "There are no Premium Redirection Charges under this Policy.",
+   "note": null
+  },
+  "miscellaneous_charge": {
+   "value": "nil",
+   "status": "built-in",
+   "doc": "HDFC Life Smart Protect Plus- 101L187V04- Policy Document",
+   "page": 28,
+   "quote": "There are no Miscellaneous Charges under this Policy.",
+   "note": null
+  },
+  "guarantee_charge": {
+   "value": "Capital Growth Fund 0.50% p.a. (options B and D only); cap 0.50%",
+   "status": "built-in",
+   "doc": "HDFC Life Smart Protect Plus- 101L187V04- Policy Document",
+   "page": 27,
+   "quote": "This will be applicable only if Option B or Option D (Level Cover with Capital Guarantee or Decreasing",
+   "note": "the table prints one rate, 0.50% p.a., beside both Capital Growth Fund and Capital Secure Fund; it may apply to both"
+  },
+  "rider_charges": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "any_charge_returned": {
+   "value": "2x then 3x mortality charges from year 11; all year 1-4 allocation charges returned in years 10-17 (again in years 25-31 if PT > 25); all FMC returned at age 85 or maturity if SA > 30x AP; 2x guarantee charges at maturity (B, D)",
+   "status": "built-in",
+   "doc": "HDFC Life Smart Protect Plus- 101L187V04- Policy Document",
+   "page": 16,
+   "quote": "Sum total of FMC charges (excluding taxes) collected will become payable at end of policy year on",
+   "note": null
+  }
+ },
+ "benefits": {
+  "death_benefit_formula": {
+   "value": {
+    "A, B": "highest of SA less PW, fund value, 105% of premiums",
+    "C, D": "same, with SA falling each year after the level cover period to a minimum SA",
+    "top-up": "higher of top-up SA or top-up fund value, in addition"
+   },
+   "status": "built-in",
+   "doc": "HDFC Life Smart Protect Plus- 101L187V04- Policy Document",
+   "page": 11,
+   "quote": "(iii)105% of Total Premiums (excluding Top-up premium) paid up to the date of death",
+   "note": null
+  },
+  "maturity_benefit": {
+   "value": {
+    "A, C": "fund value plus maturity loyalty additions",
+    "B, D": "higher of that or the Guaranteed Maturity Benefit (premiums paid less partial withdrawals)"
+   },
+   "status": "built-in",
+   "doc": "HDFC Life Smart Protect Plus- 101L187V04- Policy Document",
+   "page": 12,
+   "quote": "The Maturity Benefit will be calculated as higher of {Fund Value at maturity plus Loyalty Additions",
+   "note": null
+  },
+  "loyalty_additions": {
+   "value": "five additions: return of mortality, allocation, fund management and guarantee charges, plus a maturity booster",
+   "status": "built-in",
+   "doc": "HDFC Life Smart Protect Plus- 101L187V04- Policy Document",
+   "page": 15,
+   "quote": "The product offers loyalty additions at different points during the Policy Term.",
+   "note": null
+  },
+  "wealth_boosters_or_guaranteed_additions": {
+   "value": {
+    "Maturity Booster": "1x AP (PPT 5-7) or 2x AP (PPT 8+) at maturity, only if SA > 30x AP",
+    "Guaranteed Maturity Benefit": "options B and D"
+   },
+   "status": "built-in",
+   "doc": "HDFC Life Smart Protect Plus- 101L187V04- Policy Document",
+   "page": 17,
+   "quote": "Maturity Booster shall not be applicable where Sum Assured is Less than or equal to 30 X",
+   "note": null
+  },
+  "return_of_mortality_charges": {
+   "value": "monthly from year 11: 2x (years 11-24) or 3x (25+) the charge from 120 months earlier",
+   "status": "built-in",
+   "doc": "HDFC Life Smart Protect Plus- 101L187V04- Policy Document",
+   "page": 15,
+   "quote": "The product offers a return of 2 to 3 times of the mortality charges starting from policy year 11.",
+   "note": null
+  },
+  "return_of_premium_allocation_charges": {
+   "value": "1x of each of the year 1-4 allocation charges returned over years 10-17 (two years each); if PT > 25 again in years 25, 27, 29, 31",
+   "status": "built-in",
+   "doc": "HDFC Life Smart Protect Plus- 101L187V04- Policy Document",
+   "page": 16,
+   "quote": "For policy term greater than 25 years, in addition to the Return of Premium allocation charge from year",
+   "note": null
+  },
+  "return_of_policy_admin_charges": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "other_additions": {
+   "value": {
+    "Return of FMC": "all FMC to age 85 at the earlier of age 85 or maturity; only if SA > 30x AP",
+    "Return of 2X Guarantee Charge": "options B and D, at maturity"
+   },
+   "status": "built-in",
+   "doc": "HDFC Life Smart Protect Plus- 101L187V04- Policy Document",
+   "page": 16,
+   "quote": "At maturity, 2 times of sum total of Guarantee Charges (excluding taxes) collected throughout the",
+   "note": null
+  }
+ },
+ "flexibility": {
+  "fund_switching": {
+   "value": "options A and C only; unlimited, free",
+   "status": "optional (during term)",
+   "doc": "HDFC Life Smart Protect Plus- 101L187V04- Policy Document",
+   "page": 21,
+   "quote": "The option to switch Funds is available under Option A (Level Cover) and Option C (Decreasing",
+   "note": null
+  },
+  "premium_redirection": {
+   "value": "options A and C only; not with STP",
+   "status": "optional (during term)",
+   "doc": "HDFC Life Smart Protect Plus- 101L187V04- Policy Document",
+   "page": 23,
+   "quote": "Premium Re-direction will not be allowed if Systematic Transfer Plan (STP) is chosen.",
+   "note": null
+  },
+  "partial_withdrawals": {
+   "value": "after 5 years and age 18; minimum Rs 10,000; fund must stay at least 300% of AP",
+   "status": "optional (during term)",
+   "doc": "HDFC Life Smart Protect Plus- 101L187V04- Policy Document",
+   "page": 21,
+   "quote": "The partial withdrawal amount is not less than Rs. 10,000",
+   "note": null
+  },
+  "systematic_withdrawal_plan": {
+   "value": "fixed amount or % at chosen intervals",
+   "status": "optional (during term)",
+   "doc": "HDFC Life Smart Protect Plus- 101L187V04- Policy Document",
+   "page": 23,
+   "quote": "This partial withdrawal facility allows the policyholder to withdraw a pre-determined absolute amount from",
+   "note": null
+  },
+  "top_up_premiums": {
+   "value": "options A and C only; not in the last 5 years; minimum Rs 5,000",
+   "status": "optional (during term)",
+   "doc": "HDFC Life Smart Protect Plus- 101L187V04- Policy Document",
+   "page": 21,
+   "quote": "This is only available under Option A (Level Cover) and Option C (Decreasing Cover).",
+   "note": null
+  },
+  "settlement_option": {
+   "value": "on maturity (fund at least Rs 1 lakh) or death, up to 5 years",
+   "status": "optional (during term)",
+   "doc": "HDFC Life Smart Protect Plus- 101L187V04- Policy Document",
+   "page": 21,
+   "quote": "The Policyholder can avail of the settlement option for maturity or death benefit, subject to the following",
+   "note": null
+  },
+  "premium_holiday_or_offset": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "increase_decrease_cover": {
+   "value": "decrease only: SA can be reduced at a policy anniversary",
+   "status": "optional (during term)",
+   "doc": "HDFC Life Smart Protect Plus- 101L187V04- Policy Document",
+   "page": 23,
+   "quote": "At any policy anniversary, the Policyholder will have the option to reduce Sum Assured subject to the",
+   "note": null
+  },
+  "change_ppt_or_term": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "policy_loan": {
+   "value": null,
+   "status": "not offered",
+   "doc": "HDFC Life Smart Protect Plus- 101L187V04- Policy Document",
+   "page": 23,
+   "quote": "There is no facility of loan available from us under this Policy.",
+   "note": null
+  },
+  "auto_portfolio_strategies": {
+   "value": [
+    {
+     "name": "Systematic Transfer Plan",
+     "mechanics": "options A and C; fixed monthly transfers from a source fund in 12 instalments on the 1st or 15th; minimum Rs 5,000; no charge"
+    }
+   ],
+   "status": "optional (during term)",
+   "doc": "HDFC Life Smart Protect Plus- 101L187V04- Policy Document",
+   "page": 32,
+   "quote": "The transfer will be done in 12 equal instalments.",
+   "note": null
+  }
+ },
+ "funds": {
+  "fund_count": {
+   "value": "12 funds (options A, C) or 2 funds (options B, D), plus the Discontinued Policy Fund",
+   "status": "n/a",
+   "doc": "Download Brochure",
+   "page": 2,
+   "quote": "12 Funds available under Level Cover and Decreasing Cover plan options, 2 Funds available under",
+   "note": null
+  },
+  "fund_list": {
+   "value": [
+    {
+     "name": "Diversified Equity Fund",
+     "SFIN": "ULIF05501/08/13DivrEqtyFd101",
+     "FMC_pct": 1.35,
+     "asset_allocation": "see policy document Appendix 2",
+     "risk_label": null,
+     "plan_options": "A, C"
+    },
+    {
+     "name": "Bond Fund",
+     "SFIN": "ULIF05601/08/13BondFunds101",
+     "FMC_pct": 1.35,
+     "asset_allocation": "see policy document Appendix 2",
+     "risk_label": null,
+     "plan_options": "A, C"
+    },
+    {
+     "name": "Discovery Fund",
+     "SFIN": "ULIF06618/01/18DiscvryFnd101",
+     "FMC_pct": 1.35,
+     "asset_allocation": "see policy document Appendix 2",
+     "risk_label": null,
+     "plan_options": "A, C"
+    },
+    {
+     "name": "Equity Advantage Fund",
+     "SFIN": "ULIF06723/03/18EqtyAdvtFd101",
+     "FMC_pct": 1.35,
+     "asset_allocation": "see policy document Appendix 2",
+     "risk_label": null,
+     "plan_options": "A, C"
+    },
+    {
+     "name": "Flexi Cap Fund",
+     "SFIN": "ULIF07114/07/23FlexiCapFd101",
+     "FMC_pct": 1.35,
+     "asset_allocation": "see policy document Appendix 2",
+     "risk_label": null,
+     "plan_options": "A, C"
+    },
+    {
+     "name": "Dynamic Advantage Fund",
+     "SFIN": "ULIF08028/02/25DynamicFnd101",
+     "FMC_pct": 1.35,
+     "asset_allocation": "see policy document Appendix 2",
+     "risk_label": null,
+     "plan_options": "A, C"
+    },
+    {
+     "name": "India Consumption Advantage Fund",
+     "SFIN": "ULIF08421/11/25InCnsmAdFd101",
+     "FMC_pct": 1.35,
+     "asset_allocation": "see policy document Appendix 2",
+     "risk_label": null,
+     "plan_options": "A, C"
+    },
+    {
+     "name": "Sustainable Equity Fund",
+     "SFIN": "ULIF07019/07/21SustnblEqF101",
+     "FMC_pct": 1.35,
+     "asset_allocation": "see policy document Appendix 2",
+     "risk_label": null,
+     "plan_options": "A, C"
+    },
+    {
+     "name": "India Sector Leaders Opportunities Fund",
+     "SFIN": "ULIF08602/03/26InSctrLrFd101",
+     "FMC_pct": 1.35,
+     "asset_allocation": "see policy document Appendix 2",
+     "risk_label": null,
+     "plan_options": "A, C"
+    },
+    {
+     "name": "Top 500 Smart Value 50 Fund",
+     "SFIN": "ULIF08801/06/26SmtVal50Fd101",
+     "FMC_pct": 1.35,
+     "asset_allocation": "see policy document Appendix 2",
+     "risk_label": null,
+     "plan_options": "A, C"
+    },
+    {
+     "name": "Dividend Leaders Advantage Fund",
+     "SFIN": "ULIF09004/09/26DivLdrAdFd101",
+     "FMC_pct": 1.35,
+     "asset_allocation": "see policy document Appendix 2",
+     "risk_label": null,
+     "plan_options": "A, C"
+    },
+    {
+     "name": "Top 200 Equal weight Fund",
+     "SFIN": "ULIF09216/09/26T200EqWtFd101",
+     "FMC_pct": 1.35,
+     "asset_allocation": "see policy document Appendix 2",
+     "risk_label": null,
+     "plan_options": "A, C"
+    },
+    {
+     "name": "Capital Growth Fund",
+     "SFIN": "ULIF06301/04/15CapGrwthFd101",
+     "FMC_pct": 1.35,
+     "guarantee_charge_pct": 0.5,
+     "plan_options": "B, D",
+     "asset_allocation": "see policy document Appendix 2",
+     "risk_label": null
+    },
+    {
+     "name": "Capital Secure Fund",
+     "SFIN": "ULIF06401/04/15CapSecFund101",
+     "FMC_pct": 1.35,
+     "guarantee_charge_pct": null,
+     "plan_options": "B, D",
+     "asset_allocation": "see policy document Appendix 2",
+     "risk_label": null
+    }
+   ],
+   "status": "n/a",
+   "doc": "HDFC Life Smart Protect Plus- 101L187V04- Policy Document",
+   "page": 29,
+   "quote": "Capital Growth Fund - Capital Growth Fund aims to provide medium to long term",
+   "note": null
+  },
+  "index_or_thematic_funds": {
+   "value": "India Consumption Advantage (2025), India Sector Leaders Opportunities (2026), Top 500 Smart Value 50 (2026), Dividend Leaders Advantage (2026), Top 200 Equal weight (2026); years from SFINs",
+   "status": "n/a",
+   "doc": "HDFC Life Smart Protect Plus- 101L187V04- Policy Document",
+   "page": 29,
+   "quote": "Dividend Leaders Advantage Fund",
+   "note": null
+  },
+  "discontinued_policy_fund": {
+   "value": {
+    "SFIN": "ULIF05110/03/11DiscontdPF101",
+    "FMC": "0.50%"
+   },
+   "status": "built-in",
+   "doc": "HDFC Life Smart Protect Plus- 101L187V04- Policy Document",
+   "page": 26,
+   "quote": "The Fund Management Charge for Discontinued Policy Fund shall be 0.50% p.a.",
+   "note": null
+  }
+ },
+ "protection_add_ons": {
+  "waiver_of_premium_inbuilt": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "critical_illness": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "accidental_death": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "terminal_illness": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "spouse_or_child_cover": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "riders_available": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  }
+ },
+ "surrender_revival": {
+  "lock_in_years": {
+   "value": 5,
+   "status": "built-in",
+   "doc": "HDFC Life Smart Protect Plus- 101L187V04- Policy Document",
+   "page": 21,
+   "quote": "The Policyholder has the option of making partial withdrawals at any time after the first 5 years, subject",
+   "note": null
+  },
+  "discontinuance_rules": {
+   "value": "in lock-in: fund less discontinuance charge goes to the Discontinued Policy Fund; after lock-in: reduced paid-up",
+   "status": "built-in",
+   "doc": "HDFC Life Smart Protect Plus- 101L187V04- Policy Document",
+   "page": 19,
+   "quote": "be converted into a reduced paid up policy with the paid-up sum assured as stated under clause",
+   "note": null
+  },
+  "revival_period": {
+   "value": "3 years from first unpaid premium",
+   "status": "built-in",
+   "doc": "HDFC Life Smart Protect Plus- 101L187V04- Policy Document",
+   "page": 19,
+   "quote": "Policyholder and provide the option to revive the policy within the revival period of three years.",
+   "note": null
+  },
+  "surrender_value_rule": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  }
+ },
+ "documents_inventory": [
+  {
+   "website_label": "Download Brochure",
+   "doc_type": "brochure",
+   "url": "https://www.hdfclife.com/content/dam/hdfclifeinsurancecompany/products-page/brochure-pdf/HDFC-Life-Smart-Protect-Plus-Brochure.pdf",
+   "found_on_page_url": "https://www.hdfclife.com/ulip-plans/smart-protect-plus",
+   "pages": 34,
+   "stored_path": "docs/hdfc-life/101L187V04/brochure.pdf",
+   "status": "already stored",
+   "note": null
+  },
+  {
+   "website_label": "specimen policy documents",
+   "doc_type": "policy_document",
+   "url": "https://www.hdfclife.com/policy-documents",
+   "found_on_page_url": "https://www.hdfclife.com/ulip-plans/smart-protect-plus",
+   "pages": null,
+   "stored_path": null,
+   "status": "web page (not stored)",
+   "note": "link opens a web page, not a document"
+  },
+  {
+   "website_label": "product brochures",
+   "doc_type": "brochure",
+   "url": "https://www.hdfclife.com/brochures",
+   "found_on_page_url": "https://www.hdfclife.com/ulip-plans/smart-protect-plus",
+   "pages": null,
+   "stored_path": null,
+   "status": "web page (not stored)",
+   "note": "link opens a web page, not a document"
+  },
+  {
+   "website_label": "HDFC Life Smart Protect Plus- 101L187V04- Policy Document",
+   "doc_type": "policy_document",
+   "url": "https://www.hdfclife.com/content/dam/hdfclifeinsurancecompany/customer-services/policy-documents-pdf/savings-and-investment-live/HDFC-Life-Smart-Protect-Plus-101L187V04-Policy-Document.pdf",
+   "found_on_page_url": "https://www.hdfclife.com/ulip-plans/smart-protect-plus",
+   "pages": 58,
+   "stored_path": "docs/hdfc-life/101L187V04/policy.pdf",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "website_label": "HDFC Life Smart Protect Plus",
+   "doc_type": "brochure",
+   "url": "https://www.hdfclife.com/content/dam/hdfclifeinsurancecompany/customer-services/brochure-documents-pdfs/ulip-live/HDFC-Life-Smart-Protect-Plus-Brochure.pdf",
+   "found_on_page_url": "https://www.hdfclife.com/ulip-plans/smart-protect-plus",
+   "pages": 34,
+   "stored_path": null,
+   "status": "already stored (same file)",
+   "note": "identical to the brochure already stored"
+  }
+ ],
+ "new_features_not_in_schema": [
+  {
+   "feature": "Return of fund management charges",
+   "description": "all FMC collected up to age 85 is added back at age 85 or maturity, if SA is above 30x AP",
+   "quote": "Return of FMC shall not be applicable where Sum Assured is Less than or equal to 30 X Annualized",
+   "doc": "HDFC Life Smart Protect Plus- 101L187V04- Policy Document",
+   "page": 16
+  },
+  {
+   "feature": "Return of 2x guarantee charges",
+   "description": "twice the guarantee charges collected are added at maturity under the capital guarantee options",
+   "quote": "At maturity, 2 times of sum total of Guarantee Charges (excluding taxes) collected throughout the",
+   "doc": "HDFC Life Smart Protect Plus- 101L187V04- Policy Document",
+   "page": 16
+  },
+  {
+   "feature": "Decreasing cover after a level cover period",
+   "description": "SA falls by basic SA / reduction term each year after a chosen level period, down to a minimum",
+   "quote": "From the policy year following the ‘Level Cover Period’, the Sum Assured would decrease uniformly every",
+   "doc": "HDFC Life Smart Protect Plus- 101L187V04- Policy Document",
+   "page": 12
+  },
+  {
+   "feature": "Capital guarantee on maturity",
+   "description": "options B and D pay at least total premiums less partial withdrawals at maturity",
+   "quote": "The Policyholder gets a Capital Guarantee in the form of minimum Guaranteed Maturity Benefit.",
+   "doc": "HDFC Life Smart Protect Plus- 101L187V04- Policy Document",
+   "page": 12
+  }
+ ],
+ "data_not_public": []
+}

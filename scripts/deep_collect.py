@@ -34,7 +34,7 @@ KIND = [  # (doc_type, label pattern); first match wins, so order matters
 ]
 SKIP = re.compile(r'claim|proposal[\s_-]*form|hindi|marathi|tamil|telugu|kannada|gujarati|bengali|malayalam|odia|punjabi|'
                   r'rider|grievance|nomination|kyc|annual[\s_-]*report|disclosure|whistle|privacy|csr|policy[\s_-]*for|'
-                  r'underwriting|code[\s_-]*of[\s_-]*conduct|service[\s_-]*manual|calculator|form[\s_-]*\d', re.I)
+                  r'underwriting|code[\s_-]*of[\s_-]*conduct|service[\s_-]*manual|calculator|form[\s_-]*\d|policy[\s_-]*loans?', re.I)
 IDX_EXTRA = 'website_label'
 
 def kind_of(label, url):
@@ -56,6 +56,8 @@ def main():
     ap = argparse.ArgumentParser()
     ap.add_argument('--insurer', required=True); ap.add_argument('--dry-run', action='store_true')
     ap.add_argument('--only', default=''); ap.add_argument('--tmp', default='/tmp/deep_cache')
+    ap.add_argument('--extra-page', action='append', default=[],
+                    help='central document page (e.g. HDFC /policy-documents); only links naming the product are taken')
     a = ap.parse_args(); os.makedirs(a.tmp, exist_ok=True)
     D = [r for r in csv.DictReader(open('briefs/ulip_deep_set.csv')) if SLUG.get(r['insurer']) in a.insurer.split(',')
          and (not a.only or r['uin'] in a.only.split(','))]
@@ -72,6 +74,18 @@ def main():
         page = d['product_page_url']
         now = datetime.datetime.now(datetime.timezone.utc).strftime('%Y-%m-%dT%H:%M:%SZ')
         links = L.page_links(page, a.tmp) if page else []
+        norm = lambda x: re.sub(r'[^a-z0-9]+', ' ', x.lower()).strip()
+        pname = norm(re.sub(r'^(hdfc life|sbi life|tata aia( life)?( insurance)?|bajaj life|axis max life|absli|canara hsbc life( insurance)?|lic.?s?|bharti axa life)\s+', '', d['product_name'].lower()))
+        ver = int(uin[-2:]); xl = []
+        for xp in a.extra_page:                                      # central pages: only links naming this product and version
+            for u, t in L.page_links(xp, a.tmp):
+                blob = norm(urllib.parse.unquote(u).rsplit('/', 1)[-1] + ' ' + t)
+                if not pname or pname not in blob or 'appendix' in blob: continue
+                vs = {int(x) for x in re.findall(r'(?:^|\s)(?:v|' + uin[:7].lower() + r'v)0?(\d{1,2})(?=\s|$)', blob)}
+                if vs and ver not in vs: continue
+                xl.append((u, t))
+        if any('-live/' in u for u, t in xl): xl = [(u, t) for u, t in xl if '-withdrawn/' not in u]
+        links += xl
         seen = {}
         for u, t in links:
             if urllib.parse.urlparse(u).scheme not in ('http', 'https'): continue
@@ -96,6 +110,10 @@ def main():
         have_sha = {r['sha256']: r for r in idx}
         rows_out = []
         for u, (k, t) in seen.items():
+            if k == 'brochure' and any(r['doc_type'] == 'brochure' for r in have) and not t:
+                rows_out.append({'insurer': d['insurer'], 'product_name': d['product_name'], 'uin': uin, 'website_label': urllib.parse.unquote(u).rsplit('/', 1)[-1],
+                                 'doc_type': k, 'status': 'not stored (unlabelled link; brochure already stored)', 'url': u, 'found_on_page_url': page, 'stored_path': '',
+                                 'pages': '', 'uin_in_document': '', 'is_scanned': '', 'notes': '', 'checked_utc': now}); continue
             label = t or urllib.parse.unquote(u).rsplit('/', 1)[-1]
             rec = {'insurer': d['insurer'], 'product_name': d['product_name'], 'uin': uin, 'website_label': label, 'doc_type': k,
                    'status': '', 'url': u, 'found_on_page_url': page, 'stored_path': '', 'pages': '', 'uin_in_document': '',
@@ -110,8 +128,8 @@ def main():
             tmp = os.path.join(a.tmp, 'dl.pdf')
             code, eff = L.fetch(u, tmp)
             body = open(tmp, 'rb').read() if os.path.exists(tmp) else b''
-            if code == 200 and body[:4] != b'%PDF' and k == 'fund_factsheet':
-                rec.update(status='web page (not stored)', notes='fund information is a web page, not a document'); rows_out.append(rec); continue
+            if code == 200 and body[:4] != b'%PDF':
+                rec.update(status='web page (not stored)', notes='link opens a web page, not a document'); rows_out.append(rec); continue
             if code != 200 or body[:4] != b'%PDF':
                 rec.update(status='failed', notes=f'HTTP {code}, not a PDF' if code == 200 else f'HTTP {code}'); rows_out.append(rec); continue
             if len(body) > 95 * 2**20:
@@ -146,6 +164,9 @@ def main():
             fp, tp = os.path.join(d_doc, name + '.pdf'), os.path.join(d_txt, name + '.txt')
             dup = have_sha.get(sha)
             notes = [x for x in [('' if uin in found or not found else 'document shows ' + ','.join(found)), ocr] if x]
+            if dup and dup['uin'] == uin:                            # this product already has these exact bytes
+                rec.update(status='already stored (same file)', stored_path=dup['file_path'], pages=npg, notes='identical to ' + dup['doc_id'])
+                rows_out.append(rec); continue
             if dup:
                 fp, tp = dup['file_path'], dup['text_path']; notes.append('same file as ' + dup['doc_id'])
             else:

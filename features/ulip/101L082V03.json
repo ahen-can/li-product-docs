@@ -1,0 +1,653 @@
+{
+ "product": {
+  "uin": {
+   "value": "101L082V03",
+   "status": "n/a",
+   "doc": "HDFC Life Smart Woman Plan 101L082V03 - Policy Document",
+   "page": 1,
+   "quote": "HDFC Life Smart Woman Plan (UIN - 101L082V03)",
+   "note": "policy document sits in the site's \"savings-and-investment-withdrawn\" folder; the product page still links it"
+  },
+  "uin_in_brochure": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "product_name": {
+   "value": "HDFC Life Smart Woman Plan",
+   "status": "n/a",
+   "doc": "HDFC Life Smart Woman Plan 101L082V03 - Policy Document",
+   "page": 1,
+   "quote": "HDFC Life Smart Woman Plan (UIN - 101L082V03)",
+   "note": null
+  },
+  "irdai_description_line": {
+   "value": "A Unit Linked Non-Participating Individual Life Insurance Savings Plan",
+   "status": "n/a",
+   "doc": "HDFC Life Smart Woman Plan 101L082V03 - Policy Document",
+   "page": 1,
+   "quote": "A Unit Linked Non – Participating Individual Life Insurance Savings Plan",
+   "note": null
+  },
+  "launch_or_version_date": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "variants_or_plan_options": {
+   "value": [
+    "Classic (premium waiver on Groups 1 and 2)",
+    "Premier (waiver plus periodic cash on Groups 1 and 2)",
+    "Elite (Premier plus waiver on death of spouse, Group 3)"
+   ],
+   "status": "optional (at inception)",
+   "doc": "HDFC Life Smart Woman Plan 101L082V03 - Policy Document",
+   "page": 9,
+   "quote": "Morbidity Benefits The table below",
+   "note": null
+  },
+  "target_segment_stated": {
+   "value": "women",
+   "status": "n/a",
+   "doc": "MC0620179977 HDFC Life Smart Woman Plan_Retail_Brochure.pdf",
+   "page": 2,
+   "quote": "designed specifically for women.",
+   "note": null
+  },
+  "online_offline": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  }
+ },
+ "eligibility": {
+  "entry_age_min": {
+   "value": "18 years (female life assured); spouse 21 (Elite)",
+   "status": "n/a",
+   "doc": "MC0620179977 HDFC Life Smart Woman Plan_Retail_Brochure.pdf",
+   "page": 2,
+   "quote": "Assured (Years) 18 45",
+   "note": null
+  },
+  "entry_age_max": {
+   "value": "45 years (female life assured); spouse 50 (Elite)",
+   "status": "n/a",
+   "doc": "MC0620179977 HDFC Life Smart Woman Plan_Retail_Brochure.pdf",
+   "page": 2,
+   "quote": "Assured (Years) 18 45",
+   "note": null
+  },
+  "maturity_age_min": {
+   "value": "28 years",
+   "status": "n/a",
+   "doc": "MC0620179977 HDFC Life Smart Woman Plan_Retail_Brochure.pdf",
+   "page": 2,
+   "quote": "Assured (Years) 28 60",
+   "note": null
+  },
+  "maturity_age_max": {
+   "value": "60 years",
+   "status": "n/a",
+   "doc": "MC0620179977 HDFC Life Smart Woman Plan_Retail_Brochure.pdf",
+   "page": 2,
+   "quote": "Assured (Years) 28 60",
+   "note": null
+  },
+  "policy_term_options": {
+   "value": "10 or 15 years",
+   "status": "n/a",
+   "doc": "MC0620179977 HDFC Life Smart Woman Plan_Retail_Brochure.pdf",
+   "page": 2,
+   "quote": "Policy Term (Years) 10 or 15, you select !",
+   "note": null
+  },
+  "ppt_options": {
+   "value": "regular pay (premium payable through the term)",
+   "status": "n/a",
+   "doc": "HDFC Life Smart Woman Plan 101L082V03 - Policy Document",
+   "page": 10,
+   "quote": "The premium chosen at the outset shall become payable throughout the Premium Paying Term of the",
+   "note": null
+  },
+  "premium_min_annual": {
+   "value": "Rs 24,000",
+   "status": "n/a",
+   "doc": "MC0620179977 HDFC Life Smart Woman Plan_Retail_Brochure.pdf",
+   "page": 2,
+   "quote": "Premiums Annual ` 24,000 ` 1,00,000",
+   "note": null
+  },
+  "premium_min_single": {
+   "value": null,
+   "status": "not offered",
+   "doc": "HDFC Life Smart Woman Plan 101L082V03 - Policy Document",
+   "page": 10,
+   "quote": "Premiums under the Policy can be paid only on an annual basis as set out in the Policy Schedule.",
+   "note": null
+  },
+  "premium_max": {
+   "value": "Rs 1,00,000 annual",
+   "status": "n/a",
+   "doc": "MC0620179977 HDFC Life Smart Woman Plan_Retail_Brochure.pdf",
+   "page": 2,
+   "quote": "Premiums Annual ` 24,000 ` 1,00,000",
+   "note": null
+  },
+  "sum_assured_rule": {
+   "value": "minimum 10x AP (entry < 45) or 7x (45); maximum 40x",
+   "status": "built-in",
+   "doc": "MC0620179977 HDFC Life Smart Woman Plan_Retail_Brochure.pdf",
+   "page": 2,
+   "quote": "Entry Age less than 45 years annualised",
+   "note": null
+  },
+  "premium_modes": {
+   "value": "annual only",
+   "status": "n/a",
+   "doc": "HDFC Life Smart Woman Plan 101L082V03 - Policy Document",
+   "page": 10,
+   "quote": "Premiums under the Policy can be paid only on an annual basis as set out in the Policy Schedule.",
+   "note": null
+  },
+  "life_cover_multiple_choice": {
+   "value": "10x/7x to 40x AP",
+   "status": "optional (at inception)",
+   "doc": "MC0620179977 HDFC Life Smart Woman Plan_Retail_Brochure.pdf",
+   "page": 2,
+   "quote": "Sum Assured of up to 40 times your annualized premium",
+   "note": null
+  }
+ },
+ "charges": {
+  "premium_allocation_charge": {
+   "value": {
+    "years 1-10": "2.5% (allocation rate 97.5%)",
+    "years 11-15": "0% (allocation rate 102.5%)"
+   },
+   "status": "built-in",
+   "doc": "HDFC Life Smart Woman Plan 101L082V03 - Policy Document",
+   "page": 16,
+   "quote": "The balance Premium that is not allocated is the Premium Allocation Charge.",
+   "note": null
+  },
+  "policy_administration_charge": {
+   "value": "0.40% of AP per month, rising 5.50% a year from year 6, max 0.50% of AP or Rs 500 a month",
+   "status": "built-in",
+   "doc": "HDFC Life Smart Woman Plan 101L082V03 - Policy Document",
+   "page": 16,
+   "quote": "0.40% of annualized Premium will be deducted monthly.",
+   "note": null
+  },
+  "fund_management_charge": {
+   "value": {
+    "all funds": "1.35%",
+    "discontinued_policy_fund": "0.50%"
+   },
+   "status": "built-in",
+   "doc": "HDFC Life Smart Woman Plan 101L082V03 - Policy Document",
+   "page": 16,
+   "quote": "1.35% p.a. will be taken daily and is incorporated into the Unit Prices for each Fund.",
+   "note": null
+  },
+  "mortality_charge": {
+   "value": "mortality and morbidity charges on sum at risk; morbidity sum at risk is the present value of waived premiums (2x for Premier and Elite where periodic cash applies); guaranteed",
+   "status": "built-in",
+   "doc": "HDFC Life Smart Woman Plan 101L082V03 - Policy Document",
+   "page": 22,
+   "quote": "Sum at Risk for Mortality Charges is calculated as: Death Benefit (specified in Clause 3) less Fund Value,",
+   "note": null
+  },
+  "discontinuance_charge": {
+   "value": {
+    "AP up to Rs 50,000": "lowest of 20/15/10/5% of AP or FV or Rs 3,000/2,000/1,500/1,000",
+    "AP above Rs 50,000": "lowest of 6/4/3/2% or Rs 6,000/5,000/4,000/2,000",
+    "year 5+": "nil"
+   },
+   "status": "built-in",
+   "doc": "HDFC Life Smart Woman Plan 101L082V03 - Policy Document",
+   "page": 17,
+   "quote": "20% of AP or 20% of",
+   "note": null
+  },
+  "switching_charge": {
+   "value": "Rs 250 per switch (Rs 25 online); up to 12 free switches in the year after childbirth",
+   "status": "built-in",
+   "doc": "HDFC Life Smart Woman Plan 101L082V03 - Policy Document",
+   "page": 17,
+   "quote": "A fund switch request from the Policyholder will attract a charge of Rs 250 per request.",
+   "note": null
+  },
+  "partial_withdrawal_charge": {
+   "value": "Rs 250 per request (Rs 25 online); up to 12 free in the year after childbirth",
+   "status": "built-in",
+   "doc": "HDFC Life Smart Woman Plan 101L082V03 - Policy Document",
+   "page": 17,
+   "quote": "A partial withdrawal request from the Policyholder will attract a charge of Rs 250 per",
+   "note": null
+  },
+  "premium_redirection_charge": {
+   "value": "Rs 250 per request (Rs 25 online)",
+   "status": "built-in",
+   "doc": "HDFC Life Smart Woman Plan 101L082V03 - Policy Document",
+   "page": 17,
+   "quote": "A premium redirection request initiated by the Policyholder will attract a charge of Rs",
+   "note": null
+  },
+  "miscellaneous_charge": {
+   "value": "Rs 500 per alteration request",
+   "status": "built-in",
+   "doc": "HDFC Life Smart Woman Plan 101L082V03 - Policy Document",
+   "page": 17,
+   "quote": "Any Policy alteration request initiated by the Policyholder will attract a charge of Rs. 500",
+   "note": null
+  },
+  "guarantee_charge": {
+   "value": null,
+   "status": "n/a",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": "policy document lists Investment Guarantee Charge as Not Applicable"
+  },
+  "rider_charges": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "any_charge_returned": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  }
+ },
+ "benefits": {
+  "death_benefit_formula": {
+   "value": "higher of SA less partial withdrawals in the last 2 years, or fund value; at least 105% of premiums",
+   "status": "built-in",
+   "doc": "HDFC Life Smart Woman Plan 101L082V03 - Policy Document",
+   "page": 9,
+   "quote": "The Death Benefit payable shall be at least equal to 105% of the total Premiums paid till the date of",
+   "note": null
+  },
+  "maturity_benefit": {
+   "value": "fund value, lump sum or by settlement option",
+   "status": "built-in",
+   "doc": "HDFC Life Smart Woman Plan 101L082V03 - Policy Document",
+   "page": 9,
+   "quote": "on the Maturity Date of this benefit, risk cover ceases and the Unit Fund Value is payable.",
+   "note": null
+  },
+  "loyalty_additions": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "wealth_boosters_or_guaranteed_additions": {
+   "value": "allocation rate of 102.5% in years 11-15 (2.5% of premium added)",
+   "status": "built-in",
+   "doc": "HDFC Life Smart Woman Plan 101L082V03 - Policy Document",
+   "page": 16,
+   "quote": "A proportion of the Premium (Premium Allocation Rate) will be used to buy Units in the Funds of your",
+   "note": null
+  },
+  "return_of_mortality_charges": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "return_of_premium_allocation_charges": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "return_of_policy_admin_charges": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "other_additions": {
+   "value": {
+    "Periodic Cash Benefit": "Premier and Elite: one annual premium paid out on each due date for 3 years after a covered event, once per event group"
+   },
+   "status": "optional (at inception)",
+   "doc": "HDFC Life Smart Woman Plan 101L082V03 - Policy Document",
+   "page": 10,
+   "quote": "Under this benefit, a cash benefit equal to one annual Premium will be paid out to you on each Premium",
+   "note": null
+  }
+ },
+ "flexibility": {
+  "fund_switching": {
+   "value": "allowed, charged",
+   "status": "optional (during term)",
+   "doc": "HDFC Life Smart Woman Plan 101L082V03 - Policy Document",
+   "page": 14,
+   "quote": "You can ask us to switch the Funds in which your Units are held.",
+   "note": null
+  },
+  "premium_redirection": {
+   "value": "allowed, charged",
+   "status": "optional (during term)",
+   "doc": "HDFC Life Smart Woman Plan 101L082V03 - Policy Document",
+   "page": 15,
+   "quote": "The Funds in which new Premiums are invested can be changed at any time.",
+   "note": null
+  },
+  "partial_withdrawals": {
+   "value": "after 5 years and age 18; fund must stay at least 150% of AP; total withdrawals capped at 300% of AP",
+   "status": "optional (during term)",
+   "doc": "HDFC Life Smart Woman Plan 101L082V03 - Policy Document",
+   "page": 14,
+   "quote": "The maximum Partial Withdrawal that can be done throughout the Policy term is 300% of the",
+   "note": null
+  },
+  "systematic_withdrawal_plan": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "top_up_premiums": {
+   "value": null,
+   "status": "not offered",
+   "doc": "HDFC Life Smart Woman Plan 101L082V03 - Policy Document",
+   "page": 14,
+   "quote": "The option for Single Premium Top-Ups is not available under this Policy.",
+   "note": null
+  },
+  "settlement_option": {
+   "value": "on maturity or death, up to 5 years",
+   "status": "optional (during term)",
+   "doc": "HDFC Life Smart Woman Plan 101L082V03 - Policy Document",
+   "page": 14,
+   "quote": "We may provide settlement options on maturity or death.",
+   "note": null
+  },
+  "premium_holiday_or_offset": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "increase_decrease_cover": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "change_ppt_or_term": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "policy_loan": {
+   "value": null,
+   "status": "not offered",
+   "doc": "HDFC Life Smart Woman Plan 101L082V03 - Policy Document",
+   "page": 15,
+   "quote": "There is no facility of loan available from us under this Policy.",
+   "note": null
+  },
+  "auto_portfolio_strategies": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  }
+ },
+ "funds": {
+  "fund_count": {
+   "value": "4 funds plus the Discontinued Policy Fund",
+   "status": "n/a",
+   "doc": "HDFC Life Smart Woman Plan 101L082V03 - Policy Document",
+   "page": 18,
+   "quote": "Fund descriptions of the Funds currently available under this Policy and investment pattern are listed",
+   "note": null
+  },
+  "fund_list": {
+   "value": [
+    {
+     "name": "Income Fund",
+     "SFIN": "ULIF03401/01/10IncomeFund101",
+     "FMC_pct": 1.35,
+     "asset_allocation": "see policy document Part E",
+     "risk_label": "Moderate"
+    },
+    {
+     "name": "Balanced Fund",
+     "SFIN": "ULIF03901/09/10BalancedFd101",
+     "FMC_pct": 1.35,
+     "asset_allocation": "see policy document Part E",
+     "risk_label": "Moderate to High"
+    },
+    {
+     "name": "Blue Chip Fund",
+     "SFIN": "ULIF03501/01/10BlueChipFd101",
+     "FMC_pct": 1.35,
+     "asset_allocation": "see policy document Part E",
+     "risk_label": "Very High"
+    },
+    {
+     "name": "Opportunities Fund",
+     "SFIN": "ULIF03601/01/10OpprtntyFd101",
+     "FMC_pct": 1.35,
+     "asset_allocation": "see policy document Part E",
+     "risk_label": "Very High"
+    }
+   ],
+   "status": "n/a",
+   "doc": "HDFC Life Smart Woman Plan 101L082V03 - Policy Document",
+   "page": 18,
+   "quote": "Income Fund - The Income Fund aims to provide superior returns through investments in high credit",
+   "note": "SFINs and risk ratings from the fund table"
+  },
+  "index_or_thematic_funds": {
+   "value": null,
+   "status": "not offered",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": "only 4 funds, none index or thematic"
+  },
+  "discontinued_policy_fund": {
+   "value": {
+    "SFIN": "ULIF05110/03/11DiscontdPF101",
+    "FMC": "0.50%",
+    "minimum interest": "4% p.a."
+   },
+   "status": "built-in",
+   "doc": "HDFC Life Smart Woman Plan 101L082V03 - Policy Document",
+   "page": 19,
+   "quote": "The asset allocation for the Discontinued Policy Fund (SFIN: ULIF05110/03/11DiscontdPF101) shall be as",
+   "note": null
+  }
+ },
+ "protection_add_ons": {
+  "waiver_of_premium_inbuilt": {
+   "value": "company pays 3 annual premiums after a covered event: Group 1 childbirth with congenital disorder or pregnancy complications, Group 2 female cancer, Group 3 (Elite) death of spouse",
+   "status": "built-in",
+   "doc": "HDFC Life Smart Woman Plan 101L082V03 - Policy Document",
+   "page": 10,
+   "quote": "Under this benefit, We will waive off 100% of the Premium for 3 years from occurrence of the specified",
+   "note": null
+  },
+  "critical_illness": {
+   "value": "malignant cancer of female organs (Group 2): premium waiver, plus periodic cash under Premier and Elite",
+   "status": "built-in",
+   "doc": "HDFC Life Smart Woman Plan 101L082V03 - Policy Document",
+   "page": 9,
+   "quote": "Malignant cancer of the",
+   "note": null
+  },
+  "accidental_death": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "terminal_illness": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "spouse_or_child_cover": {
+   "value": "Elite: death of the spouse (secondary life assured) triggers premium waiver; Group 1 covers congenital disorders of a newborn child",
+   "status": "optional (at inception)",
+   "doc": "HDFC Life Smart Woman Plan 101L082V03 - Policy Document",
+   "page": 7,
+   "quote": "Secondary Life Assured - Under this Policy, Secondary Life Assured is the spouse of the Primary Life",
+   "note": null
+  },
+  "riders_available": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  }
+ },
+ "surrender_revival": {
+  "lock_in_years": {
+   "value": 5,
+   "status": "built-in",
+   "doc": "HDFC Life Smart Woman Plan 101L082V03 - Policy Document",
+   "page": 14,
+   "quote": "You have the option of making Partial Withdrawals at any time after the first 5 years, subject to the",
+   "note": null
+  },
+  "discontinuance_rules": {
+   "value": "in lock-in: fund less discontinuance charge goes to the Discontinued Policy Fund; after lock-in: reduced paid-up",
+   "status": "built-in",
+   "doc": "HDFC Life Smart Woman Plan 101L082V03 - Policy Document",
+   "page": 12,
+   "quote": "premium after lock-in period, the policy shall be converted into a reduced paid up policy with",
+   "note": null
+  },
+  "revival_period": {
+   "value": "3 years from first unpaid premium",
+   "status": "built-in",
+   "doc": "HDFC Life Smart Woman Plan 101L082V03 - Policy Document",
+   "page": 13,
+   "quote": "The revival period for this product is three years from date of first unpaid premium.",
+   "note": null
+  },
+  "surrender_value_rule": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  }
+ },
+ "documents_inventory": [
+  {
+   "website_label": "MC0620179977 HDFC Life Smart Woman Plan_Retail_Brochure.pdf",
+   "doc_type": "brochure",
+   "url": "https://www.hdfclife.com/content/dam/hdfclifeinsurancecompany/pdf/products/ulip-plans/MC0620179977 HDFC Life Smart Woman Plan_Retail_Brochure.pdf",
+   "found_on_page_url": "https://www.hdfclife.com/pdf-sitemap.xml",
+   "pages": 11,
+   "stored_path": "docs/hdfc-life/101L082V03/brochure-2.pdf",
+   "status": "ok",
+   "note": "product page links a different brochure from the one stored in the light pass"
+  },
+  {
+   "website_label": "MC0620179977-HDFC-Life-Smart-Woman-Plan-Retail-Brochure.pdf",
+   "doc_type": "brochure",
+   "url": "https://www.hdfclife.com/content/dam/hdfclifeinsurancecompany/products-page/brochure-pdf/MC0620179977-HDFC-Life-Smart-Woman-Plan-Retail-Brochure.pdf",
+   "found_on_page_url": "https://www.hdfclife.com/pdf-sitemap.xml",
+   "pages": 11,
+   "stored_path": null,
+   "status": "not stored (duplicate)",
+   "note": "second copy of the retail brochure; brochure-2 kept"
+  },
+  {
+   "website_label": "1591619293521_HDFC_Life_Smart_Woman_Plan_HDFC_Bank__Brochure.pdf",
+   "doc_type": "brochure",
+   "url": "https://www.hdfclife.com/content/dam/hdfclifeinsurancecompany/products-page/brochures-upload/1591619293521_HDFC_Life_Smart_Woman_Plan_HDFC_Bank__Brochure.pdf",
+   "found_on_page_url": "https://www.hdfclife.com/pdf-sitemap.xml",
+   "pages": 11,
+   "stored_path": "docs/hdfc-life/101L082V03/brochure.pdf",
+   "status": "already stored",
+   "note": null
+  },
+  {
+   "website_label": "HDFC Life Smart Woman Plan 101L082V03 - Policy Document",
+   "doc_type": "policy_document",
+   "url": "https://www.hdfclife.com/content/dam/hdfclifeinsurancecompany/customer-services/policy-documents-pdf/savings-and-investment-withdrawn/HDFC-Life-Smart-Woman-Plan-101L082V03-Policy-Document.pdf",
+   "found_on_page_url": "https://www.hdfclife.com/pdf-sitemap.xml",
+   "pages": 41,
+   "stored_path": "docs/hdfc-life/101L082V03/policy.pdf",
+   "status": "ok",
+   "note": null
+  }
+ ],
+ "new_features_not_in_schema": [
+  {
+   "feature": "Women-specific event cover",
+   "description": "premium waiver and cash on pregnancy complications, a child born with congenital disorders, female cancers and death of the spouse",
+   "quote": "Birth of a child with",
+   "doc": "HDFC Life Smart Woman Plan 101L082V03 - Policy Document",
+   "page": 9
+  },
+  {
+   "feature": "Free switches and withdrawals after childbirth",
+   "description": "up to 12 free switches and 12 free withdrawals in the year after the life assured gives birth",
+   "quote": "We will waive off the Fund Switch Charges for up to 12 Fund Switches within one year from the date the",
+   "doc": "HDFC Life Smart Woman Plan 101L082V03 - Policy Document",
+   "page": 14
+  },
+  {
+   "feature": "Allocation rate above 100%",
+   "description": "years 11-15 allocate 102.5% of premium",
+   "quote": "A proportion of the Premium (Premium Allocation Rate) will be used to buy Units in the Funds of your",
+   "doc": "HDFC Life Smart Woman Plan 101L082V03 - Policy Document",
+   "page": 16
+  }
+ ],
+ "data_not_public": []
+}

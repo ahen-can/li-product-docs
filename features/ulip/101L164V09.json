@@ -1,0 +1,742 @@
+{
+ "product": {
+  "uin": {
+   "value": "101L164V09",
+   "status": "n/a",
+   "doc": "HDFC Life Smart Pension Plan V09- Policy Bond offline 101L164V09",
+   "page": 1,
+   "quote": "HDFC Life Smart Pension Plan 101L164V09– Policy Bond Offline",
+   "note": "an online policy bond (label \"HDFC Life Smart Pension Plan V09 - Policy Bond Online 101L164V09\") is also stored; its text differs only in the header and signatory lines"
+  },
+  "uin_in_brochure": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "product_name": {
+   "value": "HDFC Life Smart Pension Plan",
+   "status": "n/a",
+   "doc": "HDFC Life Smart Pension Plan V09- Policy Bond offline 101L164V09",
+   "page": 1,
+   "quote": "HDFC Life Smart Pension Plan 101L164V09– Policy Bond Offline",
+   "note": null
+  },
+  "irdai_description_line": {
+   "value": "A Unit Linked Non-Participating Individual Pension Savings Plan",
+   "status": "n/a",
+   "doc": "HDFC Life Smart Pension Plan V09- Policy Bond offline 101L164V09",
+   "page": 1,
+   "quote": "A Unit Linked Non-Participating Individual Pension Savings Plan",
+   "note": null
+  },
+  "launch_or_version_date": {
+   "value": "policy bond F&U dated 16 September 2026",
+   "status": "n/a",
+   "doc": "HDFC Life Smart Pension Plan V09- Policy Bond offline 101L164V09",
+   "page": 1,
+   "quote": "F&U Dated 16th Sept 2026",
+   "note": null
+  },
+  "variants_or_plan_options": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "target_segment_stated": {
+   "value": "retirement savers",
+   "status": "n/a",
+   "doc": "Download Brochure",
+   "page": 2,
+   "quote": "build a retirement corpus to prepare for your retirement.",
+   "note": null
+  },
+  "online_offline": {
+   "value": "both",
+   "status": "n/a",
+   "doc": "Download Brochure",
+   "page": 2,
+   "quote": "(This product can also be sold through online sale)",
+   "note": null
+  }
+ },
+ "eligibility": {
+  "entry_age_min": {
+   "value": "18 years",
+   "status": "n/a",
+   "doc": "Download Brochure",
+   "page": 2,
+   "quote": "Minimum Age at Entry 18 years",
+   "note": null
+  },
+  "entry_age_max": {
+   "value": "70 years",
+   "status": "n/a",
+   "doc": "Download Brochure",
+   "page": 2,
+   "quote": "Maximum Age at Entry 70 years",
+   "note": null
+  },
+  "maturity_age_min": {
+   "value": "40 years at vesting (55 for QROPS/QOPS)",
+   "status": "n/a",
+   "doc": "Download Brochure",
+   "page": 2,
+   "quote": "Minimum Age at Vesting Date 40 years (55 years for QROPS/QOPS)",
+   "note": null
+  },
+  "maturity_age_max": {
+   "value": "80 years at vesting",
+   "status": "n/a",
+   "doc": "Download Brochure",
+   "page": 2,
+   "quote": "Maximum Age at Vesting Date 80 years",
+   "note": null
+  },
+  "policy_term_options": {
+   "value": "5 years or PPT, whichever is higher, up to 55 years",
+   "status": "n/a",
+   "doc": "Download Brochure",
+   "page": 2,
+   "quote": "Maximum: 55 years",
+   "note": null
+  },
+  "ppt_options": {
+   "value": "single, or 5 to 30 years",
+   "status": "n/a",
+   "doc": "Download Brochure",
+   "page": 2,
+   "quote": "Other than Single Premium: 5 to 30 years",
+   "note": null
+  },
+  "premium_min_annual": {
+   "value": "5 pay: Rs 1,00,000 annual / 50,000 half-yearly / 10,000 monthly; others: Rs 30,000 / 15,000 / 3,000",
+   "status": "n/a",
+   "doc": "Download Brochure",
+   "page": 3,
+   "quote": "30,000 (Annual)",
+   "note": null
+  },
+  "premium_min_single": {
+   "value": "Rs 1,00,000",
+   "status": "n/a",
+   "doc": "Download Brochure",
+   "page": 3,
+   "quote": "Single Premium 1,00,000",
+   "note": null
+  },
+  "premium_max": {
+   "value": "no limit, subject to underwriting",
+   "status": "n/a",
+   "doc": "Download Brochure",
+   "page": 3,
+   "quote": "No Limit (subject to Board approved underwriting policy)",
+   "note": null
+  },
+  "sum_assured_rule": {
+   "value": "Sum Assured on Death = 105% of premiums paid (including top-ups) less partial withdrawals from contractual premiums in the last 2 years",
+   "status": "built-in",
+   "doc": "Download Brochure",
+   "page": 3,
+   "quote": "Death in this policy at any time during the policy term will be 105% of total premiums",
+   "note": null
+  },
+  "premium_modes": {
+   "value": "single, yearly, half-yearly, monthly",
+   "status": "n/a",
+   "doc": "Download Brochure",
+   "page": 2,
+   "quote": "Premium Payment Frequency Yearly, Half-yearly, Monthly",
+   "note": null
+  },
+  "life_cover_multiple_choice": {
+   "value": null,
+   "status": "not offered",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": "cover is fixed at 105% of premiums"
+  }
+ },
+ "charges": {
+  "premium_allocation_charge": {
+   "value": {
+    "regular, year 1": "12% annual mode, 9% half-yearly/monthly",
+    "regular, year 2+": "4% / 3%",
+    "single": "1.5% (Rs 1 lakh to 3.5 lakh), 1.0% (3.5 to 5 lakh), nil (5 lakh+)",
+    "top-up": "1%"
+   },
+   "status": "built-in",
+   "doc": "HDFC Life Smart Pension Plan V09- Policy Bond offline 101L164V09",
+   "page": 33,
+   "quote": "Premium allocation charge for Top-up Premium is 1%.",
+   "note": null
+  },
+  "policy_administration_charge": {
+   "value": {
+    "regular/limited (any premium size)": "0.1% (years 1-5), 0.3% (6-10), 0% (11-15), 0.3% (16+)",
+    "single pay / top-up, under Rs 10 lakh": "0.08% (1-5), 0.15% (6-10), 0% (11-15), 0.15% (16+)",
+    "single pay / top-up, Rs 10 lakh and above": "0%",
+    "cap": "Rs 500 per month"
+   },
+   "status": "built-in",
+   "doc": "HDFC Life Smart Pension Plan V09- Policy Bond offline 101L164V09",
+   "page": 33,
+   "quote": "Currently, the maximum Policy Administration Charge is Rs. 500 per month.",
+   "note": "rates read from the -layout text; the table does not say what the percentages apply to (presumably premium) or whether they are monthly"
+  },
+  "fund_management_charge": {
+   "value": {
+    "Individual Preserver Pension Fund": "1.00%",
+    "Large Cap - Pension Fund": "0.85%",
+    "other funds": "1.35%",
+    "discontinued_policy_fund": "0.5%",
+    "strategies": "weighted average"
+   },
+   "status": "built-in",
+   "doc": "HDFC Life Smart Pension Plan V09- Policy Bond offline 101L164V09",
+   "page": 34,
+   "quote": "Fund Management Charge applicable for Discontinued Policy Fund Pension is 0.5% per annum.",
+   "note": null
+  },
+  "mortality_charge": {
+   "value": "sum at risk = 105% of premiums less partial withdrawals less fund value; rates per Rs 1,000 in the policy (females: 3 years younger); guaranteed",
+   "status": "built-in",
+   "doc": "HDFC Life Smart Pension Plan V09- Policy Bond offline 101L164V09",
+   "page": 32,
+   "quote": "The Mortality Charges are guaranteed during the",
+   "note": null
+  },
+  "discontinuance_charge": {
+   "value": {
+    "regular/limited": "AP up to Rs 50,000: lower of 20/15/10/5% x (AP or FV), max Rs 3,000/2,000/1,500/1,000; above: 6/4/3/2%, max Rs 6,000/5,000/4,000/2,000; nil from Y5",
+    "single": "SP up to Rs 3 lakh: 2/1.5/1/0.5%, max Rs 3,000/2,000/1,500/1,000; above: 1/0.70/0.50/0.35%, max Rs 6,000/5,000/4,000/2,000"
+   },
+   "status": "built-in",
+   "doc": "HDFC Life Smart Pension Plan V09- Policy Bond offline 101L164V09",
+   "page": 35,
+   "quote": "Lower of 20% * (AP or FV) subject to",
+   "note": null
+  },
+  "switching_charge": {
+   "value": "nil",
+   "status": "built-in",
+   "doc": "HDFC Life Smart Pension Plan V09- Policy Bond offline 101L164V09",
+   "page": 36,
+   "quote": "E.6.6 Switch Charge: No charge is applicable for Switches made during the Policy Term.",
+   "note": null
+  },
+  "partial_withdrawal_charge": {
+   "value": "nil",
+   "status": "built-in",
+   "doc": "HDFC Life Smart Pension Plan V09- Policy Bond offline 101L164V09",
+   "page": 36,
+   "quote": "E.6.7.2 Partial Withdrawal Charge: No charge is applicable for Partial Withdrawals made during the",
+   "note": null
+  },
+  "premium_redirection_charge": {
+   "value": "nil",
+   "status": "built-in",
+   "doc": "HDFC Life Smart Pension Plan V09- Policy Bond offline 101L164V09",
+   "page": 36,
+   "quote": "E.6.7.1 Premium Redirection Charge: No charge is applicable for Premium Redirection made during the",
+   "note": null
+  },
+  "miscellaneous_charge": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "guarantee_charge": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "rider_charges": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "any_charge_returned": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  }
+ },
+ "benefits": {
+  "death_benefit_formula": {
+   "value": "higher of fund value or Sum Assured on Death (105% of premiums)",
+   "status": "built-in",
+   "doc": "HDFC Life Smart Pension Plan V09- Policy Bond offline 101L164V09",
+   "page": 13,
+   "quote": "Death Benefit is the amount payable on death of Life Assured to the Nominee after Risk Commencement",
+   "note": null
+  },
+  "maturity_benefit": {
+   "value": "fund value at vesting; buy annuity, or commute up to 60% and annuitise the rest; vesting can be postponed below age 60",
+   "status": "built-in",
+   "doc": "HDFC Life Smart Pension Plan V09- Policy Bond offline 101L164V09",
+   "page": 13,
+   "quote": "C.2 Vesting Benefit: On survival of the Life Assured till the Vesting Date, Vesting Benefit is the Fund",
+   "note": null
+  },
+  "loyalty_additions": {
+   "value": "each year from year 10: 0.25% (years 10-19) and 0.5% (20+) of the average fund value; only single premium policies and those with AP of Rs 1 lakh or more",
+   "status": "built-in",
+   "doc": "HDFC Life Smart Pension Plan V09- Policy Bond offline 101L164V09",
+   "page": 14,
+   "quote": "percentage applicable is 0.25% in Policy Years 10 to 19 and 0.5% in Policy Years 20 and onwards.",
+   "note": null
+  },
+  "wealth_boosters_or_guaranteed_additions": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "return_of_mortality_charges": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "return_of_premium_allocation_charges": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "return_of_policy_admin_charges": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "other_additions": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  }
+ },
+ "flexibility": {
+  "fund_switching": {
+   "value": "unlimited, free; also into or out of the two strategies",
+   "status": "optional (during term)",
+   "doc": "HDFC Life Smart Pension Plan V09- Policy Bond offline 101L164V09",
+   "page": 20,
+   "quote": "Switching between Funds is allowed for unlimited number of times during the Policy Term.",
+   "note": null
+  },
+  "premium_redirection": {
+   "value": "any time, free",
+   "status": "optional (during term)",
+   "doc": "HDFC Life Smart Pension Plan V09- Policy Bond offline 101L164V09",
+   "page": 21,
+   "quote": "The Funds in which new Premiums are invested can be changed at any time by You.",
+   "note": null
+  },
+  "partial_withdrawals": {
+   "value": "after lock-in; min Rs 6,000, max 25% of fund; 3 times in the term; only for stated reasons (education, marriage, house, illness, disability, reskilling, own venture)",
+   "status": "optional (during term)",
+   "doc": "HDFC Life Smart Pension Plan V09- Policy Bond offline 101L164V09",
+   "page": 19,
+   "quote": "Partial Withdrawal is allowed only three times during the entire Policy Term.",
+   "note": null
+  },
+  "systematic_withdrawal_plan": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "top_up_premiums": {
+   "value": "unlimited, minimum Rs 10,000 each; additional SA 1.05x; locked for 5 years",
+   "status": "optional (during term)",
+   "doc": "HDFC Life Smart Pension Plan V09- Policy Bond offline 101L164V09",
+   "page": 21,
+   "quote": "Every Top-up shall have an Additional Sum Assured which will be 1.05 times of the Top-up",
+   "note": null
+  },
+  "settlement_option": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "premium_holiday_or_offset": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "increase_decrease_cover": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "change_ppt_or_term": {
+   "value": "vesting date can be postponed (below age 60); brochure says vesting date and PPT can be altered",
+   "status": "optional (during term)",
+   "doc": "Download Brochure",
+   "page": 1,
+   "quote": "Flexibility to alter vesting date and premium payment term",
+   "note": null
+  },
+  "policy_loan": {
+   "value": null,
+   "status": "not offered",
+   "doc": "HDFC Life Smart Pension Plan V09- Policy Bond offline 101L164V09",
+   "page": 20,
+   "quote": "D.7 Policy Loan: Loan facility is not allowed under this Policy.",
+   "note": null
+  },
+  "auto_portfolio_strategies": {
+   "value": [
+    {
+     "name": "Automatic Asset Rebalancing Strategy",
+     "mechanics": "equity fund / Individual Preserver Pension Fund split by years to vesting: 20+ 90/10, 15-19 80/20, 10-14 60/40, 5-9 40/60, 0-4 20/80"
+    },
+    {
+     "name": "Systematic Transfer Plan",
+     "mechanics": "annual mode only; premium goes to Individual Preserver Pension Fund and 1/(13 - month) of units move monthly to the chosen equity fund"
+    }
+   ],
+   "status": "optional (during term)",
+   "doc": "HDFC Life Smart Pension Plan V09- Policy Bond offline 101L164V09",
+   "page": 29,
+   "quote": "E.2 Automatic Asset Rebalancing Strategy is an option available to the Policyholder if Systematic",
+   "note": null
+  }
+ },
+ "funds": {
+  "fund_count": {
+   "value": "12 funds plus the Discontinued Policy Fund Pension",
+   "status": "n/a",
+   "doc": "HDFC Life Smart Pension Plan V09- Policy Bond offline 101L164V09",
+   "page": 23,
+   "quote": "E.1.12 Top 200 Equal Weight Pension Fund (ULIF09316/09/26T200EqWPFd101)",
+   "note": null
+  },
+  "fund_list": {
+   "value": [
+    {
+     "name": "Individual Preserver Pension Fund",
+     "SFIN": "ULIF01216/12/09PNPRESERVR101",
+     "FMC_pct": 1.0,
+     "asset_allocation": "see policy document Part E",
+     "risk_label": "Low"
+    },
+    {
+     "name": "Individual Prime Equity Pension Fund",
+     "SFIN": "ULIF01316/12/09PNPRIMEEQU101",
+     "FMC_pct": 1.35,
+     "asset_allocation": "see policy document Part E",
+     "risk_label": "High"
+    },
+    {
+     "name": "Large Cap - Pension Fund",
+     "SFIN": "ULIF01901/06/20PNLARGECAP101",
+     "FMC_pct": 0.85,
+     "asset_allocation": "see policy document Part E",
+     "risk_label": null
+    },
+    {
+     "name": "Flexi Cap Pension Fund",
+     "SFIN": "ULIF07201/09/23FlexiCapPF101",
+     "FMC_pct": 1.35,
+     "asset_allocation": "see policy document Part E",
+     "risk_label": "Very High"
+    },
+    {
+     "name": "Top 500 Momentum 50 Pension Fund",
+     "SFIN": "ULIF07702/12/24Top500MoPF101",
+     "FMC_pct": 1.35,
+     "asset_allocation": "see policy document Part E",
+     "risk_label": "High"
+    },
+    {
+     "name": "HDFC Life Dynamic Advantage Pension Fund",
+     "SFIN": "ULIF08128/02/25DynamicPFd101",
+     "FMC_pct": 1.35,
+     "asset_allocation": "see policy document Part E",
+     "risk_label": "Medium"
+    },
+    {
+     "name": "Top 300 Alpha 50 Pension Fund",
+     "SFIN": "ULIF07928/02/25Alpha300PF101",
+     "FMC_pct": 1.35,
+     "asset_allocation": "see policy document Part E",
+     "risk_label": "High"
+    },
+    {
+     "name": "India Consumption Advantage Pension Fund",
+     "SFIN": "ULIF08521/11/25InCnsAdPFd101",
+     "FMC_pct": 1.35,
+     "asset_allocation": "see policy document Part E",
+     "risk_label": null
+    },
+    {
+     "name": "India Sector Leaders Opportunities Pension Fund",
+     "SFIN": "ULIF08702/03/26InStrLrPFd101",
+     "FMC_pct": 1.35,
+     "asset_allocation": "see policy document Part E",
+     "risk_label": null
+    },
+    {
+     "name": "Top 500 Smart Value 50 Pension Fund",
+     "SFIN": "ULIF08928/05/26SmtVl50PFd101",
+     "FMC_pct": 1.35,
+     "asset_allocation": "see policy document Part E",
+     "risk_label": null
+    },
+    {
+     "name": "Dividend Leaders Advantage Pension Fund",
+     "SFIN": "ULIF09126/08/26DivLrAdPFd101",
+     "FMC_pct": 1.35,
+     "asset_allocation": "see policy document Part E",
+     "risk_label": null
+    },
+    {
+     "name": "Top 200 Equal Weight Pension Fund",
+     "SFIN": "ULIF09316/09/26T200EqWPFd101",
+     "FMC_pct": 1.35,
+     "asset_allocation": "see policy document Part E",
+     "risk_label": null
+    }
+   ],
+   "status": "n/a",
+   "doc": "HDFC Life Smart Pension Plan V09- Policy Bond offline 101L164V09",
+   "page": 22,
+   "quote": "E.1.1 Individual Preserver Pension Fund (SFIN: ULIF01216/12/09PNPRESERVR101)",
+   "note": "risk labels from the fund table where legible"
+  },
+  "index_or_thematic_funds": {
+   "value": "Top 500 Momentum 50 (2024), Top 300 Alpha 50 (2025), India Consumption Advantage (2025), India Sector Leaders Opportunities (2026), Top 500 Smart Value 50 (2026), Dividend Leaders Advantage (2026), Top 200 Equal Weight (2026); years from SFINs",
+   "status": "n/a",
+   "doc": "HDFC Life Smart Pension Plan V09- Policy Bond offline 101L164V09",
+   "page": 22,
+   "quote": "E.1.5 Top 500 Momentum 50 Pension Fund (SFIN: ULIF07702/12/24Top500MoPF101)",
+   "note": null
+  },
+  "discontinued_policy_fund": {
+   "value": {
+    "name": "Discontinued Policy Fund Pension",
+    "SFIN": "ULIF05201/10/13DISCONTDPF101",
+    "FMC": "0.5%",
+    "minimum interest": "4% p.a."
+   },
+   "status": "built-in",
+   "doc": "HDFC Life Smart Pension Plan V09- Policy Bond offline 101L164V09",
+   "page": 28,
+   "quote": "E.1.13 Discontinued Policy Fund Pension (SFIN:ULIF05201/10/13DISCONTDPF101)",
+   "note": null
+  }
+ },
+ "protection_add_ons": {
+  "waiver_of_premium_inbuilt": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "critical_illness": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "accidental_death": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "terminal_illness": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "spouse_or_child_cover": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "riders_available": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  }
+ },
+ "surrender_revival": {
+  "lock_in_years": {
+   "value": 5,
+   "status": "built-in",
+   "doc": "HDFC Life Smart Pension Plan V09- Policy Bond offline 101L164V09",
+   "page": 19,
+   "quote": "Partial Withdrawal can be made only after completion of Lock-in Period subject to Policy being In",
+   "note": null
+  },
+  "discontinuance_rules": {
+   "value": "in lock-in: fund less discontinuance charge goes to the Discontinued Policy Fund Pension, paid after 5 years; after lock-in: reduced paid-up; proceeds used per annuity rules",
+   "status": "built-in",
+   "doc": "HDFC Life Smart Pension Plan V09- Policy Bond offline 101L164V09",
+   "page": 16,
+   "quote": "D.2.1. Discontinuance of the Policy during Lock-in Period:",
+   "note": null
+  },
+  "revival_period": {
+   "value": "3 years from first unpaid premium",
+   "status": "built-in",
+   "doc": "HDFC Life Smart Pension Plan V09- Policy Bond offline 101L164V09",
+   "page": 18,
+   "quote": "The revival period for this product is three years from date of first unpaid premium.",
+   "note": null
+  },
+  "surrender_value_rule": {
+   "value": "fund value less discontinuance charge; must be used per vesting options (annuity or commutation)",
+   "status": "built-in",
+   "doc": "HDFC Life Smart Pension Plan V09- Policy Bond offline 101L164V09",
+   "page": 19,
+   "quote": "completion of Lock-in Period, the Policy stands terminated and Fund Value as on date of Surrender must",
+   "note": null
+  }
+ },
+ "documents_inventory": [
+  {
+   "website_label": "Download Brochure",
+   "doc_type": "brochure",
+   "url": "https://www.hdfclife.com/content/dam/hdfclifeinsurancecompany/products-page/brochure-pdf/new-brochure/HDFC-Life-Smart-Pension-Plan-Brochure.pdf",
+   "found_on_page_url": "https://www.hdfclife.com/retirement-and-pension-plans/smart-pension-plan",
+   "pages": 29,
+   "stored_path": "docs/hdfc-life/101L164V09/brochure.pdf",
+   "status": "already stored",
+   "note": null
+  },
+  {
+   "website_label": "specimen policy documents",
+   "doc_type": "policy_document",
+   "url": "https://www.hdfclife.com/policy-documents",
+   "found_on_page_url": "https://www.hdfclife.com/retirement-and-pension-plans/smart-pension-plan",
+   "pages": null,
+   "stored_path": null,
+   "status": "web page (not stored)",
+   "note": "link opens a web page, not a document"
+  },
+  {
+   "website_label": "product brochures",
+   "doc_type": "brochure",
+   "url": "https://www.hdfclife.com/brochures",
+   "found_on_page_url": "https://www.hdfclife.com/retirement-and-pension-plans/smart-pension-plan",
+   "pages": null,
+   "stored_path": null,
+   "status": "web page (not stored)",
+   "note": "link opens a web page, not a document"
+  },
+  {
+   "website_label": "HDFC Life Smart Pension Plan V09- Policy Bond offline 101L164V09",
+   "doc_type": "policy_document",
+   "url": "https://www.hdfclife.com/content/dam/hdfclifeinsurancecompany/customer-services/policy-documents-pdf/retirement-live/HDFC-Life-Smart-Pension-Plan-V09-Policy-Bond-offline.pdf",
+   "found_on_page_url": "https://www.hdfclife.com/retirement-and-pension-plans/smart-pension-plan",
+   "pages": 55,
+   "stored_path": "docs/hdfc-life/101L164V09/policy.pdf",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "website_label": "HDFC Life Smart Pension Plan V09 - Policy Bond Online 101L164V09",
+   "doc_type": "policy_document",
+   "url": "https://www.hdfclife.com/content/dam/hdfclifeinsurancecompany/customer-services/policy-documents-pdf/retirement-live/HDFC-Life-Smart-Pension-Plan-V09-Policy-Bond-Online.pdf",
+   "found_on_page_url": "https://www.hdfclife.com/retirement-and-pension-plans/smart-pension-plan",
+   "pages": 55,
+   "stored_path": "docs/hdfc-life/101L164V09/policy-3.pdf",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "website_label": "HDFC Life Smart Pension Plan",
+   "doc_type": "brochure",
+   "url": "https://www.hdfclife.com/content/dam/hdfclifeinsurancecompany/customer-services/brochure-documents-pdfs/retirement-annuity-live/HDFC-Life-Smart-Pension-Plan-Brochure.pdf",
+   "found_on_page_url": "https://www.hdfclife.com/retirement-and-pension-plans/smart-pension-plan",
+   "pages": 29,
+   "stored_path": null,
+   "status": "already stored (same file)",
+   "note": "identical to the brochure already stored"
+  }
+ ],
+ "new_features_not_in_schema": [
+  {
+   "feature": "Partial withdrawal only for listed purposes",
+   "description": "withdrawals allowed only for education, marriage, house, illness, disability, reskilling or a start-up",
+   "quote": "Partial Withdrawal shall be allowed only against the stipulated reasons:",
+   "doc": "HDFC Life Smart Pension Plan V09- Policy Bond offline 101L164V09",
+   "page": 19
+  },
+  {
+   "feature": "QROPS/QOPS transfer of UK pension assets",
+   "description": "product can receive UK tax-relieved pension transfers, with access restricted until age 55",
+   "quote": "C.3 QROPS: Access to benefits/payout if this product is purchased as QROPS",
+   "doc": "HDFC Life Smart Pension Plan V09- Policy Bond offline 101L164V09",
+   "page": 14
+  },
+  {
+   "feature": "Loyalty additions only for larger premiums",
+   "description": "loyalty additions only for single premium policies and AP of Rs 1 lakh or more",
+   "quote": "Premium of Rs. 1,00,000 or more are only eligible for loyalty additions;",
+   "doc": "HDFC Life Smart Pension Plan V09- Policy Bond offline 101L164V09",
+   "page": 14
+  }
+ ],
+ "data_not_public": []
+}

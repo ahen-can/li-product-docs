@@ -1,0 +1,95 @@
+import sys; sys.path.insert(0, 'scripts'); sys.path.insert(0, 'scripts/ulip_specs')
+from ulip_json import F, NS, build
+P, B = 'HDFC Life Click 2 Retire Plus II V02 Policy Bond 101L192V02', 'Download Brochure'
+SEC = [('Pension Equity Plus Fund', 'ULIF06001/04/14PenEqPlsFd101'), ('Pension Income Fund', 'ULIF06101/04/14PenIncFund101'), ('Pension Conservative Fund', 'ULIF06201/04/14PenConsvFd101')]
+FLX = [('Individual Prime Equity Pension Fund', 'ULIF01316/12/09PNPRIMEEQU101'), ('Flexi Cap Pension Fund', 'ULIF07201/09/23FlexiCapPF101'), ('HDFC Life Dynamic Advantage Pension Fund', 'ULIF08128/02/25DynamicPFd101'),
+       ('Top 300 Alpha 50 Pension Fund', 'ULIF07928/02/25Alpha300PF101'), ('India Consumption Advantage Pension Fund', 'ULIF08521/11/25InCnsAdPFd101'), ('India Sector Leaders Opportunities Pension Fund', 'ULIF08702/03/26InStrLrPFd101'),
+       ('Top 500 Smart Value 50 Pension Fund', 'ULIF08928/05/26SmtVl50PFd101'), ('Dividend Leaders Advantage Pension Fund', 'ULIF09126/08/26DivLrAdPFd101')]
+fl = [{'name': n, 'SFIN': s, 'FMC_pct': 1.35, 'plan_option': 'Secure', 'asset_allocation': 'set by the equity backing ratio table', 'risk_label': None} for n, s in SEC] + \
+     [{'name': n, 'SFIN': s, 'FMC_pct': 1.35, 'plan_option': 'Flexi', 'asset_allocation': 'see policy document Part E', 'risk_label': None} for n, s in FLX]
+spec = {
+ 'product': {
+  'uin': F('101L192V02', 'n/a', P, None, 'HDFC Life Click 2 Retire Plus II (UIN – 101L192V02)'),
+  'uin_in_brochure': NS(),
+  'product_name': F('HDFC Life Click 2 Retire Plus II', 'n/a', P, None, 'A Unit Linked Non-Participating Individual Pension Savings Plan'),
+  'irdai_description_line': F('A Unit Linked Non-Participating Individual Pension Savings Plan', 'n/a', P, None, 'A Unit Linked Non-Participating Individual Pension Savings Plan'),
+  'launch_or_version_date': F('policy bond F&U dated 3 September 2026', 'n/a', P, None, 'F&U dated:3rdSept 2026'),
+  'variants_or_plan_options': F({'plan options': ['Secure (assured vesting benefit, fixed fund mix)', 'Flexi-Growth', 'Flexi-Loyalty'], 'optional': 'Waiver of Premium (not for single pay)'}, 'optional (at inception)', B, None,
+                                'The selection has to be made at policy inception and once chosen the plan option and sub option cannot be changed throughout the policy term.'),
+  'target_segment_stated': F('retirement savers', 'n/a', B, None, 'Retirement planning is relevant across professions and life stages.'),
+  'online_offline': F('online (Click 2 series, "Quick Online Application")', 'n/a', B, None, 'Quick Online Application'),
+ },
+ 'eligibility': {
+  'entry_age_min': F('18 years', 'n/a', B, None, 'Entry Age 18 – 65 years 18 – 65 years'),
+  'entry_age_max': F('65 years', 'n/a', B, None, 'Entry Age 18 – 65 years 18 – 65 years'),
+  'maturity_age_min': F('45 years (vesting age)', 'n/a', B, None, 'Vesting Age 45 – 75 years 45 – 75 years/ upto 99 years'),
+  'maturity_age_max': F('75 years (Secure); 75, or 99 for whole life term (Flexi)', 'n/a', B, None, 'Vesting Age 45 – 75 years 45 – 75 years/ upto 99 years'),
+  'policy_term_options': F('10, 15 to 35 years; Flexi also 99 minus entry age', 'n/a', B, None, 'Policy Term 10, 15 to 35 years 10, 15 to 35 years / 99-age at entry'),
+  'ppt_options': F('Secure: single, regular, limited 8/10/15; Flexi: single, regular, limited 5/8/10/15/20', 'n/a', B, None, 'Limited Pay : 8 / 10 / 15 years'),
+  'premium_min_annual': F('Rs 24,000 annual / 12,000 half-yearly / 6,000 quarterly / 2,000 monthly', 'n/a', B, None, 'Annual 24000 NA'),
+  'premium_min_single': F('Rs 50,000', 'n/a', B, None, 'Single Pay NA 50000'),
+  'premium_max': F('no limit, subject to underwriting', 'n/a', B, None, 'There is no limit on the maximum premium which you can pay.'),
+  'sum_assured_rule': F('no sum assured (schedule shows Nil); death benefit is the higher of fund value or 105% of premiums paid', 'built-in', P, None, 'Assured Death Benefit i.e. 105% of total premiums paid (including top up) up to the date of death'),
+  'premium_modes': F('single, yearly, half-yearly, quarterly, monthly', 'n/a', P, None, 'Premiums under the Policy can be paid on yearly, half-yearly, quarterly or monthly basis'),
+  'life_cover_multiple_choice': F(None, 'not offered', note='pension plan with no sum assured'),
+ },
+ 'charges': {
+  'premium_allocation_charge': F('nil', 'built-in', P, None, '(1) Premium Allocation Charge: Nil'),
+  'policy_administration_charge': F({'Secure, Flexi-Growth': 'nil', 'Flexi-Loyalty': '0.30% of AP per month (single: 0.05% of SP) for 15 years', 'cap': 'Rs 500 per month'}, 'built-in', P, None, 'No policy administration charge will be deducted post 15 years from the inception of the policy'),
+  'fund_management_charge': F({'all funds': '1.35%', 'discontinued_policy_fund': '0.50%'}, 'built-in', P, None, 'The Fund Management Charge is 1.35 % p.a. of the Fund Value, which will be charged daily.'),
+  'mortality_charge': F('only with Waiver of Premium; sum at risk = 105% of premiums paid plus present value of future premiums; rates guaranteed', 'built-in', P, None, 'Applicable only when Waiver of Premium option is opted.'),
+  'discontinuance_charge': F({'regular/limited': 'AP up to Rs 50,000: lower of 20/15/10/5% x (AP or FV), max Rs 3,000/2,000/1,500/1,000; above: 6/4/3/2%, max Rs 6,000/5,000/4,000/2,000; nil from Y5', 'single': 'SP up to Rs 3 lakh: 2/1.5/1/0.5%, max Rs 3,000/2,000/1,500/1,000; above: 1/0.70/0.50/0.35%, max Rs 6,000/5,000/4,000/2,000'},
+                             'built-in', P, None, 'Lower of 20% * (AP or FV) subject to a'),
+  'switching_charge': F('nil (switching only under Flexi)', 'built-in', P, None, '(10) Switching Charge: No charge is applicable for switching made during the Policy Term'),
+  'partial_withdrawal_charge': F('nil', 'built-in', P, None, '(11) Partial Withdrawal Charge: No charge is applicable for Partial Withdrawals made during the Policy Term.'),
+  'premium_redirection_charge': F('nil', 'built-in', P, None, '(9) Premium Redirection Charge: No charge is applicable for Premium Redirection made during the Policy Term.'),
+  'miscellaneous_charge': F('Rs 250 per alteration, Rs 25 through the web portal (cap Rs 500)', 'built-in', P, None, 'However, if the request is executed through the company’s web portal the Policyholder will be charged Rs 25 per request.'),
+  'guarantee_charge': F({'Pension Equity Plus Fund': '0.50%', 'Pension Income Fund': '0.50%', 'Pension Conservative Fund': '0.10%', 'applies to': 'Secure only'}, 'built-in', P, None, '(6) Investment Guarantee Charge (applicable only for Secure option)'),
+  'rider_charges': NS(),
+  'any_charge_returned': F('Flexi-Loyalty: policy admin charges for 15 years returned (50% at year 15 if PT 15-19, 100% at year 20 if PT 20+); with Waiver of Premium, all mortality charges returned at vesting if PT 15+', 'built-in', P, None, 'Total Mortality charges (excluding underwriting extra mortality charge and taxes if any) deducted throughout the policy term will be returned back at vesting date.'),
+ },
+ 'benefits': {
+  'death_benefit_formula': F({'without waiver': 'higher of fund value or 105% of premiums paid', 'with waiver': '105% of premiums paid now, future premiums paid into the fund by the company, fund stays invested to vesting'}, 'built-in', P, None, 'Fund value (including top up, if any) as on date of intimation of death'),
+  'maturity_benefit': F({'Secure': 'higher of Assured Vesting Benefit = (101% + 1% x (PT - PPT)) x premiums paid, or fund value', 'Flexi': 'fund value'}, 'built-in', P, None, 'Assured Vesting Benefit = {101%+1%*(Policy Term – Premium Paying Term) * Total Premiums paid till date'),
+  'loyalty_additions': F('Flexi-Loyalty: return of policy admin charges and of mortality charges (see any_charge_returned)', 'built-in', P, None, 'Loyalty additions includes the following:'),
+  'wealth_boosters_or_guaranteed_additions': F('Secure: Assured Vesting Benefit (minimum 101% of premiums, plus 1% per year of PT beyond PPT)', 'built-in', P, None, 'Assured Vesting Benefit = {101%+1%*(Policy Term – Premium Paying Term) * Total Premiums paid till date'),
+  'return_of_mortality_charges': F('Flexi-Loyalty with Waiver of Premium, PT 15+: 100% at vesting; PT 10-14: nil', 'built-in', P, None, '100% of Total Mortality Charge at vesting date'),
+  'return_of_premium_allocation_charges': F(None, 'n/a', note='no allocation charge'),
+  'return_of_policy_admin_charges': F('Flexi-Loyalty: 50% at end of year 15 (PT 15-19) or 100% at end of year 20 (PT 20+)', 'built-in', P, None, '100% of Total Policy Admin Charge at the end of 20th year'),
+  'other_additions': NS(),
+ },
+ 'flexibility': {
+  'fund_switching': F('Flexi only; unlimited, free', 'optional (during term)', P, None, 'Unlimited switches are allowed during the Policy Term.'),
+  'premium_redirection': F('Flexi only; free', 'optional (during term)', P, None, 'D.8 Premium Redirection: This will be only applicable if Policyholder has opted for Plan Option B: Flexi'),
+  'partial_withdrawals': F('Flexi only, after lock-in; min Rs 6,000, max 25% of fund; 3 times in the term; only for stated reasons (education, marriage, house, critical illness, disability, reskilling, own venture)', 'optional (during term)', P, None, 'Partial Withdrawal is allowed only three times during the entire Policy Term.'),
+  'systematic_withdrawal_plan': NS(),
+  'top_up_premiums': F('Flexi only; additional sum assured 1.05x top-up; locked for 5 years', 'optional (during term)', P, None, 'Every Top-up shall have an Additional Sum Assured which will be 1.05 times of the Top-up premium paid.'),
+  'settlement_option': F('on death, up to 5 years, not with Waiver of Premium', 'optional (during term)', P, None, 'The Settlement Option shall not be available if Waiver of Premium benefit option has been selected at'),
+  'premium_holiday_or_offset': NS(), 'increase_decrease_cover': NS(),
+  'change_ppt_or_term': F('vesting can be postponed (below age 60) on the same terms; brochure also says premium payment term can be altered', 'optional (during term)', P, None, 'Deferment period may be extended within the same policy with the same terms and conditions as the original policy provided the policyholder is below an age of 60 years.'),
+  'policy_loan': F(None, 'not offered', P, None, 'There is no facility of loan available from us under this Policy.'),
+  'auto_portfolio_strategies': F([{'name': 'Secure option equity backing ratio', 'mechanics': 'company splits premiums between Pension Equity Plus and Pension Income funds by an equity backing ratio table set by policy term and policy year'}], 'built-in', P, None,
+                                 'The proportions of assets to be invested in the Pension Equity Plus Fund are stated in the ‘Equity Backing Ratio’ table given below.', 'applies to Secure; the fund mix is not the policyholder\'s choice'),
+ },
+ 'funds': {
+  'fund_count': F('Secure: 3 funds (fixed mix); Flexi: 8 funds; plus the Discontinued Policy Fund', 'n/a', P, None, 'A. Secure: The following funds are available under this option:'),
+  'fund_list': F(fl, 'n/a', P, None, 'Top 500 Smart Value 50 Pension Fund'),
+  'index_or_thematic_funds': F('India Consumption Advantage Pension Fund (2025), India Sector Leaders Opportunities Pension Fund (2026), Top 500 Smart Value 50 Pension Fund (2026), Dividend Leaders Advantage Pension Fund (2026); dates from SFINs', 'n/a', P, None, 'India Sector Leaders Opportunities Pension Fund'),
+  'discontinued_policy_fund': F({'FMC': '0.50%', 'minimum guaranteed interest': '4% p.a. (current)'}, 'built-in', P, None, 'The current minimum guaranteed interest rate applicable to the Discontinued Policy fund is 4% per annum.'),
+ },
+ 'protection_add_ons': {
+  'waiver_of_premium_inbuilt': F('optional Waiver of Premium Benefit (not for single pay): on death, company pays future premiums into the fund', 'optional (at inception)', P, None, 'Optional Waiver of Premium Benefit: This Benefit is optional and can be taken along with both plan options i.e. Secure or Flexi.'),
+  'critical_illness': NS(), 'accidental_death': NS(), 'terminal_illness': NS(), 'spouse_or_child_cover': NS(), 'riders_available': NS(),
+ },
+ 'surrender_revival': {
+  'lock_in_years': F(5, 'built-in', B, None, 'Proceeds from a discontinued policy cannot be paid by the Company within the first five years from inception of such policy except in the event of death of life assured.'),
+  'discontinuance_rules': F('within lock-in: fund less discontinuance charge goes to the Discontinued Policy Fund; after lock-in: reduced paid-up; proceeds used per annuitisation rules (commute up to 60%, rest annuity)', 'built-in', P, None, 'To commute up to 60% and utilize the balance amount to purchase an immediate annuity or deferred annuity'),
+  'revival_period': F('3 years from first unpaid premium', 'built-in', P, None, 'The revival period for this product is three years from date of first unpaid premium.'),
+  'surrender_value_rule': F('fund value less discontinuance charge (lock-in proceeds paid after year 5); must be used to buy an annuity or commuted per annuitisation rules', 'built-in', P, None, 'In case the Policy is surrendered after completion of'),
+ },
+}
+build('101L192V02', spec,
+  new_features=[{'feature': 'Assured vesting benefit', 'description': 'Secure option pays at least 101% of premiums plus 1% for each year the term exceeds the premium term', 'quote': 'Assured Vesting Benefit = {101%+1%*(Policy Term – Premium Paying Term) * Total Premiums paid till date', 'doc': P, 'page': None},
+                {'feature': 'Partial withdrawal only for listed purposes', 'description': 'withdrawals allowed only for education, marriage, house, illness, disability, reskilling or a start-up', 'quote': 'Partial Withdrawal shall be allowed only against the stipulated reasons:', 'doc': P, 'page': None},
+                {'feature': 'QROPS/QOPS transfer of UK pension assets', 'description': 'product can receive UK tax-relieved pension transfers, with access restricted until age 55', 'quote': 'Access to benefits/payout if this product is purchased as QROPS', 'doc': P, 'page': None}],
+  not_public=[])

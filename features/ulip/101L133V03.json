@@ -1,0 +1,776 @@
+{
+ "product": {
+  "uin": {
+   "value": "101L133V03",
+   "status": "n/a",
+   "doc": "HDFC Life Click 2 Wealth- 101L133V03- Policy Document",
+   "page": 1,
+   "quote": "HDFC Life Click 2 Wealth (UIN - 101L133V03)",
+   "note": null
+  },
+  "uin_in_brochure": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "product_name": {
+   "value": "HDFC Life Click 2 Wealth",
+   "status": "n/a",
+   "doc": "HDFC Life Click 2 Wealth- 101L133V03- Policy Document",
+   "page": 1,
+   "quote": "HDFC Life Click 2 Wealth (UIN - 101L133V03)",
+   "note": null
+  },
+  "irdai_description_line": {
+   "value": "A Unit Linked Non-Participating Individual Life Insurance Savings Plan",
+   "status": "n/a",
+   "doc": "HDFC Life Click 2 Wealth- 101L133V03- Policy Document",
+   "page": 1,
+   "quote": "A Unit Linked Non-Participating Individual Life Insurance Savings Plan",
+   "note": null
+  },
+  "launch_or_version_date": {
+   "value": "policy document F&U dated 17 September 2026",
+   "status": "n/a",
+   "doc": "HDFC Life Click 2 Wealth- 101L133V03- Policy Document",
+   "page": 1,
+   "quote": "F&U dated: 17th September 2026",
+   "note": null
+  },
+  "variants_or_plan_options": {
+   "value": [
+    "Invest Plus Option",
+    "Premium Waiver Option (limited and regular pay)",
+    "Golden Years Benefit Option (limited pay, whole life to 99)"
+   ],
+   "status": "optional (at inception)",
+   "doc": "HDFC Life Click 2 Wealth- 101L133V03- Policy Document",
+   "page": 10,
+   "quote": "There are three Plan Options available to the Policyholder.",
+   "note": null
+  },
+  "target_segment_stated": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "online_offline": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  }
+ },
+ "eligibility": {
+  "entry_age_min": {
+   "value": "30 days (life assured); 18 years (proposer, Premium Waiver)",
+   "status": "n/a",
+   "doc": "Download Brochure",
+   "page": 2,
+   "quote": "(30 days) to 60 years",
+   "note": null
+  },
+  "entry_age_max": {
+   "value": "60 years (life assured); 65 years (proposer, Premium Waiver)",
+   "status": "n/a",
+   "doc": "Download Brochure",
+   "page": 2,
+   "quote": "(30 days) to 60 years",
+   "note": null
+  },
+  "maturity_age_min": {
+   "value": "18 years",
+   "status": "n/a",
+   "doc": "Download Brochure",
+   "page": 2,
+   "quote": "Age at Maturity 18 years to 75 years 99 years",
+   "note": null
+  },
+  "maturity_age_max": {
+   "value": "75 years; 99 years (Golden Years)",
+   "status": "n/a",
+   "doc": "Download Brochure",
+   "page": 2,
+   "quote": "Age at Maturity 18 years to 75 years 99 years",
+   "note": null
+  },
+  "policy_term_options": {
+   "value": "10 to 40 years; Golden Years: 99 minus entry age",
+   "status": "n/a",
+   "doc": "Download Brochure",
+   "page": 3,
+   "quote": "Policy Term 10 to 40 years 99 minus Age at Entry",
+   "note": null
+  },
+  "ppt_options": {
+   "value": "single; limited 5/7/10; regular 10 to 40; Golden Years: limited 10 to 70 minus entry age",
+   "status": "n/a",
+   "doc": "Download Brochure",
+   "page": 3,
+   "quote": "Regular: 10 to 40 years",
+   "note": null
+  },
+  "premium_min_annual": {
+   "value": "Rs 12,000 annual / 6,000 half-yearly / 3,000 quarterly / 1,000 monthly",
+   "status": "n/a",
+   "doc": "Download Brochure",
+   "page": 3,
+   "quote": "Annual: ` 12,000",
+   "note": null
+  },
+  "premium_min_single": {
+   "value": "Rs 24,000",
+   "status": "n/a",
+   "doc": "Download Brochure",
+   "page": 3,
+   "quote": "Single: ` 24,000",
+   "note": null
+  },
+  "premium_max": {
+   "value": "no limit, subject to underwriting",
+   "status": "n/a",
+   "doc": "Download Brochure",
+   "page": 3,
+   "quote": "No Limit, subject to Board Approved Underwriting Policy (BAUP)",
+   "note": null
+  },
+  "sum_assured_rule": {
+   "value": "single: 1.25x SP (< 50) or 1.10x (>= 50); regular/limited: 7x AP (< 50) or 5x AP (>= 50); top-up: 1.25x",
+   "status": "built-in",
+   "doc": "Download Brochure",
+   "page": 3,
+   "quote": "7 x Annualized Premium",
+   "note": null
+  },
+  "premium_modes": {
+   "value": "single, yearly, half-yearly, quarterly, monthly",
+   "status": "n/a",
+   "doc": "HDFC Life Click 2 Wealth- 101L133V03- Policy Document",
+   "page": 13,
+   "quote": "Premiums under the Policy can be paid on yearly, half-yearly, quarterly or monthly basis",
+   "note": null
+  },
+  "life_cover_multiple_choice": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  }
+ },
+ "charges": {
+  "premium_allocation_charge": {
+   "value": "nil",
+   "status": "built-in",
+   "doc": "HDFC Life Click 2 Wealth- 101L133V03- Policy Document",
+   "page": 19,
+   "quote": "(1) Premium Allocation Charge: Nil.",
+   "note": null
+  },
+  "policy_administration_charge": {
+   "value": "nil",
+   "status": "built-in",
+   "doc": "HDFC Life Click 2 Wealth- 101L133V03- Policy Document",
+   "page": 19,
+   "quote": "(2) Policy Administration Charge: Nil.",
+   "note": null
+  },
+  "fund_management_charge": {
+   "value": {
+    "Liquid, Bond Plus, Secure Advantage": "0.80%",
+    "other funds": "1.35%",
+    "discontinued_policy_fund": "0.50%"
+   },
+   "status": "built-in",
+   "doc": "HDFC Life Click 2 Wealth- 101L133V03- Policy Document",
+   "page": 19,
+   "quote": "The Fund Management Charge is 0.80% p.a., of the Fund Value for Liquid Fund, Bond Plus Fund & Secure Advantage Fund and 1.35% p.a. of the Fund Value for all other Funds, charged daily.",
+   "note": null
+  },
+  "mortality_charge": {
+   "value": "sum at risk x rate (Appendix 1), guaranteed; Premium Waiver: present value of future premiums at 5%",
+   "status": "built-in",
+   "doc": "HDFC Life Click 2 Wealth- 101L133V03- Policy Document",
+   "page": 19,
+   "quote": "The Sum at Risk for Premium Waiver Option will be Present Value of Future Premiums discounted at 5%.",
+   "note": null
+  },
+  "discontinuance_charge": {
+   "value": "nil",
+   "status": "built-in",
+   "doc": "HDFC Life Click 2 Wealth- 101L133V03- Policy Document",
+   "page": 19,
+   "quote": "(5) Surrender or Discontinuance Charges: Nil.",
+   "note": null
+  },
+  "switching_charge": {
+   "value": "nil",
+   "status": "built-in",
+   "doc": "HDFC Life Click 2 Wealth- 101L133V03- Policy Document",
+   "page": 19,
+   "quote": "There are no Switching Charges under this Policy.",
+   "note": null
+  },
+  "partial_withdrawal_charge": {
+   "value": "nil",
+   "status": "built-in",
+   "doc": "HDFC Life Click 2 Wealth- 101L133V03- Policy Document",
+   "page": 19,
+   "quote": "There are no Partial Withdrawal Charges under this Policy.",
+   "note": null
+  },
+  "premium_redirection_charge": {
+   "value": "nil",
+   "status": "built-in",
+   "doc": "HDFC Life Click 2 Wealth- 101L133V03- Policy Document",
+   "page": 19,
+   "quote": "There are no Premium Redirection Charges under this Policy.",
+   "note": null
+  },
+  "miscellaneous_charge": {
+   "value": "may be levied when the premium paying term is reduced; amount not stated in Part E",
+   "status": "built-in",
+   "doc": "HDFC Life Click 2 Wealth- 101L133V03- Policy Document",
+   "page": 35,
+   "quote": "We may levy the Miscellaneous Charge.",
+   "note": null
+  },
+  "guarantee_charge": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "rider_charges": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "any_charge_returned": {
+   "value": "all mortality charges returned at maturity (Golden Years: at age 70)",
+   "status": "built-in",
+   "doc": "HDFC Life Click 2 Wealth- 101L133V03- Policy Document",
+   "page": 12,
+   "quote": "At maturity, the sum total of mortality charges* deducted in respect of the life cover throughout the Policy",
+   "note": null
+  }
+ },
+ "benefits": {
+  "death_benefit_formula": {
+   "value": "highest of total SA less partial withdrawals in the last 2 years, fund value, 105% of premiums paid",
+   "status": "built-in",
+   "doc": "HDFC Life Click 2 Wealth- 101L133V03- Policy Document",
+   "page": 10,
+   "quote": "105% of total Premiums paid.",
+   "note": null
+  },
+  "maturity_benefit": {
+   "value": "fund value",
+   "status": "built-in",
+   "doc": "HDFC Life Click 2 Wealth- 101L133V03- Policy Document",
+   "page": 10,
+   "quote": "the risk cover shall cease and Unit Fund Value shall be payable to the",
+   "note": null
+  },
+  "loyalty_additions": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "wealth_boosters_or_guaranteed_additions": {
+   "value": "Special Additions: 1% of AP added at each allocation for the first 5 years (single pay: 1% of SP once)",
+   "status": "built-in",
+   "doc": "HDFC Life Click 2 Wealth- 101L133V03- Policy Document",
+   "page": 12,
+   "quote": "For Regular and Limited Pay Policies, 1% of your Annualised Premium shall be added to the Fund Value at the time of allocation of Premium for first 5 Policy years.",
+   "note": null
+  },
+  "return_of_mortality_charges": {
+   "value": "at maturity; Golden Years at the policy year at or after age 70; not for surrendered, paid-up or waiver-triggered policies",
+   "status": "built-in",
+   "doc": "HDFC Life Click 2 Wealth- 101L133V03- Policy Document",
+   "page": 12,
+   "quote": "For Golden Years Benefit Option, which is whole of life option, the total amount of mortality charges will",
+   "note": null
+  },
+  "return_of_premium_allocation_charges": {
+   "value": null,
+   "status": "n/a",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": "no allocation charge"
+  },
+  "return_of_policy_admin_charges": {
+   "value": null,
+   "status": "n/a",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": "no admin charge"
+  },
+  "other_additions": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  }
+ },
+ "flexibility": {
+  "fund_switching": {
+   "value": "allowed, free; brochure says unlimited",
+   "status": "optional (during term)",
+   "doc": "HDFC Life Click 2 Wealth- 101L133V03- Policy Document",
+   "page": 16,
+   "quote": "You can ask us to switch the Funds in which your Units are held.",
+   "note": null
+  },
+  "premium_redirection": {
+   "value": "any time, free",
+   "status": "optional (during term)",
+   "doc": "HDFC Life Click 2 Wealth- 101L133V03- Policy Document",
+   "page": 17,
+   "quote": "The Funds in which new Premiums are invested can be changed at any time.",
+   "note": null
+  },
+  "partial_withdrawals": {
+   "value": "after 5 years and age 18",
+   "status": "optional (during term)",
+   "doc": "HDFC Life Click 2 Wealth- 101L133V03- Policy Document",
+   "page": 16,
+   "quote": "You have the option of making Partial Withdrawals at any time after the first 5 years, subject to the",
+   "note": null
+  },
+  "systematic_withdrawal_plan": {
+   "value": "systematic (recurring) partial withdrawals by amount, frequency and duration",
+   "status": "optional (during term)",
+   "doc": "HDFC Life Click 2 Wealth- 101L133V03- Policy Document",
+   "page": 16,
+   "quote": "You can also submit a request for systematic (recurring) partial withdrawals during the Policy Term by",
+   "note": null
+  },
+  "top_up_premiums": {
+   "value": "allowed before the last 5 years; total top-ups up to premiums paid; SA 125% of top-up",
+   "status": "optional (during term)",
+   "doc": "HDFC Life Click 2 Wealth- 101L133V03- Policy Document",
+   "page": 17,
+   "quote": "Top-Up Premium will carry a Sum Assured of 125% of the amount of TopUp Premium.",
+   "note": null
+  },
+  "settlement_option": {
+   "value": "on maturity (fund at least Rs 1 lakh) or death, up to 5 years",
+   "status": "optional (during term)",
+   "doc": "HDFC Life Click 2 Wealth- 101L133V03- Policy Document",
+   "page": 17,
+   "quote": "We may provide settlement options on maturity or death.",
+   "note": null
+  },
+  "premium_holiday_or_offset": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "increase_decrease_cover": {
+   "value": null,
+   "status": "not offered",
+   "doc": "HDFC Life Click 2 Wealth- 101L133V03- Policy Document",
+   "page": 35,
+   "quote": "Plan Option as specified in the Policy Schedule cannot be changed at any time.",
+   "note": "annualised premium and sum assured cannot be changed"
+  },
+  "change_ppt_or_term": {
+   "value": "PPT can be reduced after 5 years of premiums or increased; policy term can be increased, not decreased",
+   "status": "optional (during term)",
+   "doc": "HDFC Life Click 2 Wealth- 101L133V03- Policy Document",
+   "page": 35,
+   "quote": "You can reduce the Premium Paying Term after the payment of 5 year’s Premiums.",
+   "note": null
+  },
+  "policy_loan": {
+   "value": null,
+   "status": "not offered",
+   "doc": "HDFC Life Click 2 Wealth- 101L133V03- Policy Document",
+   "page": 17,
+   "quote": "There is no facility of loan available from us under this Policy.",
+   "note": null
+  },
+  "auto_portfolio_strategies": {
+   "value": [
+    {
+     "name": "Systematic Transfer Plan",
+     "mechanics": "from Bond, Liquid or Secure Advantage fund to a chosen equity fund in 12 monthly instalments on the 1st or 15th; single and annual mode only; no charge"
+    }
+   ],
+   "status": "optional (during term)",
+   "doc": "HDFC Life Click 2 Wealth- 101L133V03- Policy Document",
+   "page": 24,
+   "quote": "This strategy will be available only in the single and annual mode of payment.",
+   "note": null
+  }
+ },
+ "funds": {
+  "fund_count": {
+   "value": "23 funds plus the Discontinued Policy Fund",
+   "status": "n/a",
+   "doc": "Download Brochure",
+   "page": 2,
+   "quote": "Choice of 23 fund options with unlimited free switching",
+   "note": null
+  },
+  "fund_list": {
+   "value": [
+    {
+     "name": "Balanced Fund",
+     "SFIN": "ULIF03901/09/10BalancedFd101",
+     "FMC_pct": 1.35,
+     "asset_allocation": "see policy document Appendix 2",
+     "risk_label": null
+    },
+    {
+     "name": "Blue Chip Fund",
+     "SFIN": "ULIF03501/01/10BlueChipFd101",
+     "FMC_pct": 1.35,
+     "asset_allocation": "see policy document Appendix 2",
+     "risk_label": null
+    },
+    {
+     "name": "Diversified Equity Fund",
+     "SFIN": "ULIF05501/08/13DivrEqtyFd101",
+     "FMC_pct": 1.35,
+     "asset_allocation": "see policy document Appendix 2",
+     "risk_label": null
+    },
+    {
+     "name": "Bond Fund",
+     "SFIN": "ULIF05601/08/13BondFunds101",
+     "FMC_pct": 1.35,
+     "asset_allocation": "see policy document Appendix 2",
+     "risk_label": null
+    },
+    {
+     "name": "Discovery Fund",
+     "SFIN": "ULIF06618/01/18DiscvryFnd101",
+     "FMC_pct": 1.35,
+     "asset_allocation": "see policy document Appendix 2",
+     "risk_label": null
+    },
+    {
+     "name": "Liquid Fund",
+     "SFIN": "ULIF00102/01/04LiquidFund101",
+     "FMC_pct": 0.8,
+     "asset_allocation": "see policy document Appendix 2",
+     "risk_label": null
+    },
+    {
+     "name": "Equity Advantage Fund",
+     "SFIN": "ULIF06723/03/18EqtyAdvtFd101",
+     "FMC_pct": 1.35,
+     "asset_allocation": "see policy document Appendix 2",
+     "risk_label": null
+    },
+    {
+     "name": "Opportunities Fund",
+     "SFIN": "ULIF03601/01/10OpprtntyFd101",
+     "FMC_pct": 1.35,
+     "asset_allocation": "see policy document Appendix 2",
+     "risk_label": null
+    },
+    {
+     "name": "Bond Plus Fund",
+     "SFIN": "ULIF06814/06/19BondPlusFd101",
+     "FMC_pct": 0.8,
+     "asset_allocation": "see policy document Appendix 2",
+     "risk_label": null
+    },
+    {
+     "name": "Secure Advantage Fund",
+     "SFIN": "ULIF06914/06/19SecAdvFund101",
+     "FMC_pct": 0.8,
+     "asset_allocation": "see policy document Appendix 2",
+     "risk_label": null
+    },
+    {
+     "name": "Sustainable Equity Fund",
+     "SFIN": "ULIF07019/07/21SustnblEqF101",
+     "FMC_pct": 1.35,
+     "asset_allocation": "see policy document Appendix 2",
+     "risk_label": null
+    },
+    {
+     "name": "Flexi Cap Fund",
+     "SFIN": "ULIF07114/07/23FlexiCapFd101",
+     "FMC_pct": 1.35,
+     "asset_allocation": "see policy document Appendix 2",
+     "risk_label": null
+    },
+    {
+     "name": "Midcap Momentum Fund",
+     "SFIN": "ULIF07317/01/24MidCpMoIdx101",
+     "FMC_pct": 1.35,
+     "asset_allocation": "see policy document Appendix 2",
+     "risk_label": null
+    },
+    {
+     "name": "Nifty Alpha 30 Fund",
+     "SFIN": "ULIF07528/05/24AlphaIdxFd101",
+     "FMC_pct": 1.35,
+     "asset_allocation": "see policy document Appendix 2",
+     "risk_label": null
+    },
+    {
+     "name": "Top 500 Momentum 50 Fund",
+     "SFIN": "ULIF07616/10/24Top500MoFd101",
+     "FMC_pct": 1.35,
+     "asset_allocation": "see policy document Appendix 2",
+     "risk_label": null
+    },
+    {
+     "name": "Dynamic Advantage Fund",
+     "SFIN": "ULIF08028/02/25DynamicFnd101",
+     "FMC_pct": 1.35,
+     "asset_allocation": "see policy document Appendix 2",
+     "risk_label": null
+    },
+    {
+     "name": "Top 300 Alpha 50 Fund",
+     "SFIN": "ULIF07828/02/25Alpha300Fd101",
+     "FMC_pct": 1.35,
+     "asset_allocation": "see policy document Appendix 2",
+     "risk_label": null
+    },
+    {
+     "name": "Top 500 Multifactor 50 Fund",
+     "SFIN": "ULIF08219/09/25TopMF500Fd101",
+     "FMC_pct": 1.35,
+     "asset_allocation": "see policy document Appendix 2",
+     "risk_label": null
+    },
+    {
+     "name": "India Consumption Advantage Fund",
+     "SFIN": "ULIF08421/11/25InCnsmAdFd101",
+     "FMC_pct": 1.35,
+     "asset_allocation": "see policy document Appendix 2",
+     "risk_label": null
+    },
+    {
+     "name": "India Sector Leaders Opportunities Fund",
+     "SFIN": "ULIF08602/03/26InSctrLrFd101",
+     "FMC_pct": 1.35,
+     "asset_allocation": "see policy document Appendix 2",
+     "risk_label": null
+    },
+    {
+     "name": "Top 500 Smart Value 50 Fund",
+     "SFIN": "ULIF08801/06/26SmtVal50Fd101",
+     "FMC_pct": 1.35,
+     "asset_allocation": "see policy document Appendix 2",
+     "risk_label": null
+    },
+    {
+     "name": "Dividend Leaders Advantage Fund",
+     "SFIN": "ULIF09004/09/26DivLdrAdFd101",
+     "FMC_pct": 1.35,
+     "asset_allocation": "see policy document Appendix 2",
+     "risk_label": null
+    },
+    {
+     "name": "Top 200 Equal weight Fund",
+     "SFIN": "ULIF09216/09/26T200EqWtFd101",
+     "FMC_pct": 1.35,
+     "asset_allocation": "see policy document Appendix 2",
+     "risk_label": null
+    }
+   ],
+   "status": "n/a",
+   "doc": "HDFC Life Click 2 Wealth- 101L133V03- Policy Document",
+   "page": 21,
+   "quote": "Top 200 Equal weight Fund - To generate long-term capital appreciation by investing in a diversified",
+   "note": "SFINs read from Appendix 2, where the text wraps inside each code"
+  },
+  "index_or_thematic_funds": {
+   "value": "Midcap Momentum (2024), Nifty Alpha 30 (2024), Top 500 Momentum 50 (2024), Top 300 Alpha 50 (2025), Top 500 Multifactor 50 (2025), India Consumption Advantage (2025), India Sector Leaders Opportunities (2026), Top 500 Smart Value 50 (2026), Dividend Leaders Advantage (2026), Top 200 Equal weight (2026); years from SFINs",
+   "status": "n/a",
+   "doc": "HDFC Life Click 2 Wealth- 101L133V03- Policy Document",
+   "page": 21,
+   "quote": "Midcap Momentum Fund - The Fund aims to generate long-term capital appreciation from a portfolio",
+   "note": null
+  },
+  "discontinued_policy_fund": {
+   "value": {
+    "SFIN": "ULIF05110/03/11DiscontdPF101",
+    "FMC": "0.50%",
+    "minimum guaranteed interest": "4% p.a. (current)"
+   },
+   "status": "built-in",
+   "doc": "HDFC Life Click 2 Wealth- 101L133V03- Policy Document",
+   "page": 19,
+   "quote": "The Fund Management Charge for",
+   "note": null
+  }
+ },
+ "protection_add_ons": {
+  "waiver_of_premium_inbuilt": {
+   "value": "Premium Waiver Option: on the proposer's death, future premiums are credited to the fund and cover continues",
+   "status": "optional (at inception)",
+   "doc": "HDFC Life Click 2 Wealth- 101L133V03- Policy Document",
+   "page": 11,
+   "quote": "Premiums are waived off, and the Policy continues with risk cover on the Life Assured till the end of the",
+   "note": null
+  },
+  "critical_illness": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "accidental_death": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "terminal_illness": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "spouse_or_child_cover": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "riders_available": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  }
+ },
+ "surrender_revival": {
+  "lock_in_years": {
+   "value": 5,
+   "status": "built-in",
+   "doc": "HDFC Life Click 2 Wealth- 101L133V03- Policy Document",
+   "page": 14,
+   "quote": "The product shall have a lock-in period of five years from the date of inception of the policy.",
+   "note": null
+  },
+  "discontinuance_rules": {
+   "value": "in lock-in: fund moves to the Discontinued Policy Fund (no charge) and is paid after 5 years; after lock-in: reduced paid-up",
+   "status": "built-in",
+   "doc": "HDFC Life Click 2 Wealth- 101L133V03- Policy Document",
+   "page": 15,
+   "quote": "the policy shall be converted into a reduced paid-up policy with the paid-up sum",
+   "note": null
+  },
+  "revival_period": {
+   "value": "3 years from first unpaid premium",
+   "status": "built-in",
+   "doc": "HDFC Life Click 2 Wealth- 101L133V03- Policy Document",
+   "page": 15,
+   "quote": "The revival period for this product is three years from date of first unpaid premium.",
+   "note": null
+  },
+  "surrender_value_rule": {
+   "value": "fund value (no discontinuance charge); paid after the lock-in",
+   "status": "built-in",
+   "doc": "HDFC Life Click 2 Wealth- 101L133V03- Policy Document",
+   "page": 15,
+   "quote": "receipt of request for Surrender, the Fund Value as on date of Surrender shall be payable.",
+   "note": null
+  }
+ },
+ "documents_inventory": [
+  {
+   "website_label": "Download Brochure",
+   "doc_type": "brochure",
+   "url": "https://www.hdfclife.com/content/dam/hdfclifeinsurancecompany/products-page/brochure-pdf/HDFC-Life-Click-2-Wealth_Brochure_Retail.pdf",
+   "found_on_page_url": "https://www.hdfclife.com/ulip-plans/click-2-wealth-ulip-plan",
+   "pages": 31,
+   "stored_path": "docs/hdfc-life/101L133V03/brochure.pdf",
+   "status": "already stored",
+   "note": null
+  },
+  {
+   "website_label": "specimen policy documents",
+   "doc_type": "policy_document",
+   "url": "https://www.hdfclife.com/policy-documents",
+   "found_on_page_url": "https://www.hdfclife.com/ulip-plans/click-2-wealth-ulip-plan",
+   "pages": null,
+   "stored_path": null,
+   "status": "web page (not stored)",
+   "note": "link opens a web page, not a document"
+  },
+  {
+   "website_label": "product brochures",
+   "doc_type": "brochure",
+   "url": "https://www.hdfclife.com/brochures",
+   "found_on_page_url": "https://www.hdfclife.com/ulip-plans/click-2-wealth-ulip-plan",
+   "pages": null,
+   "stored_path": null,
+   "status": "web page (not stored)",
+   "note": "link opens a web page, not a document"
+  },
+  {
+   "website_label": "HDFC Life Click 2 Wealth- 101L133V03- Policy Document",
+   "doc_type": "policy_document",
+   "url": "https://www.hdfclife.com/content/dam/hdfclifeinsurancecompany/customer-services/policy-documents-pdf/savings-and-investment-live/HDFC-Life-Click-2-Wealth-101L133V03-Policy-Document.pdf",
+   "found_on_page_url": "https://www.hdfclife.com/ulip-plans/click-2-wealth-ulip-plan",
+   "pages": 50,
+   "stored_path": "docs/hdfc-life/101L133V03/policy.pdf",
+   "status": "ok",
+   "note": null
+  }
+ ],
+ "new_features_not_in_schema": [
+  {
+   "feature": "Special additions on early premiums",
+   "description": "1% of annualised premium added to the fund for the first 5 years",
+   "quote": "Special Additions will be available under all three Plan Options.",
+   "doc": "HDFC Life Click 2 Wealth- 101L133V03- Policy Document",
+   "page": 12
+  },
+  {
+   "feature": "Proposer premium waiver for a different life assured",
+   "description": "on the proposer's death the life assured becomes policyholder and the company pays the premiums",
+   "quote": "The Life Assured becomes the Policyholder and the Policy shall continue until",
+   "doc": "HDFC Life Click 2 Wealth- 101L133V03- Policy Document",
+   "page": 11
+  }
+ ],
+ "data_not_public": []
+}

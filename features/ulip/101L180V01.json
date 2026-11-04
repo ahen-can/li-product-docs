@@ -1,0 +1,788 @@
+{
+ "product": {
+  "uin": {
+   "value": "101L180V01",
+   "status": "n/a",
+   "doc": "HDFC Life Sampoorn Nivesh Plus 101L180V01- Policy Document",
+   "page": 1,
+   "quote": "HDFC Life Sampoorn Nivesh Plus (UIN - 101L180V01)",
+   "note": null
+  },
+  "uin_in_brochure": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "product_name": {
+   "value": "HDFC Life Sampoorn Nivesh Plus",
+   "status": "n/a",
+   "doc": "HDFC Life Sampoorn Nivesh Plus 101L180V01- Policy Document",
+   "page": 1,
+   "quote": "HDFC Life Sampoorn Nivesh Plus (UIN - 101L180V01)",
+   "note": null
+  },
+  "irdai_description_line": {
+   "value": "A Unit Linked Non-Participating Individual Life Insurance Savings Plan",
+   "status": "n/a",
+   "doc": "HDFC Life Sampoorn Nivesh Plus 101L180V01- Policy Document",
+   "page": 1,
+   "quote": "A Unit Linked Non-Participating Individual Life Insurance Savings Plan",
+   "note": null
+  },
+  "launch_or_version_date": {
+   "value": "policy document F&U dated 17 September 2026",
+   "status": "n/a",
+   "doc": "HDFC Life Sampoorn Nivesh Plus 101L180V01- Policy Document",
+   "page": 1,
+   "quote": "F&U dated: 17th September 2026",
+   "note": null
+  },
+  "variants_or_plan_options": {
+   "value": {
+    "benefit options": [
+     "Classic (Life Option)",
+     "Classic (Extra Life Option, adds accidental death benefit)",
+     "Classic Plus",
+     "Classic Waiver",
+     "Classic Waiver Plus (waiver plus monthly income)"
+    ],
+    "term": [
+     "fixed term",
+     "whole of life (Classic, Classic Plus)"
+    ]
+   },
+   "status": "optional (at inception)",
+   "doc": "Download Brochure",
+   "page": 2,
+   "quote": "Choice of 5 Benefit Options to suit your financial requirements",
+   "note": null
+  },
+  "target_segment_stated": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "online_offline": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  }
+ },
+ "eligibility": {
+  "entry_age_min": {
+   "value": "30 days (Classic Life, Classic Plus); 18 years (other options)",
+   "status": "n/a",
+   "doc": "Download Brochure",
+   "page": 4,
+   "quote": "Classic Benefit (Life Option) 0 years (30 days)*",
+   "note": null
+  },
+  "entry_age_max": {
+   "value": {
+    "Classic Life": "56 (5 pay) / 65",
+    "Classic Extra Life": "53 / 58",
+    "Classic Plus": "48 / 50",
+    "Classic Waiver": "49 / 52",
+    "Classic Waiver Plus": "50"
+   },
+   "status": "n/a",
+   "doc": "Download Brochure",
+   "page": 4,
+   "quote": "Classic Benefit (Life Option) 56 years 65 years",
+   "note": null
+  },
+  "maturity_age_min": {
+   "value": "18 years (Classic Life, Classic Plus); 28 years (other options)",
+   "status": "n/a",
+   "doc": "Download Brochure",
+   "page": 4,
+   "quote": "Classic Benefit (Extra Life Option) 28 years",
+   "note": null
+  },
+  "maturity_age_max": {
+   "value": "fixed term: 85 (Classic Life), 63/68 (Extra Life), 58/60 (Classic Plus), 69/85 (Classic Waiver), 80 (Classic Waiver Plus); whole of life: 99",
+   "status": "n/a",
+   "doc": "Download Brochure",
+   "page": 4,
+   "quote": "Classic Waiver Plus Benefit 80 years",
+   "note": null
+  },
+  "policy_term_options": {
+   "value": "fixed term: 10 to 35 years (single pay) or up to 85 minus entry age (limited/regular); whole of life: 99 minus entry age",
+   "status": "n/a",
+   "doc": "Download Brochure",
+   "page": 3,
+   "quote": "Fixed Term: 10 to 35 years for Single Pay",
+   "note": null
+  },
+  "ppt_options": {
+   "value": "single; limited 5 to PT minus 1; regular",
+   "status": "n/a",
+   "doc": "Download Brochure",
+   "page": 3,
+   "quote": "Limited: 5 to (Policy Term - 1) years",
+   "note": null
+  },
+  "premium_min_annual": {
+   "value": "Rs 12,000 annual / 6,000 half-yearly / 3,000 quarterly / 1,000 monthly",
+   "status": "n/a",
+   "doc": "Download Brochure",
+   "page": 3,
+   "quote": "Annual: Rs. 12,000",
+   "note": null
+  },
+  "premium_min_single": {
+   "value": "Rs 12,000",
+   "status": "n/a",
+   "doc": "Download Brochure",
+   "page": 3,
+   "quote": "Single: Rs. 12,000",
+   "note": null
+  },
+  "premium_max": {
+   "value": "no limit, subject to underwriting",
+   "status": "n/a",
+   "doc": "Download Brochure",
+   "page": 3,
+   "quote": "There is no maximum limit.",
+   "note": null
+  },
+  "sum_assured_rule": {
+   "value": "single: 1.25x SP (< 50) or 1.10x (>= 50); regular/limited: 7x AP (< 50) or 5x AP (>= 50)",
+   "status": "built-in",
+   "doc": "Download Brochure",
+   "page": 3,
+   "quote": "1.25 times the Single Premium",
+   "note": null
+  },
+  "premium_modes": {
+   "value": "single, yearly, half-yearly, quarterly, monthly",
+   "status": "n/a",
+   "doc": "HDFC Life Sampoorn Nivesh Plus 101L180V01- Policy Document",
+   "page": 12,
+   "quote": "Premiums under the Policy can be paid on yearly, half-yearly, quarterly or monthly basis",
+   "note": null
+  },
+  "life_cover_multiple_choice": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  }
+ },
+ "charges": {
+  "premium_allocation_charge": {
+   "value": {
+    "annual mode, year 1 by band (<1L / 1-5L / 5-10L / 10L+)": "9 / 6 / 5 / 4%",
+    "years 2-3": "7 / 6 / 5 / 4%",
+    "years 4-5": "6 / 6 / 5 / 4%",
+    "year 6+": "5 / 3 / 3 / 3%",
+    "non-annual mode": "year 1: 7 / 6 / 5 / 4%; years 2-3: 6 / 6 / 5 / 4%; years 4-5: 5 / 5 / 5 / 4%; year 6+: 5 / 3 / 3 / 3%",
+    "single pay": "3% (<10L), 1.5% (10-25L), 1% (25L+)"
+   },
+   "status": "built-in",
+   "doc": "HDFC Life Sampoorn Nivesh Plus 101L180V01- Policy Document",
+   "page": 19,
+   "quote": "The Premium allocation charge is capped at 12.5% of annualized premium in any year.",
+   "note": "checked against the -layout text"
+  },
+  "policy_administration_charge": {
+   "value": {
+    "limited/regular pay": "nil for 5 years, then 0.35% of AP per month rising 5% a year",
+    "single pay": "0.12% of SP per month for 5 years, then 0.07% rising 5% a year",
+    "cap": "Rs 500 per month"
+   },
+   "status": "built-in",
+   "doc": "HDFC Life Sampoorn Nivesh Plus 101L180V01- Policy Document",
+   "page": 20,
+   "quote": "After five years: 0.35%per month of Annualized Premium, increasing at 5% p.a. on each Policy",
+   "note": null
+  },
+  "fund_management_charge": {
+   "value": {
+    "all funds": "1.35%",
+    "discontinued_policy_fund": "0.50% cap"
+   },
+   "status": "built-in",
+   "doc": "HDFC Life Sampoorn Nivesh Plus 101L180V01- Policy Document",
+   "page": 20,
+   "quote": "The Fund Management Charge is 1.35% p.a. which will be taken daily and is incorporated into the Unit Prices",
+   "note": null
+  },
+  "mortality_charge": {
+   "value": "sum at risk x rate, deducted monthly; sum at risk depends on the benefit option",
+   "status": "built-in",
+   "doc": "HDFC Life Sampoorn Nivesh Plus 101L180V01- Policy Document",
+   "page": 20,
+   "quote": "Mortality charge is calculated as the Sum at Risk multiplied by the appropriate risk benefit charge rate.",
+   "note": null
+  },
+  "discontinuance_charge": {
+   "value": {
+    "regular/limited": "AP up to Rs 50,000: lower of 20/15/10/5% x (AP or FV), max Rs 3,000/2,000/1,500/1,000; above: 6/4/3/2%, max Rs 6,000/5,000/4,000/2,000; nil from Y5",
+    "single": "SP up to Rs 3 lakh: 2/1.5/1/0.5%, max Rs 3,000/2,000/1,500/1,000; above: 1/0.7/0.5/0.35%, max Rs 6,000/5,000/4,000/2,000"
+   },
+   "status": "built-in",
+   "doc": "HDFC Life Sampoorn Nivesh Plus 101L180V01- Policy Document",
+   "page": 22,
+   "quote": "Lower of 20% * (AP or FV)",
+   "note": null
+  },
+  "switching_charge": {
+   "value": "first 4 a year free; then Rs 250 (Rs 25 online)",
+   "status": "built-in",
+   "doc": "HDFC Life Sampoorn Nivesh Plus 101L180V01- Policy Document",
+   "page": 23,
+   "quote": "The Policyholder will not be charged for the first four fund switch requests in each Policy year.",
+   "note": null
+  },
+  "partial_withdrawal_charge": {
+   "value": "first 4 a year free; then Rs 250 (Rs 25 online)",
+   "status": "built-in",
+   "doc": "HDFC Life Sampoorn Nivesh Plus 101L180V01- Policy Document",
+   "page": 23,
+   "quote": "The Policyholder will not be charged for the first four Partial Withdrawal requests in each Policy year.",
+   "note": null
+  },
+  "premium_redirection_charge": {
+   "value": "first 4 a year free; then Rs 250 (Rs 25 online)",
+   "status": "built-in",
+   "doc": "HDFC Life Sampoorn Nivesh Plus 101L180V01- Policy Document",
+   "page": 23,
+   "quote": "The Policyholder will not be charged for the first four premium redirection requests in each Policy year.",
+   "note": null
+  },
+  "miscellaneous_charge": {
+   "value": "Rs 250 per alteration (cap Rs 500)",
+   "status": "built-in",
+   "doc": "HDFC Life Sampoorn Nivesh Plus 101L180V01- Policy Document",
+   "page": 23,
+   "quote": "A miscellaneous charge of Rs 250 shall be levied for any Policy alterations within the contract",
+   "note": null
+  },
+  "guarantee_charge": {
+   "value": null,
+   "status": "n/a",
+   "doc": "HDFC Life Sampoorn Nivesh Plus 101L180V01- Policy Document",
+   "page": 23,
+   "quote": "Investment Guarantee Charge Not Applicable",
+   "note": null
+  },
+  "rider_charges": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "any_charge_returned": {
+   "value": "Classic Waiver Plus: 0.5x or 1x of mortality charges returned at maturity, by entry age and term",
+   "status": "built-in",
+   "doc": "HDFC Life Sampoorn Nivesh Plus 101L180V01- Policy Document",
+   "page": 11,
+   "quote": "Return of mortality charges will be applicable only under Classic Waiver Plus option",
+   "note": null
+  }
+ },
+ "benefits": {
+  "death_benefit_formula": {
+   "value": {
+    "Classic": "highest of SA less PW, fund value, 105% of premiums",
+    "Classic Plus": "higher of SA plus fund value, or 105%",
+    "Classic Waiver": "higher of SA or 105%, then future premiums credited to the fund",
+    "Classic Waiver Plus": "as Classic Waiver plus monthly income of 0.5% to 2% of SA for 5 to 20 years (minimum 24 payments)"
+   },
+   "status": "built-in",
+   "doc": "HDFC Life Sampoorn Nivesh Plus 101L180V01- Policy Document",
+   "page": 9,
+   "quote": "(i) Sum Assured plus Fund Value plus any additional Sum Assured in respect of Top-ups, or",
+   "note": null
+  },
+  "maturity_benefit": {
+   "value": "fund value, lump sum or by settlement option",
+   "status": "built-in",
+   "doc": "HDFC Life Sampoorn Nivesh Plus 101L180V01- Policy Document",
+   "page": 11,
+   "quote": "to receive the entire Unit Fund Value as a lump sum amount; or",
+   "note": null
+  },
+  "loyalty_additions": {
+   "value": {
+    "limited pay, annual / other modes": "PPT 5-6: 1.8% / 1.6%; PPT 7-9: 1.2% / 1.0%; PPT 10+: 1.2% / 1.0%",
+    "regular pay, annual / other modes": "1.2% / 1.0%",
+    "timing": "every alternate year from the end of year 11, % of 12-month average fund value",
+    "single pay": "1.50% each year from year 10 to 14"
+   },
+   "status": "built-in",
+   "doc": "HDFC Life Sampoorn Nivesh Plus 101L180V01- Policy Document",
+   "page": 11,
+   "quote": "every alternate year starting from the end of 11th policy year for limited and regular premium paying",
+   "note": "checked against the -layout text"
+  },
+  "wealth_boosters_or_guaranteed_additions": {
+   "value": "direct marketing channel: Loyalty Reward at maturity of 1.5% x policy term x AP",
+   "status": "built-in",
+   "doc": "HDFC Life Sampoorn Nivesh Plus 101L180V01- Policy Document",
+   "page": 12,
+   "quote": "will be payable on Maturity in addition to the Maturity Benefit which shall be 1.5% x Policy Term x",
+   "note": null
+  },
+  "return_of_mortality_charges": {
+   "value": "Classic Waiver Plus only: entry age 18-45 with PT 10: none; 18-44 with PT 11-19: 0.5x; 18-44 with PT 20-30: 1x; 45-50 with PT 11-30: 1x",
+   "status": "built-in",
+   "doc": "HDFC Life Sampoorn Nivesh Plus 101L180V01- Policy Document",
+   "page": 11,
+   "quote": "A percentage of total mortality charges deducted during the policy term (excluding underwriting extra",
+   "note": "checked against the -layout text"
+  },
+  "return_of_premium_allocation_charges": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "return_of_policy_admin_charges": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "other_additions": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  }
+ },
+ "flexibility": {
+  "fund_switching": {
+   "value": "allowed; 4 free a year",
+   "status": "optional (during term)",
+   "doc": "HDFC Life Sampoorn Nivesh Plus 101L180V01- Policy Document",
+   "page": 15,
+   "quote": "You can ask us to switch the Funds in which your Units are held.",
+   "note": null
+  },
+  "premium_redirection": {
+   "value": "any time; 4 free a year",
+   "status": "optional (during term)",
+   "doc": "HDFC Life Sampoorn Nivesh Plus 101L180V01- Policy Document",
+   "page": 18,
+   "quote": "The Funds in which new Premiums are invested can be changed at any time.",
+   "note": null
+  },
+  "partial_withdrawals": {
+   "value": "after 5 years and age 18; fund must stay at least 150% of AP (25% of SP)",
+   "status": "optional (during term)",
+   "doc": "HDFC Life Sampoorn Nivesh Plus 101L180V01- Policy Document",
+   "page": 16,
+   "quote": "You have the option of making Partial Withdrawals at any time after the first 5 years, subject to the",
+   "note": null
+  },
+  "systematic_withdrawal_plan": {
+   "value": "fixed amount or % at chosen intervals, after 5 policy anniversaries",
+   "status": "optional (during term)",
+   "doc": "HDFC Life Sampoorn Nivesh Plus 101L180V01- Policy Document",
+   "page": 16,
+   "quote": "It is allowed only after five policy anniversaries from the date of issuance of the policy.",
+   "note": null
+  },
+  "top_up_premiums": {
+   "value": "allowed while premiums are up to date, not in the last 5 years; locked for 5 years",
+   "status": "optional (during term)",
+   "doc": "HDFC Life Sampoorn Nivesh Plus 101L180V01- Policy Document",
+   "page": 17,
+   "quote": "Top-up premiums are not permitted during the last 5 years of the contract.",
+   "note": null
+  },
+  "settlement_option": {
+   "value": "on maturity (fund at least Rs 1 lakh, 60 monthly redemptions) or death, up to 5 years",
+   "status": "optional (during term)",
+   "doc": "HDFC Life Sampoorn Nivesh Plus 101L180V01- Policy Document",
+   "page": 17,
+   "quote": "The Policyholder can avail of the settlement option on death or on maturity, subject to the following",
+   "note": null
+  },
+  "premium_holiday_or_offset": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "increase_decrease_cover": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "change_ppt_or_term": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "policy_loan": {
+   "value": null,
+   "status": "not offered",
+   "doc": "HDFC Life Sampoorn Nivesh Plus 101L180V01- Policy Document",
+   "page": 18,
+   "quote": "There is no facility of loan available from us under this Policy.",
+   "note": null
+  },
+  "auto_portfolio_strategies": {
+   "value": [
+    {
+     "name": "Systematic Transfer Plan",
+     "mechanics": "fixed amount or % monthly from a source fund to another fund, minimum Rs 5,000, no charge"
+    }
+   ],
+   "status": "optional (during term)",
+   "doc": "HDFC Life Sampoorn Nivesh Plus 101L180V01- Policy Document",
+   "page": 16,
+   "quote": "The minimum transfer amount is Rs. 5,000.",
+   "note": null
+  }
+ },
+ "funds": {
+  "fund_count": {
+   "value": "17 funds plus the Discontinued Policy Fund",
+   "status": "n/a",
+   "doc": "Download Brochure",
+   "page": 2,
+   "quote": "Choose from a range of 17 fund options.",
+   "note": null
+  },
+  "fund_list": {
+   "value": [
+    {
+     "name": "Balanced Fund",
+     "SFIN": "ULIF03901/09/10BalancedFd101",
+     "FMC_pct": 1.35,
+     "asset_allocation": "see policy document Appendix 2",
+     "risk_label": null
+    },
+    {
+     "name": "Blue Chip Fund",
+     "SFIN": "ULIF03501/01/10BlueChipFd101",
+     "FMC_pct": 1.35,
+     "asset_allocation": "see policy document Appendix 2",
+     "risk_label": null
+    },
+    {
+     "name": "Opportunities Fund",
+     "SFIN": "ULIF03601/01/10OpprtntyFd101",
+     "FMC_pct": 1.35,
+     "asset_allocation": "see policy document Appendix 2",
+     "risk_label": null
+    },
+    {
+     "name": "Equity Plus Fund",
+     "SFIN": "ULIF05301/08/13EquityPlus101",
+     "FMC_pct": 1.35,
+     "asset_allocation": "see policy document Appendix 2",
+     "risk_label": null
+    },
+    {
+     "name": "Diversified Equity Fund",
+     "SFIN": "ULIF05501/08/13DivrEqtyFd101",
+     "FMC_pct": 1.35,
+     "asset_allocation": "see policy document Appendix 2",
+     "risk_label": null
+    },
+    {
+     "name": "Bond Fund",
+     "SFIN": "ULIF05601/08/13BondFunds101",
+     "FMC_pct": 1.35,
+     "asset_allocation": "see policy document Appendix 2",
+     "risk_label": null
+    },
+    {
+     "name": "Discovery Fund",
+     "SFIN": "ULIF06618/01/18DiscvryFnd101",
+     "FMC_pct": 1.35,
+     "asset_allocation": "see policy document Appendix 2",
+     "risk_label": null
+    },
+    {
+     "name": "Equity Advantage Fund",
+     "SFIN": "ULIF06723/03/18EqtyAdvtFd101",
+     "FMC_pct": 1.35,
+     "asset_allocation": "see policy document Appendix 2",
+     "risk_label": null
+    },
+    {
+     "name": "Flexi Cap Fund",
+     "SFIN": "ULIF07114/07/23FlexiCapFd101",
+     "FMC_pct": 1.35,
+     "asset_allocation": "see policy document Appendix 2",
+     "risk_label": null
+    },
+    {
+     "name": "Dynamic Advantage Fund",
+     "SFIN": "ULIF08028/02/25DynamicFnd101",
+     "FMC_pct": 1.35,
+     "asset_allocation": "see policy document Appendix 2",
+     "risk_label": null
+    },
+    {
+     "name": "Top 300 Alpha 50 Fund",
+     "SFIN": "ULIF07828/02/25Alpha300Fd101",
+     "FMC_pct": 1.35,
+     "asset_allocation": "see policy document Appendix 2",
+     "risk_label": null
+    },
+    {
+     "name": "Top 500 Multifactor 50 Fund",
+     "SFIN": "ULIF08219/09/25TopMF500Fd101",
+     "FMC_pct": 1.35,
+     "asset_allocation": "see policy document Appendix 2",
+     "risk_label": null
+    },
+    {
+     "name": "India Consumption Advantage Fund",
+     "SFIN": "ULIF08421/11/25InCnsmAdFd101",
+     "FMC_pct": 1.35,
+     "asset_allocation": "see policy document Appendix 2",
+     "risk_label": null
+    },
+    {
+     "name": "India Sector Leaders Opportunities Fund",
+     "SFIN": "ULIF08602/03/26InSctrLrFd101",
+     "FMC_pct": 1.35,
+     "asset_allocation": "see policy document Appendix 2",
+     "risk_label": null
+    },
+    {
+     "name": "Top 500 Smart Value 50 Fund",
+     "SFIN": "ULIF08801/06/26SmtVal50Fd101",
+     "FMC_pct": 1.35,
+     "asset_allocation": "see policy document Appendix 2",
+     "risk_label": null
+    },
+    {
+     "name": "Dividend Leaders Advantage Fund",
+     "SFIN": "ULIF09004/09/26DivLdrAdFd101",
+     "FMC_pct": 1.35,
+     "asset_allocation": "see policy document Appendix 2",
+     "risk_label": null
+    },
+    {
+     "name": "Top 200 Equal weight Fund",
+     "SFIN": "ULIF09216/09/26T200EqWtFd101",
+     "FMC_pct": 1.35,
+     "asset_allocation": "see policy document Appendix 2",
+     "risk_label": null
+    }
+   ],
+   "status": "n/a",
+   "doc": "HDFC Life Sampoorn Nivesh Plus 101L180V01- Policy Document",
+   "page": 25,
+   "quote": "Top 200 Equal weight Fund - To generate long-term capital appreciation by investing in a diversified",
+   "note": null
+  },
+  "index_or_thematic_funds": {
+   "value": "Top 300 Alpha 50 (2025), Top 500 Multifactor 50 (2025), India Consumption Advantage (2025), India Sector Leaders Opportunities (2026), Top 500 Smart Value 50 (2026), Dividend Leaders Advantage (2026), Top 200 Equal weight (2026); years from SFINs",
+   "status": "n/a",
+   "doc": "HDFC Life Sampoorn Nivesh Plus 101L180V01- Policy Document",
+   "page": 24,
+   "quote": "India Sector Leaders Opportunities Fund - To generate long-term capital appreciation by investing",
+   "note": null
+  },
+  "discontinued_policy_fund": {
+   "value": {
+    "SFIN": "ULIF05110/03/11DiscontdPF101",
+    "FMC cap": "0.50%",
+    "minimum guaranteed interest": "4% p.a. (current)"
+   },
+   "status": "built-in",
+   "doc": "HDFC Life Sampoorn Nivesh Plus 101L180V01- Policy Document",
+   "page": 14,
+   "quote": "prevailing regulations and is currently 4% p.a.",
+   "note": null
+  }
+ },
+ "protection_add_ons": {
+  "waiver_of_premium_inbuilt": {
+   "value": "Classic Waiver and Classic Waiver Plus: on death, future premiums are credited to the fund",
+   "status": "optional (at inception)",
+   "doc": "HDFC Life Sampoorn Nivesh Plus 101L180V01- Policy Document",
+   "page": 9,
+   "quote": "In addition, on each future Premium Due Date(s), an amount equal to the modal Premium, shall be credited",
+   "note": null
+  },
+  "critical_illness": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "accidental_death": {
+   "value": "Extra Life Option under Classic: extra SA on accidental death within 180 days; cover to age 75",
+   "status": "optional (at inception)",
+   "doc": "HDFC Life Sampoorn Nivesh Plus 101L180V01- Policy Document",
+   "page": 12,
+   "quote": "This Clause only applies if the Policyholder has selected the Extra Life Benefit",
+   "note": null
+  },
+  "terminal_illness": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "spouse_or_child_cover": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  },
+  "riders_available": {
+   "value": null,
+   "status": "not stated in public documents",
+   "doc": null,
+   "page": null,
+   "quote": null,
+   "note": null
+  }
+ },
+ "surrender_revival": {
+  "lock_in_years": {
+   "value": 5,
+   "status": "built-in",
+   "doc": "HDFC Life Sampoorn Nivesh Plus 101L180V01- Policy Document",
+   "page": 14,
+   "quote": "The proceeds of the discontinued policy shall be refunded only",
+   "note": null
+  },
+  "discontinuance_rules": {
+   "value": "in lock-in: fund less discontinuance charge goes to the Discontinued Policy Fund, paid after 5 years; after lock-in: reduced paid-up",
+   "status": "built-in",
+   "doc": "HDFC Life Sampoorn Nivesh Plus 101L180V01- Policy Document",
+   "page": 14,
+   "quote": "the Policy shall be converted into a reduced paid up policy with the paid-up sum",
+   "note": null
+  },
+  "revival_period": {
+   "value": "3 years from first unpaid premium",
+   "status": "built-in",
+   "doc": "HDFC Life Sampoorn Nivesh Plus 101L180V01- Policy Document",
+   "page": 15,
+   "quote": "The revival period for this product is three years from date of first unpaid premium.",
+   "note": null
+  },
+  "surrender_value_rule": {
+   "value": "fund value less discontinuance charge; in lock-in paid after year 5",
+   "status": "built-in",
+   "doc": "HDFC Life Sampoorn Nivesh Plus 101L180V01- Policy Document",
+   "page": 15,
+   "quote": "of request for Surrender, the Fund Value as on date of Surrender shall be payable.",
+   "note": null
+  }
+ },
+ "documents_inventory": [
+  {
+   "website_label": "Download Brochure",
+   "doc_type": "brochure",
+   "url": "https://www.hdfclife.com/content/dam/hdfclifeinsurancecompany/products-page/brochure-pdf/HDFC-Life-Sampoorn-Nivesh-Plus-Retail-Brochure.pdf",
+   "found_on_page_url": "https://www.hdfclife.com/ulip-plans/sampoorn-nivesh-plus-ulip-policy",
+   "pages": 32,
+   "stored_path": "docs/hdfc-life/101L180V01/brochure.pdf",
+   "status": "already stored",
+   "note": null
+  },
+  {
+   "website_label": "specimen policy documents",
+   "doc_type": "policy_document",
+   "url": "https://www.hdfclife.com/policy-documents",
+   "found_on_page_url": "https://www.hdfclife.com/ulip-plans/sampoorn-nivesh-plus-ulip-policy",
+   "pages": null,
+   "stored_path": null,
+   "status": "web page (not stored)",
+   "note": "link opens a web page, not a document"
+  },
+  {
+   "website_label": "product brochures",
+   "doc_type": "brochure",
+   "url": "https://www.hdfclife.com/brochures",
+   "found_on_page_url": "https://www.hdfclife.com/ulip-plans/sampoorn-nivesh-plus-ulip-policy",
+   "pages": null,
+   "stored_path": null,
+   "status": "web page (not stored)",
+   "note": "link opens a web page, not a document"
+  },
+  {
+   "website_label": "HDFC Life Sampoorn Nivesh Plus 101L180V01- Policy Document",
+   "doc_type": "policy_document",
+   "url": "https://www.hdfclife.com/content/dam/hdfclifeinsurancecompany/customer-services/policy-documents-pdf/savings-and-investment-live/HDFC-Life-Sampoorn-Nivesh-Plus-V01-Policy-Document.pdf",
+   "found_on_page_url": "https://www.hdfclife.com/ulip-plans/sampoorn-nivesh-plus-ulip-policy",
+   "pages": 50,
+   "stored_path": "docs/hdfc-life/101L180V01/policy.pdf",
+   "status": "ok",
+   "note": null
+  },
+  {
+   "website_label": "HDFC Life Sampoorn Nivesh Plus",
+   "doc_type": "brochure",
+   "url": "https://www.hdfclife.com/content/dam/hdfclifeinsurancecompany/customer-services/brochure-documents-pdfs/ulip-live/HDFC-Life-Sampoorn-Nivesh-Plus-Retail-Brochure.pdf",
+   "found_on_page_url": "https://www.hdfclife.com/ulip-plans/sampoorn-nivesh-plus-ulip-policy",
+   "pages": 32,
+   "stored_path": null,
+   "status": "already stored (same file)",
+   "note": "identical to the brochure already stored"
+  }
+ ],
+ "new_features_not_in_schema": [
+  {
+   "feature": "Delayed risk start for minors",
+   "description": "for a child life assured, cover can start up to 2 years later or at 18, with no mortality charge until then",
+   "quote": "Under option ‘b’, there shall be no mortality charge levied till the Risk Commencement Date.",
+   "doc": "HDFC Life Sampoorn Nivesh Plus 101L180V01- Policy Document",
+   "page": 11
+  },
+  {
+   "feature": "Loyalty reward for direct purchases",
+   "description": "1.5% x policy term x AP paid at maturity on policies bought through direct marketing",
+   "quote": "If your Policy has been purchased through direct marketing channel, a Loyalty Reward",
+   "doc": "HDFC Life Sampoorn Nivesh Plus 101L180V01- Policy Document",
+   "page": 12
+  },
+  {
+   "feature": "Death benefit with waiver plus monthly income",
+   "description": "Classic Waiver Plus pays SA, funds future premiums and pays 0.5% to 2% of SA a month",
+   "quote": "The policyholder can choose Income benefit % from 0.5%-2% and Income term can be between 5-20 years.",
+   "doc": "HDFC Life Sampoorn Nivesh Plus 101L180V01- Policy Document",
+   "page": 10
+  }
+ ],
+ "data_not_public": []
+}
