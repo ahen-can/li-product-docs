@@ -245,6 +245,93 @@ for col, w in zip('BCDEFG', (34, 90, 36, 10, 22, 22)):
 for i in range(1, len(notes) + 1):
     ws.cell(i, 1).alignment = Alignment(wrap_text=False)
 
+# ---- IRDAI consultation paper on distribution reforms (Sep 2026)
+CPQ = [
+    # (proposal, exact quote, source page, what it means for Bharti)
+    ('EoM is kept and tightened, not removed',
+     'The current EoM computation is a single composite ceiling which in itself is sound and simple. Within this framework the following reforms are proposed: ... In the case of Life insurance, the EoM will be Total Expenses as a percentage of Total Premium.',
+     'Part 1, p43, para 95(1)',
+     'The ceiling stays; the measure becomes total expenses / total premium. Bharti\'s closest published measure is L-22 row 6 (EoM to gross direct premium): 34.2% in FY26, 31.4% in FY25.'),
+    ('New life limit: 15% in 2 years, 12.5% in 5 years',
+     'To achieve an EoM of 15% of the premium in 2 years and 12.5% in 5 years (FY2027-28 being Year 1) with a glide path requiring reduction every year.',
+     'Part 1, p43, Box 2 A(i)',
+     'Bharti would need to go from about 34% to 15% by FY2028-29 and 12.5% by FY2031-32, i.e. cut its expense ratio by more than half. The paper puts the private life average at 20.2% in FY26 (Box 1, p42). Our reading: Bharti is among the furthest from the target.'),
+    ('Why IRDAI is acting',
+     'In life insurance, expenses fell steadily from 21.3% of gross premium in FY15 to a low of 16.5% in FY21, before reversing course to reach 20.2% in FY26, nearly back to where the decade began.',
+     'Part 1, p42, Box 1',
+     'Context for Bharti\'s repeated breaches FY21-FY25.'),
+    ('Operating expenses (not just commission) are a target',
+     'For FY26 operational expenses other than commissions varied from 6.1% to 27.7% of the premium in case of Life insurers ... It is evident that insurers will also have to focus on controlling operational expenses other than commissions if they are to deliver the expected value to customers.',
+     'Part 1, p44, para 95(5)',
+     'Bharti\'s operating expenses other than commission were about 26.2% of gross premium in FY26 (L-22 EoM 34.2% minus commission 8%; approximate), near the top of IRDAI\'s 6.1%-27.7% range. Its commission ratio (8%) is below the private-life average of 9% (Part 1 p46). Bharti\'s gap is mainly operating cost and scale, not commission.'),
+    ('2023 carve-outs folded back into EoM',
+     'The 2023 EoM framework carved out additional allowances over and above the Expenses of Management limit, including technology and insurance awareness spend, and rural and government scheme expenses. ... To simplify the EoM structure, these would have to be included in the overall EoM.',
+     'Part 1, p42, para 94',
+     'Any technology or awareness spend Bharti currently keeps outside the limit would count against it. Not visible in the PDs; worth asking.'),
+    ('Consequences of missing the glide path',
+     'Insurers that have not converged on the EoM ceiling by the scheduled dates should face graduated supervisory consequences such as restrictions on new product launches, restrictions on dividend distribution, and in extreme cases restrictions on new business through the channel responsible for the over run.',
+     'Part 1, p44, para 97',
+     'Harsher than today\'s Regulation 22 practice (warning plus branch-opening ban, Aug 2026). Restrictions on new product launches would hit Bharti\'s product plans directly.'),
+    ('Hard commission caps return',
+     'The inability to exercise adequate cost discipline under the flexible EoM regime makes a compelling case for hard caps on commissions within revised EoM limits, stringent implementation, and enhanced regulatory oversight.',
+     'Part 1, p45, para 101',
+     'Caps by product, premium-paying term and channel (Box 4B, p51-52).'),
+    ('Lower caps for open-architecture distributors (brokers, banks, corporate agents)',
+     'Open distribution architecture should have lower commission limits to create disincentive against commission-led sales. ... IDEs will have lower commission caps compared to individual category (agents and associates) engaged directly by insurers.',
+     'Part 1, p47, para 102(1)-(2)',
+     'In FY26, 42% of Bharti\'s individual NBP came through corporate agents (banks 10.1%, others 17.8%) and brokers (13.9%) (PD L-38). A small insurer may find it harder to win shelf space with banks and brokers when it cannot outbid larger insurers on commission. Our inference, not in the paper.'),
+    ('Very low caps on single premium savings and annuity',
+     'Individual Savings: single premium 1% (distribution entities), 2% (agents). Pension/deferred annuity/ Immediate Annuity*: single premium 0.5% / 0.75%.',
+     'Part 1, p51-52, Box 4B',
+     'Single premium was 10.9% of Bharti\'s individual NBP in FY26 (L-22). Swabhimaan Retirement Plan (annuity) was 12% of FY27 NBP to Sep 2026 (90% list). Products sold on single premium through distributors would carry little commission room.'),
+    ('Regular-premium caps rise with premium-paying term',
+     'Individual Non-Linked (Par or Non-Par) and Linked: first year 5% (PPT below 5 years) up to 20% (PPT 10 years and above) for distribution entities; 6.25% to 25% for agents. Renewal 2%-3% (entities), 5% (agents).',
+     'Part 1, p51, Box 4B',
+     'Short-PPT savings products (e.g. 5-8 year pay) get low first-year caps. Check the PPT mix of Guaranteed Wealth Pro, Guaranteed Bachat and Unnati against these caps.'),
+    ('Commission should reward persistency',
+     'Commission structure for life insurance policies should incentivize distribution persons and entities to nudge policyholders to persist with the multi-year payment plans instead of incentivizing first year payment.',
+     'Part 1, p48, para 102(9)',
+     'Bharti\'s 13th-month persistency (64.5% FY26) is second-lowest of the 14 insurers in the Peer view. Renewal-weighted commissions would reward distributors who keep policies alive.'),
+    ('All payouts count as commission',
+     'Commissions should be all-inclusive covering direct commission, incentives, awards, reimbursement of selling expenses, brand value payments to related parties, non-cash incentives like gifts and visits.',
+     'Part 1, p48, para 102(12)',
+     'Payments now booked as operating expense (e.g. sales promotion) would move under the commission caps.'),
+    ('Cost audit for every insurer',
+     'All insurers irrespective of their business size, and IDEs with insurance commission income above ₹100 crores would be mandated to have an annual cost audit and submit the report to their respective Board and to the regulator.',
+     'Part 1, p53, para 105',
+     'Applies to Bharti.'),
+    ('Industry evidence on distribution cost',
+     'Private life insurers paid an average commission of 9% of the total premium mobilised during FY26. ... Across private life insurers, commission payments ranged from 3% to 39%. ... Multiple tie-up bank arrangements entailed much higher average total pay-out of 33% of the life new business premium generated.',
+     'Part 2, p8 para 2.3.1; p13 para 9.1.4',
+     'Bharti\'s FY26 commission ratio of 8% is close to the average. The paper does not name insurers.'),
+    ('Timeline',
+     'The last date for submission of comments and feedback is 25th October 2026. ... The EoM norms will be reviewed along with products reforms which are likely to follow during FY28.',
+     'Part 1, p76 para 163; p44 para 96',
+     'Comments closed 25 Oct 2026. Final regulations not yet issued (as of 5 Nov 2026). Proposed Year 1 of the glide path is FY2027-28.'),
+]
+r2 = ws.max_row + 2
+ws.cell(r2, 1, 'IRDAI consultation paper: Recalibrating economics of insurance distribution (Sep 2026)').font = TITLE
+ws.cell(r2 + 1, 1, 'Source: "Distribution Reforms Part 1.pdf" (80 pages) and "Part 2.pdf" (41 pages) on the user\'s desktop; PDF created 23 Sep 2026. Proposals only, not yet regulation. The paper keeps EoM and tightens it; it does not remove it.')
+for j, h in enumerate(['Proposal', 'Exact quote', 'Page', 'What it means for Bharti (our reading; Bharti figures from the CSV)'], 1):
+    c = ws.cell(r2 + 2, j + 1, h)
+    c.font = BOLD
+    c.fill = HFILL
+for i, row in enumerate(CPQ, r2 + 3):
+    ws.cell(i, 1, i - r2 - 2)
+    for j, v in enumerate(row, 2):
+        ws.cell(i, j, v).alignment = WRAP
+r3 = r2 + 3 + len(CPQ) + 1
+ws.cell(r3, 1, 'Open questions on the consultation paper').font = BOLD
+for k, q in enumerate([
+    'What is Bharti\'s EoM on the paper\'s proposed basis (total expenses / total premium)? L-22 row 6 is the closest public figure; the exact basis may differ (gross vs after transfer to shareholders).',
+    'What did the Life Insurance Council and Bharti submit in the consultation (closed 25 Oct 2026)? Smaller insurers may seek a longer glide path.',
+    'Under the proposal, would the 15% target apply from FY2028-29 (Year 2) to an insurer with Bharti\'s scale, or is there a size or vintage relief? The paper gives none.',
+    'How much of Bharti\'s new business is short premium-paying-term or single premium, where the proposed caps are lowest?',
+], 1):
+    ws.cell(r3 + k, 1, f'{k}.')
+    ws.cell(r3 + k, 2, q).alignment = WRAP
+ws.column_dimensions['E'].width = 60
+
 # ------------------------------------------------------------------ Bharti trend
 s = Sheet(wb.create_sheet('Bharti trend'))
 s.title('Bharti Life: premium trend FY21 to FY26, with Q1 FY26 and Q1 FY27',

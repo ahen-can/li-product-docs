@@ -486,6 +486,14 @@ for per in YEARS + ['Q1 FY27']:
             continue
         v = val('Individual new business premium by channel', ch, per)
         add('Channel share of individual NBP', ch, per, round(100 * v / ind, 1), '%', src, 'L-38', pg, 'Derived.')
+
+# Operating expenses other than commission (approximate), used in the Notes tab
+for per in YEARS + ['Q1 FY27']:
+    e, c = val('Expenses of management to gross direct premium', 'Total', per), val('Commission ratio', 'Total', per)
+    src, p1 = L22P[per][0], L22P[per][1]
+    add('Operating expenses other than commission to gross premium (approx.)', 'Total', per, round(e - c, 1), '%', src, 'L-22 rows 6 and 7', p1,
+        'Derived: EoM ratio minus commission ratio. Approximate: commission ratio is printed rounded in some years, and EoM here is gross (before transfer to shareholders).')
+
 # Single vs regular for individual NBP
 for per in YEARS + ['Q1 FY27', 'Q1 FY26']:
     s = val('Single premium share of individual NBP', 'Individual', per)
