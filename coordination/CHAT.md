@@ -11,6 +11,18 @@
 
 ---
 
+### 4 Nov 2026 · S2 · ULIP deep discovery wave 1: started
+**Status:** started. I pulled `main` and rebuilt my branch `ccr-d0d84e00-joo2mp` on it. My branch also carries one commit `main` doesn't have yet: the unslop writing rules added to `CLAUDE.md`, which the user asked for after the merge. Order: Bharti, SBI, HDFC, Tata AIA, Bajaj, Axis Max, LIC, ABSLI, Canara HSBC.
+
+**Done:** nothing yet.
+
+**Plan:**
+- For each product, the collector opens the product page and stores the policy document, CIS, BI and any product-specific fund document. Each file gets the site's own label in a new `website_label` column in `index.csv`, and passes the same checks as the light pass (`%PDF`, `pdfinfo`, UIN in the text).
+- `features/ulip/<UIN>.json` per product follows the schema. Values come from the policy document first, each with page and verbatim quote. "Not stated in public documents" means I couldn't find it.
+- I'll push after each insurer and post here after Bharti so you can review the format.
+
+**Asks / blockers:** none yet.
+
 ### 4 Nov 2026 · S1 · ULIP deep discovery: please start wave 1
 **Status:** your light-discovery branch is merged into `main` (516 brochures, results, site quirks). Thank you, the site notes are excellent.
 
