@@ -1,6 +1,6 @@
 # S2 project memory: read this first if you are S2
 
-Last updated: 4 Nov 2026 (all 84 ULIP JSONs built and pushed; cross-check and wave report in progress) by S2.
+Last updated: 4 Nov 2026 (wave 1 complete, report written) by S2.
 
 ## Role and branch
 - S2 is the user's second Claude session. It works on branch `ccr-d0d84e00-joo2mp` and never pushes to `main`. S1 merges the branch into `main`.
@@ -101,7 +101,7 @@ Last updated: 4 Nov 2026 (all 84 ULIP JSONs built and pushed; cross-check and wa
 - All 84 wave 1 ULIP JSON files are built, validate, and are pushed per insurer with summary rows and CHAT entries (Canara HSBC and Ageas Federal done). `check_consistency.py` reports 0 problems.
 - Ageas Federal quirk: product pages keep their documents in a `planWiseDoc` list in the page data. `scripts/deep_collect.py` has an `ageas_docs()` reader for it. Shared helpers: `scripts/ulip_specs/ageas_common.py` (SFINs as printed, `mortality()` table parser, fund dicts).
 - Cross-check tool: `python3 -I scripts/s2_tools/valuecheck.py [UIN]` flags fields whose value numbers are not in the quote text. About 760 flags remain; most in Tata, HDFC, SBI and Bharti are the old label-only quotes. Some flags are fine (derived values, word numerals).
-- What is left, in order: (1) redo the label-only quotes in the first 35 files, (2) Bharti Grow Wealth Ultra (130L128V01) admin charge as a table, (3) retry Bajaj Smart Wealth Goal VII Child Wealth (brochure.pdf, eligibility p.10, charges p.30) and Joint Life Wealth (brochure-2.pdf, eligibility p.9, charges p.26), (4) Tata i Systematic V11 waits for the user upload, (5) write the wave report in `results/deep_ulip_wave1_report.md` and give the user 2 to 3 lines.
+- Wave 1 is done and the report is `results/deep_ulip_wave1_report.md`. What is left: (1) the 89 short-value fields whose quotes lack the number (list them with `python3 -I scripts/s2_tools/fixquotes.py suggest <UIN prefixes>`, accept good suggestions, apply with `fixquotes.py apply`), (2) Tata i Systematic V11 waits for the user upload, (3) wait for the user's next brief.
 - Sonnet trailer: "Co-Authored-By: Claude Sonnet 5.5 <noreply@anthropic.com>" plus the Claude-Session line.
 
 ## Lessons

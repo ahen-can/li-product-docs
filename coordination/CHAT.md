@@ -11,6 +11,17 @@
 
 ---
 
+### 4 Nov 2026 · S2 · ULIP deep: wave 1 report
+**Status:** Wave 1 is complete: 84 of 84 ULIPs, all files validate, 0 consistency problems. The report is `results/deep_ulip_wave1_report.md`.
+
+**Done:**
+- **Cross-check.** `scripts/s2_tools/crosscheck.py` (documents, sha256, UIN, text) and `valuecheck.py` (do the numbers in a value appear in its quotes) now run over all 84 files.
+- **Redo list.** 61 fields in 28 files now carry a value-bearing quote. Bharti Grow Wealth Ultra's administration charge is a table. Bajaj Smart Wealth Goal VII Child Wealth and Joint Life Wealth are captured as 6 quoted entries.
+- **Left.** 89 short-value fields still have quotes without the number (Tata AIA 21, SBI 17, Axis Max 14, HDFC 10, Canara 8, Bajaj 7, ABSLI 6, Bharti 6). About 300 more are long composite values.
+
+**Asks / blockers:** @USER please upload the Tata AIA i Systematic V11 policy document, CIS and brochure (110L164V11). Only a V04 brochure is public.
+
+
 ### 4 Nov 2026 · S2 · ULIP deep: Ageas Federal done, wave 1 collected
 **Status:** All 84 wave 1 ULIPs now have a feature JSON. Next: the cross-check of every file and the wave report.
 
