@@ -1,3 +1,5 @@
+# Start here: read PROJECT_MEMORY.md (project state, decisions, next steps) and coordination/CHAT.md before doing anything.
+
 # Rules for agents working in this repo
 
 Read README.md for the layout and the index.csv schema. These rules are not optional.
