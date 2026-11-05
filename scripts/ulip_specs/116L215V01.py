@@ -56,7 +56,7 @@ spec = {
                              quote_2='Lower of 6% * (AP or FV) subject to maximum of `6,000', quote_3='No Discontinuance/ Surrender Charge will be applied on Units in respect of Top-Up Premium.'),
   'switching_charge': F('nil; unlimited free switches', 'built-in', B, None, 'You can make unlimited free switches.'),
   'partial_withdrawal_charge': F('nil', 'built-in', B, None, 'No charges shall be levied for partial withdrawal.'),
-  'premium_redirection_charge': F('Rs 100', 'built-in', B, None, 'Miscellaneous charges shall be applicable.'),
+  'premium_redirection_charge': F('Rs 100', 'built-in', B, None, 'Miscellaneous charges shall be applicable.', quote_2='The Miscellaneous Charge will be Rs.100 per applicable incidence except for switching between fund/', page_2=12),
   'miscellaneous_charge': F('Rs 100 per incidence; free for switches, partial withdrawals and top-ups', 'built-in', B, None, 'The Miscellaneous Charge will be Rs.100 per applicable incidence except for switching between fund/'),
   'guarantee_charge': NS(), 'rider_charges': NS(),
   'any_charge_returned': F({'premium allocation charges': 'Classic: all returned at end of year 15; Elite: accumulated at 7% p.a. and returned at end of year 15', 'mortality charges': 'Classic 25%, 50%, 100% at years 7, 15, 20+; Elite 20% to 100% at years 10 to 30'}, 'built-in', B, None,

@@ -1,6 +1,6 @@
 # S2 project memory: read this first if you are S2
 
-Last updated: 4 Nov 2026 (wave 1 complete, report written) by S2.
+Last updated: 5 Nov 2026 (wave 1 done; walkthrough page and restyled deck for Neha drafted) by S2.
 
 ## Role and branch
 - S2 is the user's second Claude session. It works on branch `ccr-d0d84e00-joo2mp` and never pushes to `main`. S1 merges the branch into `main`.
@@ -97,6 +97,17 @@ Last updated: 4 Nov 2026 (wave 1 complete, report written) by S2.
 - Each product links two dated brochures; the latest (from 22/09/2025) is `brochure.pdf`, the older is `brochure-2.pdf`. Labels are the website labels, which differ in capitals ("Sales brochure" and "Sales Brochures").
 - Quotes from two-column tables: take the rowq line, keep hyphens that sit inside the row, drop the one at the end of a line.
 
+## Walkthrough for Neha (5 Nov, latest work)
+- **Goal (user's words).** Show Neha HOW we are working and ask whether the approach makes sense. Not a fleshed-out analysis. Bharti's product suite is the focus. Observations only, no recommendations.
+- **Page.** https://claude.ai/artifact/VeBN1cragc4K9rPSVGNPrN (owner's private artifact; the user shares it). Source: `docs-internal/s2_neha_walkthrough/ulip_pilot_walkthrough.html`. Republish from this session with the same file path, or from another session with `url`.
+  - Structure: 2-minute flow of 9 steps (each says what we did), then 13 sections: market landscape (4 PD categories), Bharti product mix and trend (Bharti portfolio tab of deliverable 01 + S3 findings, EoM breach), product list (sources: Council 511, official lists 64, websites 58), brochures and v1, who to compare (framework), policy documents and v3 (Bharti has / lacks boxes), calculator, shortlist 84 to 14 to 5, deck head-to-head, quality checks, limits, things to do, 6 questions with A-D options and a "Copy my answers" button.
+  - Excel samples are spreadsheet-style HTML previews with links to the files on GitHub, not screenshots.
+  - QA figures come from the user verbally (not pushed yet): Shobhit checked 100 products (4 UIN version differences, 1 withdrawn) and 100 brochures (4 UIN version differences, 5 policy documents or leaflets instead of brochures, none for the wrong product). S3: 255 checks, 237 pass, 8 fail, 10 unsure.
+  - User's edits applied: no "for Neha", no bullet dots, par (not non-par) as the hypothesis, no "299 discrepancies", no "checked by hand across all 84", ICICI = "I'll analyse its ULIPs myself against the feature list", Q2 explains the framework with the ULIP numbers.
+- **Deck.** https://claude.ai/artifact/K47aHoxEmo3J5AUtJ8hMWp, a restyled copy of S1's deck (https://claude.ai/artifact/3VgZFusjxhJRLpqkBeXNLU, which this session cannot edit). Same 12 slides and content; Public Sans, ink and blue palette, orange for gaps, source line and page number on each slide. Slide 11 retitled "Observations: five areas the comparison points to". Source: `docs-internal/s2_neha_walkthrough/deck/project/`. Update with the Artifact tool, `url` the deck, `root` a folder holding `project/`.
+- **Facts checked in the repo** (the user's memory differed): 633 products; 516 documents found (499 brochures, 17 policy documents or leaflets); 106 products on blocked sites (ICICI, Kotak, Star Union Dai-ichi, Go Digit); 168 ULIPs on the list, 141 with brochures; all ULIPs of the 10 chosen insurers = 84. The Linked tab of deliverable 01 is linked life only (Rs 1.77 lakh cr); the deck's Rs 1.94 lakh cr includes linked pension.
+- **Open with the user.** Possibly save the page into deliverables; S3's Bharti workbook still on branch `s3-bharti-analysis` (links point there).
+
 ## Session state (4 Nov, latest)
 - All 84 wave 1 ULIP JSON files are built, validate, and are pushed per insurer with summary rows and CHAT entries (Canara HSBC and Ageas Federal done). `check_consistency.py` reports 0 problems.
 - Ageas Federal quirk: product pages keep their documents in a `planWiseDoc` list in the page data. `scripts/deep_collect.py` has an `ageas_docs()` reader for it. Shared helpers: `scripts/ulip_specs/ageas_common.py` (SFINs as printed, `mortality()` table parser, fund dicts).
@@ -119,3 +130,21 @@ Last updated: 4 Nov 2026 (wave 1 complete, report written) by S2.
 - **Tata Smart Pension Secure (110L182V09).** Fund names are not mapped to their codes.
 - **Old quotes.** Redo the label-only quotes in the 35 files at the end of wave 1. A rough scan flags about 360 fields with numbers in the value but none in the quote, and some of those are fine ("three years").
 - **No BIs.** None of the four insurers done so far publishes BIs or product-specific fund factsheets.
+
+## S2 self-QA of the walkthrough page and deck (5 Nov)
+
+Workbook: `qa/s2/s2_qa_workbook.xlsx`, built by `scripts/s2_tools/build_qa_workbook.py` (edit ROWS, rerun). 84 claims traced to the deliverables, policy-document JSONs and S3's notes: 57 pass, 12 fail, 9 warn, 3 unverified, 3 supplied verbally by the user.
+- Fixed on the page (08): preview row numbers (Bharti portfolio, v1, v3), "All 7 free switches" is 6 of 7 (Future Invest has 12 a year), expert nomination not yet applied to the challenger scores.
+- Open on the deck (S1's content, not changed): "mostly as a rider" (waiver is mostly an option), Bharti "5 products" for loyalty or boosters (6), Grow Wealth Ultra 1.31% not in deliverable 06, "Bharti x3 checked" (06 shows 2 Bharti checks), SBI Retire Smart Plus has no assured vesting, "most policies in force" claim on slide 11 note, S3 QA counts (237/8/10 vs 233/7/9 now).
+- Still unverified: calculator steps on the page, FY25 conservation 75.4%, page reading time.
+
+### Bharti "lacks" audit (5 Nov, priority of the QA)
+Checked each "Bharti doesn't have X" claim in the 7 Bharti policy documents and brochures. Tab "Bharti lacks audit" in `qa/s2/s2_qa_workbook.xlsx`.
+- **Waiver of premium: wrong.** 6 of 7 Bharti brochures list the Linked Complete Shield Rider (130A012V02). Its literature offers a Waiver of Premium option (disability and critical illness events). v3 and v1 code Bharti N, while peers' 43 includes riders. Page and deck copy now say "rider only". S1 to recode v3.
+- **Online terms: wrong.** Wealth Pro (online allocation charge 6% vs 9%) and Grow Wealth (online admin 0.10% vs 0.15%) have them.
+- **Top-ups: overstated.** Six documents are silent; only Grow Wealth Ultra says not allowed.
+- **Guaranteed additions: borderline.** Wealth Pro boosters at year 5 and maturity are on a fixed schedule.
+- **Rider coding inconsistent.** Same rider coded differently across Bharti products (accident death, CI, disability).
+- Holds: no plan that continues after death, no pension or child ULIP, 8 funds.
+- Rider documents were read from bhartiaxa.com into the scratchpad only; not added to `docs/` or `index.csv` yet.
+Deck regenerated with `scripts/s2_tools/build_deck_html.py`.

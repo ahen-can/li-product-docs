@@ -55,7 +55,7 @@ spec = {
   'wealth_boosters_or_guaranteed_additions': NS(), 'return_of_mortality_charges': NS(), 'return_of_premium_allocation_charges': NS(), 'return_of_policy_admin_charges': NS(), 'other_additions': NS(),
  },
  'flexibility': {
-  'fund_switching': F('unlimited, free; also into or out of the two strategies', 'optional (during term)', P, None, 'Switching between Funds is allowed for unlimited number of times during the Policy Term.'),
+  'fund_switching': F('unlimited, free; also into or out of the two strategies', 'optional (during term)', P, None, 'Switching between Funds is allowed for unlimited number of times during the Policy Term.', quote_2='d. Switching between Funds is allowed for unlimited number of times during the Policy Term.', page_2=20),
   'premium_redirection': F('any time, free', 'optional (during term)', P, None, 'The Funds in which new Premiums are invested can be changed at any time by You.'),
   'partial_withdrawals': F('after lock-in; min Rs 6,000, max 25% of fund; 3 times in the term; only for stated reasons (education, marriage, house, illness, disability, reskilling, own venture)', 'optional (during term)', P, None, 'Partial Withdrawal is allowed only three times during the entire Policy Term.'),
   'systematic_withdrawal_plan': NS(),
@@ -76,7 +76,7 @@ spec = {
  },
  'protection_add_ons': {'waiver_of_premium_inbuilt': NS(), 'critical_illness': NS(), 'accidental_death': NS(), 'terminal_illness': NS(), 'spouse_or_child_cover': NS(), 'riders_available': NS()},
  'surrender_revival': {
-  'lock_in_years': F(5, 'built-in', P, None, 'Partial Withdrawal can be made only after completion of Lock-in Period subject to Policy being In'),
+  'lock_in_years': F(5, 'built-in', P, None, 'Partial Withdrawal can be made only after completion of Lock-in Period subject to Policy being In', quote_2='24. Lock-in Period means the period of five consecutive completed years from the Date of', page_2=8),
   'discontinuance_rules': F('in lock-in: fund less discontinuance charge goes to the Discontinued Policy Fund Pension, paid after 5 years; after lock-in: reduced paid-up; proceeds used per annuity rules', 'built-in', P, None, 'D.2.1. Discontinuance of the Policy during Lock-in Period:'),
   'revival_period': F('3 years from first unpaid premium', 'built-in', P, None, 'The revival period for this product is three years from date of first unpaid premium.'),
   'surrender_value_rule': F('fund value less discontinuance charge; must be used per vesting options (annuity or commutation)', 'built-in', P, None, 'completion of Lock-in Period, the Policy stands terminated and Fund Value as on date of Surrender must'),

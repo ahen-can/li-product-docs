@@ -404,7 +404,9 @@
    "doc": "Policy Prospectus",
    "page": 14,
    "quote": "equal to the Fund Value, where the Fund Value will be calculated as",
-   "note": null
+   "note": null,
+   "quote_2": "instruct us on settlement period (up to 5 years) and the frequency (monthly, quarterly, semiannual or",
+   "page_2": 21
   },
   "loyalty_additions": {
    "value": {
@@ -867,7 +869,9 @@
    "doc": "Policy Prospectus",
    "page": 19,
    "quote": "Term Booster with Accelerated Terminal Illness",
-   "note": null
+   "note": null,
+   "quote_2": "• Rider benefit variant 1 - Term Booster with Accelerated Terminal Illness:",
+   "page_2": 19
   },
   "spouse_or_child_cover": {
    "value": null,

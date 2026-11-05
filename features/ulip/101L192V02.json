@@ -402,7 +402,9 @@
    "doc": "HDFC Life Click 2 Retire Plus II V02 Policy Bond 101L192V02",
    "page": 18,
    "quote": "The Settlement Option shall not be available if Waiver of Premium benefit option has been selected at",
-   "note": null
+   "note": null,
+   "quote_2": "maximum period of five (5) years",
+   "page_2": 18
   },
   "premium_holiday_or_offset": {
    "value": null,

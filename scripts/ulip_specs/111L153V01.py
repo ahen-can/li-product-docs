@@ -10,7 +10,7 @@ spec = {
   'uin_in_brochure': F('111L153V01', 'n/a', B, None, '111L153V01'),
   'product_name': F('SBI Life – Smart Invest Builder', 'n/a', P, None, 'SBI Life – Smart Invest Builder (UIN:111L153V01)'),
   'irdai_description_line': F('An Individual, Unit-Linked, Non-Participating, Life Insurance, Savings Product', 'n/a', P, None, 'An Individual, Unit-Linked, Non-Participating, Life Insurance, Savings Product'),
-  'launch_or_version_date': F('policy document Form No 859', 'n/a', P, None, 'Policy Document Form No. 841'),
+  'launch_or_version_date': F('policy document Form No 841', 'n/a', P, None, 'Policy Document Form No. 841'),
   'variants_or_plan_options': F([{'name': 'Regular / Limited pay (monthly only)', 'description': 'guaranteed additions every 5 years from year 10 plus a guaranteed addition at maturity by premium band'}], 'n/a', B, None, 'Plan Type Regular Pay / Limited Pay'),
   'target_segment_stated': NS(),
   'online_offline': F('both (available for online sale)', 'n/a', B, None, 'Note: This product is available for online sale.'),
@@ -72,7 +72,7 @@ spec = {
   'accidental_death': F('SBI Life - Accident Benefit Rider - Linked (111A042V01)', 'rider', B, None, 'Option A: Accidental Death Benefit (ADB)', quote_2='1. SBI Life - Accident Benefit Rider - Linked (UIN:111A042V01): • Option A: Accidental Death Benefit (ADB)', page_2=4),
   'riders_available': F([{'name': 'SBI Life - Accident Benefit Rider - Linked', 'UIN': '111A042V01'}, {'name': 'SBI Life - Waiver of Premium Rider - Linked', 'UIN': '111A049V01'}], 'rider', B, None, '(UIN: 111A042V01)'),
  },
- 'surrender_revival': {'lock_in_years': F(5, 'built-in', P, None, 'You can make unlimited Partial Withdraws post commencement of the 6th Policy Year.'), 'discontinuance_rules': F('IRDAI rules: Discontinued Policy Fund in lock-in, reduced paid-up after', 'built-in', P, None, 'the Death Benefit payable would be equal to the Fund Value of the Discontinued Policy Fund on date of intimation of death claim to Us'),
+ 'surrender_revival': {'lock_in_years': F(5, 'built-in', P, None, 'You can make unlimited Partial Withdraws post commencement of the 6th Policy Year.', quote_2='Lock-In Period: 5 years from the Date of Commencement of', page_2=7), 'discontinuance_rules': F('IRDAI rules: Discontinued Policy Fund in lock-in, reduced paid-up after', 'built-in', P, None, 'the Death Benefit payable would be equal to the Fund Value of the Discontinued Policy Fund on date of intimation of death claim to Us'),
                        'revival_period': NS(), 'surrender_value_rule': NS()},
 }
 build('111L153V01', spec,

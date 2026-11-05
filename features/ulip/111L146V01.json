@@ -361,7 +361,9 @@
    "doc": "Policy Document",
    "page": 31,
    "quote": "We will allow Premium Re-direction only from the beginning of the second Policy Year.",
-   "note": null
+   "note": null,
+   "quote_2": "Option of Premium Re-direction from 2nd Policy Year onwards. Part C (II) (14)",
+   "page_2": 7
   },
   "partial_withdrawals": {
    "value": "from year 6; 2 a year, 10 in the term; Rs 5,000 minimum, 15% of fund value maximum",
@@ -641,7 +643,9 @@
    "doc": "Policy Document",
    "page": 28,
    "quote": "You can withdraw post commencement of the 6th Policy Year.",
-   "note": null
+   "note": null,
+   "quote_2": "Lock-In Period: 5 years from the Date of Commencement of Part B Definition",
+   "page_2": 7
   },
   "discontinuance_rules": {
    "value": "IRDAI rules: in lock-in to the Discontinued Policy Fund, after lock-in reduced paid-up",

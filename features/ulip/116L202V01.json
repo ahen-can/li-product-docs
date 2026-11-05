@@ -887,7 +887,9 @@
    "doc": "future-wealth-gain.pdf",
    "page": 2,
    "quote": "The Policyholder will not be able to surrender or withdraw the monies invested in unit linked insurance",
-   "note": null
+   "note": null,
+   "quote_2": "discontinuance value (as surrender value) at the end of the lock-in period of five (5) policy years or",
+   "page_2": 15
   },
   "discontinuance_rules": {
    "value": "discontinuance in the first 5 years: fund less charge goes to the Discontinued Life Policy Fund, no cover; revival possible within 3 years",

@@ -61,7 +61,7 @@ spec = {
  },
  'flexibility': {
   'fund_switching': F('allowed; 4 free a year', 'optional (during term)', P, None, 'You can ask us to switch the Funds in which your Units are held.'),
-  'premium_redirection': F('any time; 4 free a year', 'optional (during term)', P, None, 'The Funds in which new Premiums are invested can be changed at any time.'),
+  'premium_redirection': F('any time; 4 free a year', 'optional (during term)', P, None, 'The Funds in which new Premiums are invested can be changed at any time.', quote_2='The Policyholder will not be charged for the first four Premium Redirection requests in each Policy year.', page_2=25),
   'partial_withdrawals': F('after 5 years and age 18; fund must stay at least 150% of AP (25% of SP)', 'optional (during term)', P, None, 'You have the option of making Partial Withdrawals at any time after the first 5 years, subject to the following conditions:'),
   'systematic_withdrawal_plan': F('SWP of a fixed amount or % at chosen intervals, after 5 policy anniversaries', 'optional (during term)', P, None, 'This partial withdrawal facility allows the Policyholder to withdraw a pre-determined absolute amount from the fund at pre-determined intervals.'),
   'top_up_premiums': F('allowed while premiums are up to date, not in the last 5 years; locked for 5 years', 'optional (during term)', P, None, 'Top-up premiums are not permitted during the last 5 years of the Policy Term.'),

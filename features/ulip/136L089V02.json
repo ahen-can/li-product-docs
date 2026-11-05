@@ -795,7 +795,9 @@
    "doc": "product-brochure.pdf",
    "page": 9,
    "quote": "before the end of the Lock-in Period",
-   "note": null
+   "note": null,
+   "quote_2": "E. Discontinuance of Premium during Lock-in Period (during ﬁrst ﬁve years):",
+   "page_2": 21
   },
   "discontinuance_rules": {
    "value": null,

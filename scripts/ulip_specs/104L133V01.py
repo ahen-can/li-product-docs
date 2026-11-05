@@ -51,7 +51,7 @@ spec = {
  },
  'benefits': {
   'death_benefit_formula': F('highest of sum assured, 105% of total premiums paid and fund value (sum assured and premiums reduced by partial withdrawals in the last 2 years)', 'built-in', B, None, 'iii. Total Fund Value (as on the date of intimation of death)'),
-  'maturity_benefit': F('fund value at maturity; settlement option up to 5 years', 'built-in', B, None, 'equal to the Fund Value, where the Fund Value will be calculated as:'),
+  'maturity_benefit': F('fund value at maturity; settlement option up to 5 years', 'built-in', B, None, 'equal to the Fund Value, where the Fund Value will be calculated as:', quote_2='Settlement Period = 5 years', page_2=20),
   'loyalty_additions': F({'band 1 (annualized premium below Rs 5 lakh)': '0.10% of fund value from the end of year 11, rising 0.05% (absolute) each year', 'band 2 (Rs 5 lakh and above)': '0.10% from the end of year 6, rising 0.05% each year', 'table': 'year 20: 0.55% (band 1) and 0.80% (band 2)'}, 'built-in', B, None,
                          'Band 1: Annualized premium is 0.10% of Fund Value shall be added from end of Year 11, Increasing by', quote_2='Band 2: Annualized premium is 5 0.10% Fund Value shall be added from end of Year 6, Increasing by 0.05%', quote_3='20 0.55% 0.80%'),
   'wealth_boosters_or_guaranteed_additions': F({'Guaranteed Wealth Booster': {'band 1': '2% of fund value at the end of years 10, 15 and 20', 'band 2': '2.5% of fund value at the end of years 10, 15 and 20'}}, 'built-in', B, None,
@@ -64,7 +64,7 @@ spec = {
   'partial_withdrawals': F({'from': 'after 5 policy years', 'frequency': 'up to 2 a year', 'minimum': 'Rs 5,000', 'maximum': '50% of fund value in a policy year; fund must stay at least one annualized premium'}, 'optional (during term)', B, None,
                            'a maximum of two partial', quote_2='The minimum amount of partial withdrawal allowed per transaction is Rs 5,000.', quote_3='allowed in any policy year is 50% of the Fund Value as on the date of partial withdrawal'),
   'systematic_withdrawal_plan': NS(), 'top_up_premiums': F('not available', 'n/a', B, None, 'Top Up Not available in this plan'),
-  'settlement_option': F('maturity proceeds in instalments for up to 5 years', 'optional (during term)', B, None, 'provided settlement option has not been exercised'),
+  'settlement_option': F('maturity proceeds in instalments for up to 5 years', 'optional (during term)', B, None, 'provided settlement option has not been exercised', quote_2='Settlement Period = 5 years', page_2=20),
   'premium_holiday_or_offset': NS(), 'increase_decrease_cover': NS(), 'change_ppt_or_term': NS(),
   'policy_loan': F('not available', 'n/a', B, None, 'Policy loan Not available in this plan'),
   'auto_portfolio_strategies': F([{'name': 'Systematic Transfer Plan'}, {'name': 'Dynamic Fund Allocation'}], 'optional (at inception)', B, None, 'investment strategies are as follows: − Systematic Transfer Plan Systematic Transfer Plan helps you'),
@@ -78,7 +78,7 @@ spec = {
  'protection_add_ons': {
   'waiver_of_premium_inbuilt': NS(), 'critical_illness': F('via rider', 'rider', B, None, 'Axis Max Life Critical Illness and Disability Secure Rider (UIN: 104A034V02)'),
   'accidental_death': F('via rider (Smart Ultra Protect, variants 2 and 3)', 'rider', B, None, 'Rider benefit variant 2 - Accidental Death Benefit'),
-  'terminal_illness': F('via rider (Smart Ultra Protect, variant 1)', 'rider', B, None, 'Term Booster with Accelerated Terminal Illness'),
+  'terminal_illness': F('via rider (Smart Ultra Protect, variant 1)', 'rider', B, None, 'Term Booster with Accelerated Terminal Illness', quote_2='• Rider benefit variant 1 - Term Booster with Accelerated Terminal Illness: provides', page_2=19),
   'spouse_or_child_cover': NS(),
   'riders_available': F(RIDERS, 'rider', B, None, 'Axis Max Life Smart Ultra Protect Rider (UIN: 104A049V03)'),
  },

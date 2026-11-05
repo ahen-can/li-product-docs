@@ -599,7 +599,9 @@
    "doc": "Policy Document",
    "page": 29,
    "quote": "You can withdraw only after completion of lock-in period i.e from 6th Policy Year.",
-   "note": null
+   "note": null,
+   "quote_2": "case may be, where applicable. The Lock in Period is the period of five consecutive completed",
+   "page_2": 35
   },
   "discontinuance_rules": {
    "value": "in lock-in: fund less discontinuance charge to the Discontinued Policy Pension Fund; after lock-in: reduced paid-up unless revived or withdrawn",

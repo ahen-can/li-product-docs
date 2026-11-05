@@ -401,7 +401,9 @@
    "doc": "invest-protect-goal-plus-sl.pdf",
    "page": 14,
    "quote": "Miscellaneous charges shall be applicable.",
-   "note": null
+   "note": null,
+   "quote_2": "The Miscellaneous Charge will be Rs.100 per applicable incidence except for switching between fund/",
+   "page_2": 12
   },
   "miscellaneous_charge": {
    "value": "Rs 100 per incidence; free for switches, partial withdrawals and top-ups",
@@ -1051,7 +1053,7 @@
    "note": null
   },
   {
-   "website_label": "Download",
+   "website_label": "Download (invest-protect-goal-plus-cis.pdf)",
    "doc_type": "CIS",
    "url": "https://www.bajajlifeinsurance.com/content/dam/balic-web/pdf/ulip/invest-protect-goal-plus-cis.pdf",
    "found_on_page_url": "https://www.bajajlifeinsurance.com/ulip-plans/invest-protect-goal-product-page.html",

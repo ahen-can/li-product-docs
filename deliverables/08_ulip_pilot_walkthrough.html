@@ -1,0 +1,572 @@
+<title>Bharti Product Suite Pilot</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;0,8..60,700;1,8..60,400&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap">
+<style>
+/* Layout: a reading report. Two-minute flow band on top, then a ~68ch column with a sticky contents rail on wide
+   screens. Excel previews look like spreadsheet snippets (column letters, gridlines, sheet tab) and link to the file. */
+:root {
+  --paper: #fbfaf6;
+  --panel: #f2efe7;
+  --sheet: #ffffff;
+  --ink: #1d1b18;
+  --muted: #655f55;
+  --rule: #ded8cb;
+  --grid: #e6e1d6;
+  --accent: #a8361f;      /* section numbers, Bharti highlights */
+  --accent-bg: #f7e6e0;
+  --calc: #0c7566;        /* calculator and checks */
+  --calc-bg: #e1f0ec;
+  --link: #2f4a9a;
+  --good: #1e7a3c; --good-bg: #e3f1e6;
+  --warn: #8a6500; --warn-bg: #f6edd2;
+  --font-display: "Source Serif 4", Georgia, "Times New Roman", serif;
+  --font-body: "Source Serif 4", Georgia, "Times New Roman", serif;
+  --font-ui: "IBM Plex Sans", -apple-system, "Segoe UI", Arial, sans-serif;
+  --font-mono: "IBM Plex Mono", ui-monospace, "SFMono-Regular", Menlo, monospace;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --paper: #14161b; --panel: #1c1f26; --sheet: #181b21; --ink: #ece7de; --muted: #a59e92; --rule: #2f333c; --grid: #2a2e36;
+    --accent: #ff8a6e; --accent-bg: #3a201a; --calc: #52d3bb; --calc-bg: #123029; --link: #9db0ff;
+    --good: #6fd58f; --good-bg: #183224; --warn: #f0c55a; --warn-bg: #352b12;
+    color-scheme: dark;
+  }
+}
+:root[data-theme="dark"] {
+  --paper: #14161b; --panel: #1c1f26; --sheet: #181b21; --ink: #ece7de; --muted: #a59e92; --rule: #2f333c; --grid: #2a2e36;
+  --accent: #ff8a6e; --accent-bg: #3a201a; --calc: #52d3bb; --calc-bg: #123029; --link: #9db0ff;
+  --good: #6fd58f; --good-bg: #183224; --warn: #f0c55a; --warn-bg: #352b12;
+  color-scheme: dark;
+}
+* { box-sizing: border-box; }
+html { scroll-behavior: smooth; }
+@media (prefers-reduced-motion: reduce) { html { scroll-behavior: auto; } }
+body {
+  background: var(--paper); color: var(--ink);
+  font-family: var(--font-body); font-size: 1.06rem; line-height: 1.6;
+  padding-left: max(16px, env(safe-area-inset-left, 0px));
+  padding-right: max(16px, env(safe-area-inset-right, 0px));
+  padding-block: 0 4rem;
+}
+a { color: var(--link); text-underline-offset: 2px; }
+a:focus-visible, button:focus-visible, input:focus-visible, textarea:focus-visible, label:focus-within { outline: 2px solid var(--accent); outline-offset: 2px; }
+h1, h2, h3 { font-family: var(--font-display); text-wrap: balance; line-height: 1.15; margin: 0; }
+h1 { font-size: clamp(2rem, 5vw, 3.1rem); font-weight: 700; letter-spacing: -.01em; }
+h2 { font-size: clamp(1.45rem, 3vw, 1.9rem); font-weight: 600; }
+h3 { font-size: 1.1rem; font-weight: 600; font-family: var(--font-ui); }
+p { margin: 0; }
+.eyebrow { font-family: var(--font-mono); font-size: .76rem; letter-spacing: .12em; text-transform: uppercase; color: var(--accent); }
+.muted { color: var(--muted); }
+.small { font-size: .9rem; }
+.mono { font-family: var(--font-mono); font-size: .86em; }
+.num { font-variant-numeric: tabular-nums; }
+.wrap { max-width: 1180px; margin: 0 auto; }
+
+/* header */
+header.top { padding-block: 2.4rem 1.2rem; display: grid; gap: .8rem; border-bottom: 1px solid var(--rule); }
+header.top .lede { font-size: 1.16rem; max-width: 46em; }
+.meta { display: flex; flex-wrap: wrap; gap: .4rem 1.2rem; font-family: var(--font-mono); font-size: .8rem; color: var(--muted); }
+
+/* two-minute flow */
+section.flow { padding-block: 1.8rem 2rem; display: grid; gap: 1.1rem; }
+.flowhead { display: flex; flex-wrap: wrap; align-items: baseline; justify-content: space-between; gap: .5rem 1rem; }
+.steps { list-style: none; margin: 0; padding: 0; display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: .7rem; counter-reset: s; }
+@media (max-width: 860px) { .steps { grid-template-columns: repeat(2, minmax(0, 1fr)); } }
+@media (max-width: 520px) { .steps { grid-template-columns: minmax(0, 1fr); } }
+.steps li { counter-increment: s; background: var(--panel); border: 1px solid var(--rule); border-radius: 6px; padding: .8rem .9rem .9rem; display: grid; gap: .35rem; align-content: start; min-width: 0; }
+.steps li::before { content: counter(s, decimal-leading-zero); font-family: var(--font-mono); font-size: .75rem; color: var(--accent); }
+.steps .t { font-family: var(--font-ui); font-weight: 600; font-size: .98rem; line-height: 1.25; }
+.steps .big { font-family: var(--font-display); font-weight: 700; font-size: 1.55rem; line-height: 1.05; font-variant-numeric: tabular-nums; }
+.steps .d { font-family: var(--font-ui); font-size: .85rem; color: var(--muted); line-height: 1.4; }
+.steps a { font-family: var(--font-ui); font-size: .8rem; }
+.headline { display: grid; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); gap: .7rem 1.4rem; padding: 1rem 1.1rem; border-left: 3px solid var(--accent); background: var(--accent-bg); border-radius: 0 6px 6px 0; }
+.headline div { font-family: var(--font-ui); font-size: .92rem; line-height: 1.45; }
+.headline b { font-weight: 600; }
+
+/* detail layout */
+.layout { display: grid; grid-template-columns: 210px minmax(0, 1fr); gap: 3rem; align-items: start; margin-top: 1rem; }
+nav.toc { position: sticky; top: calc(env(safe-area-inset-top, 0px) + 1rem); font-family: var(--font-mono); font-size: .78rem; max-height: calc(100vh - 2rem); overflow: auto; }
+nav.toc p { color: var(--muted); margin-bottom: .4rem; }
+nav.toc ol { list-style: none; margin: 0; padding: 0; display: grid; gap: .05rem; }
+nav.toc a { display: block; padding: .26rem .5rem; color: var(--muted); text-decoration: none; border-left: 2px solid var(--rule); }
+nav.toc a span { color: var(--accent); margin-right: .45rem; }
+nav.toc a:hover { color: var(--ink); border-left-color: var(--accent); }
+@media (max-width: 900px) { .layout { grid-template-columns: minmax(0, 1fr); gap: 1rem; } nav.toc { position: static; max-height: none; } nav.toc ol { grid-template-columns: repeat(auto-fill, minmax(190px, 1fr)); } }
+main { min-width: 0; display: grid; gap: 2.8rem; }
+section.step { display: grid; gap: .9rem; scroll-margin-top: 1rem; min-width: 0; }
+.sh { display: flex; gap: .8rem; align-items: baseline; border-bottom: 1px solid var(--rule); padding-bottom: .45rem; }
+.sh .n { font-family: var(--font-mono); color: var(--accent); font-size: .95rem; }
+.prose { max-width: 68ch; display: grid; gap: .75rem; }
+.prose ul { margin: 0; padding-left: 1.2rem; display: grid; gap: .3rem; }
+
+/* small figure boxes */
+.boxes { display: grid; grid-template-columns: repeat(auto-fit, minmax(160px, 1fr)); gap: .6rem; }
+.box { border: 1px solid var(--rule); border-radius: 6px; padding: .75rem .85rem; display: grid; gap: .2rem; align-content: start; background: var(--paper); min-width: 0; }
+.box .k { font-family: var(--font-ui); font-size: .8rem; color: var(--muted); text-transform: uppercase; letter-spacing: .06em; }
+.box .v { font-family: var(--font-display); font-weight: 700; font-size: 1.5rem; font-variant-numeric: tabular-nums; line-height: 1.1; }
+.box .s { font-family: var(--font-ui); font-size: .84rem; color: var(--muted); line-height: 1.4; }
+.box .b { font-family: var(--font-ui); font-size: .84rem; color: var(--accent); line-height: 1.4; }
+
+/* funnel */
+.funnel { display: grid; gap: .35rem; font-family: var(--font-ui); font-size: .9rem; }
+.funnel .row { display: grid; grid-template-columns: minmax(0, 1fr) 4.5rem; gap: .8rem; align-items: center; }
+.funnel .bar { background: var(--panel); border: 1px solid var(--rule); border-radius: 4px; overflow: hidden; }
+.funnel .bar span { display: block; padding: .38rem .6rem; background: var(--accent-bg); border-right: 2px solid var(--accent); white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+.funnel .c { font-family: var(--font-mono); text-align: right; font-variant-numeric: tabular-nums; }
+
+/* spreadsheet preview */
+.sheetwrap { display: grid; gap: .35rem; min-width: 0; }
+.sheet { overflow-x: auto; border: 1px solid var(--rule); border-radius: 6px; background: var(--sheet); }
+.sheet table { border-collapse: collapse; font-family: var(--font-ui); font-size: .8rem; width: 100%; min-width: 560px; }
+.sheet th, .sheet td { border: 1px solid var(--grid); padding: .28rem .5rem; text-align: left; vertical-align: top; }
+.sheet thead th { background: var(--panel); color: var(--muted); font-weight: 500; font-family: var(--font-mono); font-size: .72rem; text-align: center; }
+.sheet thead th:first-child, .sheet td.rn { width: 2.2rem; text-align: center; color: var(--muted); background: var(--panel); font-family: var(--font-mono); font-size: .72rem; }
+.sheet tr.hdr td:not(.rn) { font-weight: 600; background: var(--panel); }
+.sheet td.r { text-align: right; font-variant-numeric: tabular-nums; }
+.sheet tr.hl td:not(.rn) { background: var(--accent-bg); }
+.sheet tr.gap td { color: var(--muted); text-align: center; font-family: var(--font-mono); }
+.sheetfoot { display: flex; flex-wrap: wrap; justify-content: space-between; gap: .3rem 1rem; font-family: var(--font-ui); font-size: .82rem; }
+.tab { font-family: var(--font-mono); font-size: .74rem; background: var(--panel); border: 1px solid var(--rule); border-top: 0; padding: .12rem .55rem; border-radius: 0 0 4px 4px; color: var(--ink); }
+
+/* tags for feature status */
+.tag { display: inline-block; font-family: var(--font-mono); font-size: .7rem; letter-spacing: .04em; padding: .05rem .4rem; border: 1px solid currentColor; border-radius: 3px; margin: 0 .25rem .2rem 0; white-space: nowrap; }
+.t-b { color: var(--good); } .t-o { color: var(--link); } .t-r { color: var(--warn); } .t-n { color: var(--muted); } .t-q { color: var(--accent); }
+
+/* calculator diagram */
+.calcflow { display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: .5rem; counter-reset: c; }
+.calcflow div { counter-increment: c; background: var(--calc-bg); border-radius: 6px; padding: .6rem .7rem; font-family: var(--font-ui); font-size: .85rem; line-height: 1.4; min-width: 0; }
+.calcflow div::before { content: "Step " counter(c); display: block; font-family: var(--font-mono); font-size: .7rem; color: var(--calc); margin-bottom: .15rem; }
+.calcflow b { font-weight: 600; }
+
+/* plain data tables */
+.dt { overflow-x: auto; }
+.dt table { border-collapse: collapse; width: 100%; font-family: var(--font-ui); font-size: .86rem; min-width: 520px; }
+.dt th { text-align: left; font-weight: 600; border-bottom: 2px solid var(--rule); padding: .4rem .5rem; vertical-align: bottom; }
+.dt td { border-bottom: 1px solid var(--rule); padding: .4rem .5rem; vertical-align: top; }
+.dt td.r, .dt th.r { text-align: right; font-variant-numeric: tabular-nums; }
+.dt tr.hl td { background: var(--accent-bg); }
+.dt tr.tot td { font-weight: 600; background: var(--calc-bg); }
+.ok { color: var(--good); font-weight: 600; }
+
+.note { border-left: 3px solid var(--calc); background: var(--calc-bg); padding: .7rem .9rem; border-radius: 0 6px 6px 0; font-family: var(--font-ui); font-size: .9rem; line-height: 1.5; max-width: 72ch; }
+.note b { font-weight: 600; }
+.warnnote { border-left-color: var(--warn); background: var(--warn-bg); }
+
+/* checklist */
+.todo { list-style: none; margin: 0; padding: 0; display: grid; gap: .45rem; max-width: 72ch; font-family: var(--font-ui); font-size: .93rem; }
+.todo li { display: grid; grid-template-columns: 1.1rem minmax(0, 1fr); gap: .5rem; align-items: start; }
+.todo li::before { content: ""; width: .9rem; height: .9rem; border: 1.5px solid var(--muted); border-radius: 3px; margin-top: .22rem; }
+
+/* questions */
+form.qs { display: grid; gap: 1.1rem; max-width: 74ch; }
+fieldset { border: 1px solid var(--rule); border-radius: 6px; padding: .9rem 1rem 1rem; margin: 0; display: grid; gap: .55rem; background: var(--paper); min-width: 0; }
+legend { font-family: var(--font-ui); font-weight: 600; padding: 0 .3rem; font-size: .98rem; }
+fieldset .ctx { font-family: var(--font-ui); font-size: .86rem; color: var(--muted); line-height: 1.45; }
+.opts { display: grid; gap: .35rem; }
+.opts label { display: grid; grid-template-columns: 1.2rem minmax(0, 1fr); gap: .45rem; align-items: start; font-family: var(--font-ui); font-size: .9rem; line-height: 1.4; padding: .35rem .5rem; border-radius: 4px; cursor: pointer; }
+.opts label:hover { background: var(--panel); }
+.opts input { margin-top: .2rem; accent-color: var(--accent); }
+.opts b { font-family: var(--font-mono); font-weight: 500; color: var(--accent); margin-right: .3rem; }
+textarea { width: 100%; min-height: 3rem; font: inherit; font-family: var(--font-ui); font-size: .88rem; padding: .45rem .55rem; border: 1px solid var(--rule); border-radius: 4px; background: var(--sheet); color: var(--ink); resize: vertical; }
+.actions { display: flex; flex-wrap: wrap; gap: .6rem; align-items: center; }
+button { font-family: var(--font-ui); font-size: .92rem; font-weight: 600; padding: .55rem 1rem; border-radius: 5px; border: 1px solid var(--accent); background: var(--accent); color: var(--paper); cursor: pointer; }
+button.ghost { background: transparent; color: var(--accent); }
+#copied { font-family: var(--font-ui); font-size: .88rem; color: var(--good); }
+#out { min-height: 7rem; font-family: var(--font-mono); font-size: .8rem; }
+footer { margin-top: 3rem; padding-top: 1rem; border-top: 1px solid var(--rule); font-family: var(--font-ui); font-size: .84rem; color: var(--muted); display: grid; gap: .3rem; }
+</style>
+
+<div class="wrap">
+
+<header class="top">
+  <p class="eyebrow">Bharti product suite review, ULIP pilot, first draft</p>
+  <h1>Bharti product suite: the ULIP pilot</h1>
+  <p class="lede">Following our conversation on 3 November, this is my first attempt at the Bharti product suite analysis. I ran one category, ULIPs, end to end as a pilot. This page is not the analysis itself. It shows how we are working, so you can tell me whether the approach makes sense before I repeat it for protection, non-par savings, par and annuity.</p>
+  <div class="meta"><span>5 Nov 2026</span><span>2 min overview, about 6 min in full</span><span>Observations only, no recommendations yet</span><span>Files in the <a href="https://github.com/ahen-can/li-product-docs/tree/main/deliverables">li-product-docs repository</a></span></div>
+</header>
+
+<section class="flow" aria-labelledby="ov">
+  <div class="flowhead">
+    <h2 id="ov">The two-minute version</h2>
+    <span class="mono muted">Nine steps, in the order we ran them</span>
+  </div>
+  <ol class="steps">
+    <li><span class="t">Market landscape</span><span class="big">4 categories</span><span class="d">Sized Par, Non-Par, Linked and Pension &amp; Annuity for all 25 life insurers from their FY26 public disclosures: each insurer's share and each category's weight in its book.</span><a href="#s1">Section 1</a></li>
+    <li><span class="t">Bharti: product mix and trend</span><span class="big">FY21 to FY27</span><span class="d">Mapped Bharti's sales by product and category, and its six-year trend in mix, channels, persistency and expenses.</span><a href="#s2">Section 2</a></li>
+    <li><span class="t">Universal product list</span><span class="big">633 products</span><span class="d">Mapped every individual life product on sale in India, from three kinds of source, each with its UIN and category.</span><a href="#s3">Section 3</a></li>
+    <li><span class="t">Brochures and feature list v1</span><span class="big">516 brochures</span><span class="d">Downloaded the official brochure of every product from insurers' own sites, then listed which features exist across the market.</span><a href="#s4">Section 4</a></li>
+    <li><span class="t">Who to compare</span><span class="big">10 insurers</span><span class="d">Chose the ULIP market leaders, three fast-moving challengers and Bharti, using a fixed rule.</span><a href="#s5">Section 5</a></li>
+    <li><span class="t">Policy documents and feature list v3</span><span class="big">84 ULIPs</span><span class="d">Read the full policy documents of every ULIP of those 10 insurers, field by field, to see exactly what each product offers.</span><a href="#s6">Section 6</a></li>
+    <li><span class="t">Returns calculator</span><span class="big">within 0.3%</span><span class="d">Built a calculator that turns each product's charges into a net return for one standard customer, and checked it against insurer quotes.</span><a href="#s7">Section 7</a></li>
+    <li><span class="t">Shortlist</span><span class="big">84 to 14 to 5</span><span class="d">Picked the products closest to Bharti's best sellers: 14 in the comparison Excel, 5 in the deck.</span><a href="#s8">Section 8</a></li>
+    <li><span class="t">Deck and quality checks</span><span class="big">12 slides</span><span class="d">Put the findings into a short deck, and had the work checked by hand and by a separate session.</span><a href="#s9">Sections 9 and 10</a></li>
+  </ol>
+  <div class="headline">
+    <div><b>Breadth, then depth.</b> A brochure for every product to see the whole market, then full policy documents only for the insurers we chose to compare.</div>
+    <div><b>Rules, not judgement calls.</b> Insurers, products and the calculator's customer are picked by stated rules, which you can change in the questions at the end.</div>
+    <div><b>Every number has a source.</b> Each value carries its document, page and a quote, and every Excel is rebuilt by a script.</div>
+    <div><b>Checked twice.</b> A manual check of 100 products and 100 brochures, and a 255-point check by a separate session.</div>
+  </div>
+</section>
+
+<div class="layout">
+<nav class="toc" aria-label="Contents">
+  <p>The full version</p>
+  <ol>
+    <li><a href="#s1"><span>01</span>Market landscape</a></li>
+    <li><a href="#s2"><span>02</span>Bharti</a></li>
+    <li><a href="#s3"><span>03</span>Product list</a></li>
+    <li><a href="#s4"><span>04</span>Brochures, v1</a></li>
+    <li><a href="#s5"><span>05</span>Who to compare</a></li>
+    <li><a href="#s6"><span>06</span>Policy documents, v3</a></li>
+    <li><a href="#s7"><span>07</span>Calculator</a></li>
+    <li><a href="#s8"><span>08</span>Shortlist</a></li>
+    <li><a href="#s9"><span>09</span>Deck</a></li>
+    <li><a href="#s10"><span>10</span>Quality checks</a></li>
+    <li><a href="#s11"><span>11</span>Limits so far</a></li>
+    <li><a href="#s12"><span>12</span>Things to do</a></li>
+    <li><a href="#s13"><span>13</span>Questions for you</a></li>
+  </ol>
+</nav>
+
+<main>
+
+<section class="step" id="s1">
+  <div class="sh"><span class="n">01</span><h2>Market landscape by category</h2></div>
+  <div class="prose"><p>We sized four categories from the FY26 Q4 public disclosures (Form L-1-A-RA) of 25 insurers. Every insurer reconciles to its total premium.</p></div>
+  <div class="boxes">
+    <div class="box"><span class="k">Par Life</span><span class="v">₹3.50 lakh cr</span><span class="s">35% of industry</span><span class="b">Bharti: 19% of its book</span></div>
+    <div class="box"><span class="k">Non-Par Life</span><span class="v">₹2.91 lakh cr</span><span class="s">29% of industry</span><span class="b">Bharti: 62% of its book</span></div>
+    <div class="box"><span class="k">Linked</span><span class="v">₹1.77 lakh cr</span><span class="s">18% of industry</span><span class="b">Bharti: 17% of its book</span></div>
+    <div class="box"><span class="k">Pension &amp; Annuity</span><span class="v">₹1.74 lakh cr</span><span class="s">18% of industry</span><span class="b">Bharti: 2% of its book</span></div>
+  </div>
+  <div class="sheetwrap">
+    <div class="sheet"><table>
+      <thead><tr><th></th><th>A</th><th>B</th><th>D</th><th>E</th><th>F</th><th>H</th><th>I</th></tr></thead>
+      <tbody>
+        <tr class="hdr"><td class="rn">4</td><td>Rank</td><td>Insurer</td><td>FY26 premium (₹ cr)</td><td>Share</td><td>Cumulative</td><td>YoY</td><td>Linked as % of book</td></tr>
+        <tr><td class="rn">5</td><td>1</td><td>SBI Life</td><td class="r">44,071</td><td class="r">24.9%</td><td class="r">24.9%</td><td class="r">25.6%</td><td class="r">43.5%</td></tr>
+        <tr><td class="rn">6</td><td>2</td><td>ICICI Prudential Life</td><td class="r">23,974</td><td class="r">13.5%</td><td class="r">38.4%</td><td class="r">1.7%</td><td class="r">45.2%</td></tr>
+        <tr><td class="rn">7</td><td>3</td><td>HDFC Life</td><td class="r">22,778</td><td class="r">12.9%</td><td class="r">51.2%</td><td class="r">24.3%</td><td class="r">29.3%</td></tr>
+        <tr><td class="rn">8</td><td>4</td><td>LIC</td><td class="r">20,836</td><td class="r">11.8%</td><td class="r">63.0%</td><td class="r">n.a.</td><td class="r">3.9%</td></tr>
+        <tr class="gap"><td class="rn">…</td><td colspan="7">ranks 5 to 15</td></tr>
+        <tr class="hl"><td class="rn">20</td><td>16</td><td>Bharti Life</td><td class="r">562</td><td class="r">0.32%</td><td class="r"></td><td class="r">+48%</td><td class="r">17.3%</td></tr>
+      </tbody></table></div>
+    <div class="sheetfoot"><span class="tab">Linked</span><a href="https://github.com/ahen-can/li-product-docs/blob/main/deliverables/01_life_insurance_category_analysis_Q4FY26.xlsx">Open deliverable 01, one tab per category ↗</a></div>
+  </div>
+  <p class="small muted">Linked here is linked life. With linked pension the ULIP market is ₹1.94 lakh cr, the figure in the deck. Shares are on total premium, as new business is not disclosed by segment.</p>
+</section>
+
+<section class="step" id="s2">
+  <div class="sh"><span class="n">02</span><h2>Bharti: product mix and trend</h2></div>
+  <div class="prose"><p>Bharti is the focus of the whole exercise, so we mapped its own portfolio before looking at the market. We took new business by product from Bharti's product disclosure, reconciled it to its public disclosures, and placed each of its 25 products in a category. A separate session (S3) then read six years of Bharti's disclosures and annual reports to build the trend.</p></div>
+  <div class="sheetwrap">
+    <div class="sheet"><table>
+      <thead><tr><th></th><th>A</th><th>B</th><th>C</th><th>D</th><th>E</th></tr></thead>
+      <tbody>
+        <tr class="hdr"><td class="rn">106</td><td>Category</td><td>Products</td><td>Disclosed FY26 NBP (₹ cr)</td><td>Share of individual NBP</td><td>Largest disclosed product</td></tr>
+        <tr class="hl"><td class="rn">107</td><td>ULIP</td><td class="r">7</td><td class="r">212</td><td class="r">23%</td><td>Wealth Pro</td></tr>
+        <tr><td class="rn">108</td><td>Non-Par Savings</td><td class="r">8</td><td class="r">211</td><td class="r">22%</td><td>Guaranteed Wealth Pro</td></tr>
+        <tr><td class="rn">109</td><td>Par</td><td class="r">5</td><td class="r">44</td><td class="r">5%</td><td>Unnati</td></tr>
+        <tr><td class="rn">110</td><td>Annuity</td><td class="r">2</td><td class="r">38</td><td class="r">4%</td><td>Swabhimaan Retirement Plan</td></tr>
+        <tr><td class="rn">111</td><td>Protection</td><td class="r">3</td><td class="r">0</td><td class="r">0%</td><td>none disclosed</td></tr>
+        <tr><td class="rn">112</td><td>Not disclosed by product</td><td></td><td class="r">433</td><td class="r">46%</td><td></td></tr>
+        <tr class="hdr"><td class="rn">113</td><td>Total individual NBP</td><td></td><td class="r">937</td><td class="r">100%</td><td></td></tr>
+      </tbody></table></div>
+    <div class="sheetfoot"><span class="tab">Bharti portfolio</span><a href="https://github.com/ahen-can/li-product-docs/blob/main/deliverables/01_life_insurance_category_analysis_Q4FY26.xlsx">Open the Bharti portfolio tab in deliverable 01 ↗</a></div>
+  </div>
+  <div class="prose"><ul>
+    <li><b>A few products carry the sales.</b> 8 products are 54% of FY26 individual new business. Four of them launched in FY25 or FY26, and the largest, Guaranteed Wealth Pro, fell from ₹165 cr to ₹113 cr in two years.</li>
+    <li><b>ULIP is a third of new business,</b> up from 13% in FY23, led by Wealth Pro (₹82 cr) and Growth Shield Plus (₹80 cr, up 48% in its second year). No protection product is in the disclosed list.</li>
+    <li><b>Our hypotheses.</b> ULIP grew from about 10% to 17% of the book: this holds. Par halved, from 38% to 19% of premium: this holds too.</li>
+    <li><b>Fewer, larger policies, sold direct.</b> New policies fell 41% since FY21 while ticket size doubled. Agency fell from 45% to 14% of new business and Direct rose to 45%.</li>
+    <li><b>Weak persistency.</b> 13th-month persistency is 64.5%, second lowest of the 14 insurers we compared.</li>
+    <li><b>Expenses over the IRDAI limit.</b> Bharti breached the limit every year from FY21 to FY25, and IRDAI issued a show-cause notice for FY25. Expenses are 34% of premium, mostly operating costs rather than commission, against a proposed 15% limit.</li>
+  </ul></div>
+  <p class="small"><a href="https://github.com/ahen-can/li-product-docs/blob/s3-bharti-analysis/analysis/bharti/bharti_analysis.xlsx">Open S3's Bharti trend workbook ↗</a> <span class="muted">(on S3's branch, to be merged into deliverable 01)</span></p>
+</section>
+
+<section class="step" id="s3">
+  <div class="sh"><span class="n">03</span><h2>Universal product list</h2></div>
+  <div class="prose"><p>We built one list of every individual life product on sale, 633 after excluding health and other out-of-scope lines, and logged every place the sources disagree.</p></div>
+  <div class="boxes">
+    <div class="box"><span class="k">Life Insurance Council</span><span class="v">511</span><span class="s">Its consolidated list of products on sale (Sep 2026), used as the base</span></div>
+    <div class="box"><span class="k">Official lists</span><span class="v">64</span><span class="s">ICICI's and Bharti's own product lists</span></div>
+    <div class="box"><span class="k">Insurer websites</span><span class="v">58</span><span class="s">SBI and Bajaj product pages; other sites scraped to cross-check the Council list</span></div>
+  </div>
+  <div class="sheetwrap">
+    <div class="sheet"><table>
+      <thead><tr><th></th><th>B</th><th>C</th><th>D</th><th>G</th><th>I</th><th>L</th></tr></thead>
+      <tbody>
+        <tr class="hdr"><td class="rn">1</td><td>Insurer</td><td>Product name</td><td>UIN</td><td>Source of row</td><td>IRDAI description line (from brochure)</td><td>PD category</td></tr>
+        <tr class="hl"><td class="rn">181</td><td>Bharti Life</td><td>Bharti AXA Life Wealth Pro</td><td class="mono">130L100V03</td><td>Bharti official list</td><td>A unit Linked, non-participating individual life insurance plan</td><td>Linked</td></tr>
+        <tr><td class="rn">259</td><td>HDFC Life</td><td>HDFC Life Click 2 Retire Plus II</td><td class="mono">101L192V02</td><td>Life Council Sep-2026</td><td>A Unit Linked Non-Participating Individual Pension Savings Plan</td><td>Pension &amp; Annuity</td></tr>
+        <tr><td class="rn">522</td><td>SBI Life</td><td>SBI Life - Smart Fortune Builder</td><td class="mono">111L142V01</td><td>SBI website</td><td>An Individual, Unit Linked, Non-Participating, Life Insurance, Savings product</td><td>Linked</td></tr>
+      </tbody></table></div>
+    <div class="sheetfoot"><span class="tab">Products</span><a href="https://github.com/ahen-can/li-product-docs/blob/main/deliverables/02_universal_product_list.xlsx">Open deliverable 02 ↗</a></div>
+  </div>
+  <div class="note"><b>Checked by hand.</b> Shobhit checked 100 products from the list against the insurers' sites and the Council list. 4 had a different UIN version and 1 had been withdrawn.</div>
+</section>
+
+<section class="step" id="s4">
+  <div class="sh"><span class="n">04</span><h2>Brochures and feature list v1</h2></div>
+  <div class="prose"><p>Claude downloaded the official brochure for every product from each insurer's own website, and checked that each file printed the right UIN. Four insurers' sites block automated downloads.</p></div>
+  <div class="funnel" aria-label="Brochure funnel">
+    <div class="row"><div class="bar"><span style="width:100%">Products on the list</span></div><span class="c">633</span></div>
+    <div class="row"><div class="bar"><span style="width:83%">On sites we could read (ICICI, Kotak, Star Union Dai-ichi and Go Digit block)</span></div><span class="c">527</span></div>
+    <div class="row"><div class="bar"><span style="width:81.5%">Official document found</span></div><span class="c">516</span></div>
+  </div>
+  <div class="note"><b>Checked by hand.</b> Shobhit opened 100 of the brochures. 4 printed a different UIN version (for example V02 where our list has V01), and 5 were a policy document or leaflet instead of the brochure. None was for the wrong product.</div>
+  <div class="prose"><p>Claude then read all 516 documents and built <b>feature list v1</b>: which features exist in each category, how common each is, and whether Bharti has it. It shows that a feature is mentioned, not what type it is.</p></div>
+  <div class="sheetwrap">
+    <div class="sheet"><table>
+      <thead><tr><th></th><th>B</th><th>D</th><th>F</th><th>H</th></tr></thead>
+      <tbody>
+        <tr class="hdr"><td class="rn">3</td><td>Feature</td><td>ULIPs with it (of 140)</td><td>% of products</td><td>Bharti has it?</td></tr>
+        <tr><td class="rn">13</td><td>Waiver of premium (in-built, option or rider)</td><td class="r">53</td><td class="r">38%</td><td>N</td></tr>
+        <tr><td class="rn">27</td><td>Top-up premiums</td><td class="r">82</td><td class="r">59%</td><td>N</td></tr>
+        <tr><td class="rn">28</td><td>Return of mortality charges</td><td class="r">56</td><td class="r">40%</td><td>Y</td></tr>
+        <tr><td class="rn">31</td><td>Automatic portfolio strategies</td><td class="r">102</td><td class="r">73%</td><td>Y</td></tr>
+      </tbody></table></div>
+    <div class="sheetfoot"><span class="tab">ULIP</span><a href="https://github.com/ahen-can/li-product-docs/blob/main/deliverables/04_feature_list_v1.xlsx">Open feature list v1, all 5 categories ↗</a></div>
+  </div>
+</section>
+
+<section class="step" id="s5">
+  <div class="sh"><span class="n">05</span><h2>Who to compare: 10 insurers</h2></div>
+  <div class="prose"><p>There are 168 ULIPs on the list. Rather than read all of them in depth, we chose the insurers to compare with a fixed rule, then read every ULIP of those 10.</p></div>
+  <div class="boxes">
+    <div class="box"><span class="k">Leaders</span><span class="v">7</span><span class="s">The fewest insurers that make up 80% of ULIP premium: SBI, ICICI, HDFC, Tata AIA, Bajaj, Axis Max, with LIC as a reference</span></div>
+    <div class="box"><span class="k">Challengers</span><span class="v">3</span><span class="s">Smaller insurers scored on features, specialisation and growth: ABSLI, Canara HSBC, Ageas Federal</span></div>
+    <div class="box"><span class="k">Anchor</span><span class="v">Bharti</span><span class="s">Always included</span></div>
+  </div>
+  <p class="small muted">ICICI's 13 ULIPs are not in yet because its site blocks downloads. <a href="https://github.com/ahen-can/li-product-docs/blob/main/analysis/selection_framework.md">Selection framework ↗</a></p>
+</section>
+
+<section class="step" id="s6">
+  <div class="sh"><span class="n">06</span><h2>Policy documents and feature list v3</h2></div>
+  <div class="prose"><p>For the 84 ULIPs, Claude read the policy document, customer information sheet and brochure, and recorded 65 fields per product, each with document, page and a quote. Each feature is recorded as one of:</p>
+  <p><span class="tag t-b">built-in</span><span class="tag t-o">optional</span><span class="tag t-r">rider</span><span class="tag t-n">not offered</span><span class="tag t-q">not stated</span></p>
+  <p>This found what brochures miss: 31 features not in v1 (such as a refund of 118% of all charges, or plans that continue after death with premiums funded), full charge and mortality tables, and 353 corrections to v1.</p></div>
+  <p class="small"><b>What v3 shows about Bharti, early read:</b></p>
+  <div class="boxes">
+    <div class="box"><span class="k">Bharti has, most peers don't</span><span class="s">Wealth Maximizer refunds 118% of all charges. Only 4 of 84 ULIPs refund fund management charges, and 2 are Bharti's. 3 Bharti products return charges at a multiple. 6 of the 7 allow unlimited free switches; Future Invest gives 12 a year.</span></div>
+    <div class="box"><span class="k">Peers have, Bharti doesn't</span><span class="s">Waiver of premium built in or as an option (43 of 84 have it in some form; Bharti has it only through its optional Complete Shield rider), top-ups (38; six Bharti documents are silent, one says not allowed), guaranteed additions (20), a plan that continues after death (16), and pension or child ULIPs. Bharti has 8 funds against 14 to 31 at the leaders. Online terms (14) are in Wealth Pro and Grow Wealth, so v3 undercounts Bharti there.</span></div>
+  </div>
+  <div class="sheetwrap">
+    <div class="sheet"><table>
+      <thead><tr><th></th><th>B</th><th>F</th><th>G</th><th>L</th></tr></thead>
+      <tbody>
+        <tr class="hdr"><td class="rn">1</td><td>Feature</td><td>Has it (of 84)</td><td>Built-in / optional / rider</td><td>Bharti</td></tr>
+        <tr><td class="rn">11</td><td>Waiver of premium</td><td class="r">43</td><td>11 / 17 / 15</td><td>none in v3 (rider offers it)</td></tr>
+        <tr><td class="rn">26</td><td>Return of mortality charges</td><td class="r">45</td><td>44 / 1 / 0</td><td>5 of 7</td></tr>
+        <tr><td class="rn">77</td><td>Scheduled guaranteed additions <span class="muted">(new in v3)</span></td><td class="r">20</td><td>20 / 0 / 0</td><td>none</td></tr>
+      </tbody></table></div>
+    <div class="sheetfoot"><span class="tab">Features</span><a href="https://github.com/ahen-can/li-product-docs/blob/main/deliverables/05_feature_list_ulip_v3.xlsx">Open feature list v3 ↗</a></div>
+  </div>
+</section>
+
+<section class="step" id="s7">
+  <div class="sh"><span class="n">07</span><h2>Returns calculator</h2></div>
+  <div class="prose"><p>Insurers each define "net yield" differently, so we built one calculator that applies each product's published charges to the same customer, month by month:</p></div>
+  <div class="calcflow">
+    <div><b>Premium in.</b> Allocation charge taken, units bought</div>
+    <div><b>Monthly charges.</b> Admin, and mortality from the policy's own rate table</div>
+    <div><b>Fund grows</b> at 4% or 8%; fund management charge taken</div>
+    <div><b>Year end.</b> Loyalty additions, boosters and refunds added</div>
+    <div><b>Result.</b> Fund at maturity and net yield</div>
+  </div>
+  <p class="small">Standard customer: male 30, ₹1 lakh a year for 10 years, 20-year term, cover 10 times the premium, equity fund.</p>
+  <div class="note"><b>Checked by hand.</b> I entered this customer into the insurers' own premium calculators and benefit illustrations for 5 products: SBI eWealth Plus, HDFC Click 2 Wealth and three Bharti ULIPs. All five match our calculator within 0.3%.</div>
+</section>
+
+<section class="step" id="s8">
+  <div class="sh"><span class="n">08</span><h2>Shortlist: 84 to 14 to 5</h2></div>
+  <div class="prose">
+    <p>Insurers don't publish sales by product, so we matched Bharti's best sellers instead of each peer's.</p>
+    <ul>
+      <li><b>Bharti's anchors:</b> Wealth Pro and Growth Shield Plus, its two largest ULIPs, and Wealth Maximizer for its unusual refund design.</li>
+      <li><b>One product per peer,</b> the closest design: a life ULIP, regular or limited pay, sold offline, returning mortality charges where the insurer has such a plan.</li>
+      <li><b>Benchmarks:</b> two online ULIPs and LIC Index Plus.</li>
+    </ul>
+    <p>That gives 14 products in the comparison Excel. The deck puts Wealth Pro against SBI, HDFC, Tata AIA and Bajaj, the four largest private sellers with documents.</p>
+  </div>
+  <p class="small"><a href="https://github.com/ahen-can/li-product-docs/blob/main/deliverables/06_ulip_comparison_pilot.xlsx">Open the comparison workbook, 14 products with evidence ↗</a></p>
+</section>
+
+<section class="step" id="s9">
+  <div class="sh"><span class="n">09</span><h2>The deck: head to head</h2></div>
+  <div class="prose"><p>Each category ends in a short deck: the market, Bharti's position, features, returns, and where Bharti leads and trails. This is its head-to-head slide, to show the format. The findings are early observations, not recommendations.</p></div>
+  <div class="dt"><table>
+    <thead><tr><th></th><th>Bharti Wealth Pro</th><th>SBI Smart Fortune Builder</th><th>HDFC Sampoorn Nivesh Plus</th><th>Tata Smart Sampoorna Raksha Supreme</th><th>Bajaj Goal Assure IV</th></tr></thead>
+    <tbody>
+      <tr><td>Allocation charge, year 1</td><td>9%</td><td>9%</td><td>6%</td><td>12%</td><td>Nil</td></tr>
+      <tr><td>Charges returned</td><td>Mortality and allocation at maturity</td><td>None</td><td>Only in waiver-plus option</td><td>Mortality from yr 11; 2x allocation</td><td>Mortality at maturity</td></tr>
+      <tr><td>Waiver of premium</td><td>Rider only</td><td>Rider</td><td>Option</td><td>Not stated</td><td>Not stated</td></tr>
+      <tr><td>Top-ups</td><td>Not stated</td><td>No</td><td>Yes</td><td>Yes</td><td>Yes</td></tr>
+      <tr><td>Funds</td><td class="r">8</td><td class="r">14</td><td class="r">17</td><td class="r">31</td><td class="r">31</td></tr>
+      <tr class="tot"><td>Net yield at 8%</td><td class="r">6.21%</td><td class="r">6.00%</td><td class="r">6.21%</td><td class="r">not published</td><td class="r">6.72%</td></tr>
+    </tbody></table></div>
+  <p class="small muted">Net yield from our calculator, excluding GST, for the standard customer. Tata does not publish its mortality rates.</p>
+  <p class="small"><a href="https://claude.ai/artifact/K47aHoxEmo3J5AUtJ8hMWp">Open the full deck ↗</a></p>
+</section>
+
+<section class="step" id="s10">
+  <div class="sh"><span class="n">10</span><h2>Quality checks</h2></div>
+  <div class="boxes">
+    <div class="box"><span class="k">By hand (Shobhit)</span><span class="v">200</span><span class="s">100 products and 100 brochures. Only UIN versions, one withdrawn product and some wrong document types; no brochure for the wrong product</span></div>
+    <div class="box"><span class="k">Separate session (S3)</span><span class="v">255</span><span class="s">Checks of fields, features, calculator inputs and Bharti numbers: 237 pass, 8 fail, 10 unsure</span></div>
+  </div>
+  <div class="note warnnote"><b>QA caught one real error, now fixed.</b> We had assumed Bharti's disclosed products were 90% of FY26 new business. The 90% refers to FY27 sales so far; for FY26 they are 54%.</div>
+</section>
+
+<section class="step" id="s11">
+  <div class="sh"><span class="n">11</span><h2>Limits so far</h2></div>
+  <div class="prose"><ul>
+    <li><b>ICICI</b> (12.7% of ULIP premium) is not in yet; I'll analyse its ULIPs myself against the feature list.</li>
+    <li><b>Tata AIA</b> doesn't publish mortality rates, so its returns need to be added by hand.</li>
+    <li><b>8 of the 13 calculated products</b> are still to be checked by hand.</li>
+    <li><b>Peers' sales by product</b> aren't public, and market shares use total premium including renewals.</li>
+    <li><b>Fund performance and ratings</b> are not included yet.</li>
+  </ul></div>
+</section>
+
+<section class="step" id="s12">
+  <div class="sh"><span class="n">12</span><h2>Things to do</h2></div>
+  <ul class="todo">
+    <li>Review feature lists v1 and v3, and make sure I understand every feature.</li>
+    <li>Go through the comparison workbook and the calculator logic.</li>
+    <li>Check the remaining calculated products against SBI and Bajaj illustrations.</li>
+    <li>Analyse ICICI's ULIPs myself against the feature list, and add Tata's mortality rates.</li>
+    <li>Merge the Bharti trend workbook into deliverable 01 and fix the 8 QA fails.</li>
+  </ul>
+  <p class="small muted">Please treat the numbers as draft until QA and my own review are done.</p>
+</section>
+
+<section class="step" id="s13">
+  <div class="sh"><span class="n">13</span><h2>Questions for you</h2></div>
+  <div class="prose"><p>Pick an option for each, add a note if you like, then copy your answers and send them to me.</p></div>
+  <form class="qs" id="qs">
+    <fieldset>
+      <legend>1. Is this the right approach overall?</legend>
+      <div class="opts">
+        <label><input type="radio" name="q1" id="q1a" value="A. Yes, repeat it as is for the other categories"><span><b>A</b>Yes, repeat it as is for the other categories</span></label>
+        <label><input type="radio" name="q1" id="q1b" value="B. Yes, with some changes (see note)"><span><b>B</b>Yes, with some changes (see note)</span></label>
+        <label><input type="radio" name="q1" id="q1c" value="C. Change it significantly, for ULIP too"><span><b>C</b>Change it significantly, for ULIP too</span></label>
+        <label><input type="radio" name="q1" id="q1d" value="D. Let's discuss"><span><b>D</b>Let's discuss</span></label>
+      </div>
+      <textarea id="q1n" aria-label="Note for question 1" placeholder="Note (optional)"></textarea>
+    </fieldset>
+
+    <fieldset>
+      <legend>2. How we choose the insurers to compare</legend>
+      <p class="ctx">The rule has three parts. <b>Leaders:</b> rank insurers by category premium and take them until they add up to 80%. For ULIP that is SBI 27.9%, ICICI 12.7%, HDFC 12.5%, LIC 11.8%, Tata 7.2%, Bajaj 6.2%, then Axis Max 5.8%, which takes us to 84%. <b>Challengers:</b> among smaller insurers, score each out of 1 on feature richness (40%), how specialised it is in the category (30%), growth (20%) and an expert nomination (10%, not applied yet, so the scores below are out of the first three). ABSLI scored 0.88, Canara HSBC 0.77 and Ageas Federal 0.66. <b>Bharti</b> is always in, and LIC is a reference column.</p>
+      <div class="opts">
+        <label><input type="radio" name="q2" id="q2a" value="A. Keep the rule as it is"><span><b>A</b>Keep the rule as it is</span></label>
+        <label><input type="radio" name="q2" id="q2b" value="B. Keep it, but change the weights or the 80% cut-off (see note)"><span><b>B</b>Keep it, but change the weights or the 80% cut-off</span></label>
+        <label><input type="radio" name="q2" id="q2c" value="C. Simply take the top 10 by share"><span><b>C</b>Simply take the top 10 by share</span></label>
+        <label><input type="radio" name="q2" id="q2d" value="D. Let seniors and contacts name the insurers"><span><b>D</b>Let seniors and contacts name the insurers</span></label>
+      </div>
+      <textarea id="q2n" aria-label="Note for question 2" placeholder="Note (optional)"></textarea>
+    </fieldset>
+
+    <fieldset>
+      <legend>3. How we choose the peer products</legend>
+      <p class="ctx">Today: the closest design to Bharti's best sellers, because peers' product sales are not public.</p>
+      <div class="opts">
+        <label><input type="radio" name="q3" id="q3a" value="A. Closest design to Bharti's best sellers"><span><b>A</b>Closest design to Bharti's best sellers</span></label>
+        <label><input type="radio" name="q3" id="q3b" value="B. Each insurer's known flagship, from industry knowledge or contacts"><span><b>B</b>Each insurer's known flagship, from industry knowledge or contacts</span></label>
+        <label><input type="radio" name="q3" id="q3c" value="C. Both: flagship and closest design"><span><b>C</b>Both: flagship and closest design</span></label>
+      </div>
+      <textarea id="q3n" aria-label="Note for question 3" placeholder="Note (optional)"></textarea>
+    </fieldset>
+
+    <fieldset>
+      <legend>4. The calculator's customer</legend>
+      <p class="ctx">Today: male 30, ₹1 lakh a year for 10 years, 20-year term, cover 10 times the premium. Other profiles are quick to add now the calculator exists.</p>
+      <div class="opts">
+        <label><input type="radio" name="q4" id="q4a" value="A. Keep one standard customer"><span><b>A</b>Keep one standard customer</span></label>
+        <label><input type="radio" name="q4" id="q4b" value="B. Add 2-3 profiles (e.g. higher premium, age 45, a woman)"><span><b>B</b>Add 2–3 profiles (for example a higher premium, age 45, a woman)</span></label>
+        <label><input type="radio" name="q4" id="q4c" value="C. Use a different standard customer (see note)"><span><b>C</b>Use a different standard customer (see note)</span></label>
+      </div>
+      <textarea id="q4n" aria-label="Note for question 4" placeholder="Note (optional)"></textarea>
+    </fieldset>
+
+    <fieldset>
+      <legend>5. The measure of size</legend>
+      <p class="ctx">Category sizing uses total premium, including renewals; Bharti's product view uses new business premium (NBP). APE is not disclosed by product or segment.</p>
+      <div class="opts">
+        <label><input type="radio" name="q5" id="q5a" value="A. Fine as it is"><span><b>A</b>Fine as it is</span></label>
+        <label><input type="radio" name="q5" id="q5b" value="B. Push for APE through contacts"><span><b>B</b>Push for APE through contacts</span></label>
+        <label><input type="radio" name="q5" id="q5c" value="C. Add first-year premium by insurer from the Council's monthly data"><span><b>C</b>Add first-year premium by insurer from the Council's monthly data</span></label>
+      </div>
+      <textarea id="q5n" aria-label="Note for question 5" placeholder="Note (optional)"></textarea>
+    </fieldset>
+
+    <fieldset>
+      <legend>6. Scope and format for the other categories</legend>
+      <div class="opts">
+        <label><input type="radio" name="q6" id="q6a" value="A. Reuse the same 10 insurers"><span><b>A</b>Reuse the same 10 insurers</span></label>
+        <label><input type="radio" name="q6" id="q6b" value="B. Reselect per category with the same rule"><span><b>B</b>Reselect per category with the same rule (different peers for protection and annuity)</span></label>
+      </div>
+      <p class="ctx">Views you'd expect that are missing (tick any):</p>
+      <div class="opts">
+        <label><input type="checkbox" name="q6v" id="q6v1" value="distribution channel"><span>Distribution channel</span></label>
+        <label><input type="checkbox" name="q6v" id="q6v2" value="persistency"><span>Persistency</span></label>
+        <label><input type="checkbox" name="q6v" id="q6v3" value="fund performance and ratings"><span>Fund performance and ratings</span></label>
+        <label><input type="checkbox" name="q6v" id="q6v4" value="5 products in the deck and 10-15 in the Excel is not the right size"><span>5 products in the deck and 10–15 in the Excel is not the right size</span></label>
+      </div>
+      <textarea id="q6n" aria-label="Note for question 6" placeholder="Note (optional)"></textarea>
+    </fieldset>
+
+    <div class="actions">
+      <button type="submit" id="copy">Copy my answers</button>
+      <span id="copied" role="status"></span>
+    </div>
+    <textarea id="out" aria-label="Your answers" readonly hidden></textarea>
+  </form>
+</section>
+
+</main>
+</div>
+
+<footer>
+  <p>Built from the li-product-docs repository: deliverables 01 to 07, the method log in docs-internal/METHODS.md, and S3's Bharti analysis branch.</p>
+  <p>Most of this work was done by Claude sessions under my direction. Numbers are draft until QA and my review are complete.</p>
+</footer>
+
+</div>
+
+<script>
+(function () {
+  var form = document.getElementById('qs');
+  var out = document.getElementById('out');
+  var copied = document.getElementById('copied');
+  var titles = { q1: '1. Approach overall', q2: '2. Choosing insurers', q3: '3. Choosing peer products', q4: '4. Calculator customer', q5: '5. Measure of size', q6: '6. Other categories' };
+  function build() {
+    var lines = ['ULIP pilot: my answers', ''];
+    Object.keys(titles).forEach(function (q) {
+      var pick = form.querySelector('input[name="' + q + '"]:checked');
+      lines.push(titles[q] + ': ' + (pick ? pick.value : '(no answer)'));
+      if (q === 'q6') {
+        var v = Array.prototype.map.call(form.querySelectorAll('input[name="q6v"]:checked'), function (x) { return x.value; });
+        if (v.length) lines.push('   Missing views: ' + v.join(', '));
+      }
+      var n = document.getElementById(q + 'n').value.trim();
+      if (n) lines.push('   Note: ' + n);
+    });
+    return lines.join('\n');
+  }
+  form.addEventListener('submit', function (e) {
+    e.preventDefault();
+    var text = build();
+    out.value = text;
+    var fallback = function () { out.hidden = false; out.focus(); out.select(); copied.textContent = 'Select all and copy the text below.'; };
+    if (navigator.clipboard && navigator.clipboard.writeText) {
+      navigator.clipboard.writeText(text).then(function () { out.hidden = false; copied.textContent = 'Copied. Paste it into a message to me.'; }, fallback);
+    } else { fallback(); }
+  });
+})();
+</script>

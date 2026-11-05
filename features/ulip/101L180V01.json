@@ -619,7 +619,9 @@
    "doc": "HDFC Life Sampoorn Nivesh Plus 101L180V01- Policy Document",
    "page": 18,
    "quote": "The Funds in which new Premiums are invested can be changed at any time.",
-   "note": null
+   "note": null,
+   "quote_2": "Premium Redirection Charges-The Policyholder will not be charged for the first four premium redirection requests in each Policy year. Thereafter, any premium redirection request from the",
+   "page_2": 23
   },
   "partial_withdrawals": {
    "value": "after 5 years and age 18; fund must stay at least 150% of AP (25% of SP)",
@@ -914,7 +916,9 @@
    "doc": "HDFC Life Sampoorn Nivesh Plus 101L180V01- Policy Document",
    "page": 14,
    "quote": "The proceeds of the discontinued policy shall be refunded only",
-   "note": null
+   "note": null,
+   "quote_2": "Expiry Date of Lock-in Period << 5 years from RCD >>",
+   "page_2": 4
   },
   "discontinuance_rules": {
    "value": "in lock-in: fund less discontinuance charge goes to the Discontinued Policy Fund, paid after 5 years; after lock-in: reduced paid-up",

@@ -343,7 +343,9 @@
    "doc": "longlife-goal-brochure.pdf",
    "page": 12,
    "quote": "Miscellaneous charge, as mentioned in the Table of Charges given below, will be applicable for change in",
-   "note": null
+   "note": null,
+   "quote_2": "Miscellaneous A miscellaneous charge of Rs.100/-",
+   "page_2": 19
   },
   "miscellaneous_charge": {
    "value": "Rs 100 per transaction",
@@ -950,7 +952,7 @@
    "note": null
   },
   {
-   "website_label": "Download",
+   "website_label": "Download (LLG-CIS.pdf)",
    "doc_type": "CIS",
    "url": "https://www.bajajlifeinsurance.com/content/dam/balic-web/pdf/retirement-plans/LLG-CIS.pdf",
    "found_on_page_url": "https://www.bajajlifeinsurance.com/retirement-pension-plans/longlife-goal.html",

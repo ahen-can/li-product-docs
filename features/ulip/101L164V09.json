@@ -353,7 +353,9 @@
    "doc": "HDFC Life Smart Pension Plan V09- Policy Bond offline 101L164V09",
    "page": 20,
    "quote": "Switching between Funds is allowed for unlimited number of times during the Policy Term.",
-   "note": null
+   "note": null,
+   "quote_2": "d. Switching between Funds is allowed for unlimited number of times during the Policy Term.",
+   "page_2": 20
   },
   "premium_redirection": {
    "value": "any time, free",
@@ -626,7 +628,9 @@
    "doc": "HDFC Life Smart Pension Plan V09- Policy Bond offline 101L164V09",
    "page": 19,
    "quote": "Partial Withdrawal can be made only after completion of Lock-in Period subject to Policy being In",
-   "note": null
+   "note": null,
+   "quote_2": "24. Lock-in Period means the period of five consecutive completed years from the Date of",
+   "page_2": 8
   },
   "discontinuance_rules": {
    "value": "in lock-in: fund less discontinuance charge goes to the Discontinued Policy Fund Pension, paid after 5 years; after lock-in: reduced paid-up; proceeds used per annuity rules",

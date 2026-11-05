@@ -82,7 +82,7 @@ spec = {
  'protection_add_ons': {
   'waiver_of_premium_inbuilt': NS(), 'critical_illness': NS(),
   'accidental_death': F('via rider (Smart Ultra Protect, variants 2 and 3)', 'rider', B, None, 'Rider benefit variant 2 - Accidental Death Benefit'),
-  'terminal_illness': F('via rider (Smart Ultra Protect, variant 1)', 'rider', B, None, 'Term Booster with Accelerated Terminal Illness'),
+  'terminal_illness': F('via rider (Smart Ultra Protect, variant 1)', 'rider', B, None, 'Term Booster with Accelerated Terminal Illness', quote_2='• Rider benefit variant 1 - Term Booster with Accelerated Terminal Illness: provides', page_2=5),
   'spouse_or_child_cover': NS(),
   'riders_available': F(RIDERS, 'rider', B, None, 'Axis Max Life Smart Ultra Protect Rider (UIN: 104A049V03)'),
  },
