@@ -1,0 +1,170 @@
+{
+ "rider": {
+  "name": {
+   "value": "Tata AIA Life Insurance Linked Comprehensive Health Rider",
+   "status": "n/a",
+   "doc": "Brochure (user upload)",
+   "quote": "Tata AIA Life Insurance Linked Comprehensive Health Rider",
+   "note": null,
+   "page": 2,
+   "doc_path": "docs/tata-aia/riders/110A031V02/brochure.pdf"
+  },
+  "uin": {
+   "value": "110A031V02",
+   "status": "n/a",
+   "doc": "Brochure (user upload)",
+   "quote": "UIN: 110A031V02",
+   "note": "Brochure supplied by the user. The site page for this rider was not found; ULIP product pages name V02 and V03. No policy document yet.",
+   "page": 14,
+   "doc_path": "docs/tata-aia/riders/110A031V02/brochure.pdf"
+  },
+  "linked_or_non_linked": {
+   "value": "non-linked, non-participating individual health rider; separate premium",
+   "status": "n/a",
+   "doc": "Brochure (user upload)",
+   "quote": "A Non-Linked, Non- Participating Individual Health rider",
+   "note": "Named \"Linked\" because it attaches to linked ULIPs; the brochure calls it non-linked.",
+   "page": 1,
+   "doc_path": "docs/tata-aia/riders/110A031V02/brochure.pdf"
+  },
+  "attached_to_ulips": {
+   "value": "see results/ulip_rider_map.csv",
+   "status": "n/a",
+   "doc": null,
+   "quote": null,
+   "note": "",
+   "page": null,
+   "doc_path": null
+  }
+ },
+ "benefits": {
+  "waiver_of_premium": {
+   "value": "not covered",
+   "status": "not covered",
+   "doc": "Brochure (user upload)",
+   "quote": "choose multiple risk covers from a list of 5 which include disability",
+   "note": "Five options: accidental disability, multistage critical illness, cancer, cardiac and hospital cover. No premium waiver option found in the brochure.",
+   "page": 2,
+   "doc_path": "docs/tata-aia/riders/110A031V02/brochure.pdf"
+  },
+  "waiver_on_death_of_life_assured": {
+   "value": "not covered",
+   "status": "not covered",
+   "doc": "Brochure (user upload)",
+   "quote": "choose multiple risk covers from a list of 5 which include disability",
+   "note": null,
+   "page": 2,
+   "doc_path": "docs/tata-aia/riders/110A031V02/brochure.pdf"
+  },
+  "waiver_on_death_or_illness_of_proposer": {
+   "value": "not covered",
+   "status": "not covered",
+   "doc": "Brochure (user upload)",
+   "quote": "choose multiple risk covers from a list of 5 which include disability",
+   "note": null,
+   "page": 2,
+   "doc_path": "docs/tata-aia/riders/110A031V02/brochure.pdf"
+  },
+  "critical_illness": {
+   "value": "Multistage CritiCare: 39 critical illnesses with minor stage claims at 25% and major at 100% of the insured amount, multiple claims. Cancer Care: early and late stage cancers. Cardiac Care: 14 minor and 8 major cardiac ailments. Lump sum, income up to 10 years, or both.",
+   "status": "covered as an option",
+   "doc": "Brochure (user upload)",
+   "quote": "39 Critical Illness covered",
+   "note": null,
+   "page": 2,
+   "doc_path": "docs/tata-aia/riders/110A031V02/brochure.pdf"
+  },
+  "accidental_death": {
+   "value": "not covered",
+   "status": "not covered",
+   "doc": "Brochure (user upload)",
+   "quote": "choose multiple risk covers from a list of 5 which include disability",
+   "note": null,
+   "page": 2,
+   "doc_path": "docs/tata-aia/riders/110A031V02/brochure.pdf"
+  },
+  "accidental_disability": {
+   "value": "Accidental Disability Care: total and permanent disability 100%, partial permanent disability by schedule (arm 50 to 60%, leg 40 to 60%, each eye 50%, each ear 30%), multiple claims, double benefit in listed public accidents.",
+   "status": "covered as an option",
+   "doc": "Brochure (user upload)",
+   "quote": "Total and Permanent Disability 100%",
+   "note": null,
+   "page": 2,
+   "doc_path": "docs/tata-aia/riders/110A031V02/brochure.pdf"
+  },
+  "term_cover": {
+   "value": "not covered",
+   "status": "not covered",
+   "doc": "Brochure (user upload)",
+   "quote": "choose multiple risk covers from a list of 5 which include disability",
+   "note": null,
+   "page": 2,
+   "doc_path": "docs/tata-aia/riders/110A031V02/brochure.pdf"
+  },
+  "hospital_cash": {
+   "value": "HospiCare: fixed amount on hospitalisation, ICU benefit and a recuperation benefit for stays of 7 days or more.",
+   "status": "covered as an option",
+   "doc": "Brochure (user upload)",
+   "quote": "Pays fixed amount on",
+   "note": null,
+   "page": 2,
+   "doc_path": "docs/tata-aia/riders/110A031V02/brochure.pdf"
+  },
+  "other": {
+   "value": "Return of balance premium option; benefits as lump sum, income up to 10 years or both; cover can be extended to loved ones.",
+   "status": "covered as an option",
+   "doc": "Brochure (user upload)",
+   "quote": "Option to receive return of balance premiums on maturity",
+   "note": null,
+   "page": 2,
+   "doc_path": "docs/tata-aia/riders/110A031V02/brochure.pdf"
+  }
+ },
+ "terms": {
+  "rider_term": {
+   "value": "Without return of balance premium: 5 to 57 years (cancer care to 70). With return of balance premium: 10 to 57 years (cancer care to 70). Not beyond the base plan term.",
+   "status": "n/a",
+   "doc": "Brochure (user upload)",
+   "quote": "Benefit Option Terms and Premium Payment Options",
+   "note": null,
+   "page": 7,
+   "doc_path": "docs/tata-aia/riders/110A031V02/brochure.pdf"
+  },
+  "premium_paying_rules": {
+   "value": "Single, limited or regular pay (see the brochure term table). Options can be added at inception or at a policy anniversary.",
+   "status": "n/a",
+   "doc": "Brochure (user upload)",
+   "quote": "Benefit Option Terms and Premium Payment Options",
+   "note": null,
+   "page": 7,
+   "doc_path": "docs/tata-aia/riders/110A031V02/brochure.pdf"
+  },
+  "entry_age": {
+   "value": "18 to 65 years (Multistage Cancer Care from age 5); maturity age 75",
+   "status": "n/a",
+   "doc": "Brochure (user upload)",
+   "quote": "Partial Disability Benefit 18 65 75",
+   "note": null,
+   "page": 6,
+   "doc_path": "docs/tata-aia/riders/110A031V02/brochure.pdf"
+  },
+  "sum_assured_limits": {
+   "value": "Rider sum assured is the maximum of the sum assured chosen under each benefit option; see the brochure for the formula (11 times annualised premium for limited and regular pay, 105% of premiums paid).",
+   "status": "n/a",
+   "doc": "Brochure (user upload)",
+   "quote": "105% of Total Premiums Paid",
+   "note": null,
+   "page": 6,
+   "doc_path": "docs/tata-aia/riders/110A031V02/brochure.pdf"
+  },
+  "premium_deduction": {
+   "value": "not stated",
+   "status": "not stated",
+   "doc": null,
+   "quote": null,
+   "note": "The text read does not say whether the premium is separate or taken from units. Non-linked rider; assumed separate. Needs a second read.",
+   "page": null,
+   "doc_path": null
+  }
+ }
+}

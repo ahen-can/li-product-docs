@@ -9,14 +9,14 @@ Brief: `briefs/rider_discovery_brief.md`. Riders downloaded are listed in `resul
 | Bharti Life | 7 | 6 | 2 | 4 | Future Invest names none |
 | SBI Life | 7 | 5 | 2 | 4 | Smart Scholar Plus has waiver built in; Retire Smart Plus links none |
 | HDFC Life | 7 | 4 | 5 | 10 | The deep data said none of the 7 name riders; the product pages and ULIP brochures do |
-| Tata AIA | 14 | 12 | 6 | 12 | Rider pages publish newer versions than the ULIP documents name; 3 riders on the retry list |
+| Tata AIA | 14 | 12 | 7 | 13 | Rider pages publish newer versions than the ULIP documents name; OPD Care and 110A167V02 on the retry list. Linked Comprehensive Health is a brochure from a user upload |
 | Bajaj Life | 11 | 11 | 3 | 6 | Goal Based Saving III and Supreme name riders in their documents, which the deep data had missed |
 | Axis Max Life | 9 | 9 | 2 | 4 | All name both riders (Forever Young Pension only the second) |
 | LIC | 5 | 4 | 1 | 2 | New Pension Plus names none |
 | Aditya Birla Sun Life | 10 | 9 | 5 | 10 | Wealth Max Plus (109L073V05) names none |
 | Canara HSBC | 8 | 3 | 2 | 4 | The Promise series ULIPs name none |
 | Ageas Federal | 6 | 4 | 2 | 4 | Smart Growth and Golden Years name none |
-| **Total** | **84** | **67** | **30** | **60** | |
+| **Total** | **84** | **67** | **31** | **61** | |
 
 Two lists are kept. `results/riders_downloaded.csv` has one row per document stored. `results/riders_universal.csv` lists the riders each insurer publishes on its riders page, with `download_status` (downloaded, not downloaded, or retry), so the rest can be fetched later.
 
@@ -70,5 +70,5 @@ Waiver of Premium (110A026V03, total and permanent disability only, waives the b
 
 - **Bharti waiver wording.** "Future premiums for the base cover" may mean the ULIP's premium or only the rider's. Ask Bharti.
 - **Version mismatches.** Tata AIA ULIP documents name older rider versions (V02) than the site publishes (V03 to V05). The LiveWell policy bond prints V01 and its brochure V02.
-- **Retry list.** Tata Linked Comprehensive Health Rider (110A031V02 or V03), OPD Care (110A166V01), 110A167V02. Fields marked "not stated" in the rider JSONs because the text read did not show them (premium deduction for several riders) need a second read.
+- **Retry list.** OPD Care (110A166V01) and 110A167V02. The "OPD Care" file the user uploaded is a Tata AIG General Insurance rider, not Tata AIA Life. The Linked Comprehensive Health Rider (110A031V02) came from a user upload (brochure only; its policy document is still missing). Fields marked "not stated" in the rider JSONs because the text read did not show them (premium deduction for several riders) need a second read.
 - **Name quirks.** Canara's "Accidental Benefit Rider (Linked)" and Bharti's "Linked" riders are named for linked base policies, while their documents call them non-linked.

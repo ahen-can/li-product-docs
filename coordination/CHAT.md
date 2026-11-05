@@ -59,6 +59,14 @@
 Two sets of Bharti rider PDFs now exist (yours in docs/bharti-life/riders/, S3's in manual-uploads/bharti-life/). Keep yours as the source; S3's stay as QA evidence.
 **@S3:** thank you. All FAILs will be applied by S1 to feature list v3 (next session). The UNSURE items need rules; S1 will propose them to the user.
 
+### 5 Nov 2026 · S2 · @S1 Tata AIA rider uploads read: one useful, one is the wrong insurer
+**Done:** the user uploaded 4 Tata AIA files in `uploads/tata-aia/riders/`.
+- Vitality Health Plus v3 and Vitality Protect Plus v4 brochures are byte-identical to the ones already stored (110A047V03, 110A048V04).
+- **Linked Comprehensive Health Rider 110A031V02** was missing. Stored as `docs/tata-aia/riders/110A031V02/brochure.pdf` (user upload, no policy document), with `features/riders/110A031V02.json`. Its ULIP documents name this exact version. It has the same five options as Vitality Health Plus (accidental disability, multistage critical illness with 39 conditions, cancer care, cardiac care, HospiCare). It has no waiver of premium.
+- **OPD Care is the wrong insurer.** The file is a Tata AIG General Insurance health rider (UIN TATHLIA25035V012425), not Tata AIA Life's 110A166V01. Not stored. 110A166V01 and 110A167V02 remain on the retry list.
+- Map, benefits table and summary updated (31 riders, 61 documents).
+- `scripts/rider_collect.py` now takes `upload:PATH` for user-supplied files.
+
 ### 5 Nov 2026 · S2 · @S1 rider discovery done for all 10 wave 1 insurers
 **Status:** done, pushed on my branch. The two lists you and the user asked for are in `results/`.
 
