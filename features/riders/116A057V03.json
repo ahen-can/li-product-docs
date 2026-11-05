@@ -1,0 +1,170 @@
+{
+ "rider": {
+  "name": {
+   "value": "Bajaj Life Linked Accident Protection Rider II",
+   "status": "n/a",
+   "doc": "Linked Accident Protection Rider",
+   "quote": "Linked Accident Protection Rider II",
+   "note": null,
+   "page": 1,
+   "doc_path": "docs/bajaj-life/riders/116A057V03/brochure.pdf"
+  },
+  "uin": {
+   "value": "116A057V03",
+   "status": "n/a",
+   "doc": "LAPR Policy Document",
+   "quote": "116A057V03",
+   "note": null,
+   "page": 1,
+   "doc_path": "docs/bajaj-life/riders/116A057V03/policy.pdf"
+  },
+  "linked_or_non_linked": {
+   "value": "linked-base, non-participating, individual pure risk rider offering health cover and savings; separate rider premium",
+   "status": "n/a",
+   "doc": "Linked Accident Protection Rider",
+   "quote": "A Non-Participating, Linked, Individual Pure Risk offering Health Cover and Savings Rider",
+   "note": null,
+   "page": 1,
+   "doc_path": "docs/bajaj-life/riders/116A057V03/brochure.pdf"
+  },
+  "attached_to_ulips": {
+   "value": "see results/ulip_rider_map.csv",
+   "status": "n/a",
+   "doc": null,
+   "quote": null,
+   "note": "",
+   "page": null,
+   "doc_path": null
+  }
+ },
+ "benefits": {
+  "waiver_of_premium": {
+   "value": "not covered",
+   "status": "not covered",
+   "doc": "Linked Accident Protection Rider",
+   "quote": "Choice of four cover options:",
+   "note": "The rider covers accidental death and accidental total permanent disability, each with or without return of premium.",
+   "page": 2,
+   "doc_path": "docs/bajaj-life/riders/116A057V03/brochure.pdf"
+  },
+  "waiver_on_death_of_life_assured": {
+   "value": "not covered",
+   "status": "not covered",
+   "doc": "Linked Accident Protection Rider",
+   "quote": "Choice of four cover options:",
+   "note": "The rider covers accidental death and accidental total permanent disability, each with or without return of premium.",
+   "page": 2,
+   "doc_path": "docs/bajaj-life/riders/116A057V03/brochure.pdf"
+  },
+  "waiver_on_death_or_illness_of_proposer": {
+   "value": "not covered",
+   "status": "not covered",
+   "doc": "Linked Accident Protection Rider",
+   "quote": "Choice of four cover options:",
+   "note": "The rider covers accidental death and accidental total permanent disability, each with or without return of premium.",
+   "page": 2,
+   "doc_path": "docs/bajaj-life/riders/116A057V03/brochure.pdf"
+  },
+  "critical_illness": {
+   "value": "not covered",
+   "status": "not covered",
+   "doc": "Linked Accident Protection Rider",
+   "quote": "Choice of four cover options:",
+   "note": "The rider covers accidental death and accidental total permanent disability, each with or without return of premium.",
+   "page": 2,
+   "doc_path": "docs/bajaj-life/riders/116A057V03/brochure.pdf"
+  },
+  "accidental_death": {
+   "value": "Higher of the ADB sum assured or 105% of total premiums paid, as a lump sum, on death by accident (also if death follows within 180 days after the term ends). ADB cover up to 3 times the base policy sum assured. With ROP option, the premiums paid come back on survival to maturity.",
+   "status": "covered as an option",
+   "doc": "Linked Accident Protection Rider",
+   "quote": "higher of ADB Sum Assured or Guaranteed Benefit (i.e. 105% of Total Premiums Paid*) will be paid as a lumpsum",
+   "note": null,
+   "page": 3,
+   "doc_path": "docs/bajaj-life/riders/116A057V03/brochure.pdf"
+  },
+  "accidental_disability": {
+   "value": "Accidental total permanent disability benefit, with or without return of premium; ATPD sum assured at most the base policy sum assured.",
+   "status": "covered as an option",
+   "doc": "Linked Accident Protection Rider",
+   "quote": "Accidental Total Permanent Disability Benefit",
+   "note": null,
+   "page": 2,
+   "doc_path": "docs/bajaj-life/riders/116A057V03/brochure.pdf"
+  },
+  "term_cover": {
+   "value": "not covered",
+   "status": "not covered",
+   "doc": "Linked Accident Protection Rider",
+   "quote": "Choice of four cover options:",
+   "note": "The rider covers accidental death and accidental total permanent disability, each with or without return of premium.",
+   "page": 2,
+   "doc_path": "docs/bajaj-life/riders/116A057V03/brochure.pdf"
+  },
+  "hospital_cash": {
+   "value": "not covered",
+   "status": "not covered",
+   "doc": "Linked Accident Protection Rider",
+   "quote": "Choice of four cover options:",
+   "note": "The rider covers accidental death and accidental total permanent disability, each with or without return of premium.",
+   "page": 2,
+   "doc_path": "docs/bajaj-life/riders/116A057V03/brochure.pdf"
+  },
+  "other": {
+   "value": "Return of premium options on ADB and ATPD: total premiums paid on survival till maturity.",
+   "status": "covered as an option",
+   "doc": "Linked Accident Protection Rider",
+   "quote": "Return of Premium Option: Get back your Total Premiums Paid",
+   "note": null,
+   "page": 2,
+   "doc_path": "docs/bajaj-life/riders/116A057V03/brochure.pdf"
+  }
+ },
+ "terms": {
+  "rider_term": {
+   "value": "ADB and ATPD: 1 to 67 years. ADB with ROP and ATPD with ROP: 10 to 50 years. Aligned to the base policy term.",
+   "status": "n/a",
+   "doc": "Linked Accident Protection Rider",
+   "quote": "Minimum 1 year 10 years",
+   "note": null,
+   "page": 5,
+   "doc_path": "docs/bajaj-life/riders/116A057V03/brochure.pdf"
+  },
+  "premium_paying_rules": {
+   "value": "Single (1 year), limited (PPT 2 to 66, PT at least PPT + 1) or regular pay (PPT = PT, 2 to 67). For ROP options PPT 5 to 50 and PT at least PPT + 5. Frequency as base policy.",
+   "status": "n/a",
+   "doc": "Linked Accident Protection Rider",
+   "quote": "Limited Pay i.e. PPT < PT",
+   "note": null,
+   "page": 5,
+   "doc_path": "docs/bajaj-life/riders/116A057V03/brochure.pdf"
+  },
+  "entry_age": {
+   "value": "Up to 65 years (attained age); minimum maturity age 19 (28 with ROP), maximum 85",
+   "status": "n/a",
+   "doc": "Linked Accident Protection Rider",
+   "quote": "Maximum Entry Age 65 years (attained age)",
+   "note": null,
+   "page": 5,
+   "doc_path": "docs/bajaj-life/riders/116A057V03/brochure.pdf"
+  },
+  "sum_assured_limits": {
+   "value": "Minimum Rs 1,00,000 per cover option. Maximum subject to underwriting: ADB up to 3 times the base sum assured, ATPD up to the base sum assured.",
+   "status": "n/a",
+   "doc": "Linked Accident Protection Rider",
+   "quote": "for each cover option",
+   "note": null,
+   "page": 5,
+   "doc_path": "docs/bajaj-life/riders/116A057V03/brochure.pdf"
+  },
+  "premium_deduction": {
+   "value": "Collected over and above the base policy premium, as a separate rider premium. Not deducted from the fund.",
+   "status": "n/a",
+   "doc": "Linked Accident Protection Rider",
+   "quote": "Rider Premium would be collected over and above the base policy premium",
+   "note": null,
+   "page": 3,
+   "doc_path": "docs/bajaj-life/riders/116A057V03/brochure.pdf"
+  }
+ }
+}

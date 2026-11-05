@@ -1,0 +1,170 @@
+{
+ "rider": {
+  "name": {
+   "value": "Bajaj Life Care Plus Rider (linked)",
+   "status": "n/a",
+   "doc": "Brochure (ULIP linked care plus rider)",
+   "quote": "Care Plus Rider",
+   "note": null,
+   "page": 1,
+   "doc_path": "docs/bajaj-life/riders/116A059V01/brochure.pdf"
+  },
+  "uin": {
+   "value": "116A059V01",
+   "status": "n/a",
+   "doc": "Policy document",
+   "quote": "116A059V01",
+   "note": null,
+   "page": 1,
+   "doc_path": "docs/bajaj-life/riders/116A059V01/policy.pdf"
+  },
+  "linked_or_non_linked": {
+   "value": "linked-base, non-participating, individual pure risk health rider; separate rider premium",
+   "status": "n/a",
+   "doc": "Brochure (ULIP linked care plus rider)",
+   "quote": "A Non-Participating, Linked, Individual, Pure Risk Health Rider",
+   "note": null,
+   "page": 1,
+   "doc_path": "docs/bajaj-life/riders/116A059V01/brochure.pdf"
+  },
+  "attached_to_ulips": {
+   "value": "see results/ulip_rider_map.csv",
+   "status": "n/a",
+   "doc": null,
+   "quote": null,
+   "note": "",
+   "page": null,
+   "doc_path": null
+  }
+ },
+ "benefits": {
+  "waiver_of_premium": {
+   "value": "Only the rider's own future premiums are waived, for the rest of the rider premium paying term, after an accidental total permanent disability. The base policy premium is not waived.",
+   "status": "not covered",
+   "doc": "Brochure (ULIP linked care plus rider)",
+   "quote": "the rider premiums will be waived off for the remaining rider premium paying",
+   "note": "The waiver covers this rider only, so it is not a waiver of the ULIP premium.",
+   "page": 2,
+   "doc_path": "docs/bajaj-life/riders/116A059V01/brochure.pdf"
+  },
+  "waiver_on_death_of_life_assured": {
+   "value": "not covered",
+   "status": "not covered",
+   "doc": "Brochure (ULIP linked care plus rider)",
+   "quote": "The following benefits are available under each rider option:",
+   "note": "The rider gives OPD benefits, an ATPD lump sum and a waiver of its own premium on ATPD only.",
+   "page": 3,
+   "doc_path": "docs/bajaj-life/riders/116A059V01/brochure.pdf"
+  },
+  "waiver_on_death_or_illness_of_proposer": {
+   "value": "not covered",
+   "status": "not covered",
+   "doc": "Brochure (ULIP linked care plus rider)",
+   "quote": "The following benefits are available under each rider option:",
+   "note": "The rider gives OPD benefits, an ATPD lump sum and a waiver of its own premium on ATPD only.",
+   "page": 3,
+   "doc_path": "docs/bajaj-life/riders/116A059V01/brochure.pdf"
+  },
+  "critical_illness": {
+   "value": "not covered",
+   "status": "not covered",
+   "doc": "Brochure (ULIP linked care plus rider)",
+   "quote": "The following benefits are available under each rider option:",
+   "note": "The rider gives OPD benefits, an ATPD lump sum and a waiver of its own premium on ATPD only.",
+   "page": 3,
+   "doc_path": "docs/bajaj-life/riders/116A059V01/brochure.pdf"
+  },
+  "accidental_death": {
+   "value": "not covered",
+   "status": "not covered",
+   "doc": "Brochure (ULIP linked care plus rider)",
+   "quote": "The following benefits are available under each rider option:",
+   "note": "The rider gives OPD benefits, an ATPD lump sum and a waiver of its own premium on ATPD only.",
+   "page": 3,
+   "doc_path": "docs/bajaj-life/riders/116A059V01/brochure.pdf"
+  },
+  "accidental_disability": {
+   "value": "Accidental total permanent disability: an additional lump sum, in each of the five rider options. Sum assured is 1.25 times the rider premium for single pay and 10 times for limited or regular pay.",
+   "status": "covered",
+   "doc": "Brochure (ULIP linked care plus rider)",
+   "quote": "an additional lump sum is paid to provide financial security",
+   "note": null,
+   "page": 2,
+   "doc_path": "docs/bajaj-life/riders/116A059V01/brochure.pdf"
+  },
+  "term_cover": {
+   "value": "not covered",
+   "status": "not covered",
+   "doc": "Brochure (ULIP linked care plus rider)",
+   "quote": "The following benefits are available under each rider option:",
+   "note": "The rider gives OPD benefits, an ATPD lump sum and a waiver of its own premium on ATPD only.",
+   "page": 3,
+   "doc_path": "docs/bajaj-life/riders/116A059V01/brochure.pdf"
+  },
+  "hospital_cash": {
+   "value": "Out-patient benefits only (doctor consultation, lab tests, pharmacy, gym, nutritionist, preventive check-up, dental); no hospital cash.",
+   "status": "not covered",
+   "doc": "Brochure (ULIP linked care plus rider)",
+   "quote": "Out-Patient Department (OPD) benefits",
+   "note": "Not a daily hospital cash benefit.",
+   "page": 2,
+   "doc_path": "docs/bajaj-life/riders/116A059V01/brochure.pdf"
+  },
+  "other": {
+   "value": "OPD benefits grouped as health, fitness and wellness, in five rider options: Prime, Pro, Ultra, Prestige, Optima. Pharmacy and dental only under Prestige and Optima.",
+   "status": "covered",
+   "doc": "Brochure (ULIP linked care plus rider)",
+   "quote": "There are 5 Rider options available:",
+   "note": null,
+   "page": 3,
+   "doc_path": "docs/bajaj-life/riders/116A059V01/brochure.pdf"
+  }
+ },
+ "terms": {
+  "rider_term": {
+   "value": "Single premium: 1 year. Limited premium: PPT + 1 year. Regular premium: 1 year for non-annual modes, 2 years for annual. Maximum 20 years, within the base policy term.",
+   "status": "n/a",
+   "doc": "Brochure (ULIP linked care plus rider)",
+   "quote": "Maximum Rider Term",
+   "note": null,
+   "page": 7,
+   "doc_path": "docs/bajaj-life/riders/116A059V01/brochure.pdf"
+  },
+  "premium_paying_rules": {
+   "value": "Premium paying term 1 year minimum, at most equal to the rider term and consistent with the base policy. Modes follow the base policy. Rider premium is collected along with the base premium and guaranteed.",
+   "status": "n/a",
+   "doc": "Brochure (ULIP linked care plus rider)",
+   "quote": "Minimum Premium Paying Term:",
+   "note": null,
+   "page": 7,
+   "doc_path": "docs/bajaj-life/riders/116A059V01/brochure.pdf"
+  },
+  "entry_age": {
+   "value": "18 to 65 years or the base policy maximum, whichever is lower; maturity age 19 to 75",
+   "status": "n/a",
+   "doc": "Brochure (ULIP linked care plus rider)",
+   "quote": "Maximum Entry Age",
+   "note": null,
+   "page": 7,
+   "doc_path": "docs/bajaj-life/riders/116A059V01/brochure.pdf"
+  },
+  "sum_assured_limits": {
+   "value": "ATPD sum assured: 1.25 times rider premium (single pay), 10 times (limited or regular pay).",
+   "status": "n/a",
+   "doc": "Brochure (ULIP linked care plus rider)",
+   "quote": "Limited/Regular Premium 10 times rider premium",
+   "note": null,
+   "page": 7,
+   "doc_path": "docs/bajaj-life/riders/116A059V01/brochure.pdf"
+  },
+  "premium_deduction": {
+   "value": "Separate rider premium collected with the base policy premium. Not deducted from the fund.",
+   "status": "n/a",
+   "doc": "Brochure (ULIP linked care plus rider)",
+   "quote": "the rider premium as per the rider option chosen will be collected individually along with base policy premium",
+   "note": null,
+   "page": 3,
+   "doc_path": "docs/bajaj-life/riders/116A059V01/brochure.pdf"
+  }
+ }
+}

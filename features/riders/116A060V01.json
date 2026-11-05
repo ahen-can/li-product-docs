@@ -1,0 +1,170 @@
+{
+ "rider": {
+  "name": {
+   "value": "Bajaj Life Linked New Critical Illness Benefit Rider",
+   "status": "n/a",
+   "doc": "Linked new critical illness benefit rider",
+   "quote": "Linked New Critical Illness Benefit Rider",
+   "note": null,
+   "page": 1,
+   "doc_path": "docs/bajaj-life/riders/116A060V01/brochure.pdf"
+  },
+  "uin": {
+   "value": "116A060V01",
+   "status": "n/a",
+   "doc": "LCIR Policy Document",
+   "quote": "116A060V01",
+   "note": null,
+   "page": 1,
+   "doc_path": "docs/bajaj-life/riders/116A060V01/policy.pdf"
+  },
+  "linked_or_non_linked": {
+   "value": "linked-base, non-participating, individual pure risk health rider; separate rider premium",
+   "status": "n/a",
+   "doc": "Linked new critical illness benefit rider",
+   "quote": "A Linked, Non-Participating, Individual, Pure Risk Health Rider",
+   "note": null,
+   "page": 1,
+   "doc_path": "docs/bajaj-life/riders/116A060V01/brochure.pdf"
+  },
+  "attached_to_ulips": {
+   "value": "see results/ulip_rider_map.csv",
+   "status": "n/a",
+   "doc": null,
+   "quote": null,
+   "note": "",
+   "page": null,
+   "doc_path": null
+  }
+ },
+ "benefits": {
+  "waiver_of_premium": {
+   "value": "not covered",
+   "status": "not covered",
+   "doc": "Linked new critical illness benefit rider",
+   "quote": "Protection against up to 60 major Critical Illnesses (CIs)",
+   "note": "The rider pays a lump sum on critical illness only.",
+   "page": 2,
+   "doc_path": "docs/bajaj-life/riders/116A060V01/brochure.pdf"
+  },
+  "waiver_on_death_of_life_assured": {
+   "value": "not covered",
+   "status": "not covered",
+   "doc": "Linked new critical illness benefit rider",
+   "quote": "Protection against up to 60 major Critical Illnesses (CIs)",
+   "note": "The rider pays a lump sum on critical illness only.",
+   "page": 2,
+   "doc_path": "docs/bajaj-life/riders/116A060V01/brochure.pdf"
+  },
+  "waiver_on_death_or_illness_of_proposer": {
+   "value": "not covered",
+   "status": "not covered",
+   "doc": "Linked new critical illness benefit rider",
+   "quote": "Protection against up to 60 major Critical Illnesses (CIs)",
+   "note": "The rider pays a lump sum on critical illness only.",
+   "page": 2,
+   "doc_path": "docs/bajaj-life/riders/116A060V01/brochure.pdf"
+  },
+  "critical_illness": {
+   "value": "Lump sum of the rider sum assured on first diagnosis of a listed critical illness, if the life assured survives 14 days. Three options: Critical (10 conditions), Enhanced (25 conditions), Comprehensive (60 conditions).",
+   "status": "covered as an option",
+   "doc": "Linked new critical illness benefit rider",
+   "quote": "Critical (10 major CIs), Enhanced (25 major CIs), and Comprehensive (60 major CIs)",
+   "note": null,
+   "page": 2,
+   "doc_path": "docs/bajaj-life/riders/116A060V01/brochure.pdf"
+  },
+  "accidental_death": {
+   "value": "not covered",
+   "status": "not covered",
+   "doc": "Linked new critical illness benefit rider",
+   "quote": "Protection against up to 60 major Critical Illnesses (CIs)",
+   "note": "The rider pays a lump sum on critical illness only.",
+   "page": 2,
+   "doc_path": "docs/bajaj-life/riders/116A060V01/brochure.pdf"
+  },
+  "accidental_disability": {
+   "value": "not covered",
+   "status": "not covered",
+   "doc": "Linked new critical illness benefit rider",
+   "quote": "Protection against up to 60 major Critical Illnesses (CIs)",
+   "note": "The rider pays a lump sum on critical illness only.",
+   "page": 2,
+   "doc_path": "docs/bajaj-life/riders/116A060V01/brochure.pdf"
+  },
+  "term_cover": {
+   "value": "not covered",
+   "status": "not covered",
+   "doc": "Linked new critical illness benefit rider",
+   "quote": "Protection against up to 60 major Critical Illnesses (CIs)",
+   "note": "The rider pays a lump sum on critical illness only.",
+   "page": 2,
+   "doc_path": "docs/bajaj-life/riders/116A060V01/brochure.pdf"
+  },
+  "hospital_cash": {
+   "value": "not covered",
+   "status": "not covered",
+   "doc": "Linked new critical illness benefit rider",
+   "quote": "Protection against up to 60 major Critical Illnesses (CIs)",
+   "note": "The rider pays a lump sum on critical illness only.",
+   "page": 2,
+   "doc_path": "docs/bajaj-life/riders/116A060V01/brochure.pdf"
+  },
+  "other": {
+   "value": "Rider termination value under single premium payment; none under regular pay.",
+   "status": "covered",
+   "doc": "Linked new critical illness benefit rider",
+   "quote": "Rider Termination Value",
+   "note": null,
+   "page": 5,
+   "doc_path": "docs/bajaj-life/riders/116A060V01/brochure.pdf"
+  }
+ },
+ "terms": {
+  "rider_term": {
+   "value": "Minimum 1 year, maximum 30 years, within the base policy term.",
+   "status": "n/a",
+   "doc": "Linked new critical illness benefit rider",
+   "quote": "Maximum Rider Term",
+   "note": null,
+   "page": 5,
+   "doc_path": "docs/bajaj-life/riders/116A060V01/brochure.pdf"
+  },
+  "premium_paying_rules": {
+   "value": "Premium paying term 1 to 10, 12, 15, 20 years, pay till age 60, or equal to the rider term, as per the base policy.",
+   "status": "n/a",
+   "doc": "Linked new critical illness benefit rider",
+   "quote": "Pay till Age 60 and Equal to Rider Term",
+   "note": null,
+   "page": 5,
+   "doc_path": "docs/bajaj-life/riders/116A060V01/brochure.pdf"
+  },
+  "entry_age": {
+   "value": "18 to 65 years; maturity age 19 to 80",
+   "status": "n/a",
+   "doc": "Linked new critical illness benefit rider",
+   "quote": "Maximum Entry Age 65 years",
+   "note": null,
+   "page": 5,
+   "doc_path": "docs/bajaj-life/riders/116A060V01/brochure.pdf"
+  },
+  "sum_assured_limits": {
+   "value": "Minimum Rs 50,000. Maximum: not above the base policy sum assured, subject to underwriting.",
+   "status": "n/a",
+   "doc": "Linked new critical illness benefit rider",
+   "quote": "Minimum Sum Assured (Rs.) Rs. 50,000",
+   "note": null,
+   "page": 5,
+   "doc_path": "docs/bajaj-life/riders/116A060V01/brochure.pdf"
+  },
+  "premium_deduction": {
+   "value": "not stated",
+   "status": "not stated",
+   "doc": null,
+   "quote": null,
+   "note": "The text read does not say how the premium is collected. The Care Plus and Accident rider brochures say it is collected with the base premium. Needs a second read.",
+   "page": null,
+   "doc_path": null
+  }
+ }
+}
