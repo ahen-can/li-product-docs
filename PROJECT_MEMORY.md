@@ -39,7 +39,7 @@ Last updated: 4 Nov 2026 by S1 (main session). Full decision trail: `docs-intern
 ## 2a. Output size and fund data (user, 4 Nov)
 - **Deck: 5 products per category. Supporting Excel: 10 to 15 products per category.** For ULIP, choose them from the 84 deep products: Bharti's top 2 by NBP (Wealth Pro, Growth Shield Plus), each leader's and challenger's flagship, and LIC as a reference. The user's "My view" tab (deliverable 01) feeds the choice.
 - **Fund factsheets are a future integration.** For now use fund ratings. Ratings come from third parties (Value Research, Morningstar), an agreed exception to the official-sources rule, entered manually with the source named.
-- **Bharti product-level NBP is official:** sources/bharti-kpi/ (Product Performance FY24 to H2 FY27, from bhartiaxa.com/kpi-disclosures). It lists the 8 products that make up 90% of NBP. Deliverable 01 now has a "Bharti portfolio" tab built from it, and a "My view" tab for the user.
+- **Bharti product-level NBP is official, but partial:** sources/bharti-kpi/ (Product Performance FY24 to H2 FY27, from bhartiaxa.com/kpi-disclosures). It lists 8 products chosen because they make up 90% of NBP in FY 2026-27 to 30 Sep 2026 (Monthly Product Performance report, p2). For FY26 the 8 are only 53.9% of individual NBP (Rs 504.7 of Rs 937.2 cr, PD L-38 p58). Correction made 4 Nov after S3's QA; deliverable 01's Bharti portfolio tab now reconciles to the PDs.
 
 ## 3. Repos, branches and environment
 - **`ahen-can/boom`** (public): branch `ccr-b8ad4f03-rfkxka`, folder `li-category-analysis/`, holds the phase-1 workbook `life_insurance_category_analysis_Q4FY26.xlsx` and its scripts (`rows.py`, `build_data.py`, `make_xlsx.py`, `data.json`, `notes.json`).
@@ -92,7 +92,9 @@ Last updated: 4 Nov 2026 by S1 (main session). Full decision trail: `docs-intern
 7. **`for-your-attention/`** (00_ACTIONS, manual_uploads 119 rows, please_check, questions_for_seniors, reminders), **`analysis/selection_framework.md`**, the **QA pack** for Rahul (`qa/checker_guide.md` + `checker_workbook.xlsx`, 265 checks), and **`coordination/CHAT.md`**.
 
 8. **Deliverables folder** (`deliverables/`, links in its README): 01 category analysis, 02 universal product list (with a Discrepancies tab), 03 light discovery workbook, 04 feature list v1, 05 ULIP feature list v2. Rebuild 02 and 03 with `scripts/build_deliverables.py`.
-9. **ULIP deep wave 1, partly merged:** Bharti, SBI and HDFC (21 of 78) are in `features/ulip/`. Tata was in progress when S2 hit its usage limit. **ULIP feature list v2** (`analysis/feature_list_ulip_v2.xlsx`, built by `analysis/scripts/build_ulip_v2.py`) uses deep data for 21 products and v1 brochure flags for 119. Re-run it when more deep files land; the run with all 78 is v3.
+9. **ULIP deep wave 1, partly merged:** Bharti, SBI and HDFC (21 of 78) are in `features/ulip/`. Tata was in progress when S2 hit its usage limit. **ULIP feature list v2** (`analysis/feature_list_ulip_v2.xlsx`, built by `analysis/scripts/build_ulip_features.py`) uses deep data for 21 products and v1 brochure flags for 119. Re-run it when more deep files land; the run with all 78 is v3.
+
+10. **ULIP pilot complete (4 Nov):** S2's wave 1 (84 ULIPs) merged; feature list v3 (deliverable 05; new features searched in all 84 policy documents, 357 matches reviewed); selection of 14 products (`analysis/ulip_selection.md`); calculator for 14 products (5 checked against insurer figures within 0.3%); comparison workbook (deliverable 06, `analysis/scripts/build_ulip_comparison.py`); 12-slide deck (deliverable 07, https://claude.ai/artifact/3VgZFusjxhJRLpqkBeXNLU). Next: show Neha, then ICICI if documents arrive, then the next category.
 
 ## 5. Key findings so far
 - **ULIP market (FY26 linked life + linked pension, total premium ₹1.94 lakh cr; 19.6% of the industry book):**

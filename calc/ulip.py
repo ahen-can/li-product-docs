@@ -45,6 +45,9 @@ def project(uin, age=30, ap=100000, ppt=10, pt=20, gross=0.08, gst=True, trace=F
     paid = {k: 0.0 for k in ('pac', 'admin', 'mort', 'fmc')}           # charges excl. GST, whole term
     paid_ppt = {k: 0.0 for k in paid}                                     # charges during the premium term
     month_fv = []                                                         # end-of-month fund values
+    mort_hist = []                                                        # mortality charge per month (excl. GST)
+    pac_by_year = {}                                                      # allocation charge per policy year (excl. GST)
+    lag_refunded = 0.0
     rows = []
     adds_log = []
     for m in range(pt * 12):
@@ -53,7 +56,7 @@ def project(uin, age=30, ap=100000, ppt=10, pt=20, gross=0.08, gst=True, trace=F
         yc = {'pac': 0.0, 'admin': 0.0, 'mort': 0.0, 'fmc': 0.0}
         if m % 12 == 0 and y <= ppt:
             pac = yr_lookup(p['allocation_charge_pct'], y) / 100 * ap
-            yc['pac'] += pac
+            yc['pac'] += pac; pac_by_year[y] = pac
             fv += ap - pac * (1 + g)
             for s in p.get('additions', []):
                 if s['type'] == 'pct_ap_at_allocation' and y in s['years']:
@@ -66,13 +69,23 @@ def project(uin, age=30, ap=100000, ppt=10, pt=20, gross=0.08, gst=True, trace=F
                 if y >= ys: av *= (1 + adm['escalation_pa']) ** (y - ys)
         else:
             av = yr_lookup(adm['schedule'], y)
+            if adm.get('escalation_pa') and av:
+                ys = adm['escalation_from_year']
+                if y >= ys: av *= (1 + adm['escalation_pa']) ** (y - ys)
         av = min(av, adm.get('cap_per_month', 1e18))
         if adm.get('only_while_premiums_due') and y > ppt:
             av = 0.0
         sar = max(sa - fv, 0.0)
         mort = sar * q[a] / 1000 / 12
         yc['admin'] += av; yc['mort'] += mort
+        mort_hist.append(mort)
         fv -= (av + mort) * (1 + g)
+        for s in p.get('additions', []):
+            if s['type'] == 'refund_mort_lagged' and y >= s['from_year'] and y <= s.get('to_year', 999) and m - s['lag_months'] >= 0:
+                mult = yr_lookup(s['multiples'], y)
+                amt = mult * mort_hist[m - s['lag_months']]
+                if amt:
+                    fv += amt; lag_refunded += amt; adds_log.append((y, s['name'], amt))
         fv *= 1 + grow_m
         f = fv * fmc_m
         yc['fmc'] += f / (1 + g)
@@ -100,6 +113,12 @@ def project(uin, age=30, ap=100000, ppt=10, pt=20, gross=0.08, gst=True, trace=F
                     amt = sum(base[c] for c in s['charges']) * s.get('multiple', 1.0) / len(s['years'])
                 elif t == 'pct_ap_once' and y == s['year']:
                     amt = ap * s['pct'] / 100
+                elif t == 'pct_ap_years' and y in s['years']:
+                    amt = ap * s['pct_by_year'][str(y)] / 100
+                elif t == 'refund_pac_by_year' and str(y) in s['pairs']:
+                    amt = pac_by_year.get(s['pairs'][str(y)], 0.0) * s.get('multiple', 1.0)
+                elif t == 'mort_true_up_at_maturity' and last:
+                    amt = max(paid['mort'] * s['multiple'] - lag_refunded, 0.0)
                 if amt:
                     add_total += amt; adds_log.append((y, s['name'], amt))
             fv += add_total

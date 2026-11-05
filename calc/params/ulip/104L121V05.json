@@ -1,0 +1,175 @@
+{
+ "product": "Axis Max Life Flexi Wealth Advantage Plan",
+ "variant_used": "Wealth variant, limited pay 10, policy term 20, premium band 2 (Rs 1-2.5 lakh), cover 10x, High Growth II fund; Auto Debit Booster not applied",
+ "sum_assured_multiple": 10,
+ "fmc_pct": 1.35,
+ "allocation_charge_pct": [
+  [
+   1,
+   1,
+   12.0
+  ],
+  [
+   2,
+   2,
+   9.75
+  ],
+  [
+   3,
+   5,
+   4.0
+  ]
+ ],
+ "admin": {
+  "basis": "pct_ap",
+  "schedule": [
+   [
+    1,
+    10,
+    0.4
+   ],
+   [
+    11,
+    null,
+    0.0
+   ]
+  ],
+  "escalation_pa": 0.05,
+  "escalation_from_year": 7,
+  "cap_per_month": 500
+ },
+ "additions": [
+  {
+   "name": "Loyalty addition 0.50% of fund value each year from year 8 (band 2)",
+   "type": "pct_fv_end_of_year",
+   "years": [
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20
+   ],
+   "pct": 0.5
+  },
+  {
+   "name": "Return of 100% of mortality charges at maturity",
+   "type": "refund_at_maturity",
+   "charges": [
+    "mort"
+   ]
+  },
+  {
+   "name": "Return of 50% of allocation charges at maturity (band 2)",
+   "type": "refund_at_maturity",
+   "charges": [
+    "pac"
+   ],
+   "multiple": 0.5
+  }
+ ],
+ "sources": "Policy Document p.9 (premium bands, return of charges), p.10 (loyalty additions), p.37 (allocation), p.38 (admin 4.80% p.a., FMC), p.38-39 (mortality table); brochure p.4 (PPT 10 with PT 11-30)",
+ "mortality_per_1000": {
+  "0": 0.82,
+  "1": 0.82,
+  "2": 0.82,
+  "3": 0.42,
+  "4": 0.24,
+  "5": 0.17,
+  "6": 0.14,
+  "7": 0.13,
+  "8": 0.15,
+  "9": 0.19,
+  "10": 0.24,
+  "11": 0.31,
+  "12": 0.39,
+  "13": 0.47,
+  "14": 0.55,
+  "15": 0.63,
+  "16": 0.69,
+  "17": 0.75,
+  "18": 0.79,
+  "19": 0.81,
+  "20": 0.83,
+  "21": 0.84,
+  "22": 0.84,
+  "23": 0.84,
+  "24": 0.84,
+  "25": 0.84,
+  "26": 0.84,
+  "27": 0.84,
+  "28": 0.85,
+  "29": 0.86,
+  "30": 0.88,
+  "31": 0.9,
+  "32": 0.94,
+  "33": 0.98,
+  "34": 1.03,
+  "35": 1.08,
+  "36": 1.15,
+  "37": 1.22,
+  "38": 1.31,
+  "39": 1.4,
+  "40": 1.51,
+  "41": 1.63,
+  "42": 1.77,
+  "43": 1.93,
+  "44": 2.11,
+  "45": 2.32,
+  "46": 2.57,
+  "47": 2.85,
+  "48": 3.18,
+  "49": 3.56,
+  "50": 3.99,
+  "51": 4.47,
+  "52": 5.0,
+  "53": 5.56,
+  "54": 6.15,
+  "55": 6.76,
+  "56": 7.39,
+  "57": 8.03,
+  "58": 8.69,
+  "59": 9.35,
+  "60": 10.05,
+  "61": 10.77,
+  "62": 11.55,
+  "63": 12.39,
+  "64": 13.31,
+  "65": 14.34,
+  "66": 15.49,
+  "67": 16.77,
+  "68": 18.22,
+  "69": 19.84,
+  "70": 21.65,
+  "71": 23.68,
+  "72": 25.95,
+  "73": 28.47,
+  "74": 31.28,
+  "75": 34.4,
+  "76": 37.85,
+  "77": 41.68,
+  "78": 45.92,
+  "79": 50.61,
+  "80": 55.79,
+  "81": 61.5,
+  "82": 67.82,
+  "83": 74.77,
+  "84": 82.44,
+  "85": 90.88
+ },
+ "mortality_source": "policy.txt lines 1845-1900, PDF page(s) [38, 39], ages 0-85 (male / unisex table, age last birthday)",
+ "uin": "104L121V05",
+ "standard_profile": {
+  "age": 30,
+  "ap": 100000,
+  "ppt": 10,
+  "pt": 20
+ }
+}

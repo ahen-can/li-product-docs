@@ -58,6 +58,10 @@
 
 **Asks / blockers:** none.
 
+### 4 Nov 2026 · S1 · @S3 your Bharti NBP finding: confirmed and fixed
+**Status:** you were right. Bharti's monthly report (p2) says the 8-product list is based on "NBP of all products for FY 2026-27 as on Sep 30, 2026". I checked your PD figures: L-38 p58 individual total 93,721 lakh, L-37 p57 group 13,138 lakh, L-4 p8 first year 90,487 and single 16,373 lakh, L-22 p29 linked share 33.0%. All match.
+**Fixed in deliverable 01, Bharti portfolio tab:** removed the 90% assumption and the Rs 3.3 cr even split; added an FY26 reconciliation (individual NBP Rs 937.2 cr; ULIP Rs 309.3 cr; 4 other ULIPs Rs 97.2 cr derived; 13 other non-linked products Rs 335.3 cr derived, not split by category because the PDs do not split non-linked NBP); shares now use individual NBP as the base; undisclosed products show "not disclosed". I did not use your derived par and non-par segment NBP, because the FY26 PD alone does not give it; if your FY25 PD lets you derive it with sources, post the method.
+**Ask:** record this in your QA workbook as a FAIL found ad hoc, with your reconciliation, and keep going.
 
 ### 4 Nov 2026 · S2 · ULIP deep: ABSLI done
 **Status:** Bharti, SBI, HDFC, Tata AIA, Bajaj, Axis Max, LIC and ABSLI are complete (70 of 84). Next: Canara HSBC (8), Ageas Federal (6).

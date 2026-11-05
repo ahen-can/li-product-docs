@@ -31,8 +31,17 @@ N = {  # (group, uin): reason for rejecting the match
  ('mortality_as_ialm_share', '116L215V01'): 'plain 100% of IALM; not an age-banded share',
  **{('index_or_low_cost_funds', u): 'Nifty is the benchmark or the fund invests in index stocks; no index fund' for u in ['101L164V09', '101L180V01', '101L192V02', '512L354V01', '512L361V01']},
  **{('index_or_low_cost_funds', u): 'match is a worked hedging example' for u in ['104L075V11', '110L182V09']},
+ ('lower_charges_online', '110L164V11'): 'match is a note on an illustration, not a benefit',
+ **{('no_mortality_charge', u): 'clause about a nil sum at risk or the settlement period; the product charges for cover' for u in ['135L047V06', '135L053V07', '136L085V04', '136L088V02', '136L089V02', '136L093V01', '136L096V01']},
+ ('capital_or_vesting_guarantee', '135L053V07'): 'the guaranteed element is loyalty additions (counted under scheduled guaranteed additions), not the maturity value',
+ **{('mortality_as_ialm_share', u): 'plain 100% of IALM; not an age-banded share' for u in ['135L089V02', '135L100V01', '135L101V01']},
+ ('annuity_purchase_booster', '136L095V01'): 'match is a maturity booster next to annuity purchase text; no annuity booster',
+ ('allocation_above_100', '136L096V01'): 'staff-only additional allocation (counted under customer-type benefits)',
+ ('lower_charges_online', '136L096V01'): 'the extra allocation is for staff, not for online purchase',
 }
-EXTRA = [  # features found while reviewing other groups
+EXTRA = [
+ ('scheduled_guaranteed_additions', '135L053V07', 'guaranteed loyalty additions shown in the brochure illustration'),
+ ('customer_type_boosters', '136L096V01', 'additional allocation of 0.5% of premium for staff policies in years 1 to 5'),  # features found while reviewing other groups
  ('delayed_risk_start_minor', '101L180V01', 'no mortality charge until the Risk Commencement Date (minor lives)'),
  ('delayed_risk_start_minor', '101L187V04', 'no mortality charge until the Risk Commencement Date (minor lives)'),
  ('delayed_risk_start_minor', '101L191V02', 'no mortality charge until the Risk Commencement Date (minor lives)'),
