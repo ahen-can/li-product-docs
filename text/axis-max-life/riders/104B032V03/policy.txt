@@ -1,0 +1,736 @@
+            PART A
+            Welcome to Axis Max Life Insurance
+
+ate                                <Date>
+o                                  <Name of the Policyholder>
+                                   <Address 1>
+                                   <Address 2>
+                                   <City> - <Pin Code><State>
+                                    Contact No:      <Telephone number>
+                                    Email id:        <Email address>
+
+elcomeWe Wh Welcome                Dear <Name of the Policyholder>,
+                                   Thank you for choosing us as Your Life Insurance partner. We are committed to financially protect You and
+
+                                   Your Loved ones because for them                                      .
+
+                                   We request You to go through the enclosed Rider contract for Axis Max Life Group Critical Illness Secure
+                                   (Accelerated Benefit) Rider (Non Linked Non Participating Group Pure Risk Health Insurance Rider) with
+                                   Rider document number <Rider Doc No.>.
+
+
+
+             What to do in case    On examination of the Rider (enclosed herewith), if you notice any mistake or error, proceed as follows:
+             of errors             1. Contact our customer helpdesk or Your agent immediately at the details mentioned below.
+                                   2. We will rectify the mistake/error and send an updated Rider to You.
+
+             Free look             You and/or the Member, have a period of 30 (Thirty) days beginning from the date of receipt of the
+             Cancellation          Rider/Certificate of Insurance to review the terms and conditions of the Rider/Certificate of Insurance. If You/
+                                   the Member disagree to any of the terms or conditions of the Rider/Certificate of Insurance or otherwise and
+                                   has not made any claim, You/the Member have an option to cancel it by returning the Rider/Certificate of
+                                   Insurance to Us (except for the Policy / Certificate of Insurance with tenure of less than a year) by stating the
+                                   objections/reasons for such disagreement in writing.
+
+                                   Where free look cancellation is exercised by You, the Rider shall terminate immediately and all rights,
+                                   benefits and interests under the Rider shall cease immediately. However, the cover in respect of existing
+                                   Members will continue as per the terms of Certificate of Insurance. No new Member will be enrolled under
+                                   the Rider.
+
+                                   Where free look cancellation is exercised by Member, the Certificate of Insurance shall terminate
+                                   immediately and all rights, benefits and interests shall cease immediately. We will only refund the Rider
+                                   Premiums paid less proportionate risk Rider Premium for the period of cover, the expenses, if any, incurred
+                                   on medical examination of the Member(s) and stamp duty charges, if any.
+
+
+             Long term             We are committed to giving You honest advice and offering You long-term savings, protection and retirement
+             protection            solutions backed by the highest standards of customer service. We will be delighted to offer You any assistance
+                                   or clarification You may require about Your Rider or claim-related services at the address mentioned below.
+
+                                   We value your association with us and assure you the best of our service, always.
+
+                                   Yours Sincerely,
+                                   Axis Max Life Insurance Ltd.
+
+                                   <NAME>
+                                   <DESIGNATION>
+
+
+            Agent / Intermediary detail: <Name>, <Code>, <Address>, <Contact>
+            Axis Max Life Insurance Limited, Plot No. 90C, Sector 18,Udyog Vihar, Gurugram- 122015, Haryana, India
+            Regd. Office: 419, Bhai Mohan Singh Nagar, Railmajra, Tehsil Balachaur, District Nawanshahr, Punjab -144 533 Phone: 4219090
+            Fax: 4159397 (From Delhi and other cities: 0124) Customer Helpline: 1860 120 5577
+            Visit Us at: https://axismaxlife.com E-mail: service.helpdesk@axismaxlife.com
+            IRDAI Registration No: 104
+            Corporate Identity Number: U74899PB2000PLC045626
+
+
+
+
+                                                                                                       Page 1 of 16
+RIDER PREAMBLE
+
+                                             AXIS MAX LIFE INSURANCE LIMITED
+           Regd. Office: 419, Bhai Mohan Singh Nagar, Railmajra, Tehsil Balachaur, District Nawanshahr, Punjab -144 533
+
+
+                              Axis Max Life Group Critical Illness Secure (Accelerated Benefit) Rider
+                                Non Linked Non Participating Group Pure Risk Health Insurance Rider
+                                                           UIN - 104B032V03
+
+
+Axis Max Life Insurance Limited has entered this contract of insurance on the basis of the information given in the Proposal Form
+together with the Premium deposit, statements, reports or other documents and declarations received from or on behalf of the proposer
+for effecting a life insurance contract on the life of the person named in the Schedule.
+
+We agree to pay the benefits under the Rider on the happening of the insured event, while the base Policy is in force, subject to the terms
+and conditions stated herein.
+
+Axis Max Life Insurance Limited
+
+
+
+Place of Issuance: Gurugram, Haryana
+
+
+
+
+                                                                                              Page 2 of 16
+     RIDER SCHEDULE
+
+I.      DETAILS OF BASE POLICY AND RIDER
+
+      BASE POLICY – <>
+      TYPE OF BASE POLICY –
+      BASE POLICY UIN - <>
+      BASE POLICY NO: [●]
+      PROPOSAL NO:[●]
+      DATE OF PROPOSAL:[●]
+      DATE OF COMMENCEMENT OF RISK UNDER BASE POLICY: [●]
+      MASTER POLICYHOLDER:[●]
+      OFFICE DETAILS
+      BASE POLICY TERM
+      RIDER NAME –Axis Max Life Group Critical Illness Secure (Accelerated Benefit) Rider
+      TYPE OF RIDER – Non Linked Non Participating Group Pure Risk Health Insurance Rider
+      RIDER UIN – 104B032V03
+      RIDER TERM -
+      Details of Insured as at the Effective Date of Coverage: As per Register of Members provided by Master Policyholder
+      ADDRESS (For all communication purposes): Same as base Policy
+      TEL. NO.: Same as base Policy
+      MOBILE NO.: Same as base Policy
+      EMAIL: Same as base Policy
+      Maturity Date under Rider: N/A
+      Date on which Survival Benefit is payable under Rider: N/A
+      Death Benefit Option Chosen under base Policy: Decreasing Cover/ Level Cover:
+      NAME OF THE INSURANCE AGENT/ INSURANCE INTERMEDIARY:
+      INSURANCE AGENT/ INSURANCE INTERMEDIARY LICENSE NO.:
+      INSURANCE AGENT/ INSURANCE INTERMEDIARY CODE:
+      ADDRESS:
+      TEL. NO.:
+      MOBILE NO.:
+      EMAIL:
+      Details of Sales Personnel (for direct sales only):
+
+ II.      ELIGIBILITY CRITERIA
+
+     Eligibility criteria for admission to the group and other special terms and conditions [The eligibility criteria are to be
+     mentioned on a case specific basis – below is only an indicative list]
+          (i)        There must be a clear relationship between individual Members and the Master Policyholder.
+          (ii)       The Master Policyholder would be the authorized person to act on behalf of all Members of group for the purpose
+                     of this Rider.
+          (iii)      The group should not be formed for the sole purpose of taking the insurance coverage under this Rider.
+
+
+
+III.    DETAILS OF POLICY COVERAGE
+   Number of Members Admitted at the Date of Commencement of Risk /Effective Date of Coverage: [●]
+   Total Rider Sum Assured: [●]
+   Total Rider Premium: [●]
+   Extra Rider Premium: [●]
+   Total applicable Taxes, cesses and levies :[●]
+   Critical Illness coverage options: Gold/ Silver or Gold and Silver
+   Premium Mode: Single Premium
+
+
+
+
+                                                                                             Page 3 of 16
+II. Details of Members
+
+       Rider(s)           Number of   Rider Sum    Rider    Extra Rider    Applicable     Total Rider Premium
+                          Members      Assured    Premium    Premium      taxes, cesses     along with Extra
+                                        (INR)      (INR)      (INR)         & levies          Premium and
+                                                     A           B                          applicable taxes,
+                                                                             (INR)          cesses and levies
+                                                                               C                 payable
+
+                                                                                                 (INR)
+                                                                                             D= [(A+B+C)]
+
+ Axis Max Life Group
+ Critical       Illness
+ Secure (Accelerated
+ Benefit) Rider
+
+
+
+
+                                                                          Page 4 of 16
+PART B
+DEFINITIONS APPLICABLE TO YOUR RIDER
+The words and phrases listed below shall have the meanings attributed to them wherever they appear in this Rider unless the context
+otherwise requires. The words used here but not defined, will derive their meaning from the base Policy.
+1. “Accident” shall mean a sudden, unforeseen and involuntary event caused by external, violent and visible means;
+2. “Age” means Member’s age on last birthday as on the Date of Commencement of Risk;
+3. “Claimant” means Member, nominee(s) (if valid nomination is effected), assignee(s) or their heirs, legal representatives or holders
+     of a succession certificates in case nominee(s) or assignee(s) is/are not alive at the time of claim;
+4. “Critical Illness” means the first time Diagnosis of the Member with any of the illnesses or the first performance of any of the
+     certain medical procedures/surgeries, as enlisted in Annexure I to this Rider, by a Medical Practitioner in respect of the Member
+     during his lifetime.
+5. “Date of Commencement of Risk under Rider” means the date as specified in the Schedule, on which the coverage under this
+     Rider commences;
+6. “Diagnosis” or “Diagnosed” means the definitive diagnosis made by a Medical Practitioner during Rider Term, based upon
+     radiological, clinical, and histological or laboratory evidence acceptable to Us provided the same is acceptable and concurred by
+     Our appointed Medical Practitioner. In the event of any doubt regarding the appropriateness or correctness of the Diagnosis, We
+     will have the right to call for an examination of the Member and/or the evidence used in arriving at such Diagnosis, by an
+     independent expert selected by Us. The opinion of such an expert as to such Diagnosis shall be binding on both You and Us;
+7. “Extra Rider Premium” means an additional amount charged by Us, as per Our board approved Underwriting Policy, which is
+     determined on the basis of disclosures made by You including disclosures in medical examinations, if any, of the Member in relation
+     to this Rider;
+8. “Force Majeure Event” means an event by which, performance of any of Our obligations are prevented or hindered as a
+     consequence of any act of God, State, strike, lock-out, legislation or restriction by any government or other authority or any
+     circumstance beyond Our control;
+9. “Freelook” means a period of 30 days beginning from the date of receipt of the Policy/Certificate of Insurance to review the terms
+     and conditions of the Policy/Certificate of Insurance or otherwise and has not made any claim. If You/ the Member disagree with
+     any of the terms or conditions of the Policy/Certificate of Insurance, You/the Member have an option to cancel the Rider /Certificate
+     of Insurance by sending a written request to Us, by stating the reasons for such disagreement:
+     Where free look cancellation is exercised by You, the Policy shall terminate immediately and all rights, benefits and interests
+     under shall cease immediately. However, the cover in respect of existing Members will continue as per the terms of Certificate of
+     Insurance. No new Member will be enrolled under the Policy/Rider.
+     Where free look cancellation is exercised by Member, Certificate of Insurance shall terminate immediately and all rights, benefits
+     and interests shall cease immediately. We will only refund the Rider Premiums received by Us for that Member, after deducting
+     the proportionate risk Rider Premium for the period of cover, charges of stamp duty paid and the expenses incurred on medical
+     examination of the Member(s), if any.
+10. “IRDAI” means the Insurance Regulatory and Development Authority of India;
+11. “Medical Practitioner” means a person who holds a valid registration from the Medical Council of any State or Medical Council
+     of India or Council for Indian Medicine or for homeopathy set up by the Government of India or by a State Government and is
+     thereby entitled to practice medicine within its jurisdiction; and is acting within the scope and jurisdiction of license, provided such
+     Medical Practitioner is not the Member or You or spouse or is not a close family member, relative (by blood).of the Member or
+     You or is employed by either You or the Member;
+12. “Member” means the person named in the Schedule, on whose life the Rider is effected;
+13. “Policy” means the base policy contract of insurance entered into between You and Us as specified in the Schedule;
+14. “Rider” means this rider contract containing these terms and conditions;
+15. “Rider Premium” means the amount payable to Us by You and/or the Member, as the case may be to secure the benefits payable
+     under this Rider and excludes any amounts payable as applicable taxes, cesses and levies;
+16. “Rider Sum Assured” or “Sum Assured Under Health Cover” means an absolute amount of benefit which is guranteed to beome
+     payable on happening of insured health related contigency in accordance with the terms and conditions of the Rider under health
+     cover, as specified in the Certificate of Insurance, which is payable as per terms of the Rider. The Rider Sum Assured cannot exceed
+     the sum assured under the base Policy. The following Rider Sum Assured options under the base Policy shall be available under
+     this Rider to the Member:
+     i) “Decreasing Rider Sum Assured” means the Rider Sum Assured which reduces as per the schedule as specified in Certificate
+           of Insurance.
+     ii) “Level Rider Sum Assured” means the insurance cover as per the schedule specified in the Certificate of Insurance wherein
+           the Rider Sum Assured remains unchanged during the Rider Term.
+17. “Rider Term” means the term of this Rider as specified in the Schedule;
+18. “Schedule” means the Rider schedule and any endorsements attached to and forming part of the Rider and if any updated Schedule
+     is issued, then, the Schedule latest in time;
+19. “Underwriting Policy” means an underwriting policy approved by Our board of directors;
+20. “We”, “Us” or “Our” means Axis Max Life Insurance Limited; and
+21. “You”,“Your” or “Master Policyholder”means the master policyholder as named in the Schedule, who has taken this Rider from
+     Us.
+
+
+
+
+                                                                                               Page 5 of 16
+PART C
+RIDER FEATURES, BENEFITS & RIDER PREMIUM PAYMENT CONDITIONS
+
+1. ELIGIBILITY FOR RIDER BENEFITS
+1.1.  The Member must be at least of Age 18 (Eighteen) years on the Date of Commencement of Risk under Rider.
+1.2.  The Member must not be more than Age 69 (Sixty-Nine) years on the Date of Commencement of Risk under Rider.
+1.3.  The Member must not be more than Age 77 (Seventy-Seven) years on the expiry of the Rider Term.
+2.   RIDER BENEFITS
+2.1. Accelerated Critical Illness Benefit
+     2.1.1 In case the Member is Diagnosed with a Critical Illness after completion of the Waiting Period (as defined subsequently)
+            during the Rider Term, We shall on receipt of a written request from You or the insured Member, pay the applicable Rider
+            Sum Assured as specified in the Certificate of Insurance to the Member, subject to the Rider and the base Policy being in
+            force.
+     2.1.2 The benefit payable under the base Policy will be reduced to the extent of the amount already paid under the accelerated
+            Critical Illness benefit under this Rider. The reduced base sum assured as specified in the Certificate of Insurance will
+            continue until end of the base coverage term, provided the base Policy is in force.
+     2.1.3 The accelerated Critical Illness benefit does not provide for additional benefit but only accelerates the benefit payable under
+            the base Policy.
+     2.1.4 We will make payment under this Rider only once during the lifetime of a Member.
+     2.1.5 For any claim to be valid under this Rider, the incidence of the condition must be the first occurrence in the lifetime of the
+            Member.
+     2.1.6 Apart from the exclusions specified in Section 2.1.8 (exclusions applicable to this Rider) below, there are other exclusions
+            for Critical Illness as mentioned in Annexure I. For all such exclusions mentioned in Annexure I, the Member will not be
+            entitled to any accelerated Critical Illness benefit.
+     2.1.7 Coverage options
+           2.1.7.1 Thefollowing Critical Illness coverage options are available under this Rider. The Policyholder may choose any
+                   one or both of the Critical Illness coverage options under this Rider only at proposal stage for its Members:
+
+                          S.     Critical Illness      Critical Illness Covered
+                          No.    Coverage Option
+                          1      Silver Option         If this option is chosen, 10 Critical Illnesses listed under Silver Option in the
+                                                       table provided in Annexure-I shall be covered under this Rider.
+                          2      Gold Option           If this option is chosen, 20 Critical Illnesses listed under Gold Option in the table
+                                                       provided in Annexure-I shall be covered under this Rider.
+
+            2.1.7.2   The Member shall have the option to choose the coverage option only out of the Critical Illness coverage option
+                      opted by You in the Rider. For instance, if Gold option has been chosen by You then only Gold option is available
+                      to the insured Members. However, if both Silver and Gold options are chosen by You then Members may choose
+                      any one of the Critical Illness coverage option.
+     2.1.8 EXCLUSIONS APPLICABLE TO THIS RIDER
+            The following exclusions are applicable to the benefits payable under this Rider:
+            2.1.8.1 No Critical Illness benefit shall be payable if the Critical Illness is Diagnosed within 90 (Ninety) days from the
+                     Date of Commencement of Risk under Rider (“Waiting Period”). In such case the accelerated Critical Illness
+                     benefit will terminate and We will refund the Premium paid corresponding to the rider benefit.
+            2.1.8.2 No Critical Illness benefit shall be payable in respect of any Critical Illness that was Diagnosed before the Date
+                     of Commencement of Risk under Rider.
+            2.1.8.3 Other Exclusions: We shall not be liable to make any payment under this Rider if the covered Critical Illness of
+                     the Member results directly or indirectly from any one of the following clauses:
+                     i)      Any Pre-existing disease, which would mean any condition, aliment, injury or disease:
+                             a) That is/are diagnosed by a physician within 36 months prior to the effective date of this Rider i.e.,
+                                   Date of Commencement of Risk under Rider; or,
+                             b) For which medical advice or treatment was recommended by, or received from, a Physician within
+                                   36 months prior to the effective date of this Rider i.e., Date of Commencement of Risk under Rider.
+                     ii)     External congenital Anomaly which is in the visible and accessible parts of the body;
+                     iii)    The member delays medical treatment in order to circumvent the Waiting Period;
+                     iv)     intentional self-inflicted injury(ies), attempted suicide whether the Member is sane or insane;
+                     v)      alcohol or solvent abuse or taking of drugs, narcotics or psychotropic substances unless taken in
+                             accordance with the lawful directions and prescription of a Medical Practitioner;
+                     vi)     war, invasion, act of foreign enemy, hostilities (whether war be declared or not), armed or unarmed truce,
+                             civil war, mutiny, rebellion, revolution, insurrection, military or usurped power, riot or civil commotion,
+                             strikes;
+                     vii)    Taking part in any naval, military or air force operation during peace time;
+                     viii) participation by the Member in a criminal or unlawful act with criminal intent;
+
+
+
+
+                                                                                               Page 6 of 16
+                      ix)    engaging in or taking part in professional sport(s) or any hazardous pursuits, including but not limited to,
+                             diving or riding or any kind of race; underwater activities involving the use of breathing apparatus or not;
+                             martial arts; hunting; mountaineering; parachuting; bungee-jumping;
+                      x)     Disability due to post-traumatic stress disorder, chronic fatigue, chronic pain, and fibromyalgia are
+                             excluded;
+                      xi)    nuclear contamination; the radio-active, explosive or hazardous nature of nuclear fuel materials or property
+                             contaminated by nuclear fuel materials or Accident arising from such nature.
+            2.1.8.4   These exclusions are applicable only to this Rider and not to the BasePolicy.
+            2.1.8.5   If any of the exclusions is found at underwriting stage, then the Rider will not be offered. However, if any
+                      exclusion is accepted as per Underwriting Policy, the claim will not be rejected on ground of that exclusion.
+2.2. Death Benefit
+     No death benefit is payable under this Rider.
+2.3. Maturity Benefit & Survival Benefit
+     No Maturity & Survival Benefits are payable under the Rider
+2.4. Hospitalization Benefits
+     No Hospitalization benefits shall be payable under this Rider
+3    PREMIUM
+     You shall pay single Rider Premium as per the Schedule of the Rider.
+4    LAPSATION OF RIDER
+     Being a single Premium Rider, the Rider shall not lapse during the Rider Term provided this Rider and the base Policy are in force.
+5    RIDER PERIOD OF COVERAGE
+     This Rider shall run concurrently with the base Policy, unless terminated.
+
+
+
+
+                                                                                            Page 7 of 16
+PART D
+SERVICING CONDITIONS APPLICABLE TO THE RIDER
+1. SURRENDER VALUE
+1.1 If a Member surrenders the Rider cover due to any reason, a surrender value under Rider benefit would be paid. The Rider surrender
+    value payable at any point of time during Rider Term will be computed using the below formula:
+    Surrender value = 70% of Premium paid for Rider * {(Unexpired Rider Term in months) / Total Rider Term in months)} * {(Rider
+    Sum Assured applicable at time of Surrender / Rider Sum Assured at inception)}.
+1.2 The Member can surrender this Rider only when the base Policy is surrendered and not alone.
+2.   REVIVAL OF THE RIDER
+     Revival of the Rider policy is not allowed under this Rider.
+3. PAYMENT OF RIDER BENEFITS
+3.1. The benefits under this Rider shall be payable only on submission of satisfactory proof of the Member’s Diagnosis of Critical Illness
+     to Us. The benefits under this Rider shall be payable to the Member upon Your or Member’s written request and submission of the
+     required documents.
+3.2. Once the benefits under this Rider are paid to the Member, this Rider will terminate and the same shall constitute a valid discharge
+     of Our liability under this Rider.
+4. TERM, RENEWAL AND TERMINATION OF RIDER
+4.1 The Rider shall continue to be in force for the term as specified in the Schedule from the Date of Commencement of Risk.
+4.2 The insurance coverage of a Member under this Rider shall automatically terminate on the occurrence of the first of the following
+    events during the Rider Term:
+    4.2.1 the Member’s death;
+    4.2.2 on settlement of claim under this Rider;
+             on the insured Member attaining Age of 77 (Seventy-Seven) years;
+    4.2.3 any Critical Illness occurring within Waiting Period. In this case we will refund the Rider Premium paid corresponding to
+             the Rider benefit.
+    4.2.4 on termination of this Rider for the entire group.
+    4.2.5 on cancellation/ termination of the cover by Us on grounds of misstatement, fraud or non-disclosure subject to section 45
+             of the Insurance Act, 1938 as amended from time to time.
+    4.2.6 on receipt of written request from the Member for surrender under the Rider orPolicy;
+    4.2.7 on the date on which We receive a Freelook cancellation request from the Member;
+    4.2.8 on the expiry of the Rider Term for the Member;
+    4.2.9 on the date on which the base Policy has expired, cancelled or is terminated for any reason whatsoever.
+4.3 This Rider shall terminate for the entire group at Your level on the happening of the following events whichever occurs first, during
+    the Rider Term:
+    4.3.1 on the date on which We receive a Freelook cancellation request from You. However, the cover in respect of existing
+             Members will continue as per the terms of Certificate of Insurance;
+    4.3.2 on the expiry of the Rider Term;
+    4.3.3 on the date on which the base Policy has expired, or cancelled or terminated for any reason whatsoever; or
+    4.3.4 on receipt of Your written request for cancellation of this Rider after the completion of the Freelook period.
+4.4 This Rider may be terminated by either You or Us by giving 90 (Ninety) days prior written notice to the other party. In the event
+    of such termination each Member’s coverage shall continue until the date of the expiration of the Rider Term.
+4.5 Upon termination of the Rider or base Policy, no new enrolment application forms for eligible members will be accepted by us
+    from the date such termination, but all obligations in respect of the Members enrolled under the Rider or base Policy shall continue
+    until the expiry of the period of coverage of each Member or surrender of the Certificate of Insurance by the Member, whichever
+    is earlier.
+
+
+
+
+                                                                                             Page 8 of 16
+PART E
+RIDER CHARGES
+APPLICABLE FEES/ CHARGES UNDER THE RIDER
+
+This Rider is a non-linked non participating group pure risk health insurance rider, so Part E is not applicable to this Rider.
+
+
+
+
+                                                                                               Page 9 of 16
+PART F
+GENERAL TERMS & CONDITIONS OF THE RIDER
+
+These general terms and conditions are applicable in addition to the general terms and conditions of the base Policy.
+1.    TAXES
+      Same as base Policy.
+2.    GRACE PERIOD
+      No Grace Period shall be available under this Rider.
+3. CLAIM PROCEDURE
+3.1. For processing a claim request under this Rider, We must be notified in writing in respect of a claim for benefits under this Rider
+     preferably within 90 (Ninety) days from the date of Diagnosis of the Critical Illness of the Member. We may at Our discretion
+     condone the delay in notifying a claim, if it is proved by a person claiming benefits under this Rider that the delay was due to a
+     reason beyond his control, subject to such conditions as We may prescribe at the time. You should facilitate Member to file a claim
+     as per the procedure and documents prescribed by Us.
+3.2. For processing a claim request under this Rider, We will require all of the following documents:
+     3.2.1 Claimant’s statement in the prescribed form;
+     3.2.2 certificate issued by Medical Practitioner/physician’s statement certifying the Critical Illness
+     3.2.3 discharge summary / indoor case papers in case death happened due to medical reasons in a hospital;
+     3.2.4 medical booklet / CGHS card details in case of defence and central government personnel;
+     3.2.5 identity proof of the Member and the Nominee(s) bearing their photographs and signatures;
+     3.2.6 copy of bank passbook / cancelled cheque of the Claimant / Life assured with name and account number printed
+     3.2.7 Hospital treatment records of the Member; and
+     3.2.8 any other documents/information required by Us for assessing and approving the claim request.
+3.3. Claimant can download the claim request documents from Our website https://www.axismaxlife.com or can obtain the same from
+     any of Our branches and offices.
+3.4. We reserve the right to scrutinize the documents submitted by the Claimant and/or investigate the cause of Critical Illness and deny
+     the claim partially or completely on the basis of Our scrutiny of the documents or investigation, as the case may be. We shall only
+     pay the benefits under this Rider subject to Our satisfaction:
+     3.4.1 that the benefits have become payable as per the terms and conditions of this Rider; and
+     3.4.2 of the bonafides and credentials of Claimant.
+3.5. Subject to Our discretion and satisfaction, in exceptional circumstances such as on happening of a Force Majeure Event, We may
+     decide to waive all or any of the requirements mentioned in this Rider.
+3.5    The Claimant is required to intimate Us along with necessary documents as mentioned above, regarding a claim under the Policy,
+       at the earliest possible time either in person or through online mode or Our distribution channel or authorized call centre. For any
+       support or guidance in relation to claims, please contact us at Helpline No. – 1860 120 5577, Email:
+       service.helpdesk@axismaxlife.com.
+3.6 Notwithstanding anything contained in this Policy, in case of lender-borrower groups i.e. group insurance policies/schemes
+    administered by the following entities as group organizer/Master Policyholder(i) Reserve Bank of India regulated Scheduled Banks
+    (including Co-operative Banks), (ii) Non-Banking Financial Companies (NBFCs ) having Certificate of Registration from Reserve
+    Bank of India, (iii) National Housing Board (NHB) regulated Housing Finance Companies, (iv) National Minority Development
+    Finance Corporation (NMDFC) and its State channelizing agencies, and (v) Small Finance Banks regulated by Reserve Bank of
+    India (vi) mutually aided cooperative societies formed and registered under the applicable State Act concerning such Society, (vii) Microfinance
+    Companies registered under Section 8 of the Companies Act, 2013, or (viii) any other entity as may be allowed by the IRDAI, the following
+    conditions shall apply to claims payments under the Policy:
+    3.6.1 We may make the payment of outstanding loan balance amount to You by deducting from the claim proceeds payable under
+            the Policy, in accordance with the IRDAI guidelines as amended from time to time provided the Members provide
+            authorization to do so. The Members may provide the said authorization either on the Entry Date or at a later date. The
+            balance of the claim proceeds (if any) will be made to the Claimant;
+    3.6.2 You shall provide us details of the credit account statement with respect to the Members as per the guidelines issued by
+            IRDAI from time to time;
+    3.6.3 We reserve the right to
+            3.6.3.1 audit or cause an audit into the accuracy of the credit account statements of the Members in respect of which
+                       claims will be settled, on completion of every financial year and shall audit or cause an audit into the accuracy of
+                       the credit account statement of the deceased Members furnished by You; or
+            3.6.3.2 You shall provide a certification from Your internal statutory auditors that the outstanding loan balance being
+                       shown in the credit account statement/claim discharge form is correct as per the conditions governing the credit
+                       account/loan account.
+4     DECLARATION OF THE CORRECT AGE AND GENDER
+      Same as base Policy.
+5     FRAUD, MISSTATEMENT AND FORFEITURE
+      Same as base Policy.
+6     TRAVEL
+      There are no restrictions on travel.
+
+
+
+
+                                                                                                    Page 10 of 16
+7    NOMINATION
+     Same as base Policy.
+8    ASSIGNMENT
+     Assignment is not permitted under this Rider policy.
+9    RIDER CURRENCY
+     Same as base Policy.
+10 ELECTRONIC TRANSACTIONS
+   Same as base Policy.
+11 AMENDMENT
+   Same as base Policy.
+12 REGULATORY AND JUDICIAL INTERVENTION
+   Same as base Policy.
+13 FORCE MAJEURE
+   Same as base Policy.
+14 COMMUNICATION & NOTICES
+   Same as base Policy.
+15 GOVERNING LAW AND JURISDICTION
+   Same as base Policy.
+
+16    TRANSLATION
+17    Same as base Policy.
+
+
+
+
+                                                            Page 11 of 16
+      PART G
+      GRIEVANCE REDRESSAL MECHANISM & OMBUDSMAN DETAILS
+
+      Same as base Policy.
+
+
+
+
+CONFIDENTIAL
+      ANNEXURE-I
+
+      List of Critical Illness Covered and other exclusions
+
+           Options                            Silver Option                                              Gold Option
+       No. of Critical
+           Illness                                  10                                                         20
+          covered
+              1                        Cancer of specified severity                               Cancer of specified severity
+              2                            Open Chest CABG                                            Open Chest CABG
+
+              3                  Kidney Failure requiring regular dialysis                 Kidney Failure requiring regular dialysis
+
+              4                       Permanent paralysis of limbs                               Permanent paralysis of limbs
+              5                       Coma of specified severity                                 Coma of specified severity
+                          Myocardial Infarction (First Heart Attack Of Specific      Myocardial Infarction (First Heart Attack Of Specific
+              6
+                                               Severity)                                                  Severity)
+              7               Stroke Resulting in Permanent Symptoms                     Stroke Resulting in Permanent Symptoms
+
+              8                   Major organ / bone marrow transplant                       Major organ / bone marrow transplant
+
+              9                               Loss of Limbs                                              Loss of Limbs
+             10                              Surgery to Aorta                                          Surgery to Aorta
+             11                                                                                        Apallic Syndrome
+             12                                                                                      Benign Brain Tumour
+             13                                                                          Primary (Idiopathic) Pulmonary Hypertension
+             14                                                                                     End Stage Liver Failure
+             15                                                                                     End Stage Lung Failure
+
+             16                                                                       Open Heart Replacement or Repair of Heart Valves
+
+             17                                                                           Multiple Sclerosis with persisting symptoms
+             18                                                                                            Blindness
+             19                                                                                       Third degree Burns
+             20                                                                                       Major Head Trauma
+
+
+      1.   Cancer of Specified Severity
+           A malignant tumour characterised by the uncontrolled growth & spread of malignant cells with invasion & destruction of normal
+           tissues. This diagnosis must be supported by histological evidence of malignancy. The term cancer includes leukemia, lymphoma
+           and sarcoma.
+           The following are excluded –
+           a. All tumors which are histologically described as carcinoma in situ, benign, pre-malignant, borderline malignant, low malignant
+                potential, neoplasm of unknown behavior, or non-invasive, including but not limited to: Carcinoma in situ of breasts, Cervical
+                dysplasia CIN-1, CIN -2 and CIN-3.
+           b. Any non-melanoma skin carcinoma unless there is evidence of metastases to lymph nodes or beyond;
+           c. Malignant melanoma that has not caused invasion beyond the epidermis;
+           d. All tumors of the prostate unless histologically classified as having a Gleason score greater than 6 or having progressed to at
+                least clinical TNM classification T2N0M0
+           e. All Thyroid cancers histologically classified as T1N0M0 (TNM Classification) or below;
+           f. Chronic lymphocytic leukaemia less than RAI stage 3
+           g. Non-invasive papillary cancer of the bladder histologically described as TaN0M0 or of a lesser classification,
+           h. All Gastro-Intestinal Stromal Tumors histologically classified as T1N0M0 (TNM Classification) or below and with mitotic
+                count of less than or equal to 5/50 HPFs;
+
+
+
+      2.   Open Chest CABG
+           The actual undergoing of heart surgery to correct blockage or narrowing in one or more coronary artery(s), by coronary artery
+           bypass grafting done via a sternotomy (cutting through the breast bone) or minimally invasive keyhole coronary artery bypass
+
+
+
+
+CONFIDENTIAL
+           procedures. The diagnosis must be supported by a coronary angiography and the realization of surgery has to be confirmed by a
+           cardiologist.
+           The following are excluded:
+           a. Angioplasty and/or any other intra-arterial procedures
+
+      3.   Kidney Failure requiring regular dialysis
+           End stage renal disease presenting as chronic irreversible failure of both kidneys to function, as a result of which either regular
+           renal dialysis (hemodialysis or peritoneal dialysis) is instituted or renal transplantation is carried out. Diagnosis has to be confirmed
+           by a specialist medical practitioner.
+
+      4.   Permanent Paralysis of Limbs
+           Total and irreversible loss of use of two or more limbs as a result of injury or disease of the brain or spinal cord. A specialist medical
+           practitioner must be of the opinion that the paralysis will be permanent with no hope of recovery and must be present for more than
+           3 months.
+
+      5.   Primary (IDIOPATHIC) Pulmonary Hypertension
+           An unequivocal diagnosis of Primary (Idiopathic) Pulmonary Hypertension by a Cardiologist or specialist in respiratory medicine
+           with evidence of right ventricular enlargement and the pulmonary artery pressure above 30 mm of Hg on Cardiac Cauterization.
+           There must be permanent irreversible physical impairment to the degree of at least Class IV of the New York Heart Association
+           Classification (NYHA) of cardiac impairment.
+           The NYHA Classification of Cardiac Impairment are as follows:
+           a. Class III: Marked limitation of physical activity. Comfortable at rest, but less than ordinary activity causes symptoms.
+           b. Class IV: Unable to engage in any physical activity without discomfort. Symptoms may be present even at rest.
+           Pulmonary hypertension associated with lung disease, chronic hypoventilation, pulmonary thromboembolic disease, drugs and
+           toxins, diseases of the left side of the heart, congenital heart disease and any secondary cause are specifically excluded.
+
+      6.   Myocardial Infarction (First Heart Attack of Specific Severity)
+           The first occurrence of heart attack or myocardial infarction, which means the death of a portion of the heart muscle as a result of
+           inadequate blood supply to the relevant area. The diagnosis for Myocardial Infarction should be evidenced by all of the following
+           criteria:
+           a. a history of typical clinical symptoms consistent with the diagnosis of Acute Myocardial Infarction (for e.g. typical chest pain)
+           b. new characteristic electrocardiogram changes
+           c. elevation of infarction specific enzymes, Troponins or other specific biochemical markers.
+           The following are excluded:
+           a. Other acute Coronary Syndromes
+           b. Any type of angina pectoris
+           c. A rise in cardiac biomarkers or Troponin T or I in absence of overt ischemic heart disease OR following an intra-arterial
+                 cardiac procedure
+
+      7.   Stroke resulting in permanent symptoms
+           Any cerebrovascular incident producing permanent neurological sequelae. This includes infarction of brain tissue, thrombosis in
+           an intracranial vessel, haemorrhage and embolisation from an extracranial source.Diagnosis has to be confirmed by a specialist
+           medical practitioner and evidenced by typical clinical symptoms as well as typical findings in CT Scan or MRI of the brain.
+           Evidence of permanent neurological deficit lasting for at least 3 months has to be produced.
+           The following are excluded:
+           i.        Transient ischemic attacks (TIA)
+           ii.       Traumatic injury of the brain
+           iii.      Vascular disease affecting only the eye or optic nerve or vestibular functions.
+
+      8.   Major Organ/Bone Marrow Transplant
+           The actual undergoing of a transplant of:
+           a. One of the following human organs: heart, lung, liver, kidney, pancreas, that resulted from irreversible end-stage failure of the
+                relevant organ, or
+           b. Human bone marrow using haematopoietic stem cells. The undergoing of a transplant has to be confirmed by a specialist
+                medical practitioner.
+           The following are excluded:
+           a. Other stem-cell transplants
+           b. Where only Islets of Langerhans are transplanted
+
+      9.   Multiple Sclerosis with Persisting Symptoms
+           The unequivocal diagnosis of Definite Multiple Sclerosis confirmed and evidenced by all of the following:
+           1. investigations including typical MRI findings which unequivocally confirm the diagnosis to be multiple sclerosis and;
+           2. there must be current clinical impairment of motor or sensory function, which must have persisted for a continuous period of
+               at least 6 months
+           Neurological damage due to SLE is excluded.
+
+      10. Surgery to Aorta
+
+
+
+
+CONFIDENTIAL
+           Undergoing of a laporotomy or thoracotomy to repair or correct an aneurysm, narrowing, obstruction or dissection of the aortic
+           artery. For this definition, aorta means the thoracic and abdominal aorta but not its branches. Surgery performed using only
+           minimally invasive or intra-arterial techniques such as percutaneous endovascular aneurysm repair are excluded.
+
+      11. Apallic Syndrome
+          Universal necrosis of the brain cortex with the brain stem remaining intact. The definite diagnosis must be confirmed by a consultant
+          neurologist and this condition has to be medically documented for at least one (1) month with no hope of recovery.
+
+      12. Benign Brain Tumour
+          Benign Brain Tumour is defined as a life threatening, non-cancerous tumor in the brain, cranial nerves or meninges within the skull.
+          The presence of the underlying tumor must be confirmed by imaging studies such as CT scan or MRI.
+          This brain tumor must result in at least one of the following and must be confirmed by the relevant medical specialist:
+          a. Permanent Neurological deficit with persisting clinical symptoms for a continuous period of at least 90 consecutive days or
+          b. Undergone surgical resection or radiation therapy to treat the brain tumor.
+          The following conditions are excluded:
+          a. Cysts, Granulomas, malformations in the arteries or veins of the brain, hematomas, abscesses, pituitary tumors, tumors of skull
+             bones and tumors of the spinal cord.
+
+      13. Coma of specified Severity
+          A state of unconsciousness with no reaction or response to external stimuli or internal needs. This diagnosis must be supported by
+          evidence of all of the following:
+          i.        No response to external stimuli continuously for at least 96 hours;
+          ii.       Life support measures are necessary to sustain life; and
+          iii.      Permanent neurological deficit which must be assessed at least 30 days after the onset of the coma.
+          The condition has to be confirmed by a specialist medical practitioner. Coma resulting from alcohol or drug abuse is excluded.
+
+      14. End Stage Liver Failure
+          Permanent and irreversible failure of liver function that has resulted in all three of the following:
+          1. permanent jaundice; and
+          2. ascites; and
+          3. hepatic encephalopathy.
+          Liver failure secondary to drug or alcohol abuse is excluded.
+
+      15. End Stage Lung Failure
+          End stage lung disease, causing chronic respiratory failure, as confirmed and evidenced by all of the following:
+          1. FEV1 test results consistently less than 1 litre measured on 3 occasions 3 months apart; and
+          2. Requiring continuous permanent supplementary oxygen therapy for hypoxemia; and
+          3. Arterial blood gas analysis with partial oxygen pressures of 55mmHg or less (PaO2 < 55 mmHg); and
+          4. Dyspnea at rest.
+
+      16. Open Heart Replacement or Repair of Heart Valves
+          The actual undergoing of open-heart valve surgery to replace or repair one or more heart valves, as a consequence of defects in,
+          abnormalities of, or disease-affected cardiac valve(s). The diagnosis of the valve abnormality must be supported by an
+          echocardiography and the realization of surgery has to be confirmed by a specialist medical practitioner.
+          Catheter based techniques including but not limited to, balloon valvotomy/valvuloplasty are excluded.
+
+      17. Loss of Limbs
+          The physical separation of two or more limbs, at or above the wrist or ankle level limbs as a result of injury or disease. This will
+          include medically necessary amputation necessitated by injury or disease. The separation has to be permanent without any chance
+          of surgical correction.
+          Loss of Limbs resulting directly or indirectly from self-inflicted injury, alcohol or drug abuse is excluded.
+
+      18. Blindness
+          Total, permanent and irreversible loss of all vision in both eyes as a result of illness or Accident.
+          The Blindness is evidenced by:
+          a. corrected visual acuity being 3/60 or less in both eyes or;
+          b. the field of vision being less than 10 degrees in both eyes.
+          The diagnosis of blindness must be confirmed and must not be correctable by aids or surgical procedure
+
+      19. Third Degree Burns
+          There must be third-degree burns with scarring that cover at least 20% of the body’s surface area. The diagnosis must confirm the
+          total area involved using standardized, clinically accepted, body surface area charts covering 20% of the body surface area
+
+      20. Major Head Trauma
+          Accidental head injury resulting in permanent Neurological deficit to be assessed no sooner than 3 months from the date of the
+          Accident. This diagnosis must be supported by unequivocal findings on Magnetic Resonance Imaging, Computerized Tomography,
+
+
+
+
+CONFIDENTIAL
+        or other reliable imaging techniques. The Accident must be caused solely and directly by Accidental, violent, external and visible
+        means and independently of all other causes.
+        The Accidental Head injury must result in an inability to perform at least three (3) of the following Activities of Daily Living either
+        with or without the use of mechanical equipment, special devices or other aids and adaptations in use for disabled persons. For the
+        purpose of this benefit, the word “permanent” shall mean beyond the scope of recovery with current medical knowledge and
+        technology.
+        The Activities of Daily Living are:
+        a. Washing: the ability to wash in the bath or shower (including getting into and out of the bath or shower) or wash satisfactorily
+             by other means;
+        b. Dressing: the ability to put on, take off, secure and unfasten all garments and, as appropriate, any braces, artificial limbs or
+             other surgical appliances;
+        c. Transferring: the ability to move from a bed to an upright chair or wheelchair and vice versa;
+        d. Mobility: the ability to move indoors from room to room on level surfaces;
+        e. Toileting: the ability to use the lavatory or otherwise manage bowel and bladder functions so as to maintain a satisfactory level
+             of personal hygiene;
+        f. Feeding: the ability to feed oneself once food has been prepared and made available.
+
+        The following are excluded:
+        a. The spinal cord injury.
+
+
+
+
+CONFIDENTIAL
+
