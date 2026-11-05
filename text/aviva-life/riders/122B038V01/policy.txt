@@ -1,0 +1,602 @@
+AVIVA GROUP NEW CRITICAL ILLNESS NON-LINKED RIDER (UIN: 122B038V01)
+
+PART A
+
+A.1   Definitions
+      The following words or phrases have the meanings given to them below wherever they appear in the Master Policy Document:
+1.    Actively at work under the policy shall mean when the Member is rendering his/her services to the employer, and includes
+      circumstances where the Member is working from his/her residence or premises other than the designated work space at the office or
+      other premises of the employer, pursuant to specific directions issued by the employer and/or by the Central or State Government and
+      any statutory and governmental authority.
+2.    Age means a Member’s age on his last birthday as specified in the Register of Members.
+3.    Assignee is the person to whom the rights and benefits are transferred by virtue of an Assignment.
+4.    Assignment is the process of transferring the rights and benefits to an “Assignee”. Assignment should be in accordance with the
+      provisions of Section 38 of Insurance Act, 1938 as amended from time to time.
+5.    Assignor means the person who transfers the rights of the life insurance policy to the Assignee.
+
+
+
+
+                                                                                          PY
+6.    Certificate of Insurance or COI means the certificate We issue to a Member to confirm his coverage under the Master Policy.
+7.    Claimant means the Nominee or Beneficiary or Appointee (if Nominee is less than 18 years of age) and where there is none, the
+
+
+
+
+                                                                                  O
+      person/s named in Member’s will or Member’s legal heirs as per Succession Laws of India, as the case may be.
+8.    Cover End Date means the date on which the Member’s cover ends as is specified in the Schedule of the COI or master policy register
+
+
+9.
+      with insurer.
+                                                                           C
+      Cover Period means the period from the Member Effective Date to the Cover End Date.
+                                                            EN
+10.   Critical Illness means the illness/procedures covered under this Rider Policy as defined in Clause A.2 of Part A.
+11.   Critical Illness Benefit means the amount payable by Us to the Claimant in accordance with Part B.
+12.   Grace Period means the time granted by the insurer from the due date for the payment of premium, without any penalty or late fee,
+                                                 IM
+
+
+      during which time the rider policy is considered to be in-force with the risk cover without any interruption, as per terms and conditions
+      of the rider policy. Grace period of 30 days will be allowed from the premium due date for Half Yearly and Quarterly modes and 15
+                                     EC
+
+
+
+
+      days for monthly mode. There will not be any grace period for yearly mode. If insured event occurs during the grace period, the
+      insurance benefit payable shall be rider Sum Insured after deduction of the due unpaid premiums till following policy anniversary.
+13.   Insured Event under this Rider Policy means the Insured to have undergone/diagnosed to be suffering from one of the covered Critical
+                        SP
+
+
+
+
+      Illness(es) as defined in clause A.2 of Part A on the first occurrence of such Critical Illness subject to definitions and exclusions
+      applicable to such Critical Illness.
+14.   IRDA of India or IRDAI means Insurance Regulatory and Development Authority of India established under the IRDA Act, 1999.
+15.   Master Policy Document means the arrangements established by this Master Policy and Add-Ons/Riders, if any, and includes, the
+      Proposal Form, the Schedule and any additional statements or documents provided to Us by You in respect of the Proposal Form and
+      any endorsements issued by Us.
+16.   Master Policy means the contract of insurance entered into between You and Us as evidenced by this Master Policy Document.
+17.   Medical Practitioner means a person who holds a valid registration from the Medical Council of any state of India or Medical Council
+      of India or any other such body or Council for Indian Medicine or for Homeopathy setup by the Government of India or by a State
+      Government and is thereby entitled to practice medicine within its jurisdiction; and is acting within the scope and jurisdiction of license,
+      but excluding a Medical Practitioner who is:
+       i.   Life Assured/Spouse himself/herself or an agent of the Life Assured/Spouse or
+      ii. Insurance Agent, business partner(s) or employer/employee of the Life Assured/Spouse or
+      iii. A member of the Life Assured’s/Spouse’s immediate family.
+  18.   Member or Insured means a person who meets the eligibility criteria specified in Part F of the Master Policy Document and, whose
+        name has been recorded in the Register of Members.
+  19.   Member Effective Date means the date last entered in the Register of Members upon which the Member’s insurance cover under this
+        Master/Rider Policy if any, commenced.
+  20.   Modal Premium or Premium means the amount payable by You to Us at the Policy Commencement Date and at each Premium Due
+        Date to keep the Master/Rider Policy in force and effect. This includes extra premium, if any, but excludes taxes.
+  21.   Nomination is the process of nominating a person(s) in accordance with provisions of Section 39 of the Insurance Act, 1938 as
+        amended from time to time.
+  22.   Nominee means the person named in the Register of Members in respect of each Member, who has been nominated in accordance
+        with Section 39 of Insurance Act, 1938, as amended from time to time.
+  23.   Pre-Existing Disease (PED) for an insured Member, PED means any condition, ailment, injury or disease:
+        a)        That is/are diagnosed by a physician within 48 months prior to the insurance member effective date or
+        b)        For which medical advice or treatment was recommended by, or received from, a physician within 48 months prior to the
+
+
+
+
+                                                                                           PY
+                  insurance member effective date.
+  24.   Register of Members means a register maintained by Us containing details of each Member and updated from time to time, which is
+        deemed to be incorporated in and form part of this Master Policy.
+
+
+
+
+                                                                                    O
+ 25.    Risk Commencement Date means the date given in the Schedule from which We accept the risk under this Rider, if any.
+ 26.
+                                                                             C
+        Revival means revival of the Master Policy which has been discontinued due to non-payment of the due Premiums as per the terms
+        and conditions of the Master Policy.
+                                                             EN
+ 27.    Revival Period means a period up to 180 days from the date of first unpaid Premium but within the Master Policy Year.
+ 28.    Rider Sum Assured means the amount payable by Us to the Claimant in accordance with Part B and stated in the register of members
+        record.
+                                                   IM
+
+
+ 29.    Survival Period is defined as the period of time after the date of first diagnosis of a critical illness that the Insured Member has to
+        survive to be eligible for a benefit payment under the Critical Illness Benefit. There will be a Survival Period of 30 days under this
+        Rider.
+                                      EC
+
+
+
+
+ 30.    Waiting period There will be a waiting period of 90 days. The waiting period is defined as the period starting from cover inception or
+        reinstatement, as applicable, during which no benefits are payable under the Critical Illness Benefit. In case of happening of any critical
+                         SP
+
+
+
+
+        illness claim during the Waiting Period, the critical illness cover for that insured member shall terminate immediately.
+        Note: The waiting period shall apply to all members of a new group or to new members of an existing group buying this critical illness
+        benefit. The waiting period shall not apply to those existing members of a renewing group provided who have already completed their
+        waiting period fully. Further, the waiting period shall not be applicable for any other ‘Life’ insurance benefit covered under some
+        other benefits. If the group uses a probationary period, the waiting period shall commence from the end of the probationary period or
+        when the life becomes insured, if later.
+ 31.    We, Us or Our means the Aviva Life Insurance Company India Limited.
+ 32.    You or Your or the Master Policyholder means the person named in the Schedule who has concluded this Master Policy with Us.
+
+
+
+A.2 Standard Nomenclature and Procedures for Critical Illnesses
+           1. Cancer of Specified Severity
+               A malignant tumour characterized by the uncontrolled growth and spread of malignant cells with invasion and destruction
+               of normal tissues. This diagnosis must be supported by histological evidence of malignancy. The term cancer includes
+               leukaemia, lymphoma and sarcoma.
+               The following are excluded –
+        i.            All tumours which are histologically described as carcinoma in situ, benign, pre- malignant, borderline malignant,
+          low malignant potential, neoplasm of unknown behaviour, or non-invasive, including but not limited to: Carcinoma in situ
+          of breasts, Cervical dysplasia CIN-1, CIN - 2 and CIN-3.
+        ii.Any non-melanoma skin carcinoma unless there is evidence of metastases to lymph nodes or beyond;
+        iii. Malignant melanoma that has not caused invasion beyond the epidermis;
+        iv. All tumours of the prostate unless histologically classified as having a Gleason score greater than 6 or having progressed
+             to at least clinical TNM classification T2N0M0
+        v. All Thyroid cancers histologically classified as T1N0M0 (TNM Classification) or below;
+        vi. Chronic lymphocytic leukaemia less than RAI stage 3
+        vii. Non-invasive papillary cancer of the bladder histologically described as TaN0M0 or of a lesser classification,
+        viii. All Gastro-Intestinal Stromal Tumours histologically classified as T1N0M0 (TNM Classification) or below and with
+             mitotic count of less than or equal to 5/50 HPFs;
+        ix. All tumours in the presence of HIV infection.
+
+    2. Myocardial Infarction (First Heart Attack Of Specific Severity)
+        The first occurrence of heart attack or myocardial infarction, which means the death of a portion of the heart muscle as a
+        result of inadequate blood supply to the relevant area. The diagnosis for Myocardial Infarction should be evidenced by all of
+        the following criteria:
+        i. A history of typical clinical symptoms consistent with the diagnosis of acute myocardial infarction (For e.g. typical chest
+
+
+
+
+                                                                                  PY
+                    pain)
+        ii. New characteristic electrocardiogram changes
+        iii. Elevation of infarction specific enzymes, Troponins or other specific biochemical markers,
+        The following are excluded:
+        a. Other acute Coronary Syndromes
+
+
+
+
+                                                                           O
+        b. Any type of angina pectoris
+        c. A rise in cardiac biomarkers or Troponin T or I in absence of overt ischemic heart disease OR following an intra-arterial
+                    cardiac procedure.
+                                                                    C
+                                                    EN
+    3. Open Chest CABG
+        The actual undergoing of heart surgery to correct blockage or narrowing in one or more coronary artery(s), by coronary artery
+        bypass grafting done via a sternotomy (cutting through the breast bone) or minimally invasive keyhole coronary artery bypass
+        procedures. The diagnosis must be supported by a coronary angiography and the realization of surgery has to be confirmed
+        by a cardiologist.
+                                          IM
+
+
+        The following are excluded: Angioplasty and/or any other intra-arterial procedures
+
+    4. Open Heart Replacement Or Repair Of Heart Valves
+                             EC
+
+
+
+
+        The actual undergoing of open-heart valve surgery is to replace or repair one or more heart valves, as a consequence of
+        defects in, abnormalities of, or disease affected cardiac valve(s). The diagnosis of the valve abnormality must be supported
+        by an echocardiography and the realization of surgery has to be confirmed by a specialist medical practitioner. Catheter based
+        techniques including but not limited to, balloon valvotomy/valvuloplasty are excluded.
+                 SP
+
+
+
+
+     5. Coma Of Specified Severity
+          A state of unconsciousness with no reaction or response to external stimuli or internal needs. This diagnosis must be
+          supported by evidence of all of the following:
+          i. no response to external stimuli continuously for at least 96 hours;
+          ii. life support measures are necessary to sustain life; and
+          iii.permanent neurological deficit which must be assessed at least 30 days after the onset of the coma.
+          The condition has to be confirmed by a specialist medical practitioner. Coma resulting directly from alcohol or drug abuse
+is excluded.
+
+    6. Kidney Failure Requiring Regular Dialysis
+        End stage renal disease presenting as chronic irreversible failure of both kidneys to function, as a result of which either
+        regular renal dialysis (haemodialysis or peritoneal dialysis) is instituted or renal transplantation is carried out. Diagnosis has
+        to be confirmed by a specialist medical practitioner.
+
+    7. Stroke Resulting In Permanent Symptoms
+         Any cerebrovascular incident producing permanent neurological sequelae. This includes infarction of brain tissue,
+         thrombosis in an intracranial vessel, haemorrhage and embolization from an extracranial source. Diagnosis has to be
+         confirmed by a specialist medical practitioner and evidenced by typical clinical symptoms as well as typical findings in CT
+         Scan or MRI of the brain. Evidence of permanent neurological deficit lasting for at least 3 months has to be produced.
+         The following are excluded:
+     i.      Transient ischemic attacks (TIA)
+     ii. Traumatic injury of the brain
+     ii. Vascular disease affecting only the eye or optic nerve or vestibular functions.
+
+8. Major Organ /Bone Marrow Transplant
+    The actual undergoing of a transplant of:
+    i. One of the following human organs: heart, lung, liver, kidney, pancreas, that resulted from irreversible end-stage failure
+         of the relevant organ, or
+    ii. Human bone marrow using haematopoietic stem cells. The undergoing of a transplant has to be confirmed by a specialist
+         medical practitioner.
+    The following are excluded:
+    a.    Other stem-cell transplants
+    b.    Where only islets of Langerhans are transplanted
+
+9. Permanent Paralysis Of Limbs
+     Total and irreversible loss of use of two or more limbs as a result of injury or disease of the brain or spinal cord. A specialist
+     medical practitioner must be of the opinion that the paralysis will be permanent with no hope of recovery and must be present
+     for more than 3 months.
+10. Motor Neuron Disease With Permanent Symptoms
+     Motor neuron disease diagnosed by a specialist medical practitioner as spinal muscular atrophy, progressive bulbar palsy,
+
+
+
+
+                                                                              PY
+     amyotrophic lateral sclerosis or primary lateral sclerosis. There must be progressive degeneration of corticospinal tracts and
+     anterior horn cells or bulbar efferent neurons. There must be current significant and permanent functional neurological
+     impairment with objective evidence of motor dysfunction that has persisted for a continuous period of at least 3 months.
+
+
+
+
+                                                                       O
+11. Multiple Sclerosis With Persisting Symptoms
+     The unequivocal diagnosis of Definite Multiple Sclerosis confirmed and evidenced by all of the following:
+     i.
+
+     ii.
+               and
+                                                                C
+               investigations including typical MRI findings which unequivocally confirm the diagnosis to be multiple sclerosis
+
+               there must be current clinical impairment of motor or sensory function, which must have persisted for a continuous
+                                                 EN
+               period of at least 6 months.
+     Neurological damage due to SLE is excluded.
+                                      IM
+
+
+12. Benign Brain Tumour
+     Benign brain tumour is defined as a life threatening, non-cancerous tumour in the brain, cranial nerves or meninges within
+     the skull. The presence of the underlying tumour must be confirmed imaging studies such as CT scan or MRI. This brain
+                         EC
+
+
+
+
+     tumor must result in at least one of the following and must be confirmed by the relevant medical specialist.
+     i.     Permanent Neurological deficit with persisting clinical symptoms for a continuous period of at least 90 consecutive
+          days or
+     ii.     Undergone surgical resection or radiation therapy to treat the brain tumor.
+            SP
+
+
+
+
+     The following conditions are excluded:
+     Cysts, Granulomas, malformations in the arteries or veins of the brain, hematomas, abscesses, pituitary tumors, tumors of
+     skull bones and tumors of the spinal cord.
+
+13. Blindness
+     Total, permanent and irreversible loss of all vision in both eyes as a result of illness or accident. The Blindness is evidenced
+     by:
+     i. corrected visual acuity being 3/60 or less in both eyes or ;
+     ii. the field of vision being less than 10 degrees in both eyes.
+     The diagnosis of blindness must be confirmed and must not be correctable by aids or surgical procedure.
+
+14. Deafness
+     Total and irreversible loss of hearing in both ears as a result of illness or accident. This diagnosis must be supported by pure
+     tone audiogram test and certified by an Ear, Nose and Throat (ENT) specialist. Total means “the loss of hearing to the extent
+     that the loss is greater than 90 decibels across all frequencies of hearing” in both ears.
+
+15. End Stage Lung Failure
+     End stage lung disease, causing chronic respiratory failure, as confirmed and evidenced by all of the following:
+     i. FEV1 test results consistently less than 1 litre measured on 3 occasions 3 months apart; and
+     ii. Requiring continuous permanent supplementary oxygen therapy for hypoxemia; and
+                iii. Arterial blood gas analysis with partial oxygen pressure of 55mmHg or less (PaO2 <55mmHg); and
+                iv. Dyspnea at rest.
+
+           16. End Stage Liver Failure
+                Permanent and irreversible failure of liver function that has resulted in all three of the following:
+                i. Permanent jaundice; and
+                ii. Ascites; and
+                iii. Hepatic encephalopathy.
+                Liver failure secondary to drug or alcohol abuse is excluded.
+
+           17. Loss of Limbs
+                The physical separation of two or more limbs, at or above the wrist or ankle level limbs as a result of injury or disease. This
+                will include medically necessary amputation necessitated by injury or disease. The separation has to be permanent without
+                any chance of surgical correction. Loss of Limbs resulting directly or indirectly from self-inflicted injury, alcohol or drug
+                abuse is excluded.
+
+           18. Loss of Speech
+           Total and irrecoverable loss of the ability to speak as a result of injury or disease to the vocal cords. The inability to speak must
+           be established for a continuous period of 12 months. This diagnosis must be supported by medical evidence furnished by an Ear,
+           Nose, Throat (ENT) specialist.
+
+
+
+
+                                                                                         PY
+           All psychiatric related causes are excluded.
+
+           19. Major Head Trauma
+           Accidental head injury resulting in permanent Neurological deficit to be assessed no sooner than 3 months from the date of the
+
+
+
+
+                                                                                  O
+           accident. This diagnosis must be supported by unequivocal findings on Magnetic Resonance Imaging, Computerized
+           Tomography, or other reliable imaging techniques. The accident must be caused solely and directly by accidental, violent, external
+           and visible means and independently of all other causes.
+                                                                           C
+           The Accidental Head injury must result in an inability to perform at least three (3) of the following Activities of Daily Living
+           either with or without the use of mechanical equipment, special devices or other aids and adaptations in use for disabled persons.
+           For the purpose of this benefit, the word “permanent” shall mean beyond the scope of recovery with current medical knowledge
+                                                           EN
+           and technology.
+           The Activities of Daily Living are:
+           1. Washing: the ability to wash in the bath or shower (including getting into and out of the bath or shower) or wash satisfactorily
+                           by other means;
+                                                 IM
+
+
+           2. Dressing:             the ability to put on, take off, secure and unfasten all garments and, as appropriate, any braces, artificial
+                                    limbs or other surgical appliances;
+           3. Transferring: the ability to move from a bed to an upright chair or wheelchair and vice versa;
+           4. Mobility:             the ability to move indoors from room to room on level surfaces;
+                                    EC
+
+
+
+
+           5. Toileting:            the ability to use the lavatory or otherwise manage bowel and bladder functions so as to maintain a
+                                    satisfactory level of personal hygiene;
+           6. Feeding:              the ability to feed oneself once food has been prepared and made available.
+           The following are excluded: Spinal cord injury
+                       SP
+
+
+
+
+           20. Primary (Idiopathic) Pulmonary Hypertension:
+           An unequivocal diagnosis of Primary (Idiopathic) Pulmonary Hypertension by a Cardiologist or specialist in respiratory medicine
+           with evidence of right ventricular enlargement and the pulmonary artery pressure above 30 mm of Hg on Cardiac Cauterization.
+           There must be permanent irreversible physical impairment to the degree of at least Class IV of the New York Heart Association
+           Classification of cardiac impairment.
+           The NYHA Classification of Cardiac Impairment are as follows:
+           i. Class III: Marked limitation of physical activity. Comfortable at rest, but less than ordinary activity causes symptoms.
+           ii. Class IV: Unable to engage in any physical activity without discomfort. Symptoms may be present even at rest.
+
+         Pulmonary hypertension associated with lung disease, chronic hypoventilation, pulmonary thromboembolic disease, drugs and
+         toxins, diseases of the left side of the heart, congenital heart disease and any secondary cause are specifically excluded.
+
+         21. Third Degree Burns:
+          There must be third-degree burns with scarring that cover at least 20% of the body's surface area. The diagnosis must confirm the
+          total area involved using standardized, clinically accepted, body surface area charts covering 20% of the body surface area
+
+A.3   Interpretation
+      In this Rider/Master Policy, where appropriate, references to the singular include references to the plural, references to a gender include
+      the other gender and references to any statutory enactment includes any subsequent amendment to that enactment and reference to days
+           means calendar days only. In case of any conflict in the provisions of this Rider/Master Policy Document and Certificate of Insurance,
+           the provisions of this Rider/Master Policy Document shall prevail.
+
+
+PART B
+
+Benefits
+
+           1. Critical Illness Rider Benefits
+              1.1 This is a Rider benefit which is in addition to the benefits under the Master Policy and this Rider is only granted along with
+                    the Master Policy and benefits shall be subject to continuation of the Master Policy along with this Rider.
+              1.2 Under the Rider Policy, upon the occurrence of the Insured Event covered under this Rider Policy, we shall pay the Rider
+                    Sum Assured.
+              1.3 Rider Benefit shall only be payable provided that:
+                    1.3.1      the Insured Event occurred after the completion of the Waiting Period the Insured should have survived the
+                               Survival Period;
+                    1.3.2      all the due Rider Premiums till the date of Insured Event have been received by Us in full along with the due
+                               Premiums under the Master Policy.
+                    1.3.3      the Insured Event does not result either directly or indirectly from any one of the following causes:
+
+
+
+
+                                                                                            PY
+                                      i. Any Pre-Existing Disease as defined above.
+
+                                         This exclusion shall not be applicable to conditions, ailments or injuries or related condition(s) which
+                                         are underwritten and accepted by insurer at inception;
+                                     ii. Any sickness-related condition manifesting itself within the Waiting Period of 90 days from the Policy
+
+
+
+
+                                                                                     O
+                                         Commencement Date or its latest revival/reinstatement date, whichever is later.
+                                   iii. If the Insured dies within 30 days of the diagnosis of the covered Critical Illness.
+
+                                                                              C
+                                    iv. Intentional self-inflicted injury, suicide or attempted suicide,
+                                     v. For any medical conditions suffered by the Life Insured or any medical procedure undergone by the Life
+                                         Insured, if that medical condition or that medical procedure was caused directly or indirectly by influence
+                                                               EN
+                                         of drugs, alcohol, narcotics or psychotropic substances unless taken in accordance with the lawful
+                                         directions and prescriptions of a registered medical practitioner.
+                                    vi. Engaging in or taking part in hazardous activities*, including but not limited to, diving or riding or any
+                                         kind of race; martial arts; hunting; mountaineering; parachuting; bungee-jumping; underwater activities
+                                         involving the use of breathing apparatus or not;
+                                                    IM
+
+
+                                   vii. Hazardous Activities mean any sport or pursuit or hobby, which is potentially dangerous to the Insured
+                                         Member whether he is trained or not;
+                                  viii. Participation by the insured person in a criminal or unlawful act with criminal intent;
+                                        EC
+
+
+
+
+                                    ix. For any medical condition or any medical procedure arising from nuclear contamination; the radioactive,
+                                         explosive or hazardous nature of nuclear fuel materials or property contaminated by nuclear fuel
+                                         materials or accident arising from such nature;
+                                     x. For any medical condition or any medical procedure arising either as a result of war, invasion, act of
+                            SP
+
+
+
+
+                                         foreign enemy, hostilities (whether war be declared or not), armed or unarmed truce, civil war, mutiny,
+                                         rebellion, revolution, insurrection, terrorism, military or usurped power, riot or civil commotion, strikes
+                                         or participation in any naval, military or air force operation during peace time;
+                                    xi. For any medical condition or any medical procedure arising from participation by the insured person in
+                                         any flying activity, except as a bona fide, fare-paying passenger and aviation industry employee like pilot
+                                         or cabin crew of a recognized airline on regular routes and on a scheduled timetable.
+                                   xii. Any External Congenital Anomaly which is not as a consequence of Genetic disorder
+
+
+              1.4    No benefit will be payable if any claim occurs within the Waiting Period and the Rider Cover shall be terminated
+                     immediately.
+              1.5    We will pay only one claim under this Rider. Upon acceptance of the first claim under this Rider, no further claims shall be
+                     accepted by Us.
+
+
+  2.       Payment of Premium under Grace Period
+           During Grace Period if We do not receive the Rider Premium in full on or before the due date then, You can pay the outstanding Rider
+           Premium within the Grace Period as defined above. If insured event occurs during the grace period, the insurance benefit payable shall
+           be rider Sum Insured after deduction of the due unpaid premiums till following policy anniversary.
+
+  3.       Surrender Value
+         No Surrender Value is payable under this Master Policy.
+         In case of surrender of Master Policy We shall give an option to the Member on such surrender to continue the Member’s cover as an
+         individual policy up till the coverage of the Member under the Master Policy.
+
+
+PART C
+
+1.    Free Look
+      The Master Policyholder will be allowed a period of 15 days (30 days if the rider policy is sourced through distance marketing) from the
+      receipt of the rider policy to review the terms and conditions of the rider policy and to return the same if not acceptable.
+
+      If the insured has not made any claim during the free look period the insured shall be entitled to refund of the premium paid less any
+      expenses incurred on the medical examination of the insured along with proportionate risk premium for the period on cover and the stamp
+      duty charges, if any.
+
+ 2.   Revival:
+      2.1 If premium is not received within the Grace Period, the Rider Policy will be discontinued.
+
+
+
+
+                                                                                          PY
+            Revival is available up to 180 days from the date of first unpaid Premium but within the policy term of one year. Revival period
+            will not exceed the term of the Rider Policy.
+            The revival shall be subject to following:
+            a) The Master Policyholder gives the Insurer written request for revival and proposed date of Revival.
+
+
+
+
+                                                                                   O
+            b) We agrees to revive the rider Policy, for which purpose the Master Policyholder shall comply with any requests for information
+            and documentation made by the Us as per Our Board Approved Underwriting Policy.
+            c) The Master Policyholder makes payment of all outstanding Premiums due from the last date of receipt of Premium to the
+            proposed date of revival.                                       C
+            d) The revival of the Policy shall only be effective from the date on which We have issued a written endorsement confirming the
+            revival of the Rider Policy.
+                                                             EN
+            e) The Master Policyholder understands and agrees that there is no obligation on Us to revive the Rider Policy or to revive it on the
+            same terms and the revival is subject to the underwriting requirements of Us as applicable from time to time as per their Board
+            Approved Underwriting Policy.
+                                                   IM
+
+
+3.    Premium Paying Term
+      The rider policy shall be annually renewable and the premium shall be payable on yearly basis. However, the annual premium can be
+      paid on via half yearly, quarterly or on monthly instalment basis also.
+                                      EC
+
+
+
+
+      Premium is payable by the Master policyholder. In case an eligible member becomes insured member during the policy year, a pro-rata
+      premium shall be payable for that member. Similarly, in case a member ceases to be an insured member during a policy year, the insurer
+      will refund pro-rata premium in respect of that member for that policy year.
+      Pro- rata premium is calculated by using following formula:
+                          SP
+
+
+
+
+                                                               N/T x Modal Premium
+                                  Where N is the number of days yet to be expired till the due date of next premium
+                                           Where T is the number of days for which Modal Premium is paid
+
+
+
+ 4.   Payment Procedure for Critical Illness Benefit:
+      4.1 We shall pay the Benefit defined under this Rider if the following documents are provided to our satisfaction:
+       a) Completed and signed claim form (including NEFT details and bank account proof as specified in the claim form).
+       b) Duly attested copy of COI
+       c) Daily records related to admission to a Hospital/medical facility or consultation with a Medical Practitioner for the treatment.
+       d) Discharge summary from the Hospital stating the proper diagnosis and date and time of admission and discharge.
+       e) Declaration by the attending physician on the Insured’s current state of health.
+       f) All laboratory and pathology tests conducted such as blood reports and all investigative tests such as X-Ray, scans and MRI.
+       g) In case of Surgery: surgical notes.
+       h) Final hospital bill including details of room charges (ICU/Normal) and OT charges.
+       i) Employer’s questionnaire, if applicable.
+     j) Valid identification and address proof of the Claimant.
+     k) If the sickness/ surgery is caused due to un-natural or non– medical reasons, in addition to the above documents the following
+        additional documents also need to be submitted to Us:
+        (i) Certified copies of First Information Report (FIR), Post Mortem Report (PMR), Final Police Inquest Report (FPIR).
+        (ii) Newspaper articles/ cutting, if any.
+     l) Any other documents or information as may be requested by Us to investigate the claim.
+
+
+
+PART D
+
+1.     Applicable Charges
+       Loss of Policy Document Fee: Rs.250 plus applicable taxes
+
+2.     Fund Options
+       Not applicable to the Policy
+
+3.     Fund Name
+       Not applicable to the Policy
+
+
+
+
+                                                                                      PY
+ PART E
+
+
+
+
+                                                                               O
+ General Terms & Conditions
+
+ Please refer Part F of the Master Policy Document .
+                                                                        C
+                                                         EN
+                                               IM
+                                      EC
+                        SP
+

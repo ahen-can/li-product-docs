@@ -29,6 +29,8 @@ def get(url, binary=False):
     wait = 1.1 - (time.time() - last.get(host, 0))
     if wait > 0: time.sleep(wait)
     last[host] = time.time()
+    sp = urllib.parse.urlsplit(url)
+    url = urllib.parse.urlunsplit((sp.scheme, sp.netloc, urllib.parse.quote(sp.path, safe='/%:@!$&()*+,;=~-._'), sp.query, sp.fragment))
     req = urllib.request.Request(url, headers={'User-Agent': UA})
     with urllib.request.urlopen(req, timeout=60) as r:
         data = r.read(96 * 1024 * 1024)
@@ -60,7 +62,7 @@ def main():
     idx = list(csv.reader(open('index.csv'))); H = idx[0]
     shas = {(r[H.index('sha256')], r[H.index('uin')]) for r in idx[1:]}
     stored_urls = {r[H.index('source_url')] for r in idx[1:]}
-    logged = {r['url'] for r in csv.DictReader(open(LOG))} if os.path.exists(LOG) else set()
+    logged = {r['url'] for r in csv.DictReader(open(LOG)) if r['outcome'].startswith(('stored', 'duplicate', 'removed'))} if os.path.exists(LOG) else set()
     host = urllib.parse.urlsplit(a.seeds[0]).netloc.replace('www.', '')
     pages, queue, seen = [], list(a.seeds), set()
     cands = {}
@@ -71,6 +73,7 @@ def main():
         try: s = get(p)
         except Exception as e: print('page fail', p, e); continue
         pages.append(p)
+        s = s.replace('\\u002F', '/').replace('\\u002f', '/')
         for m in re.finditer(r'<a\b[^>]*href=["\']([^"\']+)["\'][^>]*>(.*?)</a>', s, flags=re.S | re.I):
             u = norm_url(p, m.group(1)); lab = re.sub(r'\s+', ' ', html.unescape(re.sub(r'<[^>]+>', ' ', m.group(2)))).strip()
             if re.search(r'\.pdf($|[?/])', u, re.I) or (a.extra_doc and re.search(a.extra_doc, u)):
@@ -87,7 +90,8 @@ def main():
         name = urllib.parse.unquote(u.split('?')[0].split('/')[-1])
         now = datetime.datetime.now(datetime.timezone.utc).strftime('%Y-%m-%dT%H:%M:%SZ')
         if u in stored_urls or u in logged: continue
-        rider_hint = re.search(r'rider', lab + name, re.I) or re.search(r'rider', fo, re.I) or upat.search(name)
+        path = urllib.parse.unquote(urllib.parse.urlsplit(u).path)
+        rider_hint = re.search(r'rider', lab + ' ' + path, re.I) or re.search(r'rider', fo, re.I) or upat.search(name)
         if (a.skip and re.search(a.skip, u, re.I)) or SKIP.search(name + ' ' + lab) or not rider_hint:
             lw.writerow([a.insurer, u, lab, fo, 'skipped (not a rider document by name)', '', '', '', now]); continue
         try: data = get(u, binary=True)
@@ -110,7 +114,7 @@ def main():
         sha = hashlib.sha256(data).hexdigest()
         if (sha, uin) in shas: lw.writerow([a.insurer, u, lab, fo, 'duplicate of a stored file', uin, '', '', now]); continue
         first = txt.split('\f')[0]
-        if not (re.search(r'rider', lab + ' ' + name, re.I) or re.search(r'rider', re.sub(r'\s+', ' ', first)[:800], re.I)):
+        if not (re.search(r'rider', lab + ' ' + urllib.parse.unquote(u), re.I) or re.search(r'rider', re.sub(r'\s+', ' ', first)[:800], re.I)):
             lw.writerow([a.insurer, u, lab, fo, f'not a rider document (no "rider" in its name or first page), prints {uin}', uin, '', '', now]); continue
         kind = kind_of(lab, u, first)
         d = f'docs/{a.slug}/riders/{uin}'; os.makedirs(d, exist_ok=True)

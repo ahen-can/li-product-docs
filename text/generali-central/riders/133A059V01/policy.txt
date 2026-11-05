@@ -1,0 +1,610 @@
+                                 Generali Central  Life Insurance Company Limited
+                                                 Internal
+                        (formerly known as Future Generali India Life Insurance Company Limited)
+                           IRDAI Registration No. 133; CIN No: U66010MH2006PLC165288
+PART A
+
+                         GENERALI CENTRAL LINKED TERM RIDER
+        Non- Par, Linked, Life, Individual, Pure risk (or Savings in case of ROP option) Rider
+
+This Rider is part and parcel of the Base Policy. Please refer to the Base Policy Contract, Schedule or any
+Endorsements made to it from time to time and as may be applicable.
+
+
+
+
+Generali Central Linked Term Rider
+Non- Par, Linked, Life, Individual, Pure risk (or Savings in case of ROP option) Rider
+Dated: 9th July 2025
+UIN: 133A059V01                              Page 1 of 15
+                                    Generali Central Life Insurance Company Limited
+                           (formerly known as Future Generali India Life Insurance Company Limited)
+                             IRDAI Registration No. 133; CIN No: U66010MH2006PLC165288
+PART- B
+Definitions & Interpretation
+
+Definitions: The terms defined below are important terms which apply under this Policy. These terms are used with
+initial capitals in the Policy Document and shall have the meaning ascribed to them below wherever they appear in the
+Policy Document:
+
+In this Policy, “you”, “your”, or “yours” refers to the Policy owner or the Policyholder.
+“We”, “us”, “our”, or “the Company” refers to Generali Central Life Insurance Company Limited (formerly known
+as Future Generali India Life Insurance Company Limited), or any of its successors.
+
+The words “he”, “him” and “his” should read “she”, “her” and “hers” wherever required.
+
+    1) “Age” at any time is the Age last birthday, that is, the Age in completed years at that time.
+
+    2) “Annualized Premium” means the premium amount payable in a year excluding the taxes, Rider premiums
+       and underwriting extra premium on Riders, if any, as specified in the Schedule.
+
+    3) "Assignment" is the process of transferring the rights and benefits to an Assignee, in accordance with the
+       provisions of Section 38 of Insurance Act, 1938, as amended from time to time.
+
+    4) "Assignee" is the person to whom the rights and benefits are transferred by virtue of an Assignment, in
+       accordance with the provisions of Section 38 of Insurance Act, 1938, as amended from time to time.
+
+    5) “Base Policy” means the Policy contract to which this Rider is attached.
+
+    6) “Date of Commencement of Policy” is the start date of the Policy. The Date of Commencement of Policy is
+       stated in the Policy Schedule.
+
+    7) “Death Benefit” is the benefit payable under the Rider, in case of Death of the Life Assured, subject to the
+       exclusions as specified under Part C.
+
+    8) “Grace Period” for other than single premium policies means the time granted by the Company from the due
+       date of payment of premium, without any penalty or late fee, during which time the Policy is considered to be
+       In-force with the risk cover without any interruption, as per the terms & conditions of the Policy. The Grace
+       Period for payment of the premium shall be: fifteen (15) days, where the Policyholder pays the premium on a
+       monthly basis and thirty (30) days in all other cases.
+
+    9) “In-force” means a Policy in which all the due premiums have been paid and the premiums are not
+       outstanding.
+
+    10) “IRDAI” means the Insurance Regulatory and Development Authority of India.
+
+    11) “Life Assured” is the person in relation to whom the life / other insurance covers are granted under the Policy.
+
+    12) “Maturity Benefit” means the benefit which is payable on maturity as stated in this Policy Document.
+
+    13) “Nomination” is the process of nominating a person(s) in accordance with provisions of Section 39 of the
+        Insurance Act, 1938 as amended from time to time.
+
+    14) “Nominee” shall mean the person or persons appointed by the Policyholder to receive the admissible benefits,
+        in the event of death of the Life Assured during the Policy Term.
+
+Generali Central Linked Term Rider
+Non- Par, Linked, Life, Individual, Pure risk (or Savings in case of ROP option) Rider
+Dated: 9th July 2025
+UIN: 133A059V01                              Page 2 of 15
+                                    Generali Central Life Insurance Company Limited
+                           (formerly known as Future Generali India Life Insurance Company Limited)
+                             IRDAI Registration No. 133; CIN No: U66010MH2006PLC165288
+PART- B
+
+    15) “Policy” means the contract of insurance entered into between You and Us as evidenced by the Policy
+        Document.
+
+    16) “Policyholder” is the person who takes out the Policy, is the owner of the Policy and is referred to as the
+        'proposer' in the proposal form. The Policyholder need not necessarily be the same person as the Life Assured.
+
+    17) “Policy Anniversary” refers to the same date each year during the Policy Term, as the Date of Commencement
+        of Policy.
+
+    18) “Policy Document” means this Policy Document, the Proposal Form, the Schedule and any additional
+        information or documentation provided to Us in relation to the proposal form, any endorsements issued by Us
+        and any Riders attached to this Policy.
+
+    19) “Rider Term” means the period specified in the Schedule which is the number of years from the Rider
+        commencement date to the maturity date.
+
+    20) “Revival” means restoration of the Policy, which was discontinued due to the non-payment of premium, by
+        the Company with all the benefits mentioned in this Policy Document, if any, upon the receipt of all the
+        premiums due and other charges or late fee, if any, as per the terms and conditions of this Policy, upon being
+        satisfied as to the continued insurability of the insured or Policyholder on the basis of the information,
+        documents and reports furnished by You, in accordance with the Company’s Board Approved Underwriting
+        Policy.
+
+    21) “Revival Period” means the period of three (3) consecutive complete years from the date of first unpaid
+        premium.
+
+    22) “Regular Premium” means the amount of premium payable by the Policyholder in a Policy Year, excluding
+        the taxes if any.
+
+    23) “Rider” means a Rider contract which is attached to and forms a part of the Base Policy. The Schedule will
+        specify whether any Riders are applicable under the Base Policy.
+
+    24) “Rider Sum Assured” means an amount payable on occurrence of a specified event covered under the Rider
+        and is an additional benefit to the benefit under the Base Policy.
+
+    25) “ROP” means Return Of Premium, i.e., return of Total Premiums Paid (excluding any extra premium and
+        taxes, if collected explicitly) upon maturity.
+
+    26) “Schedule” means the Policy Schedule issued by Us for the Base Policy, together with any amendments to the
+        Schedule which may be issued from time to time.
+
+    27) “Surrender” means the withdrawal/termination of the Rider.
+
+    28) “Surrender value” means an amount, if any, that becomes payable on Surrender of a Rider during its term,
+        in accordance with the terms and conditions of the Rider.
+
+    29) “Total Premium Paid” means total of all the premium paid, excluding any extra premium and taxes, if
+        collected explicitly.
+
+
+
+Generali Central Linked Term Rider
+Non- Par, Linked, Life, Individual, Pure risk (or Savings in case of ROP option) Rider
+Dated: 9th July 2025
+UIN: 133A059V01                              Page 3 of 15
+                                    Generali Central Life Insurance Company Limited
+                           (formerly known as Future Generali India Life Insurance Company Limited)
+                             IRDAI Registration No. 133; CIN No: U66010MH2006PLC165288
+PART- B
+Interpretation:
+1) References in this Policy to the singular shall include the plural and vice versa.
+2) References in this Policy to one gender shall include the other gender.
+3) References in this Policy to any statutes, rules, regulations or guidelines shall include any re-enactments or
+    amendments to the same.
+4) Section/paragraph headings are for ease of reference only and shall not have any interpretative value.
+5) Words and expressions used in this Policy but not defined herein shall, unless the context specifies otherwise, have
+    the same meaning as defined in the Insurance Act 1938, as amended from time to time, and/or the
+    rules/regulations/guidelines made thereunder and as amended from time to time
+
+
+
+
+Generali Central Linked Term Rider
+Non- Par, Linked, Life, Individual, Pure risk (or Savings in case of ROP option) Rider
+Dated: 9th July 2025
+UIN: 133A059V01                              Page 4 of 15
+                                 Generali Central Life Insurance Company Limited
+                        (formerly known as Future Generali India Life Insurance Company Limited)
+                          IRDAI Registration No. 133; CIN No: U66010MH2006PLC165288
+
+PART C
+
+1. INTRODUCTION
+
+This document provides details of the terms & conditions of the Policy named in your Policy Schedule. This
+Policy is provided to you by the Generali Central Life Insurance Company Limited. Taken together with
+your Policy Schedule and any endorsement/s thereon, this document forms the terms of the contract between
+You and Us.
+
+    1.1 Rider Benefits
+
+    A. Death Benefit:
+
+         In case of unfortunate death of the life assured during the term of the Rider, an amount equal to the
+         Rider Sum Assured shall be payable, provided all due premiums till the date of death are paid.
+
+         The Policyholder has following options to receive Rider Sum Assured:
+              (a) Lump sum Benefit- Rider Sum Assured will be payable as lump sum.
+              (b) Income for the income period chosen (from 2 to 10 years) - The income will be paid
+                   starting from the date of occurrence of insured event at a frequency (Yearly / Half
+                   Yearly / Quarterly / Monthly) and for the income period chosen. The payment frequency
+                   can’t be changed once the regular income commences.
+              (c) Combination of lump sum and income for the income period chosen (from 2 to 10
+                   years)
+
+         The default option to receive Rider Sum Assured is lump-sum benefit. The Policyholder can
+         change it to any of the options during the Rider Term but before the occurrence of insured event.
+
+         The regular income instalments for frequencies other than annual shall be as specified below,
+         where the yearly income below refers to the regular income payable in respect of annual
+         frequency:
+
+                                     Frequency       Income instalment (per frequency)
+                                     Half-yearly     98% of Yearly Income x ½
+                                     Quarterly       97% of Yearly Income x ¼
+                                     Monthly         96% of Yearly Income x 1/12
+
+    The Rider will terminate on payment of Rider Sum Assured.
+
+    B. Maturity Benefit:
+          (a) ROP option - the Policyholder will get Total Premiums Paid (excluding any extra premium
+              and taxes, if collected explicitly) upon maturity, if there was no Rider claim made during
+              the Rider Term.
+          (b) Without ROP option – No Maturity Benefit shall be payable
+
+    C. Exclusions:
+         Suicide Exclusion:
+
+
+Generali Central Linked Term Rider
+Non- Par, Linked, Life, Individual, Pure risk (or Savings in case of ROP option) Rider
+Dated: 9th July 2025
+UIN: 133A059V01                              Page 5 of 15
+                                 Generali Central Life Insurance Company Limited
+                        (formerly known as Future Generali India Life Insurance Company Limited)
+                          IRDAI Registration No. 133; CIN No: U66010MH2006PLC165288
+
+PART C
+
+         In case death of life insured due to suicide within one year from the date of commencement of risk
+         under the policy, at least 80% of the total premiums paid till the date of death shall be payable. In
+         case of suicide within one year from the date of revival, where revival is done within 6 months from
+         the date of first unpaid premium, Suicide Exclusion shall not be applicable and the death benefit
+         under the rider shall be payable. However, in case of suicide within one year from the date of revival,
+         where revival is done after 6 months from the date of first unpaid premium, the benefit payable shall
+         be higher of 80% of total Premiums Paid till the date of death of Surrender Value (if any) at the date
+         of death provided the rider cover is still in force.
+
+
+         Other Exclusion:
+         The Company shall not be under any obligation to provide cover and shall not be liable to pay any
+         claim or provide any benefit hereunder to the extent that the provision of such cover, payment of
+         such claim or provision of such benefit would expose the Company to any sanction, prohibition or
+         restriction under OFAC, United Nations resolutions or the trade or economic sanctions, laws or
+         regulations of the European Union, United States of America or as directed by the Government of
+         India, from time to time.
+
+
+2. Premium
+
+2.1 Payment of Premium
+
+Instalment premiums are required to be paid on the premium due dates until such time as stipulated in the
+Policy Schedule.
+
+The premiums shall be deemed to have been paid only when they have been received at the Company's head
+office or any other office authorized by it for that purpose.
+
+The premiums shall be adjusted on the due date where they have been received on or before the due date. If
+received after the due date, they will be adjusted on the date of such receipt.
+
+2.2 Change in Premium Payment Frequency
+    a) Single premium – Not Applicable
+    b) Regular / Limited premium – As per Base Policy.
+
+
+3. Discounts
+3.1. Staff Discount:
+     Policies taken directly (i.e. without involving any channel) by Employees of the Company and
+     Promoter group, spouse of the employees and their blood relatives will be eligible for a staff discount
+     of 5% of each annualized premium and single premium. Blood relatives include children of the
+     employee, parents of the employee, siblings of the employee (brothers / sisters).
+
+3.2. Other Discounts:
+
+
+Generali Central Linked Term Rider
+Non- Par, Linked, Life, Individual, Pure risk (or Savings in case of ROP option) Rider
+Dated: 9th July 2025
+UIN: 133A059V01                              Page 6 of 15
+                                 Generali Central Life Insurance Company Limited
+                        (formerly known as Future Generali India Life Insurance Company Limited)
+                          IRDAI Registration No. 133; CIN No: U66010MH2006PLC165288
+
+PART C
+
+     5% online discount on Rider Premium will be applicable for the policies bought through ‘Online’
+     channel. Staff buying ‘Online’ will only be eligible for ‘Online discount’. Staff discount will not
+     apply in such case.
+
+4. Grace Period
+Grace Period means the time granted by the insurer from the due date for the payment of premium, without
+any penalty or late fees, during which time the Policy is considered to be In-force with the risk cover without
+any interruption, as per the terms & conditions of the Policy. The Grace Period for payment of the premium
+for all types of life insurance policies shall be fifteen (15) days, where the Policyholder pays the premium
+on a monthly basis and thirty (30) days in all other cases. The Policy will remain In-force during the Grace
+Period.
+
+
+
+
+Generali Central Linked Term Rider
+Non- Par, Linked, Life, Individual, Pure risk (or Savings in case of ROP option) Rider
+Dated: 9th July 2025
+UIN: 133A059V01                              Page 7 of 15
+                                 Generali Central Life Insurance Company Limited
+                        (formerly known as Future Generali India Life Insurance Company Limited)
+                          IRDAI Registration No. 133; CIN No: U66010MH2006PLC165288
+
+PART D
+
+
+1. NON-FORFEITURE PROVISIONS:
+
+1.1 Lapse:
+    Regular / Limited Pay:
+       (a) If all due premiums for the first policy year have not been paid in full within the grace
+           period, the rider shall lapse and will have no value.
+       (b) All risk cover ceases while the rider is in lapsed status.
+       (c) The Policyholder has the option to revive a lapsed rider within three (3) years from the
+           due date of first unpaid premium.
+       (d) For without ROP Regular Pay Option, in case the rider is not revived during the revival
+           period, no benefit shall be payable at the end of revival period and the rider will terminate
+           thereafter.
+       (e) For without ROP Limited Option, in case the rider is not revived during the revival
+           period, Policy Cancellation Value as per Part D 1.4 shall be payable at the end of the
+           revival period or Maturity Date, whichever is earlier, and the policy will terminate
+           thereafter.
+
+    Single Pay:
+        Not Applicable
+
+1.2 Paid-up Benefit:
+    ROP option:
+       (a) If after the receipt of due instalment premiums for first (1) or more Policy years in full, any
+           subsequent instalment premium remains unpaid upon the expiry of the Grace Period, this
+           Policy will be converted into a reduced paid-up Policy.
+
+         (b) Paid up Sum Assured on Maturity = (Number of Rider premiums paid / Total number of Rider
+             premiums payable) * Sum Assured on Maturity
+
+         (c) Paid up Sum Assured on Death = (Number of Rider premiums paid / Total number of Rider
+             premiums payable) * Rider Sum Assured
+
+    Without ROP option:
+       Not Applicable
+
+
+1.3 Surrender Benefit
+    You may Surrender this Rider at any time within the Rider Term. Upon Surrender, you will be eligible
+    for Surrender Value, if any, as per the provisions given under this clause.
+
+    There would be no Surrender Benefit for without ROP option.
+
+    For ROP option, the rider acquires a Surrender Value after completion of first policy year provided one
+    full year premium has been received. Once this Rider has acquired a Surrender Value, the Rider or the
+
+Generali Central Linked Term Rider
+Non- Par, Linked, Life, Individual, Pure risk (or Savings in case of ROP option) Rider
+Dated: 9th July 2025
+UIN: 133A059V01                              Page 8 of 15
+                                 Generali Central Life Insurance Company Limited
+                        (formerly known as Future Generali India Life Insurance Company Limited)
+                          IRDAI Registration No. 133; CIN No: U66010MH2006PLC165288
+
+PART D
+
+    reduced paid-up Rider may be Surrendered during the Rider Term and We will pay You the Surrender
+    Value.
+
+    The Surrender Value on this Rider shall be the Special Surrender Value or the Guaranteed Surrender
+    Value, whichever is higher, as defined below.
+
+         i.    Guaranteed Surrender Value (GSV)
+                 With ROP option:
+                 The company guarantees a minimum non-negative surrender value which is equal to
+                         GSV factor x Total Premiums Paid (excluding loading for modal premiums and
+                         discount)
+                 up to the date of surrender.
+
+                      GSV factors for regular premium and limited premium:
+                         Policy Year             GSV rates
+                         1                       0%
+                         2                       30%
+                         3                       35%
+                         4 to 7                  50%
+                         8 to (Rider Term -      Interpolation between (Rider Term 7) to
+                         2)                      (Rider Term - 1)
+                         (Rider Term - 1)        90%
+                         Rider Term              90%
+
+                      GSV factors for single premium:
+                         Policy year             GSV rates
+                         1                       75%
+                         2                       75%
+                         3                       75%
+                         4 to (Rider Term - 2) Interpolation between (Rider Term 3) to
+                                                 (Rider Term - 1)
+                         (Rider Term-1)          90%
+                         Rider Term              90%
+
+        ii.    Special Surrender Value (SSV)
+               The Rider acquires a Special Surrender Value immediately after the Rider is issued in case of
+               single pay and after completion of first Policy year provided one full year premium has been
+               received in case of limited & regular pay.
+
+               With ROP option:
+                     SSV Factor for Maturity* Paid up Rider Sum Assured on Maturity + SSV Factor for
+                     Death * Paid up Rider Sum Assured on Death
+
+
+
+
+Generali Central Linked Term Rider
+Non- Par, Linked, Life, Individual, Pure risk (or Savings in case of ROP option) Rider
+Dated: 9th July 2025
+UIN: 133A059V01                              Page 9 of 15
+                                 Generali Central Life Insurance Company Limited
+                        (formerly known as Future Generali India Life Insurance Company Limited)
+                          IRDAI Registration No. 133; CIN No: U66010MH2006PLC165288
+
+PART D
+
+               Special Surrender Value (SSV) shall be based on the Company’s expectation of future
+               financial and demographic conditions and may be reviewed annually by the Company in
+               accordance with the applicable IRDAI regulations in this behalf.
+
+
+         Riders may be surrendered / discontinued separately or it gets surrendered / discontinued if
+         the base product is surrendered / discontinued or made paid-up .
+         No surrender benefit is payable if the total claim value paid exceeds the total premiums paid by the
+         Policyholder
+
+1.4 Policy Cancellation Value
+    Policy cancellation value gets acquired immediately upon payment of premium in case of Single
+    Pay and upon payment of premiums for at least 1 full year and after completion of first policy
+    year in case of Limited Pay.
+
+
+    For Without ROP option:
+        Premium Payment Option                          Policy Cancellation Value
+        Single Pay                        75% * (Total Premiums paid) * (1 – rider premium
+                                          paying term / rider term) * (Balance rider term / rider
+                                          term).
+         Regular Pay                      Not Available
+
+         Limited Pay                      75% * (Total Premiums paid) * (1 – rider premium
+                                          paying term / rider term) * (Balance rider term / rider
+                                          term).
+
+    Policy Cancellation value will not be payable if the policy is cancelled in the last policy year.
+
+
+
+1.5 Revival:
+    Regular / Limited Pay:
+    (a) Revival Period means the period of three (3) consecutive years from the due date of first unpaid
+        Rider premium during which period the Policyholder is entitled to revive the Rider which was
+        discontinued due to the non-payment of premium.
+    (b) Revival of a Policy cannot be done once the Rider Term is over.
+    (c) The Revival will be considered on receipt of application from the Policyholder along with the
+        proof of continued insurability of Life Assured and on payment of all overdue Rider premiums
+        with interest, if any. The Company, however, reserves the right to accept at original terms, accept
+        with modified terms or decline the Revival of a discontinued Rider. The Revival of the
+        discontinued Rider shall take effect only after the same is approved by the Company and is
+        specifically communicated to the Policyholder.
+    (d) The interest rate applicable on Revival should be the same as that applicable in the Base Policy.
+    (e) The Rider cannot be revived independently and can only be revived along with the Revival of the
+        Base Policy.
+
+Generali Central Linked Term Rider
+Non- Par, Linked, Life, Individual, Pure risk (or Savings in case of ROP option) Rider
+Dated: 9th July 2025
+UIN: 133A059V01                              Page 10 of 15
+                                 Generali Central Life Insurance Company Limited
+                        (formerly known as Future Generali India Life Insurance Company Limited)
+                          IRDAI Registration No. 133; CIN No: U66010MH2006PLC165288
+
+PART D
+
+
+
+    Single Pay:
+        Not Applicable
+
+1.6 Free Look Period
+    Same as Base Policy.
+
+
+
+
+Generali Central Linked Term Rider
+Non- Par, Linked, Life, Individual, Pure risk (or Savings in case of ROP option) Rider
+Dated: 9th July 2025
+UIN: 133A059V01                              Page 11 of 15
+                                Generali Central Life Insurance Company Limited
+                       (formerly known as Future Generali India Life Insurance Company Limited)
+                          IRDAI Registration No. 133; CIN No: U66010MH2006PLC165288
+
+PART E
+
+    Applicable Charges, Funds & Fund Options
+         Not applicable
+
+
+
+
+Generali Central Linked Term Rider
+Non- Par, Linked, Life, Individual, Pure risk (or Savings in case of ROP option) Rider
+Dated: 9th July 2025
+UIN:133A059V01
+                                                 Page 12 of 15
+                                Generali Central Life Insurance Company Limited
+                       (formerly known as Future Generali India Life Insurance Company Limited)
+                        IRDAI Registration No. 133; CIN No: U66010MH2006PLC165288
+
+PART F
+
+    General Terms & Conditions
+
+1. FRAUD AND MISSTATEMENT
+As per Base Policy
+
+2. STATEMENT OF AGE
+As per Base Policy
+
+3. THE POLICYHOLDER’S RIGHTS
+As per Base Policy
+
+5. ASSIGNMENT AND TRANSFER OF INSURANCE POLICIES
+As per Base Policy.
+
+6. NOMINATION BY POLICYHOLDER
+As per Base Policy.
+
+7. Loss of Policy Document
+As per Base Policy
+
+7. CLAIM PROCEDURES:
+As per Base Policy
+
+8. Termination of the Policy
+The Rider Benefit shall automatically terminate on the occurrence of the earliest of the following:
+   1. End of the Rider Term
+   2. Payment of the surrender Value of the Rider or the base Plan
+   3. Free look cancellation of the base plan by the Policyholder.
+   4. If the Base policy along with Rider is not revived within revival period of the base policy; or
+   5. On the Maturity/Expiry Date or the date on which the base Policy is surrendered, terminated or
+       cancelled for any reason; or
+   6. On cancellation/ termination of the rider or base plan by company on grounds of mis representation,
+       fraud or non- disclosure established in terms of Section 45 of the Insurance Act, 1938 as amended
+       from time to time.
+
+9. RESTRICTIONS ON TRAVEL, RESIDENCE AND OCCUPAITION
+As per Base Policy.
+
+10. Governing Law and Jurisdiction
+As per Base Policy
+
+11. APPLICABLE LAW
+As per Base Policy.
+
+12. ADDRESS OF COMPANY FOR CORRESPONDENCE
+As per Base Policy.
+
+Generali Central Linked Term Rider
+Non- Par, Linked, Life, Individual, Pure risk (or Savings in case of ROP option) Rider
+Dated: 9th July 2025
+UIN:133A059V01
+                                                 Page 13 of 15
+                                Generali Central Life Insurance Company Limited
+                       (formerly known as Future Generali India Life Insurance Company Limited)
+                        IRDAI Registration No. 133; CIN No: U66010MH2006PLC165288
+
+PART F
+
+13. ELECTRONIC TRANSACTION:
+As per Base Policy.
+
+
+14. POLICY CURRENCY:
+As per Base Policy.
+
+15. LEGISLATIVE CHANGES
+As per Base Policy.
+
+16. APPLICABLE TAXES AND DUTIES
+As per Base Policy.
+
+
+
+
+Generali Central Linked Term Rider
+Non- Par, Linked, Life, Individual, Pure risk (or Savings in case of ROP option) Rider
+Dated: 9th July 2025
+UIN:133A059V01
+                                                 Page 14 of 15
+                                Generali Central Life Insurance Company Limited
+                       (formerly known as Future Generali India Life Insurance Company Limited)
+                        IRDAI Registration No. 133; CIN No: U66010MH2006PLC165288
+
+PART G
+
+Grievance Redressal Procedure & List of Insurance Ombudsmen
+
+As per Base Policy
+
+
+
+
+Generali Central Linked Term Rider
+Non- Par, Linked, Life, Individual, Pure risk (or Savings in case of ROP option) Rider
+Dated: 9th July 2025
+UIN:133A059V01
+                                                 Page 15 of 15
+

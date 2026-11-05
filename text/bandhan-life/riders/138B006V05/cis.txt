@@ -1,0 +1,251 @@
+        Customer Information Sheet / Know Your Policy
+This document provides key information about your policy. You are also advised to go through your policy
+document.
+
+                                                Description in Simple Words                     Policy
+SI. NO.           Title           (Please refer to applicable Policy Clause Number in next      Clause
+                                                          column)                              Number
+    1     Name of the           Bandhan Life AD Rider
+          Insurance Product     UIN: 138B006V05
+          and Unique
+          Identification Number
+          (UIN)
+
+    2     Policy Number          <<          >>
+
+          Type of Insurance
+    3                            Pure Risk
+          Policy
+    4     Basic Policy Details     1. Instalment Premium: << ₹XX >>                             Policy
+                                   2. Mode of premium payment: <<Monthly, Quarterly,           Schedule
+                                      Half-yearly or Yearly >>
+                                   3. Sum Assured on death (at policy inception): << ₹ XX
+                                      >>
+                                   4. Sum Assured on Maturity: Not Applicable
+                                   5. Premium payment Term: << XX years >>
+                                   6. Policy Term: << XX years >>
+    5     Policy Coverage/            Benefits payable on maturity:                              C.1
+          benefits payable            None.                                                      C.2
+                                      Benefits payable on death:                                 D.5
+                                      If the Life Assured dies due to an Accident during the
+                                      Rider Term, an amount equal to the Sum Assured
+                                      under this Rider, as mentioned in the Policy Schedule
+                                      shall be paid as death benefit. This amount will be in
+                                      addition to the death benefit under the Base Policy.
+                                      The Rider benefit is available only when, both the
+                                      Rider as well as the Base Policy to which it is
+                                      attached, are in-force.
+                                      The death must occur within 90 days of the accident
+                                      in question. The claim due to Accidental death,
+                                      where death happens within 90 days of occurrence
+                                      of the accident but beyond the Rider term, will be
+                                      honoured, provided the accident happened when
+                                      the Rider was still in-force. The Rider will terminate
+                                      on payment of this benefit.
+
+
+
+
+Bandhan Life Accidental Death Rider | UIN:138B006V05                                                      1
+                                    Survival Benefits excluding the amount payable on
+                                   maturity:
+                                   None.
+                                   Surrender benefits:
+                                   If this rider is surrendered any time before the Date
+                                   of Maturity, the following surrender benefit shall be
+                                   paid:
+                                   Regular Pay: None
+                                   Limited Pay:
+                                   URPV = 70% * (Total Rider Premiums Paid/Total
+                                   Premiums Payable over the Rider Premium Payment
+                                   Term) * (Outstanding Rider Term/Rider Term) * Total
+                                   Rider Premium Paid
+                                   Single Pay:
+                                   URPV = 70% * (Outstanding Rider Term/Rider Term)
+                                   * Single Premium
+                                   Options to policyholders for availing benefits, if
+                                   any, covered under the policy:
+                                   None.
+                                   Other benefits/options payable, specific to the
+                                   policy, if any:
+                                   None.
+
+    6    Exclusions (events    Suicide Exclusion: The Suicide Claim provision will only be   F.5
+         where insurance       applicable to the death benefit under the Base Plan as
+         coverage is not       suicide related deaths are part of exclusions under this
+         payable), if any.     Rider.
+                               Benefit under this Rider shall not be payable if Accidental
+                               Death is directly or indirectly due to or caused,
+                               occasioned, accelerated or aggravated by any of the
+                               following:
+                                    Suicide or self-inflicted injury, whether the life
+                                    assured is medically sane or insane.
+                                    War, terrorism, invasion, act of foreign enemy,
+                                    hostilities, civil war, martial law, rebellion,
+                                    revolution, insurrection, military or usurper power,
+                                    riot or civil commotion. War means any war whether
+                                    declared or not.
+                                    Taking part in any naval, military or air force
+                                    operation during peace time.
+                                    Committing an assault, a criminal offence, an illegal
+                                    activity or any breach of law with criminal intent.
+
+
+
+
+Bandhan Life Accidental Death Rider | UIN:138B006V05                                               2
+                                     Taking or absorbing, accidentally or otherwise, any
+                                     intoxicating liquor, drug, narcotics, medicine,
+                                     sedative, poison or psychotropic substances, unless
+                                     taken in accordance with the lawful directions and
+                                     prescription of a registered medical practitioner.
+                                     Inhaling any gas or fumes, accidentally or otherwise,
+                                     except accidentally in the course of duty. The intent
+                                     under this exclusion is to exclude accidental
+                                     gas/fumes leak incidents which could lead to
+                                     exposing the population to such toxic gas/fumes and
+                                     lead to deaths (like Bhopal Gas Tragedy). However, if
+                                     the incidence happens as part of the life assured’s
+                                     job then the claim is payable.
+                                     Participation in aviation other than as a fare-paying
+                                     passenger in an aircraft that is authorized by the
+                                     relevant regulations to carry such passengers
+                                     between established aerodromes.
+                                     Taking part in professional sport(s) or any
+                                     adventurous pursuits or hobbies. “Adventurous
+                                     Pursuits or Hobbies” includes any kind of racing
+                                     (other than on foot or swimming), potholing, rock
+                                     climbing (except on man-made walls), hunting,
+                                     mountaineering or climbing requiring the use of
+                                     ropes or guides, any underwater activities involving
+                                     the use of underwater breathing apparatus including
+                                     deep sea diving, sky diving, cliff diving, bungee
+                                     jumping, paragliding, hand gliding and parachuting.
+
+   7     Waiting /lien Period,   None
+         if any
+
+   8     Grace period            15 days for monthly premium paying policies.                C.4
+                                 30 days for all other frequencies.
+
+   9     Free Look Period        30 days from the date of receipt of policy document.        D.1
+
+  10     Lapse, paid-up and      Lapse:                                                      D.2
+         revival of the Policy   In case of regular pay and limited pay, on non-payment      D.3
+                                 of rider premium any time during the Rider Premium
+                                 Payment Term, the Rider will lapse at the end of the
+                                 Grace Period and the cover will cease to exist. A single
+                                 pay rider shall never lapse.
+                                 We will pay the Unexpired Risk Premium Value (URPV)
+                                 under such a lapsed Rider during the Revival Period if:
+                                      You voluntarily Surrender the Rider; or
+                                      The Life Assured dies; or
+                                      The Life Assured survives to the end of the revival
+                                      period.
+
+
+
+Bandhan Life Accidental Death Rider | UIN:138B006V05                                               3
+                               URPV = 70% * (Total Rider Premiums Paid/Total
+                               Premiums Payable over the Rider Premium Payment
+                               Term) * (Outstanding Rider Term/Rider Term) * Total
+                               Rider Premium Paid
+                               The rider will terminate on payment of above benefit.
+
+                               Reduced Paid-up:
+                               Not Applicable.
+
+                               Revival:
+                               If the rider has lapsed, you may revive the rider along
+                               with the Base Policy during the applicable revival period.
+                               all outstanding premiums without any interest. If the
+                               Rider is not revived along with the Base Policy, the Rider
+                               would be deemed surrendered and revival of such
+                               surrendered Rider will not be allowed at a later stage.
+
+  11     Policy Loan, if       Not Applicable
+         applicable
+
+  12     Claims/ Claims          1. Turn Around Time (TAT) for claims settlement and            F.6
+         Procedure                  brief procedure:
+                                      a. Apply for claim:
+                                              i. Customer can write to us at
+                                                 claims@bandhanlife.com.
+                                             ii. Visit our nearest service center.
+                                            iii. Submit claim online:
+                                                 www.bandhanlife.com/claims/
+                                            iv. Send claim documents to our registered
+                                                 office at Claims Department: Bandhan Life
+                                                 Insurance Limited, A - 201, 2nd Floor, Leela
+                                                 Business Park, Andheri-Kurla Road, Andheri
+                                                 (E), Mumbai - 400059.
+                                      b. Submit your documents.
+                                       c. Claim decision is made
+                                          Claim decision will be made within 30 days from
+                                          date of receipt of last document. In case
+                                          investigation is required, the investigation will
+                                          be completed within 90 days from date of
+                                          intimation and the claim shall be decided within
+                                          30 days thereafter.
+                                 2. Helpline/Call Centre number: 1800 209 9090 (Mon-
+                                    Sat | 9am-7pm IST).
+                                 3. Contact details of the Insurer: Email:
+                                    claims@bandhanlife.com Address: Bandhan Life
+                                    Insurance Limited, A - 201, 2nd Floor Leela Business
+                                    Park, Andheri-Kurla Road, Andheri (East), Mumbai,
+                                    400 059.
+
+
+Bandhan Life Accidental Death Rider | UIN:138B006V05                                                  4
+                                          Link for downloading claim form and list of documents
+                                          required including bank account details:
+                                          www.bandhanlife.com/customer-service/claims-
+                                           process.
+
+   13        Policy Servicing                1. Turn Around Time (TAT): Please refer
+                                                www.bandhanlife.com/find-service for time taken
+                                                to service different customer needs.
+                                             2. Helpline/Call Centre number: 1800 209 9090 (Mon-
+                                                Sat | 9am-7pm IST).
+                                             3. Contact details of the insurer: Email:
+                                                customer.care@bandhanlife.com.
+                                                Address: Bandhan Life Insurance Limited, A - 201,
+                                                2nd Floor Leela Business Park, Andheri-Kurla Road,
+                                                Andheri (East), Mumbai, 400 059.
+                                             4. Link for downloading applicable forms and list of
+                                                documents required including bank account details:
+                                                www.bandhanlife.com/customer-support-service.
+
+   14        Grievances                      1. Contact details of Grievance Redressal Officer of the   G.1
+             /Complaints                        insurer: Email: gro@bandhanlife.com.                    G.2
+                                             2. Link for registering the grievance with the insurer’s   G.4
+                                                Portal: www.bandhanlife.com/register-complaint.
+                                             3. Contact details of Ombudsman:
+                                                <<Ombudsman details as per address of
+                                                Policyholder>>
+
+   15        Weblink for product          <<        >>
+             including customer
+             information sheet
+
+For more details, please refer to the policy document.
+
+
+
+
+Bandhan Life Accidental Death Rider | UIN:138B006V05                                                          5
+                      Declaration By The Policyholder
+I have read the above and confirm having noted the details.
+
+In case of any conflict, the terms and conditions mentioned in the policy document shall prevail.
+
+Place:
+Date:
+
+                                                                             Signature of the Policyholder
+
+
+
+
+Bandhan Life Accidental Death Rider | UIN:138B006V05                                                     6
+
