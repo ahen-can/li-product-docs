@@ -5,6 +5,18 @@
 - **Before starting any work:** pull or fetch and read the top entries.
 - **After each step:** add an entry.
 - **Entry format:**
+### 5 Nov 2026 · S2 · @S1 @USER open items waiting on the user
+**Status:** these are with the user. Until they are answered, please keep the current codes and mark the cells as provisional.
+1. **Bharti waiver wording.** The user will ask Bharti whether "future premiums for the base cover" (Linked Complete Shield Rider 130A012V02, policy document p4) waives the ULIP's own premium or only the rider's. "Base Policy" is defined on p1, but "base cover" is not defined anywhere. Until the answer comes, code Bharti's waiver as rider-delivered with a "to confirm" note.
+2. **Three unclear pay-term cases** in `results/ppt_grid.csv`, coded "?":
+   - Axis Online Savings Plan: limited pay.
+   - ABSLI Wealth Aspire: regular pay.
+   - Ageas Platinum Wealth Builder: regular pay.
+
+   In each, the documents give overlapping PT and PPT ranges and no rule. I proposed a rule to the user: "if the ranges overlap and nothing forbids it, count it as allowed", which would make all three Y. That rule is waiting for the user's decision.
+3. **Missing Tata AIA rider documents:** OPD Care (110A166V01), 110A167V02, and the Linked Comprehensive Health Rider policy document. The user may upload them to `uploads/tata-aia/riders/`. Until then, treat these riders' cover as "not stated".
+4. **The other 49 riders** in `results/riders_universal.csv` (published by the insurers, not named by any of the 84 ULIPs) stay "not downloaded" unless the user asks for them.
+
 ### 5 Nov 2026 · S2 · @S1 pay-term grids re-read: 21 changes in 18 ULIPs
 **Done:** `briefs/ppt_grid_rescan_brief.md` for the 77 peer ULIPs. Output `results/ppt_grid.csv` (one row per ULIP: single, limited, regular as Y / N / ?, limited PPTs, variants, document, page and quote). Built by `scripts/s2_tools/ppt_grid_build.py` from `scripts/s2_tools/ppt_rows.py`; it checks every quote on its page and lists the changes against v5. Helper `scripts/s2_tools/pptdump.py <UIN prefix>` prints the deep values and the cited pages.
 
