@@ -1,0 +1,835 @@
+                                               SBI Life – Accident Benefit Rider - Linked (UIN: 111A042V01)
+                                      An Individual, Linked, Non-Participating, Health Insurance Pure Risk Rider
+
+                                                Rider Document
+                          SBI Life – Accident Benefit Rider - Linked (UIN 111A042V01)
+
+  This is Your Rider Document. It contains the applicable terms and conditions for Your Rider benefits. Please read the
+  terms and conditions and keep this Rider Document safely.
+
+  This Rider Document is issued along with and attached to the Base Policy and must be read together with the Base Policy
+  Document.
+
+                                                        Part A
+
+  Welcome Letter | Policy Preamble | Policy Schedule
+  Please refer to the Base Policy Document for these details.
+
+                                                        Part B
+
+  Definitions
+  The terms defined below shall have the meaning attributed to them wherever they appear in the Rider Document. All
+  terms defined in the Base Policy and used in this Rider Document in defined form will have the same meaning as defined
+  in the Base Policy Document.
+
+        Expressions                        Meanings
+                                           means a sudden, unforeseen and involuntary event caused by external, and
+        1. Accident                        visible and violent means which causes Bodily Injury but excludes illness
+                                           and diseases.
+                                           means death:
+                                           a. which is caused by Bodily Injury resulting from an Accident, and
+                                           b. which occurs due to the said Bodily Injury solely, directly and
+                                             independently of any other causes, and
+        2. Accidental Death                c. which occurs within 180 days of the occurrence of such Accident, and
+                                           d. for which the benefit shall be payable even if the death happens after
+                                             the expiry of the Rider Term subject to the following:
+                                             i. The Accident happens when the Rider is In-Force and
+                                             ii. The Accidental Death happens within 180 days of this Accident.
+        3. Accidental Death Benefit (AD means the Accidental Death Benefit payable and more fully described
+           Benefit)                     under Part C Clause (II) (3) of this Rider
+                                           means a Disability:
+                                           a. which is caused by Bodily Injury resulting from an Accident, and
+                                           b. which occurs due to the said Bodily Injury solely, directly and
+                                             independently of any other causes, and
+                                           c. which occurs within 180 days of the occurrence of such Accident, and
+        4. Accidental Partial Permanent
+                                           d. for which the benefit shall be payable even if the disability happens
+           Disability (APPD)
+                                             after the expiry of the Rider Term subject to the following:
+                                             i. The Accident happens when the Rider is In-Force and
+                                             ii. The APPD happens within 180 days of this Accident, and
+                                           e. which is defined as disablement resulting in any of the occurrences
+                                             listed under the following table of benefits:
+
+Rider Document
+Form No: 806                                 Page 1 of 15                          Policy Number
+                             SBI Life – Accident Benefit Rider - Linked (UIN: 111A042V01)
+                     An Individual, Linked, Non-Participating, Health Insurance Pure Risk Rider
+
+       Expressions       Meanings
+
+                            Bodily Injuries                                    % of Rider Sum
+                                                                               Assured
+                                                                               payable
+                            Total and Permanent loss of:
+                                • Hearing in both ears                                75%
+                                • Hearing in one ear                                  30%
+                                • Sight in one eye except perception of               50%
+                                     light
+                                • Loss of one eye                                     50%
+                                • Loss of speech                                      50%
+                            Total loss by physical severance:
+                                • Thumb and four fingers of one hand                  50%
+                                • Four fingers of one hand                            40%
+                                • Thumb (both phalanxes)                              25%
+                                • Thumb (one phalanx)                                 10%
+                                • Index finger (three phalanxes)                      15%
+                                • Index finger (two phalanxes)                         8%
+                                • Index finger (one phalanx)                           4%
+                                • Amputation of one hand at or above the              50%
+                                     wrist
+                                • Amputation of one foot at or above the              50%
+                                     ankle
+                                • Middle finger (three phalanxes)                     10%
+                                • Middle finger (two phalanxes)                        4%
+                                • Middle finger (one phalanx)                          2%
+                                • Ring finger (three phalanxes)                        8%
+                                • Ring finger (two phalanxes)                          4%
+                                • Ring finger (one phalanx)                            2%
+                                • Little finger (three phalanxes)                      6%
+                                • Little finger (two phalanxes)                        3%
+                                • Little finger (one phalanx)                          2%
+                                • All toes of one foot                                17%
+                                • Great toe (two phalanxes)                            5%
+                                • Great toe (one phalanx)                              2%
+                                • Any one toe                                          3%
+                           In order for the disability benefit to be payable, such disability must
+                           have persisted continuously for a period of at least 180 days and must,
+                           in the opinion of a suitable Medical Practitioner, appointed by the
+                           Company, be deemed permanent. The 180 days waiting period to
+                           establish permanence of disability is not applicable in case of loss by
+                           physical severance.
+
+                           Notes:
+
+                                                                                             Internal
+
+
+Rider Document
+Form No.806                     Page 2 of 15                 Policy Number
+                             SBI Life – Accident Benefit Rider - Linked (UIN: 111A042V01)
+                     An Individual, Linked, Non-Participating, Health Insurance Pure Risk Rider
+
+       Expressions       Meanings
+                            i. No benefit is payable for any pre-existing degree of disablement
+                               and if further Injury occurs only the difference between the
+                               condition prior to and after current disabilities shall be
+                               considered.
+                           ii. The total benefits paid shall not exceed the applicable Rider Sum
+                               Assured.
+                          iii. In case of multiple disabilities on the same limb in a single event,
+                               the maximum benefit payable shall be restricted to that payable
+                               upon the loss of that limb.
+                               For example, in the event of loss of one hand, only 50% of Rider
+                               Sum Assured for APPD Benefit, shall be made as per above table
+                               and the Life Assured cannot claim for the loss of fingers of the
+                               lost hand.
+                               Similarly, in case of physical severance of a higher level
+                               anatomical part the pay-out shall be restricted to the higher order
+                               payment. For example:
+                               - Thumb and four fingers of one hand would warrant a payout
+                                    of 50% as per the above table. It would not mean additional
+                                    payout for each finger and its phalanx.
+                               - Loss of Index finger (three phalanxes) by physical severance
+                                    would be eligible for 15% payout as per above table. The Life
+                                    Assured in this case shall not be eligible for additional payout
+                                    for Index finger (two phalanxes) & Index (one phalanx).
+                          iv.  Point (iii) above shall however be not applicable if the physical
+                               severance happens to any contralateral body part.
+
+                         “Loss of Speech”
+                         Total and irrecoverable loss of the ability to speak as a result of Accidental
+                         Injury to the vocal cords. The inability to speak must be established for a
+                         continuous period of 6 months. This diagnosis must be supported by
+                         medical evidence furnished by a Medical Practitioner who is an Ear, Nose,
+                         Throat (ENT) specialist.
+                         All psychiatric related causes are excluded.
+
+                         “Deafness (Loss of Hearing)”
+                         Total and irreversible loss of hearing in both ears or one ear as a result of
+                         Accident. This diagnosis must be supported by pure tone audiogram test
+                         and certified by a Medical Practitioner who is an Ear, Nose and Throat
+                         (ENT) specialist. Total means “the loss of hearing to the extent that the
+                         loss is greater than 90 decibels across all frequencies of hearing” in both
+                         or one ear(s).
+
+                         “Blindness (Loss of Sight)”
+                          I. Total, permanent and irreversible loss of all vision in both eyes or one
+                             eye as a result of Accident.
+                         II. The Blindness is evidenced by:
+                             a. Corrected visual acuity being 3/60 or less in both eyes or one eye
+                                or;
+                                                                                                  Internal
+
+
+Rider Document
+Form No.806                      Page 3 of 15                   Policy Number
+                                             SBI Life – Accident Benefit Rider - Linked (UIN: 111A042V01)
+                                    An Individual, Linked, Non-Participating, Health Insurance Pure Risk Rider
+
+       Expressions                      Meanings
+                                            b. the field of vision being less than 10 degrees in both eyes or one
+                                                eye.
+                                       III. The diagnosis of blindness must be confirmed by an Ophthalmologist
+                                            and must not be correctable by aids or surgical procedure.
+       5. Accidental Partial Permanent means the Accidental Partial Permanent Disability Benefit payable and
+           Disability Benefit (APPD more fully described under Part C Clause (II) (4) of this Rider.
+           Benefit)
+                                        means the Policy terms and conditions (Base Policy Document) to which
+       6. Base Policy
+                                        this Rider is attached.
+                                        means Injury that must be evidenced by external signs such as contusion,
+       7. Bodily Injury
+                                        bruise and wound except in cases of drowning and internal Injury.
+       8. Date of Commencement of
+                                        means the start date of the Rider as stated in the Policy Schedule.
+           the Rider
+                                        means the date stated in the Policy Schedule on which the Rider Term
+       9. Date of Expiry
+                                        expires unless the Rider has been terminated earlier.
+                                        means accidental physical bodily harm excluding any illness, solely and
+       10. Injury                       directly caused by an external, violent, visible and evident means which
+                                        is verified and certified by a Medical Practitioner.
+       11. Limited Premium Payment
+                                        means that the Rider Premium Payment Term is less than the Rider Term.
+           Rider
+                                        means a person who holds a valid registration from the medical council of
+                                        any State of India or Medical Council of India or any other such body or
+                                        Council for Indian Medicine or for Homeopathy set up by the Government
+                                        of India or by a State Government and is thereby entitled to practice
+       12. Medical Practitioner         medicine within its jurisdiction and is acting within the scope and
+                                        jurisdiction of license, provided such Medical Practitioner is not the Life
+                                        Assured covered under this Policy or the Policyholder or is not a spouse,
+                                        lineal relative of the Life Assured and/or the Policyholder or a Medical
+                                        Practitioner employed by the Policyholder/Life Assured.
+                                        A Medical Practitioner who has specialised in the branch of medicine
+       13. Ophthalmologist              concerned with the study and treatment of functions, disorders and
+                                        diseases of the eye.
+       14. Regular Premium Payment means that the Rider Premium Payment Term is the same as the Rider
+           Rider                   Term.
+                                 means the premium due under the Rider at the intervals and in the amounts
+       15. Rider Premium
+                                 specified in the Policy Schedule.
+                                 means the period specified in the Policy Schedule, during which Rider
+                                 Premiums are payable.
+                                 If the rider is opted at inception of the base policy, the premium payment
+       16. Rider Premium Payment
+                                 term shall be same as premium payment term of the base policy.
+           Term
+                                 If rider is opted at subsequent policy anniversary of the base policy, the
+                                 premium payment term shall be equal to the outstanding premium
+                                 payment term of the base policy.
+                                 means the amount specified in the Policy Schedule against the AD Benefit
+                                 and the APPD Benefit which is payable in accordance with the terms and
+       17. Rider Sum Assured
+                                 conditions of this Rider. The Rider Sum Assured represents Our
+                                 maximum, total and cumulative liability in respect of any and all claims
+                                                                                                        Internal
+
+
+Rider Document
+Form No.806                                      Page 4 of 15                 Policy Number
+                                                  SBI Life – Accident Benefit Rider - Linked (UIN: 111A042V01)
+                                        An Individual, Linked, Non-Participating, Health Insurance Pure Risk Rider
+
+         Expressions                   Meanings
+                                       arising under the AD Benefit and APPD Benefit, respectively, in respect
+                                       of the Life Assured.
+                                       For other than Single Premium Payment Rider, the Rider Sum Assured
+                                       for the AD Benefit and the APPD Benefit, shall be at least 105% of Total
+                                       Rider Premiums Paid up to the date of the occurrence of the event less any
+                                       amounts already paid under the Rider.
+                                       is the period commencing with the Date of Commencement of the Rider
+         18. Rider Term
+                                       and terminating on the Date of Expiry.
+         19. Risk Commencement Date of is the date, as stated in the Policy Schedule from which the Insurance
+         Rider                         Cover under the Rider commences.
+         20. Single Premium Payment
+                                       means that there is a one time Rider Premium payment under the Rider.
+             Rider
+                                       means the total of all the Rider Premiums paid, excluding any extra
+         21. Total Rider Premiums Paid
+                                       premium and taxes, if collected explicitly.
+
+                                                            Part C
+
+                                   I.      CONDITIONS PRECEDENT TO CONTRACT
+
+1.     Rider Premiums
+1.1.   For Limited Premium Payment Rider and Regular Premium Payment Rider, You must pay the Rider Premium due
+       for this Rider along with the premium for the Base Policy. We will not accept Rider Premium on a standalone basis.
+1.2.   Please refer to the Policy Schedule for details on Rider Premium due dates and premium payment modes.
+1.3.   If the premium mode of the Base Policy is changed, the Rider Premium mode will also automatically change.
+
+2.     Misstatement of Age
+2.1.   Please refer to Clause I “Conditions Precedent to Contract” of the Base Policy for details pertaining to the
+       misstatement of age provision which apply under the Base Policy and to the Rider.
+
+3.     Non Disclosure
+3.1.   Please refer to Clause I “Conditions Precedent to Contract” of the Base Policy for details pertaining to the non-
+       disclosure provision which apply under the Base Policy and to the Rider.
+
+4.     Nomination
+4.1.   Please refer to Clause I “Conditions Precedent to Contract” of the Base Policy for details pertaining to the
+       nomination provision which apply under the Base Policy and to the Rider.
+
+                          II.      CONDITIONS APPLICABLE DURING THE POLICY TERM
+
+                                                    RIDER BENEFITS
+
+1.     This Rider has the following two benefit options available:
+1.1.   Option A: Accidental Death Benefit (AD Benefit)
+1.2.   Option B: Accidental Partial Permanent Disability Benefit (APPD Benefit)
+
+2.     Please note all of the following carefully in relation to Your available Rider benefits:
+                                                                                                                      Internal
+
+
+Rider Document
+Form No.806                                           Page 5 of 15                  Policy Number
+                                                 SBI Life – Accident Benefit Rider - Linked (UIN: 111A042V01)
+                                        An Individual, Linked, Non-Participating, Health Insurance Pure Risk Rider
+
+2.1.   The Policy Schedule will specify if the AD Benefit or the APPD Benefit or both AD Benefit and the APPD Benefit
+       are applicable for the Life Assured under this Rider.
+2.2.   Once the benefit options have been selected by You and recorded in the Policy Schedule the benefit option cannot be
+       changed during the Rider Term.
+2.3.   All claims under this Rider in respect of the Life Assured are subject to the availability of the Rider Sum Assured for
+       the benefit claimed. If the APPD Benefit is In-Force under this Rider for the Life Assured, then any claims paid will
+       reduce the available Rider Sum Assured under the APPD Benefit for any future claims made in respect of the Life
+       Assured under the APPD Benefit.
+2.4.   Any amount payable under this Rider is separate and independent of any amounts payable under the Base Policy.
+
+3.     Option A: Accidental Death Benefit (AD Benefit)
+3.1.   On the Accidental Death of the Life Assured when the Rider is In-Force, We will pay the Rider Sum Assured for the
+       AD Benefit as a lumpsum to the Claimant and this Rider shall terminate immediately and automatically.
+
+4.     Option B: Accidental Partial Permanent Disability Benefit (APPD Benefit)
+4.1.   On the occurrence of the APPD of the Life Assured when the Rider is In-Force, We will pay the percentage of the
+       Rider Sum Assured for the APPD Benefit as specified in Part B definition 4 of this Rider to the Claimant and this
+       Rider shall continue subject to the availability of the Rider Sum Assured for the APPD Benefit. If the payment of
+       claims under this APPD Benefit results in the exhaustion of the Rider Sum Assured for the APPD Benefit, no further
+       claims will be payable under the APPD Benefit.
+
+5.     Maturity Benefit
+5.1.   There is no maturity benefit offered and/or available under this Rider.
+
+
+                                          RIDER TERMS AND CONDITIONS
+
+
+6.     Grace Period
+6.1.   Please refer to the Base Policy Document for details pertaining to the applicable Grace Period for this Rider.
+6.2.   For Single Premium Payment Rider: Not Applicable.
+6.3.   For Regular & Limited Premium Payment Rider: If We have not received the Rider Premium within the Grace Period,
+       then the Rider will automatically Lapse at the expiry of the Grace Period.
+6.4.   Once Your Rider Lapses, all risk cover under the Rider will cease.
+
+7.     Non-forfeiture Benefits
+7.1.   Paid-Up Value
+       7.1.1. No Paid-Up value is applicable.
+
+7.2.   Surrender Value
+       7.2.1. The Rider may be surrendered at any time during the Rider Term with or without the surrender of the Base
+              Policy. Once surrendered:
+              7.2.1.1. All rights and benefits under the Rider will be automatically extinguished.
+              7.2.1.2. This Rider cannot be attached again to the Base Policy.
+       7.2.2. If the Base Policy is surrendered, then this Rider will be automatically surrendered.
+       7.2.3. For Regular Premium Payment Rider: No Surrender Value is payable on surrender.
+       7.2.4. For Limited Premium Payment Rider:
+              7.2.4.1. No Surrender Value is payable if You surrender the Rider before You have paid the Rider Premiums
+                        for at least first 2 full Rider Policy Years.
+                                                                                                                     Internal
+
+
+Rider Document
+Form No.806                                           Page 6 of 15                 Policy Number
+                                                 SBI Life – Accident Benefit Rider - Linked (UIN: 111A042V01)
+                                        An Individual, Linked, Non-Participating, Health Insurance Pure Risk Rider
+
+              7.2.4.2. Surrender Value (as calculated below) is payable if You surrender the Rider after You have paid
+                       the Rider Premiums for at least first 2 full Rider Policy Years.
+              7.2.4.3. On payment of two full years rider premiums and non-payment of subsequent rider premiums, the
+                       rider lapses and it can be revived within the revival period. However if the rider is not revived, the
+                       surrender value (as calculated below) will be payable at the end of revival period and the rider shall
+                       terminate.
+       7.2.5. For Single premium payment rider: Surrender Value (as calculated below) is payable on surrender at any time
+              during the Rider Term.
+       7.2.6. Surrender Value under this Rider is calculated as follows:
+              7.2.6.1. For Limited Premium Payment Rider:
+                       70% of Total Rider Premium paid * (Unexpired Rider Term / Original Rider Term) * (1 – Rider
+                       Premium Payment Term / Original Rider Term)
+              7.2.6.2. For Single Premium Payment Rider:
+                       70% of Rider Premium * (Unexpired Rider Term / Original Rider Term)
+
+8.     Revival
+8.1.   You may revive Your Lapsed Rider during the Revival Period subject to the Base Policy being In-Force or only along
+       with the Base Policy and in accordance with the terms and conditions for Revival set out in the Base Policy Document.
+       The Revival will be effected subject to the Board Approved Underwriting Policy of the Company.
+8.2.   If a Lapsed Rider is not revived during the Revival Period, then the Rider will terminate and cannot be attached again
+       to the Base Policy.
+8.3.   The Revival will be considered on receipt of written application from the Policyholder along with the proof of
+       continued insurability of life assured and on payment of all overdue premiums with interest.
+8.4.   The interest will be charged at a rate declared by the Company from time to time. The Company policy currently is
+       based on the nominal interest rate per annum and is 250 basis points greater than the benchmark yield of Repo Rate
+       as on 1st April of each of the Financial Year and it will be compounding on a half-yearly basis. The Repo Rate as on
+       1st April 2025 is 6.25%.
+8.5.   Any change in the basis for determining interest rate for Revival shall be made subject to prior approval of the
+       Authority.
+
+9.     Rider Loan
+9.1.   No loan is available under this Rider.
+
+10. Issuance of Physical Copy of Rider
+10.1. Please refer to Clause II “Conditions applicable during the Policy Term” of the Base Policy for details pertaining to
+      the issuance of duplicate Rider Document which apply under the Base Policy and to the Rider.
+
+11. Policy Servicing
+11.1. Please refer to Clause II “Conditions applicable during the Policy Term” of the Base Policy for details pertaining to
+      the servicing of Rider which apply under the Base Policy and to the Rider.
+
+                                                      EXCLUSIONS
+
+12. Suicide Claim Provision
+12.1. If the Life Assured, commits suicide, within 12 months from the Date of Commencement of the Rider or the date of
+      Revival of the Rider, the AD Benefit shall not be payable and We will pay the higher of 80% of the Total Rider
+      Premiums Paid till the date of death or the Surrender Value available on the date of death, provided the Rider is In-
+      Force.
+
+
+                                                                                                                    Internal
+
+
+Rider Document
+Form No.806                                          Page 7 of 15                  Policy Number
+                                                  SBI Life – Accident Benefit Rider - Linked (UIN: 111A042V01)
+                                        An Individual, Linked, Non-Participating, Health Insurance Pure Risk Rider
+
+13. Exclusions for Accidental Death Benefit (AD Benefit):
+13.1. The AD Benefit shall not be paid in respect of deaths due to the consequences of or occurring during the events as
+      specified below:
+      13.1.1. Infection: Death caused or contributed to by any infection, except infection caused by an external visible
+              wound accidentally sustained.
+      13.1.2. Drug Abuse: The Life Assured being under the influence of alcohol or solvent abuse or use of drugs except
+              under the direction of a registered Medical Practitioner.
+      13.1.3. Self-inflicted Injury: Intentional self-inflicted Injury including the Injuries arising out of attempted suicide.
+      13.1.4. Criminal acts: The Life Assured’s involvement in criminal and/or unlawful acts with criminal or unlawful
+              intent.
+      13.1.5. War and Civil Commotion: War, invasion, hostilities, (whether war is declared or not), civil war, rebellion,
+              revolution, act of foreign enemy, armed or unarmed truce, mutiny, rebellion, strikes or taking part in a riot or
+              civil commotion.
+      13.1.6. Services: The Life Assured taking part in any naval, military or air force operation during peace time or
+              during service in any police, paramilitary or any similar organization.
+      13.1.7. Nuclear Contamination: The radioactive, explosive or hazardous nature of nuclear fuel materials or property
+              contaminated by nuclear fuel materials or Accident arising from such nature.
+      13.1.8. Aviation: The Life Assured’s participation in any flying activity, other than as a passenger in a commercially
+              licensed aircraft.
+      13.1.9. Hazardous sports and pastimes: The Life Assured engaging in or taking part in professional sport(s) or any
+              hazardous pursuits, including but not limited to, diving or riding or any kind of race, underwater activities
+              involving the use of breathing apparatus or not, martial arts, hunting, mountaineering, parachuting or bungee-
+              jumping.
+
+14. Exclusions for Accidental Partial Permanent Disability Benefit (APPD):
+14.1. The APPD Benefit shall not be paid in respect of any disablement of the Life Assured occurring directly or indirectly
+      as a result of (any of the following):
+      14.1.1. Self-inflicted Injury: Intentional self-inflicted Injury including the injuries arising out of attempted suicide.
+      14.1.2. Drug Abuse: The Life Assured being under the influence of alcohol or solvent abuse or use of drugs except
+               under the direction of a registered Medical Practitioner.
+      14.1.3. War and Civil Commotion: War, invasion, hostilities, (whether war is declared or not), civil war, rebellion,
+               revolution, act of foreign enemy, armed or unarmed truce, mutiny, rebellion, strikes or taking part in a riot or
+               civil commotion.
+      14.1.4. Services: The Life Assured taking part in any naval, military or air force operation during peace time or
+               during service in any police, paramilitary or any similar organization.
+      14.1.5. Aviation: The Life Assured’s participation in any flying activity, other than as a passenger in a commercially
+               licensed aircraft.
+      14.1.6. Criminal acts: The Life Assured’s involvement in criminal and/or unlawful acts with criminal or unlawful
+               intent.
+      14.1.7. Any Injury incurred before the Date of Commencement of the Rider.
+      14.1.8. Hazardous sports and pastimes: The Life Assured engaging in or taking part in professional sport(s) or any
+               hazardous pursuits, including but not limited to, diving or riding or any kind of race, underwater activities
+               involving the use of breathing apparatus or not, martial arts, hunting, mountaineering, parachuting, or bungee-
+               jumping.
+      14.1.9. Nuclear Contamination: the radio-active, explosive or hazardous nature of nuclear fuel materials or property
+               contaminated by nuclear fuel materials or accident arising from such nature.
+
+
+                                     III.     CONDITIONS WHEN A CLAIM ARISES
+                                                                                                                     Internal
+
+
+Rider Document
+Form No.806                                           Page 8 of 15                  Policy Number
+                                                 SBI Life – Accident Benefit Rider - Linked (UIN: 111A042V01)
+                                        An Individual, Linked, Non-Participating, Health Insurance Pure Risk Rider
+
+
+1. Claims under AD Benefit or APPD Benefit
+1.1. It is a condition precedent to Our liability under this Rider that on the occurrence of an event giving rise to a claim
+     under this Rider, the Claimant shall give Us a written notification of the claim at the earliest possible time. This
+     written notification shall specify at least the policy number and provide details in relation to the cause and date of
+     death/disability.
+1.2. In order to process the claim, We will require the following necessary documents:
+     1.2.1. Rider Document;
+     1.2.2. Claimant’s statement and claim forms in prescribed formats;
+     1.2.3. Copies of all hospitalization documents (discharge summary, all investigation/diagnosis reports, ECG/ TMT,
+              MRI/CT scans/ X Ray reports etc.);
+     1.2.4. Duly attested copies of First Information Report (FIR);
+     1.2.5. For Accidental Death: Valid death certificate from municipal / local authorities; Post Mortem Report,
+              Panchnama Viscera /Chemical analysis report, if the same is conducted;
+     1.2.6. For APPD: Copy of Medico-legal Case (MLC) report / certificate; Disability certificate issued by civil
+              surgeon or equivalent appointed by the District/State or Government Board; Fully filled in Family Physician
+              Statement, Last Attending Physician statement;
+     1.2.7. KYC of Life Assured/claimant
+     1.2.8. Valid bank account proof of Life Assured/Claimant (copy of cancelled cheque/copy of bank pass book/Bank
+              statement)
+1.3. Based on the information and documentation provided to Us in respect of the claim, We may call for any other
+     documents or information, if found necessary by Us in support of the claim.
+1.4. We reserve the right to call for further medical examinations if required. The same would be done by a specialist
+     appointed by Us for this purpose. The Life Assured may also be required to undergo any diagnostic tests at any of
+     the diagnostic centres appointed by Us.
+1.5. In case of any failure to: -
+     1.5.1. provide the required proof of diagnosis or
+     1.5.2. submit to any additional medical examinations, as required by Us or
+     1.5.3. undergo any tests at any of the diagnostic centres appointed by Us, We may not be able to process your claim
+              and pay you the benefit as applicable in time.
+1.6. Claim under the Policy should be filed with Us at the earliest possible time following the claim event. While We
+     may condone any delays in intimation or submission of documents, excessive delays may impact the claim settlement
+     process. However, We reserve the right to request additional information or documentation to verify the validity of
+     the claim and ensure a fair and efficient settlement process
+1.7. We will pay the claim if found admissible.
+     1.7.1. For any claim related assistance, call Us at Our Claims Helpline on Toll free Number – 18002679090
+              (Timings: 24x7) and Helpline for NRI customers: +91- 22 6928 9090 (Customer Service Timing: 24X7).
+
+2.      Surrender
+2.1.    We will require the Rider Document and other documentation as per our extant requirements to process the Surrender
+        claim.
+
+                         IV.     CONDITIONS FOR CANCELLATION OF THE POLICY
+
+ 1.      Free Look Period
+ 1.1.    You have a Free Look Period of 30 days beginning from the date of the receipt of the Rider Document,
+         whether received electronically or otherwise, to review the terms and conditions of the Rider.
+ 1.2.    If You disagree with any of the Rider terms and conditions, or otherwise, You have an option to cancel the
+         Rider by sending a written request to Us, stating the reasons for the same.
+                                                                                                                   Internal
+
+
+Rider Document
+Form No.806                                          Page 9 of 15                 Policy Number
+                                         SBI Life – Accident Benefit Rider - Linked (UIN: 111A042V01)
+                               An Individual, Linked, Non-Participating, Health Insurance Pure Risk Rider
+
+1.3.   Upon Your request and if no claim has been made under the Rider, You shall be entitled to a refund of the
+       Rider Premium paid subject only to a deduction of the proportionate risk premium for the period of cover
+       and the expenses, if any, incurred by Us on medical examination of the Life Assured and stamp duty
+       charges, irrespective of the reasons mentioned.
+1.4.   You cannot revive or restore Your Rider once You have cancelled Your Rider during the Free Look Period.
+
+2.     Surrender
+2.1.   The Rider may be surrendered at any time during the Rider Term with or without the surrender of the Base
+       Policy.
+2.2.   If You Surrender Your Rider during the Rider Term, then We will pay the Surrender Value in accordance
+       with Clause II (7) (7.2) of the Rider.
+
+3.     Termination of Your Rider
+3.1.   Your Rider will terminate on the earliest of the following:
+       3.1.1. Payment of the Free Look cancellation amount; OR
+       3.1.2. Expiry of the Rider Term; OR
+       3.1.3. Termination of the Base Policy; OR
+       3.1.4. Payment of Surrender Value of Base Policy or Rider; OR
+       3.1.5. Expiry of the Revival Period ; OR
+       3.1.6. Death of the Life Assured; OR
+       3.1.7. Payment of 100% of the applicable Rider Sum Assured under APPD Benefit, if AD Benefit is not
+              In-Force for the Life Assured under this Rider.
+
+
+                             V.      CONDITIONS FOR GRIEVANCE REDRESSAL
+
+1. Please refer to Clause V “Conditions for Grievance Redressal” of the Base Policy for details pertaining to the
+   grievance redressal procedure which apply under the Base Policy and to the Rider.
+
+                                   VI.      OTHER TERMS AND PROVISIONS
+
+1. Please refer to Clause VI “Other Terms and Provisions” of the Base Policy Document for details pertaining
+    to other terms and provision such as communications, taxation, assignment, governing laws and jurisdiction
+    etc. which apply under the Base Policy and to the Rider.
+2. Section 45 of the Insurance Act 1938, as amended from time to time
+2.1. On cancellation of Base Policy, the Rider will also get cancelled. Section 45 for the Rider shall be applicable
+       from the date of attachment of Rider to the Base Policy or from the date of revival of the Rider, as applicable.
+       [A Leaflet containing the simplified version of the provisions of Section 45 is enclosed in base policy for
+       reference.]
+
+
+
+
+                                                                                                             Internal
+Rider Document
+Form No.806                                           Page 10 of 15                  Policy Number
+                                      SBI Life – Accident Benefit Rider - Linked (UIN: 111A042V01)
+                              An Individual, Linked, Non-Participating, Health Insurance Pure Risk Rider
+
+                       CUSTOMER INFORMATION SHEET / KNOW YOUR POLICY
+                              SBI Life – Accident Benefit Rider - Linked
+
+This document provides key information about your Rider. You are advised to go through your Rider Document.
+
+Sr.    Title                     Description                                                             Rider Clause
+No.                              (Please refer to applicable Policy Clause Number in next column)        Number
+1      Name of the Insurance     SBI Life – Accident Benefit Rider – Linked (UIN: 111A042V01)            Part A
+       Rider/Policy
+2      Policy Number             _________________                                                       Part A of Base
+                                                                                                         Policy
+3      Type of                   It is an Individual, Linked, Non-Participating, Health Insurance        Part A
+       Insurance/Rider           Pure Risk Rider
+4      Rider Sum Assured         Individual Sum Assured:                                                 Part A of Base
+                                 <<Option A: Accidental Death Benefit (AD Benefit) Sum                   Policy
+                                 Assured:_________________>>
+
+                                 <<Option B: Accidental Partial Permanent Disability Benefit
+                                 (APPD Benefit) Sum Assured:_____________________ >>
+5      Rider Coverage (What      <<Option A: Accidental Death Benefit (AD Benefit)>>                     Part C Clause
+       the rider covers?)        <<Option B: Accidental Partial Permanent Disability Benefit             II (1) (1.1 &
+                                 (APPD Benefit)>>                                                        1.2)
+6      Exclusions                Exclusions for Accidental Death Benefit (AD Benefit):                   Part C Clause
+       (What the Rider does      The AD Benefit shall not be paid in respect of deaths due to the        II (13)
+       not cover)                consequences of or occurring during the events as specified below:
+                                 • Infection: Death caused or contributed to by any infection,
+                                    except infection caused by an external visible wound
+                                    accidentally sustained.
+                                 • Drug Abuse: The Life Assured under the influence of alcohol or
+                                    solvent abuse or use of drugs except under the direction of a
+                                    registered Medical Practitioner.
+                                 • Self-inflicted Injury: Intentional self-inflicted Injury including
+                                    the Injuries arising out of attempted suicide.
+                                 • Criminal acts: The Life Assured’s involvement in criminal
+                                    and/or unlawful acts with criminal or unlawful intent.
+                                 • War and Civil Commotion: War, invasion, hostilities, (whether
+                                    war is declared or not), civil war, rebellion, revolution, act of
+                                    foreign enemy, armed or unarmed truce, mutiny, rebellion,
+                                    strikes or taking part in a riot or civil commotion.
+                                 • Services: The Life Assured taking part in any naval, military or
+                                    air force operation during peace time or during service in any
+                                    police, paramilitary or any similar organization.
+                                 • Nuclear Contamination: The radioactive, explosive or hazardous
+                                    nature of nuclear fuel materials or property contaminated by
+                                    nuclear fuel materials or Accident arising from such nature.
+                                 • Aviation: Life Assured’s participation in any flying activity,
+                                    other than as a passenger in a commercially licensed aircraft.
+                                 • Hazardous sports and pastimes: The Life Assured’s engaging in
+                                    or taking part in professional sport(s) or any hazardous pursuits,
+                                                                                                         Internal
+Rider Document
+Form No.806                                        Page 11 of 15                 Policy Number
+                                    SBI Life – Accident Benefit Rider - Linked (UIN: 111A042V01)
+                           An Individual, Linked, Non-Participating, Health Insurance Pure Risk Rider
+
+                                  including but not limited to, diving or riding or any kind of race,
+                                  underwater activities involving the use of breathing apparatus or
+                                  not, martial arts, hunting, mountaineering, parachuting, or
+                                  bungee-jumping.
+
+                               Exclusions for Accidental Partial Permanent Disability Benefit          Part C Clause
+                               (APPD Benefit):                                                         II (14)
+                               The APPD Benefit shall not be paid in respect of any disablement
+                               of the Life Assured occurring directly or indirectly as a result of
+                               (any of the following):
+                               • Self-inflicted Injury: Intentional self-inflicted Injury including
+                                   the Injuries arising out of attempted suicide
+                               • Drug Abuse: The Life Assured under the influence of alcohol or
+                                   solvent abuse or use of drugs except under the direction of a
+                                   registered Medical Practitioner.
+                               • War and Civil Commotion: War, invasion, hostilities, (whether
+                                   war is declared or not), civil war, rebellion, revolution, act of
+                                   foreign enemy, armed or unarmed truce, mutiny, rebellion,
+                                   strikes or taking part in a riot or civil commotion.
+                               • Services: The Life Assured taking part in any naval, military or
+                                   air force operation during peace time or during service in any
+                                   police, paramilitary or any similar organization
+                               • Aviation: Life Assured’s participation in any flying activity,
+                                   other than as a passenger in a commercially licensed aircraft.
+                               • Criminal acts: The Life Assured’s involvement in criminal
+                                   and/or unlawful acts with criminal or unlawful intent.
+                               • Any Injury incurred before the Date of Commencement of the
+                                   Rider.
+                               • Hazardous sports and pastimes: The Life Assured engaging in or
+                                   taking part in professional sport(s) or any hazardous pursuits,
+                                   including but not limited to, diving or riding or any kind of race,
+                                   underwater activities involving the use of breathing apparatus or
+                                   not, martial arts, hunting, mountaineering, parachuting or
+                                   bungee-jumping.
+                               • Nuclear Contamination: the radio-active, explosive or hazardous
+                                   nature of nuclear fuel materials or property contaminated by
+                                   nuclear fuel materials or accident arising from such nature.
+7    Waiting period            No waiting period applicable for this Rider.
+     • Time period during
+        which specified
+        diseases/treatments
+        are not covered.
+     • It is counted from
+        the beginning of the
+        policy coverage
+8    Financial limits of       For Accidental Death Benefit (AD Benefit), no sub-limit, co-               Part B (4)
+     coverage                  payment or deductible applicable.
+      i. Sub-limit (It is a
+          pre-defined limit
+                                                                                                        Internal
+Rider Document
+Form No.806                                      Page 12 of 15                  Policy Number
+                                       SBI Life – Accident Benefit Rider - Linked (UIN: 111A042V01)
+                             An Individual, Linked, Non-Participating, Health Insurance Pure Risk Rider
+
+          and the insurance       For Accidental Partial Permanent Disability Benefit (APPD
+          company will not        Benefit), no co-payment or deductible applicable. However,
+          pay any amount in       following sub-limits shall apply basis the Bodily Injury.
+          excess of this limit)     Bodily Injuries                                     % of Rider Sum
+      ii. Co-payment (It is a                                                           Assured
+          specified amount                                                              payable
+          /percentage of the        Total and Permanent loss of:
+          admissible claim              • Hearing in both ears                                 75%
+          amount to be paid             • Hearing in one ear                                   30%
+          by                            • Sight in one eye except perception of                50%
+          policyholder/insure               light
+          d)
+                                        • Loss of one eye                                      50%
+     iii. Deductible (It is a
+          specified:                    • Loss of speech                                       50%
+          - up to which an          Total loss by physical severance:
+            insurance                   • Thumb and four fingers of one hand                   50%
+            company will not            • Four fingers of one hand                             40%
+            pay any claim,              • Thumb (both phalanxes)                               25%
+            and                         • Thumb (one phalanx)                                  10%
+          - which will be               • Index finger (three phalanxes)                       15%
+            deducted from               • Index finger (two phalanxes)                          8%
+            total claim                 • Index finger (one phalanx)                            4%
+            amount (if claim
+                                        • Amputation of one hand at or above                   50%
+            amount is more
+                                            the wrist
+            than the specified
+                                        • Amputation of one foot at or above                   50%
+            amount)
+                                            the ankle
+     iv. Any other limit (as
+          applicable)                   • Middle finger (three phalanxes)                      10%
+                                        • Middle finger (two phalanxes)                         4%
+                                        • Middle finger (one phalanx)                           2%
+                                        • Ring finger (three phalanxes)                         8%
+                                        • Ring finger (two phalanxes)                           4%
+                                        • Ring finger (one phalanx)                             2%
+                                        • Little finger (three phalanxes)                       6%
+                                        • Little finger (two phalanxes)                         3%
+                                        • Little finger (one phalanx)                           2%
+                                        • All toes of one foot                                 17%
+                                        • Great toe (two phalanxes)                             5%
+                                        • Great toe (one phalanx)                               2%
+                                        • Any one toe                                           3%
+                                    In order for the disability benefit to be payable, such disability must
+                                    have persisted continuously for a period of at least 180 days and
+                                    must, in the opinion of a suitable Medical Practitioner, appointed
+                                    by the Company, be deemed permanent. The 180 days waiting
+                                    period to establish permanence of disability is not applicable in
+                                    case of loss by physical severance.
+9    Claims / Claims              • It is a condition precedent to Our liability under this Rider that        Part C Clause
+     Procedure                        on the occurrence of an event giving rise to a claim under this              (III)
+
+                                                                                                              Internal
+Rider Document
+Form No.806                                          Page 13 of 15                   Policy Number
+                                 SBI Life – Accident Benefit Rider - Linked (UIN: 111A042V01)
+                        An Individual, Linked, Non-Participating, Health Insurance Pure Risk Rider
+
+                               Rider, the Claimant shall give Us a written notification of the
+                               claim at the earliest possible time. This written notification shall
+                               specify at least the policy number, and provide details in relation
+                               to the cause and date of death/disability.
+                            • For details, please refer the Claims section of the Rider document.
+                            • Based on the information and documentation provided to Us in
+                               respect of the claim, We may call for any other documents or
+                               information, if found necessary by Us in support of the claim.
+10   Policy Servicing       Details of Our offices: Your local SBI Life service branch:             Welcome
+                             <<SBI Life branch address>>                                            Letter of Base
+                                                                                                    Policy
+                            Our Helpline/Call Centre Number
+                                • Toll free customer service helpline 18002679090 (Customer
+                                    Service Timings: 24x7)
+                                • Helpline for NRI Customers: +91- 22 6928 9090 (Customer
+                                    Service Timings: 24x7.)
+
+                            E-mail us at info@sbilife.co.in, or visit us at www.sbilife.co.in.
+11   Grievance/Complaints   If You have any query, complaint or grievance, You may approach Part C Clause
+                            any of Our office.                                                 (V)
+
+                            You can also call us on Our toll-free number: 1800 267 9090 and
+                            Helpline for NRI Customers: +91- 22 6928 9090 (24 X 7) and these
+                            timings are subject to change
+
+                            You can also send an email to Us on wecare@sbilife.co.in
+
+                            If You are not satisfied with Our decision or have not received any
+                            response within 15 business days, You may write to Us at:
+                                Grievance Redressal Officer,
+                                SBI Life Insurance Company Limited
+                                7th Level (D Wing) & 8th Level, Seawoods Grand Central,
+                                Tower 2, Plot No. R-1, Sector 40, Seawoods,
+                                Nerul Node, Navi Mumbai - 400 706
+                                Maharashtra
+                                Telephone No.:       +91 - 22 – 6645 6785
+                                E-mail Id: ccseoffice@sbilife.co.in
+
+                            In case the complaint is not fully attended by Us within 15 days of
+                            lodging the complaint through our Grievance Redressal Mechanism;
+                            you may escalate the complaint to IRDAI through the Bima Bharosa
+                            Portal (IRDAI) website: https://bimabharosa.irdai.gov.in/ or contact
+                            IRDAI Grievance Call Centre on toll-free number : 155255 / 1800
+                            4254 732
+
+                            Insurance Ombudsman address is available on the website of IRDAI,
+                            http://www.irdai.gov.in and in our website http://www. sbilife.co.in.
+
+
+                                                                                                    Internal
+Rider Document
+Form No.806                                   Page 14 of 15                 Policy Number
+                                        SBI Life – Accident Benefit Rider - Linked (UIN: 111A042V01)
+                                An Individual, Linked, Non-Participating, Health Insurance Pure Risk Rider
+
+                                   Contact details of Ombudsman of Your region:
+                                   << Address, Telephone and Email >>
+
+12         Things to remember      Grace Period:                                                            Part C Clause
+                                   As per the Base Policy                                                   (II) (6)
+
+                                   Free Look Cancellation:                                                  Part C Clause
+                                   30 days                                                                  (IV) (1)
+
+                                   Rider Renewal:
+                                   Your rider’s renewal premium shall be payable along with the
+                                   renewal premium for base Policy.
+13         Your Obligations        Please provide correct, complete and accurate information in the
+                                   proposal form for this Rider and disclose fully all pre-existing
+                                   disease/s or condition/s of the Life Assured before buying this Rider.
+
+                                   Note: Non-disclosure or misrepresentation may affect the claim
+                                   settlement.
+
+Declaration by the Policyholder:
+
+I have received the above and I have read and confirm having noted the details.
+
+Place:
+
+Date:                                                                        (Signature of the Policyholder)
+
+Note:
+  i.        Product related documents including the customer information sheet are available on Our website
+            www.sbilife.co.in
+     ii.    In case of any conflict, the terms & conditions mentioned in the Base Policy Document/Rider Document
+            shall prevail.
+
+
+
+
+                                                                                                            Internal
+Rider Document
+Form No.806                                          Page 15 of 15                 Policy Number
+

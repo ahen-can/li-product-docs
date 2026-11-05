@@ -1,0 +1,166 @@
+{
+ "rider": {
+  "name": {
+   "value": "SBI Life - Accident Benefit Rider - Linked",
+   "status": "n/a",
+   "doc": "SBI Life - Accident Benefit Rider - Linked Brochure/Prospectus",
+   "quote": "Accident Benefit Rider – Linked",
+   "note": null,
+   "page": 1,
+   "doc_path": "docs/sbi-life/riders/111A042V01/brochure.pdf"
+  },
+  "uin": {
+   "value": "111A042V01",
+   "status": "n/a",
+   "doc": "SBI Life - Accident Benefit Rider - Linked Brochure/Prospectus",
+   "quote": "UIN: 111A042V01",
+   "note": null,
+   "page": 1,
+   "doc_path": "docs/sbi-life/riders/111A042V01/brochure.pdf"
+  },
+  "linked_or_non_linked": {
+   "value": "linked-base rider, non-participating pure risk rider; separate rider premium",
+   "status": "n/a",
+   "doc": "SBI Life - Accident Benefit Rider - Linked Brochure/Prospectus",
+   "quote": "An Individual, Linked, Non-Participating, Health Insurance Pure Risk Rider",
+   "note": "The document calls it a health insurance rider.",
+   "page": 2,
+   "doc_path": "docs/sbi-life/riders/111A042V01/brochure.pdf"
+  },
+  "attached_to_ulips": {
+   "value": [
+    "111L142V01 Smart Fortune Builder",
+    "111L143V01 Smart Privilege Plus",
+    "111L147V01 eWealth Plus",
+    "111L153V01 Smart Invest Builder"
+   ],
+   "status": "n/a",
+   "doc": null,
+   "quote": null,
+   "note": "Linked from each of these four ULIP product pages. Smart Elite Plus names only the waiver rider.",
+   "page": null,
+   "doc_path": null
+  }
+ },
+ "benefits": {
+  "waiver_of_premium": {
+   "value": "not covered",
+   "status": "not covered",
+   "doc": "SBI Life - Accident Benefit Rider - Linked Brochure/Prospectus",
+   "quote": "There are two benefit options under this rider.",
+   "note": "Two benefit options only: accidental death and accidental partial permanent disability.",
+   "page": 2,
+   "doc_path": "docs/sbi-life/riders/111A042V01/brochure.pdf"
+  },
+  "waiver_on_death_or_illness_of_proposer": {
+   "value": "not covered",
+   "status": "not covered",
+   "doc": "SBI Life - Accident Benefit Rider - Linked Brochure/Prospectus",
+   "quote": "There are two benefit options under this rider.",
+   "note": "Two benefit options only: accidental death and accidental partial permanent disability.",
+   "page": 2,
+   "doc_path": "docs/sbi-life/riders/111A042V01/brochure.pdf"
+  },
+  "critical_illness": {
+   "value": "not covered",
+   "status": "not covered",
+   "doc": "SBI Life - Accident Benefit Rider - Linked Brochure/Prospectus",
+   "quote": "There are two benefit options under this rider.",
+   "note": "Two benefit options only: accidental death and accidental partial permanent disability.",
+   "page": 2,
+   "doc_path": "docs/sbi-life/riders/111A042V01/brochure.pdf"
+  },
+  "accidental_death": {
+   "value": "Option A. Rider sum assured paid on accidental death of the life assured within 180 days of the accident. Benefit is payable even if death falls after the rider term, if the accident happened while the rider was in force.",
+   "status": "covered as an option",
+   "doc": "SBI Life - Accident Benefit Rider - Linked Brochure/Prospectus",
+   "quote": "we will pay the Rider Sum Assured for AD Benefit",
+   "note": null,
+   "page": 6,
+   "doc_path": "docs/sbi-life/riders/111A042V01/brochure.pdf"
+  },
+  "accidental_disability": {
+   "value": "Option B, partial permanent disability only. Percentage of rider sum assured by injury, for example 75% for loss of hearing in both ears, 50% for loss of one eye, 30% for hearing in one ear. Within 180 days of the accident. No total permanent disability option.",
+   "status": "covered as an option",
+   "doc": "SBI Life - Accident Benefit Rider - Linked Brochure/Prospectus",
+   "quote": "Hearing in both ears 75%",
+   "note": null,
+   "page": 8,
+   "doc_path": "docs/sbi-life/riders/111A042V01/brochure.pdf"
+  },
+  "term_cover": {
+   "value": "not covered",
+   "status": "not covered",
+   "doc": "SBI Life - Accident Benefit Rider - Linked Brochure/Prospectus",
+   "quote": "There are two benefit options under this rider.",
+   "note": "Two benefit options only: accidental death and accidental partial permanent disability.",
+   "page": 2,
+   "doc_path": "docs/sbi-life/riders/111A042V01/brochure.pdf"
+  },
+  "hospital_cash": {
+   "value": "not covered",
+   "status": "not covered",
+   "doc": "SBI Life - Accident Benefit Rider - Linked Brochure/Prospectus",
+   "quote": "There are two benefit options under this rider.",
+   "note": "Two benefit options only: accidental death and accidental partial permanent disability.",
+   "page": 2,
+   "doc_path": "docs/sbi-life/riders/111A042V01/brochure.pdf"
+  },
+  "other": {
+   "value": "If a benefit option is already inbuilt in the base policy, the rider does not offer it. Can be added at a later policy anniversary for regular and limited pay policies.",
+   "status": "covered",
+   "doc": "SBI Life - Accident Benefit Rider - Linked Brochure/Prospectus",
+   "quote": "the same benefit option shall not be offered under the rider",
+   "note": null,
+   "page": 3,
+   "doc_path": "docs/sbi-life/riders/111A042V01/brochure.pdf"
+  }
+ },
+ "terms": {
+  "rider_term": {
+   "value": "Minimum 1 year, maximum 75 less age at entry, and not beyond the outstanding base policy term. Rider premium payment term equals the base policy premium payment term (outstanding term if added later).",
+   "status": "n/a",
+   "doc": "SBI Life - Accident Benefit Rider - Linked Brochure/Prospectus",
+   "quote": "Maximum: 75 less Age at Entry",
+   "note": null,
+   "page": 4,
+   "doc_path": "docs/sbi-life/riders/111A042V01/brochure.pdf"
+  },
+  "premium_paying_rules": {
+   "value": "Single, limited or regular, aligned with the base policy. Modes follow the base policy. Half-yearly 51%, quarterly 25.5%, monthly 8.5% of annual premium. Rider premium is level and guaranteed.",
+   "status": "n/a",
+   "doc": "SBI Life - Accident Benefit Rider - Linked Brochure/Prospectus",
+   "quote": "Monthly: 8.50% of annual premium",
+   "note": null,
+   "page": 5,
+   "doc_path": "docs/sbi-life/riders/111A042V01/brochure.pdf"
+  },
+  "entry_age": {
+   "value": "18 to 65 years; maturity age 19 to 75",
+   "status": "n/a",
+   "doc": "SBI Life - Accident Benefit Rider - Linked Brochure/Prospectus",
+   "quote": "Minimum: 18 Maximum: 65",
+   "note": null,
+   "page": 4,
+   "doc_path": "docs/sbi-life/riders/111A042V01/brochure.pdf"
+  },
+  "sum_assured_limits": {
+   "value": "Minimum Rs 50,000 or the base policy minimum if lower. Maximum Rs 2 crore for accidental death (at most 3 times the base sum assured) and Rs 1.5 crore for APPD (at most the base sum assured).",
+   "status": "n/a",
+   "doc": "SBI Life - Accident Benefit Rider - Linked Brochure/Prospectus",
+   "quote": "Accidental Death Benefit (AD Benefit) – `2,00,00,000",
+   "note": null,
+   "page": 5,
+   "doc_path": "docs/sbi-life/riders/111A042V01/brochure.pdf"
+  },
+  "premium_deduction": {
+   "value": "Separate rider premium, payable in addition to the base premium with the same due date. Cannot be paid on its own. Not deducted from the fund.",
+   "status": "n/a",
+   "doc": "SBI Life - Accident Benefit Rider - Linked Brochure/Prospectus",
+   "quote": "Rider premium shall be payable in addition to the premium payable under the base policy.",
+   "note": null,
+   "page": 3,
+   "doc_path": "docs/sbi-life/riders/111A042V01/brochure.pdf"
+  }
+ }
+}

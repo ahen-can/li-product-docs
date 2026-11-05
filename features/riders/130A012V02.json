@@ -47,7 +47,7 @@
  "benefits": {
   "waiver_of_premium": {
    "value": "Option. On the life assured's accidental total and permanent disability, first diagnosis of a standard critical illness, or first diagnosis of a major condition under comprehensive critical illness, all future premiums for the base cover and the other chosen rider options are waived and the company pays them to the end of the premium payment term. The option is taken by the policyholder if the life assured and policyholder differ, otherwise by the life assured.",
-   "status": "covered (option)",
+   "status": "covered as an option",
    "doc": "Download Brochure",
    "quote": "all future premiums for the base cover along with the other Insured Event(s), shall be waived off",
    "note": "The wording says \"base cover\". The rider defines \"Base Policy\" separately (the ULIP), so \"base cover\" most likely means the rider's own first cover, and the documents do not say that the ULIP's premiums are waived. Needs a Bharti answer.",
@@ -74,7 +74,7 @@
   },
   "critical_illness": {
    "value": "Three options. Standard CI: 100% of rider sum assured on any of 12 conditions (15 for women, 3 extra). Comprehensive CI: 25% of rider sum assured (up to Rs 5,00,000) on 10 minor conditions, 100% on 58 major conditions, benefit continues after a minor claim for the balance. Cancer Care: 100% on 3 major cancer conditions, 25% (up to Rs 5,00,000) on 2 minor ones, up to 2 minor claims.",
-   "status": "covered (option)",
+   "status": "covered as an option",
    "doc": "Download Brochure",
    "quote": "25% of the respective Rider Sum Assured subject to maximum of INR 5,00,000 on pre-defined Minor conditions and 100% of the respective Rider Sum Assured on pre-defined Major conditions",
    "note": "Counts are from the condition lists: SCI rows 1 to 12 (male) and 13 to 15 (female only); CCI rows 1 to 58 major and 59 to 68 minor; Cancer Care 5 rows. Lump sum or income (1.85% of rider sum assured a month for 5 years).",
@@ -83,7 +83,7 @@
   },
   "accidental_death": {
    "value": "Option. Rider sum assured paid in addition to the base policy benefit on death by accident within 180 days.",
-   "status": "covered (option)",
+   "status": "covered as an option",
    "doc": "Download Brochure",
    "quote": "an additional amount equal to the ADB rider sum assured is payable",
    "note": null,
@@ -92,7 +92,7 @@
   },
   "accidental_disability": {
    "value": "Options. ATPD: 100% of rider sum assured for loss of two limbs, both eyes, or one limb and one eye. APPD: scheduled percentages (50% for one eye, hand or foot, down to 2% for a toe). Disability must occur within 180 days of the accident.",
-   "status": "covered (option)",
+   "status": "covered as an option",
    "doc": "Download Brochure",
    "quote": "The use of two limbs; 100 %",
    "note": null,
@@ -101,7 +101,7 @@
   },
   "term_cover": {
    "value": "The rider has no death cover other than accidental death. The six options are accidental death, total and partial disability, critical illness and cancer.",
-   "status": "not offered",
+   "status": "not covered",
    "doc": "Download Brochure",
    "quote": "Choice of one or more Rider Benefit Options (risk covers) from a list of 6 available which includes Accidental death, Total/ Partial disability, Critical illness and Cancer",
    "note": "Plain term cover is the separate Cover Plus Linked Term Rider 130A034V01.",
@@ -109,7 +109,7 @@
    "doc_path": "docs/bharti-life/riders/130A012V02/brochure.pdf"
   },
   "hospital_cash": {
-   "value": "not offered",
+   "value": "not covered",
    "status": "not covered",
    "doc": "Download Brochure",
    "quote": "Choice of one or more Rider Benefit Options (risk covers) from a list of 6 available which includes Accidental death, Total/ Partial disability, Critical illness and Cancer",
@@ -119,7 +119,7 @@
   },
   "other": {
    "value": "With Return of Premium option on ADB, ATPD and APPD: 105% of total rider premiums payable on survival to the end of the rider term. Benefits can be paid as a lump sum or as monthly income of 1.85% of rider sum assured for 5 years.",
-   "status": "covered (option)",
+   "status": "covered as an option",
    "doc": "Download Brochure",
    "quote": "105% of total rider premium payable till the date of Maturity of the policy",
    "note": null,
@@ -130,7 +130,7 @@
  "terms": {
   "rider_term": {
    "value": "Fixed 5, 10, 12, 14, 15, 16, 20, 25, 30, 35, 40, 45 or 50 years; variable to age 60, 65, 70, 75, 80 or 85. Cap by option: 67 years for ADB, ATPD, APPD (and their ROP and WoP on ATPD options); 10 years for SCI, CCI, Cancer Care and their waiver options.",
-   "status": "covered",
+   "status": "n/a",
    "doc": "Download Brochure",
    "quote": "Fixed Rider term: 5,10,12,14,15,16,20,25,30,35,40, 45, 50",
    "note": null,
@@ -139,7 +139,7 @@
   },
   "premium_paying_rules": {
    "value": "Single, limited (5, 6, 7, 8, 10, 11, 12, 15 years, or pay till 60 or 70) or regular pay. Modes: single, annual, semi-annual, quarterly and monthly (quarterly and monthly through auto pay only). Rider ends when the base policy ends or lapses, or when the rider premium stops while the base premium continues.",
-   "status": "covered",
+   "status": "n/a",
    "doc": "Download Brochure",
    "quote": "Single, Annual, semi- annual, quarterly* & monthly*",
    "note": null,
@@ -148,7 +148,7 @@
   },
   "entry_age": {
    "value": "18 to 65 years; maximum age at maturity 85",
-   "status": "covered",
+   "status": "n/a",
    "doc": "Download Brochure",
    "quote": "Maximum age at entry 65 years",
    "note": null,
@@ -157,7 +157,7 @@
   },
   "sum_assured_limits": {
    "value": "Minimum Rs 1,00,000. No maximum, subject to the company's board-approved underwriting policy.",
-   "status": "covered",
+   "status": "n/a",
    "doc": "Download Brochure",
    "quote": "Minimum Sum Assured (Rs.) Rs 1,00,000",
    "note": null,
@@ -166,7 +166,7 @@
   },
   "premium_deduction": {
    "value": "Separate rider premium paid with the base premium. The ULIP brochure says the rider is availed by \"paying additional premium\". The rider documents do not mention deduction from the fund.",
-   "status": "covered",
+   "status": "n/a",
    "doc": "Download Brochure",
    "quote": "the following rider can be availed by paying additional premium along with Bharti AXA Life Grow Wealth",
    "note": null,

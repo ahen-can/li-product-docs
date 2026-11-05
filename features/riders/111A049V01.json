@@ -1,0 +1,176 @@
+{
+ "rider": {
+  "name": {
+   "value": "SBI Life - Waiver of Premium Rider - Linked",
+   "status": "n/a",
+   "doc": "SBI Life - Waiver of Premium Rider - Linked Brochure/Prospectus",
+   "quote": "Waiver of Premium Rider-Linked",
+   "note": null,
+   "page": 1,
+   "doc_path": "docs/sbi-life/riders/111A049V01/brochure.pdf"
+  },
+  "uin": {
+   "value": "111A049V01",
+   "status": "n/a",
+   "doc": "SBI Life - Waiver of Premium Rider - Linked Brochure/Prospectus",
+   "quote": "UIN: 111A049V01",
+   "note": null,
+   "page": 1,
+   "doc_path": "docs/sbi-life/riders/111A049V01/brochure.pdf"
+  },
+  "linked_or_non_linked": {
+   "value": "linked-base rider, non-participating pure risk rider; separate rider premium",
+   "status": "n/a",
+   "doc": "SBI Life - Waiver of Premium Rider - Linked Brochure/Prospectus",
+   "quote": "An Individual, Linked, Non-Participating, Pure Risk Health Insurance rider",
+   "note": "The document calls it a health insurance rider.",
+   "page": 2,
+   "doc_path": "docs/sbi-life/riders/111A049V01/brochure.pdf"
+  },
+  "attached_to_ulips": {
+   "value": [
+    "111L142V01 Smart Fortune Builder",
+    "111L143V01 Smart Privilege Plus",
+    "111L146V01 Smart Elite Plus",
+    "111L147V01 eWealth Plus",
+    "111L153V01 Smart Invest Builder"
+   ],
+   "status": "n/a",
+   "doc": null,
+   "quote": null,
+   "note": "Linked from each of these five ULIP product pages and named in their brochures. Smart Scholar Plus (waiver built in) and Retire Smart Plus link no rider.",
+   "page": null,
+   "doc_path": null
+  }
+ },
+ "benefits": {
+  "waiver_of_premium": {
+   "value": "The rider is the waiver. If the proposer and life assured are the same: on accidental total permanent disability or diagnosis of a covered critical illness. If they differ: on death of the proposer, or the proposer's ATPD or critical illness. From the event, all future premiums under the base policy are paid by the company, including extra premiums and any other rider premium, excluding the waiver rider's own premium.",
+   "status": "covered",
+   "doc": "SBI Life - Waiver of Premium Rider - Linked Brochure/Prospectus",
+   "quote": "All the future premium under the base policy will be paid by Us on Your behalf on the Premium Payment Due Dates.",
+   "note": "Unambiguous: the brochure says \"base policy\" and defines the waived premiums as those under the SBI Life base policy. 90 day waiting period and 30 day survival period for critical illness. Not available with a single premium base policy.",
+   "page": 4,
+   "doc_path": "docs/sbi-life/riders/111A049V01/brochure.pdf"
+  },
+  "waiver_on_death_of_life_assured": {
+   "value": "not covered when proposer and life assured are the same (only ATPD and critical illness trigger)",
+   "status": "not covered",
+   "doc": "SBI Life - Waiver of Premium Rider - Linked Brochure/Prospectus",
+   "quote": "If Proposer and Life Assured are same under the Base Policy:",
+   "note": null,
+   "page": 2,
+   "doc_path": "docs/sbi-life/riders/111A049V01/brochure.pdf"
+  },
+  "waiver_on_death_or_illness_of_proposer": {
+   "value": "Death, ATPD or critical illness of the proposer, when the proposer is not the life assured",
+   "status": "covered",
+   "doc": "SBI Life - Waiver of Premium Rider - Linked Brochure/Prospectus",
+   "quote": "Death of the Proposer",
+   "note": null,
+   "page": 2,
+   "doc_path": "docs/sbi-life/riders/111A049V01/brochure.pdf"
+  },
+  "critical_illness": {
+   "value": "No lump sum. Diagnosis of any of 20 covered conditions only triggers the premium waiver.",
+   "status": "not covered",
+   "doc": "SBI Life - Waiver of Premium Rider - Linked Brochure/Prospectus",
+   "quote": "Diagnosis of any one of the covered Critical Illness (CI) of the Proposer",
+   "note": "Counted 20: cancer, myocardial infarction, open chest CABG, heart valve surgery, coma, kidney failure, stroke, major organ or bone marrow transplant, permanent paralysis, motor neuron disease, multiple sclerosis, benign brain tumour, blindness, end stage lung failure, end stage liver failure, loss of speech, loss of limbs, major head trauma, primary pulmonary hypertension, third degree burns. See waiver_of_premium.",
+   "page": 2,
+   "doc_path": "docs/sbi-life/riders/111A049V01/brochure.pdf"
+  },
+  "accidental_death": {
+   "value": "not covered",
+   "status": "not covered",
+   "doc": "SBI Life - Waiver of Premium Rider - Linked Brochure/Prospectus",
+   "quote": "On occurrence of specified contingencies as mentioned above in relation to the proposer under the base policy during the rider term, future premiums",
+   "note": null,
+   "page": 4,
+   "doc_path": "docs/sbi-life/riders/111A049V01/brochure.pdf"
+  },
+  "accidental_disability": {
+   "value": "No payout. Accidental total permanent disability only triggers the waiver.",
+   "status": "not covered",
+   "doc": "SBI Life - Waiver of Premium Rider - Linked Brochure/Prospectus",
+   "quote": "Accidental Total Permanent Disability (ATPD)",
+   "note": "See waiver_of_premium.",
+   "page": 2,
+   "doc_path": "docs/sbi-life/riders/111A049V01/brochure.pdf"
+  },
+  "term_cover": {
+   "value": "not covered",
+   "status": "not covered",
+   "doc": "SBI Life - Waiver of Premium Rider - Linked Brochure/Prospectus",
+   "quote": "No Maturity benefit is payable under this rider.",
+   "note": null,
+   "page": 4,
+   "doc_path": "docs/sbi-life/riders/111A049V01/brochure.pdf"
+  },
+  "hospital_cash": {
+   "value": "not covered",
+   "status": "not covered",
+   "doc": "SBI Life - Waiver of Premium Rider - Linked Brochure/Prospectus",
+   "quote": "On occurrence of specified contingencies as mentioned above in relation to the proposer under the base policy during the rider term, future premiums",
+   "note": null,
+   "page": 4,
+   "doc_path": "docs/sbi-life/riders/111A049V01/brochure.pdf"
+  },
+  "other": {
+   "value": "No maturity benefit, no surrender value, no paid-up value, no loan.",
+   "status": "not covered",
+   "doc": "SBI Life - Waiver of Premium Rider - Linked Brochure/Prospectus",
+   "quote": "On Surrender during rider term, no benefit is payable.",
+   "note": null,
+   "page": 6,
+   "doc_path": "docs/sbi-life/riders/111A049V01/brochure.pdf"
+  }
+ },
+ "terms": {
+  "rider_term": {
+   "value": "Opted at inception: same as the base policy premium payment term, minimum 5 years. Opted at a later anniversary: the outstanding premium payment term, minimum 5 years.",
+   "status": "n/a",
+   "doc": "SBI Life - Waiver of Premium Rider - Linked Brochure/Prospectus",
+   "quote": "subject to a minimum of 5 years",
+   "note": null,
+   "page": 4,
+   "doc_path": "docs/sbi-life/riders/111A049V01/brochure.pdf"
+  },
+  "premium_paying_rules": {
+   "value": "Rider premium payment term is the same as the rider term. Modes follow the base policy (annual, half-yearly, quarterly, monthly). Not available with a single premium base policy. Premium under all health riders together may not exceed 100% of the base premium.",
+   "status": "n/a",
+   "doc": "SBI Life - Waiver of Premium Rider - Linked Brochure/Prospectus",
+   "quote": "This rider cannot be opted with Single Premium base policy.",
+   "note": null,
+   "page": 5,
+   "doc_path": "docs/sbi-life/riders/111A049V01/brochure.pdf"
+  },
+  "entry_age": {
+   "value": "18 to 65 years; maturity age 23 to 70",
+   "status": "n/a",
+   "doc": "SBI Life - Waiver of Premium Rider - Linked Brochure/Prospectus",
+   "quote": "Minimum - 18 Maximum - 65",
+   "note": null,
+   "page": 4,
+   "doc_path": "docs/sbi-life/riders/111A049V01/brochure.pdf"
+  },
+  "sum_assured_limits": {
+   "value": "Minimum Rs 10,000, maximum Rs 1,00,00,000. Rider sum assured is the present value of future premiums and may not exceed the base policy sum assured.",
+   "status": "n/a",
+   "doc": "SBI Life - Waiver of Premium Rider - Linked Brochure/Prospectus",
+   "quote": "Minimum Rider Sum Assured: INR 10,000",
+   "note": null,
+   "page": 5,
+   "doc_path": "docs/sbi-life/riders/111A049V01/brochure.pdf"
+  },
+  "premium_deduction": {
+   "value": "Separate rider premium, payable in addition to the base premium and on the same due date and mode. Not deducted from the fund.",
+   "status": "n/a",
+   "doc": "SBI Life - Waiver of Premium Rider - Linked Brochure/Prospectus",
+   "quote": "Rider premium shall be payable in addition to the premium payable under the base policy.",
+   "note": null,
+   "page": 3,
+   "doc_path": "docs/sbi-life/riders/111A049V01/brochure.pdf"
+  }
+ }
+}

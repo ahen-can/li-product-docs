@@ -1,33 +1,42 @@
-"""Adds rows to results/ulip_rider_map.csv for one insurer: python3 -I scripts/s2_tools/ridermap.py SLUG
-Finds the page of each ULIP document where a rider UIN is named. Rider names and benefit lists come from RIDERS below."""
-import csv, os, re, subprocess, sys
-slug = sys.argv[1]
+"""Rebuilds results/ulip_rider_map.csv for the given insurer slugs (appending to other insurers' rows):
+    python3 -I scripts/s2_tools/ridermap.py bharti-life sbi-life
+For each ULIP of the insurer it finds the pages of its brochure, policy and CIS where a stored rider's UIN appears.
+Rider names and the benefit list come from features/riders/<UIN>.json."""
+import csv, glob, json, os, re, subprocess, sys
 OUT = 'results/ulip_rider_map.csv'
 H = ['ulip_uin', 'ulip_name', 'rider_uin', 'rider_name', 'link_stated_in', 'benefits_covered']
-RIDERS = {
- '130A012V02': ('Bharti AXA Life Linked Complete Shield Rider', 'waiver of premium (option, on accidental total and permanent disability or critical illness); critical illness (standard, comprehensive, cancer care); accidental death; accidental disability (total and permanent, partial)'),
- '130A034V01': ('Bharti AXA Life Cover Plus Linked Term Rider', 'term cover (death from any cause); no waiver, critical illness or disability'),
-}
-ulips = [r for r in csv.DictReader(open('briefs/ulip_riders_named.csv')) if r['ulip_uin'] in {x['uin'] for x in csv.DictReader(open('index.csv')) if x['file_path'].startswith(f'docs/{slug}/')}]
-done = {(r['ulip_uin'], r['rider_uin']) for r in csv.DictReader(open(OUT))} if os.path.exists(OUT) else set()
-new = not os.path.exists(OUT)
-rows = []
-for u in ulips:
-    found = False
-    for dt in ('brochure', 'policy', 'cis'):
-        pdf = f'docs/{slug}/{u["ulip_uin"]}/{dt}.pdf'
-        if not os.path.exists(pdf): continue
-        pages = subprocess.run(['pdftotext', '-layout', pdf, '-'], capture_output=True, text=True).stdout.split('\f')
-        for ruin, (rname, ben) in RIDERS.items():
-            for i, p in enumerate(pages, 1):
-                if ruin in re.sub(r'\s', '', p) or ruin in p:
-                    if (u['ulip_uin'], ruin) not in done:
-                        rows.append([u['ulip_uin'], u['ulip_name'], ruin, rname, f'{dt}, page {i}', ben]); done.add((u['ulip_uin'], ruin)); found = True
-                    break
-    if not any(r[0] == u['ulip_uin'] for r in rows) and not any(k[0] == u['ulip_uin'] for k in done):
-        rows.append([u['ulip_uin'], u['ulip_name'], '', '', '', 'no rider named in the documents'])
-with open(OUT, 'a', newline='') as o:
-    w = csv.writer(o)
-    if new: w.writerow(H)
-    w.writerows(rows)
-print(len(rows), 'rows')
+def benefits(d):
+    names = {'waiver_of_premium': 'waiver of premium', 'critical_illness': 'critical illness', 'accidental_death': 'accidental death',
+             'accidental_disability': 'accidental disability', 'term_cover': 'term cover', 'hospital_cash': 'hospital cash'}
+    out = [n for k, n in names.items() if d['benefits'][k]['status'].startswith('covered')]
+    return '; '.join(out) or 'none of the listed benefits'
+slugs = sys.argv[1:]
+keep = [r for r in csv.DictReader(open(OUT))] if os.path.exists(OUT) else []
+ulip_slug = {}
+for x in csv.DictReader(open('index.csv')):
+    if x['file_path'].startswith('docs/') and '/riders/' not in x['file_path']: ulip_slug[x['uin']] = x['file_path'].split('/')[1]
+named = {r['ulip_uin']: r for r in csv.DictReader(open('briefs/ulip_riders_named.csv'))}
+new = []
+for slug in slugs:
+    riders = {}
+    for f in glob.glob('features/riders/*.json'):
+        d = json.load(open(f)); u = d['rider']['uin']['value']
+        if os.path.isdir(f'docs/{slug}/riders/{u}'): riders[u] = (d['rider']['name']['value'], benefits(d))
+    for uin, nm in named.items():
+        if ulip_slug.get(uin) != slug: continue
+        n0 = len(new)
+        for dt in ('brochure', 'policy', 'cis'):
+            pdf = f'docs/{slug}/{uin}/{dt}.pdf'
+            if not os.path.exists(pdf): continue
+            pages = subprocess.run(['pdftotext', '-layout', pdf, '-'], capture_output=True, text=True).stdout.split('\f')
+            for ruin, (rname, ben) in riders.items():
+                if any(r[0] == uin and r[2] == ruin for r in new): continue
+                for i, p in enumerate(pages, 1):
+                    if ruin in p or ruin in re.sub(r'\s', '', p):
+                        new.append([uin, nm['ulip_name'], ruin, rname, f'{dt}, page {i}', ben]); break
+        if len(new) == n0: new.append([uin, nm['ulip_name'], '', '', '', 'no rider named in the documents'])
+rows = [[r[h] for h in H] for r in keep if ulip_slug.get(r['ulip_uin']) not in slugs] + new
+rows.sort(key=lambda r: (r[0], r[2]))
+with open(OUT, 'w', newline='') as o:
+    w = csv.writer(o); w.writerow(H); w.writerows(rows)
+print(len(new), 'rows for', slugs, '| total', len(rows))

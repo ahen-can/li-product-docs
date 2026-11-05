@@ -44,7 +44,7 @@
  },
  "benefits": {
   "waiver_of_premium": {
-   "value": "not offered",
+   "value": "not covered",
    "status": "not covered",
    "doc": "Download Brochure",
    "quote": "Financial protection against Death:",
@@ -53,7 +53,7 @@
    "doc_path": "docs/bharti-life/riders/130A034V01/brochure.pdf"
   },
   "waiver_on_death_or_illness_of_proposer": {
-   "value": "not offered",
+   "value": "not covered",
    "status": "not covered",
    "doc": "Download Brochure",
    "quote": "Financial protection against Death:",
@@ -62,7 +62,7 @@
    "doc_path": "docs/bharti-life/riders/130A034V01/brochure.pdf"
   },
   "critical_illness": {
-   "value": "not offered",
+   "value": "not covered",
    "status": "not covered",
    "doc": "Download Brochure",
    "quote": "Financial protection against Death:",
@@ -72,7 +72,7 @@
   },
   "accidental_death": {
    "value": "Death from any cause is covered by the term cover. There is no separate accidental death option.",
-   "status": "covered (as part of term cover)",
+   "status": "covered",
    "doc": "Download Brochure",
    "quote": "In the event of death of Life Insured, the Sum Assured under the Rider will be paid to the Policyholder/nominee in addition to the Sum Assured under the base policy",
    "note": null,
@@ -80,7 +80,7 @@
    "doc_path": "docs/bharti-life/riders/130A034V01/brochure.pdf"
   },
   "accidental_disability": {
-   "value": "not offered",
+   "value": "not covered",
    "status": "not covered",
    "doc": "Download Brochure",
    "quote": "Financial protection against Death:",
@@ -98,7 +98,7 @@
    "doc_path": "docs/bharti-life/riders/130A034V01/brochure.pdf"
   },
   "hospital_cash": {
-   "value": "not offered",
+   "value": "not covered",
    "status": "not covered",
    "doc": "Download Brochure",
    "quote": "Financial protection against Death:",
@@ -119,7 +119,7 @@
  "terms": {
   "rider_term": {
    "value": "10, 15, 20, 25, 30, 35 or 40 years",
-   "status": "covered",
+   "status": "n/a",
    "doc": "Download Brochure",
    "quote": "10, 15, 20, 25, 30, 35, 40",
    "note": null,
@@ -128,7 +128,7 @@
   },
   "premium_paying_rules": {
    "value": "Single pay (1 year), limited pay (5, 6, 7, 10, 12 or 15 years) or regular pay (10 to 40 years, equal to the term). Modes: single, annual, semi-annual, quarterly and monthly (quarterly and monthly through auto pay only).",
-   "status": "covered",
+   "status": "n/a",
    "doc": "Download Brochure",
    "quote": "Single, Annual, semi- annual, quarterly* & monthly*",
    "note": null,
@@ -137,7 +137,7 @@
   },
   "entry_age": {
    "value": "18 to 60 years; maximum age at maturity 100",
-   "status": "covered",
+   "status": "n/a",
    "doc": "Download Brochure",
    "quote": "Maximum age at entry 60 years",
    "note": null,
@@ -146,7 +146,7 @@
   },
   "sum_assured_limits": {
    "value": "Minimum Rs 25,000. No maximum, subject to the company's board-approved underwriting policy.",
-   "status": "covered",
+   "status": "n/a",
    "doc": "Download Brochure",
    "quote": "Minimum Sum Assured (Rs.) Rs. 25,000",
    "note": null,
@@ -155,7 +155,7 @@
   },
   "premium_deduction": {
    "value": "Separate rider premium. The ULIP brochure says the rider is availed by \"paying additional premium\". The rider documents do not mention deduction from the fund.",
-   "status": "covered",
+   "status": "n/a",
    "doc": "Download Brochure",
    "quote": "the following rider can be availed by paying additional premium along with Bharti AXA Life",
    "note": null,
