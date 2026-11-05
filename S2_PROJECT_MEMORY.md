@@ -159,3 +159,6 @@ Done for all 10 wave 1 insurers: 30 riders, 60 documents in `docs/<insurer>/ride
 - **Findings.** Waiver of the ULIP premium comes through a rider on 44 of 84 ULIPs (Bharti's wording unclear). Bajaj, Canara HSBC, Ageas and LIC have none. Bharti's rider documents were found by the QA of the "lacks" claims.
 - **Open.** Tata retry list (Linked Comprehensive Health, OPD Care, 110A167V02). Fields marked "not stated" because the text read did not show them (rider premium deduction for ABSLI, Bajaj critical illness rider, Canara, Ageas critical shield, Axis none) need a second read. Quote strength: some table quotes are short because two-column text breaks long phrases; S1's rule that a quote carries the value is met for the main benefit fields.
 - Rider docs now exist for Bharti in both `docs/bharti-life/riders/` (source) and S3's `manual-uploads/`.
+
+## Full rider harvest (5 Nov)
+User asked for every rider, to build a full repository. `scripts/rider_harvest.py SLUG "Insurer" SEEDS --follow REGEX [--skip] [--extra-doc]` then `scripts/s2_tools/rider_prune.py` then `scripts/s2_tools/rider_universal.py`. Seeds used are in the CHAT entry and harvest log (rider pages, sitemaps or product pages per insurer). Result: 149 of 225 Council riders, 372 documents. Gaps: blocked sites 32, not found 44 (Generali, IndusInd, Pramerica, SBI, Acko mostly).

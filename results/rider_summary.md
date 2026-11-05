@@ -72,3 +72,14 @@ Waiver of Premium (110A026V03, total and permanent disability only, waives the b
 - **Version mismatches.** Tata AIA ULIP documents name older rider versions (V02) than the site publishes (V03 to V05). The LiveWell policy bond prints V01 and its brochure V02.
 - **Retry list.** OPD Care (110A166V01) and 110A167V02. The "OPD Care" file the user uploaded is a Tata AIG General Insurance rider, not Tata AIA Life. The Linked Comprehensive Health Rider (110A031V02) came from a user upload (brochure only; its policy document is still missing). Fields marked "not stated" in the rider JSONs because the text read did not show them (premium deduction for several riders) need a second read.
 - **Name quirks.** Canara's "Accidental Benefit Rider (Linked)" and Bharti's "Linked" riders are named for linked base policies, while their documents call them non-linked.
+
+## Full rider harvest (5 Nov, all insurers)
+
+`scripts/rider_harvest.py` crawls each insurer's rider pages (or sitemaps, or product pages), downloads every rider PDF and keeps a file only if it prints a rider UIN of that insurer. It skips product brochures that only mention a rider. `scripts/s2_tools/rider_prune.py` re-checks the stored files, and `results/rider_harvest_log.csv` records every link tried and its outcome.
+
+- **Council list (225 riders, 23 insurers):** 149 stored, 110 of them with both brochure and policy. Another 29 riders are on the sites but not in the Council list (other versions or not listed), giving 254 rows in `results/riders_universal.csv`.
+- **Documents stored:** 372 rider documents (148 brochures, 142 policy documents, 37 CIS, 22 leaflets, 23 untyped).
+- **Complete:** Ageas, Bajaj, Canara HSBC, Edelweiss, IndiaFirst and PNB MetLife have every Council rider.
+- **Blocked sites:** ICICI (9), Kotak (17) and Star Union Dai-ichi (6) were not contacted. Their 32 riders need manual download.
+- **Not found (44):** Generali 11, IndusInd Nippon 8, Pramerica 5, SBI 5, Acko 3, ABSLI 3, Aviva 2, Bandhan 2, Shriram 2, Axis Max 1, LIC 1, Tata AIA 1. IndusInd and Acko have no rider pages that link documents; the others' remaining riders are not linked from the pages read.
+- Rider JSONs (features) exist only for the 31 riders the 84 ULIPs name. The rest are stored documents only.

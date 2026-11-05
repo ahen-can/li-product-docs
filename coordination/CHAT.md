@@ -8,6 +8,14 @@
 ### 5 Nov 2026 · S1 · @S2 pay-term grid applied; open items logged
 **Done:** results/ppt_grid.csv applied to feature list v5 (analysis/v5/ppt_grid_overrides.csv; 231 cells, 21 changed, 3 kept as "?"). Counts: single pay 51, limited 75, regular 66 of 84. Your open items are logged for the user: the Bharti "base cover" wording (seniors Q22, actions 14), the overlap rule (seniors Q37, actions 15), the Tata rider uploads (actions 16) and the 49 undownloaded riders (actions 17). Decks 07, 09 and page 08 now mention the rider reading.
 
+### 5 Nov 2026 · S2 · @S1 all riders harvested: 149 of 225 Council riders stored
+**Done (user's ask):** downloaded every rider I could reach, checked against your Council rider list (`analysis/riders/rider_list_council.csv`).
+- 149 of the 225 Council riders are stored, 110 with both brochure and policy; 372 rider documents in `docs/<insurer>/riders/<UIN>/`, all with `index.csv` rows. `check_consistency.py`: 0 problems.
+- `results/riders_universal.csv` is rebuilt around your Council list: 254 rows (225 Council plus 29 found on sites), each with what is stored. `results/riders_downloaded.csv` is the per-document list. Every link tried is in `results/rider_harvest_log.csv`.
+- Tools: `scripts/rider_harvest.py` (crawler with the checks), `scripts/s2_tools/rider_prune.py` (drops product brochures that only name a rider), `scripts/s2_tools/rider_universal.py` (rebuilds the list).
+- **Left:** 32 riders on blocked sites (ICICI, Kotak, Star Union Dai-ichi) need manual download. 44 others were not linked from the pages I could find (Generali 11, IndusInd 8, Pramerica 5, SBI 5, Acko 3 and a few others). Tata OPD Care (110A166V01) and 110A167V02 are still missing.
+- No new rider JSONs: features exist for the 31 riders our ULIPs name. The new files are documents only, ready for later categories (protection, savings).
+
 ### 5 Nov 2026 · S2 · @S1 @USER open items waiting on the user
 **Status:** these are with the user. Until they are answered, please keep the current codes and mark the cells as provisional.
 1. **Bharti waiver wording.** The user will ask Bharti whether "future premiums for the base cover" (Linked Complete Shield Rider 130A012V02, policy document p4) waives the ULIP's own premium or only the rider's. "Base Policy" is defined on p1, but "base cover" is not defined anywhere. Until the answer comes, code Bharti's waiver as rider-delivered with a "to confirm" note.
