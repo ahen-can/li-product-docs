@@ -1,0 +1,1320 @@
+          Rider Policy Document – Bharti AXA Life Non Linked Group Complete Shield Rider
+                    A Non-Linked Non-Participating Group Health Insurance Rider
+
+                                                   Part B
+1.   Definitions: (meaning of technical words               j)   Customer Information Sheet (CIS) means
+     used in the Rider Policy Document)                          a document provided by the Company
+     [The terms defined below shall have the                     along with the COI, which ensures that the
+     meaning attributed to them wherever                         Master Policyholder/Members are well
+     they appear in this Rider Policy                            informed about their coverage, rights and
+     Document. All terms defined in the Base                     responsibilities.
+     Policy and used in this Rider Policy
+     Document in defined form will have the                 k)   Date of Commencement / Inception of
+     same meaning as defined in the Base                         Rider means the date specified in the Rider
+     Policy document.]                                           Schedule/COI from which the insurance
+                                                                 coverage under this Rider commences for
+a)   Accident means a sudden, unforeseen                         the Member.
+     and involuntary event caused by external,
+     visible and violent means which causes                 l)   Diagnosis means the conclusion drawn by
+     bodily injury but excludes illness and                      a registered Medical Practitioner for the first
+     disease.                                                    time about a medical condition of the
+                                                                 Member, supported by acceptable clinical,
+b)   Age means the Age of the Member as at                       radiological, histological, histo-pathological,
+     the last birthday in completed years.                       and laboratory evidence, as applicable.
+
+c)   Annexure      means     any   annexure;                m) Entry Date means the date on which an
+     endorsement attached to this Rider as                     eligible individual is admitted as an insured
+     changed/ modified and issued by Us from                   Member under this Rider Policy. Under
+     time to time.                                             Non-Employer-Employee cases, this date
+                                                               is mentioned on the Certificate of Insurance
+d)   Annual Renewal Date means the date                        (COI). Under Employer- Employee cases,
+     corresponding to the Date of Inception of                 this date is determined as per Scheme
+     the Rider cover in each period of 12                      Rules i.e., the relevant rules framed by the
+     (Twelve) consecutive calendar months.                     Employer and accepted by the Company.
+
+e)   Annualized Rider Premium means the                     n)   Expiry/Maturity Date means the date
+     Rider Premium payable in a year excluding                   specified in the Rider Schedule/COI on
+     the taxes, underwriting extra premiums and                  which the Rider Coverage Term shall expire
+     loading for modal premiums, if any.                         for Master Policyholder/ particular Member.
+
+                                                            o)   Free Look Period means the period of 30
+f)   Base Policy means the group insurance                       (Thirty) days specified under Part D from
+     product issued by Us to which this Rider is                 the date of receipt of this Rider/COI,
+     attached.                                                   whether     received    electronically  or
+                                                                 otherwise.
+g)   Base Policy Sum Assured means the sum
+     assured on death applicable to the                     p)   Grace Period means the specified period
+     concerned Member under the Base Policy.                     of time, immediately following the Rider
+                                                                 Premium due date during which Rider
+h)   BAUP       means    Board     Approved                      Premium payment can be made to renew
+     Underwriting Policy of Bharti Axa Life                      or continue the Rider in force without loss
+     Insurance Company Limited.                                  of continuity benefits pertaining to Waiting
+                                                                 Periods and coverage of Pre-existing
+                                                                 Diseases. The grace period for payment of
+i)   Certificate of Insurance (COI) means a                      the Rider Premium shall be: 15 (Fifteen)
+     document stating the benefits payable to                    days where Rider Premium Payment Mode
+     the Member and other details pertaining to                  is monthly and 30 (Thirty) days in all other
+     the coverage of the Member under this                       cases.
+     Rider Policy Document.
+                                                            q)   Injury means accidental physical bodily
+                                                                 harm excluding illness or disease solely
+
+
+
+
+UIN: 130B035V01                                                          Page 1 of 27
+                Rider Policy Document – Bharti AXA Life Non Linked Group Complete Shield Rider
+                          A Non-Linked Non-Participating Group Health Insurance Rider
+
+        and directly caused by external, violent,              the terms and conditions of the Rider, upon
+        visible and evident means which is verified            being satisfied as to the continued
+        and certified by a Medical Practitioner.               insurability of the Member on the basis of
+                                                               the information, documents and reports
+   r)   Insured Event(s) means Accidental                      furnished by the Master Policyholder/
+        Death, Accidental Total & Permanent                    Member , in accordance with BAUP.
+        Disability (ATPD), Accidental Permanent &
+        Partial Disability (APPD), Terminal Illness      x)    Revival Period means the period provided
+        (TI), and Critical Illness.                            in the Base Policy for revival of the Base
+                                                               Policy.
+   s)   Lapse means the status of the Rider where
+        the Rider Premium due is not received on         y)      Pre-existing     Disease       means    any
+        the Rider Premium due date or before the                 condition, aliment, Injury or disease :
+        expiry of the Grace Period.                            i. That is/are diagnosed by a Medical
+                                                                   Practitioner within 36 months prior to the
+   t)   Medical Practitioner/ Specialist Medical                   Date of Commencement of Rider issued
+        Practitioner means a person who holds a                    by the Company or its reinstatement; or
+        valid registration from the Medical Council           ii. For which medical advice or treatment
+        of any State or Medical Council of India or
+                                                                   was recommended by, or received from,
+        Council for Indian Medicine or for
+        Homeopathy set up by the Government of                     a Medical Practitioner within 36 months
+        India or a State Government and is thereby                 prior to the Date of Commencement of
+        entitled to practice medicine within its                   Rider issued by the Company or its
+        jurisdiction; and is acting within the scope               reinstatement.
+        and jurisdiction of license. The Medical                 Coverage for any Pre-existing Disease
+        Practitioner/ Specialist Medical Practitioner            under the Rider after the expiry of 36
+        shall not include:
+                                                                 months is subject to the same being
+        (i)      The Member himself /herself; or                 declared at the time of application and
+        (ii)     An       authorized     Insurance               accepted by the Company.
+                 Intermediary (or related persons)
+                 involved with selling or servicing      z)    Rider means this Bharti AXA Life Group
+                 the    insurance     contract    in           Rider which is purchased to be added to
+                 question; or                                  the Base Policy. It is not a standalone
+        (iii)    Employed by or under contractual              document and should be read along with
+                 engagement with the Insurance                 Base Policy.
+                 Company;
+        (iv)     Related to the Member by blood          aa) Rider Benefit(s) means an amount of
+                 or marriage. "                              benefit payable on occurrence of a
+                                                             specified event covered under this Rider,
+   u)   Member means a person who meets the                  and is an additional benefit to the benefit
+        eligibility criteria specified in the Scheme         under the Base Policy.
+        Rules and whose name has been recorded
+        under the Scheme and this Rider Policy as        bb) Rider Cover means the coverage of risk of
+        a Member effective from the Entry Date               the Member on happening of any of the
+        after due approval from the Company and              Insured Event(s) covered under the Rider
+        with respect to whom the health insurance            Benefit(s) chosen by the Master
+        cover under this Rider Policy has been               Policyholder/Member, as applicable, under
+        effected.                                            the Rider.
+
+   v)   Minor is a person below the legal age of         cc) Rider Coverage Term means the period
+        majority or adulthood.                               between the Date of Commencement of
+                                                             Rider and the Annual Renewal Date as
+   w) Revival of the Rider means restoration of              mentioned in the Rider Schedule/COI.
+      the Rider, which was discontinued due to
+      the non-payment of Rider Premium, by the           dd) Rider Policy Document / Rider Policy
+      Company with all the benefits mentioned in             means and includes the proposal form for
+      the Rider, upon the receipt of all the Rider           insurance submitted by You, the Rider
+      Premiums due and other charges or late                 Schedule, any attached endorsements or
+      fee if any, during the Revival Period, as per          supplements together with all the
+
+
+
+
+UIN: 130B035V01                                                     Page 1 of 27
+                 Rider Policy Document – Bharti AXA Life Non Linked Group Complete Shield Rider
+                           A Non-Linked Non-Participating Group Health Insurance Rider
+
+         addendums provided by Us from time to                     collected explicitly.
+         time, the medical examiner’s report and
+         any other document/s called for by Us and           ll)   Us/We/Our/Company means Bharti AXA
+         submitted by You to enable Us to process                  Life Insurance Company Limited.
+         request for Rider, along with the unique
+         policy number issued to You as mentioned            mm)Waiting Period means a period during
+         in the Rider Schedule.                                  which specified diseases/treatments are
+                                                                 not covered. In the event of occurrence of
+   ee) Rider Premium means the payments to be                    any of such scenarios during the applicable
+       made by the Master Policyholder/ Member,                  Waiting Period:
+       to keep the Rider in force, in accordance                 i. No Rider Benefit shall be payable;
+       with the frequency and manner of payment                 ii. the Rider Premium(s) paid towards the
+       chosen and is the amount as specified in                      Insured Event(s) during the Waiting
+       the Rider Schedule/COI.                                       Period will be refunded without any
+                                                                     interest; and
+   ff)   Rider Premium Payment Term means the                  iii. the Rider Benefit shall terminate and no
+         period for which You/Member are required                    future Rider Premiums and benefits
+         to pay the Rider Premium due under the                      shall be payable.
+         Rider. It should not exceed the outstanding            Waiting Period as per the chosen Insured
+         premium payment term of the Base Policy.               Event(s) shall be as under:
+                                                                        Insured Event        Waiting
+   gg) Rider Schedule means the schedule                                                     Period
+       attached to the Rider Policy which                                                    applicable*^
+       contains, amongst others, Your details,                          Critical Illness     90 days
+       and other details pertaining to this Rider                       All          other   Not Applicable
+       and which forms an integral part of the                          Insured
+       Rider.                                                           Event(s)      i.e.,
+                                                                        ADB,        ATPD,
+   hh) Rider Sum Assured means the amount                               APPD and TI.
+       specified in the Rider Schedule/COI which                *The Waiting Period shall be applicable
+       is applicable under this Rider which                     from date of occurrence of any of the Critical
+       represents Our maximum, total and                        Illness covered under this Rider. Further, no
+       complete liability for any and all claims                Waiting Period shall be applicable for
+       arising in respect of the Member under this              Critical Illness claims arising solely due to
+       Rider.                                                   Accident.
+                                                                ^ The Waiting Period for all benefits shall be
+   ii)   Surrender means complete withdrawal of                 applicable from Date of Commencement of
+         the Rider resulting in the termination of the          Rider.
+         Rider.                                                 ^ Waiting Period will not be applicable on
+                                                                consecutive renewal of the Rider Cover for
+   jj)   Survival Period means a period of 30                   the Member with the Company.
+         (Thirty) days from the date of occurrence of           ^ Waiting Period can be waived off to the
+         a covered Critical Illness during which the            extent of Waiting Period already served, in
+         Member must survive before any Rider                   case wherein the Master Policyholder is
+         Benefit under the Additional Critical Illness          transferring the covered Members from
+         becomes      payable.     Survival    Period           another policy with CI cover to this Master
+         applicable under this Rider may vary based             Rider Policy.
+         on the Rider Benefit chosen. The Company
+         may waive off the Survival Period basis the         nn) You/Your/Yours            means   the   Master
+         risk assessment of the specified scheme.                Policyholder.
+         The Survival Period is only applicable
+         under Critical Illness based Insured            The terms defined above shall also act as a
+         Event(s).                                       reference guide to the Policy Document in terms
+                                                         of IRDAI Master Circular on Life Insurance
+   kk) Total Rider Premiums Paid means total of          Products                                   (Ref:
+       all the Rider Premiums paid under this            IRDAI/ACTL/MSTCIR/MISC/89/6/2024 dated 12th
+       Rider for the chosen Insured Event,               June 2024)
+       excluding any extra premium and taxes, if
+
+
+
+
+UIN: 130B035V01                                                        Page 1 of 27
+         Rider Policy Document – Bharti AXA Life Non Linked Group Complete Shield Rider
+                   A Non-Linked Non-Participating Group Health Insurance Rider
+
+                                                       PART C
+
+
+   1.   Rider Options
+
+        The Master Policyholder can select one or more Rider Benefits under this Rider. The Rider Schedule will
+        specify which of the following Rider Benefits have been chosen by the Master Policyholder under this
+        Rider. Terminal Illness and Critical Illness Rider Options cannot be opted together. Once opted, the Rider
+        Benefit(s) cannot be changed.
+
+        The Rider Benefit(s) in force under this Rider will be payable in accordance with the Terms & Conditions
+        of this Rider and the Base Policy and subject always to the availability of the Rider Sum Assured for the
+        Rider Benefit(s) under which the claim arises.
+
+        On occurrence of Insured Event(s), respective Rider Sum Assured(s) shall be payable subject to
+        maximum 100% of the Rider Sum Assured and the respective Insured Event(s) shall terminate thereafter.
+        Further, the Rider shall continue to remain in force only for other active Insured Event(s), if any.
+
+            a.   Accidental Death Benefit (ADB):
+                 Upon death of the Member solely and directly due to an Accident which occurs during the Rider
+                 Coverage Term provided the Rider being in force on the date of Accident and which solely and
+                 directly results in the Member’s death within 180 days of the Accident, We will pay the Rider Sum
+                 Assured specified against this Rider Benefit in the Rider Schedule to the Beneficiary/Claimant.
+
+                 If Accidental Death occurs after the Rider Coverage Term but within 180 days from the date of
+                 Accident the claim will be honored by Us by paying the Rider Sum Assured for ADB. This is
+                 applicable subject to the Accident occurring within the Rider Coverage Term and the Rider
+                 Benefit being in-force on the date of Accident.
+
+                 In the event of an Accident occurring on the date of termination/Expiry Date of this Rider resulting
+                 in the death of the Member, Rider Sum Assured for ADB shall not be payable by Us.
+
+                 Once a claim has been accepted and paid under this Rider Benefit to the Beneficiary/Claimant,
+                 then cover under this Rider shall immediately and automatically cease and the Rider shall stand
+                 terminated.
+
+                 Upon death of the Member for any reason other than an Accident, no benefit shall be payable,
+                 and the Rider shall stand terminated. Upon Surrender and on Maturity, no benefit is payable
+                 under this Rider Benefit.
+
+            b.   Accidental Disability Benefit:
+
+                 The Master Policyholder shall, at the inception of this Rider, have the option to choose from any
+                 of the 2 (Two) options as mentioned below under this Rider Benefit:
+
+                 I.       Accidental Total and Permanent Disability (ATPD):
+                          Upon the Member whose life is covered by this Rider Benefit suffers from total,
+                          continuous and permanent disability solely and directly due to an Accident which
+                          occurs within the Rider Coverage Term when this Rider is in force, and such disability
+                          occurs within 180 days from the date of Accident, the Rider Sum Assured specified for
+                          ATPD will be paid out as a lump sum to the Beneficiary/Claimant.
+
+                          In case ATPD occurs beyond the Rider Coverage Term, the Rider Sum Assured
+                          specified against this Rider Option shall be payable provided that such disability occurs
+                          within 180 days from the date of Accident. This is applicable subject to Accident
+
+
+
+
+UIN: 130B035V01                                                             Page 1 of 27
+        Rider Policy Document – Bharti AXA Life Non Linked Group Complete Shield Rider
+                  A Non-Linked Non-Participating Group Health Insurance Rider
+
+                         occurring within the Rider Coverage Term and the Rider Benefit being in-force on the
+                         date of Accident.
+
+                         In the event of an Accident on the date of termination/Expiry Date of Rider Cover
+                         resulting in a total and permanent disability of the Member, the Rider Sum Assured for
+                         ATPD shall not be payable.
+
+                         This Rider Benefit is payable to the Beneficiary/Claimant if the Member suffers any of
+                         the following disabilities due to an Injury or Accident due to which there is total and
+                         irrecoverable disability:
+                                 a) Loss of Use of at least two limbs
+                                 b) Loss of Sight of both eye
+                                 c) Loss of hearing and loss of speech
+                                 d) Loss of Use of four fingers and Thumb of both hands
+                                 e) Loss of Use of one limb and sight of one eye
+                                 f) Loss of Use of one limb and hearing
+                                 g) Loss of Use of one limb and speech
+                                 h) Loss of sight of one eye and speech
+                                 i) Loss of sight of one eye and hearing
+                                 j) Loss by severance of two or more limbs at or above wrists or ankles
+                                 k) Loss by severance of four Fingers and Thumb of both hands
+                                 l) Loss by severance of one limb and sight of one eye
+                                 m) Loss by severance of one limb and hearing
+                                 n) Loss by severance of one limb and speech
+                             .
+                        Note:
+                    (a) The disabilities specified under the above conditions must have continuously lasted,
+                        without interruption for atleast 180 days and must, in the opinion of a Medical
+                        Practitioner, be deemed permanent.
+                    (b) These disabilities as stated in the above conditions must also be verified by a
+                        Medical Practitioner appointed by the Company.
+                    (c) However, for disabilities mentioned above under sub-clauses (j) to (n) [i.e., physical
+                        severance] the requirement of the 180 days continuous period shall not apply.
+                    (d) Upon payment of the Rider Sum Assured against ATPD, the Rider Cover under this
+                        Rider Benefit will terminate and all rights, benefits and interests under this Rider
+                        Benefit will stand extinguished.
+
+              II.        Accidental Partial and Permanent Disability (APPD):
+                         If the Member whose life is covered by this Rider Benefit suffers from partial and
+                         permanent disability solely and directly due to an Accident which happens within the
+                         Rider Coverage Term of this Rider Benefit and that such disability occurs within 180
+                         days from the date of Accident, the Rider Sum Assured for APPD will be paid out as a
+                         lump sum to the Beneficiary/Claimant.
+                         In case APPD occurs beyond the Rider Coverage Term, the Rider Sum Assured
+                         specified against this Rider Benefit will be paid provided that such disability occurs
+                         within 180 days from the date of Accident. This is applicable subject to Accident
+                         occurring within the Rider Coverage Term and the Rider Benefit being in-force on the
+                         date of Accident.
+
+                         In the event of an Accident on the date of termination/Expiry Date of Rider Cover
+                         resulting in a permanent and partial disability of the Member, the Rider Sum Assured
+                         for APPD shall not be payable.
+
+                         This Rider Benefit is payable to the Beneficiary/Claimant if the APPD meets any of the
+                         below mentioned conditions:
+
+
+
+UIN: 130B035V01                                                          Page 1 of 27
+        Rider Policy Document – Bharti AXA Life Non Linked Group Complete Shield Rider
+                  A Non-Linked Non-Participating Group Health Insurance Rider
+
+                           1.   Loss of sight of one eye or the actual loss by physical separation of one entire
+                                hand or one entire foot.
+                           2.   Loss of Use of a hand or a foot without physical separation
+                           3.   Loss of toes – all
+                           4.   Loss of hearing - one ear
+                           5.   Loss of four fingers and thumb of one hand
+                           6.   Loss of four fingers of one hand
+                        The disabilities specified under the above-mentioned conditions must have
+                        continuously lasted, without interruption for at least 180 days and must, in the opinion
+                        of a Medical Practitioner, be deemed permanent.
+                        Such disabilities shall also be verified by a Medical Practitioner appointed by the
+                        Company. Upon payment of the Rider Sum Assured against APPD, the Rider Cover
+                        under this Rider Benefit will terminate and all rights, benefits and interests under this
+                        Rider Benefit will stand extinguished.
+
+               There is no Death Benefit payable upon death of the Member under Accidental Disability Benefit.
+               There is no benefit payable upon Surrender and on Maturity/Expiry under Accidental Disability
+               Benefit.
+
+          c.   Critical Illness (CI) Benefit:
+               Upon occurrence of any of the covered Critical Illness conditions with respect to the Insured
+               Member during the Rider Coverage Term when the Rider is in-force, We will pay Rider Sum
+               Assured against CI prevailing at the time of Diagnosis as specified in the Rider Schedule of this
+               Rider to the Beneficiary/Claimant.
+
+               Upon payment of the Rider Sum Assured for CI to the Beneficiary/ Claimant, the cover under this
+               Rider Benefit will terminate and all rights, benefits and interests under this Rider Benefit will stand
+               extinguished.
+
+               No Death Benefit is payable upon death under Critical Illness Benefit. No benefit is payable upon
+               Surrender under Critical Illness Benefit.
+
+               This Rider Benefit offers 4 (Four) packages based on the number of Critical Illnesses covered.
+               The Master Policyholder shall have the option to choose the package at Rider inception along
+               with the Rider Benefit.
+               The following 4 (Four) packages are offered under this Rider Benefit:
+               I.       Lite – Covers 4 Critical Illness
+               II.      Core – Covers 9 Critical Illness
+               III.     Plus – Covers 21 Critical Illness
+               IV.      Max – Covers 33 Critical Illness
+
+               (Please refer to Annexure “IV” for the list of Critical Illness, their Definitions, Conditions and
+               Exclusions under this Critical Illness Rider Benefit.)
+
+               These Rider Benefit packages may be availed either as an Accelerated Rider Cover or as an
+               Additional Rider Cover. The Accelerated Rider Cover will be known as Accelerated Critical Illness
+               Benefit and the Additional Rider Cover will be known as Additional Critical Illness Benefit. The
+               details of these benefits are provided as under:
+                  i.     Accelerated Critical Illness (ACI) Benefit:
+                         Where the Rider Benefit is opted as an Accelerated Critical Illness Benefit, the benefit
+                         shall not be in addition to the Base Policy Sum Assured, instead, it shall be paid out of
+                         the Base Policy Sum Assured, subject to the pre-defined conditions specified in the
+                         table provided in Annexure “IV”.
+
+                        In case the Rider Sum Assured for ACI Benefit is less than the Base Policy Sum
+                        Assured then the Member’s cover under the Base Policy will continue with Base Policy
+
+
+UIN: 130B035V01                                                             Page 1 of 27
+         Rider Policy Document – Bharti AXA Life Non Linked Group Complete Shield Rider
+                   A Non-Linked Non-Participating Group Health Insurance Rider
+
+                          Sum Assured reduced to the extent of Rider Sum Assured for ACI Benefit already paid
+                          out.
+
+                          In case the Rider Sum Assured for ACI Benefit is equal to the Base Policy Sum Assured,
+                          the Member’s cover under the Base Policy as well as this Rider Benefit for that Member
+                          shall terminate upon payment of the ACI Benefit.
+
+                    ii.   Additional Critical Illness Benefit:
+                          In case the Rider Benefit is opted as an Additional Critical Illness Benefit, 100% of the
+                          applicable Rider Sum Assured shall be payable upon the occurrence of a covered
+                          Critical Illness, subject to the pre-defined conditions specified in the table provided in
+                          Annexure “IV”.
+
+                          A Survival Period of 30 (Thirty) days from the date of occurrence of the covered Critical
+                          Illness shall apply under this benefit.
+
+                          In case a covered Critical Illness occurs during the Rider Coverage Term, but the
+                          Survival Period extends beyond the Rider Coverage Term, the claim shall nonetheless
+                          be honoured by Us, subject to the applicable terms and conditions of the Rider.
+
+                          In case the Member is covered under the Additional Critical Illness Benefit and dies
+                          within 30 (Thirty) days from the date of occurrence of the covered Critical Illness, i.e.,
+                          before completion of the Survival Period, no claim will be payable. However, in such an
+                          event, 100% of the Rider Premium shall be refunded, and this Rider shall terminate
+                          thereafter for that Member.
+
+
+            d.   Terminal Illness (TI)
+                 Upon the Member’s Diagnosis with incurable and irreversible medical condition, certified by a
+                 Medical Practitioner, that is expected to result in death within 6 to 12 months (sometimes up to
+                 24 months) during the Rider Coverage Term and when the Rider is in force, We will pay, the
+                 portion of Base Policy Sum Assured equal to Rider Sum Assured and the Rider Cover shall
+                 terminate and all rights, benefits and interests under this Rider Benefit will stand extinguished.
+
+                 Upon payment of the Rider Sum Assured, the Base Policy Sum Assured shall stand reduced to
+                 the extent of the Rider Sum Assured paid, and the cover under the Base Policy shall continue
+                 with the reduced (balance) sum assured.
+
+   2.   Death Benefit
+        Not available under this Rider Benefit.
+
+   3.   Maturity/Survival Benefit
+        There is no maturity or survival benefit payable under this Rider. This Rider shall automatically cease to
+        exist on the termination of the Base Policy as also mentioned in Part D.
+
+   4.   Payment of Premium
+        i. Rider Premiums shall be payable on the due dates.
+        ii. Rider Premium payment modes available under this Rider are Annual, Semi-Annual, Quarterly and
+             Monthly. The mode applicable to You will be specified in the Rider Schedule.
+        iii. Quarterly and Monthly Rider premium payment modes are payable through ECS only.
+
+   5.   Grace Period
+        A Grace Period of 30 (Thirty) days for Annual/ Semi-Annual/ Quarterly Rider Premium Payment Modes
+        and fifteen (15) days for monthly payment mode shall be provided to pay the unpaid Rider Premium due
+        under the Rider and the benefits under the Rider will remain unaltered during this period.
+
+
+
+
+UIN: 130B035V01                                                            Page 1 of 27
+           Rider Policy Document – Bharti AXA Life Non Linked Group Complete Shield Rider
+                     A Non-Linked Non-Participating Group Health Insurance Rider
+
+                                                       PART D
+
+
+ 1. Free Look Period
+
+     The Master Policyholder/Member has a period of 30(Thirty) days from the date of receipt of this Rider
+     Policy/Certificate of Insurance (COI), to review the terms and conditions of the Rider Policy/COI, whether
+     received electronically or otherwise.
+
+     In case the Master Policyholder/Member disagrees with any of the terms and conditions of the Rider
+     Policy/COI, or otherwise, and has not made any claim, there is an option to return the original Rider Policy/COI
+     within 30 (Thirty) days along with a letter stating reasons for objection/ cancellation.
+
+     Irrespective of the reasons mentioned, the Rider Policy/COI will be cancelled and the Company will refund to
+     the Master Policyholder/Member, only the Rider Premium paid subject only to deduction of a proportionate
+     risk premium, for the period of cover and the medical expenses, if any, incurred by the Company on medical
+     examination of the Member, and stamp duty charges.
+
+     All rights under this Rider Policy/COI shall stand extinguished immediately on cancellation of the Rider under
+     the free look option.
+
+     In case of Employer-Employee Groups, only the Master Policyholder, and not the Member, shall have the
+     right to exercise the Free-Look Cancellation option.
+
+
+ 2. Discontinuance of Premiums (Not Applicable to Single Pay Policies)
+
+     In case the Base Policy has lapsed due to discontinuance of premium, the Rider Benefits under the Rider shall
+     automatically cease to exist immediately from the date of such unpaid premium.
+
+     You can also opt to discontinue the Rider, anytime during the Rider Coverage Term. If You discontinue the
+     payment of Rider Premiums, the Rider will be treated as Lapsed.
+
+3.   Lapse
+
+     If the Rider Premium is not paid within the Grace Period (as defined under this Policy), the Rider shall Lapse
+     with effect from the date of such unpaid Rider Premium (‘Lapse Date’). If a Rider in lapsed status is not revived
+     within the Revival Period, the Rider shall be terminated and no benefits shall be payable.
+
+4.   Surrender Benefits
+
+     Upon Surrender, no surrender value is payable.
+
+     This Rider can be surrendered either by the Master Policyholder or the Member.
+
+     In case the Member of the Master Policy surrenders this Rider, the Rider will terminate and no surrender value
+     will be payable.
+
+     In case the Master Policyholder Surrenders this Rider, the Members of the group will be given the option to
+     continue Rider cover till the end of the Rider Coverage Term. The option to continue the cover will be applicable
+     only to those Base Policies where the Rider Premium is paid by the Members provided the Member’s cover
+     under the Base Policy is in force.
+
+     If the Member chooses to continue this Rider upon Surrender of the Rider by the Master Policyholder, then
+     this needs to be specifically communicated to the Company by the Master Policyholder or the Member and
+     will be effective only upon acceptance of the same by the Company.
+
+
+
+
+UIN: 130B035V01                                                              Page 1 of 27
+            Rider Policy Document – Bharti AXA Life Non Linked Group Complete Shield Rider
+                      A Non-Linked Non-Participating Group Health Insurance Rider
+
+
+5.   Revival
+
+     Revival of the Rider shall be only along with the Revival of the Base Policy and shall be as per the BAUP. The
+     Revival Period and the rate of interest applicable to revival of the Rider will be same as that of the Base Policy
+     .
+
+
+6.   Exclusions
+     The Company shall not be liable to make any payment under the Rider Cover towards the insured event,
+     caused by, based on, or arising out of or howsoever attributable to any of the following:
+     a.   Pre-existing Diseases during Waiting Period.
+     b.   Self-inflicted injuries, substance abuse, war, nuclear risks.
+     c.   Non-disclosure or misrepresentation.
+
+
+7.   Expiry/Maturity of Rider
+
+     The Rider will terminate on the earliest of the following:
+     a) On the Member attaining Age of 80 years for ADB, ATPD and APPD and Age of 65 years for TI and CI;
+         or
+     b) When the Base Policy ceases to exist or is Lapsed; or
+     c) On the date of Surrender of this Rider; or
+     d) On the Expiry Date; or
+     e) Date of acceptance of Free Look cancellation request by Us; or
+     f) Benefits in accordance with Part C under the Rider are paid which result in the termination of cover for
+         the Member under this Rider; or
+     g) Exclusions as defined in clause 7 of Part D, specifically pertaining to Rider benefit, if any; or
+     h) Death of the insured Member; or
+     i) Any event on the occurrence of which the Rider terminates as per the specific terms and conditions of this
+         Rider Policy.
+
+8.   Loan
+
+     Not available under the Rider.
+
+
+
+
+UIN: 130B035V01                                                               Page 1 of 27
+        Rider Policy Document – Bharti AXA Life Non Linked Group Complete Shield Rider
+                  A Non-Linked Non-Participating Group Health Insurance Rider
+
+                                             PART E
+
+                              Part E is not applicable to this Rider.
+
+
+
+
+UIN: 130B035V01                                                   Page 1 of 27
+          Rider Policy Document – Bharti AXA Life Non Linked Group Complete Shield Rider
+                    A Non-Linked Non-Participating Group Health Insurance Rider
+
+
+                                                       PART F
+
+   1.   Fraud and Misrepresentation
+
+        Fraud, Misrepresentation and forfeiture would be dealt with in accordance with provisions of Section 45
+        of the Insurance Act 1938 as amended from time to time. [A Leaflet containing the simplified version
+        of the provisions of Section 45 is enclosed in Annexure– III to the Base Policy for reference]
+
+   2.   Claims
+
+        The Company would require the following primary documents in support of a claim at the stage of claim
+        intimation under the Rider:
+
+        For Death Benefit (other than death due to Accident/natural death):
+        Not available under this Rider.
+
+        For Death Benefit (death due to Accident/Unnatural death): First Information Report (FIR) and Post
+        Mortem report is required in addition to the documents required for Death Benefit (other than death due
+        to Accident/ natural death) as mentioned above.
+
+        Indicative list of documents are also available at the Bharti AXA website https://www.bhartiaxa.com/claims
+        for intimating a claim. Please note the above is not an exhaustive list and additional documents may be
+        required / as may be demanded by the Company depending on the circumstances and validity of the
+        claim.
+
+        The Company reserves the right to call for additional documents, if in the opinion of the Company such
+        additional documents are warranted to process the claim.
+
+        An approved Claim shall be paid through NEFT. Electronic transfer of funds shall be considered as a
+        deemed acceptance of the claim settlement and shall be in full and final discharge of all the
+        liabilities/claims under the Policy.
+
+
+        Easy ways of claim intimation
+   A.    Walk into Your nearest Bharti-AXA Life Branch
+   B.    Call Us Toll Free: 1800-102-4444* from 9:00 AM to 7:00 PM, Monday to Saturday
+   C.    Intimate Online through Claims Portal: https://www.bhartiaxa.com/claims
+   D.    E-mail us: lifeclaims@bhartiaxa.com
+   E.    Submit online claim through our website https://www.bhartiaxa.com/claims
+
+        *Claims intimated through these modes will be considered as verbal intimation. Claim will be formally
+        registered only when written intimation is received at branch or directly to Claims team at Service Office.
+
+   3.   Misstatement of Age and Gender
+
+   ●    If the correct Age of the Member is different from that mentioned in the proposal form, We will assess the
+        eligibility of the Member for the Rider in accordance with the correct Age of the Life Insured.
+   ●    If on the basis of correct Age, the Member is not eligible for the Rider, the Rider shall be cancelled
+        immediately by refunding the Rider Premium received by Us under the Rider as per the provisions of
+        Section 45 of Insurance Act, 1938 as amended from time to time.
+   ●    If the Member is eligible for the Rider as per his / her correct Age, then We will calculate the applicable
+        charges basis the correct Age of Life Insured.
+
+   4.   Assignment and Nomination
+
+
+
+UIN: 130B035V01                                                            Page 1 of 27
+         Rider Policy Document – Bharti AXA Life Non Linked Group Complete Shield Rider
+                   A Non-Linked Non-Participating Group Health Insurance Rider
+
+
+        Assignment: Assignment shall be in accordance with the provisions of Section 38 of the Insurance Act
+        ,1938 as amended from time to time.
+        [A Leaflet containing the simplified version of the provisions of Section 38 is enclosed in
+        Annexure– I to the Base Policy for reference]
+
+        Nomination: Nomination shall be in accordance with the provisions of Section 39 of the Insurance
+        Act,1938 as amended from time to time.
+        [A Leaflet containing the simplified version of the provisions of Section 39 is enclosed in
+        Annexure– II to the Base Policy for reference]
+
+   5.   Incorrect information and Non-Disclosure
+
+        The Master Policyholder /Member under the Rider shall have an obligation to disclose every fact material
+        for assessment of the risk in connection with providing cover under this Rider.
+
+        In case of fraud, misrepresentation and suppression of material facts the Rider contract shall be treated
+        in accordance with the Section 45 of the Insurance Act, 1938 as amended from time to time.
+
+   6.   Rider alterations / Modifications
+
+        Only Our duly authorized officer has the power to effect changes on the Rider at Your request, subject to
+        Our rules and within the regulatory parameters.
+
+   7.   Taxation
+
+        Same as Base Policy.
+
+   8.   Notices
+
+        Same as Base Policy.
+
+   9.   Currency and Place of Payment
+
+        Same as Base Policy.
+
+   10. Mode of communication
+
+        Same as Base Policy.
+
+   11. Governing Laws & Jurisdiction
+
+        Same as Base Policy.
+
+   12. Term used and its meaning
+
+        If a particular term is not defined or otherwise articulated either in the Rider or under the Base Policy,
+        endeavor shall be to impart the natural meaning to the said term in the context in which it is used.
+
+   13. Issuance of duplicate Rider Policy Document:
+
+        The Master Policyholder can request for a duplicate copy of the Policy at Bharti AXA Life Insurance
+        Company Limited offices. While making an application for duplicate Policy the Master Policyholder is
+        required to submit a notarized original indemnity bond. No additional charges may be applicable for
+        issuance of the duplicate Policy. Free Look clause shall not be applicable with respect to such duplicate
+        Policy Document.
+
+
+
+UIN: 130B035V01                                                           Page 1 of 27
+        Rider Policy Document – Bharti AXA Life Non Linked Group Complete Shield Rider
+                  A Non-Linked Non-Participating Group Health Insurance Rider
+
+
+   14. Legislative Changes:
+
+       The Terms and Conditions including the Rider Premiums and benefits payable under this Rider are subject
+       to variation in accordance with the applicable laws and regulations.
+
+   15. Conflict of Master Policy & COI:
+
+       The individual Insured Members in applicable cases may be issued with a Certificate of Insurance [COI]
+       indicating their insurance coverage and giving the summary of terms and conditions of the Master Policy.
+       However, the insurance coverage shall always be subject to the terms and conditions of the Master Policy.
+       If there is any conflict between the COI and the Master Policy, the Master Policy shall always prevail.
+
+   16. Data and information:
+
+       a)   The Master Policyholder shall furnish to the Company all such data, information and evidence as the
+            Company may reasonably require in writing with regard to any matter relating to or affecting the
+            coverages effected or to be effected under the Rider and the Company shall not be liable for any
+            action taken in good faith upon any data, information or evidence so furnished, which shall be or shall
+            prove to have been erroneous or inaccurate.
+       b)   The Master Policyholder shall maintain the data, information, and evidence pertaining to the list of
+            Members and furnish the same to the Company as per the provisions/procedures applicable to the
+            Base Policy.
+
+
+
+
+UIN: 130B035V01                                                            Page 1 of 27
+          Rider Policy Document – Bharti AXA Life Non Linked Group Complete Shield Rider
+                    A Non-Linked Non-Participating Group Health Insurance Rider
+
+                                                     PART G
+                                             Grievance Redressal
+
+                                                Same as Base Policy.
+
+
+                                         List of Ombudsman
+                         (For the updated list You may refer to IRDAI website)
+
+                                                Same as Base Policy.
+
+
+
+
+                               BEWARE OF SPURIOUS/FRAUD PHONE CALLS!
+
+ IRDAI is not involved in activities like selling insurance policies, announcing bonus or investment of premiums. Public
+                          receiving such phone calls are requested to lodge a police complaint.
+
+
+
+
+UIN: 130B035V01                                                            Page 1 of 27
+         Rider Policy Document – Bharti AXA Life Non Linked Group Complete Shield Rider
+                   A Non-Linked Non-Participating Group Health Insurance Rider
+
+
+                Annexure-I: Section 38 - Assignment and Transfer of Insurance Policies
+                                        Same as the Base Policy
+
+
+                          Annexure-II: Section 39 - Nomination by Policyholder
+                                        Same as the Base Policy
+
+
+  Annexure-III: Section 45 – Policy shall not be called in question on the ground of mis-statement after
+                                                three years
+                                        Same as the Base Policy
+
+
+
+
+UIN: 130B035V01                                                      Page 1 of 27
+         Rider Policy Document – Bharti AXA Life Non Linked Group Complete Shield Rider
+                   A Non-Linked Non-Participating Group Health Insurance Rider
+
+                Annexure "IV "– List of Critical Illness conditions, Definitions and Exclusions
+
+        The definitions and exclusions given in this annexure are applicable to Critical Illness to CI benefit.
+
+   List of Critical Illness conditions covered under the packages offered under this Rider Option are as follows:
+
+            Sr.          Name of CI/ Surgery                 Lite          Core           Plus         Max
+            No.
+            1         Cancer of Specified Severity             ✓             ✓             ✓             ✓
+            2         Myocardial Infraction (First
+                      Heart     Attack  of   Specific
+                      Severity)                                ✓             ✓             ✓             ✓
+            3         Open Chest CABG                          ✓             ✓             ✓             ✓
+            4         Kidney     Failure   Requiring
+                      Regular Dialysis                         ✓             ✓             ✓             ✓
+            5         Stroke Resulting in Permanent
+                      Symptoms                                               ✓             ✓             ✓
+            6         Major Organ /Bone Marrow
+                      Transplant                                             ✓             ✓             ✓
+            7
+                      Permanent Paralysis of Limbs                           ✓             ✓             ✓
+            8         End stage liver failure                                ✓             ✓             ✓
+            9         Open Heart Replacement or
+                      Repair of Heart Valves                                 ✓             ✓             ✓
+            10        Motor Neuron Disease with
+                      Permanent Symptoms                                                   ✓             ✓
+            11        Multiple     Sclerosis  with
+                      Persisting Symptoms                                                  ✓             ✓
+            12        Benign Brain Tumor                                                   ✓             ✓
+            13        Blindness                                                            ✓             ✓
+            14        Deafness                                                             ✓             ✓
+            15        End stage lung failure                                               ✓             ✓
+            16        Coma of Specified Severity                                           ✓             ✓
+            17        Loss of Speech                                                       ✓             ✓
+            18        Major Head Trauma                                                    ✓             ✓
+            19        Primary (Idiopathic) Pulmonary
+                      hypertension                                                         ✓             ✓
+            20        Third degree burns                                                   ✓             ✓
+            21        Loss of Limbs                                                        ✓             ✓
+            22        Aorta Graft Surgery                                                                ✓
+            23        Apallic Syndrome or Persistent
+                      Vegetative State (PVS)                                                             ✓
+            24        Alzheimer’s Disease                                                                ✓
+            25        Parkinson’s Disease                                                                ✓
+            26        Aplastic Anaemia                                                                   ✓
+            27        Loss of independent Existence
+                      (cover up to Insurance age 74)                                                     ✓
+            28        Brain Surgery                                                                      ✓
+            29        Cardiomyopathy                                                                     ✓
+            30        Muscular Dystrophy – Resulting
+                      in Permanent loss of Physical                                                      ✓
+
+
+
+UIN: 130B035V01                                                            Page 1 of 27
+        Rider Policy Document – Bharti AXA Life Non Linked Group Complete Shield Rider
+                  A Non-Linked Non-Participating Group Health Insurance Rider
+
+                    abilities
+
+            31      Poliomyelitis                                                                     ✓
+            32      Medullary Cystic Disease                                                          ✓
+            33      SLE with Lupus Nephritis
+                    (Systematic lupus Eryth. with
+                    Renal Involvement )                                                               ✓
+
+      1.     Cancer of Specified Severity
+             A malignant tumor characterized by the uncontrolled growth and spread of malignant cells with
+             invasion and destruction of normal tissues. This Diagnosis must be supported by histological
+             evidence of malignancy. The term cancer includes leukemia, lymphoma and sarcoma.
+             The following are excluded –
+              i.   All tumors which are histologically described as carcinoma in situ, benign, pre-malignant,
+                   borderline malignant, low malignant potential, neoplasm of unknown behavior, or non-invasive,
+                   including but not limited to: Carcinoma in situ of breasts, Cervical dysplasia CIN-1, CIN-2 and
+                   CIN-3.
+             ii.   Any non-melanoma skin carcinoma unless there is evidence of metastases to lymph nodes or
+                   beyond;
+            iii.   Malignant melanoma that has not caused invasion beyond the epidermis;
+            iv.    All tumors of the prostate unless histologically classified as having a Gleason score greater
+                   than 6 or having progressed to at least clinical TNM classification T2N0M0
+             v.    All Thyroid cancers histologically classified as T1N0M0 (TNM Classification) or below;
+            vi.    Chronic lymphocytic leukaemia less than RAI stage 3
+           vii.    Non-invasive papillary cancer of the bladder histologically described as TaN0M0 or of a lesser
+                   classification,
+           viii.   All Gastro-Intestinal Stromal Tumors histologically classified as T1N0M0 (TNM Classification)
+                   or below and with mitotic count of less than or equal to 5/50 HPFs.
+
+      2.    Myocardial Infarction (First Heart Attack of Specific Severity)
+            The first occurrence of heart attack or myocardial infarction, which means the death of a portion of
+            the heart muscle as a result of inadequate blood supply to the relevant area. The diagnosis for
+            Myocardial Infarction should be evidenced by all of the following criteria:
+                i. A history of typical clinical symptoms consistent with the diagnosis of acute myocardial
+                   infarction (For e.g. typical chest pain)
+               ii. New characteristic electrocardiogram changes
+              iii. Elevation of infarction specific enzymes, Troponins or other specific biochemical markers.
+             The following are excluded:
+                i. Other acute Coronary Syndromes
+               ii. Any type of angina pectoris
+              iii. A rise in cardiac biomarkers or Troponin T or I in absence of overt ischemic heart disease OR
+                   following an intra-arterial cardiac procedure.
+
+      3.    Open Chest CABG
+            The actual undergoing of heart surgery to correct blockage or narrowing in one or more coronary
+            artery(s), by coronary artery bypass grafting done via a sternotomy (cutting through the breast bone)
+            or minimally invasive keyhole coronary artery bypass procedures.
+            The diagnosis must be supported by a coronary angiography and the realization of surgery has to be
+            confirmed by a cardiologist.
+            Excluded are: Angioplasty and/or any other intra-arterial procedures.
+
+
+      4.    Kidney Failure Requiring Regular Dialysis
+
+
+
+
+UIN: 130B035V01                                                           Page 1 of 27
+        Rider Policy Document – Bharti AXA Life Non Linked Group Complete Shield Rider
+                  A Non-Linked Non-Participating Group Health Insurance Rider
+
+           End stage renal disease presenting as chronic irreversible failure of both kidneys to function, as a
+           result of which either regular renal dialysis (hemodialysis or peritoneal dialysis) is instituted or renal
+           transplantation is carried out. Diagnosis has to be confirmed by a Specialist Medical Practitioner.
+
+
+      5.   Stroke resulting in permanent symptoms
+           Any cerebrovascular incident producing permanent neurological sequelae. This includes infarction of
+           brain tissue, thrombosis in an intracranial vessel, hemorrhage and embolisation from an extracranial
+           source. Diagnosis has to be confirmed by a Specialist Medical Practitioner and evidenced by typical
+           clinical symptoms as well as typical findings in CT scan or MRI of the brain. Evidence of permanent
+           neurological deficit lasting for at least 3 (Three) months has to be produced.
+           The following are excluded:
+                 i. Transient ischemic attacks (TIA)
+                ii. Traumatic injury of the brain
+               iii. Vascular disease affecting only the eye or optic nerve or vestibular functions.
+
+      6.   Major Organ /Bone Marrow Transplant
+           The actual undergoing of a transplant of:
+            i. One of the following human organs: heart, lung, liver, kidney, pancreas, that resulted from
+               irreversible end-stage failure of the relevant organ, or
+           ii. Human bone marrow using hematopoietic stem cells. The undergoing of a transplant has to be
+               confirmed by a Specialist Medical Practitioner.
+            The following are excluded:
+            i. Other stem-cell transplants
+           ii. Where only Islets of Langerhans are transplanted
+
+      7.   Permanent Paralysis of Limbs
+           Total and irreversible loss of use of 2 (Two) or more limbs as a result of injury or disease of the brain
+           or spinal cord. A Specialist Medical Practitioner must be of the opinion that the paralysis will be
+           permanent with no hope of recovery and must be present for more than 3 (Three) months.
+
+      8.   End stage liver failure
+           Permanent and irreversible failure of liver function that has resulted in all three of the following:
+           (a) Permanent jaundice; and
+           (b) Ascites; and
+           (c) Hepatic encephalopathy.
+           Liver failure secondary to drug or alcohol abuse is excluded.
+
+      9.   Open Heart Replacement or Repair of Heart Valves
+           The actual undergoing of open-heart valve surgery is to replace or repair one or more heart valves,
+           as a consequence of defects in, abnormalities of, or disease-affected cardiac valve(s).
+           The Diagnosis of the valve abnormality must be supported by an echocardiography and the
+           realization of surgery has to be confirmed by a Specialist Medical Practitioner. Catheter based
+           techniques including but not limited to, balloon valvotomy/valvuloplasty are excluded.
+
+      10. Motor Neuron Disease with Permanent Symptoms
+          Motor neuron disease diagnosed by a Specialist Medical Practitioner as spinal muscular atrophy,
+          progressive bulbar palsy, amyotrophic lateral sclerosis or primary lateral sclerosis.
+          There must be progressive degeneration of corticospinal tracts and anterior horn cells or bulbar
+          efferent neurons. There must be current significant and permanent functional neurological impairment
+          with objective evidence of motor dysfunction that has persisted for a continuous period of at least 3
+          (Three) months.
+
+      11. Multiple Sclerosis with Persisting Symptoms
+          The unequivocal diagnosis of definite Multiple Sclerosis confirmed and evidenced by all of the
+          following:
+
+
+
+UIN: 130B035V01                                                             Page 1 of 27
+        Rider Policy Document – Bharti AXA Life Non Linked Group Complete Shield Rider
+                  A Non-Linked Non-Participating Group Health Insurance Rider
+
+           i.  Investigations including typical MRI findings which unequivocally confirm the Diagnosis to be
+               multiple sclerosis and
+           ii. There must be current clinical impairment of motor or sensory function, which must have
+               persisted for a continuous period of at least 6 (Six) months.
+            Other causes of neurological damage such as SLE is excluded.
+
+      12. Benign Brain Tumor
+          Benign brain tumor is defined as a life threatening, non-cancerous tumor in the brain, cranial nerves
+          or meninges within the skull. The presence of the underlying tumor must be confirmed by imaging
+          studies such as CT scan or MRI.
+          This brain tumor must result in at least 1 (One) of the following and must be confirmed by the relevant
+          Medical specialist /Practitioner:
+             i. Permanent Neurological deficit with persisting clinical symptoms for a continuous period of at
+                least 90 (Ninety) consecutive days or
+            ii. Undergone surgical resection or radiation therapy to treat the brain tumor.
+           The following conditions are excluded:
+            a. Cysts, Granulomas, malformations in the arteries or veins of the brain, hematomas, abscesses,
+                pituitary tumors, tumors of skull bones and tumors of the spinal cord.
+
+      13. Blindness
+          Total, permanent and irreversible loss of all vision in both eyes as a result of illness or Accident.
+          The Blindness is evidenced by:
+           i. corrected visual acuity being 3/60 or less in both eyes or;
+          ii. The field of vision being less than 10 degrees in both eyes.
+           The Diagnosis of blindness must be confirmed and must not be correctable by aids or surgical
+           procedure.
+
+      14. Deafness
+          Total and irreversible loss of hearing in both ears as a result of illness or Accident. This Diagnosis
+          must be supported by pure tone audiogram test and certified by an Ear, Nose and Throat (ENT)
+          specialist. Total means “the loss of hearing to the extent that the loss is greater than 90 decibels
+          across all frequencies of hearing” in both ears.
+
+      15. End Stage Lung Failure
+           End stage lung disease, causing chronic respiratory failure, as confirmed and evidenced by all of the
+           following:
+            i.   FEV1 test results consistently less than 1 litre measured on 3 occasions months apart; and
+           ii.   Requiring continuous permanent supplementary oxygen therapy for hypoxemia; and
+          iii.   Arterial blood gas analysis with partial oxygen pressure of 55mmHg or less (PaO2 < 55mmHg);
+                 and
+         iv.     Dyspnea at rest.
+
+
+      16. Coma of specified Severity
+          A state of unconsciousness with no reaction or response to external stimuli or internal needs.
+          This diagnosis must be supported by evidence of all of the following:
+            i. No response to external stimuli continuously for at least 96 hours.
+           ii. Life support measures are necessary to sustain life; and
+          iii. Permanent neurological deficit which must be assessed at least 30 (Thirty) days after the onset
+               of the coma.
+          The condition has to be confirmed by a Specialist Medical Practitioner. Coma resulting from alcohol
+          or drug abuse is excluded.
+
+      17. Loss of speech
+          Total and irrecoverable loss of the ability to speak as a result of injury or disease to the vocal cords.
+          The inability to speak must be established for a continuous period of 12 (Twelve) months. This
+
+
+
+UIN: 130B035V01                                                           Page 1 of 27
+        Rider Policy Document – Bharti AXA Life Non Linked Group Complete Shield Rider
+                  A Non-Linked Non-Participating Group Health Insurance Rider
+
+          Diagnosis must be supported by medical evidence furnished by an Ear, Nose, and Throat (ENT)
+          specialist.
+
+      18. Major Head Trauma
+          Accidental head injury resulting in permanent Neurological deficit to be assessed no sooner than 3
+          (Three) months from the date of the Accident. This Diagnosis must be supported by unequivocal
+          findings on Magnetic Resonance Imaging, Computerized Tomography, or other reliable imaging
+          techniques. The Accident must be caused solely and directly by accidental, violent, external and
+          visible means and independently of all other causes.
+          The Accidental Head injury must result in an inability to perform at least 3 (Three) of the following
+          Activities of Daily Living either with or without the use of mechanical equipment, special devices or
+          other aids and adaptations in use for disabled persons. For the purpose of this benefit, the word
+          “permanent” shall mean beyond the scope of recovery with current medical knowledge and
+          technology.
+          The Activities of Daily Living are:
+              i. Washing: the ability to wash in the bath or shower (including getting into and out of the bath or
+                 shower) or wash satisfactorily by other means;
+             ii. Dressing: the ability to put on, take off, secure and unfasten all garments and, as appropriate,
+                 any braces, artificial limbs or other surgical appliances;
+            iii. Transferring: the ability to move from a bed to an upright chair or wheelchair and vice versa;
+            iv. Mobility: the ability to move indoors from room to room on level surfaces;
+             v. Toileting: the ability to use the lavatory or otherwise manage bowel and bladder functions so
+                 as to maintain a satisfactory level of personal hygiene;
+            vi. Feeding: the ability to feed oneself once food has been prepared and made available.
+
+          The following are excluded:
+              a. Spinal cord injury.
+
+
+      19. Primary (Idiopathic) Pulmonary Hypertension
+          An unequivocal diagnosis of Primary (Idiopathic) Pulmonary Hypertension by a Cardiologist or
+          specialist in respiratory medicine with evidence of right ventricular enlargement and the pulmonary
+          artery pressure above 30 mm of Hg on Cardiac Cauterization. There must be permanent irreversible
+          physical impairment to the degree of at least Class IV of the New York Heart Association
+          Classification of cardiac impairment.
+          The NYHA Classification of Cardiac Impairment are as follows:
+            i. Class III: Marked limitation of physical activity. Comfortable at rest, but less than ordinary activity
+               causes symptoms.
+           ii. Class IV: Unable to engage in any physical activity without discomfort. Symptoms may be present
+               even at rest.
+          Pulmonary hypertension associated with lung disease, chronic hypoventilation, pulmonary
+          thromboembolic disease, drugs and toxins, diseases of the left side of the heart, congenital heart
+          disease and any secondary cause are specifically excluded.
+
+      20. Third Degree Burns
+          There must be third-degree burns with scarring that cover at least 20% of the body’s surface area.
+          The Diagnosis must confirm the total area involved using standardized, clinically accepted, body
+          surface area charts covering 20% of the body surface area.
+
+      21. Loss of Limbs
+          The physical separation of 2 (Two) or more limbs, at or above the wrist or ankle level limbs as a result
+          of injury or disease. This will include medically necessary amputation necessitated by injury or
+          disease. The separation has to be permanent without any chance of surgical correction. Loss of
+          Limbs resulting directly or indirectly from self-inflicted injury, alcohol or drug abuse is excluded.
+
+      22. Aorta Graft Surgery
+
+
+
+UIN: 130B035V01                                                             Page 1 of 27
+        Rider Policy Document – Bharti AXA Life Non Linked Group Complete Shield Rider
+                  A Non-Linked Non-Participating Group Health Insurance Rider
+
+          The undergoing of surgery to treat narrowing, obstruction, aneurysm or dissection of the aorta.
+          Minimally invasive procedures like endovascular repair are covered under this definition. The surgery
+          must be determined to be medically necessary by a Consultant Surgeon and supported by imaging
+          findings.
+          For the above definition, the following are not covered:
+            i. Surgery to any branches of the thoracic or abdominal aorta (including aortofemoral or aortoiliac
+               bypass grafts
+           ii. Surgery of the aorta related to hereditary connective tissue disorders (e.g., Marfan syndrome,
+               Ehlers–Danlos syndrome
+          iii. Surgery following traumatic injury to the aorta.
+
+
+      23. Apallic Syndrome or Persistent Vegetative State (PVS)
+           A vegetative state is absence of responsiveness and awareness due to dysfunction of the cerebral
+           hemispheres, with the brain stem, controlling respiration and cardiac functions, remaining intact. The
+           definite Diagnosis must be evidenced by all of the following:
+            i. Complete unawareness of the self and the environment
+           ii. Inability to communicate with others.
+          iii. No evidence of sustained or reproducible behavioral responses to external stimuli
+          iv. Preserved brain stem functions.
+           v. Exclusion of other treatable neurological or psychiatric disorders with appropriate
+               neurophysiological or neuropsychological tests or imaging procedures.
+          vi. The diagnosis must be confirmed by a Consultant Neurologist and the condition must be
+               medically documented for at least 1 (One) month without any clinical improvement.
+
+      24. Alzheimer’s Disease
+           A definite diagnosis of Alzheimer’s disease evidenced by all of the following:
+               i.    Loss of intellectual capacity involving impairment of memory and executive functions
+                     (sequencing, organizing, abstracting, and planning), which results in a significant reduction
+                     in mental and social functioning.
+              ii.    Personality change
+             iii.    Gradual onset and continuing decline of cognitive functions
+             iv.     No disturbance of consciousness
+              v.     Typical neuropsychological and neuroimaging findings (e.g., CT scan)
+         The disease must require constant supervision (24 hours daily) [before Age 65 years]. The Diagnosis
+         and the need for supervision must be confirmed by a Consultant Neurologist.
+         For the above definition, the following are not covered:
+         i.      Other forms of dementia due to brain or systemic disorders or psychiatric conditions
+
+      25. Parkinson’s disease
+          A definite diagnosis of primary idiopathic Parkinson's disease, which is evidenced by atleast 2 (Two)
+          out of the following clinical manifestations:
+            a. Muscle rigidit
+            b. Tremor
+            c. Bradykinesia (abnormal slowness of movement, sluggishness of physical and mental
+                 responses)
+          Idiopathic Parkinson's disease must cause neurological deficit resulting [before Age 65 years] in the
+          permanent and irreversible inability of the Life Assured to perform, by oneself, at least 3 (Three) out
+          of 6 (Six) Activities of Daily Living for a continuous period of at least 6 (Six) months despite adequate
+          drug treatment.
+          Activities of Daily Living are:
+            a. Washing – the ability to wash in the bath or shower (including getting into and out of the bath
+                 or shower) or wash satisfactorily by other means
+            b. Getting dressed and undressed – the ability to put on, take off, secure and unfasten all
+                 garments and, if needed, any braces, artificial limbs or other surgical appliances.
+
+
+
+
+UIN: 130B035V01                                                           Page 1 of 27
+        Rider Policy Document – Bharti AXA Life Non Linked Group Complete Shield Rider
+                  A Non-Linked Non-Participating Group Health Insurance Rider
+
+            c.   Feeding oneself – the ability to feed oneself when food has been prepared and made
+                 available.
+            d. Maintaining personal hygiene – the ability to maintain a satisfactory level of personal hygiene
+                 by using the toilet or otherwise managing bowel and bladder function
+            e. Getting between rooms – the ability to get from room to room on a level floor.
+            f. Getting in and out of bed – the ability to get out of bed into an upright chair or wheelchair and
+                 back again
+              The Diagnosis must be confirmed by a Consultant Neurologist.
+              For the above definition, the following are not covered:
+                a. Secondary parkinsonism (including drug- or toxin-induced parkinsonism)
+                b. Essential tremor
+                c. Parkinsonism related to other neurodegenerative disorders.
+
+      26. Aplastic Anaemia
+          A definite diagnosis of Aplastic anaemia resulting in severe bone marrow failure with anaemia,
+          neutropenia and thrombocytopenia. The condition must be treated with blood transfusions and, in
+          addition, with at least one of the following:
+            a) Bone marrow stimulating agents
+            b) Immunosuppressant
+            c) Bone marrow transplantation
+           The Diagnosis must be confirmed by a Consultant Haematologist and evidenced by bone marrow
+           histology.
+           Temporary or reversible aplastic anemia is excluded and not covered in this Policy.
+
+      27. Loss of independent Existence (cover up to Insurance Age 74 years)
+          Inability to perform at least 3 (Three) of the “Activities of Daily Living” as defined below (either with or
+          without the use of mechanical equipment, special devices or other aids or adaptations in use for
+          disabled persons) for a continuous period of at least 6 (Six) months and leading to a permanent
+          inability to perform the same. For the purpose of this definition, the word “permanent” shall mean
+          beyond the hope of recovery with current medical knowledge and technology. The Diagnosis of Loss
+          of Independent Existence must be confirmed by a Medical Practitioner .
+          Only Life assured with Insurance Age between 18 years and 74 years on first Diagnosis is eligible to
+          receive a benefit under this illness.
+          Activities of daily living:
+              a. Washing: the ability to wash in the bath or shower (including getting into and out of the
+                   shower) or wash satisfactorily by other means and maintain an adequate level of cleanliness
+                   and personal hygiene;
+              b. Dressing: the ability to put on, take off, secure and unfasten all garments and, as appropriate,
+                   any braces, artificial limbs or other surgical appliances;
+              c. Transferring: The ability to move from a lying position in a bed to a sitting position in an
+                   upright chair or wheelchair and vice versa; The ability to move from a bed to an upright chair
+                   or wheelchair and vice versa;
+              d. Toileting: the ability to use the lavatory or otherwise manage bowel and bladder functions so
+                   as to maintain a satisfactory level of personal hygiene;
+              e. Feeding: the ability to feed oneself, food from a plate or bowl to the mouth once food has
+                   been prepared and made available;
+              f. Mobility: The ability to move indoors from room to room on level surfaces at the normal place
+                   of residence.
+
+      28. Brain Surgery
+          The actual undergoing of surgery to the brain under general anesthesia during which a Craniotomy
+          with removal of bone flap to access the brain is performed.
+          The following are excluded:
+               a) Burr hole procedures, trans-phenoidal procedures and other minimally invasive procedures
+                   such as irradiation by gamma knife or endovascular embolisations, thrombolysis and
+                   stereotactic biopsy, and,
+
+
+
+UIN: 130B035V01                                                             Page 1 of 27
+        Rider Policy Document – Bharti AXA Life Non Linked Group Complete Shield Rider
+                  A Non-Linked Non-Participating Group Health Insurance Rider
+
+              b) brain surgery as a result of an Accident.
+           The procedure must be considered necessary by a qualified specialist and the benefit shall only be
+           payable once corrective surgery has been carried out.
+
+      29. Cardiomyopathy
+          A definite diagnosis of one of the following primary cardiomyopathies:
+               a. Dilated Cardiomyopathy
+               b. Hypertrophic Cardiomyopathy (obstructive or non-obstructive)
+               c. Restrictive Cardiomyopathy
+               d. Arrhythmogenic Right Ventricular Cardiomyopathy
+          The disease must result in at least one of the following:
+            i. Left ventricular ejection fraction (LVEF) of less than 40% measured twice at an interval of at least
+                 3 months.
+           ii. Marked limitation of physical activities where less than ordinary activity causes fatigue,
+                 palpitation, breathlessness, or chest pain (Class III or IV of the New York Heart Association
+                 classification) over a period of at least 6 months.
+          iii. Implantation of an Implantable Cardioverter Defibrillator (ICD) for the prevention of sudden
+                 cardiac death
+          The Diagnosis must be confirmed by a Consultant Cardiologist and supported by echocardiogram or
+          cardiac MRI. The implantation of an Implantable Cardioverter Defibrillator (ICD) must be determined
+          by a Consultant Cardiologist.
+          For the above definition, the following are not covered:
+                 i. Secondary (ischaemic, valvular, metabolic, toxic, or hypertensive) cardiomyopathy
+                ii. Transient reduction of left ventricular function due to myocarditis.
+               iii. Cardiomyopathy due to systemic diseases
+               iv. Implantation of an Implantable Cardioverter Defibrillator (ICD) due to primary arrhythmias
+                     (e.g., Brugada or Long-QT-Syndrome)
+
+
+      30. Muscular Dystrophy – Resulting in Permanent loss of Physical abilities
+          A group of hereditary degenerative diseases of muscle characterized by weakness and atrophy of
+          muscle without involvement of the nervous system.
+          The Diagnosis must be confirmed by a company appointed registered Medical Practitioner who is a
+          neurologist based on all the following conditions:
+            a) Clinical presentation including absence of sensory disturbance, normal cerebro-spinal fluid and
+                 mild tendon reflex reduction.
+            b) Characteristic Electromyogram; or
+            c) Clinical suspicion confirmed by muscle biopsy.
+           The disease must result in a total inability to perform, by oneself, at least 3 (Three) out of 6 (Six)
+           Activities of Daily Living for a continuous period of at least 3 (Three) months with no reasonable
+           chance of recovery.
+           Activities of Daily Living are:
+          a) Washing – the ability to wash in the bath or shower (including getting into and out of the bath or
+               shower) or wash satisfactorily by other means.
+          b) Getting dressed and undressed – the ability to put on, take off, secure and unfasten all
+               garments and, if needed, any braces, artificial limbs or other surgical appliances.
+          c) Feeding oneself – the ability to feed oneself when food has been prepared and made available.
+          d) Maintaining personal hygiene – the ability to maintain a satisfactory level of personal hygiene
+               by using the toilet or otherwise managing bowel and bladder function
+          e) Getting between rooms – the ability to get from room to room on a level floor.
+          f) Getting in and out of bed – the ability to get out of bed into an upright chair or wheelchair and
+               back again.
+           The diagnosis must be confirmed by a Consultant Neurologist and supported by electromyography
+           (EMG) and muscle biopsy findings.
+
+      31. Poliomyelitis
+
+
+
+UIN: 130B035V01                                                           Page 1 of 27
+        Rider Policy Document – Bharti AXA Life Non Linked Group Complete Shield Rider
+                  A Non-Linked Non-Participating Group Health Insurance Rider
+
+          A definite diagnosis of acute poliovirus infection resulting in paralysis of the limb muscles or
+          respiratory muscles. The paralysis must be medically documented for at least 3 (Three) months from
+          the date of Diagnosis.
+          The Diagnosis must be confirmed by a Consultant Neurologist and supported by laboratory tests
+          proving the presence of the poliovirus.
+          For the above definition, the following are not covered:
+            i. Poliovirus infections without paralysis
+           ii. Other enterovirus infections
+          iii. Guillain-Barré syndrome or transverse myelitis
+
+      32. Medullary Cystic Disease
+          A definite diagnosis of medullary cystic disease evidenced by all of the following:
+          a) Ultrasound, MRI or CT scan showing multiple cysts in the medulla and corticomedullary region
+              of both kidneys.
+          b) Typical histological findings with tubular atrophy, basement membrane thickening and cyst
+              formation in the corticomedullary junction.
+          c) Glomerular filtration rate (GFR) of less than 40 ml/min (MDRD formula
+          d) The diagnosis must be confirmed by a Consultant Nephrologists.
+          For the above definition, the following are not covered:
+            a) Polycystic kidney disease
+            b) Multisystem renal dysplasia and medullary sponge kidney
+            c) Any other cystic kidney disease
+
+      33. SLE with Lupus Nephritis (Systematic lupus Eryth. with Renal Involvement)
+          The Systemic Lupus Erythematosus (SLE) is a systemic autoimmune disease. It can affect any part
+          of the body. The immune system erroneously attacks the body´s cells and tissue resulting in
+          inflammation and damage. It can be diagnosed by typical laboratory findings and associated
+          symptoms, the so-called butterfly rash being the most known, and has to be treated with
+          corticosteroids or other immunosuppressants.
+          A definite diagnosis of systemic lupus erythematosus evidenced by all of the following:
+          a) Typical laboratory findings, such as presence of antinuclear antibodies (ANA) or anti-dsDNA
+               antibodies
+          b) Symptoms associated with lupus erythematosus (butterfly rash, photosensitivity, serositis)
+          c) Continuous treatment with corticosteroids or other immunosuppressants
+          Additionally, one of the following organ involvements must be diagnosed:
+             a) Lupus nephritis with proteinuria of at least 0.5 g/day and a Glomerular filtration rate of less
+                   than 60 ml/min (MDRD formula)
+             b) Libman-Sacks endocarditis or myocarditis
+             c)    Neurological deficits or seizures over a period of at least 3 months and supported by
+                   cerebrospinal fluid or EEG findings. Headaches, cognitive and psychiatric abnormalities are
+                   specifically excluded.
+          The Diagnosis must be confirmed by a Consultant Rheumatologist or Nephrologists.
+          The other form of lupus erythematosus the Discoid lupus erythematosus or subacute cutaneous lupus
+          erythematosus or a lupus erythematosus that is drug-induced are not covered.
+
+
+
+
+UIN: 130B035V01                                                        Page 1 of 27
+
