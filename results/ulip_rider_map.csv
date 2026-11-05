@@ -192,6 +192,27 @@ ulip_uin,ulip_name,rider_uin,rider_name,link_stated_in,benefits_covered
 130L125V01,Bharti AXA Life Dream Shield Plus,130A034V01,Bharti AXA Life Cover Plus Linked Term Rider,"brochure, page 10",accidental death; term cover
 130L128V01,Bharti AXA Life Grow Wealth Ultra,130A012V02,Bharti AXA Life Linked Complete Shield Rider,"brochure, page 14",waiver of premium; critical illness; accidental death; accidental disability
 130L128V01,Bharti AXA Life Grow Wealth Ultra,130A034V01,Bharti AXA Life Cover Plus Linked Term Rider,"brochure, page 14",accidental death; term cover
+135L047V06,Ageas Federal Life Insurance Wealth Gain Insurance Plan,135A036V01,Ageas Federal Life Insurance Linked Accident Care Rider,"brochure, page 18",accidental death; accidental disability
+135L047V06,Ageas Federal Life Insurance Wealth Gain Insurance Plan,135A038V01,Ageas Federal Life Insurance Linked Critical Shield Rider,"brochure, page 18",critical illness
+135L053V07,Ageas Federal Life Insurance Smart Growth Plan,,,,"riders mentioned without a UIN or not matched to a stored rider: ""optional riders are offered; the brochure names none"""
+135L082V02,Ageas Federal Life Insurance Wealthsurance Growth Insurance Plan SP II,135A036V01,Ageas Federal Life Insurance Linked Accident Care Rider,"brochure, page 18",accidental death; accidental disability
+135L082V02,Ageas Federal Life Insurance Wealthsurance Growth Insurance Plan SP II,135A038V01,Ageas Federal Life Insurance Linked Critical Shield Rider,"brochure, page 18",critical illness
+135L089V02,Ageas Federal Life Insurance Platinum Wealth Builder Plan,135A036V01,Ageas Federal Life Insurance Linked Accident Care Rider,"brochure, page 25",accidental death; accidental disability
+135L089V02,Ageas Federal Life Insurance Platinum Wealth Builder Plan,135A038V01,Ageas Federal Life Insurance Linked Critical Shield Rider,"brochure, page 25",critical illness
+135L100V01,Ageas Federal Life Insurance Golden Years Pension Plan,,,,no rider named in the documents
+135L101V01,Ageas Federal Life Insurance ProGrow Plan,135A036V01,Ageas Federal Life Insurance Linked Accident Care Rider,"brochure, page 23",accidental death; accidental disability
+135L101V01,Ageas Federal Life Insurance ProGrow Plan,135A038V01,Ageas Federal Life Insurance Linked Critical Shield Rider,"brochure, page 23",critical illness
+136L085V04,Canara HSBC Life Insurance Wealth Edge,136A016V01,Canara HSBC Life Insurance Accidental Benefit Rider (Linked),"brochure, page 31",accidental death; accidental disability
+136L085V04,Canara HSBC Life Insurance Wealth Edge,136A018V01,Canara HSBC Life Insurance Linked Critical Illness Benefit Rider,"brochure, page 31",critical illness
+136L088V02,Canara HSBC Life Insurance Alpha Wealth,136A016V01,Canara HSBC Life Insurance Accidental Benefit Rider (Linked),"brochure, page 31",accidental death; accidental disability
+136L088V02,Canara HSBC Life Insurance Alpha Wealth,136A018V01,Canara HSBC Life Insurance Linked Critical Illness Benefit Rider,"brochure, page 31",critical illness
+136L089V02,Canara HSBC Life Insurance Promise4Growth,,,,no rider named in the documents
+136L092V02,Canara HSBC Life Insurance SecureInvest,136A016V01,Canara HSBC Life Insurance Accidental Benefit Rider (Linked),"brochure, page 22",accidental death; accidental disability
+136L092V02,Canara HSBC Life Insurance SecureInvest,136A018V01,Canara HSBC Life Insurance Linked Critical Illness Benefit Rider,"brochure, page 22",critical illness
+136L093V01,Canara HSBC Life Insurance Promise4Growth Plus,,,,no rider named in the documents
+136L094V01,Canara HSBC Life Insurance EZ Pension Plan,,,,no rider named in the documents
+136L095V01,Canara HSBC Life Insurance Legacy Builder,,,,no rider named in the documents
+136L096V01,Canara HSBC Life Insurance Promise4Wealth,,,,no rider named in the documents
 512L317V02,LIC’s Nivesh Plus,512A211V02,LIC's Linked Accidental Death Benefit Rider,"brochure, page 5",accidental death
 512L334V02,LIC’s SIIP,512A211V02,LIC's Linked Accidental Death Benefit Rider,"brochure, page 7",accidental death
 512L347V01,LIC’s New Pension Plus,,,,no rider named in the documents

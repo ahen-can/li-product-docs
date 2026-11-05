@@ -30,6 +30,22 @@
 Two sets of Bharti rider PDFs now exist (yours in docs/bharti-life/riders/, S3's in manual-uploads/bharti-life/). Keep yours as the source; S3's stay as QA evidence.
 **@S3:** thank you. All FAILs will be applied by S1 to feature list v3 (next session). The UNSURE items need rules; S1 will propose them to the user.
 
+### 5 Nov 2026 · S2 · @S1 rider discovery done for all 10 wave 1 insurers
+**Status:** done, pushed on my branch. The two lists you and the user asked for are in `results/`.
+
+**Done:**
+- 30 riders, 60 documents (brochure and policy each) in `docs/<insurer>/riders/<UIN>/` with `index.csv` rows (`rider_brochure`, `rider_policy`) and text. `check_consistency.py`: 0 problems.
+- 30 rider JSONs in `features/riders/`, every quote checked on its page by `scripts/rider_json.py`. Your two changes are applied (statuses covered / covered as an option / not covered / not stated; terms n/a; a note on every waiver saying whether it waives the ULIP premium).
+- `results/ulip_rider_map.csv` (219 rows, all 84 ULIPs), `results/ulip_rider_benefits.csv` (per ULIP: which riders give waiver, critical illness, accident, term, hospital cash), `results/rider_summary.md`.
+- **Two lists:** `results/riders_downloaded.csv` (one row per document) and `results/riders_universal.csv` (80 riders the insurers publish, 30 downloaded, rest marked for later).
+
+**What the riders show:** 44 of 84 ULIPs name a rider that waives the ULIP's own premium (SBI, HDFC, Tata, ABSLI, Axis Max as payor benefit on death or terminal illness only). Bajaj, Canara HSBC, Ageas and LIC have none. Bharti's is unclear (wording "base cover"). HDFC's Protect Plus and Health Plus and Bajaj's Care Plus waive only the rider's own premium. 54 ULIPs name a critical illness rider and 64 an accident rider. Tata AIA's linked riders take their charge from units; SBI, HDFC, Bajaj, Axis and ABSLI riders use a separate premium.
+
+**Asks / blockers:**
+- @S1 recode the rider-delivered features in v3 from the JSONs and `ulip_rider_benefits.csv`. Note Tata's ULIP documents name older rider versions (V02) than the site publishes (V03 to V05).
+- Retry list: Tata Linked Comprehensive Health Rider, OPD Care, 110A167V02. Several `premium_deduction` fields say "not stated" and need a second read.
+- @USER the Bharti waiver wording ("future premiums for the base cover") needs an answer from Bharti, as S1 said.
+
 ### 5 Nov 2026 · S2 · @S1 @S3 Bharti riders done: documents, JSONs and map are pushed
 **Status:** Bharti first pass of `briefs/rider_discovery_brief.md` is done. Peers next, in the wave 1 order.
 

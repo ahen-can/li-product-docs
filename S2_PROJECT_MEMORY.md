@@ -148,3 +148,14 @@ Checked each "Bharti doesn't have X" claim in the 7 Bharti policy documents and 
 - Holds: no plan that continues after death, no pension or child ULIP, 8 funds.
 - Rider documents were read from bhartiaxa.com into the scratchpad only; not added to `docs/` or `index.csv` yet.
 Deck regenerated with `scripts/s2_tools/build_deck_html.py`.
+
+
+## Rider discovery (5 Nov, brief: briefs/rider_discovery_brief.md)
+
+Done for all 10 wave 1 insurers: 30 riders, 60 documents in `docs/<insurer>/riders/<UIN>/`, 30 rider JSONs in `features/riders/`, `results/ulip_rider_map.csv`, `results/ulip_rider_benefits.csv`, `results/rider_summary.md`.
+- **Two lists.** `results/riders_downloaded.csv` (one row per document, written by `scripts/rider_collect.py`) and `results/riders_universal.csv` (every rider an insurer's riders page lists, with a download status, so the rest can be fetched later). Add rows by hand when a new insurer's riders page is read.
+- **Pipeline.** `scripts/rider_collect.py` stores one document (checks %PDF, size, pdfinfo, UIN in text, writes the index row and the downloaded list). `scripts/rider_specs/<UIN>.py` holds the values; `scripts/rider_json.py <UIN>` checks every quote is on a page and writes `features/riders/<UIN>.json`. `scripts/s2_tools/ridermap.py <slugs>` rebuilds the ULIP to rider map (matches any version of the rider UIN; `ridermap_manual.csv` holds links seen only on product pages).
+- **S1 format changes applied:** benefit status is covered, covered as an option, not covered or not stated; terms use n/a; every waiver says whether it waives the ULIP's premium.
+- **Findings.** Waiver of the ULIP premium comes through a rider on 44 of 84 ULIPs (Bharti's wording unclear). Bajaj, Canara HSBC, Ageas and LIC have none. Bharti's rider documents were found by the QA of the "lacks" claims.
+- **Open.** Tata retry list (Linked Comprehensive Health, OPD Care, 110A167V02). Fields marked "not stated" because the text read did not show them (rider premium deduction for ABSLI, Bajaj critical illness rider, Canara, Ageas critical shield, Axis none) need a second read. Quote strength: some table quotes are short because two-column text breaks long phrases; S1's rule that a quote carries the value is met for the main benefit fields.
+- Rider docs now exist for Bharti in both `docs/bharti-life/riders/` (source) and S3's `manual-uploads/`.

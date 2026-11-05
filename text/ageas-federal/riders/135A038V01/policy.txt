@@ -1,0 +1,1265 @@
+                             Ageas Federal Life Insurance Linked Critical Shield Rider
+                                      A Linked Individual Health Pure Risk Rider
+                                                  UIN: 135A038V01
+
+                                                      PART B
+DEFINITIONS:
+
+    1.   “Accident” sudden, unforeseen and involuntary event caused by external, visible and violent means.
+
+    2.   “Base Policy” means the underlying base plan to which this Rider policy is attached to.
+
+    3.   “Rider Policy” means the contractual arrangement as established in the rider policy document.
+
+    4.   “Rider” is an optional benefit which can be added to the Base Policy as per your choice. It provides
+         additional benefits to the Policyholder/ Life Insured.
+
+    5.   “Rider Sum Assured” means Sum Assured under health cover, an absolute amount of benefit which is
+         guaranteed to become payable on occurrence of specified events, in accordance with the terms and
+         conditions of the rider cover
+
+    6.   “Surrender Value” means an amount, if any, that becomes payable on surrender of a rider policy during its
+         term, in accordance with the terms and conditions of the rider.
+
+    7. “Medical Practitioner” means a person who holds a valid registration from the Medical Council of any State
+        or Medical Council of India or Council for Indian Medicine or for Homeopathy set up by the Government
+        of India or a State Government and is thereby entitled to practice medicine within its jurisdiction; and is
+        acting within the scope and jurisdiction of license.
+
+    8. “Injury” means accidental physical bodily harm excluding illness or disease solely and directly caused by
+         external, violent, visible and evident means which is verified and certified by a Medical Practitioner.
+
+    9.   “Total Rider Premium received” means total of all the premiums paid under the rider cover, excluding
+         any extra premium and taxes, if collected explicitly.
+
+
+
+
+AFLI Linked Critical Shield Rider_ Policy Document_V1.0                                                Page 1 of 22
+                               Ageas Federal Life Insurance Linked Critical Shield Rider
+                                         A Linked Individual Health Pure Risk Rider
+                                                     UIN: 135A038V01
+
+                                                         PART C
+RIDER BENEFITS
+
+This section includes description of rider policy benefits which are unique to this rider policy.
+
+1.    Rider Benefit:
+
+      On the diagnosis of one of the covered critical illnesses after the waiting period, the Rider Sum Assured shall
+      be payable in a lump sum, provided the policy is in force and all rider premiums due have been paid to date.
+
+      If the diagnosis occurs during the waiting period, 100% of the total Rider Premium received up to the date of
+      the rider claim shall be refunded, provided the rider cover is in force and all rider premiums due have been
+      paid to date.
+
+      Upon payment of this benefit, the rider cover shall terminate, and all rights, benefits, and interests under the
+      rider cover shall stand extinguished.
+
+      Waiting Period:
+      A waiting period of 90 days from the risk commencement date of rider or the date of revival of rider,
+      whichever is later, is applicable for admissibility of a rider claim. No waiting period is applicable for Critical
+      Illness claim arising solely due to an accident.
+
+      An accident means sudden, unforeseen and involuntary event caused by external, visible and violent means.
+
+      Survival Period:
+      A survival period of 30 days is applicable.
+      Survival Period refers to the period from the date of diagnosis and fulfilment of the definition of the
+      conditions covered for which the life assured must survive. The rider benefit shall be payable only on
+      diagnosis of the claimed conditions covered while the life assured is alive (claim would not be admitted if the
+      diagnosis is made postmortem).
+
+      List of Critical Illnesses covered under the policy:
+
+  <<Insert if the Critical Protect Variant is opted>
+                                           List of 30 Critical illnesses covered
+   Cancer of specified severity                                    End Stage Liver Failure
+   Myocardial Infarction (First Heart Attack of
+                                                                   Loss of Speech
+   specific severity)
+   Open Chest CABG                                                 Loss of Limbs
+   Open Heart Replacement or Repair of Heart
+                                                                   Major Head Trauma
+   Valves
+   Coma of specified severity                                      Primary (Idiopathic) Pulmonary Hypertension
+   Kidney failure requiring regular dialysis                       Third Degree Burns
+   Stroke resulting in permanent symptoms                          Alzheimer's Disease
+   Major Organ/Bone Marrow Transplant                              Parkinson’s Disease
+   Permanent paralysis of limbs                                    Major surgery of Aorta
+     Motor Neuron Disease with permanent symptoms                 Myasthenia Gravis
+     Multiple Sclerosis with persisting symptoms                  Aplastic Anaemia
+                                                                  Loss of Independent Existence (Cover up to Age
+     Benign Brain Tumor
+                                                                  74)
+     Blindness                                                    Progressive Scleroderma
+     Deafness                                                     Other Serious Coronary Artery Diseases
+     End Stage Lung Failure                                       Severe Rheumatoid Arthritis
+
+AFLI Linked Critical Shield Rider_ Policy Document_V1.0                                                       Page 2 of 22
+                               Ageas Federal Life Insurance Linked Critical Shield Rider
+                                        A Linked Individual Health Pure Risk Rider
+                                                    UIN: 135A038V01
+
+  >
+
+  <<Insert if the Critical Protect Plus Variant is opted>
+                                           List of 50 Critical illnesses covered
+   Cancer of specified severity                                    Aplastic Anaemia
+   Myocardial Infarction (First Heart Attack of                    Loss of Independent Existence (Cover up to Age
+   specific severity)                                              74)
+   Open Chest CABG                                                 Progressive Scleroderma
+   Open Heart Replacement or Repair of Heart
+                                                                   Other Serious Coronary Artery Diseases
+   Valves
+   Coma of specified severity                                      Severe Rheumatoid Arthritis
+   Kidney failure requiring regular dialysis                       Cardiomyopathy
+   Stroke resulting in permanent symptoms                          Infective Endocarditis
+   Major Organ/Bone Marrow Transplant                              Medullary Cystic Kidney Disease
+   Permanent paralysis of limbs                                    Apallic Syndrome
+      Motor Neuron Disease with permanent symptoms               Creutzfeldt-Jakob Disease
+      Multiple Sclerosis with persisting symptoms                Pneumonectomy (Surgical Removal of One Lung)
+      Benign Brain Tumor                                         Brain Surgery
+      Blindness                                                  Severe Ulcerative Colitis
+      Deafness                                                   Chronic Relapsing Pancreatitis
+                                                                 Progressive Supranuclear Palsy - Resulting In
+      End Stage Lung Failure
+                                                                 Permanent Symptoms
+      End Stage Liver Failure                                    Severe Progressive Bulbar Palsy
+      Loss of Speech                                             Fulminant Viral Hepatitis
+      Loss of Limbs                                              Severe Crohn’s Disease
+      Major Head Trauma                                          Bacterial Meningitis
+      Primary (Idiopathic) Pulmonary Hypertension                Necrotising Fasciitis
+      Third Degree Burns                                         Muscular Dystrophy
+                                                                 Systemic Lupus Erythematous with Renal
+      Alzheimer's Disease
+                                                                 Involvement
+      Parkinson’s Disease                                        Tuberculous Meningitis
+      Major surgery of Aorta                                     Encephilitis
+      Myasthenia Gravis                                          Primary Myelofibrosis
+  >
+
+  DEFINITIONS OF COVERED CRITICAL ILLNESS
+
+  1.    Cancer of Specified Severity
+        I. A malignant tumor characterized by the uncontrolled growth and spread of malignant cells with invasion
+           and destruction of normal tissues. This diagnosis must be supported by histological evidence of
+           malignancy. The term cancer includes leukemia, lymphoma, and sarcoma.
+
+         II. The following are excluded –
+
+            1.   All tumors which are histologically described as carcinoma in situ, benign, pre-malignant, borderline
+                 malignant, low malignant potential, neoplasm of unknown behavior, or non-invasive, including but
+                 not limited to: Carcinoma in situ of breasts, Cervical dysplasia CIN-1, CIN -2, and CIN-3.
+            2.   Any non-melanoma skin carcinoma unless there is evidence of metastases to lymph nodes or
+                 beyond.
+            3.   Malignant melanoma that has not caused invasion beyond the epidermis.
+            4.   All tumors of the prostate unless histologically classified as having a Gleason score greater than 6
+
+AFLI Linked Critical Shield Rider_ Policy Document_V1.0                                                   Page 3 of 22
+                              Ageas Federal Life Insurance Linked Critical Shield Rider
+                                        A Linked Individual Health Pure Risk Rider
+                                                    UIN: 135A038V01
+
+               or having progressed to at least clinical TNM classification T2N0M0.
+          5.   All Thyroid cancers histologically classified as T1N0M0 (TNM Classification) or below.
+          6.   Chronic lymphocytic leukemia less than RAI stage 3
+          7.   Non-invasive papillary cancer of the bladder histologically described as TaN0M0 or of a lesser
+               classification,
+          8.   All Gastro-Intestinal Stromal Tumors histologically classified as T1N0M0 (TNM Classification) or
+               below and with mitotic count of less than or equal to 5/50 HPFs.
+
+  2.   Myocardial Infarction (First Heart Attack of specific severity
+       I. The first occurrence of heart attack or myocardial infarction, which means the death of a portion of the
+          heart muscle as a result of inadequate blood supply to the relevant area.
+
+         The diagnosis for Myocardial Infarction should be evidenced by all of the following criteria:
+         1. A history of typical clinical symptoms consistent with the diagnosis of acute myocardial infarction (For
+         e.g., typical chest pain)
+         2. New characteristic electrocardiogram changes
+         3. Elevation of infarction specific enzymes, Troponins, or other specific biochemical markers.
+
+       II. The following are excluded:
+          1. Other acute Coronary Syndromes
+          2. Any type of angina pectoris
+          3. A rise in cardiac biomarkers or Troponin T or I in absence of overt ischemic heart disease OR following
+              an intra-arterial cardiac procedure.
+
+
+  3.   Open Chest CABG
+       I. The actual undergoing of heart surgery to correct blockage or narrowing in one or more coronary artery(s),
+          by coronary artery bypass grafting done via a sternotomy (cutting through the breastbone) or minimally
+          invasive keyhole coronary artery bypass procedures. The diagnosis must be supported by a coronary
+          angiography and the realization of surgery has to be confirmed by a cardiologist.
+
+       II.The following are excluded:
+       Angioplasty and/or any other intra-arterial procedures
+
+  4.   Open Heart Replacement or Repair of Heart Valves
+       I. The actual undergoing of open-heart valve surgery is to replace or repair one or more heart valves, as a
+          consequence of defects in, abnormalities of, or disease affected cardiac valve(s). The diagnosis of the valve
+          abnormality must be supported by an echocardiography and the realization of surgery has to be confirmed
+          by a specialist medical practitioner. Catheter based techniques including but not limited to, balloon
+          valvotomy/valvuloplasty are excluded.
+
+  5.   Coma of specified severity
+       I. A state of unconsciousness with no reaction or response to external stimuli or internal needs. This
+          diagnosis must be supported by evidence of all of the following:
+           1. No response to external stimuli continuously for at least 96 hours;
+           2. Life support measures are necessary to sustain life; and
+           3. Permanent neurological deficit which must be assessed at least 30 days after the onset of the coma.
+
+       II. The condition has to be confirmed by a specialist medical practitioner. Coma resulting directly from
+           alcohol or drug abuse is excluded.
+
+
+
+
+AFLI Linked Critical Shield Rider_ Policy Document_V1.0                                                    Page 4 of 22
+                               Ageas Federal Life Insurance Linked Critical Shield Rider
+                                         A Linked Individual Health Pure Risk Rider
+                                                     UIN: 135A038V01
+
+  6.    Kidney failure requiring regular dialysis
+        End stage renal disease presenting as chronic irreversible failure of both kidneys to function, as a result of
+        which either regular renal dialysis (hemodialysis or peritoneal dialysis) is instituted, or renal transplantation
+        is carried out. Diagnosis has to be confirmed by a specialist medical practitioner.
+
+  7.    Stroke resulting in permanent symptoms
+        I. Any cerebrovascular incident producing permanent neurological sequelae. This includes infarction of brain
+           tissue, thrombosis in an intracranial vessel, haemorrhage and embolisation from an extracranial source.
+           Diagnosis has to be confirmed by a specialist medical practitioner and evidenced by typical clinical
+           symptoms as well as typical findings in CT Scan or MRI of the brain. Evidence of permanent neurological
+           deficit lasting for at least 3 months has to be produced.
+
+         II. The following are excluded:
+               1. Transient ischemic attacks (TIA)
+               2. Traumatic injury of the brain
+               3. Vascular disease affecting only the eye or optic nerve or vestibular functions.
+
+  8.    Major Organ/Bone Marrow Transplant
+        The actual undergoing of a transplant of:
+          I. One of the following human organs: heart, lung, liver, kidney, pancreas, that resulted from irreversible
+              end-stage failure of the relevant organ, or
+          II. Human bone marrow using haematopoietic stem cells.
+
+        The undergoing of a transplant has to be confirmed by a specialist medical practitioner.
+        The following are excluded:
+
+        I. Other stem-cell transplants.
+        II. Where only islets of 14 langerhans are transplanted
+
+  9.    Permanent paralysis of limbs
+        Total and irreversible loss of use of two or more limbs as a result of injury or disease of the brain or spinal
+        cord. A specialist medical practitioner must be of the opinion that the paralysis will be permanent with no
+        hope of recovery and must be present for more than 3 months.
+
+  10. Motor Neuron Disease with permanent symptoms
+    I. Motor neuron disease diagnosed by a specialist medical practitioner as spinal muscular atrophy,
+       progressive bulbar palsy, amyotrophic lateral sclerosis or primary lateral sclerosis. There must be
+       progressive degeneration of corticospinal tracts and anterior horn cells or bulbar efferent neurons. There
+       must be current significant and permanent functional neurological impairment with objective evidence of
+       motor dysfunction that has persisted for a continuous period of at least 3 months.
+
+  11. Multiple Sclerosis with persisting symptoms
+    I. The unequivocal diagnosis of Definite Multiple Sclerosis confirmed and evidenced by all of the following:
+
+             1.   Investigations including typical MRI findings which unequivocally confirm the diagnosis to be
+                  multiple sclerosis and
+             2.   There must be current clinical impairment of motor or sensory function, which must have persisted
+                  for a continuous period of at least 6 months.
+
+       II. Other causes of neurological damage such as SLE are excluded.
+
+
+
+
+AFLI Linked Critical Shield Rider_ Policy Document_V1.0                                                      Page 5 of 22
+                              Ageas Federal Life Insurance Linked Critical Shield Rider
+                                       A Linked Individual Health Pure Risk Rider
+                                                   UIN: 135A038V01
+
+  12. Benign Brain Tumor
+      I. Benign brain tumor is defined as a life threatening, non-cancerous tumor in the brain, cranial nerves or
+      meninges within the skull. The presence of the underlying tumor must be confirmed by imaging studies
+      such as CT scan or MRI.
+
+      II. This brain tumor must result in at least one of the following and must be confirmed by the relevant
+      medical specialist.
+
+         1.   Permanent Neurological deficit with persisting clinical symptoms for a continuous period of at least
+              90 consecutive days or
+         2.   Undergone surgical resection or radiation therapy to treat the brain tumor.
+
+      III. The following conditions are excluded:
+      Cysts, Granulomas, malformations in the arteries or veins of the brain, hematomas, abscesses, pituitary
+      tumors, tumors of skull bones and tumors of the spinal cord.
+
+  13. Blindness
+      I. Total, permanent and irreversible loss of all vision in both eyes as a result of illness or accident.
+      II. The Blindness is evidenced by:
+           1.Corrected visual acuity being 3/60 or less in both eyes or ;
+           2. The field of vision being less than 10 degrees in both eyes.
+      III. The diagnosis of blindness must be confirmed and must not be correctable by aids or surgical procedure.
+
+  14. Deafness
+      I. Total and irreversible loss of hearing in both ears as a result of illness or accident. This diagnosis must be
+         supported by pure tone audiogram test and certified by an Ear, Nose and Throat (ENT) specialist. Total
+         means “the loss of hearing to the extent that the loss is greater than 90 decibels across all frequencies of
+         hearing” in both ears.
+
+  15. End Stage Lung Failure
+      I. End stage lung disease, causing chronic respiratory failure, as confirmed and evidenced by all of the
+         following:
+              1. FEV1 test results consistently less than 1 litre measured on 3 occasions 3 months apart; and
+              2. Requiring continuous permanent supplementary oxygen therapy for hypoxemia; and
+              3. Arterial blood gas analysis with partial oxygen pressure of 55mmHg or less (PaO2 < 55mmHg);
+              and
+          4. Dyspnea at rest.
+
+  16. End Stage Liver Failure
+      I. Permanent and irreversible failure of liver function that has resulted in all three of the following:
+         1. Permanent jaundice; and
+         2. Ascites; and
+         3. Hepatic encephalopathy.
+
+      II. Liver failure secondary to drug or alcohol abuse is excluded.
+
+  17. Loss of Speech
+      I. Total and irrecoverable loss of the ability to speak as a result of injury or disease to the vocal cords. The
+          inability to speak must be established for a continuous period of 12 months. This diagnosis must be
+          supported by medical evidence furnished by an Ear, Nose, throat (ENT) specialist.
+      II. All psychiatric related causes are excluded.
+
+
+
+
+AFLI Linked Critical Shield Rider_ Policy Document_V1.0                                                    Page 6 of 22
+                             Ageas Federal Life Insurance Linked Critical Shield Rider
+                                        A Linked Individual Health Pure Risk Rider
+                                                    UIN: 135A038V01
+
+  18. Loss of Limbs
+      The physical separation of two or more limbs, at or above the wrist or ankle level as a result of injury or
+      disease. This will include medically necessary amputation necessitated by injury or disease. The separation
+      has to be permanent without any chance of surgical correction. Loss of Limbs resulting directly or indirectly
+      from self-inflicted injury, alcohol or drug abuse is excluded.
+
+  19. Major Head Trauma
+      I. Accidental head injury resulting in permanent Neurological deficit to be assessed no sooner than 3
+         months from the date of the accident. This diagnosis must be supported by unequivocal findings on
+         Magnetic Resonance Imaging, Computerized Tomography, or other reliable imaging techniques. The
+         accident must be caused solely and directly by accidental, violent, external, and visible means and
+         independently of all other causes.
+
+      II. The Accidental Head injury must result in an inability to perform at least three (3) of the following
+          Activities of Daily Living either with or without the use of mechanical equipment, special devices or other
+          aids and adaptations in use for disabled persons. For the purpose of this Benefit, the word “permanent”
+          shall mean beyond the scope of recovery with current medical knowledge and technology.
+
+      III. The Activities of Daily Living are:
+               i. Washing: the ability to wash in the bath or shower (including getting into and out of the bath or
+               shower) or wash satisfactorily by other means.
+               ii. Dressing: the ability to put on, take off, secure and unfasten all garments and, as appropriate,
+               any braces, artificial limbs or other surgical appliances.
+               iii. Transferring: the ability to move from a bed to an upright chair or wheelchair and vice versa.
+               iv. Mobility: the ability to move indoors from room to room on level surfaces.
+               v. Toileting: the ability to use the lavatory or otherwise manage bowel and bladder functions so as
+               to maintain a satisfactory level of personal hygiene.
+               vi. Feeding: the ability to feed oneself once food has been prepared and made available.
+
+      IV. The following are excluded:
+           1. Spinal cord injury
+
+  20. Primary (Idiopathic) Pulmonary Hypertension
+      I. An unequivocal diagnosis of Primary (Idiopathic) Pulmonary Hypertension by a Cardiologist or specialist
+         in respiratory medicine with evidence of right ventricular enlargement and the pulmonary artery
+         pressure above 30 mm of Hg on Cardiac Cauterization. There must be permanent irreversible physical
+         impairment to the degree of at least Class IV of the New York Heart Association Classification of cardiac
+         impairment.
+
+      II. The NYHA Classification of Cardiac Impairment are as follows:
+
+            1. Class III: Marked limitation of physical activity. Comfortable at rest, but less than ordinary activity
+                causes symptoms.
+            2. Class IV: Unable to engage in any physical activity without discomfort. Symptoms may be present
+                even at rest.
+
+      II. Pulmonary hypertension associated with lung disease, chronic hypoventilation, pulmonary
+          thromboembolic disease, drugs and toxins, diseases of the left side of the heart, congenital heart disease
+          and any secondary cause are specifically excluded.
+
+
+
+
+AFLI Linked Critical Shield Rider_ Policy Document_V1.0                                                   Page 7 of 22
+                                  Ageas Federal Life Insurance Linked Critical Shield Rider
+                                           A Linked Individual Health Pure Risk Rider
+                                                       UIN: 135A038V01
+
+  21. Third Degree Burns
+      There must be third-degree burns with scarring that cover at least 20% of the body’s surface area. The
+      diagnosis must confirm the total area involved using standardized, clinically accepted, body surface area
+      charts covering 20% of the body surface area.
+
+  22. Alzheimer's Disease
+      Progressive and permanent deterioration of memory and intellectual capacity as evidenced by accepted
+      standardized questionnaires and cerebral imaging.
+
+      The diagnosis of Alzheimer’s Disease must be confirmed by an appropriate consultant and supported by a
+      Medical Practitioner appointed by Us. There must be significant reduction in mental and social functioning
+      requiring the continuous supervision of the Insured Person. There must also be an inability of the Insured
+      Person to perform (whether aided or unaided) at least three of the Activities of Daily Living, for a continuous
+      period of at least 3 months:
+          For the purpose of this clause, Activities of Daily Living are defined as:
+
+        1.        Washing – the ability to wash in the bath or shower (including getting into and out of the bath or
+                  shower) or wash satisfactorily by other means.
+        2.        Dressing – the ability to put on, take off, secure and unfasten all garments and, as appropriate, any
+                  braces, artificial limbs or other surgical appliances.
+        3.        Transferring – the ability to move from a bed to an upright chair or wheelchair and vice versa.
+        4.        Toileting – the ability to use the lavatory or otherwise manage bowel and bladder functions so as to
+                  maintain a satisfactory level of personal hygiene.
+        5.        Feeding – the ability to feed oneself once food has been prepared and made available.
+        6.        Mobility - the ability to move from room to room without requiring any physical assistance.
+
+             The following are excluded:
+
+        1.        Any other type of irreversible organic disorder/dementia
+        2.        Alcohol-related brain damage.
+
+  23. Parkinson’s Disease
+      I. The occurrence of Parkinson’s Disease where there is an associated Neurological Deficit that results in
+          permanent inability to perform independently at least three of the Activities of Daily Living, for a
+          continuous period of at least 3 months.
+      II. For the purpose of this clause, Activities of Daily Living are defined as:
+
+             1.     Washing: the ability to wash in the bath or shower (including getting into and out of the bath or
+                    shower) or wash satisfactorily by other means
+             2.     Dressing: the ability to put on, take off, secure, and unfasten all garments and, as appropriate, any
+                    braces, artificial limbs, or other surgical appliances.
+             3.     Transferring: the ability to move from a bed to an upright chair or wheelchair and vice versa.
+             4.     Mobility: the ability to move indoors from room to room on level surfaces.
+             5.     Toileting: the ability to use the lavatory or otherwise manage bowel and bladder functions so as to
+                    maintain a satisfactory level of personal hygiene.
+             6.     Feeding: the ability to feed oneself once food has been prepared and made available.
+
+      III. The following is excluded:
+      Parkinson’s Disease accompanied with drug and/or alcohol abuse.
+
+
+
+
+AFLI Linked Critical Shield Rider_ Policy Document_V1.0                                                      Page 8 of 22
+                                 Ageas Federal Life Insurance Linked Critical Shield Rider
+                                          A Linked Individual Health Pure Risk Rider
+                                                      UIN: 135A038V01
+
+  24. Major surgery of Aorta
+      The actual undergoing of medically necessary major surgery for a disease of the aorta needing excision and
+      surgical replacement of the diseased aorta with a graft. For the purpose of this definition aorta shall mean
+      the thoracic and abdominal aorta but not its branches.
+      Traumatic injury of the aorta is excluded.
+      Surgery performed using only minimally invasive or intra-arterial techniques are excluded.
+
+  25. Myasthenia Gravis
+      An acquired autoimmune disorder of neuromuscular transmission leading to fluctuating muscle weakness
+      and fatigability, where all of the following criteria are met:
+
+         1.    Presence of permanent muscle weakness categorized as Class IV or V according to the Myasthenia
+               Gravis Foundation of America Clinical Classification below; and
+         2.    The diagnosis of Myasthenia Gravis and categorization are confirmed by a registered Medical
+               Practitioner who is a neurologist.
+
+      Myasthenia Gravis Foundation of America Clinical Classification is as follows:
+
+      Class I: Any eye muscle weakness, possible ptosis, no other evidence of muscle weakness elsewhere.
+      Class II: Eye muscle weakness of any severity, mild weakness of other muscles.
+      Class III: Eye muscle weakness of any severity, moderate weakness of other muscles.
+      Class IV: Eye muscle weakness of any severity, severe weakness of other muscles.
+      Class V: Intubation needed to maintain airway.
+
+      The following are excluded:
+
+        1.     Congenital myasthenic syndrome
+        2.     Transient neonatal or juvenile myasthenia gravis
+
+  26. Aplastic Anaemia
+      Irreversible persistent bone marrow failure which results in anemia, neutropenia and thrombocytopenia
+      requiring treatment with at least two (2) of the following:
+
+         1.    Blood product transfusion.
+         2.    Marrow stimulating agents.
+         3.    Immunosuppressive agents; or
+         4.    Bone marrow transplantation.
+
+       The diagnosis of Aplastic anemia must be confirmed by a bone marrow biopsy. At least two of the following
+       values should be present:
+
+              1.   Absolute Neutrophil count of 500 per cubic millimeter or less.
+              2.   Absolute Reticulocyte count of 20,000 per cubic millimeter or less; and
+              3.   Platelet count of 20,000 per cubic millimeter or less.
+
+  27. Loss of Independent Existence (Cover up to Age 74)
+      Confirmation by a Consultant Physician of the loss of independent existence due to illness or trauma, lasting
+      for a minimum period of 6 months and resulting in a permanent inability to perform at least three of the
+      Activities of Daily Living, with no hope of recovery. For the purpose of this clause, Activities of Daily Living
+      are defined as:
+
+                   1.   Washing – the ability to wash in the bath or shower (including getting into and out of the bath
+                        or shower) or wash satisfactorily by other means.
+
+AFLI Linked Critical Shield Rider_ Policy Document_V1.0                                                    Page 9 of 22
+                              Ageas Federal Life Insurance Linked Critical Shield Rider
+                                        A Linked Individual Health Pure Risk Rider
+                                                    UIN: 135A038V01
+
+                2.   Dressing – the ability to put on, take off, secure, and unfasten all garments and, as appropriate,
+                     any braces, artificial limbs, or other surgical appliances.
+                3.   Transferring – the ability to move from a bed to an upright chair or wheelchair and vice versa.
+                4.   Toileting – the ability to use the lavatory or otherwise manage bowel and bladder functions so
+                     as to maintain a satisfactory level of personal hygiene.
+                5.   Feeding – the ability to feed oneself once food has been prepared and made available.
+                6.   Mobility - the ability to move from room to room without requiring any physical assistance.
+
+       This condition must be confirmed by the company's approved doctor.
+
+       This benefit will be available only up to age 74 last birthday.
+
+  28. Progressive Scleroderma
+      A systemic collagen-vascular Illness causing progressive diffuse fibrosis in the skin, blood vessels and visceral
+        organs. This diagnosis must be unequivocally supported by biopsy and serological evidence and the
+        disorder must have reached systemic proportions to involve the heart, lungs or kidneys.
+
+             The following conditions are excluded:
+               1. Localized scleroderma (linear scleroderma or morphea);
+               2. Eosinophilic 28 asciitis; and
+               3. CREST syndrome.
+
+  29. Other Serious Coronary Artery Diseases
+      Severe coronary artery disease in which at least three (3) major coronary arteries are individually occluded
+      by a minimum of sixty percent (60%) or more, as proven by coronary angiogram only (non-invasive
+      diagnostic procedures excluded).
+
+      For purposes of this definition, “major coronary artery” refers to any of the left main stem artery, left
+      anterior descending artery, circumflex artery and right coronary artery (but not including their branches).
+
+  30. Severe Rheumatoid Arthritis
+      Widespread chronic progressive joint destruction with major deformity, where all of the following criteria
+      are met:
+       • Unequivocal diagnosis of Rheumatoid Arthritis made based on the American College of Rheumatology
+           criteria.
+       • Damage and deformity of at least 3 (three) of the following joints: hand (Meta phalangeal joints), wrist,
+           elbow, knee, hip, or feet (metatarsophalangeal joints). Such deformity must be confirmed by imaging
+           studies showing such changes; and
+
+      Disability resulting in the inability of the Insured to perform (whether aided or unaided) at least 3 of the
+      following 6 “Activities of Daily Living” for a continuous period of at least 6 months.
+
+      Activities of Daily Living are defined as:
+
+        a) Washing: the ability to wash in the bath or shower (including getting into and out of the bath or
+           shower) or wash satisfactorily by other means.
+        b) Dressing: the ability to put on, take off, secure and unfasten all garments and, as appropriate, any
+           braces, artificial limbs or other surgical appliances.
+        c) Transferring: the ability to move from a bed to an upright chair or wheelchair and vice versa.
+        d) Mobility: the ability to move indoors from room to room on level surfaces.
+        e) Toileting: the ability to use the lavatory or otherwise manage bowel and bladder functions so as to
+           maintain a satisfactory level of personal hygiene.
+        f) Feeding: the ability to feed oneself once food has been prepared and made available.
+
+
+
+AFLI Linked Critical Shield Rider_ Policy Document_V1.0                                                    Page    10 of
+22
+                             Ageas Federal Life Insurance Linked Critical Shield Rider
+                                       A Linked Individual Health Pure Risk Rider
+                                                   UIN: 135A038V01
+
+  <<Insert only if the Critical Protect Plus Variant is opted>
+
+  31. Cardiomyopathy
+      An impaired function of the heart muscle, unequivocally diagnosed as Cardiomyopathy by a registered
+      Medical Practitioner who is a cardiologist, and which results in permanent physical impairment to the
+      degree of New York Heart Association Classification Class IV, or its equivalent, based on the following
+      classification criteria:
+
+      Class IV - Inability to carry out any activity without discomfort. Symptoms of congestive cardiac failure are
+      present even at rest. With any increase in physical activity, discomfort will be experienced. The Diagnosis of
+      Cardiomyopathy has to be supported by echocardiographic findings of compromised ventricular
+      performance.
+      Irrespective of the above, Cardiomyopathy directly related to alcohol or drug abuse is excluded.
+
+  32. Infective Endocarditis
+      Inflammation of the inner lining of the heart caused by infectious organisms, where all of the following
+      criteria are met:
+
+            1.   Positive result of the blood culture proving presence of the infectious organism(s).
+            2.   Presence of at least moderate heart valve incompetence (meaning regurgitant fraction of 20% or
+                 above) or moderate heart valve stenosis (resulting in heart valve area of 30% or less of normal
+                 value) attributable to Infective Endocarditis; and
+            3.   The Diagnosis of Infective Endocarditis and the severity of valvular impairment are confirmed by
+                 a registered Medical Practitioner who is a cardiologist.
+
+  33. Medullary Cystic Kidney Disease
+    Medullary Cystic Disease where the following criteria are met:
+       i. The presence in the kidney of multiple cysts in the renal medulla accompanied by the presence of
+            tubular atrophy and interstitial fibrosis.
+       ii. Clinical manifestations of anemia, polyuria, and progressive deterioration in kidney function; and
+       iii. The diagnosis of Medullary Cystic Disease is confirmed by renal biopsy along with specialist Medical
+            Practitioner opinion.
+
+    The following are excluded.
+
+        ii. Isolated or benign kidney cysts are specifically excluded from this Benefit.
+        iii. Any condition is which cysts are absent.
+
+  34. Apallic Syndrome
+      Universal non-functioning of the brain cortex, with the brain stem intact. Diagnosis of Apallic Syndrome
+      must be definitely confirmed by a registered Medical Practitioner who is also a neurologist and
+      substantiated by clinical and investigation findings. This condition must be documented for a continuous
+      period of at least one month
+
+  35. Creutzfeldt-Jakob Disease
+      A diagnosis of Creutzfeldt Jakob Disease must be made by a specialist Medical Practitioner who is a
+      neurologist, and the diagnosis must be substantiated by CSF examination, EEG, CT Brain and MRI of the
+      brain. There must be permanent clinical loss of the ability in mental, physical and social functioning for a
+      minimum period of 30 days to the extent that permanent supervision or assistance by a third party is
+      required.
+
+  36. Pneumonectomy (Surgical Removal of One Lung)
+      Complete surgical removal of the entire right or entire left lung necessitated by an illness or an Accident of
+      the Insured. The surgery must be certified to be Medically Necessary by a Medical Practitioner who is a
+      pulmonologist or thoracic surgeon.
+
+
+AFLI Linked Critical Shield Rider_ Policy Document_V1.0                                                 Page    11 of
+22
+                              Ageas Federal Life Insurance Linked Critical Shield Rider
+                                        A Linked Individual Health Pure Risk Rider
+                                                    UIN: 135A038V01
+
+  37. Brain Surgery
+      The actual undergoing of surgery to the brain, under general anesthesia, during which a Craniotomy is
+      performed. Burr hole and brain surgery as a result of an accident is excluded. The procedure must be
+      considered necessary by a qualified specialist and the benefit shall only be payable once corrective surgery
+      has been carried out.
+
+  38. Severe Ulcerative Colitis
+      Acute fulminant ulcerative colitis with life threatening electrolyte disturbances.
+      All of the following criteria must be met:
+       • The entire colon is affected, with severe bloody diarrhea; and
+       • The necessary treatment is total colectomy and ileostomy; and
+       • The diagnosis must be based on histopathological features and confirmed by a registered Medical
+            Practitioner who is a specialist in gastroenterology
+
+  39. Chronic Relapsing Pancreatitis
+      An unequivocal diagnosis of Chronic Relapsing Pancreatitis, made by a Medical Practitioner who is a
+      specialist in gastroenterology and confirmed as a continuing inflammatory disease of the pancreas
+      characterized by irreversible morphological change and typically causing pain and/or permanent
+      impairment of function. The condition must be confirmed by pancreatic function tests and radiographic and
+      imaging evidence.
+
+      Relapsing Pancreatitis caused directly or indirectly, wholly or partly, by alcohol is excluded.
+
+  40. Progressive Supranuclear Palsy - Resulting In Permanent Symptoms
+      Confirmed by a registered doctor who is a specialist in neurology of a definite diagnosis of progressive
+      supranuclear palsy.
+      The condition must have resulted in irreversible and permanent neurological deficit which persist for at
+      least 6 weeks and resulting in permanent inability to perform three or more Activities of Daily Living.
+
+      Activities of Daily Living are defined as:
+
+        a) Washing: the ability to wash in the bath or shower (including getting into and out of the bath or
+           shower) or wash satisfactorily by other means.
+        b) Dressing: the ability to put on, take off, secure, and unfasten all garments and, as appropriate, any
+           braces, artificial limbs or other surgical appliances.
+        c) Transferring: the ability to move from a bed to an upright chair or wheelchair and vice versa.
+        d) Mobility: the ability to move indoors from room to room on level surfaces.
+        e) Toileting: the ability to use the lavatory or otherwise manage bowel and bladder functions so as to
+           maintain a satisfactory level of personal hygiene.
+        f) Feeding: the ability to feed oneself once food has been prepared and made available.
+
+  41. Severe Progressive Bulbar Palsy
+      Neurological disorder with paralysis in the head region, difficulties in chewing and swallowing, problems in
+      speaking, persistent signs of involvement of the spinal nerves and the motor centres in the brain and spastic
+      weakness and atrophy of the muscles of the extremities. The disease must be Unequivocally Diagnosed by
+      a Medical Practitioner who is a neurologist. The condition must result in the permanent inability to perform,
+      without assistance, at least three (3) of the six (6) Activities of Daily Living. These conditions have to be
+      medically documented for at least three (3) consecutive months.
+
+      The Activities of Daily Living are:
+
+          I.   Washing: the ability to wash in the bath or shower (including getting into and out of the bath or
+               shower) or wash satisfactorily by other means;
+         II.   Dressing: the ability to put on, take off, secure and unfasten all garments and, as appropriate, any
+               braces, artificial limbs or other surgical appliances;
+        III.   Transferring: the ability to move from a bed to an upright chair or wheelchair and vice versa;
+        IV.    Mobility: the ability to move indoors from room to room on level surfaces;
+
+AFLI Linked Critical Shield Rider_ Policy Document_V1.0                                                 Page   12 of
+22
+                              Ageas Federal Life Insurance Linked Critical Shield Rider
+                                        A Linked Individual Health Pure Risk Rider
+                                                    UIN: 135A038V01
+
+         V.   Toileting: the ability to use the lavatory or otherwise manage bowel and bladder functions so as to
+              maintain a satisfactory level of personal hygiene;
+        VI.   Feeding: the ability to feed oneself once food has been prepared and made available.
+
+  42. Fulminant Viral Hepatitis
+      A sub-massive to massive necrosis of the liver by the Hepatitis virus, leading precipitously to liver failure.
+      This diagnosis must be supported by all of the following:
+
+        a)    Rapid decreasing of liver size.
+        b)    Necrosis involving entire lobules, leaving only a collapsed reticular framework.
+        c)    Rapid deterioration of liver function tests.
+        d)    Deepening jaundice; and
+        e)    Hepatic encephalopathy.
+
+      Acute Hepatitis infection or carrier status alone does not meet the diagnostic criteria.
+
+  43. Severe Crohn’s Disease
+      Crohn’s Disease is a chronic, transmural inflammatory disorder of the bowel. To be considered as severe,
+      there must be evidence of continued inflammation in spite of optimal therapy, with all of the following
+      having occurred:
+          • Stricture formation causing intestinal obstruction requiring admission to Hospital, and
+          • Fistula formation between loops of bowel, and
+          • At least one bowel segment resection.
+
+      The diagnosis must be made by a registered Medical Practitioner who is a specialist Gastroenterologist and
+      be proven histologically on a pathology report and/or the results of sigmoidoscopy or colonoscopy.
+
+  44. Bacterial Meningitis
+      Bacterial infection resulting in severe inflammation of the membranes of the brain or spinal cord resulting
+      in significant, irreversible and permanent neurological deficit. The neurological deficit must persist for at
+      least 6 weeks resulting in permanent inability to perform three or more Activities of Daily Living.
+
+      This diagnosis must be confirmed by:
+        a. The presence of bacterial infection in cerebrospinal fluid by lumbar puncture; and
+        b. A consultant neurologist certifying the diagnosis of bacterial meningitis.
+
+      Activities of Daily Living are defined as:
+
+        a) Washing: the ability to wash in the bath or shower (including getting into and out of the bath or
+           shower) or wash satisfactorily by other means.
+        b) Dressing: the ability to put on, take off, secure and unfasten all garments and, as appropriate, any
+           braces, artificial limbs or other surgical appliances.
+        c) Transferring: the ability to move from a bed to an upright chair or wheelchair and vice versa.
+        d) Mobility: the ability to move indoors from room to room on level surfaces.
+        e) Toileting: the ability to use the lavatory or otherwise manage bowel and bladder functions so as to
+           maintain a satisfactory level of personal hygiene.
+        f) Feeding: the ability to feed oneself once food has been prepared and made available.
+
+  45. Necrotising Fasciitis
+      The occurrence of necrotizing fasciitis where the following conditions are met:
+        (i) the usual clinical criteria of necrotizing fasciitis are met; and
+        (ii) the bacteria identified is a known cause of necrotizing fasciitis; and
+        (iii) there is widespread destruction of muscle and other soft tissues that results in a total and permanent
+              loss of function of the affected body part.
+
+      The Unequivocal Diagnosis must be made by a Specialist in the relevant medical field.
+
+
+AFLI Linked Critical Shield Rider_ Policy Document_V1.0                                                 Page    13 of
+22
+                              Ageas Federal Life Insurance Linked Critical Shield Rider
+                                        A Linked Individual Health Pure Risk Rider
+                                                    UIN: 135A038V01
+
+  46. Muscular Dystrophy
+      Diagnosis of muscular dystrophy by a registered Medical Practitioner who is a neurologist based on the
+      presence of following conditions:
+
+         1.   Clinical presentation including weakness and loss of muscle mass, absence of sensory disturbance,
+              normal cerebrospinal fluid and mild tendon reflex reduction.
+         2.   Characteristic electromyogram
+         3.   Clinical suspicion confirmed by muscle biopsy.
+
+      The condition must result in the inability of the Insured Person to perform (whether aided or unaided) at
+      least three of the Activities of Daily Living, for a continuous period of at least 6 months.
+
+      For the purpose of this clause, Activities of Daily Living are defined as:
+
+        a) Washing: the ability to wash in the bath or shower (including getting into and out of the bath or
+           shower) or wash satisfactorily by other means.
+        b) Dressing: the ability to put on, take off, secure and unfasten all garments and, as appropriate, any
+           braces, artificial limbs or other surgical appliances.
+        c) Transferring: the ability to move from a bed to an upright chair or wheelchair and vice versa.
+        d) Mobility: the ability to move indoors from room to room on level surfaces.
+        e) Toileting: the ability to use the lavatory or otherwise manage bowel and bladder functions so as to
+           maintain a satisfactory level of personal hygiene.
+        f) Feeding: the ability to feed oneself once food has been prepared and made available.
+
+  47. Systemic Lupus Erythematous with Renal Involvement
+        I. Multi-system, autoimmune disorder characterized by the development of autoantibodies, directed
+            against various self-antigens. For purposes of the definition of “SLE” under this policy is restricted to
+            only those forms of systemic lupus erythematosus, which involve the kidneys and are characterized
+            as Class III, Class IV, Class V or Class VI lupus nephritis under the Abbreviated International Society of
+            Nephrology/Renal Pathology Society (ISN/RPS) classification of lupus nephritis (2003) below based
+            on renal biopsy.
+
+              Diagnosis by a nephrologist, supported by renal biopsy report is mandatory. There must be positive
+              antinuclear antibody test
+
+        II. The following are excluded
+              i. Other forms such as discoid lupus, and those forms with only hematological and joint
+                   involvement are specifically excluded.
+              ii. Class I – Minimal mesangial lupus nephritis
+              iii. Class II – Mesangial proliferative lupus nephritis
+
+  48. Tuberculous Meningitis
+      Meningitis caused by tubercle bacilli. Such a diagnosis must be supported by:
+       1) Findings in the cerebrospinal fluid (csf) report
+       2) Presence of acid fast bacilli in the cerebrospinal fluid or growth of M. Tuberculosis demonstrated in
+            the culture report or Nucleic acid amplification tests like PCR
+       3) Certification by a registered doctor who is a specialist in neurology, or a physician with a degree of MD
+      The condition must have resulted in irreversible and permanent neurological deficit which persist for at
+      least 6 weeks and resulting in permanent inability to perform three or more Activities of Daily Living.
+
+       Activities of Daily Living are defined as:
+
+       a) Washing: the ability to wash in the bath or shower (including getting into and out of the bath or
+          shower) or wash satisfactorily by other means.
+       b) Dressing: the ability to put on, take off, secure and unfasten all garments and, as appropriate, any
+          braces, artificial limbs or other surgical appliances.
+       c) Transferring: the ability to move from a bed to an upright chair or wheelchair and vice versa.
+       d) Mobility: the ability to move indoors from room to room on level surfaces.
+AFLI Linked Critical Shield Rider_ Policy Document_V1.0                                                   Page    14 of
+22
+                              Ageas Federal Life Insurance Linked Critical Shield Rider
+                                        A Linked Individual Health Pure Risk Rider
+                                                    UIN: 135A038V01
+
+       e)    Toileting: the ability to use the lavatory or otherwise manage bowel and bladder functions so as to
+             maintain a satisfactory level of personal hygiene.
+       f)    Feeding: the ability to feed oneself once food has been prepared and made available
+
+  49. Encephilitis
+      Severe inflammation of the brain tissue due to infectious agents like viruses or bacteria which results in
+      significant and permanent neurological deficits for a minimum period of 6 weeks, certified by a specialist
+      Medical Practitioner (Neurologist)
+
+      The permanent deficit must result in permanent inability to perform three or more Activities of Daily Living.
+
+      Activities of Daily Living are defined as:
+
+        a) Washing: the ability to wash in the bath or shower (including getting into and out of the bath or
+           shower) or wash satisfactorily by other means.
+        b) Dressing: the ability to put on, take off, secure and unfasten all garments and, as appropriate, any
+           braces, artificial limbs or other surgical appliances.
+        c) Transferring: the ability to move from a bed to an upright chair or wheelchair and vice versa.
+        d) Mobility: the ability to move indoors from room to room on level surfaces.
+        e) Toileting: the ability to use the lavatory or otherwise manage bowel and bladder functions so as to
+           maintain a satisfactory level of personal hygiene.
+        f) Feeding: the ability to feed oneself once food has been prepared and made available.
+
+  50. Primary Myelofibrosis
+      A disorder which can cause fibrous tissue to replace the normal bone marrow and results in severe anemia
+      below 10 g/dl, low platelet count below 100,000 micro and enlarged spleen. The condition must have
+      progressed to the point that it is permanent, and the severity is such that the Insured.
+
+      Person requires a blood transfusion at least monthly over at least six (6) consecutive months. The diagnosis
+      of Primary Myelofibrosis must be supported by bone marrow biopsy and confirmed by a registered Medical
+      Practitioner who is a specialist.
+
+       Secondary Myelofibrosis is excluded. >
+
+2.   Death Benefit:
+     On Death of Life Assured during the term of the rider cover, no benefit shall be payable. The rider cover shall
+     terminate and all rights, benefits and interests under the rider cover stands extinguished
+
+3.   Maturity Benefit:
+     Not Applicable
+
+4.   Grace Period:
+     You get a grace period of 15 days for Monthly mode and 30 days for other than monthly mode from the due
+     date of the first unpaid rider premium. The benefits of the policy and policy status would remain in force during
+     the grace period. Grace period will not be applicable under Single Premium payment option.
+
+     In case of any rider claim during grace period, rider claim amount shall be paid after deducting rider premiums
+     due up to next policy anniversary without any interest.
+
+
+
+
+AFLI Linked Critical Shield Rider_ Policy Document_V1.0                                                 Page    15 of
+22
+                                Ageas Federal Life Insurance Linked Critical Shield Rider
+                                         A Linked Individual Health Pure Risk Rider
+                                                     UIN: 135A038V01
+
+                                                         PART D
+
+POLICY TERMS AND CONDITIONS
+
+This section provides a detailed description of the following:
+
+    1. Alterations
+    2. Modal loadings for Premium Payment Modes
+    3. Free Look
+    4. Surrender
+    5. Surrender Value
+    6. Paid up
+    7. Lapse
+    8. Revival
+    9. Loans
+    10. Termination of your rider
+    11. Exclusion
+    12. Nomination and Assignment requirements
+
+    1.    Alterations:
+          Any alteration allowed in the base plan applies to the rider. No separate alterations to the rider policy are
+          allowed.
+          If there is a change in the premium payment frequency of the base policy, it will result in a similar alteration
+          to the rider policy.
+          If the premium payment term or policy term of the base policy is reduced to the term shorter than the
+          rider’s, the rider’s premium payment term and policy term will be reduced to match the base policy term
+          and Premium Payment term along with the premium if applicable.
+          If there is change in base plan Sum Assured, then the rider sum assured can be adjusted proportionally.
+
+    2.    Modal loadings for Premium Payment Modes:
+          Modal loadings are same as under the base policy
+
+    3.    Free Look:
+          You are entitled to a free look period of 30 days beginning from the date of receipt of the rider policy
+          document (whether received electronically or otherwise), to review the terms and conditions of the rider
+          policy. In case you do not agree to any of the rider terms and conditions, or otherwise and have not made
+          any claim, you have the option to return the policy to us for cancellation by communicating the same in
+          writing stating the reasons for cancellation. We will refund you the premium paid after deducting the
+          proportionate risk premium for the period of cover provided and the expenses, if any, incurred by us in
+          respect of medical examination and stamp duty charges. A rider policy once returned cannot be revived at
+          any point in time and a new proposal will have to be made for a new Rider Policy. All the benefits under the
+          rider policy will stand extinguished immediately on the cancellation of the rider Policy under the free look.
+          In case of free look cancellation of the Base Policy, this Rider Policy shall automatically be cancelled.
+
+         4.   Surrender:
+              The Rider will automatically get surrendered if the base plan is surrendered and Refund Value, if any shall
+              be payable.
+              Rider can also be surrendered anytime during the Rider Benefit Term.
+
+         5.   Surrender Value:
+              This is a pure protection plan and therefore does not acquire Surrender Value. However, Refund value
+              as mentioned below shall be payable.
+
+AFLI Linked Critical Shield Rider_ Policy Document_V1.0                                                     Page    16 of
+22
+                             Ageas Federal Life Insurance Linked Critical Shield Rider
+                                       A Linked Individual Health Pure Risk Rider
+                                                   UIN: 135A038V01
+
+           < <Insert for Single Premium >
+            If you voluntarily opt to close the rider cover anytime during the rider term, Refund Value as mentioned
+            below shall be payable.
+
+            Refund Value = 60% x Single Premium Paid x (Unexpired Rider Policy Term in months / Total Rider Policy
+            Term in months).
+
+            Refund Value is not guaranteed and shall be revised by Company, after necessary approvals as required
+            by IRDAI.
+
+            Single premium means Single premium paid, excluding the taxes, extra premiums, if any.
+
+            On payment of applicable Refund Value, the rider cover will terminate and all rights, benefits and
+            interests under the rider cover will stand extinguished.>
+
+           < <Insert for Limited Premium >
+                    a. If you voluntarily opt to close the rider cover before payment of all due rider Premiums for
+                          at least three consecutive rider cover years, then no Refund Value shall be payable.
+
+                    b.   If you voluntarily opt to close the rider cover after payment of all due rider Premiums for at
+                         least three consecutive rider cover years, then the Refund Value as mentioned below shall
+                         be payable.
+
+              Refund Value = 60% x Total Rider Premiums received till date x ([Rider Policy Term – Rider Premium
+              Payment Term] / Rider Policy Term) x (Unexpired Rider Policy Term in months / Total Rider Policy
+              Term in months)
+
+
+              Refund Value is not guaranteed and shall be revised by Company, after necessary approvals as
+              required by IRDAI.
+
+              On payment of applicable Refund Value, the rider cover will terminate and all rights, benefits and
+              interests under the rider cover will stand extinguished.>
+
+
+           < <Insert for Regular Premium >
+           For Regular Pay, Refund Value is not applicable. >
+
+
+      6.   Paid-up: Not Applicable
+
+      7.   Lapse:
+           If the Base Cover is lapsed, Rider Cover will cease and Refund Value as applicable will be paid.
+
+           <Insert for Single Premium>
+           Not Applicable
+
+           <Insert for Regular Premium>
+            In case of non-payment of due rider Premiums within the grace period, the rider cover shall lapse, and
+            no benefits are payable. However, the rider cover can be revived as per revival section (Part D, Section
+            8)
+
+
+
+AFLI Linked Critical Shield Rider_ Policy Document_V1.0                                                  Page    17 of
+22
+                                   Ageas Federal Life Insurance Linked Critical Shield Rider
+                                            A Linked Individual Health Pure Risk Rider
+                                                        UIN: 135A038V01
+
+              <Insert for Limited Premium>
+               In case of non-payment of due Rider Premiums during the first three consecutive years of cover
+               within the grace period, the Rider Cover shall lapse, and no benefits shall be payable.
+
+                  In case of non-payment of due Rider Premiums within the grace period, after payment of all due
+                  Premiums for at least first three consecutive years of cover, the cover shall lapse, and Refund Value (as
+                  applicable) shall be payable upon earlier occurrence of:
+                    • Insured event during revival period where the cover has lapsed.
+                    • End of revival period if the Rider Cover is not revived.
+                    • The date on which the Life Assured surrenders the Base/ Rider Policy/ Cover
+
+         8.   Revival:
+                  Rider Policy can be revived/ reinstated during the Rider Policy Term only if the Base Policy is in
+                  force. The conditions for revival/ reinstatement of this Rider shall be the same as those applicable
+                  for the Base Policy. Revival shall be as per Board approved underwriting policy.
+
+                     Once the rider cover has been revived, it is entitled to receive same benefits as an in-force policy
+
+         9.   Loans:
+              No loans are applicable
+
+    10. Termination of your rider
+        The rider will be automatically terminated on the earlier occurrence of either of the following:
+
+              •      On cancellation/ termination of base policy
+              •      On opting out of the rider benefit
+              •      On cancellation of the rider policy during the free look period
+              •      On expiry of the rider term
+              •      On payment of Refund Value of rider
+              •      On lapse at the end of revival period
+              •      On payment of rider sum assured under opted rider benefit
+              •      In case of fraud or misstatement, the provisions of section 45 of the Insurance Act, 1938 as amended
+                     from time to time will apply.
+
+    11. Exclusions:
+
+    A] Permanent Exclusions
+
+    We shall not be liable to make any payment under this rider cover towards a covered Critical Illness risk, caused
+    by, based on, arising out of or howsoever attributable to any of the following:
+
+    1. Any Illness, sickness or disease other than those specified as Critical Illnesses under this Rider;
+
+    2. Any Critical Illness caused by any Pre-existing Disease (PED) or any complications arising therefrom.
+
+    Pre-existing Disease means any condition, ailment, injury or disease:
+    a. That is/are diagnosed by a physician not more than 36 months prior to the effective date of the policy issued
+        by the insurer or its reinstatement; or
+
+    b.    For which medical advice or treatment was recommended by, or received from, a Physician, not more than
+          36 months Prior to the effective date of the policy issued by the insurer or its reinstatement.
+AFLI Linked Critical Shield Rider_ Policy Document_V1.0                                                       Page    18 of
+22
+                              Ageas Federal Life Insurance Linked Critical Shield Rider
+                                       A Linked Individual Health Pure Risk Rider
+                                                   UIN: 135A038V01
+
+
+
+    Coverage under the policy after the expiry of 36 months for any pre-existing disease is subject to the same being
+    declared at the time of application and accepted by Insurer.
+
+   3. Any Critical Illness caused due to treatment for alcoholism, drug or substance abuse or any addictive condition
+      and consequences thereof.
+
+        4.   Any Critical Illness caused due to narcotics used by the Life Assured unless taken as prescribed by a
+             registered Medical Practitioner
+
+        5.   Any Critical Illness caused due to intentional self-injury, suicide or attempted suicide
+
+        6.   Any Critical Illness caused by or arising from or attributable to a foreign invasion, act of foreign enemies,
+             hostilities, warlike operations (whether war be declared or not or while performing duties in the armed
+             forces of any country during war or at peace time), civil war, public defense, rebellion, revolution,
+             insurrection, military or usurped power
+
+        7.   Any Critical Illness caused by ionizing radiation or contamination by radioactivity from any nuclear fuel
+             (explosive or hazardous form) or from any nuclear waste from the combustion of nuclear fuel or caused
+             by nuclear,chemical or biological attack.
+
+        8.   Any Critical Illness caused by Congenital External Anomalies, inherited disorders or any complications
+             or conditions arising therefrom including any developmental conditions of the Insured;
+
+        9.   Any Critical Illness caused by any treatment necessitated due to participation as a professional in
+             hazardous or adventure sport, including but not limited to para jumping, rock climbing,
+             mountaineering, rafting, motor racing, horse racing or scuba diving, hand gliding, sky diving, deep sea
+             diving etc
+
+        10. Any Critical Illness caused by any treatment necessitated due to participation by the Life Assured in any
+            flying activity, except as a bona fide, fare- paying passenger of a recognized airline flying on regular
+            routes and on a scheduled timetable.
+
+        11. Any Critical Illness caused by Medical treatment traceable to childbirth (including complicated
+            deliveries and caesarean sections incurred during hospitalization) except ectopic pregnancy. Any
+            Critical Illness caused due to miscarriages (unless due to an accident) and lawful medical termination
+            of pregnancy during the policy period.
+
+        12. Any Critical Illness caused by any unproven/ experimental treatment, service and supplies for or in
+            connection with any treatment. Unproven/ experimental treatments are treatments, procedures or
+            supplies that lack significant medical documentation to support their effectiveness.
+
+        13. Any Critical Illness based on certification/diagnosis/treatment from persons not registered as Medical
+            Practitioners or from a Medical Practitioner who is practicing outside the discipline that he/ she is
+            licensed for.
+
+        14. Any Critical Illness caused due to any treatment, including surgical management, to change
+            characteristics of the body to those of opposite sex.
+
+        15. Any Critical Illness caused due to cosmetic or plastic surgery or any treatment to change the appearance
+            unless for reconstruction following an Accident, Burn(s), or Cancer or as part of medically necessary
+            treatment to remove a direct and immediate health risk to the insured. For this to be considered a
+            medical necessity, it must be certified by the attending Medical Practitioner.
+AFLI Linked Critical Shield Rider_ Policy Document_V1.0                                                     Page    19 of
+22
+                               Ageas Federal Life Insurance Linked Critical Shield Rider
+                                         A Linked Individual Health Pure Risk Rider
+                                                     UIN: 135A038V01
+
+          16. Any Critical Illness caused due to surgical treatment of obesity that does not fulfil all the below
+              conditions:
+              a. Surgery to be conducted is upon the advice of the Doctor
+              b. The Surgery / Procedure conducted should be supported by clinical protocols
+              c. The Life Assured has to be 18 years of age or older
+              d. Body Mass Index (BMI):
+                   • greater than or equal to 40 or
+                   • greater than or equal to 35 in conjunction with any of the following severe co-morbidities:
+
+                   i. Obesity related cardiomyopathy
+                   ii. Coronary heart disease
+                   iii. Severe Sleep Apnea
+                   iv. Uncontrolled Type 2 Diabetes
+
+
+          17. Any Critical Illness caused by treatment directly arising from or consequent upon any Life Assured
+              committing or attempting to commit a breach of law with criminal intent
+
+          18. In the event of the death of the Life Assured within the stipulated survival period as set out in the policy
+              terms and conditions.
+
+          19. Any Critical Illness caused by sterility and infertility.
+                  This includes:
+                  a. Any type of contraception, sterilization
+                  b. Assisted Reproductive services including artificial insemination and advanced reproductive
+                      technologies such as IVF, ZIFT, GIFT, ICSI
+                  c. Gestational Surrogacy
+                  d. Reversal of sterilization
+
+      B] Time Bound Exclusions
+      Any Pre-existing Disease or any complication arising therefrom.
+
+      Pre-existing Disease means any condition, ailment, injury or disease:
+
+ a.    That is/are diagnosed by a physician not more than 36 months prior to the effective date of the policy issued
+       by the insurer or its reinstatement; or
+ b.    For which medical advice or treatment was recommended by, or received from, a Physician, not more than 36
+       months Prior to the effective date of the policy issued by the insurer or its reinstatement.
+
+       The definitions and other covered conditions are as per medical ethics point of view and medico-legal opinion
+       has been taken in this regard.
+
+        12. Nomination and Assignment requirements:
+            Nomination and Assignment is allowed only along with the Base Policy and shall be as per Section 39 and
+            38 of the Insurance Act, 1938, as amended from time to time.
+
+        13. Incorrect Information and Non-Disclosure:
+            Fraud and misstatement would be dealt with in accordance with provisions of Section 45 of the Insurance
+            Act 1938 as amended from time to time. Please refer the Main Policy document for the same. The
+            simplified version of the provisions of Section 45 is enclosed in Annexure for your reference
+
+
+
+
+AFLI Linked Critical Shield Rider_ Policy Document_V1.0                                                     Page    20 of
+22
+                              Ageas Federal Life Insurance Linked Critical Shield Rider
+                                        A Linked Individual Health Pure Risk Rider
+                                                    UIN: 135A038V01
+
+                                                        PART E
+
+FUNDS AND CHARGES
+
+Rider charges are collected explicitly through collection of rider premium, and not by way of cancellation of units.
+
+
+                                                        PART F
+
+GENERAL TERMS AND CONDITIONS
+This rider is subject to our general terms and conditions for conducting business with our Policyholders. These are
+binding on you, and us. We may amend the general terms and conditions with the necessary approvals as required
+by IRDAI.where required, for the sake of compliance, good governance, the security of our Policyholders, and
+administrative efficiency. We may also be required by law, rule, regulations, and statute to change the general terms
+and conditions. We will advise you of any changes to the general terms and conditions which are also available on
+request at any of our branches and offices. We recommend you go through them carefully.
+
+1.   Suicide exclusion
+     No benefit will be paid under suicide.
+
+2.   Claim Requirements
+     Claims are payable to the beneficiary in case of Critical Illness claim. The following need to be produced in case
+     of a claim:
+        a) Original Policy Document
+        b) Claim forms duly completed as required by Life Assured.
+        c) Certificate from physician/hospital last attended with all details of illness
+        d) A copy of medical records for diagnosis & treatment attested by treating doctor; Medical Reports to
+              include initial Diagnosis / findings, further follow-up treatment report, medicine prescriptions from
+              initial treatment till date, any other relevant medical report pertaining to the Illness
+        e) Medical certificate confirming the diagnosis of Critical Illness
+        f)    Investigation test reports confirming the diagnosis as specified under the definition of the respective
+              critical illness.
+        g) Discharge Summary.
+        h) In the case where in Critical Illness arises due to an accident, FIR or medico legal certificate will also be
+              required wherever conducted.
+        i)    Bank Account details with IFSC code of Beneficiary
+        j)    Claimant's PAN CARD /Form 60* (if PAN card is not available)
+        k) Officially Valid Documents of the claimant
+
+     List of officially valid documents. (One from below list)
+          1. Masked Aadhaar Card , Valid Passport, Valid Voter ID, Valid Driving Licence
+          2. Job card issued by NREGA duly signed by an officer of the State Government
+          3. Letter issued by the National Population Register containing details of name and address.
+
+     Any further documentation or information that we may need in support of the claim before we can process the
+     claim.
+
+     In exceptional circumstances company may waive the requirement of any or all of the above documents.
+
+     We may conduct any investigation that we consider necessary for this purpose.
+
+AFLI Linked Critical Shield Rider_ Policy Document_V1.0                                                   Page    21 of
+22
+                            Ageas Federal Life Insurance Linked Critical Shield Rider
+                                     A Linked Individual Health Pure Risk Rider
+                                                 UIN: 135A038V01
+
+    Submit the claim documents to: Ageas Federal Life Insurance Company Limited, 22nd Floor, A Wing, Marathon
+    Futurex, N. M. Joshi Marg, Lower Parel – East, Mumbai 400013. Maharashtra.
+
+    All other conditions shall be the same as those in base plan. We urge you to ensure the safe storage of this
+    Rider Policy with the Base Policy for a smooth claim settlement.
+
+
+
+                                                     PART G
+
+    GRIEVANCES: As per Base Policy
+
+    ANNEXURE: As per Base Policy
+
+
+
+
+AFLI Linked Critical Shield Rider_ Policy Document_V1.0                                            Page    22 of
+22
+

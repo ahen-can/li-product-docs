@@ -1,0 +1,170 @@
+{
+ "rider": {
+  "name": {
+   "value": "Ageas Federal Life Insurance Linked Critical Shield Rider",
+   "status": "n/a",
+   "doc": "Linked Critical Shield Brochure",
+   "quote": "Linked Critical Shield Rider",
+   "note": null,
+   "page": 1,
+   "doc_path": "docs/ageas-federal/riders/135A038V01/brochure.pdf"
+  },
+  "uin": {
+   "value": "135A038V01",
+   "status": "n/a",
+   "doc": "Linked Critical Shield Brochure",
+   "quote": "(UIN: 135A038V01)",
+   "note": null,
+   "page": 1,
+   "doc_path": "docs/ageas-federal/riders/135A038V01/brochure.pdf"
+  },
+  "linked_or_non_linked": {
+   "value": "linked individual health pure risk rider; rider premium",
+   "status": "n/a",
+   "doc": "Linked Critical Shield Brochure",
+   "quote": "A Linked Individual Health Pure Risk Rider",
+   "note": null,
+   "page": 1,
+   "doc_path": "docs/ageas-federal/riders/135A038V01/brochure.pdf"
+  },
+  "attached_to_ulips": {
+   "value": "see results/ulip_rider_map.csv",
+   "status": "n/a",
+   "doc": null,
+   "quote": null,
+   "note": "Named by 4 of the 6 Ageas ULIPs. The policy document is linked from a different storage account than the other rider files.",
+   "page": null,
+   "doc_path": null
+  }
+ },
+ "benefits": {
+  "waiver_of_premium": {
+   "value": "not covered",
+   "status": "not covered",
+   "doc": "Linked Critical Shield Brochure",
+   "quote": "Choose between two variants: Critical Protect covering 30 illnesses or",
+   "note": "The rider pays a lump sum on critical illness only.",
+   "page": 2,
+   "doc_path": "docs/ageas-federal/riders/135A038V01/brochure.pdf"
+  },
+  "waiver_on_death_of_life_assured": {
+   "value": "not covered",
+   "status": "not covered",
+   "doc": "Linked Critical Shield Brochure",
+   "quote": "Choose between two variants: Critical Protect covering 30 illnesses or",
+   "note": "The rider pays a lump sum on critical illness only.",
+   "page": 2,
+   "doc_path": "docs/ageas-federal/riders/135A038V01/brochure.pdf"
+  },
+  "waiver_on_death_or_illness_of_proposer": {
+   "value": "not covered",
+   "status": "not covered",
+   "doc": "Linked Critical Shield Brochure",
+   "quote": "Choose between two variants: Critical Protect covering 30 illnesses or",
+   "note": "The rider pays a lump sum on critical illness only.",
+   "page": 2,
+   "doc_path": "docs/ageas-federal/riders/135A038V01/brochure.pdf"
+  },
+  "critical_illness": {
+   "value": "Lump sum on diagnosis of a covered critical illness. Two variants: Critical Protect (30 illnesses) and Critical Protect Plus (50 illnesses).",
+   "status": "covered as an option",
+   "doc": "Linked Critical Shield Brochure",
+   "quote": "Critical Protect covering 30 illnesses or",
+   "note": null,
+   "page": 2,
+   "doc_path": "docs/ageas-federal/riders/135A038V01/brochure.pdf"
+  },
+  "accidental_death": {
+   "value": "not covered",
+   "status": "not covered",
+   "doc": "Linked Critical Shield Brochure",
+   "quote": "Choose between two variants: Critical Protect covering 30 illnesses or",
+   "note": "The rider pays a lump sum on critical illness only.",
+   "page": 2,
+   "doc_path": "docs/ageas-federal/riders/135A038V01/brochure.pdf"
+  },
+  "accidental_disability": {
+   "value": "not covered",
+   "status": "not covered",
+   "doc": "Linked Critical Shield Brochure",
+   "quote": "Choose between two variants: Critical Protect covering 30 illnesses or",
+   "note": "The rider pays a lump sum on critical illness only.",
+   "page": 2,
+   "doc_path": "docs/ageas-federal/riders/135A038V01/brochure.pdf"
+  },
+  "term_cover": {
+   "value": "not covered",
+   "status": "not covered",
+   "doc": "Linked Critical Shield Brochure",
+   "quote": "Choose between two variants: Critical Protect covering 30 illnesses or",
+   "note": "The rider pays a lump sum on critical illness only.",
+   "page": 2,
+   "doc_path": "docs/ageas-federal/riders/135A038V01/brochure.pdf"
+  },
+  "hospital_cash": {
+   "value": "not covered",
+   "status": "not covered",
+   "doc": "Linked Critical Shield Brochure",
+   "quote": "Choose between two variants: Critical Protect covering 30 illnesses or",
+   "note": "The rider pays a lump sum on critical illness only.",
+   "page": 2,
+   "doc_path": "docs/ageas-federal/riders/135A038V01/brochure.pdf"
+  },
+  "other": {
+   "value": "not stated",
+   "status": "not stated",
+   "doc": null,
+   "quote": null,
+   "note": null,
+   "page": null,
+   "doc_path": null
+  }
+ },
+ "terms": {
+  "rider_term": {
+   "value": "Minimum 12 months (single and regular pay) or 60 months (limited pay); maximum 240 months. Within the base policy term.",
+   "status": "n/a",
+   "doc": "Linked Critical Shield Brochure",
+   "quote": "Max: 240 months",
+   "note": null,
+   "page": 3,
+   "doc_path": "docs/ageas-federal/riders/135A038V01/brochure.pdf"
+  },
+  "premium_paying_rules": {
+   "value": "Single, limited (36 to 180 months) or regular pay (up to 240 months). Payment mode as the base plan. Total rider premium at most 100% of base plan premiums.",
+   "status": "n/a",
+   "doc": "Linked Critical Shield Brochure",
+   "quote": "The total Rider Premium shall not exceed 100% of premiums",
+   "note": null,
+   "page": 3,
+   "doc_path": "docs/ageas-federal/riders/135A038V01/brochure.pdf"
+  },
+  "entry_age": {
+   "value": "18 to 65 years; maturity age 19 to 75",
+   "status": "n/a",
+   "doc": "Linked Critical Shield Brochure",
+   "quote": "Maximum 65 years",
+   "note": null,
+   "page": 3,
+   "doc_path": "docs/ageas-federal/riders/135A038V01/brochure.pdf"
+  },
+  "sum_assured_limits": {
+   "value": "Minimum Rs 50,000. No maximum, subject to underwriting; not above the base product sum assured.",
+   "status": "n/a",
+   "doc": "Linked Critical Shield Brochure",
+   "quote": "The Rider Sum Assured cannot be higher than Sum",
+   "note": null,
+   "page": 3,
+   "doc_path": "docs/ageas-federal/riders/135A038V01/brochure.pdf"
+  },
+  "premium_deduction": {
+   "value": "not stated",
+   "status": "not stated",
+   "doc": null,
+   "quote": null,
+   "note": "The brochure text read does not say whether the rider premium is separate or from units. The Accident Care rider says it is payable in addition to the base premium.",
+   "page": null,
+   "doc_path": null
+  }
+ }
+}

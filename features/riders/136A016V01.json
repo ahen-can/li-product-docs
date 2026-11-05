@@ -1,0 +1,170 @@
+{
+ "rider": {
+  "name": {
+   "value": "Canara HSBC Life Insurance Accidental Benefit Rider (Linked)",
+   "status": "n/a",
+   "doc": "Download Brochure",
+   "quote": "Accidental Benefit Rider (Linked)",
+   "note": null,
+   "page": 2,
+   "doc_path": "docs/canara-hsbc/riders/136A016V01/brochure.pdf"
+  },
+  "uin": {
+   "value": "136A016V01",
+   "status": "n/a",
+   "doc": "Rider Document",
+   "quote": "136A016V01",
+   "note": null,
+   "page": 1,
+   "doc_path": "docs/canara-hsbc/riders/136A016V01/policy.pdf"
+  },
+  "linked_or_non_linked": {
+   "value": "named \"Linked\" because it attaches to linked base policies; the brochure header calls it an individual non-linked non-participating pure risk rider; separate rider premium",
+   "status": "n/a",
+   "doc": "Download Brochure",
+   "quote": "An Individual Non-Linked Non-Participating Pure Risk Insurance Rider",
+   "note": null,
+   "page": 1,
+   "doc_path": "docs/canara-hsbc/riders/136A016V01/brochure.pdf"
+  },
+  "attached_to_ulips": {
+   "value": "see results/ulip_rider_map.csv",
+   "status": "n/a",
+   "doc": null,
+   "quote": null,
+   "note": "Named by 3 of the 8 Canara HSBC ULIPs (Wealth, Alpha Wealth, SecureInvest).",
+   "page": null,
+   "doc_path": null
+  }
+ },
+ "benefits": {
+  "waiver_of_premium": {
+   "value": "not covered",
+   "status": "not covered",
+   "doc": "Download Brochure",
+   "quote": "Keep their tomorrows safe with Accidental Death Benefit and",
+   "note": "The rider has two options only: accidental death and accidental total and permanent disability.",
+   "page": 1,
+   "doc_path": "docs/canara-hsbc/riders/136A016V01/brochure.pdf"
+  },
+  "waiver_on_death_of_life_assured": {
+   "value": "not covered",
+   "status": "not covered",
+   "doc": "Download Brochure",
+   "quote": "Keep their tomorrows safe with Accidental Death Benefit and",
+   "note": "The rider has two options only: accidental death and accidental total and permanent disability.",
+   "page": 1,
+   "doc_path": "docs/canara-hsbc/riders/136A016V01/brochure.pdf"
+  },
+  "waiver_on_death_or_illness_of_proposer": {
+   "value": "not covered",
+   "status": "not covered",
+   "doc": "Download Brochure",
+   "quote": "Keep their tomorrows safe with Accidental Death Benefit and",
+   "note": "The rider has two options only: accidental death and accidental total and permanent disability.",
+   "page": 1,
+   "doc_path": "docs/canara-hsbc/riders/136A016V01/brochure.pdf"
+  },
+  "critical_illness": {
+   "value": "not covered",
+   "status": "not covered",
+   "doc": "Download Brochure",
+   "quote": "Keep their tomorrows safe with Accidental Death Benefit and",
+   "note": "The rider has two options only: accidental death and accidental total and permanent disability.",
+   "page": 1,
+   "doc_path": "docs/canara-hsbc/riders/136A016V01/brochure.pdf"
+  },
+  "accidental_death": {
+   "value": "Lump sum on accidental death, up to 3 times the base sum assured. Return of premium available as a maturity benefit.",
+   "status": "covered as an option",
+   "doc": "Download Brochure",
+   "quote": "up to 3 ",
+   "note": null,
+   "page": 1,
+   "doc_path": "docs/canara-hsbc/riders/136A016V01/brochure.pdf"
+  },
+  "accidental_disability": {
+   "value": "Lump sum on accidental total and permanent disability.",
+   "status": "covered as an option",
+   "doc": "Download Brochure",
+   "quote": "Accidental Total & Permanent Disability Benefit",
+   "note": null,
+   "page": 1,
+   "doc_path": "docs/canara-hsbc/riders/136A016V01/brochure.pdf"
+  },
+  "term_cover": {
+   "value": "not covered",
+   "status": "not covered",
+   "doc": "Download Brochure",
+   "quote": "Keep their tomorrows safe with Accidental Death Benefit and",
+   "note": "The rider has two options only: accidental death and accidental total and permanent disability.",
+   "page": 1,
+   "doc_path": "docs/canara-hsbc/riders/136A016V01/brochure.pdf"
+  },
+  "hospital_cash": {
+   "value": "not covered",
+   "status": "not covered",
+   "doc": "Download Brochure",
+   "quote": "Keep their tomorrows safe with Accidental Death Benefit and",
+   "note": "The rider has two options only: accidental death and accidental total and permanent disability.",
+   "page": 1,
+   "doc_path": "docs/canara-hsbc/riders/136A016V01/brochure.pdf"
+  },
+  "other": {
+   "value": "Return of premium: an amount equal to the total premiums paid on maturity.",
+   "status": "covered as an option",
+   "doc": "Download Brochure",
+   "quote": "Return of Premium means an amount equal to the Total Premiums Paid",
+   "note": null,
+   "page": 1,
+   "doc_path": "docs/canara-hsbc/riders/136A016V01/brochure.pdf"
+  }
+ },
+ "terms": {
+  "rider_term": {
+   "value": "5 to 57 years (single or regular pay), 6 to 57 (limited pay).",
+   "status": "n/a",
+   "doc": "Download Brochure",
+   "quote": "Policy Term (in Yrs)",
+   "note": null,
+   "page": 2,
+   "doc_path": "docs/canara-hsbc/riders/136A016V01/brochure.pdf"
+  },
+  "premium_paying_rules": {
+   "value": "Single, limited (up to 56 years) or regular pay (up to 57 years). Frequency as the base policy. Can be opted at inception only. Rider premium at most 30% of the base premium.",
+   "status": "n/a",
+   "doc": "Download Brochure",
+   "quote": "The Rider can be opted along with base policy at incep",
+   "note": null,
+   "page": 2,
+   "doc_path": "docs/canara-hsbc/riders/136A016V01/brochure.pdf"
+  },
+  "entry_age": {
+   "value": "18 to 65 years; maturity age 23 to 75",
+   "status": "n/a",
+   "doc": "Download Brochure",
+   "quote": "Age at entry 18 65",
+   "note": null,
+   "page": 2,
+   "doc_path": "docs/canara-hsbc/riders/136A016V01/brochure.pdf"
+  },
+  "sum_assured_limits": {
+   "value": "Minimum Rs 50,000. No maximum, subject to board-approved underwriting and regulations; up to 3 times the base sum assured for accidental death.",
+   "status": "n/a",
+   "doc": "Download Brochure",
+   "quote": "Sum Assured (Rs) 50,000",
+   "note": null,
+   "page": 2,
+   "doc_path": "docs/canara-hsbc/riders/136A016V01/brochure.pdf"
+  },
+  "premium_deduction": {
+   "value": "not stated",
+   "status": "not stated",
+   "doc": null,
+   "quote": null,
+   "note": "Not stated in the brochure text read. Needs a second read.",
+   "page": null,
+   "doc_path": null
+  }
+ }
+}
