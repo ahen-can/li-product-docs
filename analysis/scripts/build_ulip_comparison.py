@@ -43,8 +43,31 @@ def flat(v, n=160):
     return t if len(t) <= n else t[:n - 1] + '…'
 
 
+# Corrections from QA rounds and rider recoding come through feature list v3 (product_features_ulip_v3.csv),
+# so this workbook and deliverable 05 agree. Run build_ulip_features.py first.
+PF = {(r['uin'], r['feature']): r for r in csv.DictReader(open(os.path.join(R, 'analysis/product_features_ulip_v3.csv'), encoding='utf-8'))}
+_ns = s[s.index('NEW_SCHEMA = [') + len('NEW_SCHEMA = '):s.index('\n# New features found')]
+PATH2F = {pth: fid for _, fid, pth, _ in eval(_ns)}
+PATH2F.update({'flexibility.auto_portfolio_strategies': 'auto_strategies', 'flexibility.partial_withdrawals': 'partial_withdrawal',
+               'flexibility.top_up_premiums': 'top_up_premium', 'benefits.loyalty_additions': 'loyalty_additions',
+               'benefits.wealth_boosters_or_guaranteed_additions': 'wealth_boosters', 'benefits.return_of_mortality_charges': 'return_of_mortality_charges',
+               'benefits.return_of_premium_allocation_charges': 'return_of_allocation_charges', 'flexibility.fund_switching': 'fund_switch',
+               'flexibility.premium_redirection': 'premium_redirection', 'flexibility.systematic_withdrawal_plan': 'systematic_withdrawal',
+               'flexibility.settlement_option': 'settlement_option', 'protection_add_ons.riders_available': 'riders_available',
+               'protection_add_ons.waiver_of_premium_inbuilt': 'waiver_of_premium', 'protection_add_ons.critical_illness': 'critical_illness_inbuilt_or_option',
+               'protection_add_ons.accidental_death': 'accidental_death_extra'})
+_OVR = set()
+for _f in sorted(__import__('glob').glob(os.path.join(R, 'analysis/v3/*_overrides.csv'))):
+    _OVR |= {(r['uin'], r['feature']) for r in csv.DictReader(open(_f, encoding='utf-8'))}
+UNCODE = {'B': 'built-in', 'O': 'optional (at inception)', 'R': 'rider', 'N': 'not offered', '?': 'not stated in public documents'}
+
+
 def fld(u, path):
-    g, k = path.split('.'); return D[u].get(g, {}).get(k, {}) or {}
+    g, k = path.split('.'); o = D[u].get(g, {}).get(k, {}) or {}
+    f = PATH2F.get(path); r = PF.get((u, f)) if f else None
+    if r and ((u, f) in _OVR or (r['code'] == 'R' and o.get('status') != 'rider')):
+        o = {'status': UNCODE.get(r['code'], o.get('status')), 'value': r['value'] or o.get('value'), 'doc': r['doc'], 'page': r['page'], 'quote': r['quote']}
+    return o
 
 
 def pcts(t, skip=r'discontinu|single'):
@@ -75,6 +98,10 @@ def calc_row(label, col, best, fmt=None):
 def feat_row(sec, label, g):
     def get(u):
         v = VER.get((g, u)); n = S2NEW.get((g, u))
+        if (u, g) in _OVR:
+            r = PF[(u, g)]
+            if r['code'] in ('B', 'O'): return 'Yes', 'Built-in', 1, (r['doc'], r['page'], r['quote'][:300])
+            return '', '', 0, (None, None, None)
         if n: return 'Yes: ' + flat(n.get('description'), 140), 'Built-in', 1, (n.get('doc'), n.get('page'), n.get('quote'))
         if v: return 'Yes', 'Built-in', 1, (v['doc'], v['page'], v['snippet'][:300])
         return '', '', 0, (None, None, None)
@@ -124,7 +151,7 @@ for lab, pth in [('Fund switching', 'flexibility.fund_switching'), ('Premium red
                  ('Automatic fund strategies', 'flexibility.auto_portfolio_strategies'), ('Increase / decrease cover', 'flexibility.increase_decrease_cover'), ('Policy loan', 'flexibility.policy_loan')]:
     deep_row('Flexibility', lab, pth, kind='status')
 # Protection
-for lab, pth in [('Waiver of premium (in-built)', 'protection_add_ons.waiver_of_premium_inbuilt'), ('Critical illness', 'protection_add_ons.critical_illness'), ('Accidental death', 'protection_add_ons.accidental_death'),
+for lab, pth in [('Waiver of premium (built-in, option or rider)', 'protection_add_ons.waiver_of_premium_inbuilt'), ('Critical illness', 'protection_add_ons.critical_illness'), ('Accidental death', 'protection_add_ons.accidental_death'),
                  ('Spouse or child cover', 'protection_add_ons.spouse_or_child_cover'), ('Riders available', 'protection_add_ons.riders_available')]:
     deep_row('Protection', lab, pth, kind='status')
 # Funds
