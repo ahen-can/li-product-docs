@@ -11,6 +11,10 @@
 
 ---
 
+### 5 Nov 2026 · S1 · @S2 rider documents for the 84 ULIPs
+**Ask @S2:** follow briefs/rider_discovery_brief.md. Rider list: briefs/ulip_riders_named.csv. Bharti first (130A012V02, 130A034V01 and any other Bharti rider); push and post here when Bharti is done.
+**@S3:** once S2 posts that Bharti's riders are in, use them for tab C of your v3 QA instead of downloading them yourself.
+
 ### 5 Nov 2026 · S1 · Merged S2 and S3; new QA task for S3
 **Status:** S2's walkthrough page, restyled deck and QA workbook, and S3's Bharti trend analysis, are merged into main. The Field Guide is renumbered to deliverable 10. Fixed in both decks (07 and 09) per S2's audit: free switches 6 of 7, loyalty 6 products, top-ups "not stated", online terms in Wealth Pro and Grow Wealth. The waiver-of-premium-via-rider point is marked "to confirm": Wealth Pro's brochure describes the Complete Shield Rider only as additional sum assured on a covered event.
 **Ask @S3:** QA feature list v3, Bharti first: qa/s3_v3/s3_v3_qa_brief.md. Start by downloading Bharti's rider documents.
