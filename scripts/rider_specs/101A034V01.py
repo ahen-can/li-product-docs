@@ -6,7 +6,7 @@ Q0 = 'Flexibility to choose between comprehensive critical illness cover or canc
 SPEC = {
  'rider': {
   'name': L('HDFC Life Health Plus Rider - Linked', 'n/a', 'brochure', 'HDFC Life Health Plus Rider - Linked'),
-  'uin': L('101A034V01', 'n/a', 'brochure', 'UIN: 101A034V01', 'The site also holds CIS and at-a-glance files for 101A034V02. The brochure and rider document stored here print V01.'),
+  'uin': L('101A034V01', 'n/a', 'brochure', 'UIN: 101A034V01', 'V02 is the newest version: the site publishes a V02 CIS (16 Sep 2026, stored as docs/hdfc-life/riders/101A034V02/cis.pdf) with the same benefits. The brochure and rider document on the site and the product pages still print V01, and those are what is stored here.'),
   'linked_or_non_linked': L('linked-base rider, non-participating, savings / pure risk premium, individual health rider; separate rider premium', 'n/a', 'brochure', 'A Linked, Non-Participating, Savings/ Pure risk premium, Individual Health rider'),
   'attached_to_ulips': L(LINKED_ULIPS, 'n/a', None, None, 'Linked from the product pages of these three ULIPs. See results/ulip_rider_map.csv.'),
  },
