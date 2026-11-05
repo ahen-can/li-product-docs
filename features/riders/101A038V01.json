@@ -1,0 +1,175 @@
+{
+ "rider": {
+  "name": {
+   "value": "HDFC Life Income Benefit on Accidental Disability Rider - Linked",
+   "status": "n/a",
+   "doc": "HDFC Life Income Benefit on Accidental Disability Riders (product page link)",
+   "quote": "Income Benefit on Accidental Disability Rider-Linked",
+   "note": null,
+   "page": 1,
+   "doc_path": "docs/hdfc-life/riders/101A038V01/brochure.pdf"
+  },
+  "uin": {
+   "value": "101A038V01",
+   "status": "n/a",
+   "doc": "Income Benefit on Accidental Disability Rider Linked policy bond",
+   "quote": "101A038V01",
+   "note": null,
+   "page": 1,
+   "doc_path": "docs/hdfc-life/riders/101A038V01/policy.pdf"
+  },
+  "linked_or_non_linked": {
+   "value": "linked-base rider, non-participating, pure risk premium, individual life rider; separate rider premium",
+   "status": "n/a",
+   "doc": "HDFC Life Income Benefit on Accidental Disability Riders (product page link)",
+   "quote": "A Linked, Non- Participating, Pure risk premium, Individual Life rider",
+   "note": null,
+   "page": 1,
+   "doc_path": "docs/hdfc-life/riders/101A038V01/brochure.pdf"
+  },
+  "attached_to_ulips": {
+   "value": [
+    "101L180V01 Sampoorn Nivesh Plus",
+    "101L187V04 Smart Protect Plus",
+    "101L191V02 Click 2 Invest Plus",
+    "101L133V03 Click 2 Wealth"
+   ],
+   "status": "n/a",
+   "doc": null,
+   "quote": null,
+   "note": "Linked from the product pages of these four ULIPs. See results/ulip_rider_map.csv.",
+   "page": null,
+   "doc_path": null
+  }
+ },
+ "benefits": {
+  "waiver_of_premium": {
+   "value": "not covered",
+   "status": "not covered",
+   "doc": "HDFC Life Income Benefit on Accidental Disability Riders (product page link)",
+   "quote": "In the event of Total Permanent Disability due to accident, you will be paid a regular monthly income equal to 1% of Sum Assured for a fixed period of 10 years.",
+   "note": "The rider pays a monthly income on accidental total permanent disability and nothing else.",
+   "page": 2,
+   "doc_path": "docs/hdfc-life/riders/101A038V01/brochure.pdf"
+  },
+  "waiver_on_death_of_life_assured": {
+   "value": "not covered",
+   "status": "not covered",
+   "doc": "HDFC Life Income Benefit on Accidental Disability Riders (product page link)",
+   "quote": "In the event of Total Permanent Disability due to accident, you will be paid a regular monthly income equal to 1% of Sum Assured for a fixed period of 10 years.",
+   "note": "The rider pays a monthly income on accidental total permanent disability and nothing else.",
+   "page": 2,
+   "doc_path": "docs/hdfc-life/riders/101A038V01/brochure.pdf"
+  },
+  "waiver_on_death_or_illness_of_proposer": {
+   "value": "not covered",
+   "status": "not covered",
+   "doc": "HDFC Life Income Benefit on Accidental Disability Riders (product page link)",
+   "quote": "In the event of Total Permanent Disability due to accident, you will be paid a regular monthly income equal to 1% of Sum Assured for a fixed period of 10 years.",
+   "note": "The rider pays a monthly income on accidental total permanent disability and nothing else.",
+   "page": 2,
+   "doc_path": "docs/hdfc-life/riders/101A038V01/brochure.pdf"
+  },
+  "critical_illness": {
+   "value": "not covered",
+   "status": "not covered",
+   "doc": "HDFC Life Income Benefit on Accidental Disability Riders (product page link)",
+   "quote": "In the event of Total Permanent Disability due to accident, you will be paid a regular monthly income equal to 1% of Sum Assured for a fixed period of 10 years.",
+   "note": "The rider pays a monthly income on accidental total permanent disability and nothing else.",
+   "page": 2,
+   "doc_path": "docs/hdfc-life/riders/101A038V01/brochure.pdf"
+  },
+  "accidental_death": {
+   "value": "not covered. If the life assured dies while income payments are outstanding, the nominee keeps receiving them.",
+   "status": "not covered",
+   "doc": "HDFC Life Income Benefit on Accidental Disability Riders (product page link)",
+   "quote": "In case the death of the life assured occurs while the benefit payments are outstanding then the nominee will continue to receive the outstanding monthly benefit payments.",
+   "note": null,
+   "page": 2,
+   "doc_path": "docs/hdfc-life/riders/101A038V01/brochure.pdf"
+  },
+  "accidental_disability": {
+   "value": "Monthly income of 1% of sum assured for 10 years on accidental total permanent disability (inability to work, or loss of two limbs, both eyes, or one limb and one eye). Benefit starts after 6 months of continuous disability, immediately for loss by severance of limbs. No waiting period. No partial disability benefit.",
+   "status": "covered",
+   "doc": "HDFC Life Income Benefit on Accidental Disability Riders (product page link)",
+   "quote": "In the event of Total Permanent Disability due to accident, you will be paid a regular monthly income equal to 1% of Sum Assured for a fixed period of 10 years.",
+   "note": null,
+   "page": 2,
+   "doc_path": "docs/hdfc-life/riders/101A038V01/brochure.pdf"
+  },
+  "term_cover": {
+   "value": "not covered",
+   "status": "not covered",
+   "doc": "HDFC Life Income Benefit on Accidental Disability Riders (product page link)",
+   "quote": "In the event of Total Permanent Disability due to accident, you will be paid a regular monthly income equal to 1% of Sum Assured for a fixed period of 10 years.",
+   "note": "The rider pays a monthly income on accidental total permanent disability and nothing else.",
+   "page": 2,
+   "doc_path": "docs/hdfc-life/riders/101A038V01/brochure.pdf"
+  },
+  "hospital_cash": {
+   "value": "not covered",
+   "status": "not covered",
+   "doc": "HDFC Life Income Benefit on Accidental Disability Riders (product page link)",
+   "quote": "In the event of Total Permanent Disability due to accident, you will be paid a regular monthly income equal to 1% of Sum Assured for a fixed period of 10 years.",
+   "note": "The rider pays a monthly income on accidental total permanent disability and nothing else.",
+   "page": 2,
+   "doc_path": "docs/hdfc-life/riders/101A038V01/brochure.pdf"
+  },
+  "other": {
+   "value": "not stated",
+   "status": "not stated",
+   "doc": null,
+   "quote": null,
+   "note": null,
+   "page": null,
+   "doc_path": null
+  }
+ },
+ "terms": {
+  "rider_term": {
+   "value": "Minimum 5 years; maximum consistent with the base policy. Cannot exceed the outstanding base policy term.",
+   "status": "n/a",
+   "doc": "HDFC Life Income Benefit on Accidental Disability Riders (product page link)",
+   "quote": "Minimum: 5 years",
+   "note": null,
+   "page": 2,
+   "doc_path": "docs/hdfc-life/riders/101A038V01/brochure.pdf"
+  },
+  "premium_paying_rules": {
+   "value": "Premium payment term at most the outstanding premium payment term of the base plan. Can be taken at inception or on a later policy anniversary. Frequency follows the base policy.",
+   "status": "n/a",
+   "doc": "HDFC Life Income Benefit on Accidental Disability Riders (product page link)",
+   "quote": "Less than or equal to the premium payment term of the base plan",
+   "note": null,
+   "page": 2,
+   "doc_path": "docs/hdfc-life/riders/101A038V01/brochure.pdf"
+  },
+  "entry_age": {
+   "value": "18 to 65 years; maturity age up to 75",
+   "status": "n/a",
+   "doc": "HDFC Life Income Benefit on Accidental Disability Riders (product page link)",
+   "quote": "Entry age (last birthday) 18 years to 65 years",
+   "note": null,
+   "page": 2,
+   "doc_path": "docs/hdfc-life/riders/101A038V01/brochure.pdf"
+  },
+  "sum_assured_limits": {
+   "value": "Minimum Rs 1,00,000. No maximum, subject to underwriting; may not exceed the base policy sum assured.",
+   "status": "n/a",
+   "doc": "HDFC Life Income Benefit on Accidental Disability Riders (product page link)",
+   "quote": "Minimum Sum Assured Rs 100,000",
+   "note": null,
+   "page": 2,
+   "doc_path": "docs/hdfc-life/riders/101A038V01/brochure.pdf"
+  },
+  "premium_deduction": {
+   "value": "Separate rider premium collected in addition to the base policy premium. Not deducted from the fund.",
+   "status": "n/a",
+   "doc": "HDFC Life Income Benefit on Accidental Disability Riders (product page link)",
+   "quote": "The rider premium shall be collected in addition to the premium payable under the base policy.",
+   "note": null,
+   "page": 2,
+   "doc_path": "docs/hdfc-life/riders/101A038V01/brochure.pdf"
+  }
+ }
+}

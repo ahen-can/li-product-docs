@@ -1,0 +1,174 @@
+{
+ "rider": {
+  "name": {
+   "value": "HDFC Life LiveWell Rider - Linked",
+   "status": "n/a",
+   "doc": "HDFC Life Livewell Rider linked Brochure (product page link)",
+   "quote": "LiveWell Rider - Linked",
+   "note": null,
+   "page": 1,
+   "doc_path": "docs/hdfc-life/riders/101A036V02/brochure.pdf"
+  },
+  "uin": {
+   "value": "101A036V02",
+   "status": "n/a",
+   "doc": "HDFC Life Livewell Rider linked Brochure (product page link)",
+   "quote": "LiveWell Rider – Linked",
+   "note": "The brochure from the product page does not print the UIN in this line; the site files and the product page name 101A036V02. The policy bond stored here prints 101A036V01, one version older.",
+   "page": 2,
+   "doc_path": "docs/hdfc-life/riders/101A036V02/brochure.pdf"
+  },
+  "linked_or_non_linked": {
+   "value": "linked-base rider, non-participating, individual, pure risk premium / savings, life/health rider; separate rider premium",
+   "status": "n/a",
+   "doc": "HDFC Life Livewell Rider linked Brochure (product page link)",
+   "quote": "A Linked, Non- Participating Individual, Pure Risk Premium/ Savings, Life/Health Insurance Rider",
+   "note": null,
+   "page": 1,
+   "doc_path": "docs/hdfc-life/riders/101A036V02/brochure.pdf"
+  },
+  "attached_to_ulips": {
+   "value": [
+    "101L180V01 Sampoorn Nivesh Plus",
+    "101L187V04 Smart Protect Plus",
+    "101L191V02 Click 2 Invest Plus"
+   ],
+   "status": "n/a",
+   "doc": null,
+   "quote": null,
+   "note": "Linked from the product pages of these three ULIPs. The brochure also lists Sampoorn Nivesh Plus, Smart Protect Plus and Click to Invest Plus as available base products.",
+   "page": null,
+   "doc_path": null
+  }
+ },
+ "benefits": {
+  "waiver_of_premium": {
+   "value": "not covered",
+   "status": "not covered",
+   "doc": "HDFC Life Livewell Rider linked Brochure (product page link)",
+   "quote": "Comprehensive protection against death, terminal illness and disability.",
+   "note": "Options are death cover, accidental death, personal accident and daily hospital cash.",
+   "page": 1,
+   "doc_path": "docs/hdfc-life/riders/101A036V02/brochure.pdf"
+  },
+  "waiver_on_death_of_life_assured": {
+   "value": "not covered",
+   "status": "not covered",
+   "doc": "HDFC Life Livewell Rider linked Brochure (product page link)",
+   "quote": "Comprehensive protection against death, terminal illness and disability.",
+   "note": null,
+   "page": 1,
+   "doc_path": "docs/hdfc-life/riders/101A036V02/brochure.pdf"
+  },
+  "waiver_on_death_or_illness_of_proposer": {
+   "value": "not covered",
+   "status": "not covered",
+   "doc": "HDFC Life Livewell Rider linked Brochure (product page link)",
+   "quote": "Comprehensive protection against death, terminal illness and disability.",
+   "note": null,
+   "page": 1,
+   "doc_path": "docs/hdfc-life/riders/101A036V02/brochure.pdf"
+  },
+  "critical_illness": {
+   "value": "No critical illness benefit. Terminal illness acceleration of the death cover is paid for a life assured up to age 80, capped at Rs 2 crore.",
+   "status": "not covered",
+   "doc": "HDFC Life Livewell Rider linked Brochure (product page link)",
+   "quote": "the maximum amount of Rider Sum Assured that can be accelerated under this benefit is Rs 2 crore",
+   "note": null,
+   "page": 2,
+   "doc_path": "docs/hdfc-life/riders/101A036V02/brochure.pdf"
+  },
+  "accidental_death": {
+   "value": "Option B: accidental death, lump sum of the highest of the rider sum assured, 7 times the annualised rider premium (1.25 times for single pay) or 105% of rider premiums paid. Option C also pays accidental death. Can be paid as monthly income for 10 years.",
+   "status": "covered as an option",
+   "doc": "HDFC Life Livewell Rider linked Brochure (product page link)",
+   "quote": "Rider Sum Assured for Option B shall be a lump sum benefit which is the highest of:",
+   "note": null,
+   "page": 3,
+   "doc_path": "docs/hdfc-life/riders/101A036V02/brochure.pdf"
+  },
+  "accidental_disability": {
+   "value": "Option C, personal accident cover: monthly income of 1% of rider sum assured for 10 years on accidental total permanent disability; accidental partial permanent disability pays scheduled percentages (50% for loss of a hand or foot).",
+   "status": "covered as an option",
+   "doc": "HDFC Life Livewell Rider linked Brochure (product page link)",
+   "quote": "a regular monthly benefit equal to 1% of Rider Sum Assured, is payable to the Life Assured for",
+   "note": null,
+   "page": 4,
+   "doc_path": "docs/hdfc-life/riders/101A036V02/brochure.pdf"
+  },
+  "term_cover": {
+   "value": "Option A, death cover: on death of the life assured, the highest of the rider sum assured, 10 times the annualised rider premium (1.25 times for single pay) or 105% of total rider premiums paid. Return of premium option available. Includes terminal illness acceleration.",
+   "status": "covered as an option",
+   "doc": "HDFC Life Livewell Rider linked Brochure (product page link)",
+   "quote": "The death benefit is highest of",
+   "note": null,
+   "page": 2,
+   "doc_path": "docs/hdfc-life/riders/101A036V02/brochure.pdf"
+  },
+  "hospital_cash": {
+   "value": "Option D, daily hospitalisation cash and surgical care: 1% of rider sum assured a day (2% in ICU), up to 20 days a policy year and 100 days in total, plus surgical care benefit up to 100% of rider sum assured.",
+   "status": "covered as an option",
+   "doc": "HDFC Life Livewell Rider linked Brochure (product page link)",
+   "quote": "Hospitalization Benefit (Non-ICU): Benefit amount shall be equal to 1% of the Rider Sum Assured",
+   "note": null,
+   "page": 5,
+   "doc_path": "docs/hdfc-life/riders/101A036V02/brochure.pdf"
+  },
+  "other": {
+   "value": "Wellness benefits worth 100% of the annual rider premium, redeemable only through the Life Rewards app (OPD consultations, preventive health check-up, tele consultation, healthy living program). Double benefit if an accident happens in listed circumstances.",
+   "status": "covered",
+   "doc": "HDFC Life Livewell Rider linked Brochure (product page link)",
+   "quote": "Get double payout in case of accident occurs under listed circumstances with Double",
+   "note": null,
+   "page": 2,
+   "doc_path": "docs/hdfc-life/riders/101A036V02/brochure.pdf"
+  }
+ },
+ "terms": {
+  "rider_term": {
+   "value": "Minimum 5 years. Maximum for options A, B and C: the outstanding policy term of the base policy. Option D: 5 years.",
+   "status": "n/a",
+   "doc": "HDFC Life Livewell Rider linked Brochure (product page link)",
+   "quote": "Option D: 5 years",
+   "note": null,
+   "page": 9,
+   "doc_path": "docs/hdfc-life/riders/101A036V02/brochure.pdf"
+  },
+  "premium_paying_rules": {
+   "value": "Single, limited or regular pay (the 10 times and 1.25 times multiples in the benefit formulas refer to limited or regular and single pay). Opted at inception or on any premium due date of the base plan.",
+   "status": "n/a",
+   "doc": "HDFC Life Livewell Rider linked Brochure (product page link)",
+   "quote": "This rider can be opted at inception or subsequently on any premium due date of the base plan",
+   "note": null,
+   "page": 9,
+   "doc_path": "docs/hdfc-life/riders/101A036V02/brochure.pdf"
+  },
+  "entry_age": {
+   "value": "18 to 65 years; maturity age 23 minimum; maximum 85 (option A), 75 (options B and C), 70 (option D)",
+   "status": "n/a",
+   "doc": "HDFC Life Livewell Rider linked Brochure (product page link)",
+   "quote": "Option A: 85 years",
+   "note": null,
+   "page": 9,
+   "doc_path": "docs/hdfc-life/riders/101A036V02/brochure.pdf"
+  },
+  "sum_assured_limits": {
+   "value": "Minimum Rs 10,000 for options A, B and C; Rs 1,00,000 for option D. Maximum: up to the base policy sum assured for options A, C and D; up to three times the base policy sum assured for option B. Subject to board-approved underwriting.",
+   "status": "n/a",
+   "doc": "HDFC Life Livewell Rider linked Brochure (product page link)",
+   "quote": "Option B: Up to three times of",
+   "note": null,
+   "page": 9,
+   "doc_path": "docs/hdfc-life/riders/101A036V02/brochure.pdf"
+  },
+  "premium_deduction": {
+   "value": "Separate rider premium, payable along with the base premium. The brochure does not say the premium comes out of the fund.",
+   "status": "n/a",
+   "doc": "HDFC Life Livewell Rider linked Brochure (product page link)",
+   "quote": "as long as the premium due is paid along with the base premium",
+   "note": "No sentence on fund deduction found.",
+   "page": 16,
+   "doc_path": "docs/hdfc-life/riders/101A036V02/brochure.pdf"
+  }
+ }
+}

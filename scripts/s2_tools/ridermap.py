@@ -17,6 +17,8 @@ for x in csv.DictReader(open('index.csv')):
     if x['file_path'].startswith('docs/') and '/riders/' not in x['file_path']: ulip_slug[x['uin']] = x['file_path'].split('/')[1]
 named = {r['ulip_uin']: r for r in csv.DictReader(open('briefs/ulip_riders_named.csv'))}
 new = []
+MAN = 'scripts/s2_tools/ridermap_manual.csv'   # ulip_uin, rider_uin, link_stated_in: links found on the product page, not in the ULIP documents
+manual = [r for r in csv.DictReader(open(MAN))] if os.path.exists(MAN) else []
 for slug in slugs:
     riders = {}
     for f in glob.glob('features/riders/*.json'):
@@ -34,6 +36,9 @@ for slug in slugs:
                 for i, p in enumerate(pages, 1):
                     if ruin in p or ruin in re.sub(r'\s', '', p):
                         new.append([uin, nm['ulip_name'], ruin, rname, f'{dt}, page {i}', ben]); break
+        for m in manual:
+            if m['ulip_uin'] == uin and m['rider_uin'] in riders and not any(r[0] == uin and r[2] == m['rider_uin'] for r in new):
+                new.append([uin, nm['ulip_name'], m['rider_uin'], riders[m['rider_uin']][0], m['link_stated_in'], riders[m['rider_uin']][1]])
         if len(new) == n0: new.append([uin, nm['ulip_name'], '', '', '', 'no rider named in the documents'])
 rows = [[r[h] for h in H] for r in keep if ulip_slug.get(r['ulip_uin']) not in slugs] + new
 rows.sort(key=lambda r: (r[0], r[2]))

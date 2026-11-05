@@ -1,0 +1,175 @@
+{
+ "rider": {
+  "name": {
+   "value": "HDFC Life Protect Plus Rider - Linked",
+   "status": "n/a",
+   "doc": "HDFC Life Protect Plus Riders (product page link)",
+   "quote": "Protect Plus Rider - Linked",
+   "note": null,
+   "page": 1,
+   "doc_path": "docs/hdfc-life/riders/101A037V01/brochure.pdf"
+  },
+  "uin": {
+   "value": "101A037V01",
+   "status": "n/a",
+   "doc": "HDFC Life Protect Plus Riders (product page link)",
+   "quote": "UIN:101A037V01",
+   "note": null,
+   "page": 2,
+   "doc_path": "docs/hdfc-life/riders/101A037V01/brochure.pdf"
+  },
+  "linked_or_non_linked": {
+   "value": "linked-base rider, non-participating, pure risk premium, individual life/health rider; separate rider premium",
+   "status": "n/a",
+   "doc": "HDFC Life Protect Plus Riders (product page link)",
+   "quote": "A Linked, Non- Participating, pure risk premium, Individual Life/Health rider",
+   "note": null,
+   "page": 1,
+   "doc_path": "docs/hdfc-life/riders/101A037V01/brochure.pdf"
+  },
+  "attached_to_ulips": {
+   "value": [
+    "101L180V01 Sampoorn Nivesh Plus",
+    "101L187V04 Smart Protect Plus",
+    "101L191V02 Click 2 Invest Plus",
+    "101L133V03 Click 2 Wealth"
+   ],
+   "status": "n/a",
+   "doc": null,
+   "quote": null,
+   "note": "Linked from the product pages of these four ULIPs. The brochure lists compatible base products (Click 2 Wealth, Sampoorn Nivesh and others). See results/ulip_rider_map.csv.",
+   "page": null,
+   "doc_path": null
+  }
+ },
+ "benefits": {
+  "waiver_of_premium": {
+   "value": "The rider's own premium is waived for three policy years after an early-stage cancer or carcinoma in situ claim (option C). Base policy premiums are not waived.",
+   "status": "not covered",
+   "doc": "HDFC Life Protect Plus Riders (product page link)",
+   "quote": "under this rider option will be waived for a period of three policy years",
+   "note": "Waives only this rider's premium.",
+   "page": 8,
+   "doc_path": "docs/hdfc-life/riders/101A037V01/brochure.pdf"
+  },
+  "waiver_on_death_of_life_assured": {
+   "value": "not covered",
+   "status": "not covered",
+   "doc": "HDFC Life Protect Plus Riders (product page link)",
+   "quote": "There are three benefit options available under the rider:",
+   "note": "Three options only: personal accident (A), accidental death (B) and cancer (C).",
+   "page": 3,
+   "doc_path": "docs/hdfc-life/riders/101A037V01/brochure.pdf"
+  },
+  "waiver_on_death_or_illness_of_proposer": {
+   "value": "not covered",
+   "status": "not covered",
+   "doc": "HDFC Life Protect Plus Riders (product page link)",
+   "quote": "There are three benefit options available under the rider:",
+   "note": "Three options only: personal accident (A), accidental death (B) and cancer (C).",
+   "page": 3,
+   "doc_path": "docs/hdfc-life/riders/101A037V01/brochure.pdf"
+  },
+  "critical_illness": {
+   "value": "Option C, cancer cover only: lump sum on carcinoma in situ, early-stage or major cancer (25% of rider sum assured for early stage and carcinoma in situ; major cancer pays the balance). No cover for other critical illnesses.",
+   "status": "covered as an option",
+   "doc": "HDFC Life Protect Plus Riders (product page link)",
+   "quote": "Carcinoma-in-situ or Malignant cancer",
+   "note": "Cancer only, not a general critical illness cover.",
+   "page": 7,
+   "doc_path": "docs/hdfc-life/riders/101A037V01/brochure.pdf"
+  },
+  "accidental_death": {
+   "value": "Option B: accidental death, rider sum assured to the nominee, death within 180 days of the injury. Option A also pays accidental death. A and B cannot be chosen together.",
+   "status": "covered as an option",
+   "doc": "HDFC Life Protect Plus Riders (product page link)",
+   "quote": "In an unforeseen event of death of the Life Assured due to accident during the rider term, 100% of the rider sum assured will be paid to the nominee.",
+   "note": null,
+   "page": 4,
+   "doc_path": "docs/hdfc-life/riders/101A037V01/brochure.pdf"
+  },
+  "accidental_disability": {
+   "value": "Option A, personal accident cover: accidental total permanent disability and accidental partial permanent disability, as well as accidental death.",
+   "status": "covered as an option",
+   "doc": "HDFC Life Protect Plus Riders (product page link)",
+   "quote": "Accidental Total Permanent Disability(ATPD) and/or",
+   "note": null,
+   "page": 4,
+   "doc_path": "docs/hdfc-life/riders/101A037V01/brochure.pdf"
+  },
+  "term_cover": {
+   "value": "not covered",
+   "status": "not covered",
+   "doc": "HDFC Life Protect Plus Riders (product page link)",
+   "quote": "There are three benefit options available under the rider:",
+   "note": "Three options only: personal accident (A), accidental death (B) and cancer (C).",
+   "page": 3,
+   "doc_path": "docs/hdfc-life/riders/101A037V01/brochure.pdf"
+  },
+  "hospital_cash": {
+   "value": "not covered",
+   "status": "not covered",
+   "doc": "HDFC Life Protect Plus Riders (product page link)",
+   "quote": "There are three benefit options available under the rider:",
+   "note": "Three options only: personal accident (A), accidental death (B) and cancer (C).",
+   "page": 3,
+   "doc_path": "docs/hdfc-life/riders/101A037V01/brochure.pdf"
+  },
+  "other": {
+   "value": "not stated",
+   "status": "not stated",
+   "doc": null,
+   "quote": null,
+   "note": null,
+   "page": null,
+   "doc_path": null
+  }
+ },
+ "terms": {
+  "rider_term": {
+   "value": "Options A and B: minimum 1 month, maximum the outstanding policy term of the base policy. Option C: 60 months.",
+   "status": "n/a",
+   "doc": "HDFC Life Protect Plus Riders (product page link)",
+   "quote": "Option C – 60 months",
+   "note": null,
+   "page": 2,
+   "doc_path": "docs/hdfc-life/riders/101A037V01/brochure.pdf"
+  },
+  "premium_paying_rules": {
+   "value": "Options A and B: premium payment term from 1 month up to the outstanding premium payment term of the base policy. Option C: same as the rider term. Opted at inception or on any policy anniversary. Non-annual factors 0.51, 0.26, 0.0875.",
+   "status": "n/a",
+   "doc": "HDFC Life Protect Plus Riders (product page link)",
+   "quote": "Half-yearly 0.51",
+   "note": null,
+   "page": 3,
+   "doc_path": "docs/hdfc-life/riders/101A037V01/brochure.pdf"
+  },
+  "entry_age": {
+   "value": "18 to 74 years for options A and B (maturity age 75); 18 to 65 for option C (maturity age 85)",
+   "status": "n/a",
+   "doc": "HDFC Life Protect Plus Riders (product page link)",
+   "quote": "Option A & Option B - 74 years",
+   "note": null,
+   "page": 2,
+   "doc_path": "docs/hdfc-life/riders/101A037V01/brochure.pdf"
+  },
+  "sum_assured_limits": {
+   "value": "Minimum Rs 5,000 for options A and B, Rs 50,000 for option C. No maximum, subject to underwriting; currently at most the base policy sum assured.",
+   "status": "n/a",
+   "doc": "HDFC Life Protect Plus Riders (product page link)",
+   "quote": "Option A & Option B – Rs. 5,000",
+   "note": null,
+   "page": 2,
+   "doc_path": "docs/hdfc-life/riders/101A037V01/brochure.pdf"
+  },
+  "premium_deduction": {
+   "value": "Separate level rider premium. The brochure says only an additional level rider premium is charged for rider risk cover and no charge deduction is made.",
+   "status": "n/a",
+   "doc": "HDFC Life Protect Plus Riders (product page link)",
+   "quote": "Only an additional level rider premium will be charged for rider risk cover and no charge deduction will be made.",
+   "note": null,
+   "page": 3,
+   "doc_path": "docs/hdfc-life/riders/101A037V01/brochure.pdf"
+  }
+ }
+}

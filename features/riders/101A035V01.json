@@ -1,0 +1,175 @@
+{
+ "rider": {
+  "name": {
+   "value": "HDFC Life Waiver of Premium Rider - Linked",
+   "status": "n/a",
+   "doc": "HDFC Waiver of Premium Rider linked (product page link)",
+   "quote": "Waiver of Premium Rider - Linked",
+   "note": null,
+   "page": 1,
+   "doc_path": "docs/hdfc-life/riders/101A035V01/brochure.pdf"
+  },
+  "uin": {
+   "value": "101A035V01",
+   "status": "n/a",
+   "doc": "Waiver of Premium Rider Linked policy document",
+   "quote": "UIN: 101A035V01",
+   "note": null,
+   "page": 1,
+   "doc_path": "docs/hdfc-life/riders/101A035V01/policy.pdf"
+  },
+  "linked_or_non_linked": {
+   "value": "linked-base rider, non-participating, individual, pure risk premium, life/health rider; separate rider premium",
+   "status": "n/a",
+   "doc": "HDFC Waiver of Premium Rider linked (product page link)",
+   "quote": "A Linked, Non- Participating, Individual Pure Risk Premium, Life / Health rider",
+   "note": null,
+   "page": 1,
+   "doc_path": "docs/hdfc-life/riders/101A035V01/brochure.pdf"
+  },
+  "attached_to_ulips": {
+   "value": [
+    "101L180V01 Sampoorn Nivesh Plus",
+    "101L187V04 Smart Protect Plus",
+    "101L191V02 Click 2 Invest Plus",
+    "Click 2 Wealth page does not link it"
+   ],
+   "status": "n/a",
+   "doc": null,
+   "quote": null,
+   "note": "Linked from the product pages of these three ULIPs. See results/ulip_rider_map.csv.",
+   "page": null,
+   "doc_path": null
+  }
+ },
+ "benefits": {
+  "waiver_of_premium": {
+   "value": "Option A: on death of the life assured. Option B: on disability or diagnosis of any of 60 critical illnesses. The company waives all outstanding premiums of the base policy and of all other riders attached at inception of this rider.",
+   "status": "covered as an option",
+   "doc": "HDFC Waiver of Premium Rider linked (product page link)",
+   "quote": "The Company shall waive off all outstanding premiums of the Base Policy and all other riders attached to the base policy at inception of this rider, on the death of Life Assured",
+   "note": "Unambiguous: the wording says \"Base Policy\". \"Life Assured under the Rider shall mean the Policyholder under the Base policy\", so the events are those of the premium payer.",
+   "page": 3,
+   "doc_path": "docs/hdfc-life/riders/101A035V01/brochure.pdf"
+  },
+  "waiver_on_death_of_life_assured": {
+   "value": "Option A, waiver on death. Available only if the life assured under the base policy is different from the policyholder; the policyholder opts for the rider.",
+   "status": "covered as an option",
+   "doc": "HDFC Waiver of Premium Rider linked (product page link)",
+   "quote": "Option A: Waiver of Premium on Death",
+   "note": null,
+   "page": 3,
+   "doc_path": "docs/hdfc-life/riders/101A035V01/brochure.pdf"
+  },
+  "waiver_on_death_or_illness_of_proposer": {
+   "value": "Yes. The rider's life assured is the policyholder of the base policy, so the waiver follows the payer's death, disability or critical illness.",
+   "status": "covered",
+   "doc": "HDFC Waiver of Premium Rider linked (product page link)",
+   "quote": "Life Assured under the Rider shall mean the Policyholder under the Base policy.",
+   "note": null,
+   "page": 3,
+   "doc_path": "docs/hdfc-life/riders/101A035V01/brochure.pdf"
+  },
+  "critical_illness": {
+   "value": "No payout. Diagnosis of any of 60 listed critical illnesses only triggers the waiver (Option B).",
+   "status": "not covered",
+   "doc": "HDFC Waiver of Premium Rider linked (product page link)",
+   "quote": "Diagnosis of 60 Critical Illnesses",
+   "note": "See waiver_of_premium.",
+   "page": 2,
+   "doc_path": "docs/hdfc-life/riders/101A035V01/brochure.pdf"
+  },
+  "accidental_death": {
+   "value": "not covered",
+   "status": "not covered",
+   "doc": "HDFC Waiver of Premium Rider linked (product page link)",
+   "quote": "Continue to receive the benefits of the base policy without paying future premium",
+   "note": "The rider is a premium waiver only. Its benefits are waiver on death of the life assured, and waiver on disability or critical illness.",
+   "page": 2,
+   "doc_path": "docs/hdfc-life/riders/101A035V01/brochure.pdf"
+  },
+  "accidental_disability": {
+   "value": "No payout. Disability only triggers the waiver (Option B).",
+   "status": "not covered",
+   "doc": "HDFC Waiver of Premium Rider linked (product page link)",
+   "quote": "On the Life Assured being diagnosed with any of the Disability, subject to exclusions.",
+   "note": "See waiver_of_premium.",
+   "page": 3,
+   "doc_path": "docs/hdfc-life/riders/101A035V01/brochure.pdf"
+  },
+  "term_cover": {
+   "value": "not covered",
+   "status": "not covered",
+   "doc": "HDFC Waiver of Premium Rider linked (product page link)",
+   "quote": "Continue to receive the benefits of the base policy without paying future premium",
+   "note": "The rider is a premium waiver only. Its benefits are waiver on death of the life assured, and waiver on disability or critical illness.",
+   "page": 2,
+   "doc_path": "docs/hdfc-life/riders/101A035V01/brochure.pdf"
+  },
+  "hospital_cash": {
+   "value": "not covered",
+   "status": "not covered",
+   "doc": "HDFC Waiver of Premium Rider linked (product page link)",
+   "quote": "Continue to receive the benefits of the base policy without paying future premium",
+   "note": "The rider is a premium waiver only. Its benefits are waiver on death of the life assured, and waiver on disability or critical illness.",
+   "page": 2,
+   "doc_path": "docs/hdfc-life/riders/101A035V01/brochure.pdf"
+  },
+  "other": {
+   "value": "not stated",
+   "status": "not stated",
+   "doc": null,
+   "quote": null,
+   "note": null,
+   "page": null,
+   "doc_path": null
+  }
+ },
+ "terms": {
+  "rider_term": {
+   "value": "Minimum 5 years. Maximum: waiver on death, the outstanding premium payment term of the base policy; waiver on disability and critical illness, 15 years. Rider is not offered if its term exceeds the outstanding base policy term.",
+   "status": "n/a",
+   "doc": "HDFC Waiver of Premium Rider linked (product page link)",
+   "quote": "Waiver of Premium on Disability and Critical illness - 15 years",
+   "note": null,
+   "page": 2,
+   "doc_path": "docs/hdfc-life/riders/101A035V01/brochure.pdf"
+  },
+  "premium_paying_rules": {
+   "value": "Rider premium payment term is the same as the rider term. Can be opted at inception or on any premium due date of the base plan. Payment frequency follows the base policy. The rider ends when the base policy ends.",
+   "status": "n/a",
+   "doc": "HDFC Waiver of Premium Rider linked (product page link)",
+   "quote": "The premium payment frequency for the rider shall be same as the base policy.",
+   "note": null,
+   "page": 3,
+   "doc_path": "docs/hdfc-life/riders/101A035V01/brochure.pdf"
+  },
+  "entry_age": {
+   "value": "18 to 65 years; maturity age 23 to 85",
+   "status": "n/a",
+   "doc": "HDFC Waiver of Premium Rider linked (product page link)",
+   "quote": "Minimum: 18 years Maximum: 65 years",
+   "note": null,
+   "page": 2,
+   "doc_path": "docs/hdfc-life/riders/101A035V01/brochure.pdf"
+  },
+  "sum_assured_limits": {
+   "value": "Rider sum assured is the sum of all future premiums payable under the base policy, including optional benefits and other riders attached at inception of this rider, subject to the board-approved underwriting policy.",
+   "status": "n/a",
+   "doc": "HDFC Waiver of Premium Rider linked (product page link)",
+   "quote": "Sum of all future premiums due and payable under the Base Policy",
+   "note": null,
+   "page": 2,
+   "doc_path": "docs/hdfc-life/riders/101A035V01/brochure.pdf"
+  },
+  "premium_deduction": {
+   "value": "Separate rider premium collected in addition to the base policy premium. Not deducted from the fund.",
+   "status": "n/a",
+   "doc": "HDFC Waiver of Premium Rider linked (product page link)",
+   "quote": "The rider premium shall be collected in addition to the premium payable under the Base Policy.",
+   "note": null,
+   "page": 3,
+   "doc_path": "docs/hdfc-life/riders/101A035V01/brochure.pdf"
+  }
+ }
+}
