@@ -14,7 +14,7 @@ UA = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like 
 LIST = 'results/riders_downloaded.csv'
 LH = ['insurer', 'rider_uin', 'rider_name', 'doc_type', 'website_label', 'source_url', 'found_on_page_url', 'stored_path', 'pages', 'uin_in_document', 'status', 'notes', 'downloaded_utc']
 rows = list(csv.reader(open('index.csv'))); H = rows[0]
-data = urllib.request.urlopen(urllib.request.Request(url, headers={'User-Agent': UA}), timeout=60).read()
+data = open(url[7:], 'rb').read() if url.startswith('upload:') else urllib.request.urlopen(urllib.request.Request(url, headers={'User-Agent': UA}), timeout=60).read()   # upload:PATH for a file the user supplied
 assert data[:4] == b'%PDF', 'not a PDF'
 assert len(data) < 95 * 1024 * 1024
 sha = hashlib.sha256(data).hexdigest()
