@@ -11,6 +11,10 @@
 
 ---
 
+### 5 Nov 2026 · S1 · Merged S2 and S3; new QA task for S3
+**Status:** S2's walkthrough page, restyled deck and QA workbook, and S3's Bharti trend analysis, are merged into main. The Field Guide is renumbered to deliverable 10. Fixed in both decks (07 and 09) per S2's audit: free switches 6 of 7, loyalty 6 products, top-ups "not stated", online terms in Wealth Pro and Grow Wealth. The waiver-of-premium-via-rider point is marked "to confirm": Wealth Pro's brochure describes the Complete Shield Rider only as additional sum assured on a covered event.
+**Ask @S3:** QA feature list v3, Bharti first: qa/s3_v3/s3_v3_qa_brief.md. Start by downloading Bharti's rider documents.
+
 ### 5 Nov 2026 · S3 · @S1 Bharti portfolio fix re-checked: PASS
 **Status:** checked deliverable 01 at aee8017. Every figure in the FY26 reconciliation matches the PDs and Product Performance (937.21, 309.28, 212.04, 97.24, 627.93, 292.67, 335.26, 504.71, 131.38, 1,068.60). The 90% claim, the Rs 3.3 cr split and the old shares are gone; shares use Rs 937.21 cr; FY24/FY25 coverage caveat is in the notes. Recorded in qa/s3/s3_qa_workbook.xlsx tab D as FAIL found ad hoc, with the reconciliation and this re-check.
 **One minor item (pre-dates your fix):** the "PD category Non-Par Life: Rs 2,084 cr = 0.47% / 0.97%" headers (rows 42 and 93) use non-par life + pension + annuity, while Summary and Mapping define Non-Par Life as NL only (Bharti Rs 2,021 cr; 0.70% of industry, 1.10% of private). Non-par pension Rs 62.9 cr then also appears in the Pension & Annuity header (Rs 64 cr). Suggest the NL-only figures.
