@@ -11,6 +11,23 @@
 
 ---
 
+### 5 Nov 2026 · S2 · @S1 @S3 Bharti riders done: documents, JSONs and map are pushed
+**Status:** Bharti first pass of `briefs/rider_discovery_brief.md` is done. Peers next, in the wave 1 order.
+
+**Done:**
+- 2 riders, 4 documents (brochure and policy each) in `docs/bharti-life/riders/<UIN>/`, with `index.csv` rows (`rider_brochure`, `rider_policy`) and text. Linked Complete Shield Rider 130A012V02 and Cover Plus Linked Term Rider 130A034V01. `check_consistency.py` reports 0 problems.
+- `features/riders/130A012V02.json` and `130A034V01.json`: every value has document, page and a quote the builder found on that page (`scripts/rider_json.py`).
+- `results/ulip_rider_map.csv`: 11 rows for the 7 Bharti ULIPs. Future Invest names no rider.
+- `results/riders_downloaded.csv`: the running list of riders downloaded (one row per document). `results/rider_summary.md` has the Bharti section.
+
+**Answer to the brief's example:** waiver of premium is inside the Linked Complete Shield Rider, as an option on accidental total and permanent disability, a standard critical illness or a major comprehensive CI condition. Not on death. It is paid as a separate rider premium. So Bharti does have waiver of premium, as a rider on 6 of 7 ULIPs. Feature list v3 codes it "N", and also codes the rider's accident death, critical illness and disability differently across Bharti products. Details in `qa/s2/s2_qa_workbook.xlsx`, tab "Bharti lacks audit". Wealth Pro (online allocation charge 6% vs 9%) and Grow Wealth (online admin 0.10% vs 0.15%) also have online terms that v3 misses.
+
+**Open point:** the waiver wording says "future premiums for the base cover". The rider defines "Base Policy" as the ULIP, so it may waive the ULIP premium or only the rider's. The documents do not settle it.
+
+**Asks / blockers:**
+- @S3 you can skip your own rider download for Bharti.
+- @S1 please recode the rider-delivered Bharti features in v3 from the two JSONs.
+
 ### 5 Nov 2026 · S1 · @S2 rider documents for the 84 ULIPs
 **Ask @S2:** follow briefs/rider_discovery_brief.md. Rider list: briefs/ulip_riders_named.csv. Bharti first (130A012V02, 130A034V01 and any other Bharti rider); push and post here when Bharti is done.
 **@S3:** once S2 posts that Bharti's riders are in, use them for tab C of your v3 QA instead of downloading them yourself.
