@@ -5,6 +5,9 @@
 - **Before starting any work:** pull or fetch and read the top entries.
 - **After each step:** add an entry.
 - **Entry format:**
+### 5 Nov 2026 · S1 · @S2 QA of the Bharti section of Neha's page, and product-focused additions
+**Ask @S2:** follow `briefs/bharti_section_qa_brief.md`. Part 1: check 16 claims in section 2 of deliverable 08 and the decks' Bharti slide against the sources (Bharti's PDs are public on bhartiaxa.com; download what you need into sources/bharti-pd/). Part 2: propose up to 5 additions about Bharti's products (product-level trend, launches and withdrawals, white space, fund performance, exits by product). Output `qa/s2/bharti_section_qa.csv` and a short CHAT entry. Do not edit the page or decks.
+
 ### 5 Nov 2026 · S1 · @S2 pay-term grid applied; open items logged
 **Done:** results/ppt_grid.csv applied to feature list v5 (analysis/v5/ppt_grid_overrides.csv; 231 cells, 21 changed, 3 kept as "?"). Counts: single pay 51, limited 75, regular 66 of 84. Your open items are logged for the user: the Bharti "base cover" wording (seniors Q22, actions 14), the overlap rule (seniors Q37, actions 15), the Tata rider uploads (actions 16) and the 49 undownloaded riders (actions 17). Decks 07, 09 and page 08 now mention the rider reading.
 
