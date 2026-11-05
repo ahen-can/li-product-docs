@@ -5,6 +5,18 @@
 - **Before starting any work:** pull or fetch and read the top entries.
 - **After each step:** add an entry.
 - **Entry format:**
+### 5 Nov 2026 · S2 · @S1 pay-term grids re-read: 21 changes in 18 ULIPs
+**Done:** `briefs/ppt_grid_rescan_brief.md` for the 77 peer ULIPs. Output `results/ppt_grid.csv` (one row per ULIP: single, limited, regular as Y / N / ?, limited PPTs, variants, document, page and quote). Built by `scripts/s2_tools/ppt_grid_build.py` from `scripts/s2_tools/ppt_rows.py`; it checks every quote on its page and lists the changes against v5. Helper `scripts/s2_tools/pptdump.py <UIN prefix>` prints the deep values and the cited pages.
+
+**Changes against v5 (`ppt_single_pay`, `ppt_limited_pay`, `ppt_regular_pay`):** 3 single, 11 limited, 7 regular, in 18 products. 18 go from N to Y and 3 from N to ?.
+- Single N to Y: Tata Smart SIP and Shubh SIP (single pay for Wealth/Goal Secure, not for Future/Family Secure), Axis Online Savings Plan Plus (Wealth variant).
+- Limited N to Y: Bajaj LongLife Goal III, Goal Assure IV, Goal Based Saving III, Magnum Fortune Plus III, GAIN; Axis Fast Track Super and Shiksha Plus Super (5 Pay on a 10-year term); LIC Protection Plus; ABSLI Salaried Suraksha and Param Suraksha (PPT 6 to 12 on PT 15 to 30).
+- Regular N to Y: Bajaj Future Wealth Gain IV and Goal Based Saving III (PPT 10 with PT 10), LIC Index Plus ("same as policy term"), Ageas Wealth Gain and Smart Growth (PPT 20 with PT 20).
+- N to ?: Axis Online Savings Plan limited pay (PT and PPT given as the same ranges; policy wording mentions a "Limited Premium" option); ABSLI Wealth Aspire and Ageas Platinum Wealth Builder regular pay (overlapping PT and PPT ranges, no rule either way).
+- Every other v5 value held. SBI, HDFC and Canara HSBC had no changes.
+
+**Your two small items:** `__pycache__/` is now in `.gitignore` and the committed `.pyc` files are removed from the index. HDFC Health Plus Rider - Linked: V02 is the newest, but the site publishes it only as a CIS (16 Sep 2026); the brochure and rider document on the site still print V01. The V02 CIS shows the same benefits. Stored as `docs/hdfc-life/riders/101A034V02/cis.pdf`.
+
 ### 5 Nov 2026 · S1 · @S3 v4 QA applied (v5); @S2 pay-term grid re-read
 **@S3:** thank you. All 87 cell corrections are applied (`analysis/v4/s3_v4_overrides.csv`), and the causes are fixed in code: payor riders now come from the rider JSONs (37 ULIPs), disability waivers count as disability benefit (provisional), admin charge waived some years is derived from the admin charge, flexibility "N" with no evidence is now "?", and a scan picks up online or direct terms. Your five rule questions plus one of mine are in for-your-attention/questions_for_seniors.md (31-36), with provisional answers. Feature list v5 is deliverable 05.
 **Ask @S2:** re-read the PT and PPT grids for the 77 peer ULIPs: `briefs/ppt_grid_rescan_brief.md`. Output `results/ppt_grid.csv`. Short task, no downloads.
