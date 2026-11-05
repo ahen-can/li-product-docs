@@ -1,0 +1,392 @@
+Rider Policy Document
+Bharti AXA Life Cover Plus Linked Term Rider
+A Non-Linked Non-Participating Individual Life Insurance Rider
+
+
+                                                                                       Part B
+
+
+1. Deﬁnitions: (meaning of technical words used in the Rider Policy Document)               x) Rider Schedule means the schedule attached to the Rider Policy which
+a) Age means the Age at last birthday in completed years.                                       contains, amongst others, Your details, the Life Insured’s details and other
+                                                                                                details pertaining to this Rider and which forms an integral part of the Rider.
+b) Annexure means any annexure, endorsement attached to this Rider as
+   changed/ modiﬁed and issued by us from time to time.                                     y) Rider Sum Assured means the amount speciﬁed in the Rider Schedule which is
+                                                                                                applicable under this Rider which represents Our maximum, total and complete
+c) Annualized Rider Premium means the Rider Premium payable in a year by                        liability for any and all claims arising in respect of the Life Insured under this
+   You, excluding the taxes, underwriting extra premiums and loading for modal                  Rider.
+   premiums, if any.
+                                                                                            z) Rider Term means the number of years speciﬁed in the Rider Schedule
+d) Appointee means the person appointed by You to receive the beneﬁts payable                   commencing from the Date of Commencement of Rider and ending on the
+   under this Rider till the Nominee is a Minor as per the applicable Indian Laws.              Expiry Date.
+e) Assignee means the one to whom the Rider has been assigned i.e., the person              aa) Rider Year means calculated from the Date of Commencement of Rider and is a
+   to whom the Rider rights have been transferred as deﬁned under the provisions                period of twelve (12) consecutive calendar months and includes every
+   of Section 38 of the Insurance Act, 1938 as amended from time to time.                       subsequent twelve (12) consecutive calendar months.
+f) Assignment means the provision wherein the Policyholder can assign or                    bb) Surrender means complete withdrawal of the Rider resulting in the termination
+   transfer a Rider in accordance with Section 38 of the Insurance Act, 1938 as                 of the Rider.
+   amended from time to time.
+                                                                                            cc) Unexpired Risk Premium Value means an amount, if any, that becomes
+g) Base Policy means the life insurance product issued to You by Us to which this               payable in case of Surrender of this Rider in accordance with the terms and
+   Rider is attached.                                                                           conditions of the Rider.
+h) BAUP means Board Approved Underwriting Policy of Bharti Axa Life Insurance               dd) Us/We/Our/Company means Bharti AXA Life Insurance Company Limited.
+   Company Limited.
+                                                                                            ee) You/Your/Yours means the Policyholder.
+i) Beneﬁciary or Claimant means the person entitled to receive beneﬁts as per
+   the terms and conditions of this Rider and applicable laws, and includes the             The terms deﬁned above shall also act as a reference guide to the Policy
+   Policyholder, the Nominee, the Assignee, the legal heir, the legal                       Document in terms of IRDAI Master Circular on Life Insurance Products (Ref:
+   representative(s) or the holder(s) of succession certiﬁcate, as the case may be.         IRDAI/ACTL/MSTCIR/MISC/89/6/2024 dated 12th June 2024)
+j) Date of Commencement of Rider means the date speciﬁed in the Rider
+   Schedule from which the insurance coverage under this Rider commences for
+   the Life Insured.
+k) Date of Inception of Rider means the date speciﬁed in the Rider Schedule on
+   which the Rider is issued.
+l) Free Look Period means the period of thirty (30) days speciﬁed under Part D
+   from the date of receipt of this Rider, whether received electronically or
+   otherwise.
+m) Expiry/Maturity Date means the date speciﬁed in the Rider Schedule on which
+   the Rider Term shall expire.
+n) Grace Period means the time granted by Us, to facilitate You to pay the
+   unpaid Rider Regular Premium/Rider Limited Premium, in accordance with Part
+   C, without any penalty or late fee, in case the Rider Regular Premium/Rider
+   Limited Premium(s) had not been paid as on the due date, during which time
+   the Rider is considered to be in-force with the risk cover without any
+   interruption, as per the terms and condition of this Rider.
+o) Life Insured means the person named in the Rider Schedule who is covered
+   under the Rider.
+p) Lapse means the status of the Rider where the Rider Regular Premium/Rider
+   Limited Premium due is not received on the Rider Premium Due Date or before
+   the expiry of the Grace Period.
+q) Minor is a person below the legal age of majority or adulthood.
+r) Revival of the Rider means restoration of the Rider, which was discontinued
+   due to the non-payment of Rider Premium, by the Company with all the beneﬁts
+   mentioned in the Rider, upon the receipt of all the Rider Premiums due and
+   other charges or late fee if any, during the Revival Period, as per the terms and
+   conditions of the Rider, upon being satisﬁed as to the continued insurability of
+   the Life Insured or Policyholder on the basis of the information, documents and
+   reports furnished by Policyholder, in accordance with BAUP.
+s) Revival Period means the period provided in the Base Policy for revival of the
+   Base Policy.
+t) Rider means this Bharti AXA Life Cover Plus Linked Term Rider which is
+   purchased along with the Base Policy. It provides additional beneﬁts in respect
+   to the Life Insured. It is not a standalone document and should be read along
+   with Base Policy.
+u) Rider Policy Document means and includes the proposal form for insurance
+   submitted by You, the Rider Schedule, any attached endorsements or
+   supplements together with all the addendums provided by Us from time to time,
+   the medical examiner’s report and any other document/s called for by Us and
+   submitted by You to enable Us to process request for Rider, along with the
+   unique policy number issued to You as mentioned in the Rider Schedule.
+v) Rider Premium means the following (as applicable):-
+   i. Rider Single Premium where the premium is paid in lump sum at the
+        inception of the policy; or
+   ii. Rider Regular Premium where a level premium is paid throughout the Rider
+        Term; or
+   iii. Rider Limited Premium where the premium is paid for a limited period,
+        which shall be less than the Rider Term.
+   Rider Premium excludes the taxes and underwriting extra premiums, if any. The
+   Rider Schedule will specify the type of Rider Premium applicable to this Rider.
+w) Rider Premium Payment Term means the number of years for which You are
+   required to pay the Rider Premium due under the Rider.
+
+
+
+
+UIN:130A034V01
+                                                                                                                                                                    Page No. 00
+Rider Policy Document
+Bharti AXA Life Cover Plus Linked Term Rider
+A Non-Linked Non-Participating Individual Life Insurance Rider
+
+
+                                                                                        Part C
+
+
+1. Death Beneﬁt
+   Bharti AXA Life Cover Plus Linked Term Rider can be opted by the Policyholder
+   at the inception or anytime during the Policy Term of the Base Policy.
+   Subject to the Base Policy and the Rider being in force, and all due premiums
+   till the date of death have been paid, in the event of death of the Life Insured
+   during the Rider Term, the Company shall pay 100% of the Rider Sum Assured
+   to the Beneﬁciary/ Claimant.
+   In case of the death of the Life Insured during the Grace Period, the Death
+   Beneﬁt after deducting the unpaid due Rider Premium shall be payable.
+   Upon payment of Death Beneﬁt, this Rider shall stand terminated.
+   In case of the death of the Life Insured while the Rider is in Lapse status, no
+   beneﬁt shall be payable and this Rider will terminate.
+2. Maturity/Survival Beneﬁt
+   There is no maturity or survival beneﬁt payable under this Rider. This Rider
+   shall automatically cease to exist on the termination of the Base Policy as also
+   mentioned in Part D Section 6.
+3. Payment of Premium
+   i. You are required to pay Rider Regular Premiums or Rider Limited Premiums
+        on the due dates and for the amount speciﬁed in the Rider Schedule.
+   ii. You are required to pay Rider Regular Premiums or Rider Limited Premiums
+        for the entire Rider Premium Payment Term.
+   iii. Rider Regular Premiums or Rider Limited Premium payment modes
+        available under the Rider are annual, half yearly, quarterly and monthly. The
+        mode applicable to You will be speciﬁed in the Rider Schedule.
+   iv. If You discontinue the payment of the Rider Regular Premiums or Rider
+        Limited Premiums, the Rider will be treated as Lapsed as per the
+        conditions under Part D.
+   v. For monthly Rider Premium Payment Mode policies, the Company may
+        accept three (3) months Rider Premium in advance on the Date of
+        Commencement of Rider or at the time of renewal of monthly mode policies
+        only.
+   vi. In case of advance Rider Premium;
+        a. Collection of advance Rider Premium shall be allowed within the same
+            ﬁnancial year for the Rider Premium due in that ﬁnancial year;
+        b. The Rider Premium so collected in advance shall only be adjusted on
+            the due date of the Rider Premium.
+        c. The commission shall only be paid after adjustment of premium on due
+            date.
+4. Grace Period
+   You get a Grace Period of thirty (30) days for annual/ semi-annual/quarterly
+   Rider Premium Payment Modes and ﬁfteen (15) days for monthly mode, to pay
+   the unpaid Rider Regular Premiums or Rider Limited Premium due under the
+   Rider and the beneﬁts under the Rider will remain unaltered during this period.
+   In case of the death of the Life Insured during the Grace Period, the Death
+   Beneﬁt after deducting the unpaid due Rider Premium shall be payable
+
+
+
+
+UIN:130A034V01
+Rider Policy Document
+Bharti AXA Life Cover Plus Linked Term Rider
+A Non-Linked Non-Participating Individual Life Insurance Rider
+
+
+                                                                                        Part D
+
+
+1. Free Look Period                                                                          5. Suicide
+   The Policyholder has a period of thirty (30) days from the date of receipt of this           In case of death due to suicide within 12 months from the Date of
+   Rider Policy Document , to review the terms and conditions of the Rider,                     Commencement of Rider or from the date of revival of the Rider, as applicable,
+   whether received electronically of otherwise, and if Policyholder disagrees with             the nominee or beneﬁciary of the policyholder shall be entitled to at least 80% of
+   any of the terms and conditions of the Rider, or otherwise, and has not made                 the total premiums paid till the date of death, provided the policy is in force.
+   any claim, there is an option to return the original Rider along with a letter
+   stating reasons for objection/ cancellation.                                              6. Expiry/Maturity of Rider
+   Irrespective of the reasons mentioned, the rider will accordingly be cancelled               The Rider will terminate on the earliest of the following:
+   and the Policyholder shall be entitled to a refund of the Premium paid, subject              a) On the Life Insured attaining Age of 100 years; or
+   only to a deduction of a proportionate risk premium for the period on cover and              b) When the Base Policy ceases to exist or
+   the expenses incurred by the Company on medical examination of the
+                                                                                                c) When You discontinue to pay the Rider Regular Premium/Rider Limited
+   proposer, if any and the stamp duty charges.
+                                                                                                   Premiums, but continue to pay the Base Policy premiums; or
+   All rights under this Rider shall stand extinguished immediately on cancellation
+                                                                                                d) On the date of Surrender of this Rider; or
+   of the Rider under the free look option.
+                                                                                                e) Date of acceptance of free look request by Us; or
+   If the Rider is opted through Insurance Repository (IR), the computation of the
+   said Free Look Period will be as stated below:-                                              f) Beneﬁts in accordance with Part C under the Rider are paid which result in
+                                                                                                   the termination of cover for the Life Insured under this Rider;or
+   For existing e-Insurance Account: Computation of the said Free Look Period
+   will commence from the date of delivery of the e mail conﬁrming the credit of                g) In case of death of the Life Insured, while the Rider is in Lapsed status; or
+   the Insurance Policy by the IR.                                                              h) When the Rider in Lapsed status is not revived within the Revival Period.
+   For New e-Insurance Account: If an application for e-Insurance Account                    7. Loan
+   accompanies the proposal for insurance, the date of receipt of the 'welcome kit'
+   from the IR with the credentials to log on to the e-Insurance Account (eIA) or               Not available under the Rider.
+   the delivery date of the email conﬁrming the grant of access to the eIA or the
+   delivery date of the email conﬁrming the credit of the Insurance Policy by the IR
+   to the eIA, whichever is later shall be reckoned for the purpose of computation
+   of the Free Look Period.
+2. Discontinuance of Premiums (Not Applicable to Single Pay Policies)
+   In case the Base Policy has lapsed due to discontinuance of premium, the
+   beneﬁts under the Rider shall automatically cease to exist immediately from the
+   date of such unpaid premium.
+   You can also opt to discontinue the Rider, anytime during the Rider Term. If You
+   discontinue the payment of Rider Regular Premiums or Rider Limited
+   Premiums, the Rider will be treated as Lapsed.
+   I Lapse
+      If Policyholder does not pay at least two Rider Year's Annualized Rider
+      Premiums within the Grace Period (as deﬁned in section 4 of Part-C), the
+      Rider shall Lapse with eﬀect from the date of such unpaid Rider Premium
+      ('Lapse Date'). If a Rider in lapsed status is not revived within the Revival
+      Period, the Rider shall be terminated and no beneﬁts shall be payable.
+
+3. Surrender Beneﬁts
+   In case of Rider Single Premium, the Rider shall acquire an Unexpired Risk
+   Premium Value immediately.
+   Rider Single Premium – The Unexpired Risk Premium Value shall be as per the
+   following formula:
+   Unexpired Risk Premium Value = (URPF) X P X (U/T)
+   Where,
+   URPF = The Unexpired Risk Premium Factor (URPF) of 70% ;
+   P = Rider Single Premium excluding applicable tax and underwriting extra, if
+   any;
+   U = Outstanding Rider Term (in months);
+   T = Rider Term (in months).
+   In case of Rider Limited Premium, the Rider shall acquire an Unexpired Risk
+   Premium Value after the payment of Rider Limited Premium for at least two full
+   Rider Years .
+   Rider Limited Premium – The Unexpired Risk Premium Value shall be as per
+   the following formula:
+   Unexpired Risk Premium Value = (URPF) X P X (U/T) X (P/PP)
+   Where,
+   URPF = The Unexpired Risk Premium Factor (URPF) of 70% ;
+   P = Total Rider Limited Premiums Paid till date of Surrender excluding
+   applicable tax, modal loadings and underwriting extra, if any;
+   U = Outstanding Rider Term (in months);
+   T = Rider Term (in months);
+   PP = Total Rider Limited Premiums payable excluding applicable tax, modal
+   loadings and underwriting extra, if any.
+   No Unexpired Risk Premium Value will be payable for Rider Regular
+   Premium.
+   The Unexpired Risk Premium Value will be payable immediately on Surrender.
+4. Revival
+   Revival of the Rider shall be only along with the Revival of the Base Policy and
+   shall be as per the BAUP. The Revival Period and the rate of interest
+   applicable to revival of the Rider will be same as that of the Base Policy. If the
+   Rider in lapsed status is revived within the Revival Period, all beneﬁts will be
+   restored.
+
+
+
+
+UIN:130A034V01
+Rider Policy Document
+Bharti AXA Life Cover Plus Linked Term Rider
+A Non-Linked Non-Participating Individual Life Insurance Rider
+
+
+                                                              PART E
+                                               Part E is not applicable to this Rider
+
+
+
+
+UIN:130A034V01
+Rider Policy Document
+Bharti AXA Life Cover Plus Linked Term Rider
+A Non-Linked Non-Participating Individual Life Insurance Rider
+
+
+                                                                                        Part F
+
+
+1. Fraud and Misrepresentation                                                               10. Mode of communication
+   Fraud, Misrepresentation and forfeiture would be dealt with in accordance with                Same as Base Policy.
+   provisions of Section 45 of the Insurance Act 1938 as amended from time to
+   time. [A Leaﬂet containing the simpliﬁed version of the provisions of                     11. Governing Laws & Jurisdiction
+   Section 45 is enclosed in Annexure– III to the Base Policy for reference]                     Same as Base Policy.
+2. Claims                                                                                    12. Term used and its meaning
+   The Company would require the following primary documents in support of a                     If a particular term is not deﬁned or otherwise articulated either in the Rider or
+   claim at the stage of claim intimation under the Rider:                                       under the Base Policy, endeavor shall be to impart the natural meaning to the
+   For Death Beneﬁt (other than death due to Accident/natural death): The                        said term in the context in which it is used.
+   original Rider Policy Document (entire booklet), Copy of Death Certiﬁcate of the          13. Issuance of duplicate Rider Policy Document:
+   Life Insured, Claimant's Statement, KYC Documents and personalized
+                                                                                                 The Policyholder can make an application for duplicate Rider with no additional
+   cancelled cheque of the Claimant or Beneﬁciary, and Copy of medical records
+                                                                                                 charges upon loss of Rider Policy Document along with other requirements as
+   pertaining to treatment taken by the Life Insured such as admission notes,
+                                                                                                 may be prescribed by the Company.
+   discharge / death summary, test report etc. available, if any.
+   For Death Beneﬁt (death due to Accident/Unnatural death): First                           14. Legislative Changes
+   Information Report (FIR) and Post Mortem report is required in addition to the                The Terms and Conditions including the Rider Premiums and beneﬁts payable
+   documents required for Death Beneﬁt (other than death due to Accident/                        under this Rider are subject to variation in accordance with the applicable laws
+   natural death) as mentioned above.                                                            and regulations.
+   The Company is entitled to call for additional documents, if in the opinion of the
+   Company such additional documents are warranted to process the claim.
+   Easy ways of claim intimation
+   A. Walk in to your nearest Bharti-AXA Life Branch
+   B. Call us Toll Free: 1800-102-4444*
+       Intimate Online through Claims Portal: https://www.bhartiaxa.com/claims
+   C. E-mail us: lifeclaims@bhartiaxa.com
+   D. Submit online claim through our website www.bhartiaxa.com
+   *Claims intimated through these modes will be considered as verbal intimation.
+   Claim will be formally registered only when written intimation(is received at
+   branch or directly to Claims team at Service Oﬃce.
+   Claim intimation received shall be processed and settled within timelines
+   speciﬁed as under:
+
+                                                           Times lines for
+     S. No              Particulars
+                                                        settlement of claims
+
+       1      Death claim not warranting           Within 15 days from the
+              investigation                        date of intimation of claim
+       2      Death claim warranting               Within 45 days from the date of
+              investigation                        intimation of claim
+
+3. Misstatement of Age and Gender
+   • If the correct Age of the Life Insured is diﬀerent from that mentioned in the
+      proposal form, We will assess the eligibility of the Life Insured for the Rider
+      in accordance with the correct Age of the Life Insured.
+   • If on the basis of correct Age, the Life Insured is not eligible for the Rider,
+      the Rider shall be cancelled immediately by refunding the Rider Premium
+      received by Us under the Rider as per the provisions of Section 45 of
+      Insurance Act, 1938 as amended from time to time.
+   • If the Life Insured is eligible for the Rider as per his / her correct Age, then
+      We will calculate the applicable charges basis the correct Age of Life
+      Insured.
+4. Assignment and Nomination
+   Assignment: Assignment shall be in accordance with the provisions of Section
+   38 of the Insurance Act ,1938 as amended from time to time.
+   [A Leaﬂet containing the simpliﬁed version of the provisions of Section 38
+   is enclosed in Annexure– I to the Base Policy for reference]
+   Nomination: Nomination shall be in accordance with the provisions of Section
+   39 of the Insurance Act,1938 as amended from time to time.
+   [A Leaﬂet containing the simpliﬁed version of the provisions of Section 39
+   is enclosed in Annexure– II to the Base Policy for reference]
+5. Incorrect information and Non-Disclosure
+   You and the Life Insured under the Rider have an obligation to disclose every
+   fact material for assessment of the risk in connection with issuing the Rider.
+   In case of fraud, misrepresentation and suppression of material facts the Rider
+   contract shall be treated in accordance with the Section 45 of the Insurance
+   Act, 1938 as amended from time to time.
+6. Rider alterations / Modiﬁcations
+   Only Our duly authorized oﬃcer has the power to eﬀect changes on the Rider
+   at Your request, subject to Our rules and within the regulatory parameters.
+7. Taxation
+   Same as Base Policy.
+8. Notices
+   Same as Base Policy.
+9. Currency and Place of Payment
+   Same as Base Policy.
+
+
+
+
+UIN:130A034V01
+Rider Policy Document
+Bharti AXA Life Cover Plus Linked Term Rider
+A Non-Linked Non-Participating Individual Life Insurance Rider
+
+
+                                                                                 Part G
+                                                                          Grievance Redressal
+                                                                          Same as Base Policy.
+                                                                           List of Ombudsman
+                                                         (For the updated list You may refer to IRDAI website)
+                                                                          Same as Base Policy.
+
+
+
+
+                                                          BEWARE OF SPURIOUS/FRAUD PHONE CALLS!
+           IRDAI is not involved in activities like selling insurance policies, announcing bonus or investment of premiums. Public receiving such phone calls are
+                                                                      requested to lodge a police complaint.
+
+
+
+
+UIN:130A034V01
+Rider Policy Document
+Bharti AXA Life Cover Plus Linked Term Rider
+A Non-Linked Non-Participating Individual Life Insurance Rider
+
+
+
+                                       Annexure-I: Section 38 - Assignment and Transfer of Insurance Policies
+                                                               Same as the Base Policy
+
+                                                Annexure-II: Section 39 - Nomination by Policyholder
+                                                               Same as the Base Policy
+
+                   Annexure-III: Section 45 – Policy shall not be called in question on the ground of mis-statement after three years
+                                                               Same as the Base Policy
+
+
+
+
+UIN:130A034V01
+
