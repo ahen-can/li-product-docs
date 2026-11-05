@@ -18,12 +18,13 @@ Last updated: 4 Nov 2026 by S1 (main session). Full decision trail: `docs-intern
 - **Done 5 Nov (after compaction):** S3's 63 Bharti cell FAILs applied via analysis/v3/s3_overrides.csv; rider-map recoding in build_ulip_features.py (Bharti now, peers automatically as S2 adds rows to results/ulip_rider_map.csv); deliverables 05 and 06 rebuilt. Comparison now reads corrected cells from product_features_ulip_v3.csv. Universal rider list from the Council sheet: analysis/riders/rider_list_council.xlsx (225 riders, 157 individual, 61 linked "A").
 - **S2 riders done and coded (5 Nov):** all 10 insurers, 30 riders, merged. v3 rider recoding now reads results/ulip_rider_benefits.csv (112 cells to R incl. 19 Bharti, 5 name-only R to ?). Counts over 84: waiver 60 (B 11, O 17, R 32), CI 55, accidental death 67, disability 53. Council vs S2 tally: all linked Council riders for the 10 insurers are in S2's list (HDFC Health Plus version aside). NEXT item 3 below is done except the peer QA sample.
 - **User decision (5 Nov):** do not update Neha's pages or decks (07-10) for now. Fix our side first, then refresh them together.
+- **Feature list v4 built (5 Nov), draft until S3's QA:** user chose option (b) for additions (split by % of premium vs % of fund, "guaranteed" row retired) and accepted rules 1, 3, 4, 5 as proposed. Scans of all 84 for policy loan, min-fund termination, IALM. 476 cell changes in analysis/v4/v4_changes.csv. Deliverable 05 is now 05_feature_list_ulip_v4.xlsx; 06 reads v4. Judgement calls are in for-your-attention/questions_for_seniors.md section E (questions 20-30). User rule: every such judgement call goes into that file.
+- **Calculator:** SBI Smart Fortune Builder periodic Guaranteed Additions added (6.00% -> 6.16% at 8% excl. GST). The decks still say 6.00%.
 - **NEXT for S1:**
-  1. User to decide the rules in analysis/v3/coding_rules.md (UNSURE items: payor waiver, milestone additions basis, loyalty design, online terms, index/low-FMC funds). Then code them as another overrides file and rebuild.
-  2. Rider-independent peer fixes now: scan all 84 for S3's patterns 2-6 (v1 keyword rows hitting fund tables or tax boilerplate; policy loan "Not Applicable" in CIS; min fund termination, IALM basis and admin waived some years in the policy bond; regular pay = PPT equal to PT; table columns misread).
-  3. After S2's peer riders: rebuild (rider recoding is automatic), check the rider counts (WoP, CI, AD, disability), tally S2's universal rider list against rider_list_council.csv.
-  4. BIs for SBI Smart Fortune Builder (111L142V01) and Bajaj Goal Assure IV (116L204V01): check the calculator when the user sends them.
-  5. Then refresh decks 07 and 09 and Neha's page 08 in one pass (waiver "via rider on 6 of 7", hypothesis line, all S3 corrections).
+  1. S3 runs qa/s3_v4 (887 rows). Apply its FAILs as analysis/v4/s3_v4_overrides.csv, then rebuild 05 and 06.
+  2. SBI and Bajaj BIs: the user will send them later. Check the calculator then.
+  3. After v4 QA: refresh decks 07 and 09 and Neha's page 08 in one pass (waiver 60 of 84 with "via rider on 6 of 7" for Bharti, additions by basis instead of "no guaranteed additions", SBI 6.16%, hypothesis line).
+  4. Next category after ULIP, when the user says so.
 - **People:** the manual checker is Shobhit (named on the page; earlier notes said Rahul).
 - **Sessions:** S2 is on branch ccr-d0d84e00-joo2mp and is doing the peer riders per briefs/rider_discovery_brief.md, with its format approved. S3 is on branch s3-bharti-analysis. Merge both regularly; CHAT.md conflicts resolve as "theirs first, then ours".
 - **Git:** local main tracks origin/main (upstream set on 5 Nov).

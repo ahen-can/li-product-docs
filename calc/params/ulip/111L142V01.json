@@ -48,7 +48,25 @@
  },
  "additions": [
   {
-   "name": "Guaranteed Addition on Maturity: 5% of annualised premium (premium band Rs 1-2 lakh)",
+   "name": "Guaranteed Addition, limited pay 10: 10% of AP at end of year 10 (policy p27)",
+   "type": "pct_ap_once",
+   "year": 10,
+   "pct": 10.0
+  },
+  {
+   "name": "Guaranteed Addition, limited pay 10: 15% of AP at end of year 15 (policy p27)",
+   "type": "pct_ap_once",
+   "year": 15,
+   "pct": 15.0
+  },
+  {
+   "name": "Guaranteed Addition, limited pay 10: 25% of AP at end of year 20 (policy p27)",
+   "type": "pct_ap_once",
+   "year": 20,
+   "pct": 25.0
+  },
+  {
+   "name": "Guaranteed Addition on Maturity: 5% of annualised premium (premium band Rs 1-2 lakh, policy p28)",
    "type": "pct_ap_once",
    "year": 20,
    "pct": 5.0

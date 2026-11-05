@@ -43,9 +43,9 @@ def flat(v, n=160):
     return t if len(t) <= n else t[:n - 1] + '…'
 
 
-# Corrections from QA rounds and rider recoding come through feature list v3 (product_features_ulip_v3.csv),
+# Corrections from QA rounds, rider recoding and v4 rules come through feature list v4 (product_features_ulip_v4.csv),
 # so this workbook and deliverable 05 agree. Run build_ulip_features.py first.
-PF = {(r['uin'], r['feature']): r for r in csv.DictReader(open(os.path.join(R, 'analysis/product_features_ulip_v3.csv'), encoding='utf-8'))}
+PF = {(r['uin'], r['feature']): r for r in csv.DictReader(open(os.path.join(R, 'analysis/product_features_ulip_v4.csv'), encoding='utf-8'))}
 _ns = s[s.index('NEW_SCHEMA = [') + len('NEW_SCHEMA = '):s.index('\n# New features found')]
 PATH2F = {pth: fid for _, fid, pth, _ in eval(_ns)}
 PATH2F.update({'flexibility.auto_portfolio_strategies': 'auto_strategies', 'flexibility.partial_withdrawals': 'partial_withdrawal',
@@ -57,8 +57,9 @@ PATH2F.update({'flexibility.auto_portfolio_strategies': 'auto_strategies', 'flex
                'protection_add_ons.waiver_of_premium_inbuilt': 'waiver_of_premium', 'protection_add_ons.critical_illness': 'critical_illness_inbuilt_or_option',
                'protection_add_ons.accidental_death': 'accidental_death_extra'})
 _OVR = set()
-for _f in sorted(__import__('glob').glob(os.path.join(R, 'analysis/v3/*_overrides.csv'))):
+for _f in sorted(__import__('glob').glob(os.path.join(R, 'analysis/v3/*_overrides.csv')) + __import__('glob').glob(os.path.join(R, 'analysis/v4/*_overrides.csv'))):
     _OVR |= {(r['uin'], r['feature']) for r in csv.DictReader(open(_f, encoding='utf-8'))}
+_OVR |= {(r['uin'], r['feature']) for r in csv.DictReader(open(os.path.join(R, 'analysis/v4/v4_changes.csv'), encoding='utf-8'))}
 UNCODE = {'B': 'built-in', 'O': 'optional (at inception)', 'R': 'rider', 'N': 'not offered', '?': 'not stated in public documents'}
 
 
@@ -159,7 +160,26 @@ deep_row('Funds', 'Number of funds', 'funds.fund_count', num=lambda o, u: first_
 deep_row('Funds', 'Index or thematic funds', 'funds.index_or_thematic_funds')
 deep_row('Surrender', 'Lock-in (years)', 'surrender_revival.lock_in_years')
 # New features
+def pf_row(sec, label, f):
+    def get(u):
+        r = PF.get((u, f))
+        if not r: return '', '', None, (None, None, None)
+        st = {'B': 'Built-in', 'O': 'Optional', 'R': 'Rider', 'N': 'Not offered', '?': 'Not stated'}.get(r['code'], '')
+        num = None
+        m = re.match(r'(\d+(?:\.\d+)?)%', r['value'] or '')
+        if m: num = float(m.group(1))
+        disp = r['value'] if r['code'] == 'v' else ((st + (': ' + r['value'] if r['value'] else '')) if st else r['value'])
+        return disp, st, num, (r['doc'], r['page'], r['quote'][:300])
+    ROWS.append((sec, label, 'num' if f.startswith('lowest') else 'status', get, 'min' if f.startswith('lowest') else None))
+
+pf_row('Additions and refunds', 'Additions as % of premium (amount known at start)', 'additions_pct_of_premium')
+pf_row('Additions and refunds', 'Additions as % of fund value (moves with the market)', 'additions_pct_of_fund')
+pf_row('Funds', 'Index fund offered', 'index_fund_offered')
+pf_row('Funds', 'Lowest FMC, any fund', 'lowest_fmc_any_fund')
+pf_row('Funds', 'Lowest FMC, equity fund', 'lowest_fmc_equity_fund')
 for g, label, _, _ in NEW_FEAT:
+    if g in ('scheduled_guaranteed_additions', 'index_or_low_cost_funds'):
+        continue
     feat_row('Features found in policy documents', label, g)
 
 # ---- write ----

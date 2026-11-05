@@ -1,5 +1,5 @@
-"""ULIP feature list v2: deep-discovery data (features/ulip/<UIN>.json) where it exists,
-v1 brochure flags for every other ULIP. Re-run as more deep files arrive (that run is v3).
+"""ULIP feature list (now v4): deep-discovery data (features/ulip/<UIN>.json) where it exists,
+v1 brochure flags for every other ULIP. Re-run after any input changes.
 Usage: python3 -I analysis/scripts/build_ulip_v2.py <repo_dir>"""
 import csv, json, glob, os, re, sys, collections as C
 from openpyxl import Workbook
@@ -398,7 +398,7 @@ for k in keys:
 
 # ---------- QA overrides (S3, then any later rounds) ----------
 OVR_APPLIED = []
-for _op in sorted(glob.glob(os.path.join(A, 'v3', '*_overrides.csv'))):
+for _op in sorted(glob.glob(os.path.join(A, 'v3', '*_overrides.csv')) + glob.glob(os.path.join(A, 'v4', '*_overrides.csv'))):
     for o in csv.DictReader(open(_op, encoding='utf-8')):
         k, f = o['uin'], o['feature']
         old = cells.get((f, k), ('', '', None, None, None))
@@ -408,6 +408,154 @@ for _op in sorted(glob.glob(os.path.join(A, 'v3', '*_overrides.csv'))):
             val = ''
         cells[(f, k)] = (code, val, o['doc'], int(o['page']) if o['page'] else None, o['quote'][:400])
         OVR_APPLIED.append([products[k]['insurer'], products[k]['name'], k, f, old[0], code, (o['value'] or '')[:200], os.path.basename(_op), o['source']])
+
+# ---------- v4: coding rules (user, 5 Nov 2026; analysis/v3/coding_rules.md) and scans of all 84 ----------
+V4_LOG = []
+EMPTY = ('', '', None, None, None)
+BHARTI = [k for k in keys if products[k]['insurer'] == 'Bharti Life']
+
+
+def setc(f, k, new, why):
+    old = cells.get((f, k), EMPTY)
+    cells[(f, k)] = new
+    if (old[0], old[1]) != (new[0], new[1]):
+        V4_LOG.append([products[k]['insurer'], products[k]['name'], k, f, old[0], new[0], (new[1] or '')[:200], why])
+
+
+def ridx(fid):
+    return next(i for i, r in enumerate(rows) if r['id'] == fid)
+
+
+def all_pages(uin, with_cis=True):
+    out = []
+    for t in sorted(glob.glob(os.path.join(R, 'text', '*', uin, '*.txt'))):
+        dt = os.path.basename(t)[:-4]
+        if dt.startswith('cis') and not with_cis: continue
+        for i, pg in enumerate(open(t, encoding='utf-8', errors='replace').read().split('\f'), 1):
+            out.append((dt, i, re.sub(r'\s+', ' ', pg)))
+    return out
+
+
+# Rule 2 (option b): additions by basis replace "scheduled guaranteed additions"
+i = ridx('scheduled_guaranteed_additions')
+rows.pop(i)
+AB = {r['uin']: r for r in csv.DictReader(open(os.path.join(A, 'v4', 'additions_basis.csv'), encoding='utf-8'))}
+for j, (fid, lab) in enumerate([('additions_pct_of_premium', 'Additions credited as a % of premium (annualised, single or instalment) or a multiple of AP: the rupee amount is known at the start. Includes additions only for some customers (see value).'),
+                                ('additions_pct_of_fund', 'Additions credited as a % of fund value or average fund value (loyalty additions, boosters, milestone benefits): the amount moves with the market.')]):
+    rows.insert(i + j, {'id': fid, 'group': 'Additions by basis (v4)', 'def': lab, 'new': 'new in v4 (rule 2, option b)', 'kind': 'status',
+                        'source_note': 'deep only; analysis/v4/additions_basis.csv. Charge refunds and fund-floor top-ups are not counted.'})
+    key = fid.replace('additions_', '')
+    for k in DEEP:
+        a = AB.get(k, {})
+        code = a.get(key, '')
+        val = a.get(key + '_detail', '')
+        if a.get(key + '_conditions'): val = 'Only for: ' + a[key + '_conditions'] + '. ' + val
+        if code == '?': val = 'additions exist, basis not read'
+        setc(fid, k, (code, val, a.get(key + '_doc') or None, int(a[key + '_page']) if a.get(key + '_page') else None, a.get(key + '_quote') or None), 'rule 2: additions by basis')
+
+# Rule 1: payor waiver only when the payer's own event triggers it
+for k in DEEP:
+    rb = RB.get(k, {})
+    w = rb.get('waiver_of_ulip_premium_through', '')
+    if re.search(r'payor', w, re.I) and cells.get(('child_payor_benefit', k), EMPTY)[0] not in YES:
+        setc('child_payor_benefit', k, ('R', 'payor waiver via rider: ' + w, 'rider documents (results/ulip_rider_benefits.csv)', None, w), 'rule 1: payor benefit through a rider')
+for k in BHARTI:
+    if k in RB and RB[k]['riders_stored']:
+        setc('child_payor_benefit', k, ('?', 'rider waiver may be opted by the policyholder, but the rider names the life insured as the person whose event triggers it; not on death',
+                                        'rider brochure 130A012V02', 5, 'can be opted by either: Policyholder - only if life insured and policyholder are different or Life insured'), 'rule 1: trigger is the life insured')
+
+# Rule 3: same loyalty design, same code
+for k, q in [('130L125V01', 'Loyalty Booster at maturity: 3.5% to 11% of the 3-year average fund value (brochure p5)'),
+             ('130L128V01', 'Loyalty Booster at maturity: 5% of the average fund value of the preceding 60 months (brochure p5)')]:
+    setc('loyalty_design_variants', k, ('B', 'large loyalty credit at maturity, as Growth Shield Plus', 'brochure', 5, q), 'rule 3: same design as Growth Shield Plus')
+
+# Rule 4: online or direct purchase belongs to lower_charges_online only
+rows[ridx('customer_type_boosters')]['def'] = 'Extra benefit or lower charges for a type of customer: women, staff, existing customers or their family, auto-pay or ECS payers. Online or direct purchase is in lower_charges_online.'
+rows[ridx('lower_charges_online')]['def'] = 'Better terms for online or direct purchase (lower charges or extra boosters)'
+for k in DEEP:
+    c = cells.get(('customer_type_boosters', k), EMPTY)
+    txt = (c[1] or '') + ' ' + (c[4] or '')
+    if c[0] in YES and re.search(r'online|digital|direct', txt, re.I):
+        if cells.get(('lower_charges_online', k), EMPTY)[0] not in YES:
+            setc('lower_charges_online', k, ('B', c[1], c[2], c[3], c[4]), 'rule 4: online or direct terms also in lower_charges_online')
+        if not re.search(r'women|female|lady|staff|employee|existing|family|auto|ECS', txt, re.I):
+            setc('customer_type_boosters', k, ('', 'moved to lower_charges_online (rule 4)', None, None, None), 'rule 4: online or direct terms only')
+
+# Rule 5: index funds and fund fees instead of "low-cost funds"
+EQ_NAME = re.compile(r'equity|growth|cap\b|bluechip|blue chip|index|nifty|sensex|bse|pure stock|opportunit|midcap|mid cap|smallcap|small cap|multicap|momentum|value|quality|alpha|focused|consumption|infrastructure|pharma|esg|sustainable|top \d+|large cap|largecap|dynamic|accelerator|frontline|innovation|emerging|manufacturing|maximiser|maximizer|aggressive', re.I)
+DEBT_NAME = re.compile(r'bond|debt|liquid|money|income|gilt|secure|stable|conservative|sdl|fixed|protector|preserver|short term|corporate|discontinu|cash|government|treasury|balanced|asset allocation|pension builder|stability', re.I)
+
+
+def eq_min(aa):
+    m = re.search(r'equit[a-z]*\s*(?:\(?[a-z ]*\)?\s*)?:?\s*(\d+)\s*%?\s*(?:-|to|–)\s*(\d+)\s*%', aa or '', re.I)
+    return int(m.group(1)) if m else None
+
+
+i = ridx('index_or_low_cost_funds')
+old_row = rows.pop(i)
+new_rows = [('index_fund_offered', 'status', 'At least one fund tracks a named index (Nifty, BSE, Sensex). Taken from the fund names in the fund list.'),
+            ('lowest_fmc_any_fund', 'value', 'Lowest fund management charge on any fund, excluding the discontinued policy fund (% a year).'),
+            ('lowest_fmc_equity_fund', 'value', 'Lowest fund management charge on an equity fund (% a year). Equity = equity minimum of 60% or more in the stated asset range; where the range is not given, by fund name (method shown).')]
+for j, (fid, kind, lab) in enumerate(new_rows):
+    rows.insert(i + j, {'id': fid, 'group': 'Funds (v4)', 'def': lab, 'new': 'new in v4 (rule 5)', 'kind': kind, 'source_note': 'deep only; funds.fund_list in features/ulip/<UIN>.json'})
+for k in DEEP:
+    fo = fld(deep[k], 'funds.fund_list'); fl = fo.get('value') if isinstance(fo.get('value'), list) else []
+    fl = [x for x in fl if isinstance(x, dict) and not re.search(r'discontinu', x.get('name') or '', re.I)]
+    idx = [x['name'] for x in fl if re.search(r'index|nifty|sensex|\bbse\b', x.get('name') or '', re.I)]
+    setc('index_fund_offered', k, ('B' if idx else ('N' if fl else '?'), ('; '.join(idx) if idx else ('no index fund among ' + str(len(fl)) + ' funds' if fl else 'fund list not read')),
+                                   fo.get('doc'), fo.get('page'), fo.get('quote')), 'rule 5: index fund from fund names')
+    fm = [(x.get('FMC_pct'), x) for x in fl if isinstance(x.get('FMC_pct'), (int, float))]
+    if fm:
+        lo = min(fm, key=lambda t: t[0])
+        setc('lowest_fmc_any_fund', k, ('v', f"{lo[0]:.2f}% ({lo[1]['name']})", fo.get('doc'), fo.get('page'), fo.get('quote')), 'rule 5: lowest FMC any fund')
+        eq = []
+        for v, x in fm:
+            e = eq_min(x.get('asset_allocation'))
+            if e is not None:
+                if e >= 60: eq.append((v, x['name'], 'asset range'))
+            elif EQ_NAME.search(x['name']) and not DEBT_NAME.search(x['name']):
+                eq.append((v, x['name'], 'fund name'))
+        if eq:
+            lo = min(eq)
+            setc('lowest_fmc_equity_fund', k, ('v', f"{lo[0]:.2f}% ({lo[1]}; equity by {lo[2]})", fo.get('doc'), fo.get('page'), fo.get('quote')), 'rule 5: lowest FMC equity fund')
+        else:
+            setc('lowest_fmc_equity_fund', k, ('?', 'no equity fund identified', fo.get('doc'), fo.get('page'), fo.get('quote')), 'rule 5: lowest FMC equity fund')
+    else:
+        lv = pct_max(flat(fld(deep[k], 'charges.fund_management_charge').get('value')))
+        setc('lowest_fmc_any_fund', k, ('v', f"{min(lv):.2f}% (from the FMC field; fund list has no per-fund FMC)" if lv else '', None, None, None), 'rule 5: lowest FMC any fund')
+        setc('lowest_fmc_equity_fund', k, ('?', 'per-fund FMC not in the fund list', None, None, None), 'rule 5: lowest FMC equity fund')
+
+# Scans of all 84 for S3's patterns (official text, quote kept; listed for S3's QA)
+LOAN_NA = re.compile(r'policy loan[^.]{0,60}?(not applicable|not available|not allowed|NA\b|N\.A\.)', re.I)
+LOAN_YES = re.compile(r'policy loans? (is|are) (available|allowed)|you (can|may) (avail|take) a (policy )?loan', re.I)
+MINFUND = re.compile(r'(fund value|policy fund value)[^.]{0,80}?(falls?|is|becomes) (below|less than)[^.]{0,80}?(one|1|an|110%|105%|\d+%)[^.]{0,30}?(annuali[sz]ed|annual|single|instalment)? ?premium[^.]{0,160}?(terminat|foreclos|shall stand)', re.I)
+IALM = re.compile(r'(\d{2,3}(?:\.\d+)?)\s*%\s*of\s*(the\s*)?(Indian Assured Lives? Mortality|IALM)', re.I)
+for k in DEEP:
+    pg = all_pages(k)
+    c = cells.get(('policy_loan', k), EMPTY)
+    if c[0] in ('?', ''):
+        for dt, p_, t in pg:
+            m = LOAN_NA.search(t)
+            if m:
+                setc('policy_loan', k, ('N', 'not applicable', dt, p_, t[max(0, m.start() - 60):m.end() + 40]), 'scan: CIS or policy says policy loan not applicable'); break
+    for fid, rx, why in [('min_fund_termination', MINFUND, 'scan: termination when fund falls below a level'), ('mortality_as_ialm_share', IALM, 'scan: mortality as a % of IALM')]:
+        if cells.get((fid, k), EMPTY)[0] in YES: continue
+        for dt, p_, t in pg:
+            if dt.startswith('cis'): continue
+            m = rx.search(t)
+            if m:
+                setc(fid, k, ('B', 'found by S1 scan, to confirm', dt, p_, t[max(0, m.start() - 80):m.end() + 80]), why); break
+
+# Loose v1 keyword rows: for deep products, pension vesting is read from the IRDAI description line and the maturity benefit
+for k in DEEP:
+    dl = flat(fld(deep[k], 'product.irdai_description_line').get('value'))
+    mb = flat(fld(deep[k], 'benefits.maturity_benefit').get('value')) + ' ' + flat(fld(deep[k], 'benefits.wealth_boosters_or_guaranteed_additions').get('value'))
+    if not re.search(r'pension', dl, re.I):
+        setc('pension_ulip_guaranteed_vesting', k, ('N', 'not a pension product (IRDAI description line)', 'description line', None, dl[:300]), 'loose v1 row: read from description line')
+    else:
+        g = re.search(r'assured vesting|guarantee[d]? (vesting|maturity)|101%|minimum vesting|capital guarantee', mb, re.I)
+        setc('pension_ulip_guaranteed_vesting', k, ('B' if g else '?', ('pension ULIP; ' + (g.group(0) if g else 'no vesting guarantee read in the deep data')), 'description line', None, dl[:300]), 'loose v1 row: read from description line')
+rows[ridx('tax_benefit_mention')]['source_note'] += '; v4: a mention of tax benefits only, not a product feature. Do not use for has/lacks claims.'
 
 # headline charge numbers (deep)
 CH = []
@@ -469,21 +617,19 @@ def sheet(title, header, data, widths=None, note=None):
 ws = wb.create_sheet('README')
 ws.column_dimensions['A'].width = 140
 L = [
-    'ULIP feature list v3 (4 Nov 2026): all 84 deep-discovery ULIPs',
-    f'{nD + nB} ULIPs from {len(set(p["insurer"] for p in products.values()))} insurers. {nD} have deep-discovery data (policy document, CIS and brochure, read field by field); {nB} still use the v1 brochure keyword scan.',
-    'Deep products so far: ' + ', '.join(sorted(set(products[k]['insurer'] for k in DEEP))) + '. The other wave 1 insurers (Tata AIA, Bajaj, Axis Max, LIC, ABSLI, Canara HSBC) and wave 2 (ICICI, Kotak) will turn this into v3.',
-    'WHAT IS NEW IN V2:',
-    f'1. For deep products every feature has a type: B built-in, O optional, R rider, N not offered, ? not stated in public documents. v1 only said "mentioned in the brochure".',
-    f'2. {sum(1 for r in rows if r["group"] not in ("v1 feature", "New feature (deep pass)"))} new rows from the deep schema: exact charges, eligibility, fund count, lock-in, revival, policy loan, death benefit formula and more.',
-    f'3. {len(NEW_FEAT)} new features found by reading policy documents (tab "New features"), each with the products that have it and a quote. These were not in v1.',
-    '4. A "v1 corrections" tab lists every place where the deep data disagrees with the v1 brochure flag.',
+    'ULIP feature list v4 (5 Nov 2026): 84 deep-discovery ULIPs plus 57 with brochure data only',
+    f'{nD + nB} ULIPs from {len(set(p["insurer"] for p in products.values()))} insurers. {nD} have deep-discovery data (policy document, CIS and brochure, read field by field); {nB} use the v1 brochure keyword scan.',
+    'WHAT CHANGED FROM V3:',
+    '1. S3\'s QA of Bharti: 63 cell corrections applied (tab "QA overrides", file analysis/v3/s3_overrides.csv).',
+    '2. Riders: S2 downloaded and read the 30 riders our 84 ULIPs name. Waiver of premium, critical illness, accidental death and disability are coded R where only a rider gives them, and an earlier R that came only from a rider name is now "?" where the rider documents show no such benefit (tab "Rider recoding").',
+    '3. Coding rules decided by the user on 5 Nov (analysis/v3/coding_rules.md, tab "v4 changes"): additions are split by basis, % of premium or % of fund value, and the "scheduled guaranteed additions" row is retired; payor waiver needs the payer\'s own event as the trigger; same loyalty design gets the same code; online or direct terms go to lower_charges_online; index funds and the lowest fund charges replace "index or low-cost funds".',
+    '4. Scans of all 84 for S3\'s error patterns: policy loan "not applicable" on the CIS or policy, termination when the fund falls below a level, mortality as a % of IALM. Scan results say "to confirm". The loose v1 row "pension ULIP with guaranteed vesting" is now read from the IRDAI description line. "Tax benefit mention" is a mention only and is not used for has/lacks claims.',
+    '5. S3 checks v4 with qa/s3_v4/v4_qa_workbook.xlsx. Treat v4 as a draft until that QA is in.',
     'CODES IN THE MATRIX:',
-    'B built-in · O optional · R rider · N not offered · ? not stated in public documents · Y mentioned in brochure (v1, type unknown) · - not found in brochure · K keyword found in the brochure or policy text, not yet verified by reading.',
-    'Counts for new features use deep products only (n of ' + str(nD) + '). K hits show where the feature may also exist; they are leads for the deep pass, not counts.',
-    'TABS: Features (one row each, counts, Bharti has/lacks) · Matrix (products x features) · Charges (headline numbers) · New features · v1 corrections · Evidence · Products.',
-    'NEW-FEATURE COUNTS: every deep product\'s policy document and brochure were searched for each new feature (analysis/v3/new_feature_candidates.csv); S1 read each match and kept or rejected it with a reason (analysis/v3/new_feature_verdicts.csv). For deep products a blank means searched and not found. Four groups have no search pattern and count only what S2 recorded: loyalty design variants, premium cap, admin charge waived in some years, increasing cover.',
-    'EVIDENCE STRENGTH: on the Evidence tab, deep cells are marked strong (the quote shows the value) or weak (the quote is a label or nearby line; the value is still from the cited page). The Products tab counts both per product. Weak quotes get redone at the end of deep wave 1.',
-    'Sources: features/ulip/<UIN>.json (deep, each value with document label, page and quote), analysis/product_features_v1.csv (brochure). Rebuild: python3 -I analysis/scripts/build_ulip_v2.py <repo>.',
+    'B built-in · O optional · R rider · N not offered · ? not stated in public documents · Y mentioned in brochure (v1, type unknown) · - not found in brochure · K keyword found, not verified · v a value.',
+    'Counts for new features use deep products only (n of ' + str(nD) + ').',
+    'TABS: Features (one row each, counts, Bharti has/lacks) · Matrix · Charges · New features · v1 corrections · QA overrides · v4 changes · Rider recoding · Evidence · Products.',
+    'Sources: features/ulip/<UIN>.json, features/riders/<UIN>.json, results/ulip_rider_benefits.csv, analysis/v4/additions_basis.csv, analysis/product_features_v1.csv. Rebuild: python3 -I analysis/scripts/additions_basis.py <repo>, then python3 -I analysis/scripts/build_ulip_features.py <repo>.',
 ]
 for i, l in enumerate(L, 1):
     c = ws.cell(i, 1, l); c.alignment = WR
@@ -541,6 +687,8 @@ sheet('v1 corrections', ['Insurer', 'Product', 'UIN', 'Feature', 'Difference', '
 
 sheet('QA overrides', ['Insurer', 'Product', 'UIN', 'Feature', 'Code before', 'Code after', 'Value after', 'File', 'Source'], OVR_APPLIED,
       {2: 30, 4: 30, 7: 60, 8: 22, 9: 22}, note='Corrections from QA rounds (analysis/v3/*_overrides.csv). They replace the cell built from the deep data. UNSURE items are not here: they wait for a coding rule.')
+sheet('v4 changes', ['Insurer', 'Product', 'UIN', 'Feature', 'Code before', 'Code after', 'Value after', 'Rule or scan'], V4_LOG, {2: 30, 4: 28, 7: 60, 8: 40},
+      note='Every cell the v4 rules (analysis/v3/coding_rules.md, decided 5 Nov 2026) and the S1 scans changed. Scan results say "to confirm": S3 checks them in qa/s3_v4.')
 sheet('Rider recoding', ['Insurer', 'Product', 'UIN', 'Feature', 'Code before', 'Code after', 'Riders / note'], RIDER_APPLIED, {2: 30, 4: 30},
       note='From S2 rider discovery (results/ulip_rider_benefits.csv, built from features/riders/*.json). R = the ULIP gives the feature only through a rider it names. R to ? = an earlier R came from a rider name, but the rider documents show no such benefit.')
 EV = []
@@ -557,14 +705,16 @@ sheet('Evidence', ['Insurer', 'Product', 'UIN', 'Feature', 'Code', 'Value', 'Doc
 sheet('Products', ['Insurer', 'Product', 'UIN', 'Data source', 'Sub-segment (v1)', 'Deep cells: strong quote', 'Deep cells: weak quote'],
       [[products[k]['insurer'], products[k]['name'], k, products[k]['src'], products[k]['sub'], WEAK[k]['strong'] or '', WEAK[k]['weak'] or ''] for k in keys], {1: 22, 2: 45, 5: 36})
 
-out = os.path.join(A, 'feature_list_ulip_v3.xlsx')
+out = os.path.join(A, 'feature_list_ulip_v4.xlsx')
 wb.save(out)
-with open(os.path.join(A, 'product_features_ulip_v3.csv'), 'w', newline='', encoding='utf-8') as f:
+with open(os.path.join(A, 'product_features_ulip_v4.csv'), 'w', newline='', encoding='utf-8') as f:
     w = csv.writer(f); w.writerow(['uin', 'insurer', 'product', 'source', 'feature', 'code', 'value', 'doc', 'page', 'quote'])
     for r in rows:
         for k in keys:
             c = cells.get((r['id'], k), ('', '', None, None, None))
             w.writerow([k, products[k]['insurer'], products[k]['name'], products[k]['src'], r['id'], c[0], c[1], c[2] or '', c[3] or '', c[4] or ''])
 print('products', nD + nB, 'deep', nD, 'rows', len(rows), 'evidence', len(EV), 'corrections', len(corr), 'kw leads', dict(kw_count))
-print('overrides', len(OVR_APPLIED), 'rider recodes', len(RIDER_APPLIED))
+with open(os.path.join(A, 'v4', 'v4_changes.csv'), 'w', newline='', encoding='utf-8') as f:
+    w = csv.writer(f); w.writerow(['insurer', 'product', 'uin', 'feature', 'code_before', 'code_after', 'value_after', 'rule_or_scan']); w.writerows(V4_LOG)
+print('v4 changes', len(V4_LOG)); print('overrides', len(OVR_APPLIED), 'rider recodes', len(RIDER_APPLIED))
 print('unmapped new features:', [(k, n['feature']) for k, n in unmapped])

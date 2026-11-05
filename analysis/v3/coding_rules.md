@@ -1,4 +1,6 @@
-# Coding rules for feature list v3 (proposed 5 Nov 2026, waiting for the user)
+# Coding rules for the ULIP feature list (proposed 5 Nov 2026; decided by the user the same day, applied in v4)
+
+**Decisions (user, 5 Nov 2026).** Rule 2: option (b). Rules 1, 3, 4 and 5: as proposed. All ten judgement calls are also in `for-your-attention/questions_for_seniors.md`, section E, for a senior to confirm.
 
 S3's v3 QA marked 17 Bharti cells UNSURE. Each needs a rule, because the definition allows two answers. Every rule below applies to all 84 ULIPs, not only Bharti. Once the user accepts a rule, S1 codes the cells through an overrides file and rebuilds.
 

@@ -45,3 +45,10 @@ This file explains how each output is produced, which script does it, and why we
 - `build_ulip_features.py` applies, in this order: the deep data, then the rider map (`results/ulip_rider_map.csv`: a feature the ULIP does not give itself but a rider it names covers becomes R), then every `analysis/v3/*_overrides.csv`. Tabs "QA overrides" and "Rider recoding" list each change.
 - `build_ulip_comparison.py` reads corrected cells from `product_features_ulip_v3.csv`, so run it after `build_ulip_features.py`.
 - Universal rider list from the Council sheet: `analysis/scripts/build_rider_list_council.py` writes `analysis/riders/rider_list_council.csv` and `.xlsx` (225 riders). Tally against S2's list by UIN when it lands.
+
+## Feature list v4 (5 Nov 2026)
+- Order of steps in `build_ulip_features.py`: deep data; riders (`results/ulip_rider_benefits.csv`); QA overrides (`analysis/v3/*_overrides.csv`, `analysis/v4/*_overrides.csv`); v4 rules and scans. Outputs `analysis/feature_list_ulip_v4.xlsx`, `product_features_ulip_v4.csv` and `analysis/v4/v4_changes.csv` (one row per cell the rules or scans changed). v3 files are kept as they were.
+- Run `analysis/scripts/additions_basis.py` first: it writes `analysis/v4/additions_basis.csv` (rule 2, option b) from the deep additions fields, with reviewed exclusions in the script.
+- Rules: `analysis/v3/coding_rules.md`. Judgement calls for seniors: `for-your-attention/questions_for_seniors.md`, section E.
+- QA: `qa/s3_v4/` (brief, builder, workbook; 887 rows).
+- Calculator: SBI Smart Fortune Builder now includes its periodic Guaranteed Additions (policy p27); net yield at 8% excl. GST moved from 6.00% to 6.16%.

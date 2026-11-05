@@ -34,3 +34,18 @@ Context: we classify about 630 individual life products from each brochure's IRD
     - annuity: 60-year-old, ₹10 L.
 
     Are these representative?
+
+## E. Feature coding rules (ULIP feature list v4)
+We had to make these calls to code the features. Each has a working rule, decided by the user on 5 Nov 2026 (`analysis/v3/coding_rules.md`). We would like a senior to confirm or correct it, because it changes the counts and the Bharti has/lacks claims.
+
+20. **"Guaranteed" additions.** In a ULIP every addition written into the contract is payable once its conditions are met, so "guaranteed additions" looks like a marketing label. We now split additions by what they are a % of: premium (the rupee amount is known at the start) or fund value (it moves with the market). We no longer count "guaranteed" separately. Is that how the industry would read it?
+21. **Payor waiver.** We count a payor (parent) waiver only when the payer's own death, illness or disability triggers it, not when the payer may merely opt in. Agree?
+22. **Bharti's Linked Complete Shield Rider (130A012V02).** Its waiver option says "all future premiums for the base cover ... shall be waived". Does this waive the ULIP's premium, or only the rider's own? A question for a Bharti contact.
+23. **Same rider, payor case.** If the policyholder and the life insured differ (a parent buying for a child), whose disability or critical illness triggers that waiver? A question for a Bharti contact.
+24. **Features through riders.** We count a feature available through a rider (a separate premium, often separate underwriting) as "has it", shown as R next to built-in (B) and optional (O). Should a rider count the same as a built-in feature when we say "X of 84 offer waiver of premium"?
+25. **Riders that waive only their own premium** (HDFC Protect Plus and Health Plus, Bajaj Care Plus) do not count as waiver of the ULIP premium. A rider that waives premiums on critical illness (SBI) does not count as critical illness cover. Agree?
+26. **Term rider and accidental death.** A term rider pays on any death, so we do not count it as accidental death cover. Agree?
+27. **Online terms vs customer types.** Cheaper terms for online or direct purchase are one feature. Extra benefits for women, staff, existing customers or auto-pay payers are another. A clause for "staff or online" counts in both. Agree?
+28. **Low-cost funds.** We show "index fund offered", "lowest FMC on an equity fund" and "lowest FMC on any fund" instead of a yes/no "low-cost fund". Is the lowest equity-fund FMC the comparison customers and distributors look at, or is there a market threshold (for example 1.00%)?
+29. **Fund-floor top-ups.** Tata's and Axis's "Cover Continuance Booster" tops up the fund only if it falls below a level. We do not count it as an addition. Agree?
+30. **"Not stated" vs "not offered".** We say a product lacks a feature only when its documents say it is not available. Silence is "not stated", and "Bharti lacks X" claims use only "not offered". Is that the right standard for a client deck, or would a senior read silence as "not offered"?

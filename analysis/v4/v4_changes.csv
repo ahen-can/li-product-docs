@@ -1,0 +1,477 @@
+insurer,product,uin,feature,code_before,code_after,value_after,rule_or_scan
+Bharti Life,Bharti AXA Life Grow Wealth Ultra,130L128V01,additions_pct_of_premium,,B,"Only for: auto-pay only; women only. rule: female lives, at maturity: single pay 5% / 10% of AP (PT up to / over 15); other 50% / 100% of AP | rule: premiums by ECS: 5% / 10% of AP (PT up to / over 10",rule 2: additions by basis
+Aditya Birla Sun Life,ABSLI Fortune Wealth Plan,109L143V01,additions_pct_of_premium,,B,Only for: by premium band. every 5th anniversary from the 10th: band 1: 2% of annualized premiums paid in the last 60 months | every 5th anniversary from the 10th: band 2 and 3: 2.5% of annualized pre,rule 2: additions by basis
+Ageas Federal Life,Ageas Federal Life Insurance Golden Years Pension Plan,135L100V01,additions_pct_of_premium,,B,percent of annualized premium by premium paying term: 1 and 6: 2.00% | percent of annualized premium by premium paying term: 8: 2.20% | percent of annualized premium by premium paying term: 10 and 11:,rule 2: additions by basis
+Ageas Federal Life,Ageas Federal Life Insurance Platinum Wealth Builder Plan,135L089V02,additions_pct_of_premium,,B,rate: 8.0% of annualized premium | rate: 2.0% of instalment premium,rule 2: additions by basis
+Bajaj Life,Bajaj Life Fortune Gain II,116L196V05,additions_pct_of_premium,,B,"Only for: single pay only. basis: % of single premium, added at maturity",rule 2: additions by basis
+Bajaj Life,Bajaj Life Goal Based Saving III,116L206V01,additions_pct_of_premium,,B,Only for: single pay only. Additional Allocation: single: 1% of SP,rule 2: additions by basis
+Bajaj Life,Bajaj Life LongLife Goal III,116L203V01,additions_pct_of_premium,,B,end of years 10 to 14: 4% of one annualized premium each year,rule 2: additions by basis
+HDFC Life,HDFC Life Click 2 Wealth,101L133V03,additions_pct_of_premium,,B,Special Additions: regular/limited: 1% of AP at each allocation in years 1-5 | Special Additions: single: 1% of SP once,rule 2: additions by basis
+HDFC Life,HDFC Life Sampoorn Nivesh Plus,101L180V01,additions_pct_of_premium,,B,Only for: online or direct only. direct marketing channel: Loyalty Reward at maturity of 1.5% x policy term x AP,rule 2: additions by basis
+HDFC Life,HDFC Life Smart Protect Plus,101L187V04,additions_pct_of_premium,,B,"Only for: high cover only. Maturity Booster: 1x AP (PPT 5-7) or 2x AP (PPT 8+) at maturity, only if SA > 30x AP",rule 2: additions by basis
+HDFC Life,HDFC Life Smart Woman,101L082V03,additions_pct_of_premium,,B,allocation rate of 102.5% in years 11-15 (2.5% of premium added),rule 2: additions by basis
+LIC,LIC's Index Plus,512L354V01,additions_pct_of_premium,,B,"Guaranteed Additions (% of one annualized premium): end of year 6: below Rs 48,000: 3% | Guaranteed Additions (% of one annualized premium): end of year 6: Rs 48,000 and above: 5% | Guaranteed Additio",rule 2: additions by basis
+LIC,LIC's New Pension Plus,512L347V01,additions_pct_of_premium,,B,Guaranteed Additions (% of one annual premium / % of single premium): 6th year: 5.00% / 4.00% | Guaranteed Additions (% of one annual premium / % of single premium): 10th year: 10.00% / 5.00% | Guaran,rule 2: additions by basis
+LIC,LIC's SIIP,512L334V02,additions_pct_of_premium,,B,Guaranteed Additions (% of one annualized premium): end of year 6: 5% | Guaranteed Additions (% of one annualized premium): year 10: 10% | Guaranteed Additions (% of one annualized premium): year 15: ,rule 2: additions by basis
+LIC,LIC’s Nivesh Plus,512L317V02,additions_pct_of_premium,,B,Only for: single pay only. Guaranteed Additions (% of single premium): end of year 6: 3% | Guaranteed Additions (% of single premium): year 10: 4% | Guaranteed Additions (% of single premium): year 15,rule 2: additions by basis
+SBI Life,SBI Life - Smart Fortune Builder,111L142V01,additions_pct_of_premium,,B,"Guaranteed Additions as % of AP or SP at the end of years 10, 15, 20, 25, 30 (limited pay 10: 10/15/25/35/40%; regular: 15/15/30/40/50%); plus Guaranteed Addition on Maturity 0/5/10% of AP by premium ",rule 2: additions by basis
+SBI Life,SBI Life - Smart Invest Builder,111L153V01,additions_pct_of_premium,,B,"Only for: by premium band. Guaranteed Additions, % of AP at end of years 10/15/20/25/30: regular: 15/15/30/40/50 (150% total at PT 30) | Guaranteed Additions, % of AP at end of years 10/15/20/25/30: l",rule 2: additions by basis
+Tata AIA Life,TATA AIA Smart SIP,110L174V02,additions_pct_of_premium,,B,Only for: women only. Smart Lady: women: 0.50% of first-year AP or 0.25% of SP added at allocation,rule 2: additions by basis
+Tata AIA Life,Tata AIA Life Insurance Fortune Pro,110L112V07,additions_pct_of_premium,,?,"additions exist, basis not read",rule 2: additions by basis
+Tata AIA Life,Tata AIA Shubh SIP,110L190V01,additions_pct_of_premium,,B,Only for: women only. Smart Lady: women: 0.50% of first-year AP or 0.25% of SP added at allocation,rule 2: additions by basis
+Tata AIA Life,Tata AIA Shubh Wealth,110L188V01,additions_pct_of_premium,,B,Only for: women only. Smart Lady: women: 0.50% of instalment premium or 0.25% of SP at first allocation,rule 2: additions by basis
+Tata AIA Life,Tata AIA Smart Fortune Plus,110L177V01,additions_pct_of_premium,,B,Only for: women only. Smart Lady: women: 0.50% of first-year AP or 0.25% of SP,rule 2: additions by basis
+Tata AIA Life,Tata AIA Smart Raksha,110L187V01,additions_pct_of_premium,,B,Only for: women only. Smart Lady: women: 0.50% of instalment premium or 0.25% of SP at first allocation,rule 2: additions by basis
+Tata AIA Life,Tata AIA Smart Sampoorna Raksha Pro,110L172V03,additions_pct_of_premium,,B,Only for: women only. Smart Lady: women: 0.50% of instalment premium or 0.25% of SP at first allocation,rule 2: additions by basis
+Tata AIA Life,Tata AIA Smart Sampoorna Raksha Supreme,110L179V02,additions_pct_of_premium,,B,Only for: women only. Smart Lady: women: 0.50% of instalment premium or 0.25% of SP at first allocation,rule 2: additions by basis
+Tata AIA Life,Tata AIA i Systematic Insurance Plan,110L164V11,additions_pct_of_premium,,B,Only for: women only. Smart Lady: for female lives 0.50% of the annualised premium (0.25% of a single premium) added at the first allocation,rule 2: additions by basis
+Bharti Life,Bharti AXA Life Dream Shield Plus,130L125V01,additions_pct_of_fund,,B,"name: Loyalty Booster at maturity, % of the 3-year average fund value | name: Milestone Benefit, % of fund value",rule 2: additions by basis
+Bharti Life,Bharti AXA Life Grow Wealth,130L088V04,additions_pct_of_fund,,B,"0.7% of fund value at the end of each year from year 6 to one year before maturity, and 1.4% at maturity (PT 5: maturity addition only)",rule 2: additions by basis
+Bharti Life,Bharti AXA Life Grow Wealth Ultra,130L128V01,additions_pct_of_fund,,B,Wealth Plan: Loyalty Booster at maturity = 5% of the average fund value of the preceding 60 months,rule 2: additions by basis
+Bharti Life,Bharti AXA Life Growth Shield Plus,130L123V01,additions_pct_of_fund,,B,"basis: % of the 3-year average fund value, at maturity",rule 2: additions by basis
+Bharti Life,Bharti AXA Life Wealth Maximizer,130L121V01,additions_pct_of_fund,,B,rate: 0.20% of policy fund value,rule 2: additions by basis
+Bharti Life,Bharti AXA Life Wealth Pro,130L100V03,additions_pct_of_fund,,B,Legacy: rate: 0.75% of policy fund value | end of year 5: 0.25% of policy fund value | at maturity: 1.25% of policy fund value (Growth: before adding back RoMC and RoPAC),rule 2: additions by basis
+Aditya Birla Sun Life,ABSLI Fortune Wealth Plan,109L143V01,additions_pct_of_fund,,B,Only for: by premium band. percent of average policy fund value over the last 12 months: anniversaries 6 to 10: band 1: 0% | percent of average policy fund value over the last 12 months: anniversaries,rule 2: additions by basis
+Aditya Birla Sun Life,ABSLI Platinum Gain Plan,109L142V01,additions_pct_of_fund,,B,"Only for: by premium band. band 1: 0.10% of fund value at the end of year 11, rising 0.05% a year to the end of the term",rule 2: additions by basis
+Aditya Birla Sun Life,ABSLI Smart Wealth Pension Plan,109L157V01,additions_pct_of_fund,,B,"basis: average fund value of the last 24 months, from the end of year 6",rule 2: additions by basis
+Aditya Birla Sun Life,ABSLI Wealth Aspire Plan,109L100V06,additions_pct_of_fund,,B,Only for: by premium band. percent of average policy fund value over the last 12 months: anniversaries 6 to 10: band 1: 0% | percent of average policy fund value over the last 12 months: anniversaries,rule 2: additions by basis
+Aditya Birla Sun Life,ABSLI Wealth Infinia,109L129V03,additions_pct_of_fund,,B,Only for: by premium band. Legacy limited pay: band 1: 0.10% of fund value yearly from year 16,rule 2: additions by basis
+Aditya Birla Sun Life,ABSLI Wealth Max Plan,109L073V05,additions_pct_of_fund,,B,"Guaranteed Additions: policy anniversaries 6 to 10: 0.25% of the average policy fund value over the last 12 months | Guaranteed Additions: from the 11th anniversary, every year: 0.60% of the average p",rule 2: additions by basis
+Aditya Birla Sun Life,ABSLI Wealth Secure Plan,109L074V05,additions_pct_of_fund,,B,"from 11th anniversary, every year: 0.20% of the average policy fund value over the last 12 months",rule 2: additions by basis
+Ageas Federal Life,Ageas Federal Life Insurance ProGrow Plan,135L101V01,additions_pct_of_fund,,B,rate: 1% of the average fund value over the last 60 months,rule 2: additions by basis
+Ageas Federal Life,Ageas Federal Life Insurance Smart Growth Plan,135L053V07,additions_pct_of_fund,,B,rate: 0.5% of the average fund value over the last 36 months,rule 2: additions by basis
+Ageas Federal Life,Ageas Federal Life Insurance Wealth Gain Insurance Plan,135L047V06,additions_pct_of_fund,,B,rate: 1% of the average fund value in the last 36 months,rule 2: additions by basis
+Ageas Federal Life,Ageas Federal Life Insurance Wealthsurance Growth Insurance Plan SP II,135L082V02,additions_pct_of_fund,,B,rate: 3% of the average fund value in the last 36 months,rule 2: additions by basis
+Axis Max Life,Axis Max Life Fast Track Super,104L082V06,additions_pct_of_fund,,B,"rate: 0.30% of fund value at the end of each policy year from year 11, rising 0.02% (absolute) each year",rule 2: additions by basis
+Axis Max Life,Axis Max Life Flexi Wealth Advantage Plan,104L121V05,additions_pct_of_fund,,B,basis: % of fund value,rule 2: additions by basis
+Axis Max Life,Axis Max Life Flexi Wealth Plus,104L115V04,additions_pct_of_fund,,B,Only for: by premium band. basis: % of total fund value | Guaranteed Wealth Booster: band 2 and 3: 2.00% of fund value,rule 2: additions by basis
+Axis Max Life,Axis Max Life Forever Young Pension Plan,104L075V11,additions_pct_of_fund,,B,"rate: 0.50% of fund value at the end of each policy year from year 10, rising 0.02% (absolute) a year from year 11",rule 2: additions by basis
+Axis Max Life,Axis Max Life Platinum Wealth Plan,104L133V01,additions_pct_of_fund,,B,"Only for: by premium band. band 1 (annualized premium below Rs 5 lakh): 0.10% of fund value from the end of year 11, rising 0.05% (absolute) each year | Guaranteed Wealth Booster: band 1: 2% of fund v",rule 2: additions by basis
+Axis Max Life,Axis Max Life Shiksha Plus Super,104L084V20,additions_pct_of_fund,,B,"rate: 0.20% of fund value at the end of each policy year from year 11, rising 0.02% (absolute) a year",rule 2: additions by basis
+Axis Max Life,Axis Max Life Smart Term with Additional Returns ULIP,104L128V01,additions_pct_of_fund,,B,Guaranteed Wealth Booster: 3% of fund value at the end of year 20 and every 5 years after,rule 2: additions by basis
+Bajaj Life,Bajaj Life Future Wealth Gain IV,116L202V01,additions_pct_of_fund,,B,Only for: by premium band; existing customers or family. rate: 1% of the 3-year average regular premium fund value (all premium bands) | Family Benefit: for family members of existing Bajaj Life custo,rule 2: additions by basis
+Bajaj Life,Bajaj Life GAIN,116L213V02,additions_pct_of_fund,,B,"Only for: existing customers or family. Family Benefit: family members of existing customers: 0.5% (PT < 20) or 1% (PT >= 20) of the 3-year average fund, at maturity",rule 2: additions by basis
+Bajaj Life,Bajaj Life Goal Assure IV,116L204V01,additions_pct_of_fund,,B,"Only for: existing customers or family. basis: % of the 3-year average regular premium fund value | Fund Booster: 2% of the 3-year average regular premium fund value, at maturity (policy term 10+) | F",rule 2: additions by basis
+Bajaj Life,Bajaj Life Invest Protect Goal Plus,116L215V01,additions_pct_of_fund,,B,basis: average daily regular premium fund value over the previous 3 years,rule 2: additions by basis
+Bajaj Life,Bajaj Life Magnum Fortune Plus III,116L207V02,additions_pct_of_fund,,B,basis: average fund value of the last 3 policy years | Maturity Booster: basis: average regular premium fund value of the last 3 years,rule 2: additions by basis
+Bajaj Life,Bajaj Life Smart Pension,116L209V08,additions_pct_of_fund,,B,"rate: 0.25% of the average fund value of the last 3 policy years | Vesting Booster: 2% of average fund value of the last 3 years, at the end of the term",rule 2: additions by basis
+Bajaj Life,Bajaj Life Smart Wealth Goal VII,116L218V01,additions_pct_of_fund,,B,"Fund Booster (regular/limited): 2% of the average daily fund value of the previous 3 years, at the end of year 15 and every 5th year to the end of the term (max year 60)",rule 2: additions by basis
+Bajaj Life,Bajaj Life Supreme,116L211V02,additions_pct_of_fund,,B,rate: 0.25% of the average fund value of the last 3 years,rule 2: additions by basis
+Canara HSBC Life,Canara HSBC Life Insurance Alpha Wealth,136L088V02,additions_pct_of_fund,,B,"0.5% of the average fund value of the previous 12 monthly anniversaries, added each year from the 6th policy year to the end of the term | end of year 10: 2.90% of the average fund value of the last 6",rule 2: additions by basis
+Canara HSBC Life,Canara HSBC Life Insurance EZ Pension,136L094V01,additions_pct_of_fund,,B,"Only for: by premium band. maturity booster, percent of the average fund value of the last 60 monthly anniversaries: limited and regular pay (annual premium below / at least Rs 2 lakh): policy term 15",rule 2: additions by basis
+Canara HSBC Life,Canara HSBC Life Insurance Legacy Builder,136L095V01,additions_pct_of_fund,,B,"Only for: by premium band. basis: average fund value (including top-up) of the last 60 monthly anniversaries | maturity booster, percent of the average fund value of the last 60 monthly anniversaries:",rule 2: additions by basis
+Canara HSBC Life,Canara HSBC Life Insurance Promise4Growth,136L089V02,additions_pct_of_fund,,B,"equity, index, Growth Plus and Balanced Plus funds: 0.50% of the fund average over the last 60 monthly anniversaries | timing: end of the 10th policy year and every 5th year to the end of the term; pe",rule 2: additions by basis
+Canara HSBC Life,Canara HSBC Life Insurance Promise4Growth Plus,136L093V01,additions_pct_of_fund,,B,"all equity, index, thematic, Growth Plus and Balanced Plus funds: 0.50% of the fund average over the last 60 monthly anniversaries | timing: end of the 10th policy year and every 5th year to the end o",rule 2: additions by basis
+Canara HSBC Life,Canara HSBC Life Insurance Promise4Wealth,136L096V01,additions_pct_of_fund,,B,"equity, index, thematic, Growth Plus and Balanced Plus funds: 0.50% of the fund average over the last 60 monthly anniversaries | timing: end of the 10th policy year and every 5th year to the end of th",rule 2: additions by basis
+Canara HSBC Life,Canara HSBC Life Insurance SecureInvest,136L092V02,additions_pct_of_fund,,B,timing: end of every 5th policy year from the 10th policy year to the end of the term; percent of the fund average over the last 60 monthly anniversaries | basis: percent of the fund average over the ,rule 2: additions by basis
+Canara HSBC Life,Canara HSBC Life Insurance Wealth Edge,136L085V04,additions_pct_of_fund,,B,rate: 0.5% of the average fund value of the last 12 monthly policy anniversaries | basis: percent of the average fund value of the last 60 monthly policy anniversaries,rule 2: additions by basis
+HDFC Life,HDFC Life Click 2 Invest Plus,101L191V02,additions_pct_of_fund,,B,"Only for: high cover only. Loyalty: Fund Value Enhancer every 5 years from year 10: 0.15% of the 12-month average fund value (years 10-25), 0.25% (26+) | Loyalty Plus: 1% of the 12-month average fund ",rule 2: additions by basis
+HDFC Life,HDFC Life Sampoorn Nivesh Plus,101L180V01,additions_pct_of_fund,,B,"timing: every alternate year from the end of year 11, % of 12-month average fund value",rule 2: additions by basis
+HDFC Life,HDFC Life Smart Pension Plan,101L164V09,additions_pct_of_fund,,B,Only for: by premium band. each year from year 10: 0.25% (years 10-19) and 0.5% (20+) of the average fund value; only single premium policies and those with AP of Rs 1 lakh or more,rule 2: additions by basis
+SBI Life,SBI Life - Retire Smart Plus,111L135V02,additions_pct_of_fund,,B,"0.30% of the 12-month average fund value at the end of year 15 and every year after, until vesting; not for terms of 10-14 years | terminal addition of 1.5% of fund value on death or vesting",rule 2: additions by basis
+SBI Life,SBI Life - Smart Privilege Plus,111L143V01,additions_pct_of_fund,,B,basis: % of the 12-month average fund value,rule 2: additions by basis
+SBI Life,SBI Life - Smart Scholar Plus,111L144V01,additions_pct_of_fund,,B,"1% of the 24-month average fund value at the end of year 8, 9 or 10 (by policy term) and every 3 years after; continue after the parent's death",rule 2: additions by basis
+Tata AIA Life,TATA AIA Smart SIP,110L174V02,additions_pct_of_fund,,B,"Only for: online or direct only. online/digital, options 2-4: 0.10% of the 8-quarter average fund value each year from the end of year 6 | Maturity Booster (online/digital): term 10-14: 0.50% (Wealth)",rule 2: additions by basis
+Tata AIA Life,Tata AIA Life Insurance Fortune Maxima,110L113V09,additions_pct_of_fund,,B,Only for: online or direct only. online/digital only: Fund Booster at maturity of 1% (term up to 14) rising by 1 point per 5 years of term to 10% (55+) of the 8-quarter average fund value,rule 2: additions by basis
+Tata AIA Life,Tata AIA Life Insurance Fortune Pro,110L112V07,additions_pct_of_fund,,?,"additions exist, basis not read",rule 2: additions by basis
+Tata AIA Life,Tata AIA Life Insurance Wealth Maxima,110L114V05,additions_pct_of_fund,,B,Only for: online or direct only. online/digital only: Fund Booster at maturity of 1% (term up to 14) rising by 1 point per 5 years of term to 10% (55+) of the 8-quarter average fund value,rule 2: additions by basis
+Tata AIA Life,Tata AIA Life Insurance Wealth Pro,110L111V05,additions_pct_of_fund,,B,Only for: online or direct only. online/digital only: Fund Booster at maturity of 1% (term up to 14) rising by 1 point per 5 years of term to 10% (55+) of the 8-quarter average fund value,rule 2: additions by basis
+Tata AIA Life,Tata AIA Shubh SIP,110L190V01,additions_pct_of_fund,,B,Only for: existing customers or family; online or direct only. Future and Family Secure: 0.10% of the 8-quarter average fund value each year from the end of year 6 | Maturity Booster (online/digital):,rule 2: additions by basis
+Tata AIA Life,Tata AIA Smart Fortune Plus,110L177V01,additions_pct_of_fund,,B,Maturity Booster: options 1 and 3 / 2 and 4: 1.0/2.0% (term up to 14) rising to 10.0/11.0% (55+) of the 8-quarter average fund,rule 2: additions by basis
+Tata AIA Life,Tata AIA Smart Pension Secure,110L182V09,additions_pct_of_fund,,B,"Option 2: 0.10% of the 8-quarter average fund value each year from the end of year 6 | Vesting Booster: by term 10-14 / 15-19 / 20-24 / 25+: Option 2 1.25 / 2.25 / 3.25 / 4.25%, Option 1 up to 3.50% (",rule 2: additions by basis
+Tata AIA Life,Tata AIA Smart Sampoorna Raksha Pro,110L172V03,additions_pct_of_fund,,B,Only for: online or direct only. Fund Booster (online): 3% (term up to 24) rising to 10% (40+) of 8-quarter average fund,rule 2: additions by basis
+Tata AIA Life,Tata AIA Smart Sampoorna Raksha Supreme,110L179V02,additions_pct_of_fund,,B,Only for: online or direct only. Fund Booster (online): 3% (term up to 24) rising to 10% (40+) of 8-quarter average fund,rule 2: additions by basis
+Tata AIA Life,Tata AIA i Systematic Insurance Plan,110L164V11,additions_pct_of_fund,,B,timing: every 5th policy year from the end of the 10th year to the end of the term; percent of the average fund value over the last eight policy quarters,rule 2: additions by basis
+Axis Max Life,Axis Max Life Fast Track Super,104L082V06,child_payor_benefit,Y,R,"payor waiver via rider: 104A049V03: yes (payor benefit, death or terminal illness only)",rule 1: payor benefit through a rider
+Axis Max Life,Axis Max Life Flexi Wealth Advantage Plan,104L121V05,child_payor_benefit,Y,R,"payor waiver via rider: 104A049V03: yes (payor benefit, death or terminal illness only)",rule 1: payor benefit through a rider
+Axis Max Life,Axis Max Life Flexi Wealth Plus,104L115V04,child_payor_benefit,Y,R,"payor waiver via rider: 104A049V03: yes (payor benefit, death or terminal illness only)",rule 1: payor benefit through a rider
+Axis Max Life,Axis Max Life Forever Young Pension Plan,104L075V11,child_payor_benefit,Y,R,"payor waiver via rider: 104A049V03: yes (payor benefit, death or terminal illness only)",rule 1: payor benefit through a rider
+Axis Max Life,Axis Max Life Online Savings Plan,104L098V06,child_payor_benefit,Y,R,"payor waiver via rider: 104A049V03: yes (payor benefit, death or terminal illness only)",rule 1: payor benefit through a rider
+Axis Max Life,Axis Max Life Online Savings Plan Plus,104L131V03,child_payor_benefit,Y,R,"payor waiver via rider: 104A049V03: yes (payor benefit, death or terminal illness only)",rule 1: payor benefit through a rider
+Axis Max Life,Axis Max Life Platinum Wealth Plan,104L133V01,child_payor_benefit,Y,R,"payor waiver via rider: 104A049V03: yes (payor benefit, death or terminal illness only)",rule 1: payor benefit through a rider
+Axis Max Life,Axis Max Life Shiksha Plus Super,104L084V20,child_payor_benefit,Y,R,"payor waiver via rider: 104A049V03: yes (payor benefit, death or terminal illness only)",rule 1: payor benefit through a rider
+Axis Max Life,Axis Max Life Smart Term with Additional Returns ULIP,104L128V01,child_payor_benefit,Y,R,"payor waiver via rider: 104A049V03: yes (payor benefit, death or terminal illness only)",rule 1: payor benefit through a rider
+Bharti Life,Bharti AXA Life Dream Shield Plus,130L125V01,child_payor_benefit,-,?,"rider waiver may be opted by the policyholder, but the rider names the life insured as the person whose event triggers it; not on death",rule 1: trigger is the life insured
+Bharti Life,Bharti AXA Life Grow Wealth,130L088V04,child_payor_benefit,-,?,"rider waiver may be opted by the policyholder, but the rider names the life insured as the person whose event triggers it; not on death",rule 1: trigger is the life insured
+Bharti Life,Bharti AXA Life Grow Wealth Ultra,130L128V01,child_payor_benefit,-,?,"rider waiver may be opted by the policyholder, but the rider names the life insured as the person whose event triggers it; not on death",rule 1: trigger is the life insured
+Bharti Life,Bharti AXA Life Growth Shield Plus,130L123V01,child_payor_benefit,-,?,"rider waiver may be opted by the policyholder, but the rider names the life insured as the person whose event triggers it; not on death",rule 1: trigger is the life insured
+Bharti Life,Bharti AXA Life Wealth Maximizer,130L121V01,child_payor_benefit,-,?,"rider waiver may be opted by the policyholder, but the rider names the life insured as the person whose event triggers it; not on death",rule 1: trigger is the life insured
+Bharti Life,Bharti AXA Life Wealth Pro,130L100V03,child_payor_benefit,-,?,"rider waiver may be opted by the policyholder, but the rider names the life insured as the person whose event triggers it; not on death",rule 1: trigger is the life insured
+Bharti Life,Bharti AXA Life Dream Shield Plus,130L125V01,loyalty_design_variants,,B,"large loyalty credit at maturity, as Growth Shield Plus",rule 3: same design as Growth Shield Plus
+Bharti Life,Bharti AXA Life Grow Wealth Ultra,130L128V01,loyalty_design_variants,,B,"large loyalty credit at maturity, as Growth Shield Plus",rule 3: same design as Growth Shield Plus
+Ageas Federal Life,Ageas Federal Life Insurance Platinum Wealth Builder Plan,135L089V02,lower_charges_online,,B,read by S1: the text describes this feature in the product,rule 4: online or direct terms also in lower_charges_online
+Ageas Federal Life,Ageas Federal Life Insurance Smart Growth Plan,135L053V07,lower_charges_online,,B,read by S1: the text describes this feature in the product,rule 4: online or direct terms also in lower_charges_online
+Ageas Federal Life,Ageas Federal Life Insurance Wealth Gain Insurance Plan,135L047V06,lower_charges_online,,B,read by S1: the text describes this feature in the product,rule 4: online or direct terms also in lower_charges_online
+HDFC Life,HDFC Life Sampoorn Nivesh Plus,101L180V01,lower_charges_online,,B,1.5% x policy term x AP paid at maturity on policies bought through direct marketing,rule 4: online or direct terms also in lower_charges_online
+HDFC Life,HDFC Life Sampoorn Nivesh Plus,101L180V01,customer_type_boosters,B,,moved to lower_charges_online (rule 4),rule 4: online or direct terms only
+Bharti Life,Bharti AXA Life Dream Shield Plus,130L125V01,index_fund_offered,,N,no index fund among 8 funds,rule 5: index fund from fund names
+Bharti Life,Bharti AXA Life Dream Shield Plus,130L125V01,lowest_fmc_any_fund,,v,0.80% (Stability Plus Money Fund),rule 5: lowest FMC any fund
+Bharti Life,Bharti AXA Life Dream Shield Plus,130L125V01,lowest_fmc_equity_fund,,v,1.35% (Build India Fund; equity by asset range),rule 5: lowest FMC equity fund
+Bharti Life,Bharti AXA Life Future Invest,130L049V05,index_fund_offered,,N,no index fund among 6 funds,rule 5: index fund from fund names
+Bharti Life,Bharti AXA Life Future Invest,130L049V05,lowest_fmc_any_fund,,v,1.00% (Steady Money Fund),rule 5: lowest FMC any fund
+Bharti Life,Bharti AXA Life Future Invest,130L049V05,lowest_fmc_equity_fund,,v,1.35% (Build India Fund; equity by asset range),rule 5: lowest FMC equity fund
+Bharti Life,Bharti AXA Life Grow Wealth,130L088V04,index_fund_offered,,N,no index fund among 8 funds,rule 5: index fund from fund names
+Bharti Life,Bharti AXA Life Grow Wealth,130L088V04,lowest_fmc_any_fund,,v,0.80% (Stability Plus Money Fund),rule 5: lowest FMC any fund
+Bharti Life,Bharti AXA Life Grow Wealth,130L088V04,lowest_fmc_equity_fund,,v,1.35% (Build India Fund; equity by asset range),rule 5: lowest FMC equity fund
+Bharti Life,Bharti AXA Life Grow Wealth Ultra,130L128V01,index_fund_offered,,B,Nifty 5 Year SDL Constant Maturity Index Fund; Nifty 100 Index Fund,rule 5: index fund from fund names
+Bharti Life,Bharti AXA Life Grow Wealth Ultra,130L128V01,lowest_fmc_any_fund,,v,0.80% (Stability Plus Money Fund),rule 5: lowest FMC any fund
+Bharti Life,Bharti AXA Life Grow Wealth Ultra,130L128V01,lowest_fmc_equity_fund,,v,0.90% (Nifty 100 Index Fund; equity by asset range),rule 5: lowest FMC equity fund
+Bharti Life,Bharti AXA Life Growth Shield Plus,130L123V01,index_fund_offered,,N,no index fund among 8 funds,rule 5: index fund from fund names
+Bharti Life,Bharti AXA Life Growth Shield Plus,130L123V01,lowest_fmc_any_fund,,v,0.80% (Stability Plus Money Fund),rule 5: lowest FMC any fund
+Bharti Life,Bharti AXA Life Growth Shield Plus,130L123V01,lowest_fmc_equity_fund,,v,1.35% (Build India Fund; equity by asset range),rule 5: lowest FMC equity fund
+Bharti Life,Bharti AXA Life Wealth Maximizer,130L121V01,index_fund_offered,,N,no index fund among 8 funds,rule 5: index fund from fund names
+Bharti Life,Bharti AXA Life Wealth Maximizer,130L121V01,lowest_fmc_any_fund,,v,0.80% (Stability Plus Money Fund),rule 5: lowest FMC any fund
+Bharti Life,Bharti AXA Life Wealth Maximizer,130L121V01,lowest_fmc_equity_fund,,v,1.35% (Build India Fund; equity by asset range),rule 5: lowest FMC equity fund
+Bharti Life,Bharti AXA Life Wealth Pro,130L100V03,index_fund_offered,,N,no index fund among 8 funds,rule 5: index fund from fund names
+Bharti Life,Bharti AXA Life Wealth Pro,130L100V03,lowest_fmc_any_fund,,v,0.80% (Stability Plus Money Fund),rule 5: lowest FMC any fund
+Bharti Life,Bharti AXA Life Wealth Pro,130L100V03,lowest_fmc_equity_fund,,v,1.35% (Build India Fund; equity by asset range),rule 5: lowest FMC equity fund
+Aditya Birla Sun Life,ABSLI Fortune Wealth Plan,109L143V01,index_fund_offered,,B,Capped Nifty Index,rule 5: index fund from fund names
+Aditya Birla Sun Life,ABSLI Fortune Wealth Plan,109L143V01,lowest_fmc_any_fund,,v,1.00% (Liquid Plus),rule 5: lowest FMC any fund
+Aditya Birla Sun Life,ABSLI Fortune Wealth Plan,109L143V01,lowest_fmc_equity_fund,,v,1.25% (Capped Nifty Index; equity by fund name),rule 5: lowest FMC equity fund
+Aditya Birla Sun Life,ABSLI Param Suraksha,109L149V01,index_fund_offered,,B,Capped Nifty Index; Nifty Alpha 50 Index Fund,rule 5: index fund from fund names
+Aditya Birla Sun Life,ABSLI Param Suraksha,109L149V01,lowest_fmc_any_fund,,v,1.00% (Liquid Plus),rule 5: lowest FMC any fund
+Aditya Birla Sun Life,ABSLI Param Suraksha,109L149V01,lowest_fmc_equity_fund,,v,1.25% (Capped Nifty Index; equity by fund name),rule 5: lowest FMC equity fund
+Aditya Birla Sun Life,ABSLI Platinum Gain Plan,109L142V01,index_fund_offered,,B,Capped Nifty Index,rule 5: index fund from fund names
+Aditya Birla Sun Life,ABSLI Platinum Gain Plan,109L142V01,lowest_fmc_any_fund,,v,1.00% (Liquid Plus),rule 5: lowest FMC any fund
+Aditya Birla Sun Life,ABSLI Platinum Gain Plan,109L142V01,lowest_fmc_equity_fund,,v,1.25% (Capped Nifty Index; equity by fund name),rule 5: lowest FMC equity fund
+Aditya Birla Sun Life,ABSLI Salaried Suraksha,109L145V01,index_fund_offered,,B,Capped Nifty Index,rule 5: index fund from fund names
+Aditya Birla Sun Life,ABSLI Salaried Suraksha,109L145V01,lowest_fmc_any_fund,,v,1.00% (Liquid Plus),rule 5: lowest FMC any fund
+Aditya Birla Sun Life,ABSLI Salaried Suraksha,109L145V01,lowest_fmc_equity_fund,,v,1.25% (Capped Nifty Index; equity by fund name),rule 5: lowest FMC equity fund
+Aditya Birla Sun Life,ABSLI Smart Wealth Pension Plan,109L157V01,index_fund_offered,,N,no index fund among 5 funds,rule 5: index fund from fund names
+Aditya Birla Sun Life,ABSLI Smart Wealth Pension Plan,109L157V01,lowest_fmc_any_fund,,v,1.00% (Pension Income Advantage),rule 5: lowest FMC any fund
+Aditya Birla Sun Life,ABSLI Smart Wealth Pension Plan,109L157V01,lowest_fmc_equity_fund,,v,1.35% (Pension Maximiser; equity by asset range),rule 5: lowest FMC equity fund
+Aditya Birla Sun Life,ABSLI Wealth Aspire Plan,109L100V06,index_fund_offered,,B,Capped Nifty Index; Nifty Alpha 50 Index Fund,rule 5: index fund from fund names
+Aditya Birla Sun Life,ABSLI Wealth Aspire Plan,109L100V06,lowest_fmc_any_fund,,v,1.00% (Liquid Plus),rule 5: lowest FMC any fund
+Aditya Birla Sun Life,ABSLI Wealth Aspire Plan,109L100V06,lowest_fmc_equity_fund,,v,1.25% (Capped Nifty Index; equity by fund name),rule 5: lowest FMC equity fund
+Aditya Birla Sun Life,ABSLI Wealth Infinia,109L129V03,index_fund_offered,,B,Capped Nifty Index,rule 5: index fund from fund names
+Aditya Birla Sun Life,ABSLI Wealth Infinia,109L129V03,lowest_fmc_any_fund,,v,1.00% (Liquid Plus),rule 5: lowest FMC any fund
+Aditya Birla Sun Life,ABSLI Wealth Infinia,109L129V03,lowest_fmc_equity_fund,,v,1.25% (Capped Nifty Index; equity by fund name),rule 5: lowest FMC equity fund
+Aditya Birla Sun Life,ABSLI Wealth Max Plan,109L073V05,index_fund_offered,,B,Capped Nifty Index,rule 5: index fund from fund names
+Aditya Birla Sun Life,ABSLI Wealth Max Plan,109L073V05,lowest_fmc_any_fund,,v,1.00% (Liquid Plus),rule 5: lowest FMC any fund
+Aditya Birla Sun Life,ABSLI Wealth Max Plan,109L073V05,lowest_fmc_equity_fund,,v,1.25% (Capped Nifty Index; equity by fund name),rule 5: lowest FMC equity fund
+Aditya Birla Sun Life,ABSLI Wealth Secure Plan,109L074V05,index_fund_offered,,B,Capped Nifty Index,rule 5: index fund from fund names
+Aditya Birla Sun Life,ABSLI Wealth Secure Plan,109L074V05,lowest_fmc_any_fund,,v,1.00% (Liquid Plus),rule 5: lowest FMC any fund
+Aditya Birla Sun Life,ABSLI Wealth Secure Plan,109L074V05,lowest_fmc_equity_fund,,v,1.25% (Capped Nifty Index; equity by fund name),rule 5: lowest FMC equity fund
+Aditya Birla Sun Life,ABSLI Wealth Smart Plus,109L147V02,index_fund_offered,,B,Capped Nifty Index; Nifty Alpha 50 Index Fund; Nifty Midcap150 Momentum 50 Index,rule 5: index fund from fund names
+Aditya Birla Sun Life,ABSLI Wealth Smart Plus,109L147V02,lowest_fmc_any_fund,,v,1.00% (Liquid Plus),rule 5: lowest FMC any fund
+Aditya Birla Sun Life,ABSLI Wealth Smart Plus,109L147V02,lowest_fmc_equity_fund,,v,1.25% (Capped Nifty Index; equity by fund name),rule 5: lowest FMC equity fund
+Ageas Federal Life,Ageas Federal Life Insurance Golden Years Pension Plan,135L100V01,index_fund_offered,,N,no index fund among 3 funds,rule 5: index fund from fund names
+Ageas Federal Life,Ageas Federal Life Insurance Golden Years Pension Plan,135L100V01,lowest_fmc_any_fund,,v,1.25% (Income Fund - Pension),rule 5: lowest FMC any fund
+Ageas Federal Life,Ageas Federal Life Insurance Golden Years Pension Plan,135L100V01,lowest_fmc_equity_fund,,?,no equity fund identified,rule 5: lowest FMC equity fund
+Ageas Federal Life,Ageas Federal Life Insurance Platinum Wealth Builder Plan,135L089V02,index_fund_offered,,N,no index fund among 12 funds,rule 5: index fund from fund names
+Ageas Federal Life,Ageas Federal Life Insurance Platinum Wealth Builder Plan,135L089V02,lowest_fmc_any_fund,,v,1.25% (Bond Fund II),rule 5: lowest FMC any fund
+Ageas Federal Life,Ageas Federal Life Insurance Platinum Wealth Builder Plan,135L089V02,lowest_fmc_equity_fund,,v,1.35% (Enhanced Value Fund; equity by asset range),rule 5: lowest FMC equity fund
+Ageas Federal Life,Ageas Federal Life Insurance ProGrow Plan,135L101V01,index_fund_offered,,N,no index fund among 12 funds,rule 5: index fund from fund names
+Ageas Federal Life,Ageas Federal Life Insurance ProGrow Plan,135L101V01,lowest_fmc_any_fund,,v,1.25% (Bond Fund II),rule 5: lowest FMC any fund
+Ageas Federal Life,Ageas Federal Life Insurance ProGrow Plan,135L101V01,lowest_fmc_equity_fund,,v,1.35% (Enhanced Value Fund; equity by asset range),rule 5: lowest FMC equity fund
+Ageas Federal Life,Ageas Federal Life Insurance Smart Growth Plan,135L053V07,index_fund_offered,,N,no index fund among 12 funds,rule 5: index fund from fund names
+Ageas Federal Life,Ageas Federal Life Insurance Smart Growth Plan,135L053V07,lowest_fmc_any_fund,,v,1.25% (Bond Fund II),rule 5: lowest FMC any fund
+Ageas Federal Life,Ageas Federal Life Insurance Smart Growth Plan,135L053V07,lowest_fmc_equity_fund,,v,1.35% (Enhanced Value Fund; equity by asset range),rule 5: lowest FMC equity fund
+Ageas Federal Life,Ageas Federal Life Insurance Wealth Gain Insurance Plan,135L047V06,index_fund_offered,,N,no index fund among 12 funds,rule 5: index fund from fund names
+Ageas Federal Life,Ageas Federal Life Insurance Wealth Gain Insurance Plan,135L047V06,lowest_fmc_any_fund,,v,1.35% (Equity Growth Fund),rule 5: lowest FMC any fund
+Ageas Federal Life,Ageas Federal Life Insurance Wealth Gain Insurance Plan,135L047V06,lowest_fmc_equity_fund,,v,1.35% (Enhanced Value Fund; equity by asset range),rule 5: lowest FMC equity fund
+Ageas Federal Life,Ageas Federal Life Insurance Wealthsurance Growth Insurance Plan SP II,135L082V02,index_fund_offered,,N,no index fund among 10 funds,rule 5: index fund from fund names
+Ageas Federal Life,Ageas Federal Life Insurance Wealthsurance Growth Insurance Plan SP II,135L082V02,lowest_fmc_any_fund,,v,1.25% (Bond Fund II),rule 5: lowest FMC any fund
+Ageas Federal Life,Ageas Federal Life Insurance Wealthsurance Growth Insurance Plan SP II,135L082V02,lowest_fmc_equity_fund,,v,1.35% (Enhanced Value Fund; equity by asset range),rule 5: lowest FMC equity fund
+Axis Max Life,Axis Max Life Fast Track Super,104L082V06,index_fund_offered,,B,BSE 500 Value 50 Index Fund II; BSE Dividend Stability Index Fund; Midcap Momentum Index Fund; Nifty Alpha 50 Fund; Nifty 500 Momentum 50 Fund; Nifty Momentum Quality 50 Fund; Sustainable Wealth 50 In,rule 5: index fund from fund names
+Axis Max Life,Axis Max Life Fast Track Super,104L082V06,lowest_fmc_any_fund,,v,0.90% (Money Market II Fund),rule 5: lowest FMC any fund
+Axis Max Life,Axis Max Life Fast Track Super,104L082V06,lowest_fmc_equity_fund,,v,1.00% (NIFTY Smallcap Quality Index Fund; equity by fund name),rule 5: lowest FMC equity fund
+Axis Max Life,Axis Max Life Flexi Wealth Advantage Plan,104L121V05,index_fund_offered,,B,NIFTY Smallcap Quality Index Fund; Midcap Momentum Index Fund; Nifty Alpha 50 Fund; Nifty 500 Momentum 50 Fund; Nifty Momentum Quality 50 Fund; Sustainable Wealth 50 Index Fund; Nifty 500 Multifactor ,rule 5: index fund from fund names
+Axis Max Life,Axis Max Life Flexi Wealth Advantage Plan,104L121V05,lowest_fmc_any_fund,,v,0.90% (Money Market II Fund),rule 5: lowest FMC any fund
+Axis Max Life,Axis Max Life Flexi Wealth Advantage Plan,104L121V05,lowest_fmc_equity_fund,,v,1.00% (NIFTY Smallcap Quality Index Fund; equity by fund name),rule 5: lowest FMC equity fund
+Axis Max Life,Axis Max Life Flexi Wealth Plus,104L115V04,index_fund_offered,,B,NIFTY Smallcap Quality Index Fund; Nifty Alpha 50 Fund; Nifty 500 Momentum 50 Fund; Nifty Momentum Quality 50 Fund; Sustainable Wealth 50 Index Fund; Nifty 500 Multifactor 50 Index Fund; BSE 500 Value,rule 5: index fund from fund names
+Axis Max Life,Axis Max Life Flexi Wealth Plus,104L115V04,lowest_fmc_any_fund,,v,0.90% (Money Market II Fund),rule 5: lowest FMC any fund
+Axis Max Life,Axis Max Life Flexi Wealth Plus,104L115V04,lowest_fmc_equity_fund,,v,1.00% (NIFTY Smallcap Quality Index Fund; equity by fund name),rule 5: lowest FMC equity fund
+Axis Max Life,Axis Max Life Forever Young Pension Plan,104L075V11,index_fund_offered,,B,Axis Max Life NIFTY 500 Multifactor 50 Index Pension Fund; Axis Max Life BSE 500 Dividend leaders 50 Index Pension Fund; Axis Max Life BSE 500 Value 50 Index Pension Fund; Axis Max Life Sustainable We,rule 5: index fund from fund names
+Axis Max Life,Axis Max Life Forever Young Pension Plan,104L075V11,lowest_fmc_any_fund,,v,0.90% (Axis Max Life Pension Life Conservative Fund),rule 5: lowest FMC any fund
+Axis Max Life,Axis Max Life Forever Young Pension Plan,104L075V11,lowest_fmc_equity_fund,,v,1.25% (Axis Max Life Pension Life Growth Fund; equity by fund name),rule 5: lowest FMC equity fund
+Axis Max Life,Axis Max Life Online Savings Plan,104L098V06,index_fund_offered,,B,Midcap Momentum Index Fund; Nifty Alpha 50 Fund; Nifty 500 Momentum 50 Fund; Nifty Momentum Quality 50 Fund; Sustainable Wealth 50 Index Fund; Nifty 500 Multifactor 50 Index Fund; BSE 500 Value 50 Ind,rule 5: index fund from fund names
+Axis Max Life,Axis Max Life Online Savings Plan,104L098V06,lowest_fmc_any_fund,,v,0.90% (Dynamic Bond Fund),rule 5: lowest FMC any fund
+Axis Max Life,Axis Max Life Online Savings Plan,104L098V06,lowest_fmc_equity_fund,,v,1.00% (NIFTY Smallcap Quality Index Fund; equity by fund name),rule 5: lowest FMC equity fund
+Axis Max Life,Axis Max Life Online Savings Plan Plus,104L131V03,index_fund_offered,,B,BSE 500 Value 50 Index Fund II; BSE Dividend Stability Index Fund; Midcap Momentum Index Fund; Nifty Alpha 50 Fund; Nifty 500 Momentum 50 Fund; Sustainable Wealth 50 Index Fund; Nifty 500 Multifactor ,rule 5: index fund from fund names
+Axis Max Life,Axis Max Life Online Savings Plan Plus,104L131V03,lowest_fmc_any_fund,,v,0.90% (Conservative Fund),rule 5: lowest FMC any fund
+Axis Max Life,Axis Max Life Online Savings Plan Plus,104L131V03,lowest_fmc_equity_fund,,v,1.00% (NIFTY Smallcap Quality Index Fund; equity by fund name),rule 5: lowest FMC equity fund
+Axis Max Life,Axis Max Life Platinum Wealth Plan,104L133V01,index_fund_offered,,B,Midcap Momentum Index Fund; Nifty Alpha 50 Fund; Nifty 500 Momentum 50 Fund; Nifty Momentum Quality 50 Fund; Sustainable Wealth 50 Index Fund; Nifty 500 Multifactor 50 Index Fund; BSE 500 Dividend lea,rule 5: index fund from fund names
+Axis Max Life,Axis Max Life Platinum Wealth Plan,104L133V01,lowest_fmc_any_fund,,v,0.90% (Conservative Fund),rule 5: lowest FMC any fund
+Axis Max Life,Axis Max Life Platinum Wealth Plan,104L133V01,lowest_fmc_equity_fund,,v,1.25% (BSE 500 Dividend leaders 50 Index Fund; equity by fund name),rule 5: lowest FMC equity fund
+Axis Max Life,Axis Max Life Shiksha Plus Super,104L084V20,index_fund_offered,,B,Midcap Momentum Index Fund; Nifty Alpha 50 Fund; Nifty 500 Momentum 50 Fund; Nifty Momentum Quality 50 Fund; Sustainable Wealth 50 Index Fund; Nifty 500 Multifactor 50 Index Fund; BSE 500 Value 50 Ind,rule 5: index fund from fund names
+Axis Max Life,Axis Max Life Shiksha Plus Super,104L084V20,lowest_fmc_any_fund,,v,0.90% (Conservative Fund),rule 5: lowest FMC any fund
+Axis Max Life,Axis Max Life Shiksha Plus Super,104L084V20,lowest_fmc_equity_fund,,v,1.00% (NIFTY Smallcap Quality Index Fund; equity by fund name),rule 5: lowest FMC equity fund
+Axis Max Life,Axis Max Life Smart Term with Additional Returns ULIP,104L128V01,index_fund_offered,,B,NIFTY Smallcap Quality Index Fund; Nifty Alpha 50 Fund; Nifty 500 Momentum 50 Fund; Midcap Momentum Index Fund; Nifty Momentum Quality 50 Fund; Sustainable Wealth 50 Index Fund; Nifty 500 Multifactor ,rule 5: index fund from fund names
+Axis Max Life,Axis Max Life Smart Term with Additional Returns ULIP,104L128V01,lowest_fmc_any_fund,,v,0.90% (Conservative Fund),rule 5: lowest FMC any fund
+Axis Max Life,Axis Max Life Smart Term with Additional Returns ULIP,104L128V01,lowest_fmc_equity_fund,,v,1.00% (NIFTY Smallcap Quality Index Fund; equity by fund name),rule 5: lowest FMC equity fund
+Bajaj Life,Bajaj Life Fortune Gain II,116L196V05,index_fund_offered,,B,Nifty Alpha 50 Index Fund; Nifty 200 Alpha 30 Index Fund; Midcap Index Fund; Smallcap Quality Index Fund; Nifty 200 Momentum 30 Index Fund; Nifty 500 Multicap Momentum Quality 50 Index Fund; Nifty 500,rule 5: index fund from fund names
+Bajaj Life,Bajaj Life Fortune Gain II,116L196V05,lowest_fmc_any_fund,,v,0.70% (Debt Plus Fund),rule 5: lowest FMC any fund
+Bajaj Life,Bajaj Life Fortune Gain II,116L196V05,lowest_fmc_equity_fund,,v,1.25% (Bluechip Equity Fund; equity by fund name),rule 5: lowest FMC equity fund
+Bajaj Life,Bajaj Life Future Wealth Gain IV,116L202V01,index_fund_offered,,B,Nifty Alpha 50 Index Fund; Nifty 200 Alpha 30 Index Fund; Midcap Index Fund; Smallcap Quality Index Fund; Nifty 200 Momentum 30 Index Fund; Nifty 500 Multicap Momentum Quality 50 Index Fund; Nifty 500,rule 5: index fund from fund names
+Bajaj Life,Bajaj Life Future Wealth Gain IV,116L202V01,lowest_fmc_any_fund,,v,0.95% (Bond Fund),rule 5: lowest FMC any fund
+Bajaj Life,Bajaj Life Future Wealth Gain IV,116L202V01,lowest_fmc_equity_fund,,v,1.25% (Bluechip Equity Fund; equity by fund name),rule 5: lowest FMC equity fund
+Bajaj Life,Bajaj Life GAIN,116L213V02,index_fund_offered,,B,Nifty Alpha 50 Index Fund; Nifty 200 Alpha 30 Index Fund; Midcap Index Fund; Smallcap Quality Index Fund; Nifty 200 Momentum 30 Index Fund; Nifty 500 Multicap Momentum Quality 50 Index Fund; Nifty 500,rule 5: index fund from fund names
+Bajaj Life,Bajaj Life GAIN,116L213V02,lowest_fmc_any_fund,,v,0.70% (Debt Plus Fund),rule 5: lowest FMC any fund
+Bajaj Life,Bajaj Life GAIN,116L213V02,lowest_fmc_equity_fund,,v,1.25% (Bluechip Equity Fund; equity by fund name),rule 5: lowest FMC equity fund
+Bajaj Life,Bajaj Life Goal Assure IV,116L204V01,index_fund_offered,,B,Nifty Alpha 50 Index Fund; Nifty 200 Alpha 30 Index Fund; Midcap Index Fund; Smallcap Quality Index Fund; Nifty 200 Momentum 30 Index Fund; Nifty 500 Multicap Momentum Quality 50 Index Fund; Nifty 500,rule 5: index fund from fund names
+Bajaj Life,Bajaj Life Goal Assure IV,116L204V01,lowest_fmc_any_fund,,v,0.70% (Debt Plus Fund),rule 5: lowest FMC any fund
+Bajaj Life,Bajaj Life Goal Assure IV,116L204V01,lowest_fmc_equity_fund,,v,1.25% (Bluechip Equity Fund; equity by fund name),rule 5: lowest FMC equity fund
+Bajaj Life,Bajaj Life Goal Based Saving III,116L206V01,index_fund_offered,,B,Nifty Alpha 50 Index Fund; Nifty 200 Alpha 30 Index Fund; Midcap Index Fund; Smallcap Quality Index Fund; Nifty 200 Momentum 30 Index Fund; Nifty 500 Multicap Momentum Quality 50 Index Fund; Nifty 500,rule 5: index fund from fund names
+Bajaj Life,Bajaj Life Goal Based Saving III,116L206V01,lowest_fmc_any_fund,,v,0.95% (Bond Fund),rule 5: lowest FMC any fund
+Bajaj Life,Bajaj Life Goal Based Saving III,116L206V01,lowest_fmc_equity_fund,,v,1.25% (Bluechip Equity Fund; equity by fund name),rule 5: lowest FMC equity fund
+Bajaj Life,Bajaj Life Invest Protect Goal Plus,116L215V01,index_fund_offered,,B,Nifty Alpha 50 Index Fund; Nifty 200 Alpha 30 Index Fund; Midcap Index Fund; Smallcap Quality Index Fund; Nifty 200 Momentum 30 Index Fund; Nifty 500 Multicap Momentum Quality 50 Index Fund; Nifty 500,rule 5: index fund from fund names
+Bajaj Life,Bajaj Life Invest Protect Goal Plus,116L215V01,lowest_fmc_any_fund,,v,0.95% (Bond Fund),rule 5: lowest FMC any fund
+Bajaj Life,Bajaj Life Invest Protect Goal Plus,116L215V01,lowest_fmc_equity_fund,,v,1.25% (Bluechip Equity Fund; equity by fund name),rule 5: lowest FMC equity fund
+Bajaj Life,Bajaj Life LongLife Goal III,116L203V01,index_fund_offered,,B,Nifty Alpha 50 Index Fund; Nifty 200 Alpha 30 Index Fund; Midcap Index Fund; Smallcap Quality Index Fund; Nifty 200 Momentum 30 Index Fund; Nifty 500 Multicap Momentum Quality 50 Index Fund; Nifty 500,rule 5: index fund from fund names
+Bajaj Life,Bajaj Life LongLife Goal III,116L203V01,lowest_fmc_any_fund,,v,0.95% (Bond Fund),rule 5: lowest FMC any fund
+Bajaj Life,Bajaj Life LongLife Goal III,116L203V01,lowest_fmc_equity_fund,,v,1.25% (Bluechip Equity Fund; equity by fund name),rule 5: lowest FMC equity fund
+Bajaj Life,Bajaj Life Magnum Fortune Plus III,116L207V02,index_fund_offered,,B,Nifty Alpha 50 Index Fund; Nifty 200 Alpha 30 Index Fund; Midcap Index Fund; Smallcap Quality Index Fund; Nifty 200 Momentum 30 Index Fund; Nifty 500 Multicap Momentum Quality 50 Index Fund; Nifty 500,rule 5: index fund from fund names
+Bajaj Life,Bajaj Life Magnum Fortune Plus III,116L207V02,lowest_fmc_any_fund,,v,0.95% (Bond Fund),rule 5: lowest FMC any fund
+Bajaj Life,Bajaj Life Magnum Fortune Plus III,116L207V02,lowest_fmc_equity_fund,,v,1.25% (Bluechip Equity Fund; equity by fund name),rule 5: lowest FMC equity fund
+Bajaj Life,Bajaj Life Smart Pension,116L209V08,index_fund_offered,,B,Nifty 200 Alpha 30 Index Pension Fund; Nifty 500 Multifactor 50 Index Pension Fund; BSE 500 Enhanced Value 50 Index Pension Fund; Nifty Alpha 50 Index Pension Fund; BSE 500 Dividend Leaders 50 Index P,rule 5: index fund from fund names
+Bajaj Life,Bajaj Life Smart Pension,116L209V08,lowest_fmc_any_fund,,v,0.95% (Liquid Pension Fund II),rule 5: lowest FMC any fund
+Bajaj Life,Bajaj Life Smart Pension,116L209V08,lowest_fmc_equity_fund,,v,1.35% (BSE 500 Dividend Leaders 50 Index Pension Fund; equity by fund name),rule 5: lowest FMC equity fund
+Bajaj Life,Bajaj Life Smart Wealth Goal VII,116L218V01,index_fund_offered,,B,Nifty Alpha 50 Index Fund; Nifty 200 Alpha 30 Index Fund; Midcap Index Fund; Smallcap Quality Index Fund; Nifty 200 Momentum 30 Index Fund; Nifty 500 Multicap Momentum Quality 50 Index Fund; Nifty 500,rule 5: index fund from fund names
+Bajaj Life,Bajaj Life Smart Wealth Goal VII,116L218V01,lowest_fmc_any_fund,,v,0.95% (Bond Fund),rule 5: lowest FMC any fund
+Bajaj Life,Bajaj Life Smart Wealth Goal VII,116L218V01,lowest_fmc_equity_fund,,v,1.25% (Bluechip Equity Fund; equity by fund name),rule 5: lowest FMC equity fund
+Bajaj Life,Bajaj Life Supreme,116L211V02,index_fund_offered,,B,Nifty Alpha 50 Index Fund; Nifty 200 Alpha 30 Index Fund; Midcap Index Fund; Smallcap Quality Index Fund; Nifty 200 Momentum 30 Index Fund; Nifty 500 Multicap Momentum Quality 50 Index Fund; Nifty 500,rule 5: index fund from fund names
+Bajaj Life,Bajaj Life Supreme,116L211V02,lowest_fmc_any_fund,,v,0.70% (Debt Plus Fund),rule 5: lowest FMC any fund
+Bajaj Life,Bajaj Life Supreme,116L211V02,lowest_fmc_equity_fund,,v,1.25% (Bluechip Equity Fund; equity by fund name),rule 5: lowest FMC equity fund
+Canara HSBC Life,Canara HSBC Life Insurance Alpha Wealth,136L088V02,index_fund_offered,,B,Multicap Momentum Quality Index Fund,rule 5: index fund from fund names
+Canara HSBC Life,Canara HSBC Life Insurance Alpha Wealth,136L088V02,lowest_fmc_any_fund,,v,0.80% (Liquid Fund),rule 5: lowest FMC any fund
+Canara HSBC Life,Canara HSBC Life Insurance Alpha Wealth,136L088V02,lowest_fmc_equity_fund,,v,1.00% (Large Cap Advantage Fund; equity by fund name),rule 5: lowest FMC equity fund
+Canara HSBC Life,Canara HSBC Life Insurance EZ Pension,136L094V01,index_fund_offered,,B,Pension Nifty Alpha 50 Index Fund,rule 5: index fund from fund names
+Canara HSBC Life,Canara HSBC Life Insurance EZ Pension,136L094V01,lowest_fmc_any_fund,,v,1.00% (Pension Debt Fund),rule 5: lowest FMC any fund
+Canara HSBC Life,Canara HSBC Life Insurance EZ Pension,136L094V01,lowest_fmc_equity_fund,,v,1.35% (Pension Nifty Alpha 50 Index Fund; equity by asset range),rule 5: lowest FMC equity fund
+Canara HSBC Life,Canara HSBC Life Insurance Legacy Builder,136L095V01,index_fund_offered,,B,Pension Nifty Alpha 50 Index Fund,rule 5: index fund from fund names
+Canara HSBC Life,Canara HSBC Life Insurance Legacy Builder,136L095V01,lowest_fmc_any_fund,,v,1.00% (Pension Debt Fund),rule 5: lowest FMC any fund
+Canara HSBC Life,Canara HSBC Life Insurance Legacy Builder,136L095V01,lowest_fmc_equity_fund,,v,1.35% (Pension Equity Fund; equity by asset range),rule 5: lowest FMC equity fund
+Canara HSBC Life,Canara HSBC Life Insurance Promise4Growth,136L089V02,index_fund_offered,,B,Midcap Momentum Growth Index Fund; Nifty 500 Multifactor 50 Index Fund,rule 5: index fund from fund names
+Canara HSBC Life,Canara HSBC Life Insurance Promise4Growth,136L089V02,lowest_fmc_any_fund,,v,0.80% (Liquid Fund),rule 5: lowest FMC any fund
+Canara HSBC Life,Canara HSBC Life Insurance Promise4Growth,136L089V02,lowest_fmc_equity_fund,,v,1.00% (Large Cap Advantage Fund; equity by fund name),rule 5: lowest FMC equity fund
+Canara HSBC Life,Canara HSBC Life Insurance Promise4Growth Plus,136L093V01,index_fund_offered,,B,Midcap Momentum Growth Index Fund; Nifty 500 Multifactor 50 Index Fund; Nifty Alpha 50 Index Fund; Multicap Momentum Quality Index Fund; BSE 500 Enhanced Value 50 Fund,rule 5: index fund from fund names
+Canara HSBC Life,Canara HSBC Life Insurance Promise4Growth Plus,136L093V01,lowest_fmc_any_fund,,v,0.80% (Liquid Fund),rule 5: lowest FMC any fund
+Canara HSBC Life,Canara HSBC Life Insurance Promise4Growth Plus,136L093V01,lowest_fmc_equity_fund,,v,1.00% (Large Cap Advantage Fund; equity by fund name),rule 5: lowest FMC equity fund
+Canara HSBC Life,Canara HSBC Life Insurance Promise4Wealth,136L096V01,index_fund_offered,,B,Midcap Momentum Growth Index Fund; Nifty 500 Multifactor 50 Index Fund; Nifty Alpha 50 Index Fund; Multicap Momentum Quality Index Fund; BSE 500 Enhanced Value 50 Fund,rule 5: index fund from fund names
+Canara HSBC Life,Canara HSBC Life Insurance Promise4Wealth,136L096V01,lowest_fmc_any_fund,,v,0.80% (Liquid Fund),rule 5: lowest FMC any fund
+Canara HSBC Life,Canara HSBC Life Insurance Promise4Wealth,136L096V01,lowest_fmc_equity_fund,,v,1.00% (Large Cap Advantage Fund; equity by fund name),rule 5: lowest FMC equity fund
+Canara HSBC Life,Canara HSBC Life Insurance SecureInvest,136L092V02,index_fund_offered,,B,Midcap Momentum Growth Index Fund; Nifty Alpha 50 Index Fund; Multicap Momentum Quality Index Fund,rule 5: index fund from fund names
+Canara HSBC Life,Canara HSBC Life Insurance SecureInvest,136L092V02,lowest_fmc_any_fund,,v,0.80% (Liquid Fund),rule 5: lowest FMC any fund
+Canara HSBC Life,Canara HSBC Life Insurance SecureInvest,136L092V02,lowest_fmc_equity_fund,,v,1.00% (Large Cap Advantage Fund; equity by fund name),rule 5: lowest FMC equity fund
+Canara HSBC Life,Canara HSBC Life Insurance Wealth Edge,136L085V04,index_fund_offered,,B,Midcap Momentum Growth Index Fund,rule 5: index fund from fund names
+Canara HSBC Life,Canara HSBC Life Insurance Wealth Edge,136L085V04,lowest_fmc_any_fund,,v,0.80% (Liquid Fund),rule 5: lowest FMC any fund
+Canara HSBC Life,Canara HSBC Life Insurance Wealth Edge,136L085V04,lowest_fmc_equity_fund,,v,1.00% (Large Cap Advantage Fund; equity by fund name),rule 5: lowest FMC equity fund
+HDFC Life,HDFC Life Click 2 Invest Plus,101L191V02,index_fund_offered,,N,no index fund among 12 funds,rule 5: index fund from fund names
+HDFC Life,HDFC Life Click 2 Invest Plus,101L191V02,lowest_fmc_any_fund,,v,1.35% (Blue Chip Fund),rule 5: lowest FMC any fund
+HDFC Life,HDFC Life Click 2 Invest Plus,101L191V02,lowest_fmc_equity_fund,,v,1.35% (Blue Chip Fund; equity by fund name),rule 5: lowest FMC equity fund
+HDFC Life,HDFC Life Click 2 Retire Plus II,101L192V02,index_fund_offered,,N,no index fund among 11 funds,rule 5: index fund from fund names
+HDFC Life,HDFC Life Click 2 Retire Plus II,101L192V02,lowest_fmc_any_fund,,v,1.35% (Pension Equity Plus Fund),rule 5: lowest FMC any fund
+HDFC Life,HDFC Life Click 2 Retire Plus II,101L192V02,lowest_fmc_equity_fund,,v,1.35% (Flexi Cap Pension Fund; equity by fund name),rule 5: lowest FMC equity fund
+HDFC Life,HDFC Life Click 2 Wealth,101L133V03,index_fund_offered,,B,Nifty Alpha 30 Fund,rule 5: index fund from fund names
+HDFC Life,HDFC Life Click 2 Wealth,101L133V03,lowest_fmc_any_fund,,v,0.80% (Liquid Fund),rule 5: lowest FMC any fund
+HDFC Life,HDFC Life Click 2 Wealth,101L133V03,lowest_fmc_equity_fund,,v,1.35% (Blue Chip Fund; equity by fund name),rule 5: lowest FMC equity fund
+HDFC Life,HDFC Life Sampoorn Nivesh Plus,101L180V01,index_fund_offered,,N,no index fund among 17 funds,rule 5: index fund from fund names
+HDFC Life,HDFC Life Sampoorn Nivesh Plus,101L180V01,lowest_fmc_any_fund,,v,1.35% (Balanced Fund),rule 5: lowest FMC any fund
+HDFC Life,HDFC Life Sampoorn Nivesh Plus,101L180V01,lowest_fmc_equity_fund,,v,1.35% (Blue Chip Fund; equity by fund name),rule 5: lowest FMC equity fund
+HDFC Life,HDFC Life Smart Pension Plan,101L164V09,index_fund_offered,,N,no index fund among 12 funds,rule 5: index fund from fund names
+HDFC Life,HDFC Life Smart Pension Plan,101L164V09,lowest_fmc_any_fund,,v,0.85% (Large Cap - Pension Fund),rule 5: lowest FMC any fund
+HDFC Life,HDFC Life Smart Pension Plan,101L164V09,lowest_fmc_equity_fund,,v,0.85% (Large Cap - Pension Fund; equity by fund name),rule 5: lowest FMC equity fund
+HDFC Life,HDFC Life Smart Protect Plus,101L187V04,index_fund_offered,,N,no index fund among 14 funds,rule 5: index fund from fund names
+HDFC Life,HDFC Life Smart Protect Plus,101L187V04,lowest_fmc_any_fund,,v,1.35% (Diversified Equity Fund),rule 5: lowest FMC any fund
+HDFC Life,HDFC Life Smart Protect Plus,101L187V04,lowest_fmc_equity_fund,,v,1.35% (Capital Growth Fund; equity by fund name),rule 5: lowest FMC equity fund
+HDFC Life,HDFC Life Smart Woman,101L082V03,index_fund_offered,,N,no index fund among 4 funds,rule 5: index fund from fund names
+HDFC Life,HDFC Life Smart Woman,101L082V03,lowest_fmc_any_fund,,v,1.35% (Income Fund),rule 5: lowest FMC any fund
+HDFC Life,HDFC Life Smart Woman,101L082V03,lowest_fmc_equity_fund,,v,1.35% (Blue Chip Fund; equity by fund name),rule 5: lowest FMC equity fund
+LIC,LIC's Index Plus,512L354V01,index_fund_offered,,N,no index fund among 2 funds,rule 5: index fund from fund names
+LIC,LIC's Index Plus,512L354V01,lowest_fmc_any_fund,,v,1.35% (Flexi Growth Fund),rule 5: lowest FMC any fund
+LIC,LIC's Index Plus,512L354V01,lowest_fmc_equity_fund,,?,no equity fund identified,rule 5: lowest FMC equity fund
+LIC,LIC's New Pension Plus,512L347V01,index_fund_offered,,N,no index fund among 4 funds,rule 5: index fund from fund names
+LIC,LIC's New Pension Plus,512L347V01,lowest_fmc_any_fund,,v,1.35% (Pension Bond Fund),rule 5: lowest FMC any fund
+LIC,LIC's New Pension Plus,512L347V01,lowest_fmc_equity_fund,,v,1.35% (Pension Growth Fund; equity by fund name),rule 5: lowest FMC equity fund
+LIC,LIC's Protection Plus,512L361V01,index_fund_offered,,N,no index fund among 6 funds,rule 5: index fund from fund names
+LIC,LIC's Protection Plus,512L361V01,lowest_fmc_any_fund,,v,1.35% (Bond Fund),rule 5: lowest FMC any fund
+LIC,LIC's Protection Plus,512L361V01,lowest_fmc_equity_fund,,v,1.35% (Flexi Growth Fund; equity by fund name),rule 5: lowest FMC equity fund
+LIC,LIC's SIIP,512L334V02,index_fund_offered,,N,no index fund among 4 funds,rule 5: index fund from fund names
+LIC,LIC's SIIP,512L334V02,lowest_fmc_any_fund,,v,1.35% (Bond Fund),rule 5: lowest FMC any fund
+LIC,LIC's SIIP,512L334V02,lowest_fmc_equity_fund,,v,1.35% (Growth Fund; equity by fund name),rule 5: lowest FMC equity fund
+LIC,LIC’s Nivesh Plus,512L317V02,index_fund_offered,,N,no index fund among 4 funds,rule 5: index fund from fund names
+LIC,LIC’s Nivesh Plus,512L317V02,lowest_fmc_any_fund,,v,1.35% (Bond Fund),rule 5: lowest FMC any fund
+LIC,LIC’s Nivesh Plus,512L317V02,lowest_fmc_equity_fund,,v,1.35% (Growth Fund; equity by fund name),rule 5: lowest FMC equity fund
+SBI Life,SBI Life - Ewealth Plus,111L147V01,index_fund_offered,,N,no index fund among 14 funds,rule 5: index fund from fund names
+SBI Life,SBI Life - Ewealth Plus,111L147V01,lowest_fmc_any_fund,,v,0.25% (Money Market Fund),rule 5: lowest FMC any fund
+SBI Life,SBI Life - Ewealth Plus,111L147V01,lowest_fmc_equity_fund,,v,1.35% (Bluechip Fund; equity by fund name),rule 5: lowest FMC equity fund
+SBI Life,SBI Life - Retire Smart Plus,111L135V02,index_fund_offered,,N,no index fund among 7 funds,rule 5: index fund from fund names
+SBI Life,SBI Life - Retire Smart Plus,111L135V02,lowest_fmc_any_fund,,v,0.25% (Money Market Pension Fund),rule 5: lowest FMC any fund
+SBI Life,SBI Life - Retire Smart Plus,111L135V02,lowest_fmc_equity_fund,,v,1.35% (Equity Optimiser Pension Fund; equity by fund name),rule 5: lowest FMC equity fund
+SBI Life,SBI Life - Smart Elite Plus,111L146V01,index_fund_offered,,N,no index fund among 15 funds,rule 5: index fund from fund names
+SBI Life,SBI Life - Smart Elite Plus,111L146V01,lowest_fmc_any_fund,,v,0.25% (Money Market Fund),rule 5: lowest FMC any fund
+SBI Life,SBI Life - Smart Elite Plus,111L146V01,lowest_fmc_equity_fund,,v,1.25% (Equity Elite Fund II; equity by fund name),rule 5: lowest FMC equity fund
+SBI Life,SBI Life - Smart Fortune Builder,111L142V01,index_fund_offered,,N,no index fund among 14 funds,rule 5: index fund from fund names
+SBI Life,SBI Life - Smart Fortune Builder,111L142V01,lowest_fmc_any_fund,,v,0.25% (Money Market Fund),rule 5: lowest FMC any fund
+SBI Life,SBI Life - Smart Fortune Builder,111L142V01,lowest_fmc_equity_fund,,v,1.35% (Bluechip Fund; equity by fund name),rule 5: lowest FMC equity fund
+SBI Life,SBI Life - Smart Invest Builder,111L153V01,index_fund_offered,,N,no index fund among 14 funds,rule 5: index fund from fund names
+SBI Life,SBI Life - Smart Invest Builder,111L153V01,lowest_fmc_any_fund,,v,0.25% (Money Market Fund),rule 5: lowest FMC any fund
+SBI Life,SBI Life - Smart Invest Builder,111L153V01,lowest_fmc_equity_fund,,v,1.35% (Bluechip Fund; equity by fund name),rule 5: lowest FMC equity fund
+SBI Life,SBI Life - Smart Privilege Plus,111L143V01,index_fund_offered,,N,no index fund among 14 funds,rule 5: index fund from fund names
+SBI Life,SBI Life - Smart Privilege Plus,111L143V01,lowest_fmc_any_fund,,v,0.25% (Money Market Fund),rule 5: lowest FMC any fund
+SBI Life,SBI Life - Smart Privilege Plus,111L143V01,lowest_fmc_equity_fund,,v,1.35% (Bluechip Fund; equity by fund name),rule 5: lowest FMC equity fund
+SBI Life,SBI Life - Smart Scholar Plus,111L144V01,index_fund_offered,,N,no index fund among 14 funds,rule 5: index fund from fund names
+SBI Life,SBI Life - Smart Scholar Plus,111L144V01,lowest_fmc_any_fund,,v,0.25% (Money Market Fund),rule 5: lowest FMC any fund
+SBI Life,SBI Life - Smart Scholar Plus,111L144V01,lowest_fmc_equity_fund,,v,1.35% (Bluechip Fund; equity by fund name),rule 5: lowest FMC equity fund
+Tata AIA Life,TATA AIA Smart SIP,110L174V02,index_fund_offered,,B,Nifty Alpha 50 Index Fund; Multicap Momentum Quality Index Fund; Top 200 Alpha 30 Index Fund; Momentum 50 Index Fund; Sector Leaders Index Fund; Enhanced Value Index Fund; Midcap Momentum Index Fund; ,rule 5: index fund from fund names
+Tata AIA Life,TATA AIA Smart SIP,110L174V02,lowest_fmc_any_fund,,v,0.65% (Whole Life Short Term Fixed Income Fund),rule 5: lowest FMC any fund
+Tata AIA Life,TATA AIA Smart SIP,110L174V02,lowest_fmc_equity_fund,,v,1.10% (Whole Life Aggressive Growth Fund; equity by fund name),rule 5: lowest FMC equity fund
+Tata AIA Life,Tata AIA Life Insurance Fortune Maxima,110L113V09,index_fund_offered,,B,Midcap Momentum Index Fund; Nifty Alpha 50 Index Fund; Multicap Momentum Quality Index Fund; Top 200 Alpha 30 Index Fund; Momentum 50 Index Fund; Sector Leaders Index Fund; Enhanced Value Index Fund,rule 5: index fund from fund names
+Tata AIA Life,Tata AIA Life Insurance Fortune Maxima,110L113V09,lowest_fmc_any_fund,,v,0.65% (Whole Life Short Term Fixed Income Fund),rule 5: lowest FMC any fund
+Tata AIA Life,Tata AIA Life Insurance Fortune Maxima,110L113V09,lowest_fmc_equity_fund,,v,1.10% (Whole Life Aggressive Growth Fund; equity by fund name),rule 5: lowest FMC equity fund
+Tata AIA Life,Tata AIA Life Insurance Fortune Pro,110L112V07,index_fund_offered,,B,Midcap Momentum Index Fund; Nifty Alpha 50 Index Fund; Multicap Momentum Quality Index Fund; Top 200 Alpha 30 Index Fund; Momentum 50 Index Fund; Sector Leaders Index Fund; Enhanced Value Index Fund,rule 5: index fund from fund names
+Tata AIA Life,Tata AIA Life Insurance Fortune Pro,110L112V07,lowest_fmc_any_fund,,v,0.65% (Whole Life Short Term Fixed Income Fund),rule 5: lowest FMC any fund
+Tata AIA Life,Tata AIA Life Insurance Fortune Pro,110L112V07,lowest_fmc_equity_fund,,v,1.10% (Whole Life Aggressive Growth Fund; equity by fund name),rule 5: lowest FMC equity fund
+Tata AIA Life,Tata AIA Life Insurance Smart Sampoorna Raksha,110L156V04,index_fund_offered,,B,Midcap Momentum Index Fund; Nifty Alpha 50 Index Fund; Multicap Momentum Quality Index Fund; Top 200 Alpha 30 Index Fund; Momentum 50 Index Fund; Sector Leaders Index Fund; Enhanced Value Index Fund,rule 5: index fund from fund names
+Tata AIA Life,Tata AIA Life Insurance Smart Sampoorna Raksha,110L156V04,lowest_fmc_any_fund,,v,0.65% (Whole Life Short Term Fixed Income Fund),rule 5: lowest FMC any fund
+Tata AIA Life,Tata AIA Life Insurance Smart Sampoorna Raksha,110L156V04,lowest_fmc_equity_fund,,v,1.10% (Whole Life Aggressive Growth Fund; equity by fund name),rule 5: lowest FMC equity fund
+Tata AIA Life,Tata AIA Life Insurance Wealth Maxima,110L114V05,index_fund_offered,,B,Midcap Momentum Index Fund; Nifty Alpha 50 Index Fund; Multicap Momentum Quality Index Fund; Top 200 Alpha 30 Index Fund; Momentum 50 Index Fund; Sector Leaders Index Fund; Enhanced Value Index Fund,rule 5: index fund from fund names
+Tata AIA Life,Tata AIA Life Insurance Wealth Maxima,110L114V05,lowest_fmc_any_fund,,v,0.65% (Whole Life Short Term Fixed Income Fund),rule 5: lowest FMC any fund
+Tata AIA Life,Tata AIA Life Insurance Wealth Maxima,110L114V05,lowest_fmc_equity_fund,,v,1.10% (Whole Life Aggressive Growth Fund; equity by fund name),rule 5: lowest FMC equity fund
+Tata AIA Life,Tata AIA Life Insurance Wealth Pro,110L111V05,index_fund_offered,,B,Midcap Momentum Index Fund; Nifty Alpha 50 Index Fund; Multicap Momentum Quality Index Fund; Top 200 Alpha 30 Index Fund; Momentum 50 Index Fund; Sector Leaders Index Fund; Enhanced Value Index Fund,rule 5: index fund from fund names
+Tata AIA Life,Tata AIA Life Insurance Wealth Pro,110L111V05,lowest_fmc_any_fund,,v,0.65% (Whole Life Short Term Fixed Income Fund),rule 5: lowest FMC any fund
+Tata AIA Life,Tata AIA Life Insurance Wealth Pro,110L111V05,lowest_fmc_equity_fund,,v,1.10% (Whole Life Aggressive Growth Fund; equity by fund name),rule 5: lowest FMC equity fund
+Tata AIA Life,Tata AIA Shubh SIP,110L190V01,index_fund_offered,,B,Nifty Alpha 50 Index Fund; Multicap Momentum Quality Index Fund; Top 200 Alpha 30 Index Fund; Momentum 50 Index Fund; Sector Leaders Index Fund; Enhanced Value Index Fund; Multifactor Index Fund; Mome,rule 5: index fund from fund names
+Tata AIA Life,Tata AIA Shubh SIP,110L190V01,lowest_fmc_any_fund,,v,0.90% (Liquid Fund),rule 5: lowest FMC any fund
+Tata AIA Life,Tata AIA Shubh SIP,110L190V01,lowest_fmc_equity_fund,,v,1.20% (Dynamic Advantage Fund; equity by fund name),rule 5: lowest FMC equity fund
+Tata AIA Life,Tata AIA Shubh Wealth,110L188V01,index_fund_offered,,B,Midcap Momentum Index Fund; Nifty Alpha 50 Index Fund; Multicap Momentum Quality Index Fund; Top 200 Alpha 30 Index Fund; Momentum 50 Index Fund; Sector Leaders Index Fund; Enhanced Value Index Fund; ,rule 5: index fund from fund names
+Tata AIA Life,Tata AIA Shubh Wealth,110L188V01,lowest_fmc_any_fund,,v,0.65% (Whole Life Short Term Fixed Income Fund),rule 5: lowest FMC any fund
+Tata AIA Life,Tata AIA Shubh Wealth,110L188V01,lowest_fmc_equity_fund,,v,1.10% (Whole Life Aggressive Growth Fund; equity by fund name),rule 5: lowest FMC equity fund
+Tata AIA Life,Tata AIA Smart Fortune Plus,110L177V01,index_fund_offered,,B,Midcap Momentum Index Fund; Nifty Alpha 50 Index Fund; Multicap Momentum Quality Index Fund; Top 200 Alpha 30 Index Fund; Momentum 50 Index Fund; Sector Leaders Index Fund; Enhanced Value Index Fund,rule 5: index fund from fund names
+Tata AIA Life,Tata AIA Smart Fortune Plus,110L177V01,lowest_fmc_any_fund,,v,0.65% (Whole Life Short Term Fixed Income Fund),rule 5: lowest FMC any fund
+Tata AIA Life,Tata AIA Smart Fortune Plus,110L177V01,lowest_fmc_equity_fund,,v,1.10% (Whole Life Aggressive Growth Fund; equity by fund name),rule 5: lowest FMC equity fund
+Tata AIA Life,Tata AIA Smart Pension Secure,110L182V09,index_fund_offered,,N,no index fund among 17 funds,rule 5: index fund from fund names
+Tata AIA Life,Tata AIA Smart Pension Secure,110L182V09,lowest_fmc_any_fund,,v,1.20% (from the FMC field; fund list has no per-fund FMC),rule 5: lowest FMC any fund
+Tata AIA Life,Tata AIA Smart Pension Secure,110L182V09,lowest_fmc_equity_fund,,?,per-fund FMC not in the fund list,rule 5: lowest FMC equity fund
+Tata AIA Life,Tata AIA Smart Raksha,110L187V01,index_fund_offered,,B,Midcap Momentum Index Fund; Nifty Alpha 50 Index Fund; Multicap Momentum Quality Index Fund; Top 200 Alpha 30 Index Fund; Momentum 50 Index Fund; Sector Leaders Index Fund; Enhanced Value Index Fund; ,rule 5: index fund from fund names
+Tata AIA Life,Tata AIA Smart Raksha,110L187V01,lowest_fmc_any_fund,,v,0.65% (Whole Life Short Term Fixed Income Fund),rule 5: lowest FMC any fund
+Tata AIA Life,Tata AIA Smart Raksha,110L187V01,lowest_fmc_equity_fund,,v,1.10% (Whole Life Aggressive Growth Fund; equity by fund name),rule 5: lowest FMC equity fund
+Tata AIA Life,Tata AIA Smart Sampoorna Raksha Pro,110L172V03,index_fund_offered,,B,Midcap Momentum Index Fund; Nifty Alpha 50 Index Fund; Multicap Momentum Quality Index Fund; Top 200 Alpha 30 Index Fund; Momentum 50 Index Fund; Sector Leaders Index Fund; Enhanced Value Index Fund,rule 5: index fund from fund names
+Tata AIA Life,Tata AIA Smart Sampoorna Raksha Pro,110L172V03,lowest_fmc_any_fund,,v,0.65% (Whole Life Short Term Fixed Income Fund),rule 5: lowest FMC any fund
+Tata AIA Life,Tata AIA Smart Sampoorna Raksha Pro,110L172V03,lowest_fmc_equity_fund,,v,1.10% (Whole Life Aggressive Growth Fund; equity by fund name),rule 5: lowest FMC equity fund
+Tata AIA Life,Tata AIA Smart Sampoorna Raksha Supreme,110L179V02,index_fund_offered,,B,Midcap Momentum Index Fund; Nifty Alpha 50 Index Fund; Multicap Momentum Quality Index Fund; Top 200 Alpha 30 Index Fund; Momentum 50 Index Fund; Sector Leaders Index Fund; Enhanced Value Index Fund,rule 5: index fund from fund names
+Tata AIA Life,Tata AIA Smart Sampoorna Raksha Supreme,110L179V02,lowest_fmc_any_fund,,v,0.65% (Whole Life Short Term Fixed Income Fund),rule 5: lowest FMC any fund
+Tata AIA Life,Tata AIA Smart Sampoorna Raksha Supreme,110L179V02,lowest_fmc_equity_fund,,v,1.10% (Whole Life Aggressive Growth Fund; equity by fund name),rule 5: lowest FMC equity fund
+Tata AIA Life,Tata AIA i Systematic Insurance Plan,110L164V11,index_fund_offered,,B,Midcap Momentum Index Fund; Nifty Alpha 50 Index Fund; Multicap Momentum Quality Index Fund; Top 200 Alpha 30 Index Fund; Momentum 50 Index Fund; Sector Leaders Index Fund; Enhanced Value Index Fund; ,rule 5: index fund from fund names
+Tata AIA Life,Tata AIA i Systematic Insurance Plan,110L164V11,lowest_fmc_any_fund,,v,0.65% (Whole Life Short Term Fixed Income Fund),rule 5: lowest FMC any fund
+Tata AIA Life,Tata AIA i Systematic Insurance Plan,110L164V11,lowest_fmc_equity_fund,,v,1.10% (Whole Life Aggressive Growth Fund; equity by fund name),rule 5: lowest FMC equity fund
+Aditya Birla Sun Life,ABSLI Smart Wealth Pension Plan,109L157V01,policy_loan,?,N,not applicable,scan: CIS or policy says policy loan not applicable
+Ageas Federal Life,Ageas Federal Life Insurance Golden Years Pension Plan,135L100V01,min_fund_termination,,B,"found by S1 scan, to confirm",scan: termination when fund falls below a level
+Ageas Federal Life,Ageas Federal Life Insurance Golden Years Pension Plan,135L100V01,mortality_as_ialm_share,,B,"found by S1 scan, to confirm",scan: mortality as a % of IALM
+Ageas Federal Life,Ageas Federal Life Insurance Platinum Wealth Builder Plan,135L089V02,min_fund_termination,,B,"found by S1 scan, to confirm",scan: termination when fund falls below a level
+Ageas Federal Life,Ageas Federal Life Insurance Platinum Wealth Builder Plan,135L089V02,mortality_as_ialm_share,,B,"found by S1 scan, to confirm",scan: mortality as a % of IALM
+Ageas Federal Life,Ageas Federal Life Insurance ProGrow Plan,135L101V01,mortality_as_ialm_share,,B,"found by S1 scan, to confirm",scan: mortality as a % of IALM
+Ageas Federal Life,Ageas Federal Life Insurance Smart Growth Plan,135L053V07,policy_loan,?,N,not applicable,scan: CIS or policy says policy loan not applicable
+Ageas Federal Life,Ageas Federal Life Insurance Wealth Gain Insurance Plan,135L047V06,policy_loan,?,N,not applicable,scan: CIS or policy says policy loan not applicable
+Ageas Federal Life,Ageas Federal Life Insurance Wealthsurance Growth Insurance Plan SP II,135L082V02,policy_loan,?,N,not applicable,scan: CIS or policy says policy loan not applicable
+Bajaj Life,Bajaj Life Fortune Gain II,116L196V05,policy_loan,?,N,not applicable,scan: CIS or policy says policy loan not applicable
+Bajaj Life,Bajaj Life Future Wealth Gain IV,116L202V01,policy_loan,?,N,not applicable,scan: CIS or policy says policy loan not applicable
+Bajaj Life,Bajaj Life GAIN,116L213V02,policy_loan,?,N,not applicable,scan: CIS or policy says policy loan not applicable
+Bajaj Life,Bajaj Life Goal Based Saving III,116L206V01,policy_loan,?,N,not applicable,scan: CIS or policy says policy loan not applicable
+Bajaj Life,Bajaj Life Invest Protect Goal Plus,116L215V01,policy_loan,?,N,not applicable,scan: CIS or policy says policy loan not applicable
+Bajaj Life,Bajaj Life LongLife Goal III,116L203V01,policy_loan,?,N,not applicable,scan: CIS or policy says policy loan not applicable
+Bajaj Life,Bajaj Life Magnum Fortune Plus III,116L207V02,policy_loan,?,N,not applicable,scan: CIS or policy says policy loan not applicable
+Bajaj Life,Bajaj Life Smart Pension,116L209V08,policy_loan,?,N,not applicable,scan: CIS or policy says policy loan not applicable
+Bajaj Life,Bajaj Life Smart Wealth Goal VII,116L218V01,policy_loan,?,N,not applicable,scan: CIS or policy says policy loan not applicable
+Bajaj Life,Bajaj Life Supreme,116L211V02,policy_loan,?,N,not applicable,scan: CIS or policy says policy loan not applicable
+Canara HSBC Life,Canara HSBC Life Insurance Alpha Wealth,136L088V02,policy_loan,?,N,not applicable,scan: CIS or policy says policy loan not applicable
+Canara HSBC Life,Canara HSBC Life Insurance EZ Pension,136L094V01,policy_loan,?,N,not applicable,scan: CIS or policy says policy loan not applicable
+Canara HSBC Life,Canara HSBC Life Insurance Legacy Builder,136L095V01,policy_loan,?,N,not applicable,scan: CIS or policy says policy loan not applicable
+Canara HSBC Life,Canara HSBC Life Insurance Promise4Growth,136L089V02,policy_loan,?,N,not applicable,scan: CIS or policy says policy loan not applicable
+Canara HSBC Life,Canara HSBC Life Insurance Promise4Growth Plus,136L093V01,policy_loan,?,N,not applicable,scan: CIS or policy says policy loan not applicable
+Canara HSBC Life,Canara HSBC Life Insurance Promise4Wealth,136L096V01,policy_loan,?,N,not applicable,scan: CIS or policy says policy loan not applicable
+Canara HSBC Life,Canara HSBC Life Insurance SecureInvest,136L092V02,policy_loan,?,N,not applicable,scan: CIS or policy says policy loan not applicable
+Canara HSBC Life,Canara HSBC Life Insurance Wealth Edge,136L085V04,policy_loan,?,N,not applicable,scan: CIS or policy says policy loan not applicable
+LIC,LIC's Index Plus,512L354V01,policy_loan,?,N,not applicable,scan: CIS or policy says policy loan not applicable
+LIC,LIC's New Pension Plus,512L347V01,policy_loan,?,N,not applicable,scan: CIS or policy says policy loan not applicable
+LIC,LIC's Protection Plus,512L361V01,policy_loan,?,N,not applicable,scan: CIS or policy says policy loan not applicable
+LIC,LIC's SIIP,512L334V02,policy_loan,?,N,not applicable,scan: CIS or policy says policy loan not applicable
+LIC,LIC’s Nivesh Plus,512L317V02,policy_loan,?,N,not applicable,scan: CIS or policy says policy loan not applicable
+SBI Life,SBI Life - Retire Smart Plus,111L135V02,policy_loan,?,N,not applicable,scan: CIS or policy says policy loan not applicable
+Tata AIA Life,Tata AIA Smart Pension Secure,110L182V09,policy_loan,?,N,not applicable,scan: CIS or policy says policy loan not applicable
+Tata AIA Life,Tata AIA i Systematic Insurance Plan,110L164V11,policy_loan,?,N,not applicable,scan: CIS or policy says policy loan not applicable
+Bharti Life,Bharti AXA Life Dream Shield Plus,130L125V01,pension_ulip_guaranteed_vesting,N,N,not a pension product (IRDAI description line),loose v1 row: read from description line
+Bharti Life,Bharti AXA Life Future Invest,130L049V05,pension_ulip_guaranteed_vesting,N,N,not a pension product (IRDAI description line),loose v1 row: read from description line
+Bharti Life,Bharti AXA Life Grow Wealth,130L088V04,pension_ulip_guaranteed_vesting,N,N,not a pension product (IRDAI description line),loose v1 row: read from description line
+Bharti Life,Bharti AXA Life Grow Wealth Ultra,130L128V01,pension_ulip_guaranteed_vesting,N,N,not a pension product (IRDAI description line),loose v1 row: read from description line
+Bharti Life,Bharti AXA Life Growth Shield Plus,130L123V01,pension_ulip_guaranteed_vesting,-,N,not a pension product (IRDAI description line),loose v1 row: read from description line
+Bharti Life,Bharti AXA Life Wealth Maximizer,130L121V01,pension_ulip_guaranteed_vesting,N,N,not a pension product (IRDAI description line),loose v1 row: read from description line
+Bharti Life,Bharti AXA Life Wealth Pro,130L100V03,pension_ulip_guaranteed_vesting,-,N,not a pension product (IRDAI description line),loose v1 row: read from description line
+Aditya Birla Sun Life,ABSLI Fortune Wealth Plan,109L143V01,pension_ulip_guaranteed_vesting,Y,N,not a pension product (IRDAI description line),loose v1 row: read from description line
+Aditya Birla Sun Life,ABSLI Param Suraksha,109L149V01,pension_ulip_guaranteed_vesting,Y,N,not a pension product (IRDAI description line),loose v1 row: read from description line
+Aditya Birla Sun Life,ABSLI Platinum Gain Plan,109L142V01,pension_ulip_guaranteed_vesting,Y,N,not a pension product (IRDAI description line),loose v1 row: read from description line
+Aditya Birla Sun Life,ABSLI Salaried Suraksha,109L145V01,pension_ulip_guaranteed_vesting,Y,N,not a pension product (IRDAI description line),loose v1 row: read from description line
+Aditya Birla Sun Life,ABSLI Smart Wealth Pension Plan,109L157V01,pension_ulip_guaranteed_vesting,Y,?,pension ULIP; no vesting guarantee read in the deep data,loose v1 row: read from description line
+Aditya Birla Sun Life,ABSLI Wealth Aspire Plan,109L100V06,pension_ulip_guaranteed_vesting,Y,N,not a pension product (IRDAI description line),loose v1 row: read from description line
+Aditya Birla Sun Life,ABSLI Wealth Infinia,109L129V03,pension_ulip_guaranteed_vesting,Y,N,not a pension product (IRDAI description line),loose v1 row: read from description line
+Aditya Birla Sun Life,ABSLI Wealth Max Plan,109L073V05,pension_ulip_guaranteed_vesting,Y,N,not a pension product (IRDAI description line),loose v1 row: read from description line
+Aditya Birla Sun Life,ABSLI Wealth Secure Plan,109L074V05,pension_ulip_guaranteed_vesting,Y,N,not a pension product (IRDAI description line),loose v1 row: read from description line
+Aditya Birla Sun Life,ABSLI Wealth Smart Plus,109L147V02,pension_ulip_guaranteed_vesting,Y,N,not a pension product (IRDAI description line),loose v1 row: read from description line
+Ageas Federal Life,Ageas Federal Life Insurance Golden Years Pension Plan,135L100V01,pension_ulip_guaranteed_vesting,Y,?,pension ULIP; no vesting guarantee read in the deep data,loose v1 row: read from description line
+Ageas Federal Life,Ageas Federal Life Insurance Platinum Wealth Builder Plan,135L089V02,pension_ulip_guaranteed_vesting,Y,N,not a pension product (IRDAI description line),loose v1 row: read from description line
+Ageas Federal Life,Ageas Federal Life Insurance ProGrow Plan,135L101V01,pension_ulip_guaranteed_vesting,Y,N,not a pension product (IRDAI description line),loose v1 row: read from description line
+Ageas Federal Life,Ageas Federal Life Insurance Smart Growth Plan,135L053V07,pension_ulip_guaranteed_vesting,Y,N,not a pension product (IRDAI description line),loose v1 row: read from description line
+Ageas Federal Life,Ageas Federal Life Insurance Wealth Gain Insurance Plan,135L047V06,pension_ulip_guaranteed_vesting,Y,N,not a pension product (IRDAI description line),loose v1 row: read from description line
+Ageas Federal Life,Ageas Federal Life Insurance Wealthsurance Growth Insurance Plan SP II,135L082V02,pension_ulip_guaranteed_vesting,Y,N,not a pension product (IRDAI description line),loose v1 row: read from description line
+Axis Max Life,Axis Max Life Fast Track Super,104L082V06,pension_ulip_guaranteed_vesting,Y,N,not a pension product (IRDAI description line),loose v1 row: read from description line
+Axis Max Life,Axis Max Life Flexi Wealth Advantage Plan,104L121V05,pension_ulip_guaranteed_vesting,Y,N,not a pension product (IRDAI description line),loose v1 row: read from description line
+Axis Max Life,Axis Max Life Flexi Wealth Plus,104L115V04,pension_ulip_guaranteed_vesting,Y,N,not a pension product (IRDAI description line),loose v1 row: read from description line
+Axis Max Life,Axis Max Life Forever Young Pension Plan,104L075V11,pension_ulip_guaranteed_vesting,Y,?,pension ULIP; no vesting guarantee read in the deep data,loose v1 row: read from description line
+Axis Max Life,Axis Max Life Online Savings Plan,104L098V06,pension_ulip_guaranteed_vesting,Y,N,not a pension product (IRDAI description line),loose v1 row: read from description line
+Axis Max Life,Axis Max Life Online Savings Plan Plus,104L131V03,pension_ulip_guaranteed_vesting,Y,N,not a pension product (IRDAI description line),loose v1 row: read from description line
+Axis Max Life,Axis Max Life Platinum Wealth Plan,104L133V01,pension_ulip_guaranteed_vesting,Y,N,not a pension product (IRDAI description line),loose v1 row: read from description line
+Axis Max Life,Axis Max Life Shiksha Plus Super,104L084V20,pension_ulip_guaranteed_vesting,Y,N,not a pension product (IRDAI description line),loose v1 row: read from description line
+Axis Max Life,Axis Max Life Smart Term with Additional Returns ULIP,104L128V01,pension_ulip_guaranteed_vesting,Y,N,not a pension product (IRDAI description line),loose v1 row: read from description line
+Bajaj Life,Bajaj Life Fortune Gain II,116L196V05,pension_ulip_guaranteed_vesting,Y,N,not a pension product (IRDAI description line),loose v1 row: read from description line
+Bajaj Life,Bajaj Life Future Wealth Gain IV,116L202V01,pension_ulip_guaranteed_vesting,Y,N,not a pension product (IRDAI description line),loose v1 row: read from description line
+Bajaj Life,Bajaj Life GAIN,116L213V02,pension_ulip_guaranteed_vesting,Y,N,not a pension product (IRDAI description line),loose v1 row: read from description line
+Bajaj Life,Bajaj Life Goal Assure IV,116L204V01,pension_ulip_guaranteed_vesting,Y,N,not a pension product (IRDAI description line),loose v1 row: read from description line
+Bajaj Life,Bajaj Life Goal Based Saving III,116L206V01,pension_ulip_guaranteed_vesting,Y,N,not a pension product (IRDAI description line),loose v1 row: read from description line
+Bajaj Life,Bajaj Life Invest Protect Goal Plus,116L215V01,pension_ulip_guaranteed_vesting,Y,N,not a pension product (IRDAI description line),loose v1 row: read from description line
+Bajaj Life,Bajaj Life LongLife Goal III,116L203V01,pension_ulip_guaranteed_vesting,Y,N,not a pension product (IRDAI description line),loose v1 row: read from description line
+Bajaj Life,Bajaj Life Magnum Fortune Plus III,116L207V02,pension_ulip_guaranteed_vesting,Y,N,not a pension product (IRDAI description line),loose v1 row: read from description line
+Bajaj Life,Bajaj Life Smart Pension,116L209V08,pension_ulip_guaranteed_vesting,Y,?,pension ULIP; no vesting guarantee read in the deep data,loose v1 row: read from description line
+Bajaj Life,Bajaj Life Smart Wealth Goal VII,116L218V01,pension_ulip_guaranteed_vesting,Y,N,not a pension product (IRDAI description line),loose v1 row: read from description line
+Bajaj Life,Bajaj Life Supreme,116L211V02,pension_ulip_guaranteed_vesting,Y,N,not a pension product (IRDAI description line),loose v1 row: read from description line
+Canara HSBC Life,Canara HSBC Life Insurance Alpha Wealth,136L088V02,pension_ulip_guaranteed_vesting,Y,N,not a pension product (IRDAI description line),loose v1 row: read from description line
+Canara HSBC Life,Canara HSBC Life Insurance EZ Pension,136L094V01,pension_ulip_guaranteed_vesting,Y,?,pension ULIP; no vesting guarantee read in the deep data,loose v1 row: read from description line
+Canara HSBC Life,Canara HSBC Life Insurance Legacy Builder,136L095V01,pension_ulip_guaranteed_vesting,Y,?,pension ULIP; no vesting guarantee read in the deep data,loose v1 row: read from description line
+Canara HSBC Life,Canara HSBC Life Insurance Promise4Growth,136L089V02,pension_ulip_guaranteed_vesting,,N,not a pension product (IRDAI description line),loose v1 row: read from description line
+Canara HSBC Life,Canara HSBC Life Insurance Promise4Growth Plus,136L093V01,pension_ulip_guaranteed_vesting,Y,N,not a pension product (IRDAI description line),loose v1 row: read from description line
+Canara HSBC Life,Canara HSBC Life Insurance Promise4Wealth,136L096V01,pension_ulip_guaranteed_vesting,Y,N,not a pension product (IRDAI description line),loose v1 row: read from description line
+Canara HSBC Life,Canara HSBC Life Insurance SecureInvest,136L092V02,pension_ulip_guaranteed_vesting,Y,N,not a pension product (IRDAI description line),loose v1 row: read from description line
+Canara HSBC Life,Canara HSBC Life Insurance Wealth Edge,136L085V04,pension_ulip_guaranteed_vesting,Y,N,not a pension product (IRDAI description line),loose v1 row: read from description line
+HDFC Life,HDFC Life Click 2 Invest Plus,101L191V02,pension_ulip_guaranteed_vesting,Y,N,not a pension product (IRDAI description line),loose v1 row: read from description line
+HDFC Life,HDFC Life Click 2 Retire Plus II,101L192V02,pension_ulip_guaranteed_vesting,Y,B,pension ULIP; Assured Vesting,loose v1 row: read from description line
+HDFC Life,HDFC Life Click 2 Wealth,101L133V03,pension_ulip_guaranteed_vesting,Y,N,not a pension product (IRDAI description line),loose v1 row: read from description line
+HDFC Life,HDFC Life Sampoorn Nivesh Plus,101L180V01,pension_ulip_guaranteed_vesting,Y,N,not a pension product (IRDAI description line),loose v1 row: read from description line
+HDFC Life,HDFC Life Smart Pension Plan,101L164V09,pension_ulip_guaranteed_vesting,Y,?,pension ULIP; no vesting guarantee read in the deep data,loose v1 row: read from description line
+HDFC Life,HDFC Life Smart Protect Plus,101L187V04,pension_ulip_guaranteed_vesting,Y,N,not a pension product (IRDAI description line),loose v1 row: read from description line
+HDFC Life,HDFC Life Smart Woman,101L082V03,pension_ulip_guaranteed_vesting,-,N,not a pension product (IRDAI description line),loose v1 row: read from description line
+LIC,LIC's Index Plus,512L354V01,pension_ulip_guaranteed_vesting,Y,N,not a pension product (IRDAI description line),loose v1 row: read from description line
+LIC,LIC's New Pension Plus,512L347V01,pension_ulip_guaranteed_vesting,Y,N,not a pension product (IRDAI description line),loose v1 row: read from description line
+LIC,LIC's Protection Plus,512L361V01,pension_ulip_guaranteed_vesting,-,N,not a pension product (IRDAI description line),loose v1 row: read from description line
+LIC,LIC's SIIP,512L334V02,pension_ulip_guaranteed_vesting,Y,N,not a pension product (IRDAI description line),loose v1 row: read from description line
+LIC,LIC’s Nivesh Plus,512L317V02,pension_ulip_guaranteed_vesting,Y,N,not a pension product (IRDAI description line),loose v1 row: read from description line
+SBI Life,SBI Life - Ewealth Plus,111L147V01,pension_ulip_guaranteed_vesting,Y,N,not a pension product (IRDAI description line),loose v1 row: read from description line
+SBI Life,SBI Life - Retire Smart Plus,111L135V02,pension_ulip_guaranteed_vesting,Y,?,pension ULIP; no vesting guarantee read in the deep data,loose v1 row: read from description line
+SBI Life,SBI Life - Smart Elite Plus,111L146V01,pension_ulip_guaranteed_vesting,Y,N,not a pension product (IRDAI description line),loose v1 row: read from description line
+SBI Life,SBI Life - Smart Fortune Builder,111L142V01,pension_ulip_guaranteed_vesting,Y,N,not a pension product (IRDAI description line),loose v1 row: read from description line
+SBI Life,SBI Life - Smart Invest Builder,111L153V01,pension_ulip_guaranteed_vesting,Y,N,not a pension product (IRDAI description line),loose v1 row: read from description line
+SBI Life,SBI Life - Smart Privilege Plus,111L143V01,pension_ulip_guaranteed_vesting,Y,N,not a pension product (IRDAI description line),loose v1 row: read from description line
+SBI Life,SBI Life - Smart Scholar Plus,111L144V01,pension_ulip_guaranteed_vesting,Y,N,not a pension product (IRDAI description line),loose v1 row: read from description line
+Tata AIA Life,TATA AIA Smart SIP,110L174V02,pension_ulip_guaranteed_vesting,Y,N,not a pension product (IRDAI description line),loose v1 row: read from description line
+Tata AIA Life,Tata AIA Life Insurance Fortune Maxima,110L113V09,pension_ulip_guaranteed_vesting,Y,N,not a pension product (IRDAI description line),loose v1 row: read from description line
+Tata AIA Life,Tata AIA Life Insurance Fortune Pro,110L112V07,pension_ulip_guaranteed_vesting,Y,N,not a pension product (IRDAI description line),loose v1 row: read from description line
+Tata AIA Life,Tata AIA Life Insurance Smart Sampoorna Raksha,110L156V04,pension_ulip_guaranteed_vesting,Y,N,not a pension product (IRDAI description line),loose v1 row: read from description line
+Tata AIA Life,Tata AIA Life Insurance Wealth Maxima,110L114V05,pension_ulip_guaranteed_vesting,Y,N,not a pension product (IRDAI description line),loose v1 row: read from description line
+Tata AIA Life,Tata AIA Life Insurance Wealth Pro,110L111V05,pension_ulip_guaranteed_vesting,Y,N,not a pension product (IRDAI description line),loose v1 row: read from description line
+Tata AIA Life,Tata AIA Shubh SIP,110L190V01,pension_ulip_guaranteed_vesting,Y,N,not a pension product (IRDAI description line),loose v1 row: read from description line
+Tata AIA Life,Tata AIA Shubh Wealth,110L188V01,pension_ulip_guaranteed_vesting,Y,N,not a pension product (IRDAI description line),loose v1 row: read from description line
+Tata AIA Life,Tata AIA Smart Fortune Plus,110L177V01,pension_ulip_guaranteed_vesting,Y,N,not a pension product (IRDAI description line),loose v1 row: read from description line
+Tata AIA Life,Tata AIA Smart Pension Secure,110L182V09,pension_ulip_guaranteed_vesting,Y,?,pension ULIP; no vesting guarantee read in the deep data,loose v1 row: read from description line
+Tata AIA Life,Tata AIA Smart Raksha,110L187V01,pension_ulip_guaranteed_vesting,Y,N,not a pension product (IRDAI description line),loose v1 row: read from description line
+Tata AIA Life,Tata AIA Smart Sampoorna Raksha Pro,110L172V03,pension_ulip_guaranteed_vesting,Y,N,not a pension product (IRDAI description line),loose v1 row: read from description line
+Tata AIA Life,Tata AIA Smart Sampoorna Raksha Supreme,110L179V02,pension_ulip_guaranteed_vesting,Y,N,not a pension product (IRDAI description line),loose v1 row: read from description line
+Tata AIA Life,Tata AIA i Systematic Insurance Plan,110L164V11,pension_ulip_guaranteed_vesting,Y,N,not a pension product (IRDAI description line),loose v1 row: read from description line
