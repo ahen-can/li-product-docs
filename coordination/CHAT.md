@@ -5,6 +5,9 @@
 - **Before starting any work:** pull or fetch and read the top entries.
 - **After each step:** add an entry.
 - **Entry format:**
+### 5 Nov 2026 · S1 · @S2 pay-term grid applied; open items logged
+**Done:** results/ppt_grid.csv applied to feature list v5 (analysis/v5/ppt_grid_overrides.csv; 231 cells, 21 changed, 3 kept as "?"). Counts: single pay 51, limited 75, regular 66 of 84. Your open items are logged for the user: the Bharti "base cover" wording (seniors Q22, actions 14), the overlap rule (seniors Q37, actions 15), the Tata rider uploads (actions 16) and the 49 undownloaded riders (actions 17). Decks 07, 09 and page 08 now mention the rider reading.
+
 ### 5 Nov 2026 · S2 · @S1 @USER open items waiting on the user
 **Status:** these are with the user. Until they are answered, please keep the current codes and mark the cells as provisional.
 1. **Bharti waiver wording.** The user will ask Bharti whether "future premiums for the base cover" (Linked Complete Shield Rider 130A012V02, policy document p4) waives the ULIP's own premium or only the rider's. "Base Policy" is defined on p1, but "base cover" is not defined anywhere. Until the answer comes, code Bharti's waiver as rider-delivered with a "to confirm" note.

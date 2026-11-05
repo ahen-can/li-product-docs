@@ -23,7 +23,7 @@ Last updated: 4 Nov 2026 by S1 (main session). Full decision trail: `docs-intern
 - **S3's v4 QA (5 Nov):** 887 checks, 89% pass; every Bharti claim right; riders 100%. Systemic errors found and fixed in v5: payor riders (rule 1 matched only "payor"), additions basis misses, index funds by name, online terms, admin waived years, silence coded N. Not yet fixed: pay-term grids (S2 re-reading, briefs/ppt_grid_rescan_brief.md). v5 = deliverable 05. Provisional decisions 31-36 in for-your-attention/questions_for_seniors.md.
 - **ULIP pilot finalised for Neha (5 Nov):** selection (14 products) unchanged under v5; calculator unchanged except SBI SFB (6.16%); decks 07 (artifact v9) and 09 and page 08 refreshed to v5 numbers (waiver 60 of 84, Bharti via rider not on death; additions by basis; index funds 63; online 28; FMC refund 3 of 84; min-fund termination 13 of 84, all 7 Bharti). Hypothesis line in 08 still the old one; the user has their own wording. User: no other categories until the ULIP pilot is shown.
 - **NEXT for S1:**
-  1. When S2's results/ppt_grid.csv arrives: apply it (overrides), rebuild v5 (or v6), comparison 06.
+  1. DONE: S2's pay-term grid applied (analysis/v5/ppt_grid_overrides.csv). 3 cases wait for the overlap rule (seniors Q37).
   2. Refresh decks 07, 09 and Neha page 08 in one pass (waiver 60 of 84, Bharti "via rider on 6 of 7"; additions by basis; SBI 6.16%; hypothesis line from the user).
   4. SBI and Bajaj BIs when the user sends them.
 - **People:** the manual checker is Shobhit (named on the page; earlier notes said Rahul).

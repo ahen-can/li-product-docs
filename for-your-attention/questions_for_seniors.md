@@ -58,3 +58,9 @@ We had to make these calls to code the features. Each has a working rule, decide
 34. **Child plans where the parent is the life assured** (Bajaj Smart Wealth Goal VII Child Wealth, Axis Shiksha Plus Super, SBI Smart Scholar Plus). The plan waives or funds premiums on the parent's death. Is that a payor benefit? *Provisional: yes.*
 35. **Conditions on additions.** Where only one part of an addition depends on a condition (for example, only the online Fund Booster), we tag the condition on that part, not the whole addition. Agree? *Provisional: yes.*
 36. **Silence on options.** A ULIP contract lists every benefit, so we read silence on an addition or charge refund as "not offered". Options such as top-ups, systematic withdrawals and automatic fund strategies are often run as service features outside the contract, so silence on those is "not stated". Is that the right split? *Provisional: yes.*
+
+**Added from S2's pay-term re-read (5 Nov 2026).**
+
+37. **Overlapping pay-term ranges.** Three products give a range of policy terms and a range of premium payment terms that overlap, with no table and no rule saying which pairs are allowed: Axis Online Savings Plan (is limited pay allowed?), ABSLI Wealth Aspire and Ageas Platinum Wealth Builder (is regular pay, PPT equal to the policy term, allowed?). S2's proposed rule: if the ranges overlap and nothing forbids a pair, count it as allowed. Is that how the industry reads such ranges? *Provisional: coded "not stated" until answered.*
+
+(S2's other open point, Bharti's "base cover" waiver wording, is question 22 above.)

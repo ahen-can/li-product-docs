@@ -38,3 +38,9 @@ Tick these off here, or tell S1 in chat. Details are in the files next to this o
 11. **Bharti analysis:** start S3 on your laptop with `briefs/bharti_analysis_brief.md` and your folder of Bharti PDs, annual reports and KPI files.
 12. Make the `li-product-docs` repo **private**, and decide whether `boom` (public) should be too.
 13. Hand Rahul the QA pack (`qa/`).
+
+## Added 5 Nov 2026 (from S2's rider and pay-term work)
+14. **Ask Bharti** whether the Linked Complete Shield Rider's waiver ("future premiums for the base cover", policy p4) waives the ULIP premium or only the rider's own. Until then the decks say "via rider" with a note. Also in `questions_for_seniors.md`, questions 22 and 23.
+15. **Decide S2's overlap rule** for three unclear pay-term cases (`questions_for_seniors.md`, question 37).
+16. **Tata AIA rider documents S2 could not get:** OPD Care (110A166V01), the rider 110A167V02 named by i Systematic, and the Linked Comprehensive Health Rider policy document. Upload them to `uploads/tata-aia/riders/` if you can; until then their cover is "not stated".
+17. **The other 49 riders** insurers publish but none of our 84 ULIPs name (`results/riders_universal.csv`) stay undownloaded unless you want them.
