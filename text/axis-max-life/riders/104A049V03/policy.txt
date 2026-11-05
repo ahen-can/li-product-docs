@@ -1,0 +1,817 @@
+                                                           PART A
+
+Welcome to Axis Max Life Insurance
+
+ Date                  <Date>
+ To                    <Name of the Policyholder>
+                       <Address 1>
+                       <Address 2>
+                       <City> - <Pin Code><State>
+
+                         Policy no.:         <Policy number>
+                         Contact No:         <Telephone number>
+                         Email id:           <Email address>
+
+ Welcome               Dear <Name of the Policyholder>,
+
+
+                        Thank you for choosing Axis Max Life Insurance (formerly known as Max Life Insurance) as Your
+                        bharosemand partner. We are committed to financially protect You and Your loved ones. For them,
+
+
+
+                        We request You to go through the enclosed Rider for Axis Max Life Smart Ultra Protect Rider (A Unit
+                        Linked Individual Health Insurance Rider) with Rider document number <Rider document number>.
+
+                        Please also refer to the Customer Information Sheet bearing reference no. __for key information about Your
+                        Rider.
+
+
+ What to do in case    On examination of the Rider (enclosed herewith), if you notice any mistake or error, proceed as follows:
+ of errors             1. Contact our customer helpdesk or Your agent immediately at the details mentioned below.
+                       2. We will rectify the mistake/error and send an updated Rider to You.
+
+ Free         Look     You have a period of 30 (Thirty) days beginning from the date of receipt of the Rider document to review the
+ Cancellation          terms and conditions of the Rider. In You disagree with any of the terms and conditions of the Rider
+                       document or otherwise, and have not made any claim, You have the option to cancel the Rider by sending
+                       with a written request to Us, stating the reasons for the same.
+
+                       Upon receipt of Your request and if no claim has been made under the Rider, the Rider will terminate
+                       immediately and all rights, benefits and interests under the Rider shall cease immediately. You will be entitled
+                       to refund of the Rider Premiums received by Us, after deducting the proportionate risk Rider premium for
+                       the period of cover, charges of stamp duty paid and the expenses incurred on medical examination of the Life
+                       Insured, if any irrespective of the reasons mentioned.
+
+
+ Long           term   We are committed to giving You honest advice and offering You long-term savings, protection and retirement
+ protection            solutions backed by the highest standards of customer service. We will be delighted to offer You any
+                       assistance or clarification You may require about your Rider or claim-related services at the address
+                       mentioned below.
+
+                       We value Your association with us and assure You the best of our service, always.
+
+                       Yours Sincerely,
+
+                       Axis Max Life Insurance Ltd.
+
+                       <Name>
+                       <Designation>
+
+
+
+Agent / Intermediary detail: <Name>, <Code>, <Address>, <Contact>
+Axis Max Life Insurance Limited
+Plot No. 90C, Sector 18, Udyog Vihar, Gurugram, 122015, Haryana, India
+Phone: 4219090 Fax: 4159397 (From Delhi and Other cities: 0124) Customer Helpline: 1860 120 5577
+Product Name: Axis Max Life Smart Ultra Protect Rider UIN: 104A049V03
+Regd Office: 419, Bhai Mohan Singh Nagar, Railmajra, Tehsil Balachaur, District Nawanshahr, Punjab -144533
+Visit Us at: https://www.axismaxlife.com E-mail: service.helpdesk@axismaxlife.com
+IRDAI Registration No: 104
+Corporate Identity Number: U74899PB2000PLC045626
+
+
+
+
+Product Name: Axis Max Life Smart Ultra Protect Rider UIN: 104A049V03
+                                                      RIDER PREAMBLE
+
+                                        AXIS MAX LIFE INSURANCE LIMITED
+         Regd. Office: 419, Bhai Mohan Singh Nagar, Railmajra, Tehsil Balachaur, District Nawanshahr, Punjab -144533
+
+
+                                           Axis Max Life Smart Ultra Protect Rider
+                                        (A Unit Linked Individual Health Insurance Rider)
+                                                      UIN: 104A049V03
+
+Axis Max Life Insurance Limited has entered this contract of insurance on the basis of the information given in the Proposal Form
+together with the Premium deposit, statements, reports or other documents and declarations received from or on behalf of the
+proposer for effecting a life insurance contract on the life of the person named in the Schedule below.
+
+We agree to pay the benefits under the Rider on the happening of the insured event, while the Rider is in force subject to the terms
+and conditions stated herein.
+
+
+
+
+Axis Max Life Insurance Limited
+
+
+
+
+Place of Issuance: Gurugram, Haryana
+
+
+
+
+Product Name: Axis Max Life Smart Ultra Protect Rider UIN: 104A049V03
+                                                       RIDER SCHEDULE
+
+
+Base Policy Name-                                                 Type of Base Policy-
+Policy UIN - [●]                                                  Office-
+Rider Name – Axis Max Life Smart Ultra Protect Rider            Type of Rider – A Unit-Linked Individual Health Insurance
+                                                                                  Rider
+Rider UIN – 104A049V03
+
+ Policy No.:                                           Client ID:
+ Date of Proposal:
+ Policyholder:                                                        Gender:
+ PAN:                                                                 Contact No.:
+ Relationship with Life Insured:                                      Email:
+ Date of Birth:
+ Age:
+ Address (For all communication purposes):
+ Life Insured:                                                        Gender:
+ Date of Birth:
+ Age:
+ Address:
+                                                                      Appointee(s):
+  Nominee( Relationship Date of Birth        Age Gender %             Appointee Gender          Age              Relationsh
+  s) Name of            Of Nominee                      share         (s) Name                                   ip with
+           Nominee(s)                                                 (If                                        Nominee
+           with                                                       Nominee
+           Policyholder                                               is a
+                                                                      minor)
+
+
+
+ Date of Commencement of Risk under Rider:                            Premium Payment mode:
+
+ Date of Issuance of Rider:
+
+ Premium Payment Method:                                              Bill Draw Date:
+                                                                      Bank Account Number:
+ Agent’s name/ Intermediary name:                                     Agent’s code/ Intermediary code:
+ Email:                                                               Agent’s/ Intermediary License No.:
+ Address:                                                             Contact Number:
+ Details of Sales Personnel (for direct sales only):
+
+
+
+
+Product Name: Axis Max Life Smart Ultra Protect Rider UIN: 104A049V03
+    Rider     Return of      Premium     Maturity Insured      Rider     Rider     Rider    Annualised   Underwriting    GST*and      Modal  Total Rider    Due Date when
+  Variant     Premium        Payment      Date      Event     Benefit   Benefit   Premium     Rider         Extra        any other Factors Premium along Rider Premium
+  selected:    option        Variant -                        Variant   Variant   Payment    Premium      Premium        applicable         with applicable is payable/Date
+                          Single Premium                        Sum      Term      Term                                 taxes, cesses        taxes, cesses   when the Last
+                             Payment                          Assured                                                     & levies            and levies       Premium is
+                              Variant,                         (INR)                                                                        payable as per      payable
+                              Limited                                                                                                  D       Premium
+                             Premium                                                            A             B              C              payment mode
+                             Payment                                                          (INR)         (INR)          (INR)                selected
+                             Variant &
+                              Regular                                                                                                              E=
+                             Premium                                                                                                         [(A+B+C) * D]
+                             Payment                                                                                                             (INR)
+                              Variant
+Term Booster Yes/No                               Clause 1
+with                                              (A) of
+Accelerated                                       Part C
+Terminal
+Illness
+Accidental    Yes/No                               Clause 1
+Death Benefit                                      (B) of
+                                                   Part C
+Accidental    Yes/No                               Clause 1
+Total and                                          (C) of
+Permanent                                          Part C
+Disability
+Benefit
+Payor Benefit NA                                   Clause 1
+                                                   (D) of
+                                                   Part C
+
+*GST includes IGST, SGST, CGST, UGST (whichever is applicable) and applicable cesses.
+
+
+
+
+Product Name: Axis Max Life Smart Ultra Protect Rider UIN: 104A049V03
+                                                               PART-B
+
+                                        DEFINITIONS APPLICABLE TO YOUR RIDER
+
+The words and phrases listed below will have the meanings attributed to them wherever they appear in this Rider unless the context
+otherwise requires. The terms used in this Rider but not defined will derive their meaning from the Policy.
+
+1.    “Age” means the Life Insured’s age on last birthday as on the Date of Commencement of Risk under Rider or on the previous
+        Policy Anniversary, as the case may be;
+2.    “Accident” means a sudden, unforeseen and involuntary event caused by external, visible and violent means;
+3.    “Accidental Death” means death which is caused by an Accident provided such death was caused directly by such Accident
+      and independent of any physical or mental illness within 180 days of the date of Accident;
+4.    “Annualised Rider Premium” is the amount specified in the Schedule and means Rider Premium amount payable in a Policy
+      Year for a particular Rider Variant, excluding Underwriting Extra Premium, loading for modal premium and applicable taxes,
+      cesses or levies, ;
+5.     “Assignment” is the process of transferring the rights and benefits to an assignee, in accordance with the provisions of Section
+      38 of Insurance Act, 1938, as amended from time to time;
+6.    “Base Policy/ Policy” means the base policy to which this Rider is attached and forms part of;
+7.    “Claimant” means You, Nominee(s) (if valid nomination is effected), assignee(s) or their heirs, legal representatives or holders
+      of a succession certificates in case Nominee(s) or assignee(s) is/are not alive at the time of claim;
+8.    “Date of Commencement of Risk under Rider” means the date as specified in the Schedule, on which the coverage under
+      this Rider or chosen Rider Variant commences;
+9.    “Date of Issuance of Rider” means the date as specified in the Schedule, on which this Rider has been issued;
+10.   “Diagnosis” or “Diagnosed” means the definitive diagnosis made by a Medical Practitioner during Rider Term, based upon
+      radiological, clinical, and histological or laboratory evidence acceptable to Us provided the same is acceptable and concurred
+      by Our appointed Medical Practitioner. In the event of any doubt regarding the appropriateness or correctness of the Diagnosis,
+      We will have the right to call for an examination of the Life Insured and/or the evidence used in arriving at such Diagnosis, by
+      an independent expert selected by Us. The opinion of such an expert as to such Diagnosis shall be binding on both You and Us;
+11.   “Exit Value” means an amount payable on surrender of the Rider Variant without Return of Premium option in accordance
+      with Clause 2 of Part D;
+12.   “Force Majeure Event” means an event by which performance of any of Our obligations are prevented or hindered as a
+      consequence of any act of God, State, strike, lock-out, legislation, pandemic, epidemic or restriction by any government or
+      other authority or any circumstance beyond Our control, owing to which, the performance of this Rider shall be wholly or
+      partially suspended during the continuance of such Force Majeure Event;
+13.   “Freelook” means a period during which, subject to the Clause 8 of Part D of the Rider, You have an option to cancel the Rider
+      document and receive a refund of the Rider Premium paid ;
+14.   “Grace Period” means the time granted by the insurer from the due date of payment of Premium, without any penalty or late
+      fee, during which time the rider is considered to be in-force with the risk cover without any interruptions as per terms and
+      conditions of the Rider. The Grace Period for payment of Premium for all types of life insurance policies shall be 15 (Fifteen)
+      days from the due date of the unpaid Rider Premium where the Policyholder pays the Premium on monthly basis and 30 (Thirty)
+      days from the due date of unpaid Rider Premium for all other cases;
+15.   “Guaranteed Surrender Value” shall have the meaning assigned to it in Clause 1 of part D of the Rider;
+16.   “IRDAI” means the Insurance Regulatory and Development Authority of India;
+17.   "Illness" means a sickness or a disease or a pathological condition suffered by You leading to the impairment of normal
+      physiological function which manifests itself during the Rider Term and requires medical treatment;
+18.   “Injury” means accidental physical bodily harm excluding any Illness or disease, solely and directly caused by an external,
+      violent, visible and evident means which is verified and certified by a Medical Practitioner;
+19.   “Lapsed Rider” means a Rider where the due Premium has not been received within the Grace Period;
+20.   “Life Insured” means the person insured under the respective Rider Variant as specified in the Schedule;
+21.   “Limited Premium Payment Variant” means a variant under this Rider, wherein the Rider Premium Payment Term is less
+      than the Rider Term. For Limited Premium Payment Variant, the Rider Premium Payment Term shall be equal to, the lower of,
+      premium payment term of the Base Policy or the remaining premium payment term of the Base Policy, if Rider is added later
+      anytime during the Base Policy term;
+22.   “Loss of Sight in Both Eyes” shall mean total, permanent and irrecoverable loss of sight of both eyes because of an Accident
+      evidenced by:
+      i. corrected visual acuity being 3/60 or less in both eyes; or
+      ii. the field of vision being less than 10 degrees in both eyes.
+      The loss of sight must be confirmed by an Ophthalmologist to be permanent in nature and must not be correctable by aids or
+      surgical procedures;
+23.   “Loss of Sight in an Eye” shall mean total, permanent and irreversible loss of all vision in an eye because of an Accident,
+      evidenced by:
+      i. corrected visual acuity being 3/60 or less in an eye; or
+      ii. the field of vision being less than 10 degrees in an eye.
+      The loss of sight must be confirmed by an Ophthalmologist to be permanent in nature and must not be correctable by aids or
+      surgical procedures;
+24.    “Maturity Date” means the date specified in the Schedule, on which the Rider Benefit Variant Term expires;
+25.   “Medical Practitioner” means a person who holds a valid registration from the Medical Council of any state or Medical
+      Council of India or Council for Indian Medicine or for Homeopathy set up by the Government of India or a State Government
+      and is thereby entitled to practice medicine within its jurisdiction and is acting within its scope and jurisdiction of license,
+
+
+
+Product Name: Axis Max Life Smart Ultra Protect Rider UIN: 104A049V03
+      provided such Medical Practitioner shall not include Your spouse, father (including step father), mother (including step mother),
+      son (including step son), son’s wife, daughter (including step daughter), daughter’s husband, brother (including step brother/s)
+      or sister (including step sister/s) or the Life Insured or You or employed by You/the Life Insured;
+26.    “Modal Factor” means the applicable factor as specified in the Base Policy, which is used to determine the Premium, as per
+      the frequency of premium opted by You;
+27.   “Nominee” means nominee nominated by You (only if You are the Life Insured) under the Base Policy, in accordance with
+      Section 39 of Insurance Act, 1938 as amended from time to time, to receive the benefits under the Rider and whose name is
+      mentioned in the Schedule;
+28.   “Reduced Sum Assured under Rider Benefit” means Reduced Paid Up Factor multiplied by Rider Benefit Variant Sum
+      Assured;
+29.    “Reduced Paid Up Factor” means ratio of the “total period for which Rider Premiums have already been paid to the
+      “maximum period for which Rider Premiums were originally payable”;
+30.     “Revival” means restoration of the Rider, which was discontinued due to the nonpayment of Premium, by Us with all the
+        benefits mentioned in the Rider document, upon the receipt of all the Premiums due and other charges or late fee if any, during
+        the revival period, as per the terms and conditions of the Rider, upon being satisfied as to the continued insurability of the Life
+        Insured or Policyholder on the basis of the information, documents and reports furnished by the Policyholder, in accordance
+        with Underwriting Policy;
+31. “Regular Premium Payment Variant” means where the Rider Premium Payment Term is same as Policy Term;
+32. “Return of Premium” means the option chosen by You and as specified under the Schedule, where on maturity of the Rider,
+    You will be entitled to get the return of the Premiums paid in accordance with Clause 5 of Part C of the Rider;
+33. “Revival Period” means a such period, as specified under Base Policy, from the due date of the first unpaid Rider Premium,
+    during which period You are entitled to revive the Rider which was discontinued due to the non-payment of Rider Premium;
+34. “Rider” means this this insurance cover (s) added to the Base Policy for additional Rider Premium and includes the customer
+    information sheet;
+35. “Rider Anniversary” means the annual anniversary of the Date of Commencement of Risk under Rider;
+36. ‘Rider Benefit Variant Term’ is the duration for which coverage is available under the chosen Rider Variant as specified in
+    the Schedule;
+37. “Rider Premium” means an amount specified in the Schedule against respective Rider Variant, payable by You, by the due
+    dates to secure the benefits under the Rider, excluding applicable taxes, cesses and levies, if any;
+38. “Rider Premium Payment Term” means the term as specified in the Schedule during which the Rider Premium under the
+    Rider is to be paid by You;
+39. “Rider Variant (s)” means Rider benefits variant as selected by You and specified in the Schedule. Following Rider Variants
+    are available under this Rider:
+         (a) Term Booster with Accelerated Terminal Illness
+         (b) Accidental Death Benefit
+         (c) Accidental Total and Permanent Disability
+         (d) Payor Benefit;
+40. “Rider Benefit Variant Sum Assured” means an amount as specified in the Schedule payable for the chosen Rider Variant,
+    which is payable on happening of any insured event in terms of the provision of the Rider;
+41. “Rider Term” means the term of this Rider as specified in the Schedule;
+42. “Rider Year” means a period of 12 (Twelve) months commencing from the Date of Commencement of Risk under Rider and
+    every Rider Anniversary thereafter;
+43. “Schedule” means the rider schedule and any endorsements attached to and forming part of the Rider and if any updated
+    Schedule is issued, then, the Schedule latest in time;
+44. "Single Premium Payment Variant" means the Rider Premium amount and paid to Us in a single instalment as specified in
+    the Schedule excluding applicable taxes, cesses and levies;
+45. “Special Surrender Value” means the amount payable on Surrender of the Policy, as calculated basis the relevant factors;
+46. “Surrender Value” means an amount payable on surrender of the Rider Variant with Return of Premium option in accordance
+    with Clause 2 of Part D;
+47. “Terminal Illness” Life Insured shall be regarded as terminally ill only if the Life Insured is Diagnosed as suffering from a
+    condition which, in the opinion of two independent medical practitioners’ specializing in treatment of such illness, is highly
+    likely to lead to death within 6 months. The Life Insured must not be receiving any form of treatment other than palliative
+    medication for symptomatic relief. The Terminal Illness must be diagnosed and confirmed by Medical Practitioners’ registered
+    with the Indian Medical Association and approved by Us. We also reserve the right for independent assessment;
+48. “Total and Permanent Disability” a Life Insured shall be regarded as being totally and permanently disabled under a
+    "Presumptive" definition of disability, only if that life, due to accident, directly and independently of any other cause and has
+    been subject to one (or more) of the following impairments:
+         i. Total and irrecoverable Loss of Sight in Both Eyes; or
+         ii. the loss by physical severance (or total and permanent loss of use) of two limbs at or above the wrist or ankle, or
+         iii. the total and permanent Loss of Sight in an eye and the loss by physical severance (or total and permanent loss of
+               use) of one limb at or above the wrist or ankle;
+
+    In order for a benefit to be payable, such disability must have persisted continuously for a period of at least 180 days from the
+    occurrence of such Accident, and must, in the opinion of a suitable Medical Practitioner, appointed by Us, be deemed
+    permanent;
+49. “Total Rider Premiums Paid” means the total of all Rider Premiums received for a partiucular Rider Variant, under the Rider,
+    including top-ups Premium paidif any;
+
+
+
+
+Product Name: Axis Max Life Smart Ultra Protect Rider UIN: 104A049V03
+50. “Underwriting Extra Premium” means an additional amount mentioned in the Schedule and charged by Us, as per
+    Underwriting Policy, which is determined on the basis of disclosures made by You in the Proposal Form or any other
+    information received by Us including medical examination report of the Life Insured;
+51. “Underwriting Policy” means an underwriting policy approved by Our board of directors;
+52. “We”, “Us” or “Our” means Axis Max Life Insurance Limited; and
+53. “You”, “Your” or “Policyholder” means the policyholder as named in the Schedule, who is the policyholder under the Base
+    Policy.
+
+The capitalized words used but not defined herein, shall borrow meaning as per the term and conditions of the Base Policy.
+
+
+
+
+Product Name: Axis Max Life Smart Ultra Protect Rider UIN: 104A049V03
+                                                 PART - C
+                      RIDER FEATURES, BENEFITS & RIDER PREMIUM PAYMENT CONDITIONS
+
+1.   RIDER BENEFITS
+
+The benefits shall depend on the Rider Variant chosen by You. Subject to the terms and conditions of this Rider including the
+exclusions and provided the Rider Variant/ Base Plan is in force, the following benefits shall be payable upon happening of any
+insured event:
+A. In case, You have opted for Term Booster with Accelerated Terminal Illness Benefit Rider Variant and provided this Rider
+     Variant is in-force:
+     i. In case of death of the Life Insured during the Rider Benefit Variant Term, the applicable Rider Benefit Variant Sum
+          Assured shall be paid and coverage under all other Rider Benefit Variant’s will terminate.
+     ii. In case of Diagnosis of Terminal Illness of the Life Insured, during the Rider Benefit Variant Term, the applicable Rider
+          Benefit Variant Sum Assured shall be paid and this Rider Variant will terminate.
+     iii. Benefit under this Rider Variant is payable only once during the Rider Benefit Variant Term and shall terminate upon
+          death or Diagnosis of Terminal Illness of the Life Insured or expiry of the Rider Benefit Variant Term, whichever is earlier.
+B. In case, You have opted for Accidental Death Benefit Rider Variant and provided this Rider Variant is in-force:
+     i. In case of death of the Life Insured due to an Accident before an expiry of the Rider Benefit Variant Term, the applicable
+          Rider Benefit Variant Sum Assured shall be paid and all the Rider Benefit Variants will terminate.
+
+C.   In case, You have opted for Accidental Total and Permanent Disability Rider Variant and provided this Rider Variant is in-
+     force:
+     i. In the event of Total and Permanent Disability of the Life Insured due to Accident during the Rider Benefit Variant Term,
+          the applicable Rider Benefit Variant Sum Assured shall be paid and this Rider Variant will terminate.
+D. In case, You have opted for Payor Benefit Rider Variant and the provided this Rider Variant is in-force:
+     i. In case of death or Diagnosis of Terminal Illness of Policyholder, whichever is earlier, We will (i) fund all future
+          outstanding Premiums, as and when due, under the base policy; and (ii) waive off all the future Premiums under all attached
+          Rider (including other Rider Benefit Variants under this Rider).
+     ii. This Payor Benefit Rider Variant is only applicable when the Policyholder and the Life Insured are different individuals.
+          The coverage under this Rider variant is on the Life of the Policyholder.
+     iii. Once the claim under Payor Benefit Rider Variant is accepted and the future Premium(s) are funded (waived in case of
+          Riders) by Us; then in case of termination of Policy due to happening of any insured event or surrender, the present value
+          of future Premiums (if any) to be funded (waived in case of Riders) will be paid in addition to benefits under the Policy.
+ iv.      Benefit under this Rider Variant is payable only once during the Rider Benefit Variant Term and shall terminate upon
+          death or Diagnosis of Terminal Illness of the Policyholder or expiry of the Rider Benefit Variant Term, whichever is
+          earlier.
+
+2.   SURVIVAL BENEFIT
+     No Survival Benefit is payable under this Rider.
+
+3. MATURITY BENEFIT
+3.1 In case You have chosen without Return of Premium Option, no maturity benefit shall be payable.
+3.2 In case You have chosen a Rider Variant (i) Accidental Death Benefit with Return of Premium Variant (ii) Accidental Total &
+    Permanent Disability Benefit with Return of Premium Variant (iii) Term Booster with Accelerated Terminal Illness Benefit
+    with Return of Premium Variant, We will pay 100% of Total Rider Premium Paid plus Underwriting Extra plus modal extra
+    under the respective Rider Variant, provided no claim has been made by You during the Rider Benefit Variant Term and the
+    coverage under all rider benefit variants will terminate.
+
+4 REDUCED PAID-UP BENEFIT
+4.1 This is applicable only for Rider Variant with Return of Premium option.
+4.2 If the chosen Rider Variant has acquired a Surrender Value as per Clause 2 of Part D, wherein in an event of non-payment of
+    the due Rider Premiums by You to Us on the expiry of the Grace Period, the chosen Rider Variant will not become a Lapsed
+    Rider and will continue under Reduced Paid Up Mode unless Revived.
+4.3 The reduced paid-up benefit for the Regular Premium Payment Variant /Limited Premium Payment Variant, as specified below
+    is applicable as per the table below:
+
+ Rider          Return of                                                   Coverage details
+ Premium        Premium              Before first full
+ payment        Option               year’s Rider            After first full year’s Rider Premium is paid
+ variant        (Yes/No)             Premium is paid
+ Regular        No                   Cover cease to exist    Cover cease to exist
+ Premium
+                                                             Cover continues with Reduced Sum Assured under Rider Benefit if
+ Payment        Yes                  Cover cease to exist
+                                                             the Policy goes into Reduced Paid-Up mode or remain in-forced.
+ Variant
+ Limited        No                   Cover cease to exist    Cover cease to exist
+ Premium
+                                                             Cover continues with Reduced Sum Assured under Rider Benefit if
+ Payment        Yes                  Cover cease to exist
+                                                             the Policy goes into Reduced Paid-Up mode or remain in-forced.
+ Variant
+
+
+
+Product Name: Axis Max Life Smart Ultra Protect Rider UIN: 104A049V03
+4.4 In case of insured event as per chosen Rider Variant triggers under a Reduced Paid Up Mode Rider, Reduced Sum Assured
+    under Rider Benefit shall be paid and the Rider Variant shall terminate.
+
+4.5 Reduced Paid Up Maturity Benefit: If no claim has been made throughout the Rider Benefit Variant Term, 100% of the Total
+    Rider Premiums plus Underwriting Extra plus modal extra under the respective Benefit Variant(s) will be paid at end of the
+    Rider Benefit Variant Term and the coverage under all Rider Benefit Variants will terminate.
+4.6 Reduced Paid Up Surrender Value: The Surrender Value of Reduced Paid Up Rider will be same as per Clause 2 of Part D.
+
+5.    Return of Premium Option
+5.1 Option to choose Return of Premium is available for Term Booster with Accelerated Terminal Illness, Accidental Death Benefit
+and Accidental Total and Permanent Disability Rider Benefit Variant. This option is available only at inception, cannot be opted out
+during the Rider Term.
+
+5.2 In case the Return of Premium option is opted and no claim has been made under the Rider Variant till the end of Rider Term,
+an amount equal to the Total Premiums Paid towards the respective Rider Variant, shall be returned.
+
+6.     PREMIUM
+a.   You can pay the Premiums as a single Premium or annually, semi-annually, quarterly or on monthly basis, as per the Rider
+     Premium payment mode chosen by You, provided that the Rider Premium payment mode under this Rider shall always be same
+     as the Premium payment mode of the Base Policy and can only be changed with the change of Premium payment mode in the
+     Base Policy.
+b.   Any change in the Rider Premium payment mode will result in a change in the Rider Premium amount based on the applicable
+     Modal Factors for all applicable Rider Variants.
+c.   A policyholder can choose to attach any rider(s) at any time during the subsequent policy anniversary as per the available rider
+     terms and conditions
+d.   You can pay Rider Premium at any of Our offices or through Our website https://www.axismaxlife.com or by any other means,
+     as informed by Us. Any Premium paid by You will be deemed to have been received by Us only after the same has been realized
+     and credited to Our bank account.
+e.   The Rider Premium payment receipt will be issued in Your name, which will be subject to realization of cheque or any other
+     instrument/medium.
+f.   The Rider Premium shall be levied through level Rider Premium and not as rider charge (to be deducted from unit funds) and
+     shall be in addition to the Premium under the Base Policy.
+
+7.   LAPSATION OF RIDER
+     Subject to the terms of the Base Policy, at any time during the Rider Benefit Variant Term, if the Rider Premiums for any
+     particular Rider Variant are not paid within the Grace Period and the Rider Variant has not acquired Surrender Value, the Rider
+     Variant will lapse. No benefits shall be payable under a lapsed Rider Variant.
+
+ 8. GRACE PERIOD
+    The Rider Premium is due and payable by the due date specified in the Schedule. If the Rider Premium is not paid by the due
+    date, You may pay the same during the Grace Period without any interest or late fee.
+
+     The coverage under the chosen benefit option will remain in force during this period. If the full Rider Premium for the first
+     year from the Date of Commencement of Risk under Rider remains unpaid at the end of Grace Period and the Rider has not
+     acquired surrender value, the coverage under the chosen benefit option shall lapse from the due date of the first unpaid Rider
+     Premium. If any claim occurs during the Grace Period, any due Rider Premium (without interest) for the full coverage year, in
+     which the insured event has occurred will be deducted from the claim pay-out.
+
+9. ALTERATIONS
+ a. Any Rider Variant can be attached to the Base Policy at inception or at any policy anniversary of the Base Policy as per board
+    approved Underwriting Policy and the applicable Rider terms and conditions.
+
+ b. Rider variant shall automatically get surrendered if the Base Policy is surrendered and Exit Value/Surrender Value (as
+    applicable) under the Rider, if any shall be payable.
+
+ 10. HOSPITALIZATION BENEFITS
+     No Hospitalization benefits shall be payable under any Rider Variant.
+
+
+
+
+Product Name: Axis Max Life Smart Ultra Protect Rider UIN: 104A049V03
+                                                                PART-D
+ 1.   SURRENDER VALUE/ EXIT VALUE
+
+1.1 The Rider can be surrendered even without surrendering the Base Policy. You may surrender the Rider Variant any time after
+    the Rider Variant has acquired a Surrender Value or Exit Value.
+
+1.2 Any individual Rider Benefit Variant or all Rider Benefit Variants under the Rider may be surrendered / discontinued separately
+    or it gets surrendered / discontinued if the Base Plan is surrendered / discontinued.
+1.3 The detailed table describing the Surrender Value /Exit Value scenarios is provided below for the respective Rider Variants:
+
+                 Return                       Conditions
+  Rider                       Surrender                           Surrender Value (if any) to
+                 of                           for acquiring                                        Exit Value (if any) to be
+  premium                     Value/ Exit                         be calculated as per the
+                 Premium                      Surrender                                            calculated as per the
+  payment                     Value                               formula below:
+                 Option                       Value/Exit                                           formula below:
+  variant                     applicable
+                 (Yes/No)                     Value
+                                                                                                   75% x ((Total Rider Premiums
+                                                                                                   Paid plus Underwriting Extra
+                                              After payment                                        premiums paid plus loading for
+                 No           Exit Value      of single Rider     NA                               modal premiums, if any) x
+                                              Premium                                              (Unexpired Rider Benefit
+                                                                                                   Variant Term/ Total Rider
+                                                                                                   Benefit Variant Term)
+  Single                                                          The Surrender Value is equal
+  Premium                                                         to higher of Guaranteed
+  Payment                                                         Surrender Value and Special
+  Variant                                                         Surrender Value
+                                              Immediately on
+                              Surrender       payment of
+                 Yes                                              Guaranteed Surrender Value is    NA
+                              Value           single Rider
+                                                                  Guaranteed Surrender Value
+                                              Premium
+                                                                  factor x (Total Rider Premiums
+                                                                  Paid plus Underwriting Extra
+                                                                  paid plus loading for modal
+                                                                  premiums, if any)
+                 No           NA              NA                  NA                               NA
+                                              Guaranteed
+                                              Surrender
+                                              Value:        On    The Surrender Value is equal
+                                              payment of two      to higher of Guaranteed
+                                              full year’s Rider   Surrender Value and Special
+  Regular                                     Premiums            Surrender Value
+  Premium                                     Special
+                              Surrender
+  Payment        Yes                          Surrender           Guaranteed Surrender Value is    NA
+                              Value
+  Variant                                     Value:      After   Guaranteed Surrender Value
+                                              completion of       factor x (Total Rider Premiums
+                                              first Policy Year   Paid plus Underwriting Extra
+                                              provided      one   paid plus loading for modal
+                                              full         year   premiums, if any)
+                                              Premium has
+                                              been received.
+                                                                                                   75% x ((Total Rider
+                                                                                                   Premiums Paid plus
+                                                                                                   Underwriting Extra premiums
+                                              After payment
+                                                                                                   paid plus loading for modal
+                 No           Exit Value      of all due Rider    NA
+                                                                                                   premiums, if any) x
+                                              Premiums
+                                                                                                   (Unexpired Rider Benefit
+                                                                                                   Variant Term/ Total Rider
+                                                                                                   Benefit Variant Term)
+  Limited                                     Guaranteed
+                                                                  The Surrender Value is equal
+  Premium                                     Surrender
+                                                                  to higher of Guaranteed
+  Payment                                     Value:        On
+                                                                  Surrender Value and Special
+  Variant                                     payment of two
+                                                                  Surrender Value
+                                              full year’s Rider
+                              Surrender       Premiums
+                 Yes                                              Guaranteed Surrender Value is    NA
+                              Value           Special
+                                                                  Guaranteed Surrender Value
+                                              Surrender
+                                                                  factor x (Total Rider Premiums
+                                              Value:      After
+                                                                  Paid plus Underwriting Extra
+                                              completion of
+                                                                  paid plus loading for modal
+                                              first Policy Year
+                                                                  premiums, if any)
+                                              provided      one
+
+
+ Product Name: Axis Max Life Smart Ultra Protect Rider UIN: 104A049V03
+                                                full        year
+                                                Premium has
+                                                been received.
+
+1.4   Guaranteed Surrender Value is defined as:
+
+      Guaranteed Surrender Value factor x (Total Rider Premiums Paid plus Underwriting Extra paid plus loading for modal
+      premiums, if any)
+
+      The Guaranteed Surrender Value factors are provided in the table below:
+         Policy
+                    Single Premium Payment           Limited Premium Payment Variant and Regular Premium Payment
+        Year of
+                             Variant                                                Variant
+       Surrender
+                               75%                                                    NIL
+           2                   75%                                                   30%
+           3                   75%                                                   35%
+           4                   90%                                                   50%
+           5                   90%                                                   52%
+           6                   90%                                                   54%
+           7                   90%                                                   56%
+                                                   Graduating linearly from 56% to 90% during the last two Policy Years
+          8+                   90%                 Minimum [(56% + [(34% x (N-7)) / (Policy Term - 8)], or 90%]
+                                                   N : Year of Surrender
+
+1.5 The Surrender Value is equal to higher of Guaranteed Surrender Value and Special Surrender Value
+1.6 Before making a request for Surrender, You may approach Us to know about the Surrender Value in respect of Your Policy.
+1.7 It may be noted that the Special Surrender Value or and the basis for calculating the Special Surrender Value factors under the
+    Policy may be revised by Us based on the experience or applicable laws.
+
+
+ 2.    LOANS
+
+ You are not entitled to any loans under this Rider.
+
+ 3.    REVIVAL OF THE RIDER
+
+ Lapsed Rider Variant can be revived only if Base Policy has been revived. Rest of the conditions for reinstatement/revival of this
+ Rider shall be same as that applicable for the Base Policy.
+
+ 4.    PAYMENT OF RIDER BENEFITS
+
+ 4.1 The benefits under this Rider shall be payable only on submission of satisfactory proof of Insured Event (as per chosen Rider
+     Variant) to Us. The benefits under Rider shall be payable to the Claimant upon Claimants written request and submission of
+     the required documents.
+ 4.2 Once the benefits under the chosen Rider(s) variant are paid to the Claimant, this Rider(s) will terminate and the same shall
+     constitute a valid discharge of Our liability under this Rider.
+
+ 5.    TERMINATION OF THE RIDER
+
+       5.1 The Rider cover under this Rider shall automatically terminate on the occurrence of any of the first of the following events
+           during the Rider Term:
+            5.1.1 on the date of Freelook cancellation;
+            5.1.2 on the date of death of Life Insured;
+            5.1.3 on the payment of claim benefits under all the opted Rider Variant.
+            5.1.4 on the expiry of the Rider Benefit Variant Term and payment of maturity benefit (if applicable).
+            5.1.5 on payment of 100% of Rider Benefit Variant Sum Assured under this Rider;
+            5.1.6 on date on which the Rider or Base Policy is cancelled or terminated for any reason;
+            5.1.7 on surrender of the Rider or the Base Policy;
+            5.1.8 on the expiry of the Revival Period, if the Lapsed Rider has not been revived;
+
+       5.2 The Rider Variant option shall terminate upon the happening of the first of the following events:
+            5.2.1 on the expiry of Rider Benefit Variant Term;
+            5.2.2 on payment of surrender/Exit Value of the Rider Variant;
+            5.2.3 on the date on which We receive Freelook cancellation request for the Rider Variant within requisite period;
+            5.2.4 on the payment of the benefit as per the terms of the Rider Variant or the date of intimation of repudiation of the
+                   claim by Us;
+            5.2.5 on the expiry of the Revival Period, if the lapsed Rider Variant has not been revived;
+            5.2.6 on termination of Base Policy;
+
+
+
+ Product Name: Axis Max Life Smart Ultra Protect Rider UIN: 104A049V03
+            5.2.7   on the maturity date or the date on which the Base Policy is surrendered, converted into reduced paid-up (when
+                    the Rider Variant option has not acquired Surrender Value), terminated or cancelled for any reason;
+            5.2.8   on cancellation/ termination of this Rider/ Rider Variant by Us on grounds of misrepresentation, fraud or non-
+                    disclosure established in terms of Section 45 of the Insurance Act, 1938 as amended from time to time.
+
+      6. SUICIDE EXCLUSIONS
+      6.1 This will be applicable only for Term Booster with Accelerated Terminal Illness and Payor Benefit Rider Variant.
+      6.2 We will return higher of (i) the Total Rider Premium Paid, Underwriting Extra Premiums and loadings for modal premiums
+          paid, if any received by Us or (ii) the Surrender Value available as on the date of death, till the date of death, provided the
+          Policy is in-force, under this Rider if the death of the Life Insured is directly or indirectly, voluntarily or involuntarily due
+          to or caused, occasioned, accelerated or aggravated by suicide or attempted suicide by the Life Insured, within 12 (Twelve)
+          months from the Date of Commencement of Risk under Rider or the date of revival of the Rider and the Rider shall
+          terminate immediately.
+
+      7.   FREELOOK CANCELLATION
+
+           “Freelook” means a period of 30 days beginning from the date of receipt of the Rider, to review the terms and conditions
+           of the Rider. If You disagree to terms and conditions of the Rider document or otherwise, and have not made any claim,
+           You have the option to cancel the Rider by sending with a written request to Us stating the reasons for the same. Upon
+           receipt of Your request and if no claim has been made under the Rider, the Rider will terminate immediately and all rights,
+           benefits and interests under the Rider will cease immediately. You shall be entitled to a refund of the Premium received
+           by Us after deducting the proportionate risk premium for the period of cover, charges of stamp duty paid and the expenses
+           incurred by Us on medical examination of the Life Insured, if any irrespective of the reasons mentioned.
+
+      8.   EXCLUSIONS:
+
+      8.1 Exclusions for Terminal Illness Benefit: No benefit shall be paid if there is a terminal illness due to self-inflicted injury,
+          suicide or attempted suicide within 12 months from the date of Commencement of Risk or from the date of revival of the
+          Rider.
+      8.2 Exclusion for Accidental Death Benefit and Accidental Total & Permanent Disability Benefit: Accidental Death
+          Benefit and Accidental Total & Permanent Disability Benefit shall not be payable for any losses caused directly or
+          indirectly, wholly or partly, by any one of the following occurrences:
+
+
+      1.   Intentional self-inflicted injury, attempted suicide, while sane or insane;
+      2.   Insured person being under the influence of drugs, alcohol, narcotics or psychotropic substances unless taken in
+           accordance with the lawful directions and prescription of a Doctor;
+      3.   War, invasion, hostilities (whether war be declared or not), armed or unarmed truce, civil war, mutiny, rebellion,
+           revolution, insurrection, military or usurped power, riot or civil commotion, strikes;
+      4.   Taking part in any naval, military or air force operation during peace time or during service in any police, paramilitary or
+           any similar organization;
+      5.   Participation by the insured person in any flying activity, except as a bona fide, fare-paying passenger of a recognized
+           airline or Pilots and cabin crew of a commercial airline, on regular routes and on a scheduled timetable;
+      6.   Participation by the insured person in a criminal or unlawful act with illegal or criminal intent;
+      7.   Engaging in or taking part in professional sport(s) or any hazardous pursuits, including but not limited to, diving or
+           riding or any kind of race; underwater activities involving the use of breathing apparatus or not; martial arts; hunting;
+           mountaineering; parachuting; bungee jumping;
+      8.   Nuclear Contamination; the radio-active, explosive or hazardous nature of nuclear fuel materials or property
+           contaminated by nuclear fuel materials or accident arising from such nature
+
+                                                              PART-E
+                                                          RIDER CHARGES
+
+APPLICABLE FEES/ CHARGES UNDER THIS RIDER
+
+Part E is not applicable to this Rider.
+
+
+                                                      PART-F
+                                      GENERAL TERMS & CONDITIONS OF THE RIDER
+
+These general terms and conditions are applicable in addition to the general terms and conditions of the Base Policy.
+
+1.    TAXES
+
+     Same as Base Policy
+
+
+
+
+Product Name: Axis Max Life Smart Ultra Protect Rider UIN: 104A049V03
+2.    CLAIM PROCEDURE
+
+2.1. A Claimant claiming benefits under this Rider shall endeavor to notify Us of the same, in writing, within 90 (Ninety) days
+     from the happening of Insured event under the Rider.
+2.2. We will require the following documents in case of claim under the chosen Rider Variant:
+     a) Claimant’s statement in the prescribed form (death claim application form -form A);;
+     b) a copy of police complaint/ first information report, charge sheet, wherever applicable (only in the case of death by
+          accident or unnatural death or suicidal death of the Life Insured);
+     c) in case of medical/natural death of the Life Insured, attending physician's statement (Form C) and the medical records
+          (admission notes, discharge/death summary, test reports, etc.);
+     d) certificate by a Medical Practitioner confirming Diagnosis of the Life Insured;
+     e) All medical/ hospital records (including diagnostic records) pertaining to Accident, Terminal Illness / Accidental Total and
+          Permanent Disability Diagnosis and treatment.
+     f) original/ attested copy of death certificate issued by the local/municipal authority authority;
+     g) original Rider Document;
+     h) a self-attested copy of identity proof of the Claimant including Nominee(s), if any bearing their photographs and signatures;
+     i) NEFT mandate form attested by bank authorities;
+     j) Bank statement of last 2 years of the Life Insured;
+     k) copy of bank passbook / cancelled cheque of the claimant;
+     l) ITR for last 3 years / GST certificate in case of self-employed in case of a medical/natural death of the Life Insured, the
+          attending physician’s statement (Form C) and the medical records (admission notes, discharge/death summary, test reports,
+          etc.);
+     m) discharge summary / indoor case papers in case death happened due to medical reasons in a hospital;
+     n) medical booklet / CGHS card details in case of defence and central government personnel;
+     o) body transfer certificate / embassy documents / postmortem report whichever applicable in case of death in foreign country;
+     p) complete passport copy in case of death in foreign country;
+     q) other life / health insurance details with claim history details and
+     r) any other documents/information required by Us for assessing and approving the claim request.
+2.3. A Claimant can download the claim request documents from Our website https://www.axismaxlife.com or can obtain the same
+     from any of Our branches.
+2.4. We reserve the right to scrutinize the documents submitted by the Claimant and/or investigate the cause leading to the
+     occurrence of the Insured event and deny the claim partially or completely on the basis of Our scrutiny of the documents or
+     investigation, as the case may be. We shall pay the benefits under this Rider subject to Our satisfaction:
+       a) that the benefits have become payable as per the terms and conditions of this Rider; and
+     b) of the bonafides and credentials of the Claimant.
+2.5. Subject to Our sole discretion and satisfaction, in exceptional circumstances such as on happening of a Force Majeure Event,
+     We may decide to waive all or any of the requirements.
+2.6. The Claimant is required to intimate Us along with necessary documents as mentioned above, regarding a claim under the
+     Policy, at the earliest possible time either in person or through online mode or Our distribution channel or authorized call centre.
+     For any support or guidance in relation to claims, please contact us at Helpline No. – 1860 120 5577, Email:
+     service.helpdesk@axismaxlife.com.
+
+3.    DECLARATION OF THE CORRECT AGE AND GENDER
+      Same as Base Policy
+4.    FRAUD, MIS-STATEMENT AND FORFEITURE
+      Same as Base Policy.
+5.    NOMINATION
+      Same as Base Policy.
+6.    ASSIGNMENT
+      Same as Base Policy.
+7.    CHANGE IN ADDRESS
+      In order to provide better service, We request you to intimate us in the event of any change in the address of the Policyholder
+      or the nominee.
+8.    TRAVEL RESTRICTION
+      There are no restrictions on travel under this Rider.
+9.    RIDER CURRENCY
+      As per Base Policy.
+10.   ELECTRONIC TRANSACTIONS
+      As per Base Policy.
+11.   AMENDMENT
+      As per Base Policy.
+12.   REGULATORY AND JUDICIAL INTERVENTION
+      As per Base Policy.
+13.   FORCE MAJEURE
+      As per Base Policy.
+14.   COMMUNICATION AND NOTICES
+
+
+
+Product Name: Axis Max Life Smart Ultra Protect Rider UIN: 104A049V03
+    As per Base Policy.
+15. GOVERNING LAW AND JURISDICTION
+    As per Base Policy.
+16. ISSUANCE OF DUPLICATE POLICY
+    You may request for a duplicate copy of the Rider to Us along with relevant documents. Additional charges, not exceeding
+    Rs.250/- may be applicable for issuance of the duplicate Rider.
+17. TRANSLATION
+In the event of any conflict or discrepancy between any translated version and the English language version of this Policy contract,
+     the English language version of this Policy contract shall prevail.
+
+
+
+                                              PART - G
+                        GRIEVANCE REDRESSAL MECHANISM AND OMBUDSMAN DETAILS
+
+As per Base Policy.
+
+
+
+
+Product Name: Axis Max Life Smart Ultra Protect Rider UIN: 104A049V03
+

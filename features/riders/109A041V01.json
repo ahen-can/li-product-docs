@@ -1,0 +1,170 @@
+{
+ "rider": {
+  "name": {
+   "value": "ABSLI Comprehensive Critical Illness Rider",
+   "status": "n/a",
+   "doc": "Brochure",
+   "quote": "ABSLI COMPREHENSIVE CRITICAL ILLNESS RIDER",
+   "note": null,
+   "page": 1,
+   "doc_path": "docs/absli/riders/109A041V01/brochure.pdf"
+  },
+  "uin": {
+   "value": "109A041V01",
+   "status": "n/a",
+   "doc": "Policy Contract",
+   "quote": "109A041V01",
+   "note": null,
+   "page": 20,
+   "doc_path": "docs/absli/riders/109A041V01/policy.pdf"
+  },
+  "linked_or_non_linked": {
+   "value": "individual linked non-participating rider; rider premium",
+   "status": "n/a",
+   "doc": "Brochure",
+   "quote": "An Individual Linked Non-Participating Rider",
+   "note": null,
+   "page": 1,
+   "doc_path": "docs/absli/riders/109A041V01/brochure.pdf"
+  },
+  "attached_to_ulips": {
+   "value": "see results/ulip_rider_map.csv",
+   "status": "n/a",
+   "doc": null,
+   "quote": null,
+   "note": "Named by 7 of 10 ABSLI ULIPs.",
+   "page": null,
+   "doc_path": null
+  }
+ },
+ "benefits": {
+  "waiver_of_premium": {
+   "value": "not covered",
+   "status": "not covered",
+   "doc": "Brochure",
+   "quote": "Protection against up to 64 Critical Illnesses (CIs)",
+   "note": "The rider pays a lump sum on critical illness only.",
+   "page": 2,
+   "doc_path": "docs/absli/riders/109A041V01/brochure.pdf"
+  },
+  "waiver_on_death_of_life_assured": {
+   "value": "not covered",
+   "status": "not covered",
+   "doc": "Brochure",
+   "quote": "Protection against up to 64 Critical Illnesses (CIs)",
+   "note": "The rider pays a lump sum on critical illness only.",
+   "page": 2,
+   "doc_path": "docs/absli/riders/109A041V01/brochure.pdf"
+  },
+  "waiver_on_death_or_illness_of_proposer": {
+   "value": "not covered",
+   "status": "not covered",
+   "doc": "Brochure",
+   "quote": "Protection against up to 64 Critical Illnesses (CIs)",
+   "note": "The rider pays a lump sum on critical illness only.",
+   "page": 2,
+   "doc_path": "docs/absli/riders/109A041V01/brochure.pdf"
+  },
+  "critical_illness": {
+   "value": "Three options: Silver (10 critical illnesses), Gold (25), Platinum (64). Minor critical illness (5 minor conditions): the lower of 25% of rider sum assured or Rs 5,00,000, and the rider continues for the balance. Major: 100% of rider sum assured less minor claims paid, lump sum if the life survives 14 days; the rider then ends.",
+   "status": "covered as an option",
+   "doc": "Brochure",
+   "quote": "Minor CI: Lower of 25% of Rider Sum Assured or R5,00,000",
+   "note": null,
+   "page": 4,
+   "doc_path": "docs/absli/riders/109A041V01/brochure.pdf"
+  },
+  "accidental_death": {
+   "value": "not covered",
+   "status": "not covered",
+   "doc": "Brochure",
+   "quote": "Protection against up to 64 Critical Illnesses (CIs)",
+   "note": "The rider pays a lump sum on critical illness only.",
+   "page": 2,
+   "doc_path": "docs/absli/riders/109A041V01/brochure.pdf"
+  },
+  "accidental_disability": {
+   "value": "not covered",
+   "status": "not covered",
+   "doc": "Brochure",
+   "quote": "Protection against up to 64 Critical Illnesses (CIs)",
+   "note": "The rider pays a lump sum on critical illness only.",
+   "page": 2,
+   "doc_path": "docs/absli/riders/109A041V01/brochure.pdf"
+  },
+  "term_cover": {
+   "value": "not covered",
+   "status": "not covered",
+   "doc": "Brochure",
+   "quote": "Protection against up to 64 Critical Illnesses (CIs)",
+   "note": "The rider pays a lump sum on critical illness only.",
+   "page": 2,
+   "doc_path": "docs/absli/riders/109A041V01/brochure.pdf"
+  },
+  "hospital_cash": {
+   "value": "not covered",
+   "status": "not covered",
+   "doc": "Brochure",
+   "quote": "Protection against up to 64 Critical Illnesses (CIs)",
+   "note": "The rider pays a lump sum on critical illness only.",
+   "page": 2,
+   "doc_path": "docs/absli/riders/109A041V01/brochure.pdf"
+  },
+  "other": {
+   "value": "not stated",
+   "status": "not stated",
+   "doc": null,
+   "quote": null,
+   "note": null,
+   "page": null,
+   "doc_path": null
+  }
+ },
+ "terms": {
+  "rider_term": {
+   "value": "Limited pay: minimum PPT + 1, maximum the base policy term. Regular pay: same as the base policy term, minimum 5 years; 5 to 30 years overall.",
+   "status": "n/a",
+   "doc": "Brochure",
+   "quote": "Same as policy term of base",
+   "note": null,
+   "page": 3,
+   "doc_path": "docs/absli/riders/109A041V01/brochure.pdf"
+  },
+  "premium_paying_rules": {
+   "value": "Limited pay 5 to 20 years or regular pay. All premium frequencies. Can be opted at inception or at any policy anniversary.",
+   "status": "n/a",
+   "doc": "Brochure",
+   "quote": "Flexibility to opt for limited pay or regular pay option as per your",
+   "note": null,
+   "page": 2,
+   "doc_path": "docs/absli/riders/109A041V01/brochure.pdf"
+  },
+  "entry_age": {
+   "value": "18 to 55 years; cover ceases at age 70",
+   "status": "n/a",
+   "doc": "Brochure",
+   "quote": "18 to 55 years",
+   "note": null,
+   "page": 3,
+   "doc_path": "docs/absli/riders/109A041V01/brochure.pdf"
+  },
+  "sum_assured_limits": {
+   "value": "Minimum Rs 1,00,000. Maximum Rs 1.5 crore, subject to underwriting; not above the base sum assured.",
+   "status": "n/a",
+   "doc": "Brochure",
+   "quote": "R1,50,00,000",
+   "note": null,
+   "page": 3,
+   "doc_path": "docs/absli/riders/109A041V01/brochure.pdf"
+  },
+  "premium_deduction": {
+   "value": "not stated",
+   "status": "not stated",
+   "doc": null,
+   "quote": null,
+   "note": "Not stated in the brochure text read. Needs a second read.",
+   "page": null,
+   "doc_path": null
+  }
+ }
+}

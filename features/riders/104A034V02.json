@@ -1,0 +1,170 @@
+{
+ "rider": {
+  "name": {
+   "value": "Axis Max Life Critical Illness and Disability - Secure Rider",
+   "status": "n/a",
+   "doc": "Rider Prospectus",
+   "quote": "Axis Max Life Critical Illness and Disability - Secure Rider",
+   "note": null,
+   "page": 1,
+   "doc_path": "docs/axis-max-life/riders/104A034V02/brochure.pdf"
+  },
+  "uin": {
+   "value": "104A034V02",
+   "status": "n/a",
+   "doc": "Rider Prospectus",
+   "quote": "UIN:104A034V02",
+   "note": null,
+   "page": 1,
+   "doc_path": "docs/axis-max-life/riders/104A034V02/brochure.pdf"
+  },
+  "linked_or_non_linked": {
+   "value": "unit-linked base, non-participating, individual pure risk health rider; level rider premium, not a charge from the fund",
+   "status": "n/a",
+   "doc": "Rider Prospectus",
+   "quote": "Unit-Linked Non-Participating Individual Pure Risk Health Insurance Rider",
+   "note": null,
+   "page": 1,
+   "doc_path": "docs/axis-max-life/riders/104A034V02/brochure.pdf"
+  },
+  "attached_to_ulips": {
+   "value": "see results/ulip_rider_map.csv",
+   "status": "n/a",
+   "doc": null,
+   "quote": null,
+   "note": "Named by 8 of the 9 Axis Max ULIPs (not Forever Young Pension).",
+   "page": null,
+   "doc_path": null
+  }
+ },
+ "benefits": {
+  "waiver_of_premium": {
+   "value": "not covered. No premium waiver in the brochure; the Wellness (Max Fit) program is the other extra.",
+   "status": "not covered",
+   "doc": "Rider Prospectus",
+   "quote": "Comprehensive CI cover: Option to choose Gold variant (coverage of 22 CI) or Platinum variant",
+   "note": "Five variants: Gold, Gold Plus, Platinum, Platinum Plus (critical illness, with or without TPD) and TPD only.",
+   "page": 1,
+   "doc_path": "docs/axis-max-life/riders/104A034V02/brochure.pdf"
+  },
+  "waiver_on_death_of_life_assured": {
+   "value": "not covered",
+   "status": "not covered",
+   "doc": "Rider Prospectus",
+   "quote": "Comprehensive CI cover: Option to choose Gold variant (coverage of 22 CI) or Platinum variant",
+   "note": "Five variants: Gold, Gold Plus, Platinum, Platinum Plus (critical illness, with or without TPD) and TPD only.",
+   "page": 1,
+   "doc_path": "docs/axis-max-life/riders/104A034V02/brochure.pdf"
+  },
+  "waiver_on_death_or_illness_of_proposer": {
+   "value": "not covered",
+   "status": "not covered",
+   "doc": "Rider Prospectus",
+   "quote": "Comprehensive CI cover: Option to choose Gold variant (coverage of 22 CI) or Platinum variant",
+   "note": "Five variants: Gold, Gold Plus, Platinum, Platinum Plus (critical illness, with or without TPD) and TPD only.",
+   "page": 1,
+   "doc_path": "docs/axis-max-life/riders/104A034V02/brochure.pdf"
+  },
+  "critical_illness": {
+   "value": "Gold: 22 critical illnesses. Platinum: 64. Rider sum assured paid on diagnosis of a listed illness. Each variant can add total and permanent disability.",
+   "status": "covered as an option",
+   "doc": "Rider Prospectus",
+   "quote": "Gold variant (coverage of 22 CI) or Platinum variant (coverage of 64 CI)",
+   "note": null,
+   "page": 1,
+   "doc_path": "docs/axis-max-life/riders/104A034V02/brochure.pdf"
+  },
+  "accidental_death": {
+   "value": "not covered",
+   "status": "not covered",
+   "doc": "Rider Prospectus",
+   "quote": "Comprehensive CI cover: Option to choose Gold variant (coverage of 22 CI) or Platinum variant",
+   "note": "Five variants: Gold, Gold Plus, Platinum, Platinum Plus (critical illness, with or without TPD) and TPD only.",
+   "page": 1,
+   "doc_path": "docs/axis-max-life/riders/104A034V02/brochure.pdf"
+  },
+  "accidental_disability": {
+   "value": "Total and permanent disability variant (alone or added to Gold or Platinum); the brochure ties it to accidental bodily injury, sickness or disease.",
+   "status": "covered as an option",
+   "doc": "Rider Prospectus",
+   "quote": "Total and Permanent Disability variant: This rider offers coverage on Total and Permanent",
+   "note": null,
+   "page": 1,
+   "doc_path": "docs/axis-max-life/riders/104A034V02/brochure.pdf"
+  },
+  "term_cover": {
+   "value": "not covered",
+   "status": "not covered",
+   "doc": "Rider Prospectus",
+   "quote": "Comprehensive CI cover: Option to choose Gold variant (coverage of 22 CI) or Platinum variant",
+   "note": "Five variants: Gold, Gold Plus, Platinum, Platinum Plus (critical illness, with or without TPD) and TPD only.",
+   "page": 1,
+   "doc_path": "docs/axis-max-life/riders/104A034V02/brochure.pdf"
+  },
+  "hospital_cash": {
+   "value": "not covered",
+   "status": "not covered",
+   "doc": "Rider Prospectus",
+   "quote": "Comprehensive CI cover: Option to choose Gold variant (coverage of 22 CI) or Platinum variant",
+   "note": "Five variants: Gold, Gold Plus, Platinum, Platinum Plus (critical illness, with or without TPD) and TPD only.",
+   "page": 1,
+   "doc_path": "docs/axis-max-life/riders/104A034V02/brochure.pdf"
+  },
+  "other": {
+   "value": "Max Fit wellness benefit.",
+   "status": "covered",
+   "doc": "Rider Prospectus",
+   "quote": "Max Fit Program: A Wellness Benefit is available in this rider",
+   "note": null,
+   "page": 1,
+   "doc_path": "docs/axis-max-life/riders/104A034V02/brochure.pdf"
+  }
+ },
+ "terms": {
+  "rider_term": {
+   "value": "5 to 10 years, not above the base policy term. Limited pay: PPT 5 to 9, policy term (PPT + 1) to 10. Regular pay: 5 to 10.",
+   "status": "n/a",
+   "doc": "Rider Prospectus",
+   "quote": "Minimum Policy Terms 5 years",
+   "note": null,
+   "page": 2,
+   "doc_path": "docs/axis-max-life/riders/104A034V02/brochure.pdf"
+  },
+  "premium_paying_rules": {
+   "value": "Limited pay or regular pay as per the base plan. Modes as the base policy. Rider premium cannot exceed the base premium payment term.",
+   "status": "n/a",
+   "doc": "Rider Prospectus",
+   "quote": "Limited Pay & Regular Pay premium payment variants are",
+   "note": null,
+   "page": 2,
+   "doc_path": "docs/axis-max-life/riders/104A034V02/brochure.pdf"
+  },
+  "entry_age": {
+   "value": "18 to 65 years; maximum maturity age 75",
+   "status": "n/a",
+   "doc": "Rider Prospectus",
+   "quote": "Maximum Entry Age (age as on last",
+   "note": null,
+   "page": 2,
+   "doc_path": "docs/axis-max-life/riders/104A034V02/brochure.pdf"
+  },
+  "sum_assured_limits": {
+   "value": "Minimum Rs 1,00,000, maximum Rs 1 crore at inception, not above the base sum assured. Health and critical illness rider premiums together may not exceed 100% of the base premium.",
+   "status": "n/a",
+   "doc": "Rider Prospectus",
+   "quote": "Maximum initial Rider Sum Assured is Rs. 1 Crore",
+   "note": null,
+   "page": 3,
+   "doc_path": "docs/axis-max-life/riders/104A034V02/brochure.pdf"
+  },
+  "premium_deduction": {
+   "value": "Level rider premium in addition to the base premium, not a rider charge deducted from unit funds.",
+   "status": "n/a",
+   "doc": "Rider Prospectus",
+   "quote": "rider premiums shall be levied through level rider",
+   "note": null,
+   "page": 4,
+   "doc_path": "docs/axis-max-life/riders/104A034V02/brochure.pdf"
+  }
+ }
+}

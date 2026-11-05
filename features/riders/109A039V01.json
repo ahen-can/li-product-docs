@@ -1,0 +1,170 @@
+{
+ "rider": {
+  "name": {
+   "value": "ABSLI Waiver of Premium Rider (linked)",
+   "status": "n/a",
+   "doc": "Plan Brochure",
+   "quote": "Aditya Birla Sun Life Insurance Waiver of Premium rider",
+   "note": null,
+   "page": 1,
+   "doc_path": "docs/absli/riders/109A039V01/brochure.pdf"
+  },
+  "uin": {
+   "value": "109A039V01",
+   "status": "n/a",
+   "doc": "Policy Contract",
+   "quote": "109A039V01",
+   "note": null,
+   "page": 8,
+   "doc_path": "docs/absli/riders/109A039V01/policy.pdf"
+  },
+  "linked_or_non_linked": {
+   "value": "linked rider (brochure carries the linked-products risk statement); separate rider premium",
+   "status": "n/a",
+   "doc": "Plan Brochure",
+   "quote": "Linked Insurance Products do not offer any liquidity",
+   "note": null,
+   "page": 1,
+   "doc_path": "docs/absli/riders/109A039V01/brochure.pdf"
+  },
+  "attached_to_ulips": {
+   "value": "see results/ulip_rider_map.csv",
+   "status": "n/a",
+   "doc": null,
+   "quote": null,
+   "note": "Named by 9 of 10 ABSLI ULIPs; shown as not applicable in Smart Wealth Pension Plan.",
+   "page": null,
+   "doc_path": null
+  }
+ },
+ "benefits": {
+  "waiver_of_premium": {
+   "value": "If the proposer becomes completely disabled by illness or accident, is diagnosed with one of 4 specified critical illnesses (heart attack, cancer and others), or dies (if not the life insured), the benefits under the base policy and all riders remain intact with no future premiums payable, for the rest of the policy term or until the proposer reaches 70. Only possible when taken at policy issue. Cover under this rider ends after a claim.",
+   "status": "covered as an option",
+   "doc": "Plan Brochure",
+   "quote": "no future premiums payable by you throughout the rest of the policy term",
+   "note": "Unambiguous: the benefits \"under the base policy and all riders\" stay intact with no future premiums payable. The events are the proposer's.",
+   "page": 3,
+   "doc_path": "docs/absli/riders/109A039V01/brochure.pdf"
+  },
+  "waiver_on_death_of_life_assured": {
+   "value": "not covered",
+   "status": "not covered",
+   "doc": "Plan Brochure",
+   "quote": "ABSLI Waiver of Premium Rider",
+   "note": "The rider is a premium waiver only.",
+   "page": 2,
+   "doc_path": "docs/absli/riders/109A039V01/brochure.pdf"
+  },
+  "waiver_on_death_or_illness_of_proposer": {
+   "value": "Death of the proposer (if not the life insured), the proposer's total and permanent disability (180 days) or one of 4 critical illnesses (survive 30 days).",
+   "status": "covered as an option",
+   "doc": "Plan Brochure",
+   "quote": "Death of the proposer (if not the life insured)",
+   "note": null,
+   "page": 3,
+   "doc_path": "docs/absli/riders/109A039V01/brochure.pdf"
+  },
+  "critical_illness": {
+   "value": "No payout. Four listed major critical illnesses only trigger the waiver.",
+   "status": "not covered",
+   "doc": "Plan Brochure",
+   "quote": "We cover 4 major illnesses under this benefit",
+   "note": "See waiver_of_premium.",
+   "page": 3,
+   "doc_path": "docs/absli/riders/109A039V01/brochure.pdf"
+  },
+  "accidental_death": {
+   "value": "not covered",
+   "status": "not covered",
+   "doc": "Plan Brochure",
+   "quote": "ABSLI Waiver of Premium Rider",
+   "note": "The rider is a premium waiver only.",
+   "page": 2,
+   "doc_path": "docs/absli/riders/109A039V01/brochure.pdf"
+  },
+  "accidental_disability": {
+   "value": "No payout. Disability of the proposer only triggers the waiver.",
+   "status": "not covered",
+   "doc": "Plan Brochure",
+   "quote": "ABSLI Waiver of Premium Rider",
+   "note": "The rider is a premium waiver only.",
+   "page": 2,
+   "doc_path": "docs/absli/riders/109A039V01/brochure.pdf"
+  },
+  "term_cover": {
+   "value": "not covered",
+   "status": "not covered",
+   "doc": "Plan Brochure",
+   "quote": "ABSLI Waiver of Premium Rider",
+   "note": "The rider is a premium waiver only.",
+   "page": 2,
+   "doc_path": "docs/absli/riders/109A039V01/brochure.pdf"
+  },
+  "hospital_cash": {
+   "value": "not covered",
+   "status": "not covered",
+   "doc": "Plan Brochure",
+   "quote": "ABSLI Waiver of Premium Rider",
+   "note": "The rider is a premium waiver only.",
+   "page": 2,
+   "doc_path": "docs/absli/riders/109A039V01/brochure.pdf"
+  },
+  "other": {
+   "value": "not stated",
+   "status": "not stated",
+   "doc": null,
+   "quote": null,
+   "note": null,
+   "page": null,
+   "doc_path": null
+  }
+ },
+ "terms": {
+  "rider_term": {
+   "value": "Same as the base policy or until the proposer is 70, whichever is earlier.",
+   "status": "n/a",
+   "doc": "Plan Brochure",
+   "quote": "whichever is earlier",
+   "note": null,
+   "page": 2,
+   "doc_path": "docs/absli/riders/109A039V01/brochure.pdf"
+  },
+  "premium_paying_rules": {
+   "value": "Premium paying term same as the rider term. Pay mode as the base policy. Can be opted only at policy issue.",
+   "status": "n/a",
+   "doc": "Plan Brochure",
+   "quote": "You may opt for this rider only at the time of policy issue.",
+   "note": null,
+   "page": 2,
+   "doc_path": "docs/absli/riders/109A039V01/brochure.pdf"
+  },
+  "entry_age": {
+   "value": "18 to 65 years; age at the end of the rider term at most 70",
+   "status": "n/a",
+   "doc": "Plan Brochure",
+   "quote": "18 – 65 years",
+   "note": null,
+   "page": 2,
+   "doc_path": "docs/absli/riders/109A039V01/brochure.pdf"
+  },
+  "sum_assured_limits": {
+   "value": "not stated",
+   "status": "not stated",
+   "doc": null,
+   "quote": null,
+   "note": "No separate rider sum assured in the brochure; the benefit is the waived future premium.",
+   "page": null,
+   "doc_path": null
+  },
+  "premium_deduction": {
+   "value": "not stated",
+   "status": "not stated",
+   "doc": null,
+   "quote": null,
+   "note": "The brochure and policy text read do not say whether the rider premium is separate or from units. Needs a second read.",
+   "page": null,
+   "doc_path": null
+  }
+ }
+}

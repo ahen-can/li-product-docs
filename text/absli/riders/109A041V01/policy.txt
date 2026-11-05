@@ -1,0 +1,1114 @@
+                              ADITYA BIRLA SUN LIFE INSURANCE COMPANY LIMITED
+
+
+                                  ABSLI COMPREHENSIVE CRITICAL ILLNESS RIDER
+
+                                                             Part A
+
+WELCOME LETTER | POLICY PREAMBLE | POLICY SCHEDULE
+
+As per the base policy contract or any endorsements made to it from time to time.
+
+
+
+                                                             Part B
+
+GENERAL
+This rider contract (rider) forms part of the Base policy contract and shall be governed by the applicable definitions, provisions
+and terms and conditions as provided for in the Base policy except for the definitions, provisions and terms and conditions
+which are explicitly mentioned herein under this contract.
+
+In this contract, “you” or “your” will refer to the owner of this policy and “we”, “us”, “our”, “insurer” or “the company” will
+refer to Aditya Birla Sun Life Insurance Company Limited, or any of its successors.
+
+Please read this policy document carefully.
+
+DEFINITIONS
+
+Critical Illness (CI) shall mean any Illness, medical event or Surgical Procedure as specifically defined below whose signs or
+symptoms first commence at least after the specified waiting period after the Inception of Rider Period.
+
+The following Critical Illnesses are covered under this Policy:
+
+Sr                                                                         Major/Mi          Silver       Gold (25       Platinum
+                            Name of CI / Surgery
+No                                                                           nor            (10 CIs)        CIs)          (64 CIs)
+1       Cancer of Specified Severity                                        Major              ✓              ✓              ✓
+        Myocardial Infraction (First Heart Attack of Specific
+2                                                                            Major
+        Severity)                                                                              ✓              ✓              ✓
+3       Open Chest CABG                                                      Major             ✓              ✓              ✓
+4       Coma of Specified Severity                                           Major             ✓              ✓              ✓
+5       Open Heart Replacement or Repair of Heart Valves                     Major             ✓              ✓              ✓
+6       Multiple Sclerosis with Persisting Symptoms                          Major             ✓              ✓              ✓
+7       Blindness                                                            Major             ✓              ✓              ✓
+8       Deafness                                                             Major             ✓              ✓              ✓
+9       End Stage Liver Failure                                              Major             ✓              ✓              ✓
+10      End Stage Lung Failure                                               Major             ✓              ✓              ✓
+11      Major Organ /Bone Marrow Transplant                                  Major                            ✓              ✓
+12      Permanent Paralysis of Limbs                                         Major                            ✓              ✓
+13      Motor Neuron Disease with Permanent Symptoms                         Major                            ✓              ✓
+14      Loss of Speech                                                       Major                            ✓              ✓
+15      Kidney Failure Requiring Regular Dialysis                            Major                            ✓              ✓
+16      Stroke Resulting in Permanent Symptoms                               Major                            ✓              ✓
+
+
+
+                                                                                                                                 1
+Policy Contract_V01_Sep 2024
+17     Loss of Limbs                                             Major   ✓   ✓
+18     Major Head Trauma                                         Major   ✓   ✓
+19     Primary (Idiopathic) Pulmonary Hypertension               Major   ✓   ✓
+20     Alzheimer’s Disease                                       Major   ✓   ✓
+21     Aorta Graft Surgery                                       Major   ✓   ✓
+22     Fulminant Hepatitis                                       Major   ✓   ✓
+23     Third Degree Burns                                        Major   ✓   ✓
+24     Loss of Independent Existence                             Major   ✓   ✓
+25     Parkinson’s Disease                                       Major   ✓   ✓
+26     Apallic Syndrome or Persistent Vegetative State (PVS)     Major       ✓
+27     Bacterial Meningitis                                      Major       ✓
+28     Brain Surgery                                             Major       ✓
+29     Cardiomyopathy - of specified severity                    Major       ✓
+30     Chronic Adrenal Insufficiency                             Major       ✓
+31     Creutzfeldt-Jakob Disease (CJD)                           Major       ✓
+32     Dissecting Aortic Aneurysm                                Major       ✓
+33     Eisenmenger's Syndrome                                    Major       ✓
+34     Elephantiasis                                             Major       ✓
+35     Encephalitis                                              Major       ✓
+36     Hemiplegia                                                Major       ✓
+37     Infective Endocarditis                                    Major       ✓
+38     Medullary Cystic Disease                                  Major       ✓
+39     Myasthenia Gravis                                         Major       ✓
+40     Pheochromocytoma                                          Major       ✓
+       Progressive Supranuclear Palsy - resulting in permanent
+41                                                               Major
+       symptoms                                                              ✓
+42     Progressive Scleroderma                                   Major       ✓
+43     Poliomyelitis                                             Major       ✓
+44     Severe Rheumatoid Arthritis                               Major       ✓
+45     Systemic Lupus Erythematous                               Major       ✓
+46     Tuberculosis Meningitis                                   Major       ✓
+47     Muscular Dystrophy                                        Major       ✓
+48     Benign Brain Tumor                                        Major       ✓
+       Amputation of Feet Due to Complications from
+49                                                               Major
+       Diabetes                                                              ✓
+50     Crohn's Disease                                           Major       ✓
+51     Loss of One Limb and One Eye                              Major       ✓
+52     Myelofibrosis                                             Major       ✓
+53     Necrotising Fasciitis                                     Major       ✓
+54     Other Serious Coronary Artery Disease                     Major       ✓
+55     Severe Ulcerative Colitis                                 Major       ✓
+56     Terminal Illness                                          Major       ✓
+
+
+                                                                                 2
+Policy Contract_V01_Sep 2024
+ 57          Pneumonectomy                                                         Major                                          ✓
+ 58          Aplastic Anaemia                                                      Major                                          ✓
+ 59          Chronic Relapsing Pancreatitis                                        Major                                          ✓
+ 60          Angioplasty                                                           Minor                                          ✓
+ 61          CIS / Early Stage Cancer                                              Minor                                          ✓
+ 62          Small Bowel Transplant                                                Minor                                          ✓
+ 63          Brain Aneurysm Surgery or Cerebral Shunt Insertion                    Minor                                          ✓
+ 64          Severe Osteoporosis                                                   Minor                                          ✓
+
+1. Cancer of Specified Severity
+   A malignant tumor characterized by the uncontrolled growth & spread of malignant cells with invasion & destruction of normal
+   tissues. This diagnosis must be supported by histological evidence of malignancy. The term cancer includes leukemia, lymphoma
+   and sarcoma.
+   The following are excluded –
+       i.      All tumors which are histologically described as carcinoma in situ, benign, pre-malignant, borderline malignant, low
+               malignant potential, neoplasm of unknown behavior, or non-invasive, including but not limited to: Carcinoma in situ of
+               breasts, Cervical dysplasia CIN-1, CIN -2 and CIN-3.
+      ii.      Any non-melanoma skin carcinoma unless there is evidence of metastases to lymph nodes or beyond;
+
+    iii.       Malignant melanoma that has not caused invasion beyond the epidermis;
+    iv.        All tumors of the prostate unless histologically classified as having a Gleason score greater than 6 or having progressed to
+               at least clinical TNM classification T2N0M0
+
+      v.       All Thyroid cancers histologically classified as T1N0M0 (TNM Classification) or below;
+
+    vi.        Chronic lymphocytic leukaemia less than RAI stage 3
+   vii.        Non-invasive papillary cancer of the bladder histologically described as TaN0M0 or of a lesser classification,
+
+   viii.       All Gastro-Intestinal Stromal Tumors histologically classified as T1N0M0 (TNM Classification) or below and with mitotic
+               count of less than or equal to 5/50 HPFs;
+
+2. Myocardial Infarction (First Heart Attack of Specific Severity)
+   The first occurrence of heart attack or myocardial infarction, which means the death of a portion of the heart muscle as a result
+   of inadequate blood supply to the relevant area. The diagnosis for Myocardial Infarction should be evidenced by all of the
+   following criteria:
+
+       i.    A history of typical clinical symptoms consistent with the diagnosis of Acute Myocardial Infarction (for e.g. typical chest
+             pain)
+
+       ii.   New characteristic electrocardiogram changes
+      iii.   Elevation of infarction specific enzymes, Troponins or other specific biochemical markers.
+
+   The following are excluded:
+
+        i. Other acute Coronary Syndromes
+
+     ii.       Any type of angina pectoris
+    iii.       A rise in cardiac biomarkers or Troponin T or I in absence of overt ischemic heart disease OR following an intra-arterial
+               cardiac procedure
+
+
+3. Open Chest CABG
+
+
+
+
+                                                                                                                                      3
+ Policy Contract_V01_Sep 2024
+    The actual undergoing of heart surgery to correct blockage or narrowing in one or more coronary artery(s), by coronary artery
+    bypass grafting done via a sternotomy (cutting through the breast bone) or minimally invasive keyhole coronary artery bypass
+    procedures. The diagnosis must be supported by a coronary angiography and the realization of surgery has to be confirmed by
+    a cardiologist
+
+    The following is excluded:
+    i. Angioplasty and/or any other intra-arterial procedures
+
+4. Coma of Specified Severity
+    A state of unconsciousness with no reaction or response to external stimuli or internal needs. This diagnosis must be
+    supported by evidence of all of the following:
+  i. No response to external stimuli continuously for at least 96 hours;
+  ii. Life support measures are necessary to sustain life; and
+  iii. Permanent neurological deficit which must be assessed at least 30 days after the onset of the coma.
+  The condition has to be confirmed by a specialist medical practitioner. Coma resulting directly from alcohol or drug abuse is
+  excluded.
+
+5. Open Heart Replacement or Repair of Heart Valves
+   The actual undergoing of open-heart valve surgery to replace or repair one or more heart valves, as a consequence of defects
+   in, abnormalities of, or disease-affected cardiac valve(s). The diagnosis of the valve abnormality must be supported by an
+   echocardiography and the realization of surgery has to be confirmed by a specialist medical practitioner. Catheter based
+   techniques including but not limited to, balloon valvotomy/valvuloplasty are excluded.
+
+
+
+6. Multiple Sclerosis with Persisting Symptoms
+   The unequivocal diagnosis of Definite Multiple Sclerosis confirmed and evidenced by all of the following:
+
+     i. investigations including typical MRI findings which unequivocally confirm the diagnosis to be multiple sclerosis and
+
+    ii. there must be current clinical impairment of motor or sensory function, which must have persisted for a continuous period
+       of at least 6 months.
+
+    Neurological damage due to SLE is excluded.
+
+7. Blindness
+   Total, permanent and irreversible loss of all vision in both eyes as a result of illness or accident.
+    The Blindness is evidenced by:
+    i.   corrected visual acuity being 3/60 or less in both eyes or;
+   ii.   the field of vision being less than 10 degrees in both eyes.
+    The diagnosis of blindness must be confirmed and must not be correctable by aids or surgical procedure.
+
+8. Deafness
+   Total and irreversible loss of hearing in both ears as a result of illness or accident. This diagnosis must be supported by pure
+   tone audiogram test and certified by an Ear, Nose and Throat (ENT) specialist. Total means “the loss of hearing to the extent
+   that the loss is greater than 90decibels across all frequencies of hearing” in both ears.
+
+9. End Stage Liver Failure
+   Permanent and irreversible failure of liver function that has resulted in all three of the following:
+    i. permanent jaundice; and
+    ii. ascites; and
+    iii. hepatic encephalopathy.
+
+
+
+                                                                                                                                  4
+  Policy Contract_V01_Sep 2024
+   Liver failure secondary to drug or alcohol abuse is excluded.
+
+
+10. End Stage Lung Failure
+    End stage lung disease, causing chronic respiratory failure, as confirmed and evidenced by all of the following:
+    i. FEV1 test results consistently less than 1 litre measured on 3 occasions 3 months apart; and
+    ii. Requiring continuous permanent supplementary oxygen therapy for hypoxemia; and
+    iii. Arterial blood gas analysis with partial oxygen pressure of 55mmHg or less (PaO2 < 55 mmHg); and
+    iv. Dyspnea at rest.
+
+11. Major Organ /Bone Marrow Transplant
+    The actual undergoing of a transplant of:
+    i. One of the following human organs: heart, lung, liver, kidney, pancreas, that resulted from irreversible end-stage failure
+       of the relevant organ, or
+
+    ii. Human bone marrow using haematopoietic stem cells. The undergoing of a transplant has to be confirmed by a specialist
+        medical practitioner.
+
+    The following are excluded:
+    i. Other stem-cell transplants
+
+    ii. Where only Islets of Langerhans are transplanted
+
+12. Permanent Paralysis of Limbs
+    Total and irreversible loss of use of two or more limbs as a result of injury or disease of the brain or spinal cord. A specialist
+    medical practitioner must be of the opinion that the paralysis will be permanent with no hope of recovery and must be present
+    for more than 3 months.
+
+13. Motor Neuron Disease with Permanent Symptoms
+    Motor neuron disease diagnosed by a Specialist Medical Practitioner as spinal muscular atrophy, progressive bulbar palsy,
+    amyotrophic lateral sclerosis or primary lateral sclerosis. There must be progressive degeneration of corticospinal tracts and
+    anterior horn cells or bulbar efferent neurons. There must be current significant and permanent functional neurological
+    impairment with objective evidence of motor dysfunction that has persisted for a continuous period of at least 3 months.
+
+14. Loss of speech
+    Total and irrecoverable loss of the ability to speak as a result of injury or disease to the vocal cords. The inability to speak must
+    be established for a continuous period of 12 months. This diagnosis must be supported by medical evidence furnished by an
+    Ear, Nose, Throat (ENT) specialist.
+
+15. Kidney Failure Requiring Regular Dialysis
+    End stage renal disease presenting as chronic irreversible failure of both kidneys to function, as a result of which either regular
+    renal dialysis (haemodialysis or peritoneal dialysis) is instituted or renal transplantation is carried out. Diagnosis has to be
+    confirmed by a specialist medical practitioner.
+
+16. Stroke resulting in permanent symptoms
+    Any cerebrovascular incident producing permanent neurological sequelae. This includes infarction of brain tissue, thrombosis in
+    an intracranial vessel, haemorrhage and embolisation from an extracranial source. Diagnosis has to be confirmed by a specialist
+    medical practitioner and evidenced by typical clinical symptoms as well as typical findings in CT Scan or MRI of the brain.
+    Evidence of permanent neurological deficit lasting for at least 3 months has to be produced.
+   The following are excluded:
+     i.    Transient ischemic attacks (TIA)
+    ii.    Traumatic injury of the brain
+   iii.    Vascular disease affecting only the eye or optic nerve or vestibular functions.
+
+17. Loss of Limbs
+
+
+                                                                                                                                     5
+  Policy Contract_V01_Sep 2024
+   The physical separation of two or more limbs, at or above the wrist or ankle level limbs as a result of injury or disease. This will
+   include medically necessary amputation necessitated by injury or disease. The separation has to be permanent without any
+   chance of surgical correction. Loss of Limbs resulting directly or indirectly from self-inflicted injury, alcohol or drug abuse is
+   excluded.
+
+18. Major Head Trauma
+    Accidental head injury resulting in permanent Neurological deficit to be assessed no sooner than 3 months from the date of the
+    accident. This diagnosis must be supported by unequivocal findings on Magnetic Resonance Imaging, Computerized
+    Tomography, or other reliable imaging techniques. The accident must be caused solely and directly by accidental, violent,
+    external and visible means and independently of all other causes.
+   The Accidental Head injury must result in an inability to perform at least three (3) of the following Activities of Daily Living
+   either with or without the use of mechanical equipment, special devices or other aids and adaptations in use for disabled
+   persons. For the purpose of this benefit, the word “permanent” shall mean beyond the scope of recovery with current medical
+   knowledge and technology.
+   The Activities of Daily Living are:
+        i.    Washing: the ability to wash in the bath or shower (including getting into and out of the bath or shower)
+              or wash satisfactorily by other means;
+    ii.       Dressing: the ability to put on, take off, secure and unfasten all garments and, as appropriate, any braces,
+              artificial limbs or other surgical appliances;
+   iii.       Transferring: the ability to move from a bed to an upright chair or wheelchair and vice versa;
+   iv.        Mobility: the ability to move indoors from room to room on level surfaces;
+    v.        Toileting: the ability to use the lavatory or otherwise manage bowel and bladder functions so as to maintain
+              a satisfactory level of personal hygiene;
+   vi.        Feeding: the ability to feed oneself once food has been prepared and made available.
+   The following is excluded:
+        i.    Spinal cord injury.
+
+19. Primary (Idiopathic) Pulmonary Hypertension
+    An unequivocal diagnosis of Primary (Idiopathic) Pulmonary Hypertension by a Cardiologist or specialist in respiratory medicine
+    with evidence of right ventricular enlargement and the pulmonary artery pressure above 30 mm of Hg on Cardiac Cauterization.
+    There must be permanent irreversible physical impairment to the degree of at least Class IV of the New York Heart Association
+    Classification of cardiac impairment.
+   The NYHA Classification of Cardiac Impairment are as follows:
+   i.        Class III: Marked limitation of physical activity. Comfortable at rest, but less than ordinary activity causes
+             symptoms.
+  ii.        Class IV: Unable to engage in any physical activity without discomfort. Symptoms may be present
+             even at rest.
+   Pulmonary hypertension associated with lung disease, chronic hypoventilation, pulmonary thromboembolic
+   disease, drugs and toxins, diseases of the left side of the heart, congenital heart disease and any secondary cause
+   are specifically excluded.
+
+20. Alzheimer’s Disease
+    Alzheimer’s (presenile dementia) disease is a progressive degenerative disease of the brain, characterised by diffuse atrophy
+    throughout the cerebral cortex with distinctive histopathological changes. It affects the brain, causing symptoms like memory
+    loss, confusion, communication problems, and general impairment of mental function, which gradually worsens leading to
+    changes in personality.
+
+   Deterioration or loss of intellectual capacity, as confirmed by clinical evaluation and imaging tests, arising from Alzheimer’s
+   disease, resulting in progressive significant reduction in mental and social functioning, requiring the continuous supervision of
+   the Insured Person. The diagnosis must be supported by the clinical confirmation of a Neurologist and supported by Our
+   appointed Medical Practitioner.
+
+
+
+
+                                                                                                                                   6
+ Policy Contract_V01_Sep 2024
+         The disease must result in a permanent inability to perform three or more Activities of daily living with Loss of Independent
+         Living” or must require the need of supervision and permanent presence of care staff due to the disease. This must be
+         medically documented for a period of at least 90 days.
+
+       For the above definition, the following are not covered:
+       a) neurosis or neuropsychiatric symptoms without imaging evidence of Alzheimer’s Disease
+       b) alcohol related brain damage; and
+       c) any other type of irreversible organic disorder/dementia not associated with Alzheimer’s Disease
+       The Activities of Daily Living are:
+         i. Washing: the ability to wash in the bath or shower (including getting into and out of the bath or shower) or
+              wash satisfactorily by other means;
+         ii. Dressing: the ability to put on, take off, secure and unfasten all garments and, as appropriate, any braces,
+              artificial limbs or other surgical appliances;
+         iii. Transferring: the ability to move from a bed to an upright chair or wheelchair and vice versa;
+         iv. Mobility: the ability to move indoors from room to room on level surfaces;
+         v. Toileting: the ability to use the lavatory or otherwise manage bowel and bladder functions so as to maintain
+              a satisfactory level of personal hygiene;
+         vi. Feeding: the ability to feed oneself once food has been prepared and made available.
+
+     21. Aorta Graft Surgery
+       The actual undergoing of major Surgery to repair or correct aneurysm, narrowing, obstruction or dissection of the Aorta
+       through surgical opening of the chest or abdomen. For the purpose of this cover the definition of “Aorta” shall mean the
+       thoracic and abdominal aorta but not its branches.
+
+       The insured person understands and agrees that we will not cover:
+
+a.     Surgery performed using only minimally invasive or intra-arterial techniques.
+b.     Angioplasty and all other intra-arterial, catheter based techniques, "keyhole" or laser procedures.
+
+       Aorta graft surgery benefit covers Surgery to the aorta wherein part of it is removed and replaced with a graft.
+
+     22. Fulminant Hepatitis
+         A sub-massive to massive necrosis of the liver by the Hepatitis virus, leading precipitously to liver failure. This diagnosis
+         must be supported by all of the following:
+
+           a.   Rapid decreasing of liver size;
+           b.   Necrosis involving entire lobules, leaving only a collapsed reticular framework;
+           c.   Rapid deterioration of liver function tests;
+           d.   Deepening jaundice; and
+           e.   Hepatic encephalopathy.
+
+          Acute Hepatitis infection or carrier status alone does not meet the diagnostic criteria.
+
+     23. Third Degree Burns
+         There must be third-degree burns with scarring that cover at least 20% of the body’s surface area. The diagnosis must confirm
+         the total area involved using standardized, clinically accepted, body surface area charts covering 20% of the body surface
+         area.
+
+     24. Loss of Independent Existence (cover up to Insurance age 74)
+          The Insured person is physically incapable of performing at least three (3) of the “Activities of Daily Living” as defined below
+          (either with or without the use of mechanical equipment, special devices or other aids or adaptations in use for disabled
+          persons) for a continuous period of at least six (6) months, signifying a permanent and irreversible inability to perform the
+          same. For the purpose of this definition, the word “permanent” shall mean beyond the hope of recovery with current
+
+
+
+                                                                                                                                         7
+       Policy Contract_V01_Sep 2024
+         medical knowledge and technology. The Diagnosis of Loss of Independent Existence must be confirmed by a Registered
+         Doctor who is a specialist.
+
+         Only Life Insured with Insurance Age between 18 and 74 on first diagnosis is eligible to receive a benefit under this illness.
+
+         Activities of daily living are:
+
+          i.     Washing: the ability to wash in the bath or shower (including getting into and out of the shower) or wash
+                 satisfactorily by other means;
+         ii.     Dressing: the ability to put on, take off, secure and unfasten all garments and, as appropriate, any braces,
+                 artificial limbs or other surgical appliances;
+        iii.     Transferring: the ability to move from a bed to an upright chair or wheelchair and vice versa;
+        iv.      Toileting: the ability to use the lavatory or otherwise manage bowel and bladder functions so as to maintain a
+                 satisfactory level of personal hygiene;
+         v.      Feeding: the ability to feed oneself once food has been prepared and made available;
+        vi.      Mobility: The ability to move indoors from room to room on level surfaces.
+
+25. Parkinson’s disease
+     The unequivocal diagnosis of progressive, degenerative idiopathic Parkinson’s disease by a Neurologist acceptable to us.
+
+         The diagnosis must be supported by all of the following conditions:
+
+   a.          the disease cannot be controlled with medication;
+   b.          signs of progressive impairment; and
+   c.          inability of the Insured Person to perform at least 3 of the 6 activities of daily living as listed below (either with or
+               without the use of mechanical equipment, special devices or other aids and adaptations in use for disabled
+               persons) for a continuous period of at least 6 months:
+
+          Activities of daily living:
+
+   i.          Washing: the ability to wash in the bath or shower (including getting into and out of the shower) or wash
+               satisfactorily by other means;
+  ii.          Dressing: the ability to put on, take off, secure and unfasten all garments and, as appropriate, any braces, artificial
+               limbs or other surgical appliances;
+ iii.          Transferring: The ability to mover from bed to a upright chair or wheelchair and vice versa;
+ iv.           Toileting: the ability to use the lavatory or otherwise manage bowel and bladder functions so as to maintain a
+               satisfactory level of personal hygiene;
+  v.           Feeding: The ability to feed oneself once the food has prepared and made available;
+ vi.           Mobility: The ability to move indoors from room to room on level surfaces.
+
+ Parkinson’s disease secondary to drug and/or alcohol abuse is excluded.
+
+26. Apallic Syndrome or Persistent Vegetative State (PVS)
+    Apallic Syndrome or Persistent vegetative state (PVS) or unresponsive wakefulness syndrome (UWS) is a Universal necrosis of
+    the brain cortex with the brainstem remaining intact. The diagnosis must be confirmed by a Neurologist acceptable to us and
+    the patient should be documented to be in a vegetative state for a minimum of at least one month in order to be classified as
+    UWS, PVS, Apallic Syndrome.
+
+27. Bacterial Meningitis
+
+  Bacterial infection resulting in severe inflammation of the membranes of the brain or spinal cord resulting in significant,
+  irreversible and permanent neurological deficit. The neurological deficit must persist for at least 6 weeks resulting in
+  permanent inability to perform three or more Activities of daily Living.
+
+
+
+                                                                                                                                           8
+ Policy Contract_V01_Sep 2024
+        This diagnosis must be confirmed by:
+       a. The presence of bacterial infection in cerebrospinal fluid by lumbar puncture; and
+       b. A consultant neurologist.
+
+  The Activities of Daily Living are:
+  i.   Washing: the ability to wash in the bath or shower (including getting into and out of the bath or shower) or
+       wash satisfactorily by other means;
+  ii. Dressing: the ability to put on, take off, secure and unfasten all garments and, as appropriate, any braces,
+       artificial limbs or other surgical appliances;
+  iii. Transferring: the ability to move from a bed to an upright chair or wheelchair and vice versa;
+  iv. Mobility: the ability to move indoors from room to room on level surfaces;
+  v. Toileting: the ability to use the lavatory or otherwise manage bowel and bladder functions so as to maintain
+       a satisfactory level of personal hygiene;
+  vi. Feeding: the ability to feed oneself once food has been prepared and made available.
+
+28. Brain Surgery
+
+
+  The actual undergoing of surgery to the brain under general anaesthesia during which a craniotomy is performed. Keyhole
+  surgery is included however, minimally invasive treatment where no surgical incision is performed to expose the target, such
+  as irradiation by gamma knife or endovascular neuroradiological interventions such as embolizations, thrombolysis and
+  stereotactic biopsy are all excluded. Brain surgery as a result of an Accident is also excluded. The procedure must be
+  considered medically necessary by a Registered Doctor who is a qualified specialist.
+
+29. Cardiomyopathy
+
+  An impaired function of the heart muscle, unequivocally diagnosed as Cardiomyopathy by a Registered Doctor who is a
+  cardiologist, and which results in permanent physical impairment to the degree of New York Heart Association classification
+  Class IV, or its equivalent, for at least six (6) months based on the following classification criteria:
+
+  NYHA Class IV - Inability to carry out any activity without discomfort. Symptoms of congestive cardiac failure are present even
+  at rest. With any increase in physical activity, discomfort will be experienced.
+
+  The Diagnosis of Cardiomyopathy has to be supported by echocardiographic findings of compromised ventricular performance.
+  Irrespective of the above, Cardiomyopathy directly related to alcohol or drug abuse is excluded.
+
+30. Chronic Adrenal Insufficiency (Addison's Disease)
+
+  An autoimmune disorder causing a gradual destruction of the adrenal gland resulting in the need for life long glucocorticoid
+  and mineral corticoid replacement therapy. The disorder must be confirmed by a Registered Doctor who is a specialist in
+  endocrinology through one of the following:
+      •   ACTH simulation tests;
+      •   insulin-induced hypoglycemia test;
+      •   plasma ACTH level measurement;
+      •   Plasma Renin Activity (PRA) level measurement.
+
+  Only autoimmune cause of primary adrenal insufficiency is included. All other causes of adrenal insufficiency are excluded.
+
+31. Creutzfeldt-Jakob Disease (CJD)
+    Creutzfeldt-Jakob disease is an incurable brain infection that causes rapidly progressive deterioration of mental function and
+    movement. A Registered Doctor who is a neurologist must make a definite diagnosis of Creutzfeldt-Jakob disease based on
+    clinical assessment, EEG and imaging. There must be objective neurological abnormalities on exam along with severe
+    progressive dementia.
+
+32. Dissecting Aortic Aneurysm
+
+
+
+
+                                                                                                                                9
+ Policy Contract_V01_Sep 2024
+       A condition where the inner lining of the aorta (intima layer) is interrupted so that blood enters the wall of the aorta and
+       separates its layers. For the purpose of this definition, aorta shall mean the thoracic and abdominal aorta but not its branches.
+       The diagnosis must be made by a Registered Doctor who is a specialist with computed tomography (CT) scan, magnetic
+       resonance imaging (MRI), magnetic resonance angiograph (MRA) or angiogram. Emergency surgical repair is required.
+
+33. Eisenmenger's Syndrome
+    Development of severe pulmonary hypertension and shunt reversal resulting from heart condition. The diagnosis must be
+    made by a Registered Doctor who is a specialist with echocardiography and cardiac catheterisation and supported by the
+    following criteria:
+
+             •    Mean pulmonary artery pressure > 40 mm Hg;
+             •    Pulmonary vascular resistance > 3mm/L/min (Wood units);
+             •    Normal pulmonary wedge pressure < 15 mm Hg.
+
+34. Elephantiasis
+     Massive swelling in the tissues of the body as a result of destroyed regional lymphatic circulation by chronic filariasis
+     infection. The unequivocal diagnosis of elephantiasis must be confirmed by a Registered Doctor who is a specialist physician.
+     There must be clinical evidence of permanent massive swelling of legs, arms, scrotum, vulva, or breasts. There must also be
+     laboratory confirmation of microfilariae infection.
+
+         Swelling or lymphedema caused by infection with a sexually transmitted disease, trauma, post-operative scarring, congestive
+         heart failure, or congenital lymphatic system abnormalities is excluded.
+
+35. Encephalitis
+     Severe inflammation of brain substance (cerebral hemisphere, brainstem or cerebellum) caused by viral infection and
+     resulting in permanent neurological deficit. This diagnosis must be certified by a Registered Doctor who is a consultant
+     neurologist and the permanent neurological deficit must be documented for at least 6 weeks. The permanent deficit should
+     result in permanent inability to perform three or more Activities for Daily Living (listed below).
+
+         Activities of daily living are:
+  i.        Washing: the ability to wash in the bath or shower (including getting into and out of the bath or shower) or
+            wash satisfactorily by other means;
+ ii.        Dressing: the ability to put on, take off, secure and unfasten all garments and, as appropriate, any braces,
+            artificial limbs or other surgical appliances;
+iii.        Transferring: the ability to move from a bed to an upright chair or wheelchair and vice versa;
+iv.         Mobility: the ability to move indoors from room to room on level surfaces;
+ v.         Toileting: the ability to use the lavatory or otherwise manage bowel and bladder functions so as to maintain
+            a satisfactory level of personal hygiene;
+vi.         Feeding: the ability to feed oneself once food has been prepared and made available.
+
+36. Hemiplegia
+    The total and permanent loss of the use of one side of the body through paralysis persisting for a period of at least 6 weeks
+    and with no foreseeable possibility of recovery caused by illness or injury, except when such injury is self-inflicted.
+
+37. Infective Endocarditis
+    Inflammation of the inner lining of the heart caused by infectious organisms, where all of the following criteria are met:
+        •    Positive result of the blood culture proving presence of the infectious organism(s);
+        •    Presence of at least moderate heart valve incompetence (meaning regurgitant fraction of 20% or above) or
+             moderate heart valve stenosis (resulting in heart valve area of 30% or less of normal value) attributable to
+             Infective Endocarditis; and
+        •    The Diagnosis of Infective Endocarditis and the severity of valvular impairment are confirmed by a Registered
+             Doctor who is a cardiologist.
+
+
+
+38. Medullary Cystic Disease
+
+                                                                                                                                    10
+   Policy Contract_V01_Sep 2024
+     Medullary Cystic Disease where the following criteria are met:
+         •     the presence in the kidney of multiple cysts in the renal medulla accompanied by the presence of tubular
+               atrophy and interstitial fibrosis;
+         •     clinical manifestations of anaemia, polyuria, and progressive deterioration in kidney function; and
+         •     the Diagnosis of Medullary Cystic Disease is confirmed by renal biopsy.
+
+     Isolated or benign kidney cysts are specifically excluded from this benefit.
+
+39. Myasthenia Gravis
+     An acquired autoimmune disorder of neuromuscular transmission leading to fluctuating muscle weakness and
+     fatigability, where all of the following criteria are met:
+     •       Presence of permanent muscle weakness categorized as Class IV or V according to the Myasthenia Gravis
+             Foundation of America Clinical Classification given below; and
+     •       The Diagnosis of Myasthenia Gravis and categorization are confirmed by a Registered Doctor who is a neurologist.
+
+     Myasthenia Gravis Foundation of America Clinical Classification:
+     Class I: Any eye muscle weakness, possible ptosis, no other evidence of muscle weakness elsewhere.
+     Class II: Eye muscle weakness of any severity, mild weakness of other muscles.
+     Class III: Eye muscle weakness of any severity, moderate weakness of other muscles.
+     Class IV: Eye muscle weakness of any severity, severe weakness of other muscles.
+     Class V: Intubation needed to maintain airway.
+
+40. Pheochromocytoma
+    Presence of a neuroendocrine tumour of the adrenal or extra-chromaffin tissue that secretes excess catecholamines requiring
+    the actual undergoing of surgery to remove the tumour.
+
+   The Diagnosis of Pheochromocytoma must be confirmed by a Registered Doctor who is an endocrinologist.
+
+41. Progressive Supranuclear Palsy
+     Confirmed by a Registered Doctor who is a specialist in neurology of a definite diagnosis of progressive supranuclear palsy.
+     There must be permanent clinical impairment of motor function, eye movement disorder and postural instability.
+
+42. Progressive Scleroderma
+     A systemic collagen-vascular disease causing progressive diffuse fibrosis in the skin, blood vessels and visceral organs.
+     This diagnosis must be unequivocally supported by biopsy and serological evidence and the disorder must have
+     reached systemic proportions to involve the heart, lungs or kidneys.
+
+     The following are excluded:
+     •       Localised scleroderma (linear scleroderma or morphea);
+     •       Eosinophilic fasciitis; and
+     •       CREST syndrome.
+
+43. Poliomyelitis
+     The occurrence of Poliomyelitis where the following conditions are met:
+  1. Poliovirus is identified as the cause,
+  2. Paralysis of the limb muscles or respiratory muscles must be present and persist for at least 3 months.
+
+44. Severe Rheumatoid Arthritis
+     Unequivocal Diagnosis of systemic immune disorder of rheumatoid arthritis where all of the following criteria are met:
+     •   Diagnostic criteria of the American College of Rheumatology for Rheumatoid Arthritis;
+     •   Permanent inability to perform at least two (2) “Activities of Daily Living”;
+
+
+
+                                                                                                                                 11
+ Policy Contract_V01_Sep 2024
+     •            Widespread joint destruction and major clinical deformity of three (3) or more of the following joint areas: hands,
+                  wrists, elbows, knees, hips, ankle, cervical spine or feet; and
+     •            The foregoing conditions have been present for at least six (6) months.
+
+   The Activities of Daily Living are:
+            i.       Washing: the ability to wash in the bath or shower (including getting into and out of the bath or shower)
+                     or wash satisfactorily by other means;
+           ii.     Dressing: the ability to put on, take off, secure and unfasten all garments and, as appropriate, any braces,
+                   artificial limbs or other surgical appliances;
+           iii.    Transferring: the ability to move from a bed to an upright chair or wheelchair and vice versa;
+           iv.     Mobility: the ability to move indoors from room to room on level surfaces;
+           v.      Toileting: the ability to use the lavatory or otherwise manage bowel and bladder functions so as to
+                   maintain a satisfactory level of personal hygiene;
+           vi.     Feeding: the ability to feed oneself once food has been prepared and made available.
+
+45. Systemic Lupus Erythematosus with Lupus Nephritis
+     A multi-system autoimmune disorder characterised by the development of autoantibodies directed against various self-
+     antigens. In respect of this Policy, systemic lupus erythematosus will be restricted to those forms of systemic lupus
+     erythematosus which involve the kidneys (Class III to Class V Lupus Nephritis, established by renal biopsy, and in accordance
+     with the WHO Classification). The final diagnosis must be confirmed by a Registered Doctor specialising in
+     Rheumatology and Immunology.
+
+     The WHO Classification of Lupus Nephritis:
+     Class I Minimal Change Lupus Glomerulonephritis
+     Class II Mesangial Lupus Glomerulonephritis
+     Class III Focal Segmental Proliferative Lupus Glomerulonephritis
+     Class IV Diffuse Proliferative Lupus Glomerulonephritis
+     Class V Membranous Lupus Glomerulonephritis
+
+46. Tuberculosis Meningitis
+     Meningitis caused by tubercle bacilli, resulting in permanent neurological deficit persisting for at least 180 consecutive days.
+     Such a diagnosis must be confirmed by a Registered Doctor who is a specialist in neurology. Permanent neurological deficit
+     with persisting clinical symptoms means symptoms of dysfunction in the nervous system that are not present on clinical
+     examination and expected to last throughout the lifetime of life assured.
+
+47. Muscular Dystrophy
+     A group of hereditary degenerative diseases of muscle characterised by weakness and atrophy of muscle. The diagnosis of
+     muscular dystrophy must be unequivocal and made by a Registered Doctor who is a consultant neurologist. The condition
+     must result in the inability of the Life Insured to perform (whether aided or unaided) at least 3 of the 6 “Activities of Daily
+     Living” for a continuous period of at least 6 months.
+
+         Activities of daily living:
+
+    i.            Washing: the ability to wash in the bath or shower (including getting into and out of the shower) or wash
+                  satisfactorily by other means;
+     ii.          Dressing: the ability to put on, take off, secure and unfasten all garments and, as appropriate, any braces,
+                  artificial limbs or other surgical appliances;
+    iii.          Transferring: the ability to move from a bed to an upright chair or wheelchair and vice versa;
+    iv.           Toileting: the ability to use the lavatory or otherwise manage bowel and bladder functions so as to maintain a
+                  satisfactory level of personal hygiene;
+     v.           Feeding: the ability to feed oneself once food has been prepared and made available;
+    vi.           Mobility: The ability to move indoors from room to room on level surfaces.
+
+48. Benign Brain Tumor
+
+
+                                                                                                                                        12
+ Policy Contract_V01_Sep 2024
+    Benign brain tumor is defined as a life threatening, non-cancerous tumor in the brain, cranial nerves or meninges within the
+    skull. The presence of the underlying tumor must be confirmed by imaging studies such as CT scan or MRI.
+    This brain tumor must result in at least one of the following and must be confirmed by the relevant medical specialist:
+    i.   Permanent Neurological deficit with persisting clinical symptoms for a continuous period of at
+         least 90 consecutive days or
+   ii.   Undergone surgical resection or radiation therapy to treat the brain tumor.
+    The following conditions are excluded:
+  a.     Cysts, Granulomas, malformations in the arteries or veins of the brain, hematomas, abscesses, pituitary
+         tumors, tumors of skull bones and tumors of the spinal cord.
+
+49. Amputation of Feet due to Complications from Diabetes
+  Diabetic neuropathy and vasculitis resulting in the amputation of both feet at or above ankle as advised by a Registered Doctor
+  who is a specialist as the only means to maintain life. Amputation of toe or toes, or any other causes for amputation shall not be
+  covered.
+
+50. Crohn's Disease
+  Crohn’s Disease is a chronic, transmural inflammatory disorder of the bowel. To be considered as severe, there must be evidence
+  of continued inflammation in spite of optimal therapy, with all of the following having occurred:
+       • Stricture formation causing intestinal obstruction requiring admission to hospital, and
+       • Fistula formation between loops of bowel, and
+       • At least one bowel segment resection.
+
+  The diagnosis must be made by a Registered Doctor who is a specialist Gastroenterologist and be proven histologically on a
+  pathology report and/or the results of sigmoidoscopy or colonoscopy.
+
+51. Loss of One Limb and One Eye
+    Total, permanent and irrecoverable loss of sight of one eye and loss by severance of one limb at or above the elbow or knee.
+
+    The loss of sight of one eye must be clinically confirmed by a Registered Doctor who is an eye specialist, and must not be
+    correctable by aides or surgical procedures.
+
+52. Myelofibrosis
+    A disorder which can cause fibrous tissue to replace the normal bone marrow and results in anaemia, low levels of white blood
+    cells and platelets and enlargement of the spleen. The condition must have progressed to the point that it is permanent and the
+    severity is such that the Life Insured requires a blood transfusion at least monthly. The diagnosis of myelofibrosis must be
+    supported by bone marrow biopsy and confirmed by a Registered Doctor who is a specialist.
+
+53. Necrotising Fasciitis
+    Necrotizing fasciitis is a progressive, rapidly spreading, infection located in the deep fascia causing necrosis of the subcutaneous
+    tissues. An unequivocal diagnosis of necrotizing fasciitis must be made by a Registered Doctor who is a specialist and the
+    diagnosis must be supported with laboratory evidence of the presence of a bacteria that is a known cause of necrotising
+    fasciitis. There must also be widespread destruction of muscle and other soft tissues that results in a total and permanent loss
+    or function of the affected body part.
+
+54. Other Serious Coronary Artery Disease
+     The narrowing of the lumen of at least one coronary artery by a minimum of 75% and of two others by a minimum of 60%, as
+     proven by coronary angiography, regardless of whether or not any form of coronary artery intervention or surgery has been
+     performed. Coronary arteries herein refer to left main stem, left anterior descending, circumflex and right coronary artery (but
+     not including their branches).
+
+55. Severe Ulcerative Colitis
+     Acute fulminant ulcerative colitis with life threatening electrolyte disturbances.
+     All of the following criteria must be met:
+     •     the entire colon is affected, with severe bloody diarrhoea; and
+
+                                                                                                                                  13
+  Policy Contract_V01_Sep 2024
+        •     the necessary treatment is total colectomy and ileostomy; and
+        •     the diagnosis must be based on histopathological features and confirmed by a Registered Doctor who is a
+              specialist in gastroenterology.
+
+56. Terminal illness
+  The conclusive diagnosis of an illness, which in the opinion of a Registered Doctor who is an attending Consultant and agreed by
+  our appointed Registered Doctor, life expectancy is no greater than twelve (12) months from the date of notification of claim,
+  regardless of any treatment that might be undertaken.
+
+57. Pneumonectomy
+    The undergoing of surgery on the advice of an appropriate Medical Specialist to remove an entire lung for disease or
+    traumatic injury suffered by the life assured.
+    The following conditions are excluded:
+    a. Removal of a lobe of lungs (lobectomy)
+    b. Lung resection or incision
+
+58. Aplastic Anaemia
+    Chronic persistent bone marrow failure which results in anaemia, neutropenia and thrombocytopenia requiring treatment with
+    at least one of the following:
+
+  a.        Blood product transfusion;
+  b.        Marrow stimulating agents;
+  c.        Immunosuppressive agents; or
+  d.        Bone marrow transplantation.
+
+   The diagnosis must be confirmed by a haematologist using relevant laboratory investigations including Bone Marrow Biopsy
+   resulting in bone marrow cellularity of less than 25% which is evidenced by any two of the following:
+
+  a.        Absolute neutrophil count of less than 500/mm³ or less
+  b.        Platelets count less than 20,000/mm³ or less
+  c.        Reticulocyte count of less than 20,000/mm³ or less
+
+   Temporary or reversible Aplastic Anaemia is excluded.
+
+59. Chronic Relapsing Pancreatitis
+  An unequivocal diagnosis of Chronic Relapsing Pancreatitis, made by a Registered Doctor who is a specialist in
+  gastroenterology and confirmed as a continuing inflammatory disease of the pancreas characterised by irreversible
+  morphological change and typically causing pain and/or permanent impairment of function. The condition must be confirmed
+  by pancreatic function tests and radiographic and imaging evidence.
+
+  Relapsing Pancreatitis caused directly or indirectly, wholly or partly, by alcohol is excluded.
+
+60. Angioplasty
+  I. Coronary Angioplasty is defined as percutaneous coronary intervention by way of balloon angioplasty with or without
+       stenting for treatment of the narrowing or blockage of minimum 50% of one or more major coronary arteries. The
+       intervention must be determined to be medically necessary by a cardiologist and supported by a coronary angiogram
+       (CAG).
+
+  II.       Coronary arteries herein refer to left main stem, left anterior descending, circumflex and right coronary artery.
+
+  III. Diagnostic angiography or investigation procedures without angioplasty/stent insertion are excluded.
+
+61. Carcinoma In-Situ (CiS)
+
+
+
+
+                                                                                                                                14
+ Policy Contract_V01_Sep 2024
+   Carcinoma-in- situ shall mean first ever histologically proven, localized pre -invasion lesion where cancer cells have not yet
+   penetrated the basement membrane or invaded (in the sense of infiltrating and / or actively destroying) the surrounding
+   tissues or stroma in any of the following covered organ groups, and subject to any classification stated:
+
+      i.    Breast, where the tumor is classified as Tis according to the TNM Staging method
+     ii.    Corpus uteri, vagina, vulva or fallopian tubes where the tumor is classified as Tis according to the TNM Staging
+            method or FIGO (staging method of the Federation Internationale de Gynecologie et d’Obstetrique) Stage 0
+    iii.    Cervix uteri, classified as cervical intraepithelial neoplasia grade III (CIN III) or as Tis according to the TNM
+            Staging method or FIGO Stage 0
+    iv.     Ovary –include borderline ovarian tumors with intact capsule, no tumor on the ovarian
+            surface, classified as T1aN0M0, T1bN0M0 (TNM Staging) or FIGO 1A, FIGO 1B
+     v.     Colon and rectum; Penis; Testis; Lung; Liver; Stomach, Nasopharynx and oesophagus
+    vi.     Urinary tract, for the purpose of in-situ cancers of the bladder, stage Ta of papillary Carcinoma is
+            included.
+
+   The diagnosis of the Carcinoma in situ must always be supported by a histopathological report. Furthermore, the diagnosis of
+   Carcinoma In- Situ must always be positively diagnosed upon the basis of a microscopic examination of the fixed tissue,
+   supported by a biopsy result. Clinical diagnosis does not meet this standard.
+
+   Pre-malignant lesion and carcinoma in situ of any organ, unless listed above, are excluded.
+
+62. Small Bowel Transplant
+    The receipt of a transplant of small bowel with its own blood supply via a laparotomy resulting from intestinal failure.
+
+63. Brain Aneurysm Surgery or Cerebral Shunt Insertion
+    The actual undergoing of surgical repair of an intracranial aneurysm or surgical removal of an arterio-venous malformation via
+    craniotomy. The surgical intervention must be certified to be absolutely necessary by a specialist in the relevant field.
+    Endovascular repair or procedures are not covered, or
+    The actual undergoing of surgical implantation of a shunt from the ventricles of the brain to relieve raised pressure in the
+    cerebrospinal fluid. The need of a shunt must be certified to be absolutely necessary by a specialist in the relevant field.
+
+64. Severe Osteoporosis
+     The occurrence of Osteoporosis with Fractures must be confirmed by a Specialist in the relevant medical field and all of the
+     following conditions are met:
+
+      a) at least a fracture of the neck of femur or two (2) vertebral body fractures, due to or in the presence of osteoporosis;
+         and
+      b) bone mineral density measured in at least two (2) sites by dual-energy x-ray densitometry (DEXA) or quantitative CT
+         scanning is consistent with severe osteoporosis (T -score of less than -2.5).
+
+     Actual undergoing of internal fixation or replacement of the fractured bone is required. Coverage for osteoporosis with
+     Fracture will automatically cease after the Insured attains seventy (70) years of age.
+
+   Supporting Definitions:
+
+   “Accident” is a sudden, unforeseen and involuntary event caused by external, visible and violent means.
+
+   “Date of commencement of risk of the Rider/Rider Risk Commencement Date” would be the date of issuance of the Rider,
+   subject to the Waiting Period as detailed in Part F.
+
+   “Illness” means a sickness or a disease or pathological condition leading to the impairment of normal physiological function
+   which manifests itself during the Policy Period and requires medical treatment.
+
+   “Injury” means accidental physical bodily harm excluding illness or disease solely and directly caused by external, violent and
+   visible and evident means which is verified and certified by a medical practitioner.
+
+
+
+                                                                                                                                    15
+ Policy Contract_V01_Sep 2024
+  “Medical Practitioner” is a person who holds a valid registration from the Medical Council of any state or Medical Council of
+  India or Council for Indian Medicine or for Homeopathy set up by the Government of India or a State Government and is
+  thereby entitled to practice medicine within its jurisdiction; and is acting within the scope and jurisdiction of his license. The
+  medical practitioner should not be the insured or a close relative of the insured.
+
+
+                                                              Part C
+
+RIDER PREMIUM PROVISIONS
+Your Policy Schedule shows the Rider Sum Assured (SA), the Rider Variant chosen, the Rider Term, the Rider Premium, the Rider
+Pay Term and the Rider Premium Paying Mode.
+
+
+
+RIDER BENEFIT PROVISIONS
+This rider forms part of the policy contract and shall be governed by policy terms and conditions to the extent applicable. Any
+benefit arising under this rider shall not exceed the sum assured under the base product.
+
+On opting for this Rider, the Policyholder has to choose one of the 3 Rider Options as enlisted under the Critical Illnesses as
+mentioned above. Based on the Plan Option chosen by the Policyholder, the benefit shall be payable as follows:
+
+Silver Plan Option (10 CIs):
+In the unfortunate event that the Life Insured is diagnosed to be suffering from the 10 critical illnesses, as mentioned above, we
+will pay 100% of the rider Sum Assured as lumpsum on survival of the life insured for 14 days following the date of confirmed
+diagnosis.
+
+
+The CI benefit will end thereafter, and no further rider premiums need to be paid. The benefit under the base policy remains
+intact and will continue as per terms of the base policy.
+
+Gold Plan Option (25 CIs):
+In the unfortunate event that the Life Insured is diagnosed to be suffering from the 25 critical illnesses, as mentioned above, we
+will pay 100% of the rider Sum Assured as lumpsum on survival of the life insured for 14 days following the date of confirmed
+diagnosis.
+
+
+The CI benefit will end thereafter, and no further rider premiums need to be paid. The benefit under the base policy remains
+intact and will continue as per terms of the base policy.
+
+Platinum Plan Option (64 CIs):
+In the unfortunate event that the life insured is diagnosed to be suffering from the 64 critical illnesses, as mentioned above
+(including 5 minor CI), we will pay the following benefit as lumpsum on survival of the life insured for 14 days following the date
+of confirmed diagnosis.
+
+
+Benefit payable:
+Minor CI: Lower of 25% of rider Sum Assured and Rs. 5,00,000
+Major CI: 100% of Rider SA less Minor CI claim paid, if any
+
+In case of minor CI claim under the rider, we will pay for minor CI claim detailed above and the rider will continue with reduced
+Rider SA.
+
+
+
+
+                                                                                                                                16
+Policy Contract_V01_Sep 2024
+In case of major CI claim subsequently, 100% of Rider SA minus total minor CI claim paid (if any) shall be payable as lumpsum,
+and the CI Rider shall terminate.
+
+If the first claim under the policy is for one of the insured major critical illness conditions, then 100% of Rider SA will be paid as
+detailed above and then the rider would terminate.
+
+Following are valid minor CI claim,
+ 1. Rider SA will reduce by amount equal to minor CI claim paid (i.e. minimum of 25% of Rider SA or Rs. 5 lacs), and the
+      reduced Rider SA will be available for any subsequent claim for critical illness conditions.
+ 2. Maximum of three minor CI conditions can be claimed. However, only one claim will be paid for the same minor CI.
+ 3. Multiple claims against the same CI are not allowed. For example, if a claim is paid for Angioplasty, the claim for
+      Angioplasty again during the rider policy term shall not be allowed.
+ 4. The cooling period between diagnosis of any two minor CI is 365 days. No claim shall be payable in case of diagnosis of
+      minor CI within 365 days of diagnosis of a minor CI already claimed for.
+ 5. There is no cooling period between payment of minor CI and major CI.
+ 6. The premiums will not reduce if minor CI claim has been paid out.
+ 7. The initial Rider SA would be used for calculating subsequent minor CI claims as well, i.e. minimum of 25% of Rider SA or
+      Rs. 5 lacs.
+
+SURRENDER, REDUCED PAID-UP AND REVIVAL
+
+The Policyholder will have a Grace Period and Revival option as per the rules of the base Plan and detailed under the base
+Policy Contract.
+
+There is no RPU benefit under this Rider. If the policyholder ceases to pay premiums at any time, the rider cover will cease at
+the end of the grace period when rider premiums are discontinued.
+
+Surrender Value
+
+•         No Surrender Value is payable for Regular Pay riders.
+•         For Limited Pay rider, a Surrender Value is available upon receipt of all premiums under the rider.
+•         Limited Pay riders are eligible for a surrender value provided that the base plan is eligible (if the base plan was also
+surrendered). If limited pay rider is deleted, without the base plan being surrendered, then surrender value on rider benefit is
+available upon receipt of all premiums under the rider.
+
+The Surrender Value for all eligible policies is calculated as under:
+
+50% of Total Rider Premiums Paid X (Unexpired Coverage Term/Original Coverage Term) x [(Rider SA at inception less minor CI
+Claim paid, if any)/Rider SA at inception]
+
+The Unexpired Coverage Term is calculated as the number of whole years from the date of surrender to the end of the Rider Term.
+
+Total Rider Premiums Paid means total of all the premiums received for this rider, excluding any underwriting extra premiums, any
+loadings for modal premiums and taxes.
+
+
+
+                                                               Part D
+
+RIDER PROVISIONS
+Termination of Rider Benefit
+The rider will terminate on the earliest of:
+• the date of payment of freelook cancellation amount under the Base Policy or Rider
+• the date of death of Life Insured
+• the date of payment of 100% Rider Sum Assured under this Rider
+• the date of expiry of the rider coverage term
+• the date of cancellation or termination of rider or base cover
+
+
+                                                                                                                                  17
+Policy Contract_V01_Sep 2024
+•    the date of payment of surrender value, if any
+•    the date of cancellation/ termination of the cover by Us on grounds of misrepresentation, fraud or nondisclosure subject to
+     section 45 of the Insurance Act, 1938 as amended from time to time.
+
+
+
+
+                                                               Part E
+
+Not Applicable.
+
+
+
+
+                                                               Part F
+
+GENERAL PROVISIONS
+Assignment
+Allowed as per the provisions of Section 38 of the Insurance Act, 1938 and as amended from time to time.
+For more details on the assignment, please refer to Base Policy Contract.
+
+Nomination
+Allowed as per the provisions of Section 39 of the Insurance Act, 1938 and as amended from time to time.
+For more details on the nomination, please refer to Base Policy Contract.
+
+Waiting Period
+
+A waiting period of 90 days (for all major CI conditions) and 180 days (for all minor CI conditions) is applicable from the rider
+risk commencement date, or revival date, whichever is later, during which time no benefit will be payable. However, 100% of
+the premium (excluding any extra loading and taxes), will be refunded from the date of commencement of risk of the rider or
+from the date of revival as applicable and the rider will terminate with immediate effect.
+
+No waiting period applies for Critical Illness claims arising solely due to an accident.
+
+Exclusions
+You shall not be entitled to any benefits if a covered critical illness /condition/procedure results either directly or indirectly
+from any of the following causes:
+
+1.    Any Illness, sickness, or disease other than those specified as Critical Illnesses under this Rider.
+2.    Any Pre-existing Disease or any complication arising therefrom.
+      Pre-existing Disease means any condition, aliment, injury, or disease / critical illness / disability:
+       a. That is/are diagnosed by a physician within 36 months prior to the effective date of the rider issued by the insurer
+            or its reinstatement; or
+       b. For which medical advice or treatment was recommended by, or received from, a Physician within 36 months Prior
+            to the effective date of the rider issued by the insurer or its reinstatement.
+      In case of enhancement of sum insured the exclusion shall apply afresh to the extent of sum insured increase.
+      Coverage under the Rider after the expiry of 36 months for any pre-existing disease is subject to the same being declared
+      at the time of application and accepted by Insurer.
+3.    Any Critical Illness caused due to treatment for, Alcoholism, drug or substance abuse or any addictive condition and
+      consequences thereof.
+4.    Narcotics used by the Insured Person unless taken as prescribed by a registered Medical Practitioner.
+5.    Any Critical Illness caused due to intentional self-injury, suicide, or attempted suicide.
+
+
+
+
+                                                                                                                              18
+Policy Contract_V01_Sep 2024
+6.    Any Critical Illness caused by or arising from or attributable to a foreign invasion, act of foreign enemies, hostilities,
+      warlike operations (whether war be declared or not or while performing duties in the armed forces of any country during
+      war or at peace time), civil war, public defense, rebellion, revolution, insurrection, military, or usurped power.
+7.    Any Critical Illness caused by ionizing radiation or contamination by radioactivity from any nuclear fuel (explosive or
+      hazardous form) or from any nuclear waste from the combustion of nuclear fuel, nuclear, chemical, or biological attack.
+8.    Congenital External Anomalies or any complications or conditions arising therefrom including any developmental
+      conditions of the Insured.
+9.    Any Critical Illness caused by any treatment necessitated due to participation as a professional in hazardous or adventure
+      sport, including but not limited to, para jumping, rock climbing, mountaineering, rafting, motor racing, horse racing or
+      scuba diving, hand gliding, sky diving, deep sea diving.
+10.   Participation by the Insured Person in any flying activity, except as a bona fide, fare-paying passenger of a recognized
+      airline on regular routes and on a scheduled timetable.
+11.   Any Critical Illness caused by medical treatment traceable to childbirth (including complicated deliveries and caesarean
+      sections incurred during hospitalization) except ectopic pregnancy. Any Critical Illness caused due to miscarriages (unless
+      due to an accident) and lawful medical termination of pregnancy during the rider period.
+12.   Any Critical Illness caused by any unproven/ experimental treatment, service and supplies for or in connection with any
+      treatment. Unproven/ experimental treatments are treatments, procedures or supplies that lack significant medical
+      documentation to support their effectiveness.
+13.   Any Critical Illness based on certification/diagnosis/treatment from persons not registered as Medical Practitioners, or
+      from a Medical Practitioner who is practicing outside the discipline that he/ she is licensed for.
+14.   Any Critical Illness caused due to any treatment, including surgical management, to change characteristics of the body to
+      those of opposite sex.
+15.   Any Critical Illness caused due to cosmetic or plastic surgery or any treatment to change the appearance unless for
+      reconstruction following an Accident, burn(s), or Cancer or as part of medically necessary treatment to remove a direct
+      and immediate health risk to the insured. For this to be considered a medical necessity, it must be certified by the
+      attending Medical Practitioner.
+16.   Any Critical Illness caused due to surgical treatment of obesity that does not fulfil all the below conditions:
+           a. Surgery to be conducted is upon the advice of the Doctor
+           b. The Surgery / Procedure conducted should be supported by clinical protocols
+           c. The member has to be 18 years of age or older and
+           d. Body Mass Index (BMI):
+                •     greater than or equal to 40 or
+                •     greater than or equal to 35 in conjunction with any of the following severe co-morbidities following failure
+                      of less invasive methods of weight loss:
+                           i.    Obesity related cardiomyopathy
+                          ii.    Coronary heart disease
+                         iii.    Severe Sleep Apnea
+                         iv.     Uncontrolled Type 2 Diabetes
+17.   Any Critical Illness caused due to treatments received in health hydros, nature cure clinics, spas or similar establishments
+      or private beds registered as a nursing home attached to such establishments or where admission is arranged wholly or
+      partly for domestic reason.
+18.   Any Critical Illness caused by treatment directly arising from or consequent upon any Insured Person committing or
+      attempting to commit a breach of law with criminal intent.
+19.   In the event of the death of the Insured Person within the stipulated survival period as set out above.
+20.   Any Critical Illness caused by sterility and infertility. This includes:
+           a. Any type of contraception, sterilization
+           b. Assisted Reproductive services including artificial insemination and advanced reproductive technologies such as
+                  IVF, ZIFT, GIFT, ICSI
+           c. Gestational Surrogacy
+           d. Reversal of sterilization
+
+Fraud and Misrepresentation
+As per provisions of Section 45 of the Insurance Act, 1938 and as amended from time to time.
+For more details on Section 45 of the Insurance Act, 1938 please refer to Base Policy Contract.
+
+
+
+
+                                                                                                                              19
+Policy Contract_V01_Sep 2024
+                                              Part G
+
+As per the base policy contract
+
+
+
+
+ABSLI CCIR                        Ver 1/Sep/2024       POL/4/24-25/142   109A041V01
+
+
+
+
+                                                                                      20
+Policy Contract_V01_Sep 2024
+

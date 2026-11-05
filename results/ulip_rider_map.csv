@@ -19,6 +19,56 @@ ulip_uin,ulip_name,rider_uin,rider_name,link_stated_in,benefits_covered
 101L191V02,HDFC Life Click 2 Invest Plus,101A037V01,HDFC Life Protect Plus Rider - Linked,"brochure, page 28",critical illness; accidental death; accidental disability
 101L191V02,HDFC Life Click 2 Invest Plus,101A038V01,HDFC Life Income Benefit on Accidental Disability Rider - Linked,"brochure, page 28",accidental disability
 101L192V02,HDFC Life Click 2 Retire Plus II,,,,no rider named in the documents
+104L075V11,Axis Max Life Forever Young Pension Plan,104A049V03,Axis Max Life Smart Ultra Protect Rider,"brochure, page 5",waiver of premium; accidental death; accidental disability; term cover
+104L082V06,Axis Max Life Fast Track Super,104A034V02,Axis Max Life Critical Illness and Disability - Secure Rider,"brochure, page 19",critical illness; accidental disability
+104L082V06,Axis Max Life Fast Track Super,104A049V03,Axis Max Life Smart Ultra Protect Rider,"brochure, page 19",waiver of premium; accidental death; accidental disability; term cover
+104L084V20,Axis Max Life Shiksha Plus Super,104A034V02,Axis Max Life Critical Illness and Disability - Secure Rider,"brochure, page 16",critical illness; accidental disability
+104L084V20,Axis Max Life Shiksha Plus Super,104A049V03,Axis Max Life Smart Ultra Protect Rider,"brochure, page 16",waiver of premium; accidental death; accidental disability; term cover
+104L098V06,Axis Max Life Online Savings Plan,104A034V02,Axis Max Life Critical Illness and Disability - Secure Rider,"brochure, page 17",critical illness; accidental disability
+104L098V06,Axis Max Life Online Savings Plan,104A049V03,Axis Max Life Smart Ultra Protect Rider,"brochure, page 17",waiver of premium; accidental death; accidental disability; term cover
+104L115V04,Axis Max Life Flexi Wealth Plus,104A034V02,Axis Max Life Critical Illness and Disability - Secure Rider,"brochure, page 5",critical illness; accidental disability
+104L115V04,Axis Max Life Flexi Wealth Plus,104A049V03,Axis Max Life Smart Ultra Protect Rider,"brochure, page 5",waiver of premium; accidental death; accidental disability; term cover
+104L121V05,Axis Max Life Flexi Wealth Advantage Plan,104A034V02,Axis Max Life Critical Illness and Disability - Secure Rider,"brochure, page 7",critical illness; accidental disability
+104L121V05,Axis Max Life Flexi Wealth Advantage Plan,104A049V03,Axis Max Life Smart Ultra Protect Rider,"brochure, page 7",waiver of premium; accidental death; accidental disability; term cover
+104L128V01,Axis Max Life Smart Term with Additional Returns ULIP,104A034V02,Axis Max Life Critical Illness and Disability - Secure Rider,"brochure, page 3",critical illness; accidental disability
+104L128V01,Axis Max Life Smart Term with Additional Returns ULIP,104A049V03,Axis Max Life Smart Ultra Protect Rider,"brochure, page 3",waiver of premium; accidental death; accidental disability; term cover
+104L131V03,Axis Max Life Online Savings Plan Plus,104A034V02,Axis Max Life Critical Illness and Disability - Secure Rider,"brochure, page 6",critical illness; accidental disability
+104L131V03,Axis Max Life Online Savings Plan Plus,104A049V03,Axis Max Life Smart Ultra Protect Rider,"brochure, page 6",waiver of premium; accidental death; accidental disability; term cover
+104L133V01,Axis Max Life Platinum Wealth Plan,104A034V02,Axis Max Life Critical Illness and Disability - Secure Rider,"brochure, page 18",critical illness; accidental disability
+104L133V01,Axis Max Life Platinum Wealth Plan,104A049V03,Axis Max Life Smart Ultra Protect Rider,"brochure, page 18",waiver of premium; accidental death; accidental disability; term cover
+109L073V05,Aditya Birla Sun Life Insurance Wealth Max Plan,,,,no rider named in the documents
+109L074V05,Aditya Birla Sun Life Insurance Wealth Secure Plan,109A024V01,ABSLI Accidental Death Benefit Rider Plus (linked),"brochure, page 4",accidental death
+109L074V05,Aditya Birla Sun Life Insurance Wealth Secure Plan,109A039V01,ABSLI Waiver of Premium Rider (linked),"brochure, page 4",waiver of premium
+109L074V05,Aditya Birla Sun Life Insurance Wealth Secure Plan,109A041V01,ABSLI Comprehensive Critical Illness Rider,"brochure, page 4",critical illness
+109L100V06,Aditya Birla Sun Life Insurance Wealth Aspire Plan,109A024V01,ABSLI Accidental Death Benefit Rider Plus (linked),"brochure, page 4",accidental death
+109L100V06,Aditya Birla Sun Life Insurance Wealth Aspire Plan,109A039V01,ABSLI Waiver of Premium Rider (linked),"brochure, page 4",waiver of premium
+109L100V06,Aditya Birla Sun Life Insurance Wealth Aspire Plan,109A041V01,ABSLI Comprehensive Critical Illness Rider,"brochure, page 4",critical illness
+109L100V06,Aditya Birla Sun Life Insurance Wealth Aspire Plan,109A042V01,ABSLI Suraksha Term Rider,"brochure, page 4",term cover
+109L100V06,Aditya Birla Sun Life Insurance Wealth Aspire Plan,109A045V01,ABSLI Suraksha Term Rider Plus,"brochure, page 4",term cover
+109L129V03,ABSLI Wealth Infinia,109A024V01,ABSLI Accidental Death Benefit Rider Plus (linked),"brochure, page 4",accidental death
+109L129V03,ABSLI Wealth Infinia,109A039V01,ABSLI Waiver of Premium Rider (linked),"brochure, page 4",waiver of premium
+109L129V03,ABSLI Wealth Infinia,109A041V01,ABSLI Comprehensive Critical Illness Rider,"brochure, page 4",critical illness
+109L129V03,ABSLI Wealth Infinia,109A042V01,ABSLI Suraksha Term Rider,"brochure, page 4",term cover
+109L129V03,ABSLI Wealth Infinia,109A045V01,ABSLI Suraksha Term Rider Plus,"brochure, page 4",term cover
+109L142V01,ABSLI Platinum Gain Plan,109A024V01,ABSLI Accidental Death Benefit Rider Plus (linked),"brochure, page 7",accidental death
+109L142V01,ABSLI Platinum Gain Plan,109A039V01,ABSLI Waiver of Premium Rider (linked),"brochure, page 7",waiver of premium
+109L142V01,ABSLI Platinum Gain Plan,109A041V01,ABSLI Comprehensive Critical Illness Rider,"brochure, page 8",critical illness
+109L142V01,ABSLI Platinum Gain Plan,109A045V01,ABSLI Suraksha Term Rider Plus,"brochure, page 8",term cover
+109L143V01,ABSLI Fortune Wealth Plan,109A024V01,ABSLI Accidental Death Benefit Rider Plus (linked),"brochure, page 5",accidental death
+109L143V01,ABSLI Fortune Wealth Plan,109A039V01,ABSLI Waiver of Premium Rider (linked),"brochure, page 5",waiver of premium
+109L143V01,ABSLI Fortune Wealth Plan,109A041V01,ABSLI Comprehensive Critical Illness Rider,"brochure, page 5",critical illness
+109L145V01,ABSLI Salaried Suraksha ULIP,109A024V01,ABSLI Accidental Death Benefit Rider Plus (linked),"brochure, page 4",accidental death
+109L145V01,ABSLI Salaried Suraksha ULIP,109A039V01,ABSLI Waiver of Premium Rider (linked),"brochure, page 4",waiver of premium
+109L145V01,ABSLI Salaried Suraksha ULIP,109A041V01,ABSLI Comprehensive Critical Illness Rider,"brochure, page 4",critical illness
+109L147V02,ABSLI Wealth Smart Plus,109A024V01,ABSLI Accidental Death Benefit Rider Plus (linked),"brochure, page 4",accidental death
+109L147V02,ABSLI Wealth Smart Plus,109A039V01,ABSLI Waiver of Premium Rider (linked),"brochure, page 4",waiver of premium
+109L147V02,ABSLI Wealth Smart Plus,109A045V01,ABSLI Suraksha Term Rider Plus,"brochure, page 4",term cover
+109L149V01,ABSLI Param Suraksha,109A024V01,ABSLI Accidental Death Benefit Rider Plus (linked),"brochure, page 4",accidental death
+109L149V01,ABSLI Param Suraksha,109A039V01,ABSLI Waiver of Premium Rider (linked),"brochure, page 4",waiver of premium
+109L149V01,ABSLI Param Suraksha,109A041V01,ABSLI Comprehensive Critical Illness Rider,"brochure, page 4",critical illness
+109L149V01,ABSLI Param Suraksha,109A042V01,ABSLI Suraksha Term Rider,"brochure, page 4",term cover
+109L149V01,ABSLI Param Suraksha,109A045V01,ABSLI Suraksha Term Rider Plus,"brochure, page 4",term cover
+109L157V01,ABSLI Smart Wealth Pension Plan,109A039V01,ABSLI Waiver of Premium Rider (linked),"brochure, page 3",waiver of premium
 110L111V05,Tata AIA Life Insurance Wealth Pro,110A025V03,Tata AIA Life Insurance Waiver of Premium Plus (Linked) Rider,"brochure, page 12 (names 110A025V02; stored 110A025V03)",waiver of premium
 110L111V05,Tata AIA Life Insurance Wealth Pro,110A026V03,Tata AIA Life Insurance Waiver of Premium (Linked) Rider,"brochure, page 12 (names 110A026V02; stored 110A026V03)",waiver of premium
 110L111V05,Tata AIA Life Insurance Wealth Pro,110A027V03,Tata AIA Life Insurance Accidental Death and Dismemberment (Long Scale) (ADDL) Linked Rider,"brochure, page 13 (names 110A027V02; stored 110A027V03)",accidental death; accidental disability
@@ -142,3 +192,8 @@ ulip_uin,ulip_name,rider_uin,rider_name,link_stated_in,benefits_covered
 130L125V01,Bharti AXA Life Dream Shield Plus,130A034V01,Bharti AXA Life Cover Plus Linked Term Rider,"brochure, page 10",accidental death; term cover
 130L128V01,Bharti AXA Life Grow Wealth Ultra,130A012V02,Bharti AXA Life Linked Complete Shield Rider,"brochure, page 14",waiver of premium; critical illness; accidental death; accidental disability
 130L128V01,Bharti AXA Life Grow Wealth Ultra,130A034V01,Bharti AXA Life Cover Plus Linked Term Rider,"brochure, page 14",accidental death; term cover
+512L317V02,LIC’s Nivesh Plus,512A211V02,LIC's Linked Accidental Death Benefit Rider,"brochure, page 5",accidental death
+512L334V02,LIC’s SIIP,512A211V02,LIC's Linked Accidental Death Benefit Rider,"brochure, page 7",accidental death
+512L347V01,LIC’s New Pension Plus,,,,no rider named in the documents
+512L354V01,LIC’s Index Plus,512A211V02,LIC's Linked Accidental Death Benefit Rider,"brochure, page 6",accidental death
+512L361V01,LIC’s Protection Plus,512A211V02,LIC's Linked Accidental Death Benefit Rider,"brochure, page 6",accidental death

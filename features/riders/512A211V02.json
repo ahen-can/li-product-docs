@@ -1,0 +1,170 @@
+{
+ "rider": {
+  "name": {
+   "value": "LIC's Linked Accidental Death Benefit Rider",
+   "status": "n/a",
+   "doc": "Sales Brochures",
+   "quote": "Linked Accidental Death Benefit Rider",
+   "note": null,
+   "page": 1,
+   "doc_path": "docs/lic/riders/512A211V02/brochure.pdf"
+  },
+  "uin": {
+   "value": "512A211V02",
+   "status": "n/a",
+   "doc": "Sales Brochures",
+   "quote": "UIN: 512A211V02",
+   "note": null,
+   "page": 1,
+   "doc_path": "docs/lic/riders/512A211V02/brochure.pdf"
+  },
+  "linked_or_non_linked": {
+   "value": "linked rider, individual life rider; charge cancelled from units",
+   "status": "n/a",
+   "doc": "Sales Brochures",
+   "quote": "(An Individual, Linked, Life Rider)",
+   "note": null,
+   "page": 1,
+   "doc_path": "docs/lic/riders/512A211V02/brochure.pdf"
+  },
+  "attached_to_ulips": {
+   "value": "see results/ulip_rider_map.csv",
+   "status": "n/a",
+   "doc": null,
+   "quote": null,
+   "note": "Named by Nivesh Plus, SIIP, Index Plus and Protection Plus. New Pension Plus names none.",
+   "page": null,
+   "doc_path": null
+  }
+ },
+ "benefits": {
+  "waiver_of_premium": {
+   "value": "not covered",
+   "status": "not covered",
+   "doc": "Sales Brochures",
+   "quote": "LIC’s Linked Accidental Death Benefit Rider is an Individual, Linked, Life",
+   "note": "The rider pays an accidental death benefit only.",
+   "page": 1,
+   "doc_path": "docs/lic/riders/512A211V02/brochure.pdf"
+  },
+  "waiver_on_death_of_life_assured": {
+   "value": "not covered",
+   "status": "not covered",
+   "doc": "Sales Brochures",
+   "quote": "LIC’s Linked Accidental Death Benefit Rider is an Individual, Linked, Life",
+   "note": "The rider pays an accidental death benefit only.",
+   "page": 1,
+   "doc_path": "docs/lic/riders/512A211V02/brochure.pdf"
+  },
+  "waiver_on_death_or_illness_of_proposer": {
+   "value": "not covered",
+   "status": "not covered",
+   "doc": "Sales Brochures",
+   "quote": "LIC’s Linked Accidental Death Benefit Rider is an Individual, Linked, Life",
+   "note": "The rider pays an accidental death benefit only.",
+   "page": 1,
+   "doc_path": "docs/lic/riders/512A211V02/brochure.pdf"
+  },
+  "critical_illness": {
+   "value": "not covered",
+   "status": "not covered",
+   "doc": "Sales Brochures",
+   "quote": "LIC’s Linked Accidental Death Benefit Rider is an Individual, Linked, Life",
+   "note": "The rider pays an accidental death benefit only.",
+   "page": 1,
+   "doc_path": "docs/lic/riders/512A211V02/brochure.pdf"
+  },
+  "accidental_death": {
+   "value": "A sum equal to the accident benefit sum assured on death by accident within 180 days. The base policy must be in force at the time of the accident.",
+   "status": "covered as an option",
+   "doc": "Sales Brochures",
+   "quote": "a sum equal to the Accident Benefit Sum",
+   "note": null,
+   "page": 2,
+   "doc_path": "docs/lic/riders/512A211V02/brochure.pdf"
+  },
+  "accidental_disability": {
+   "value": "not covered",
+   "status": "not covered",
+   "doc": "Sales Brochures",
+   "quote": "LIC’s Linked Accidental Death Benefit Rider is an Individual, Linked, Life",
+   "note": "The rider pays an accidental death benefit only.",
+   "page": 1,
+   "doc_path": "docs/lic/riders/512A211V02/brochure.pdf"
+  },
+  "term_cover": {
+   "value": "not covered",
+   "status": "not covered",
+   "doc": "Sales Brochures",
+   "quote": "LIC’s Linked Accidental Death Benefit Rider is an Individual, Linked, Life",
+   "note": "The rider pays an accidental death benefit only.",
+   "page": 1,
+   "doc_path": "docs/lic/riders/512A211V02/brochure.pdf"
+  },
+  "hospital_cash": {
+   "value": "not covered",
+   "status": "not covered",
+   "doc": "Sales Brochures",
+   "quote": "LIC’s Linked Accidental Death Benefit Rider is an Individual, Linked, Life",
+   "note": "The rider pays an accidental death benefit only.",
+   "page": 1,
+   "doc_path": "docs/lic/riders/512A211V02/brochure.pdf"
+  },
+  "other": {
+   "value": "No maturity, paid-up or surrender value. Can be cancelled any time but not re-opted.",
+   "status": "covered",
+   "doc": "Sales Brochures",
+   "quote": "No maturity benefit is payable under this Rider",
+   "note": null,
+   "page": 2,
+   "doc_path": "docs/lic/riders/512A211V02/brochure.pdf"
+  }
+ },
+ "terms": {
+  "rider_term": {
+   "value": "(70 minus age at entry) years or the base plan policy term, whichever is less; minimum 5 years. Rider cover ceases at age 70.",
+   "status": "n/a",
+   "doc": "Sales Brochures",
+   "quote": "Rider Covering Ceasing Age : 70 years",
+   "note": null,
+   "page": 1,
+   "doc_path": "docs/lic/riders/512A211V02/brochure.pdf"
+  },
+  "premium_paying_rules": {
+   "value": "No separate premium. Charged monthly through unit cancellation. Can be opted at commencement or at any time during the policy term.",
+   "status": "n/a",
+   "doc": "Sales Brochures",
+   "quote": "This rider can be opted at any time during the term of the policy or",
+   "note": null,
+   "page": 2,
+   "doc_path": "docs/lic/riders/512A211V02/brochure.pdf"
+  },
+  "entry_age": {
+   "value": "18 years (completed) to 65 years (nearest birthday)",
+   "status": "n/a",
+   "doc": "Sales Brochures",
+   "quote": "Maximum Age at entry : 65 years",
+   "note": null,
+   "page": 1,
+   "doc_path": "docs/lic/riders/512A211V02/brochure.pdf"
+  },
+  "sum_assured_limits": {
+   "value": "Minimum Rs 10,000, multiples of Rs 5,000. Maximum aggregate accident benefit across all LIC policies on one life: Rs 100 lakh (Rs 200 lakh including Jeevan Shiromani).",
+   "status": "n/a",
+   "doc": "Sales Brochures",
+   "quote": "Minimum Accident Benefit Sum Assured",
+   "note": null,
+   "page": 1,
+   "doc_path": "docs/lic/riders/512A211V02/brochure.pdf"
+  },
+  "premium_deduction": {
+   "value": "Rs 0.40 per thousand accident benefit sum assured a year (Rs 0.80 for police duty), levied monthly by cancelling units out of the policyholder fund value.",
+   "status": "n/a",
+   "doc": "Sales Brochures",
+   "quote": "by cancelling proportionate number",
+   "note": null,
+   "page": 2,
+   "doc_path": "docs/lic/riders/512A211V02/brochure.pdf"
+  }
+ }
+}
