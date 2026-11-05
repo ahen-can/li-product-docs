@@ -1,6 +1,6 @@
 # S2 project memory: read this first if you are S2
 
-Last updated: 4 Nov 2026 (wave 1 complete, report written) by S2.
+Last updated: 5 Nov 2026 (wave 1 done; walkthrough page and restyled deck for Neha drafted) by S2.
 
 ## Role and branch
 - S2 is the user's second Claude session. It works on branch `ccr-d0d84e00-joo2mp` and never pushes to `main`. S1 merges the branch into `main`.
@@ -96,6 +96,17 @@ Last updated: 4 Nov 2026 (wave 1 complete, report written) by S2.
 - Tool: `scripts/s2_tools/licdig.py UIN` prints the eligibility-to-funds and charges sections (its section ends are rough; read the page directly if a section is cut).
 - Each product links two dated brochures; the latest (from 22/09/2025) is `brochure.pdf`, the older is `brochure-2.pdf`. Labels are the website labels, which differ in capitals ("Sales brochure" and "Sales Brochures").
 - Quotes from two-column tables: take the rowq line, keep hyphens that sit inside the row, drop the one at the end of a line.
+
+## Walkthrough for Neha (5 Nov, latest work)
+- **Goal (user's words).** Show Neha HOW we are working and ask whether the approach makes sense. Not a fleshed-out analysis. Bharti's product suite is the focus. Observations only, no recommendations.
+- **Page.** https://claude.ai/artifact/VeBN1cragc4K9rPSVGNPrN (owner's private artifact; the user shares it). Source: `docs-internal/s2_neha_walkthrough/ulip_pilot_walkthrough.html`. Republish from this session with the same file path, or from another session with `url`.
+  - Structure: 2-minute flow of 9 steps (each says what we did), then 13 sections: market landscape (4 PD categories), Bharti product mix and trend (Bharti portfolio tab of deliverable 01 + S3 findings, EoM breach), product list (sources: Council 511, official lists 64, websites 58), brochures and v1, who to compare (framework), policy documents and v3 (Bharti has / lacks boxes), calculator, shortlist 84 to 14 to 5, deck head-to-head, quality checks, limits, things to do, 6 questions with A-D options and a "Copy my answers" button.
+  - Excel samples are spreadsheet-style HTML previews with links to the files on GitHub, not screenshots.
+  - QA figures come from the user verbally (not pushed yet): Shobhit checked 100 products (4 UIN version differences, 1 withdrawn) and 100 brochures (4 UIN version differences, 5 policy documents or leaflets instead of brochures, none for the wrong product). S3: 255 checks, 237 pass, 8 fail, 10 unsure.
+  - User's edits applied: no "for Neha", no bullet dots, par (not non-par) as the hypothesis, no "299 discrepancies", no "checked by hand across all 84", ICICI = "I'll analyse its ULIPs myself against the feature list", Q2 explains the framework with the ULIP numbers.
+- **Deck.** https://claude.ai/artifact/K47aHoxEmo3J5AUtJ8hMWp, a restyled copy of S1's deck (https://claude.ai/artifact/3VgZFusjxhJRLpqkBeXNLU, which this session cannot edit). Same 12 slides and content; Public Sans, ink and blue palette, orange for gaps, source line and page number on each slide. Slide 11 retitled "Observations: five areas the comparison points to". Source: `docs-internal/s2_neha_walkthrough/deck/project/`. Update with the Artifact tool, `url` the deck, `root` a folder holding `project/`.
+- **Facts checked in the repo** (the user's memory differed): 633 products; 516 documents found (499 brochures, 17 policy documents or leaflets); 106 products on blocked sites (ICICI, Kotak, Star Union Dai-ichi, Go Digit); 168 ULIPs on the list, 141 with brochures; all ULIPs of the 10 chosen insurers = 84. The Linked tab of deliverable 01 is linked life only (Rs 1.77 lakh cr); the deck's Rs 1.94 lakh cr includes linked pension.
+- **Open with the user.** Possibly save the page into deliverables; S3's Bharti workbook still on branch `s3-bharti-analysis` (links point there).
 
 ## Session state (4 Nov, latest)
 - All 84 wave 1 ULIP JSON files are built, validate, and are pushed per insurer with summary rows and CHAT entries (Canara HSBC and Ageas Federal done). `check_consistency.py` reports 0 problems.
