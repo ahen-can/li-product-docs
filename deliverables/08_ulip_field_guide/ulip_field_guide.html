@@ -1,0 +1,348 @@
+<title>ULIP Field Guide</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Source+Serif+4:opsz,wght@8..60,500;8..60,700&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap">
+<style>
+/* Layout: one reading column with a sticky chapter rail on wide screens; tables scroll inside their own boxes. */
+:root{
+  --bg:#f6f7f5; --paper:#ffffff; --ink:#1d2a2b; --muted:#5b6b6c; --line:#d9dfdc;
+  --accent:#0f6e6a; --accent-soft:#e3f0ee; --warm:#b5651d; --warm-soft:#f7ebe0;
+  --good:#2f7d3b; --bad:#a83a32;
+  --display:"Source Serif 4", Georgia, "Times New Roman", serif;
+  --body:"IBM Plex Sans", "Segoe UI", system-ui, sans-serif;
+  --mono:"IBM Plex Mono", ui-monospace, Menlo, monospace;
+}
+@media (prefers-color-scheme: dark){ :root:not([data-theme="light"]){
+  --bg:#131a1b; --paper:#1a2324; --ink:#e4ebe9; --muted:#9db0ae; --line:#2e3c3d;
+  --accent:#5cc3bb; --accent-soft:#1d3634; --warm:#e0a066; --warm-soft:#3a2b1f; --good:#7cc98a; --bad:#e38a82; color-scheme:dark } }
+:root[data-theme="dark"]{
+  --bg:#131a1b; --paper:#1a2324; --ink:#e4ebe9; --muted:#9db0ae; --line:#2e3c3d;
+  --accent:#5cc3bb; --accent-soft:#1d3634; --warm:#e0a066; --warm-soft:#3a2b1f; --good:#7cc98a; --bad:#e38a82; color-scheme:dark }
+body{background:var(--bg);color:var(--ink);font-family:var(--body);font-size:16px;line-height:1.6}
+.wrap{max-width:1180px;margin:0 auto;padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px));padding-block:32px 64px;display:grid;grid-template-columns:210px minmax(0,1fr);gap:48px}
+nav{position:sticky;top:calc(env(safe-area-inset-top,0px) + 24px);align-self:start;font-size:14px}
+nav ol{list-style:none;margin:0;padding:0;display:grid;gap:6px;counter-reset:ch}
+nav li{counter-increment:ch}
+nav a{color:var(--muted);text-decoration:none;display:block;padding:2px 0}
+nav a::before{content:counter(ch) ". ";font-family:var(--mono);font-size:12px;color:var(--accent)}
+nav a:hover,nav a:focus-visible{color:var(--ink)}
+main{min-width:0;display:grid;gap:56px}
+header h1{font-family:var(--display);font-size:clamp(34px,5vw,52px);line-height:1.1;margin:0 0 12px;text-wrap:balance}
+header p{max-width:66ch;color:var(--muted);margin:0}
+.eyebrow{font-family:var(--mono);font-size:12px;letter-spacing:.08em;text-transform:uppercase;color:var(--accent)}
+section{display:grid;gap:16px}
+h2{font-family:var(--display);font-size:30px;line-height:1.2;margin:0;text-wrap:balance}
+h3{font-size:18px;margin:8px 0 0}
+p{margin:0;max-width:68ch}
+.lede{font-size:18px}
+.note{font-size:14px;color:var(--muted)}
+.box{background:var(--paper);border:1px solid var(--line);border-radius:6px;padding:18px 20px}
+.tip{background:var(--accent-soft);border-left:3px solid var(--accent);padding:14px 18px;border-radius:0 6px 6px 0;max-width:72ch}
+.warn{background:var(--warm-soft);border-left:3px solid var(--warm);padding:14px 18px;border-radius:0 6px 6px 0;max-width:72ch}
+.grid2{display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:16px}
+.tablebox{overflow-x:auto;background:var(--paper);border:1px solid var(--line);border-radius:6px}
+table{border-collapse:collapse;width:100%;font-size:14px}
+th,td{text-align:left;padding:9px 12px;border-bottom:1px solid var(--line);vertical-align:top}
+th{font-weight:600;font-size:12px;letter-spacing:.04em;text-transform:uppercase;color:var(--muted);background:var(--paper);white-space:nowrap}
+td.num,th.num{text-align:right;font-family:var(--mono);font-variant-numeric:tabular-nums;white-space:nowrap}
+tr.hl td{background:var(--accent-soft)}
+tbody tr:last-child td{border-bottom:0}
+.flow{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:10px;counter-reset:st}
+.step{background:var(--paper);border:1px solid var(--line);border-radius:6px;padding:12px 14px;font-size:14px;counter-increment:st}
+.step b{display:block;font-size:15px}
+.step b::before{content:counter(st) " ";font-family:var(--mono);color:var(--accent)}
+.pill{display:inline-block;font-family:var(--mono);font-size:12px;padding:1px 8px;border-radius:99px;border:1px solid var(--line);white-space:nowrap}
+.has{color:var(--good);border-color:currentColor}
+.lacks{color:var(--bad);border-color:currentColor}
+dl{display:grid;grid-template-columns:minmax(120px,200px) minmax(0,1fr);gap:8px 20px;margin:0}
+dt{font-weight:600}
+dd{margin:0;color:var(--ink)}
+.chart svg{width:100%;height:auto;display:block}
+.legend{display:flex;flex-wrap:wrap;gap:8px 18px;font-size:13px}
+.legend span{display:inline-flex;align-items:center;gap:6px}
+.legend i{width:14px;height:3px;border-radius:2px;display:inline-block}
+a{color:var(--accent)}
+@media (max-width:860px){.wrap{grid-template-columns:minmax(0,1fr);gap:24px}nav{position:static}nav ol{grid-template-columns:repeat(auto-fit,minmax(150px,1fr))}dl{grid-template-columns:minmax(0,1fr)}dd{margin-bottom:8px}}
+@media (prefers-reduced-motion:reduce){*{scroll-behavior:auto}}
+html{scroll-behavior:smooth}
+</style>
+
+<div class="wrap">
+<nav aria-label="Chapters"><ol>
+  <li><a href="#basics">Life insurance basics</a></li>
+  <li><a href="#how">How a ULIP works</a></li>
+  <li><a href="#charges">The charges</a></li>
+  <li><a href="#features">The features</a></li>
+  <li><a href="#returns">What you get back</a></li>
+  <li><a href="#companies">The companies</a></li>
+  <li><a href="#popular">Popular products</a></li>
+  <li><a href="#bharti">Where Bharti stands</a></li>
+  <li><a href="#glossary">Glossary</a></li>
+  <li><a href="#excel">Reading the Excel</a></li>
+</ol></nav>
+
+<main>
+<header>
+  <div class="eyebrow">Walkthrough of ULIP feature list v2 · Nov 2026</div>
+  <h1>ULIP Field Guide</h1>
+  <p class="lede">A walkthrough for someone new to Indian life insurance. It starts with the five product types, then covers how a unit-linked plan works, every charge and feature in our feature list, who sells what, and where Bharti Life sits. Every number comes from this project's data: FY26 public disclosures, 516 brochures and 21 policy documents read field by field.</p>
+</header>
+
+<section id="basics">
+  <div class="eyebrow">Chapter 1</div>
+  <h2>Life insurance in India, in five product types</h2>
+  <p>Every individual life product is registered with the regulator, IRDAI, and gets a <b>UIN</b> (unique identification number). For example, 130L100V03 is insurer 130 (Bharti), L for linked (N would mean non-linked), product 100, version 3. Every brochure must print a one-line description such as "A Unit Linked, Non-Participating, Individual Life Insurance Plan". We classify products from that line, never from the product name.</p>
+  <div class="tablebox"><table>
+    <thead><tr><th>Type</th><th>What the customer buys</th><th>Who carries the investment risk</th><th class="num">Products we found</th></tr></thead>
+    <tbody>
+      <tr><td><b>Protection</b> (term)</td><td>A large sum paid only if the person dies during the term. Cheap. Usually nothing back on survival, unless it's a "return of premium" variant.</td><td>Insurer (pricing risk only)</td><td class="num">98</td></tr>
+      <tr><td><b>Non-par savings</b> (guaranteed)</td><td>Fixed, guaranteed payouts written into the contract, e.g. "pay ₹1 lakh for 12 years, get ₹1 lakh a year for 12 years plus a lump sum".</td><td>Insurer</td><td class="num">127</td></tr>
+      <tr><td><b>Par</b> (participating, with-profits)</td><td>A smaller guaranteed base plus bonuses the insurer declares each year from its par fund's profits.</td><td>Shared</td><td class="num">86</td></tr>
+      <tr><td><b>ULIP</b> (unit-linked)</td><td>Premiums buy units in market funds, like mutual funds, wrapped with life cover. The value moves with the market.</td><td>Customer</td><td class="num">140</td></tr>
+      <tr><td><b>Annuity / pension</b></td><td>Pay a lump sum (or save up), then receive an income for life.</td><td>Insurer (longevity and interest)</td><td class="num">59</td></tr>
+    </tbody></table></div>
+  <p class="note">Product counts are from the 516 brochures classified in light discovery. FY26 premium by type, all 25 insurers, excluding health: par 35%, non-par 29%, linked 18%, pension and annuity 18%, out of ₹9.92 lakh crore.</p>
+  <div class="tip"><b>"Par" and "non-par" are about profits, not guarantees.</b> A par policyholder shares in the insurer's profits through bonuses. A non-par policyholder gets only what the contract states. A ULIP is always "non-participating", because its returns come from the fund, not from bonuses.</div>
+</section>
+
+<section id="how">
+  <div class="eyebrow">Chapter 2</div>
+  <h2>How a ULIP works</h2>
+  <p>A ULIP is a mutual-fund-like investment and a term policy in one contract. The insurer runs the funds, deducts charges for the cover and its expenses, and pays the fund value at the end.</p>
+  <div class="flow">
+    <div class="step"><b>Premium in</b>The customer pays, e.g. ₹1,00,000 a year for 10 years.</div>
+    <div class="step"><b>Allocation charge out</b>A % of each premium is kept for sales costs. The rest buys units.</div>
+    <div class="step"><b>Units in funds</b>The customer picks funds (equity, debt, balanced), or an automatic strategy.</div>
+    <div class="step"><b>Monthly deductions</b>An admin charge and a mortality charge (the cost of the life cover) are taken by cancelling units.</div>
+    <div class="step"><b>Daily FMC</b>A fund management charge is built into the unit price (NAV).</div>
+    <div class="step"><b>Additions</b>Loyalty additions, boosters or refunds of charges are added as units, by the product's rules.</div>
+    <div class="step"><b>Payout</b>Death: the higher of the cover and the fund. Maturity: the fund value.</div>
+  </div>
+  <h3>Worked example: Bharti Wealth Pro, year 1</h3>
+  <p>Male, age 30, ₹1,00,000 a year, 10 years paying, 20-year policy, cover of 10 times the premium (₹10 lakh), equity fund, 8% gross return. Charges carry 18% GST.</p>
+  <div class="tablebox"><table>
+    <tbody>
+      <tr><td>Premium paid</td><td class="num">1,00,000</td></tr>
+      <tr><td>Allocation charge, year 1: 9% of premium, plus GST</td><td class="num">−10,620</td></tr>
+      <tr><td>Invested in units</td><td class="num">89,380</td></tr>
+      <tr><td>Admin charge: 0.15% of premium a month (₹150), plus GST, for 12 months</td><td class="num">−2,124</td></tr>
+      <tr><td>Mortality charge: about ₹9 lakh sum at risk × 0.977 per 1,000 (age 30 rate), plus GST</td><td class="num">about −1,000</td></tr>
+      <tr><td>Growth at 8%, less FMC of 1.35% plus GST</td><td class="num">about +5,500</td></tr>
+      <tr class="hl"><td><b>Fund value at the end of year 1</b> (calculator output)</td><td class="num"><b>91,713</b></td></tr>
+    </tbody></table></div>
+  <p class="note">"Sum at risk" is the cover minus the fund value. It shrinks as the fund grows, so the mortality charge falls over time even though the rate per 1,000 rises with age. The age-30 rate of 0.977 per 1,000 is from the mortality table on page 14 of the Wealth Pro policy document.</p>
+  <div class="tip">ULIPs have a <b>5-year lock-in</b>. If premiums stop in the first 5 years, the fund (less a capped discontinuance charge) moves to a "discontinued policy fund" that earns a guaranteed minimum of 4% and pays out after year 5.</div>
+</section>
+
+<section id="charges">
+  <div class="eyebrow">Chapter 3</div>
+  <h2>The charges, one by one</h2>
+  <p>The ranges below are from the 21 policy documents read so far (Bharti, SBI and HDFC). The full numbers per product are on the Charges tab of the v2 Excel.</p>
+  <div class="tablebox"><table>
+    <thead><tr><th>Charge</th><th>What it pays for and how it's taken</th><th>Range across 21 products</th><th>Bharti example</th></tr></thead>
+    <tbody>
+      <tr><td><b>Premium allocation</b></td><td>Distribution and sales costs. A % of each premium, taken before units are bought. Usually highest in year 1.</td><td>Nil in 6 products. Up to 12.5% in year 1 (HDFC Smart Protect Plus).</td><td>Wealth Pro 9% in year 1, falling to 2%. Future Invest and Grow Wealth: nil.</td></tr>
+      <tr><td><b>Policy administration</b></td><td>Servicing costs. Monthly, either a flat ₹ amount or a % of annual premium. Capped at ₹500 a month in most documents.</td><td>Nil (HDFC Click 2 Wealth); ₹100 a month (SBI eWealth Plus); up to 0.51% of premium a month (capped).</td><td>Wealth Pro: 0.15% a month in years 1–5, 0.45% in years 6–10, nil after.</td></tr>
+      <tr><td><b>Fund management (FMC)</b></td><td>Running the fund. A yearly % of fund value, built into the unit price every day. The largest charge over a long policy.</td><td>0.25% (money market funds) to 1.35% (equity). Every product charges 1.35% on its equity funds.</td><td>0.80% to 1.35%. Index funds in Grow Wealth Ultra cost 0.90%.</td></tr>
+      <tr><td><b>Mortality</b></td><td>The cost of life cover. Rate per ₹1,000 of sum at risk by age, monthly. The rate tables are printed in each policy document.</td><td>Age 30: about 0.8 to 1.4 per 1,000 a year.</td><td>Several Bharti products guarantee the rates for the whole term.</td></tr>
+      <tr><td><b>Discontinuance</b></td><td>Charged only if the customer stops paying or surrenders in years 1–4. Nil from year 5.</td><td>All follow the same regulatory caps, e.g. at most ₹6,000 in year 1 for premiums above ₹50,000.</td><td>Same caps.</td></tr>
+      <tr><td><b>Switching / partial withdrawal</b></td><td>Moving money between funds, or taking some out after year 5.</td><td>Free and unlimited (all Bharti products), or a few free a year and then ₹100–250 each (SBI, HDFC).</td><td>Unlimited free switches and withdrawals.</td></tr>
+      <tr><td><b>Guarantee charge</b></td><td>Only in products with a capital guarantee.</td><td>2 of 21 products (HDFC).</td><td>None.</td></tr>
+    </tbody></table></div>
+  <div class="warn"><b>Why charge design matters for selling.</b> A high year-1 allocation charge pays the distributor. A product with nil allocation charge (often online-only) suits a direct buyer. Refunds of charges at maturity let a product show high headline charges and still deliver a good maturity value if the customer stays the full term. Seven of the 21 products refund some charges.</div>
+</section>
+
+<section id="features">
+  <div class="eyebrow">Chapter 4</div>
+  <h2>The features, and who has them</h2>
+  <p>Deep discovery tags every feature as <b>built-in</b> (always there), <b>optional</b> (customer chooses), <b>rider</b> (separate add-on product, extra premium) or <b>not offered</b>. "Has it" below counts all three of the first types, out of the 21 products with deep data. Bharti's column covers its 7 ULIPs.</p>
+  <div class="tablebox"><table>
+    <thead><tr><th>Feature</th><th>What it means for the customer</th><th class="num">Has it (of 21)</th><th>Bharti</th></tr></thead>
+    <tbody>
+      <tr><td>Fund switching</td><td>Move money between equity and debt funds.</td><td class="num">21</td><td><span class="pill has">all 7</span></td></tr>
+      <tr><td>Unlimited free switches</td><td>No count limit and no fee.</td><td class="num">12</td><td><span class="pill has">yes</span></td></tr>
+      <tr><td>Partial withdrawal</td><td>Take money out after the 5-year lock-in, without ending the policy.</td><td class="num">21</td><td><span class="pill has">all 7</span></td></tr>
+      <tr><td>Systematic withdrawal</td><td>Automatic yearly or monthly withdrawals, like a pension from the fund.</td><td class="num">9</td><td><span class="pill has">4 products</span></td></tr>
+      <tr><td>Top-up premiums</td><td>Pay extra lump sums into the same policy.</td><td class="num">6</td><td><span class="pill lacks">none</span></td></tr>
+      <tr><td>Automatic strategies</td><td>Life-cycle or systematic transfer plans that rebalance without the customer acting.</td><td class="num">12</td><td><span class="pill has">yes</span></td></tr>
+      <tr><td>Loyalty additions</td><td>Extra units for staying in force, usually a % of fund value in later years.</td><td class="num">14</td><td><span class="pill has">yes</span></td></tr>
+      <tr><td>Wealth boosters / guaranteed additions</td><td>Larger one-off additions at set years or at maturity.</td><td class="num">12</td><td><span class="pill has">yes</span></td></tr>
+      <tr><td>Return of mortality charges</td><td>The cost of cover refunded at maturity, so the cover is free if the customer survives. Called "TULIP" in the trade.</td><td class="num">10</td><td><span class="pill has">4 products</span></td></tr>
+      <tr><td>Return of allocation charges</td><td>The upfront charge refunded at maturity.</td><td class="num">5</td><td><span class="pill has">yes</span></td></tr>
+      <tr><td>Waiver of premium</td><td>If the payer dies or is disabled, future premiums are paid into the fund. Common in child plans.</td><td class="num">11</td><td><span class="pill lacks">none</span></td></tr>
+      <tr><td>Critical illness / accident cover</td><td>Mostly as riders.</td><td class="num">6 / 11</td><td><span class="pill has">via riders</span></td></tr>
+      <tr><td>Settlement option</td><td>Take the maturity value in instalments while it stays invested.</td><td class="num">16</td><td><span class="pill has">yes</span></td></tr>
+      <tr><td>Policy loan</td><td>Borrow against the fund.</td><td class="num">0</td><td>no ULIP offers it</td></tr>
+    </tbody></table></div>
+
+  <h3>New features found in the policy documents</h3>
+  <p>These are not in the v1 list, which came from brochure keywords. Each is on the "New features" tab with a page quote.</p>
+  <div class="tablebox"><table>
+    <thead><tr><th>Feature</th><th>Example</th><th>Bharti</th></tr></thead>
+    <tbody>
+      <tr><td>Refund of FMC or of all charges</td><td>Wealth Maximizer refunds 118% of all charges of the premium term, in years 11–15. HDFC Smart Protect Plus refunds FMC.</td><td><span class="pill has">yes</span></td></tr>
+      <tr><td>Charges returned at a multiple</td><td>Dream Shield Plus and Growth Shield Plus return 1x, 2x, then 3x of earlier mortality charges from year 11.</td><td><span class="pill has">yes</span></td></tr>
+      <tr><td>Customer-type boosters</td><td>Grow Wealth Ultra: extra for women, ECS payers and existing customers. SBI: lower charges for staff.</td><td><span class="pill has">yes</span></td></tr>
+      <tr><td>Joint life</td><td>Grow Wealth (single pay) covers two lives.</td><td><span class="pill has">yes</span></td></tr>
+      <tr><td>Capital or vesting guarantee</td><td>HDFC Click 2 Retire Plus II guarantees 101% of premiums plus 1% for each year the term runs past the premium term.</td><td><span class="pill lacks">no</span></td></tr>
+      <tr><td>Scheduled guaranteed additions</td><td>SBI Smart Invest Builder adds guaranteed units every 5 years from year 10.</td><td><span class="pill lacks">no</span></td></tr>
+      <tr><td>Built-in accident or payor waiver</td><td>SBI Smart Scholar Plus (child plan) has both, at no extra rider.</td><td><span class="pill lacks">no</span></td></tr>
+      <tr><td>Women-specific cover</td><td>HDFC Smart Woman: premium waiver and cash on pregnancy complications or female cancers.</td><td><span class="pill lacks">no</span></td></tr>
+      <tr><td>Death benefit = waiver plus income</td><td>HDFC Sampoorn Nivesh Plus and Click 2 Invest Plus pay the cover, fund future premiums and pay a monthly income.</td><td><span class="pill lacks">no</span></td></tr>
+      <tr><td>Purpose-limited withdrawals</td><td>Pension ULIPs (SBI Retire Smart Plus, HDFC pensions) allow withdrawals only for education, marriage, a house or illness.</td><td><span class="pill lacks">no ULIP pension</span></td></tr>
+      <tr><td>Index funds</td><td>Grow Wealth Ultra offers Nifty 100 and SDL index funds at 0.90% FMC.</td><td><span class="pill has">yes</span></td></tr>
+    </tbody></table></div>
+</section>
+
+<section id="returns">
+  <div class="eyebrow">Chapter 5</div>
+  <h2>What the customer gets back</h2>
+  <p>Insurers must show a benefit illustration at two assumed gross returns, <b>4% and 8%</b> a year. The <b>net yield</b> is the return after all charges, i.e. the IRR of premiums against the maturity value. <b>Reduction in yield</b> = gross minus net, the yearly cost of the product. Our calculator applies each product's published charges to the same customer.</p>
+  <div class="box chart">
+    <svg id="chart" viewBox="0 0 720 340" role="img" aria-label="Fund value by policy year for six ULIPs at 8% gross return, per Rs 1 lakh annual premium"></svg>
+    <div class="legend" id="legend"></div>
+    <p class="note">Fund value per ₹1 lakh of annual premium, 8% gross, male 30, 10 years paying, 20-year term. Grow Wealth Ultra's minimum premium is ₹2.5 lakh, so its line is scaled down by 2.5. The jump in year 20 is the maturity refund of charges and boosters.</p>
+  </div>
+  <div class="tablebox"><table>
+    <thead><tr><th>Product</th><th class="num">Net yield at 4%</th><th class="num">Net yield at 8%</th><th class="num">Maturity at 8% (₹)</th><th>Why</th></tr></thead>
+    <tbody>
+      <tr class="hl"><td>Bharti Wealth Maximizer</td><td class="num">2.81%</td><td class="num">6.59%</td><td class="num">27,34,546</td><td>118% of all charges refunded after the premium term</td></tr>
+      <tr><td>Bharti Grow Wealth Ultra (₹2.5 lakh)</td><td class="num">2.53%</td><td class="num">6.39%</td><td class="num">66,32,337</td><td>No allocation charge; admin and mortality refunded; 5% loyalty booster</td></tr>
+      <tr><td>HDFC Click 2 Wealth</td><td class="num">2.36%</td><td class="num">6.29%</td><td class="num">26,14,274</td><td>No allocation or admin charge; mortality refunded</td></tr>
+      <tr><td>SBI eWealth Plus</td><td class="num">2.14%</td><td class="num">6.10%</td><td class="num">25,39,167</td><td>No allocation charge; ₹100 a month admin; no refunds</td></tr>
+      <tr><td>Bharti Wealth Pro</td><td class="num">2.01%</td><td class="num">5.85%</td><td class="num">24,46,581</td><td>9% first-year allocation charge, partly refunded at maturity</td></tr>
+      <tr><td>HDFC Sampoorn Nivesh Plus</td><td class="num">1.74%</td><td class="num">5.80%</td><td class="num">24,29,334</td><td>6% allocation charge for 5 years, admin from year 6</td></tr>
+    </tbody></table></div>
+  <div class="warn">These results are from our own calculator and have <b>not yet been checked against official benefit illustrations</b>, which these insurers don't publish online. Downloading a BI from each insurer's quote page for the same customer would confirm them. Total premium paid is ₹10 lakh in each case, except Grow Wealth Ultra at ₹25 lakh.</div>
+</section>
+
+<section id="companies">
+  <div class="eyebrow">Chapter 6</div>
+  <h2>The companies</h2>
+  <p>Our FY26 data covers 25 life insurers. LIC, the state-owned insurer, writes 54% of all premium. Most of that is par and pension. In ULIPs the private insurers lead, and the biggest ULIP sellers are bank-promoted insurers that sell through their parent bank's branches.</p>
+  <div class="tablebox"><table>
+    <thead><tr><th>#</th><th>Insurer</th><th class="num">Total premium FY26 (₹ cr)</th><th class="num">Market share</th><th class="num">ULIP premium (₹ cr)</th><th class="num">ULIP share</th><th class="num">ULIP % of own book</th><th>Role in our ULIP set</th></tr></thead>
+    <tbody>
+      <tr><td>1</td><td>LIC</td><td class="num">5,36,432</td><td class="num">54.1%</td><td class="num">22,939</td><td class="num">11.8%</td><td class="num">4%</td><td>Reference</td></tr>
+      <tr><td>2</td><td>SBI Life</td><td class="num">1,01,232</td><td class="num">10.2%</td><td class="num">54,243</td><td class="num">27.9%</td><td class="num">54%</td><td>Leader</td></tr>
+      <tr><td>3</td><td>HDFC Life</td><td class="num">77,699</td><td class="num">7.8%</td><td class="num">24,209</td><td class="num">12.5%</td><td class="num">31%</td><td>Leader</td></tr>
+      <tr><td>4</td><td>ICICI Life</td><td class="num">53,029</td><td class="num">5.3%</td><td class="num">24,718</td><td class="num">12.7%</td><td class="num">47%</td><td>Leader (docs pending)</td></tr>
+      <tr><td>5</td><td>Axis Max Life</td><td class="num">38,846</td><td class="num">3.9%</td><td class="num">11,198</td><td class="num">5.8%</td><td class="num">29%</td><td>Leader</td></tr>
+      <tr><td>6</td><td>Tata AIA Life</td><td class="num">36,549</td><td class="num">3.7%</td><td class="num">13,896</td><td class="num">7.2%</td><td class="num">38%</td><td>Leader</td></tr>
+      <tr><td>7</td><td>Bajaj Life</td><td class="num">32,892</td><td class="num">3.3%</td><td class="num">12,110</td><td class="num">6.2%</td><td class="num">37%</td><td>Leader</td></tr>
+      <tr><td>8</td><td>Aditya Birla Sun Life</td><td class="num">23,743</td><td class="num">2.4%</td><td class="num">8,774</td><td class="num">4.5%</td><td class="num">37%</td><td>Challenger</td></tr>
+      <tr><td>9</td><td>Kotak Mahindra Life</td><td class="num">21,438</td><td class="num">2.2%</td><td class="num">5,725</td><td class="num">2.9%</td><td class="num">27%</td><td>Optional (wave 2)</td></tr>
+      <tr><td>11</td><td>Canara HSBC Life</td><td class="num">10,043</td><td class="num">1.0%</td><td class="num">3,921</td><td class="num">2.0%</td><td class="num">39%</td><td>Challenger</td></tr>
+      <tr><td>16</td><td>Ageas Federal Life</td><td class="num">3,663</td><td class="num">0.4%</td><td class="num">1,237</td><td class="num">0.6%</td><td class="num">34%</td><td>Challenger</td></tr>
+      <tr class="hl"><td>17</td><td>Bharti Life</td><td class="num">3,253</td><td class="num">0.3%</td><td class="num">563</td><td class="num">0.3%</td><td class="num">17%</td><td>Anchor</td></tr>
+    </tbody></table></div>
+  <p class="note">Source: FY26 Q4 public disclosures, form L-1-A-RA, total premium (first year, renewal and single), excluding health. Industry ULIP premium: ₹1.94 lakh crore, 19.6% of the industry. The 7 leaders hold 84% of ULIP premium. Ranks 10 and 12–15 are left out of the table; the full list is in deliverable 01.</p>
+  <dl>
+    <dt>"ULIP % of own book"</dt><dd>How much of an insurer's own premium is ULIP. Industry average is about 20%. SBI Life is 54% ULIP; LIC is 4%. A high figure marks a ULIP specialist.</dd>
+    <dt>Leader / challenger / anchor</dt><dd>Our selection: leaders are the fewest insurers that together reach 80% of ULIP premium. Challengers are scored on features, specialisation and growth (ABSLI, Canara HSBC, and Ageas, your pick). Bharti is the anchor we compare everyone with.</dd>
+  </dl>
+</section>
+
+<section id="popular">
+  <div class="eyebrow">Chapter 7</div>
+  <h2>Which products are popular</h2>
+  <p>Insurers don't publish sales by product. Public disclosures give premium by segment (linked, par, non-par, pension) for each insurer, but not by product. So "popular" can only be judged indirectly:</p>
+  <div class="grid2">
+    <div class="box"><h3>What we have</h3><p>Each insurer's ULIP size (chapter 6), and how many ULIPs each one runs: Tata AIA 14, Bajaj 12, ABSLI 10, Axis Max 9, PNB MetLife 9, Pramerica 9, and Bharti, SBI and HDFC 7 each. Bharti also publishes a "Product Performance" file with sales by product, and that is the one official product-level source we know of.</p></div>
+    <div class="box"><h3>What would help</h3><p>Flagship products named in insurers' investor presentations and annual reports. Product sales data from your industry contacts. These are proxies, and we label them that way in the deck.</p></div>
+  </div>
+  <p class="note">Of the 140 ULIPs, 63 are plain wealth ULIPs, 50 return mortality charges (TULIP-type), 18 are pension ULIPs and 9 are child plans with a payor benefit (v1 sub-segments).</p>
+</section>
+
+<section id="bharti">
+  <div class="eyebrow">Chapter 8</div>
+  <h2>Where Bharti stands in ULIPs</h2>
+  <p>Bharti sold ₹563 crore of ULIP premium in FY26: 0.3% of the market, rank 16 in ULIPs, but 17% of its own book and growing. It has 7 ULIPs.</p>
+  <div class="tablebox"><table>
+    <thead><tr><th>Product</th><th>What stands out</th><th>Minimum premium</th></tr></thead>
+    <tbody>
+      <tr><td>Wealth Maximizer</td><td>Refunds 118% of all charges, FMC included. Best calculated net yield of the six.</td><td>₹6,000 a year</td></tr>
+      <tr><td>Grow Wealth Ultra</td><td>Two plan options, refunds of three charges, boosters for women, ECS payers and existing customers, index funds</td><td>₹2,50,000 a year</td></tr>
+      <tr><td>Wealth Pro</td><td>Growth variant refunds mortality and allocation charges; Legacy variant covers to age 99</td><td>₹1,200 a year</td></tr>
+      <tr><td>Growth Shield Plus</td><td>Returns 2x allocation charges and rising multiples of mortality charges</td><td>₹50,000 a year</td></tr>
+      <tr><td>Dream Shield Plus</td><td>Rising multiples of mortality charges returned; no admin charge in years 1–4</td><td>₹1,00,000 a year</td></tr>
+      <tr><td>Grow Wealth</td><td>Joint-life option (single pay); no allocation charge</td><td>₹26,000 online / ₹35,000 other channels</td></tr>
+      <tr><td>Future Invest</td><td>No allocation charge; separate male and female mortality tables</td><td>₹18,000 a year (5-year pay)</td></tr>
+    </tbody></table></div>
+  <div class="grid2">
+    <div class="box"><h3>Strengths so far</h3><p>The most generous charge-refund designs in the set. Unlimited free switches and withdrawals in every product. Index funds. Boosters for women, ECS payers and existing customers, which no other product in the 21 has.</p></div>
+    <div class="box"><h3>Gaps so far</h3><p>No ULIP pension. No waiver of premium or child ULIP. No top-ups. No capital guarantee or scheduled guaranteed additions. No built-in accident cover.</p></div>
+  </div>
+  <p class="note">Based on 21 products from 3 insurers. Tata, Bajaj, Axis Max, LIC, ABSLI, Canara HSBC and Ageas are next in deep discovery and may change this picture.</p>
+</section>
+
+<section id="glossary">
+  <div class="eyebrow">Chapter 9</div>
+  <h2>Glossary</h2>
+  <dl>
+    <dt>Annualised premium (AP)</dt><dd>The premium for one year, whatever the payment mode.</dd>
+    <dt>PPT / PT</dt><dd>Premium payment term (years of paying) and policy term (years of cover).</dd>
+    <dt>Single / limited / regular pay</dt><dd>Pay once; pay for fewer years than the term; pay every year of the term.</dd>
+    <dt>Sum assured</dt><dd>The life cover. ULIPs set a minimum multiple of AP: 7x or 10x in the products we read (lower above age 50), and 1.25x for single pay.</dd>
+    <dt>Sum at risk</dt><dd>Sum assured minus fund value. The mortality charge is levied on this.</dd>
+    <dt>NAV</dt><dd>Net asset value: the price of one unit, after FMC.</dd>
+    <dt>SFIN</dt><dd>The regulator's code for each fund, e.g. ULIF02715/09/2025ENIFTY100F130.</dd>
+    <dt>Lock-in</dt><dd>5 years for ULIPs. No full withdrawal before that.</dd>
+    <dt>Discontinued policy fund</dt><dd>Where the money goes if premiums stop in the lock-in. Earns at least 4%, FMC at most 0.50%.</dd>
+    <dt>Rider</dt><dd>A separate add-on (accident, critical illness, waiver) with its own premium and UIN.</dd>
+    <dt>Benefit illustration (BI)</dt><dd>The insurer's projection for a specific customer at 4% and 8%. Required at sale.</dd>
+    <dt>CIS</dt><dd>Customer information sheet: a short standard summary given at purchase.</dd>
+    <dt>Bancassurance</dt><dd>Selling insurance through a bank's branches. The main ULIP channel for bank-promoted insurers.</dd>
+    <dt>TULIP</dt><dd>Trade term for a ULIP that returns mortality charges, so the cover costs nothing on survival.</dd>
+    <dt>Saral / POS</dt><dd>Standard regulator-designed products (Saral) and simplified products sold by point-of-sales persons (POS).</dd>
+  </dl>
+</section>
+
+<section id="excel">
+  <div class="eyebrow">Chapter 10</div>
+  <h2>Reading the v2 Excel (deliverable 05)</h2>
+  <dl>
+    <dt>Features</dt><dd>One row per feature. "Deep: has it" counts the 21 products with deep data. "Brochure only" counts mentions in the other 119. "Bharti" says which of its products have it.</dd>
+    <dt>Matrix</dt><dd>Every product as a column. B built-in, O optional, R rider, N not offered, ? not stated, Y mentioned in a brochure, K keyword lead to verify.</dd>
+    <dt>Charges</dt><dd>Headline numbers per deep product. Green marks the lowest.</dd>
+    <dt>New features</dt><dd>The features found only by reading policy documents, with quotes.</dd>
+    <dt>v1 corrections</dt><dd>86 places where the policy documents disagree with the brochure scan. Read 10 of these to see how far brochure-only rows can be trusted.</dd>
+    <dt>Evidence</dt><dd>Document, page and quote for every value.</dd>
+  </dl>
+</section>
+</main>
+</div>
+
+<script>
+(function(){
+  var data = {
+    "Bharti Wealth Maximizer":[101956,205378,315370,432997,558117,691224,834100,986136,1149036,1322166,1441313,1568196,1703316,1847208,2000441,2129396,2266722,2412963,2568699,2734546],
+    "Bharti Grow Wealth Ultra (÷2.5)":[255721,527739,817097,1124934,1452439,1800923,2171782,2566499,2986044,3431934,3643785,3868940,4108233,4362553,4632842,4920105,5225407,5549880,5894729,6632337].map(function(v){return v/2.5}),
+    "HDFC Click 2 Wealth":[106167,219113,339277,467126,603165,746874,899832,1062617,1235624,1419496,1508634,1603369,1704054,1811061,1924788,2045656,2174114,2310639,2455737,2614274],
+    "SBI eWealth Plus":[103643,213896,331192,455995,588791,730109,880521,1040622,1210785,1391632,1477557,1568877,1665932,1769082,1878709,1995219,2119047,2250650,2390517,2539167],
+    "Bharti Wealth Pro":[91713,191781,300739,419160,547770,678854,818349,966821,1124718,1292530,1373695,1459957,1551636,1649072,1752626,1862683,1979652,2103965,2236085,2446581],
+    "HDFC Sampoorn Nivesh Plus":[97240,200718,310837,428032,552768,684192,823864,972339,1129984,1297232,1388204,1468511,1571688,1663065,1780762,1885267,2019673,2139181,2292682,2429334]
+  };
+  var colors = [null,"#5aa39c","#b5651d","#6b5fa8",null,"#a83a32"];
+  var svg = document.getElementById('chart'), ns='http://www.w3.org/2000/svg';
+  var W=720,H=340,L=64,R=16,T=16,B=40, maxV=3000000;
+  function x(i){return L+(i)*(W-L-R)/19}
+  function y(v){return T+(H-T-B)*(1-v/maxV)}
+  function el(n,a,txt){var e=document.createElementNS(ns,n);for(var k in a)e.setAttribute(k,a[k]);if(txt!=null)e.textContent=txt;svg.appendChild(e);return e}
+  var css=getComputedStyle(document.documentElement);
+  function tok(n){return css.getPropertyValue(n).trim()}
+  for(var v=0;v<=maxV;v+=500000){
+    el('line',{x1:L,x2:W-R,y1:y(v),y2:y(v),stroke:tok('--line'),'stroke-width':1});
+    el('text',{x:L-8,y:y(v)+4,'text-anchor':'end','font-size':11,fill:tok('--muted'),'font-family':'IBM Plex Mono, monospace'}, (v/100000)+' L');
+  }
+  [1,5,10,15,20].forEach(function(yr){el('text',{x:x(yr-1),y:H-B+18,'text-anchor':'middle','font-size':11,fill:tok('--muted'),'font-family':'IBM Plex Mono, monospace'},'yr '+yr)});
+  var paid=[];for(var i=0;i<20;i++)paid.push(Math.min(i+1,10)*100000);
+  el('polyline',{points:paid.map(function(v,i){return x(i)+','+y(v)}).join(' '),fill:'none',stroke:tok('--muted'),'stroke-width':1.5,'stroke-dasharray':'4 4'});
+  el('text',{x:x(19),y:y(1000000)-6,'text-anchor':'end','font-size':11,fill:tok('--muted')},'premiums paid');
+  var lg=document.getElementById('legend'),k=0;
+  for(var name in data){
+    var c=colors[k]||(k===0?tok('--accent'):tok('--ink'));k++;
+    el('polyline',{points:data[name].map(function(v,i){return x(i)+','+y(v)}).join(' '),fill:'none',stroke:c,'stroke-width':2});
+    var s=document.createElement('span');s.innerHTML='<i style="background:'+c+'"></i>'+name;lg.appendChild(s);
+  }
+})();
+</script>

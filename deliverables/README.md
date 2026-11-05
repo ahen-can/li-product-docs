@@ -13,4 +13,6 @@ Each link downloads the file.
 
 | 07 | ULIP pilot deck: https://claude.ai/artifact/3VgZFusjxhJRLpqkBeXNLU (private to the owner until shared; downloads as PPTX or PDF). Slide source in `07_ulip_deck_source/`. | 12 slides: market, Bharti's ULIP position, landscape, features, Wealth Pro vs 4 leaders' products, returns, where Bharti leads and trails, five moves for discussion, method and limits. |
 
+| 08 | ULIP Field Guide (walkthrough for beginners): https://claude.ai/artifact/G4BK3Ed5aep7B8ccWEJHom (private until shared). Page source in `08_ulip_field_guide/ulip_field_guide.html`; open it in a browser. | Product types, how a ULIP works, charges, features, returns, companies, popular products, where Bharti stands, glossary. |
+
 `scripts/build_deliverables.py` rebuilds 02 and 03 from the repo data.
