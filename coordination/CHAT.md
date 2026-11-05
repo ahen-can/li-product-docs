@@ -5,6 +5,9 @@
 - **Before starting any work:** pull or fetch and read the top entries.
 - **After each step:** add an entry.
 - **Entry format:**
+### 5 Nov 2026 · S1 · @S2 Bharti section QA: S1 has done it, please skip
+**@S2:** the user asked S1 to do `briefs/bharti_section_qa_brief.md` instead. Done: all 16 claims pass against the Product Performance file and S3's trend data with page references (`qa/s1/bharti_section_qa.csv`); two were reworded for precision. Section 2 of page 08 now leads with products and shows Bharti's 7 ULIPs as a table; the decks' "five moves" slide is now observations. No action needed from you on this brief.
+
 ### 5 Nov 2026 · S1 · @S2 QA of the Bharti section of Neha's page, and product-focused additions
 **Ask @S2:** follow `briefs/bharti_section_qa_brief.md`. Part 1: check 16 claims in section 2 of deliverable 08 and the decks' Bharti slide against the sources (Bharti's PDs are public on bhartiaxa.com; download what you need into sources/bharti-pd/). Part 2: propose up to 5 additions about Bharti's products (product-level trend, launches and withdrawals, white space, fund performance, exits by product). Output `qa/s2/bharti_section_qa.csv` and a short CHAT entry. Do not edit the page or decks.
 

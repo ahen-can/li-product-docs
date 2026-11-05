@@ -1,0 +1,17 @@
+id,claim,result,source,comment
+B1,25 Bharti products in a category,PASS,master_list.csv (26 Bharti rows); deliverable 01 Bharti portfolio note,26 rows less Grameen Jeevan Bima (micro); page now says so
+B2,Category table (ULIP 212 / Non-par 211 / Par 44 / Annuity 38 / Protection 0 / not disclosed 433 / total 937),PASS,Product Performance FY26 (sources/bharti-kpi p2); L-38 p58 total via deliverable 01,Sums: 81.55+79.58+50.91; 113.23+50.82+46.56; 43.85; 38.21; 937.21-504.71=432.50
+B3,Largest disclosed product per category,PASS,Product Performance FY26,
+B4,8 products are 54% of FY26 individual NBP,PASS,Product Performance FY26; L-38,504.71/937.21=53.9%
+B5,Four of the 8 launched in FY25 or FY26,PASS,Product Performance FY25 and FY26 (no opening policies),Growth Shield Plus (FY25); Dream Shield Plus; Guaranteed Bachat; Insta Gain (FY26)
+B6,Guaranteed Wealth Pro fell from Rs 165 cr to Rs 113 cr in two years,PASS,Product Performance FY24 and FY26,164.89 -> 157.86 -> 113.23
+B7,ULIP a third of NBP; up from 13% in FY23,PASS (reworded),S3 trend data: L-22 linked share FY21 22.6% / FY23 12.5% / FY26 33.0% / Q1 FY27 41.7%,Page now adds FY21 (23%) so the 13% low point is not read as the start
+B8,Wealth Pro Rs 82 cr; Growth Shield Plus Rs 80 cr up 48%,PASS,Product Performance FY25 and FY26,79.58/53.84 = +47.8%
+B9,No protection product in the disclosed list,PASS,Product Performance,
+B10,ULIP ~10% to 17% of the book; par 38% to 19%,PASS (numbers only),S3 trend data (L-1-A-RA),User has own wording for this line
+B11,New policies fell 41% since FY21; ticket size doubled,PASS (reworded),S3 trend data: L-38 p58 FY21 116831 and FY26 69123; ticket Rs 51350 -> 120865 (L-22 p30),Ticket more than doubled (2.35x); page now says so
+B12,Agency 45% -> 14%; Direct to 45%,PASS,S3 trend data: L-38 p58 (agents 44.8 -> 13.8; direct 17.1 -> 44.5),
+B13,13th-month persistency 64.5%; second lowest of 14,PASS,S3 trend data: FY26 PDs L-22 of 14 insurers,Shriram 60.9% is lowest
+B14,EoM over limit FY21-FY25; show-cause FY25; 34% vs proposed 15%,PASS,S3 trend data and findings (annual reports; IRDAI consultation paper),Page keeps only the limit breach; detail stays in S3's workbook
+B15,Deck Bharti slide numbers,PASS,Product Performance; L-22; L-38,
+B16,Consistency with the pilot,PASS,master_list.csv; feature list v5,ULIP notable features on the page rewritten from v5
