@@ -110,5 +110,30 @@ sheet('ULIP riders not in Council', ['UIN', 'Insurer', 'ULIPs naming it', 'Counc
       [[m[k] for k in ('uin', 'insurer', 'ulips_naming_it', 'council_versions_of_same_rider', 'note')] for m in missing], {3: 40, 4: 30, 5: 30},
       note='Rider UINs our ULIP documents name that the Council list does not carry in that version. Check on the insurer site.')
 wb.save(os.path.join(R, 'analysis/riders/rider_list_council.xlsx'))
+# ---------- tally against S2's universal list (results/riders_universal.csv) ----------
+up = os.path.join(R, 'results/riders_universal.csv')
+if os.path.exists(up):
+    s2 = {r['rider_uin']: r for r in csv.DictReader(open(up, encoding='utf-8')) if r['rider_uin']}
+    cu = {r['uin']: r for r in rows}
+    s2_ins = {r['insurer'] for r in s2.values()}
+    T = []
+    for u in sorted(set(s2) | {u for u, r in cu.items() if r['insurer'] in s2_ins}):
+        a, b = cu.get(u), s2.get(u)
+        if a and b: st = 'in both'
+        elif b:
+            vers = cbase.get(base(u), [])
+            st = 'S2 only, Council has ' + ', '.join(vers) if vers else 'S2 only'
+        else:
+            s2v = [x for x in s2 if base(x) == base(u)]
+            st = 'Council only, S2 has ' + ', '.join(s2v) if s2v else 'Council only'
+        r0 = a or {}; r1 = b or {}
+        T.append([r0.get('insurer') or r1.get('insurer'), r1.get('rider_name') or r0.get('rider_name'), u, st,
+                  r0.get('line_of_business', ''), r0.get('council_category', ''), r1.get('base_type', ''), r1.get('download_status', ''), r1.get('source_page_url', '')])
+    cnt = C.Counter(t[3].split(',')[0] for t in T)
+    sheet('Tally vs S2', ['Insurer', 'Rider name', 'UIN', 'Result', 'Council line of business', 'Council category', 'S2 base type', 'S2 download status', 'S2 source page'], T,
+          {1: 20, 2: 50, 3: 13, 4: 30, 7: 22, 8: 18, 9: 50},
+          note=f"S2's universal list covers the 10 wave 1 insurers only, so this tally is limited to them. {dict(cnt)}. 'S2 only' or 'Council only' with another version named = same rider, different version.")
+    wb.save(os.path.join(R, 'analysis/riders/rider_list_council.xlsx'))
+    print('tally', dict(cnt))
 print(len(rows), 'riders;', len(ind), 'individual;', 'named by ULIPs:', sum(1 for r in rows if r['named_by_wave1_ulips']), '; missing from Council:', len(missing))
 for m in missing: print(' ', m)
