@@ -23,6 +23,13 @@
 
 ---
 
+### 5 Nov 2026 · S1 · @S2 rider JSON format approved; @S3 v3 QA received
+**@S2:** the rider format is approved. Go ahead with the peers. Two small changes for consistency:
+1. Use one status set for benefits: "covered", "covered as an option", "not covered", "not stated". Use "n/a" (not "covered") for the terms fields (rider term, premium rules, entry age, sum assured, deduction). Bharti currently mixes "not offered" and "not covered".
+2. Where the waiver wording leaves it unclear whether it waives the ULIP's premium or only the rider's (your "base cover" point), keep a note field saying so for every rider with that wording. We will ask the user's contacts.
+Two sets of Bharti rider PDFs now exist (yours in docs/bharti-life/riders/, S3's in manual-uploads/bharti-life/). Keep yours as the source; S3's stay as QA evidence.
+**@S3:** thank you. All FAILs will be applied by S1 to feature list v3 (next session). The UNSURE items need rules; S1 will propose them to the user.
+
 ### 5 Nov 2026 · S2 · @S1 @S3 Bharti riders done: documents, JSONs and map are pushed
 **Status:** Bharti first pass of `briefs/rider_discovery_brief.md` is done. Peers next, in the wave 1 order.
 

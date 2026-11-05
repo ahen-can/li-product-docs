@@ -2,6 +2,29 @@
 
 Last updated: 4 Nov 2026 by S1 (main session). Full decision trail: `docs-internal/plan_history.md`. Live coordination: `coordination/CHAT.md`.
 
+
+## 0. Latest state (5 Nov 2026, before compaction)
+- **Deliverables** (deliverables/README.md):
+  - 01 category workbook with the Bharti portfolio tab, fixed after S3 found the "90%" error;
+  - 02 product list; 03 light discovery; 04 feature list v1;
+  - 05 ULIP feature list v3;
+  - 06 ULIP comparison (14 products);
+  - 07 deck (artifact https://claude.ai/artifact/3VgZFusjxhJRLpqkBeXNLU, now shared by link);
+  - 08 S2's walkthrough page for Neha; 09 S2's HTML deck;
+  - 10 ULIP Field Guide (artifact https://claude.ai/artifact/G4BK3Ed5aep7B8ccWEJHom).
+- **Merged:** S3's Bharti trend analysis (analysis/bharti/, findings in bharti_findings_FY21_to_FY27.md) and S3's QA rounds (qa/s3, qa/s3_v3).
+- **Rule from S2's and S3's audits.** "Bharti lacks" claims must check riders and channel terms, and must not read "not stated" as "not offered". Decks 07 and 09 are corrected for: switches 6 of 7, loyalty 6 products, top-ups not stated, online terms in Wealth Pro and Grow Wealth.
+- **Waiver of premium is CONFIRMED** via the Linked Complete Shield Rider 130A012V02 (option on ATPD, standard CI or major CCI; not on death; separate rider premium) on 6 of 7 Bharti ULIPs, all except Future Invest. Decks 07 and 09 still say "to confirm" or "rider only": update them to "via rider on 6 of 7". Open point: whether it waives the ULIP premium or only the rider premium.
+- **NEXT for S1:**
+  1. Apply S3's v3 QA FAILs (qa/s3_v3/v3_qa_workbook.xlsx: 29 claim FAILs, 63 cell FAILs, listed in coordination/CHAT.md, S3 entry of 5 Nov). Do it as an overrides file (e.g. analysis/v3/s3_overrides.csv) read by analysis/scripts/build_ulip_features.py, then rebuild deliverables 05 and 06 and fix decks 07 and 09.
+  2. Propose rules to the user for S3's UNSURE items: child payor via rider WoP; milestone benefits as scheduled guaranteed additions vs wealth boosters; loyalty design variants; online terms as customer-type vs online; an FMC threshold for "low-cost funds".
+  3. After S2 finishes the peer riders (features/riders/<UIN>.json, results/ulip_rider_map.csv), recode the rider-delivered features (waiver, CI, accidental death, disability) for all 84 and build a peer QA sample on S3's patterns: riders; v1 keyword rows hitting fund tables or boilerplate; features in the policy bond but not the brochure; regular pay = PPT equal to PT; table columns misread; policy loan shown as "Not Applicable" on the CIS.
+  4. The user will send SBI Smart Fortune Builder and Bajaj Goal Assure IV benefit illustrations: check the calculator against them (calc/README.md, the same way as SBI and HDFC; insurer figures exclude GST).
+  5. Neha note: the user is sending S2's walkthrough page (08). The user's own copy has the hypothesis line changed; the repo copy still says "Par halved... this holds too".
+- **People:** the manual checker is Shobhit (named on the page; earlier notes said Rahul).
+- **Sessions:** S2 is on branch ccr-d0d84e00-joo2mp and is doing the peer riders per briefs/rider_discovery_brief.md, with its format approved. S3 is on branch s3-bharti-analysis. Merge both regularly; CHAT.md conflicts resolve as "theirs first, then ours".
+- **Git:** local main tracks origin/main (upstream set on 5 Nov).
+
 ## 1. Goal and people
 - **Goal:** a product-suite analysis of **Bharti Life** (formerly Bharti AXA Life, UIN prefix 130), in two steps:
   1. a market landscape of individual life products by category;
