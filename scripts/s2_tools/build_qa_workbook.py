@@ -69,7 +69,7 @@ ROWS = [
 (P,"Section 6 / Deck 5","3 Bharti products return charges at a multiple",F05,"Dream Shield Plus, Growth Shield Plus, Wealth Maximizer (17 of 84 overall)","PASS",""),
 (P,"Section 6 / Deck 5, 9","All 7 Bharti ULIPs allow unlimited free switches",F05+"; features/ulip/130L049V05.json","Future Invest allows 12 free switches a year, then Rs 100 each (policy bond p5). So 6 of 7","FAIL","Fixed on the page. Deck slides 5 and 9 still say 'All 7' (S1's wording): decision needed"),
 (D,"Slide 5","Loyalty additions or wealth boosters: 58 of 84; Bharti '5 products'",F05,"58 matches both features. Bharti has loyalty additions in 6 of 7 (all but Future Invest) and boosters in 3","FAIL","Change Bharti to '6 products' or say which feature the row means"),
-(D,"Slide 2","Waiver of premium: 43 of 84 have it, 'mostly as a rider'",F05,"11 built-in, 17 optional, 15 rider. Options are the largest group, not riders","FAIL","Change to 'as an option or rider'"),
+(D,"Slide 2","Waiver of premium: 43 of 84 have it, 'mostly as a rider'",F05,"11 built-in, 17 optional, 15 rider. Options are the largest group, not riders","FAIL","Fixed in the deck copy (09): now says built in, as an option or as a rider"),
 (D,"Slide 5","Waiver 43; top-up 38; index funds 56; return of mortality 45; customer-type terms 27; guaranteed additions 20; multiples 17; continues after death 16; online terms 14; refund all charges 4",F05,"All counts match the Features tab","PASS",""),
 (P,"Section 6","Bharti lacks top-ups (38 of 84 have them)",F05,"Six Bharti ULIPs are 'not stated' for top-ups and only Grow Wealth Ultra is 'not offered'. 'Lacks' is stronger than the evidence","WARN","Say 'none state top-ups' on page and deck slides 5, 6, 10"),
 (P,"Section 6","Return of mortality charges: 5 of 7 Bharti; waiver none; guaranteed additions none",F05,"5 of 7; all 7 'N'; none","PASS",""),
@@ -112,6 +112,19 @@ ROWS = [
 (P,"Header","Nine steps; 2 minute overview; about 6 minute full read","The page","Nine step cards; overview is short; reading time not timed","UNVERIFIED","Time a read-through"),
 ]
 
+BHARTI = [
+(D,"Slides 2, 6, 7, 10, 11","Bharti has no waiver of premium in any form; 'Waiver: None / No'","Bharti brochures (text/bharti-life/130L*/brochure.txt); "+"Bharti rider literature (bhartiaxa.com/riders-in-insurance/linked-complete-shield-rider; sales literature and part B PDFs, 2024-09)","Six of the 7 Bharti brochures (all but Future Invest) list the Linked Complete Shield Rider (UIN 130A012V02). Its literature says 'The Waiver of Premium benefit is also available for event arising due ATPD, SCI and CCI-major conditions' and Part B has 'Additional Option: Waiver of Premium Benefit'. v3 codes Bharti 'N' for all 7 and counts peers' riders in the 43 (15 are riders), so the comparison is not like for like. The waiver is for disability and critical illness events, not for the death of a payor","FAIL","Fixed in the page and in deck slides 2, 6, 7, 10, 11 (now 'rider only'). v3 and v1 still say N: S1 to recode"),
+(D,"Slide 6","Better terms for online purchase: Bharti None","features/ulip/130L100V03.json (policy bond p13); text/bharti-life/130L088V04/brochure.txt line 750","Wealth Pro allocation charge year 1 is 6.0% online against 9.0% other channels. Grow Wealth admin charge is 0.10% online against 0.15%. So 2 of 7 Bharti ULIPs have online terms. v3 'lower_charges_online' misses both","FAIL","Fixed in the page and deck. S1 to recode lower_charges_online for 130L100V03 and 130L088V04"),
+(P,"Section 6","Bharti has no top-ups (38 of 84 have them)",F05+"; text/bharti-life/130L*/policy.txt","Only Grow Wealth Ultra says 'Top-up Premiums are not allowed' (policy p, item 15). The other six documents do not mention top-ups at all","WARN","Say 'not stated in six, not allowed in one'. Page now says this; deck slides 2, 6, 10 still say 'no top-ups'"),
+(D,"Slide 6","Scheduled guaranteed additions: Bharti None (20 of 84)",F05+"; features/ulip/130L100V03.json","Wealth Pro adds 0.25% of fund value at end of year 5 and 1.25% at maturity. That is a fixed schedule, like Bajaj's Fund Booster (2% every 5 years) which S1 counted. S1 coded Wealth Pro's as a wealth booster, a separate feature","WARN","Ask S1 for the rule that separates 'wealth booster' from 'scheduled guaranteed addition'"),
+(D,"Slide 6","Plan continues after death (16 of 84): Bharti None","text/bharti-life/130L*/{brochure,policy}.txt","Keyword search for premium funding by the company, family income and income benefit finds nothing in the 7 Bharti ULIPs","PASS",""),
+(D,"Slides 6, 10","No pension or child ULIP (18 and 9 on the market)",F02,"Bharti's 7 ULIPs are all 'wealth' or 'return of mortality' types","PASS",""),
+(D,"Slides 6, 10","Bharti has 8 funds against 14 to 31",F05,"Bharti 6, 8, 8, 8, 8, 8, 10 (plus the discontinued fund). Five of 7 have 8","PASS",""),
+(D,"Slide 6 (v3)","Rider benefits coded per Bharti product: accidental death, critical illness, disability",F05+"; "+"Bharti brochures","The same rider is listed in 6 brochures but coded accidental death R in 4 of 7, critical illness R in 1 of 7 (Wealth Pro) and disability '-' in all 7. The rider covers accidental death, total and partial disability, standard and comprehensive critical illness and cancer for all six. Any 'Bharti lacks' on these rows is unreliable","FAIL","S1 to recode the rider-driven features for Bharti. Not used in the deck, but used in the 'lacks' logic"),
+(D,"Slide 6 footnote","Shaded rows are features Bharti lacks that 14 or more peers have",F05,"After the fixes, waiver and online terms are no longer shaded. Still shaded: top-ups, guaranteed additions (borderline), continues after death, customer-type terms is Grow Wealth Ultra only","WARN","Re-run the shading after S1 recodes"),
+]
+ROWS = BHARTI + ROWS
+
 def build(repo):
     wb = Workbook()
     ws = wb.active; ws.title = "Summary"
@@ -144,6 +157,22 @@ def build(repo):
     for row in ws2.iter_rows(min_row=2):
         for c in row: c.alignment = Alignment(wrap_text=True, vertical="top")
     ws2.freeze_panes = "A2"; ws2.auto_filter.ref = f"A1:H{len(ROWS)+1}"
+    ws3 = wb.create_sheet("Bharti lacks audit")
+    ws3.append(["Feature the deck says Bharti lacks","Peers with it (of 84)","What the deck says","What the Bharti documents show","Verdict"])
+    for r in [
+      ("Waiver of premium","43","None / No","Optional rider on 6 of 7 ULIPs (Complete Shield Rider 130A012V02)","Wrong: rider only"),
+      ("Better terms for online purchase","14","None","Wealth Pro (online allocation charge) and Grow Wealth (online admin charge)","Wrong: 2 of 7 have it"),
+      ("Top-up premiums","38","None / No","Not mentioned in 6 documents; Grow Wealth Ultra says not allowed","Overstated: not stated"),
+      ("Scheduled guaranteed additions","20","None","Wealth Pro boosters at year 5 and maturity look like a fixed schedule","Borderline: rule needed"),
+      ("Plan continues after death","16","None","Nothing found in the 7 documents","Holds"),
+      ("Pension ULIP","18","None","No pension ULIP in the 7","Holds"),
+      ("Child ULIP","9","None","No child ULIP in the 7","Holds"),
+      ("Funds (8 vs 14 to 31)","n/a","8","6, 8, 8, 8, 8, 8, 10","Holds"),
+      ("Unlimited free switches (Bharti has)","60","All 7","Future Invest: 12 a year, then Rs 100","Wrong: 6 of 7"),
+      ("Loyalty additions or boosters (Bharti has)","58","5 products","Loyalty additions in 6 of 7; boosters in 3","Wrong: 6 products"),
+    ]: ws3.append(list(r))
+    for c in ws3[1]: c.font = Font(bold=True)
+    for col, w in zip("ABCDE", (38,18,22,70,26)): ws3.column_dimensions[col].width = w
     out = f"{repo}/qa/s2/s2_qa_workbook.xlsx"
     wb.save(out); print(out, dict(cnt), len(ROWS))
 

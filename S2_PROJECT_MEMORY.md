@@ -137,3 +137,14 @@ Workbook: `qa/s2/s2_qa_workbook.xlsx`, built by `scripts/s2_tools/build_qa_workb
 - Fixed on the page (08): preview row numbers (Bharti portfolio, v1, v3), "All 7 free switches" is 6 of 7 (Future Invest has 12 a year), expert nomination not yet applied to the challenger scores.
 - Open on the deck (S1's content, not changed): "mostly as a rider" (waiver is mostly an option), Bharti "5 products" for loyalty or boosters (6), Grow Wealth Ultra 1.31% not in deliverable 06, "Bharti x3 checked" (06 shows 2 Bharti checks), SBI Retire Smart Plus has no assured vesting, "most policies in force" claim on slide 11 note, S3 QA counts (237/8/10 vs 233/7/9 now).
 - Still unverified: calculator steps on the page, FY25 conservation 75.4%, page reading time.
+
+### Bharti "lacks" audit (5 Nov, priority of the QA)
+Checked each "Bharti doesn't have X" claim in the 7 Bharti policy documents and brochures. Tab "Bharti lacks audit" in `qa/s2/s2_qa_workbook.xlsx`.
+- **Waiver of premium: wrong.** 6 of 7 Bharti brochures list the Linked Complete Shield Rider (130A012V02). Its literature offers a Waiver of Premium option (disability and critical illness events). v3 and v1 code Bharti N, while peers' 43 includes riders. Page and deck copy now say "rider only". S1 to recode v3.
+- **Online terms: wrong.** Wealth Pro (online allocation charge 6% vs 9%) and Grow Wealth (online admin 0.10% vs 0.15%) have them.
+- **Top-ups: overstated.** Six documents are silent; only Grow Wealth Ultra says not allowed.
+- **Guaranteed additions: borderline.** Wealth Pro boosters at year 5 and maturity are on a fixed schedule.
+- **Rider coding inconsistent.** Same rider coded differently across Bharti products (accident death, CI, disability).
+- Holds: no plan that continues after death, no pension or child ULIP, 8 funds.
+- Rider documents were read from bhartiaxa.com into the scratchpad only; not added to `docs/` or `index.csv` yet.
+Deck regenerated with `scripts/s2_tools/build_deck_html.py`.
