@@ -39,3 +39,9 @@ This file explains how each output is produced, which script does it, and why we
 - Manual uploads go to `manual-uploads/<insurer>/` with `sources.csv` (see `manual-uploads/README.md`). S2 moves them into `docs/` with an `index.csv` row.
 - After new deep files arrive: run `scripts/validate_ulip_json.py`, then `analysis/scripts/scan_new_features.py`, review new candidate rows and add verdicts in `new_feature_verdicts.py`, then rebuild with `build_ulip_features.py` and copy to `deliverables/05`.
 - Do not commit personal documents (benefit illustrations with a name) to the repo.
+
+## QA overrides and rider recoding (5 Nov 2026)
+- `analysis/scripts/make_s3_overrides.py` turns S3's tab B FAILs into `analysis/v3/s3_overrides.csv` (63 rows, Bharti). UNSURE rows are not applied; they wait for rules in `analysis/v3/coding_rules.md`.
+- `build_ulip_features.py` applies, in this order: the deep data, then the rider map (`results/ulip_rider_map.csv`: a feature the ULIP does not give itself but a rider it names covers becomes R), then every `analysis/v3/*_overrides.csv`. Tabs "QA overrides" and "Rider recoding" list each change.
+- `build_ulip_comparison.py` reads corrected cells from `product_features_ulip_v3.csv`, so run it after `build_ulip_features.py`.
+- Universal rider list from the Council sheet: `analysis/scripts/build_rider_list_council.py` writes `analysis/riders/rider_list_council.csv` and `.xlsx` (225 riders). Tally against S2's list by UIN when it lands.

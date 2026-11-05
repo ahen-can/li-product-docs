@@ -353,6 +353,43 @@ for g, label, names, rx in NEW_FEAT:
         else:
             cells[(g, k)] = ('', '', None, None, None)
 
+# ---------- rider map (S2 rider discovery) ----------
+# A feature that the product's own documents do not give, but a rider it names covers, is coded R.
+# results/ulip_rider_map.csv grows as S2 adds insurers; products not in it keep their current code.
+RIDER_RX = {'waiver_of_premium': r'waiver of premium(?! or)', 'critical_illness_inbuilt_or_option': r'critical illness \(|critical illness;|critical illness$',
+            'accidental_death_extra': r'accidental death', 'disability_benefit': r'disability'}
+RMAP = C.defaultdict(list)
+_rp = os.path.join(R, 'results', 'ulip_rider_map.csv')
+if os.path.exists(_rp):
+    for _r in csv.DictReader(open(_rp, encoding='utf-8')):
+        if _r['rider_uin']:
+            RMAP[_r['ulip_uin']].append(_r)
+RIDER_APPLIED = []
+for f, rx in RIDER_RX.items():
+    for k in keys:
+        old = cells.get((f, k), ('', '', None, None, None))
+        if old[0] in YES:
+            continue
+        for _r in RMAP.get(k, []):
+            ben = re.sub(r'no waiver, critical illness or disability', '', _r['benefits_covered'])
+            if re.search(rx, ben, re.I):
+                cells[(f, k)] = ('R', f"via {_r['rider_name']} ({_r['rider_uin']})", 'rider map: ' + _r['link_stated_in'], None, ben[:400])
+                RIDER_APPLIED.append([products[k]['insurer'], products[k]['name'], k, f, old[0], 'R', _r['rider_uin']])
+                break
+
+# ---------- QA overrides (S3, then any later rounds) ----------
+OVR_APPLIED = []
+for _op in sorted(glob.glob(os.path.join(A, 'v3', '*_overrides.csv'))):
+    for o in csv.DictReader(open(_op, encoding='utf-8')):
+        k, f = o['uin'], o['feature']
+        old = cells.get((f, k), ('', '', None, None, None))
+        code = o['code'] or (old[0] if old[0] not in ('?', '') else 'n/a')
+        val = o['value'] or (old[1] if not o['code'] or o['code'] in YES else '')
+        if o['code'] in YES and not o['value'] and old[0] not in YES:
+            val = ''
+        cells[(f, k)] = (code, val, o['doc'], int(o['page']) if o['page'] else None, o['quote'][:400])
+        OVR_APPLIED.append([products[k]['insurer'], products[k]['name'], k, f, old[0], code, (o['value'] or '')[:200], os.path.basename(_op), o['source']])
+
 # headline charge numbers (deep)
 CH = []
 for k in DEEP:
@@ -483,6 +520,10 @@ sheet('v1 corrections', ['Insurer', 'Product', 'UIN', 'Feature', 'Difference', '
       {2: 30, 4: 28, 5: 34, 6: 60, 7: 60},
       note='Deep data wins where they disagree. These rows show how far the v1 keyword scan can be trusted for products without deep data yet.')
 
+sheet('QA overrides', ['Insurer', 'Product', 'UIN', 'Feature', 'Code before', 'Code after', 'Value after', 'File', 'Source'], OVR_APPLIED,
+      {2: 30, 4: 30, 7: 60, 8: 22, 9: 22}, note='Corrections from QA rounds (analysis/v3/*_overrides.csv). They replace the cell built from the deep data. UNSURE items are not here: they wait for a coding rule.')
+sheet('Rider recoding', ['Insurer', 'Product', 'UIN', 'Feature', 'Code before', 'Code after', 'Rider UIN'], RIDER_APPLIED, {2: 30, 4: 30},
+      note='Features the ULIP gives only through a rider it names (results/ulip_rider_map.csv, S2 rider discovery). Coverage grows as S2 adds insurers.')
 EV = []
 WEAK = C.defaultdict(C.Counter)
 for r in rows:
@@ -506,4 +547,5 @@ with open(os.path.join(A, 'product_features_ulip_v3.csv'), 'w', newline='', enco
             c = cells.get((r['id'], k), ('', '', None, None, None))
             w.writerow([k, products[k]['insurer'], products[k]['name'], products[k]['src'], r['id'], c[0], c[1], c[2] or '', c[3] or '', c[4] or ''])
 print('products', nD + nB, 'deep', nD, 'rows', len(rows), 'evidence', len(EV), 'corrections', len(corr), 'kw leads', dict(kw_count))
+print('overrides', len(OVR_APPLIED), 'rider recodes', len(RIDER_APPLIED))
 print('unmapped new features:', [(k, n['feature']) for k, n in unmapped])
