@@ -11,6 +11,38 @@
 
 ---
 
+### 5 Nov 2026 · S3 · @S1 Bharti portfolio fix re-checked: PASS
+**Status:** checked deliverable 01 at aee8017. Every figure in the FY26 reconciliation matches the PDs and Product Performance (937.21, 309.28, 212.04, 97.24, 627.93, 292.67, 335.26, 504.71, 131.38, 1,068.60). The 90% claim, the Rs 3.3 cr split and the old shares are gone; shares use Rs 937.21 cr; FY24/FY25 coverage caveat is in the notes. Recorded in qa/s3/s3_qa_workbook.xlsx tab D as FAIL found ad hoc, with the reconciliation and this re-check.
+**One minor item (pre-dates your fix):** the "PD category Non-Par Life: Rs 2,084 cr = 0.47% / 0.97%" headers (rows 42 and 93) use non-par life + pension + annuity, while Summary and Mapping define Non-Par Life as NL only (Bharti Rs 2,021 cr; 0.70% of industry, 1.10% of private). Non-par pension Rs 62.9 cr then also appears in the Pension & Annuity header (Rs 64 cr). Suggest the NL-only figures.
+**FYI:** deliverable 01 stores no cached formula values (1,225 formulas, also true before your fix). Excel and LibreOffice recalculate on open; viewers that do not recalculate show blank shares.
+
+### 5 Nov 2026 · S3 · QA round done: @S1 results in qa/s3/s3_qa_workbook.xlsx
+**Status:** all 255 checks filled on branch s3-bharti-analysis (main merged in first). Pass rate = PASS / (PASS + FAIL): A 97.8% (87/2/1 UNSURE), B 98.0% (97/2/1), C 100% (30/0), D 100% (8/0), E 100% of 5 checked (7 ICICI rows UNSURE: iciciprulife.com returns 403), F 71.4% (10/4/1). F is below the 95% target.
+**Top 3 FAILs:**
+1. F row 15 and 16: ppt flags wrong. Bharti Grow Wealth (130L088V04) has regular pay (brochure PT/PPT table: 5/5, 10/10, 15/15, 20/20), deep says not offered; Bajaj Smart Wealth Goal VII (116L218V01) has single pay (Joint Life Wealth variant). These change Bharti's gap analysis.
+2. B rows 4 and 12: S1 rejected features the products have. HDFC Smart Pension Plan has lower online allocation charges (4% vs 12% in year 1); HDFC Click 2 Retire Plus II allows vesting postponement to age 75. Also F rows 6 and 18: Axis Forever Young Pension "Save More Tomorrow" is a premium step-up, not a portfolio strategy; Tata Smart Fortune Plus has an accidental death rider (110A027V02).
+3. A row 23: Tata Wealth Maxima (110L114V05) minimum partial withdrawal is Rs 5,000 (policy p7), deep says Rs 1,000 (copied from Smart Fortune Plus).
+**Found ad hoc (bottom of tabs):** D: the Bharti portfolio tab treats the 8 products as 90% of FY26 NBP (total about Rs 561 cr); they are the current FY27 list and were 53.9% of FY26 individual NBP (Rs 937 cr, PD L-38), so the "other products" remainder is understated by about Rs 430 cr. A: SBI Smart Fortune Builder misses its periodic Guaranteed Additions (years 10-30). E: HDFC YoungStar Udaan shows as discontinued on its product page but active on the all-products page.
+
+### 5 Nov 2026 · S3 · Bharti analysis done: @S1 please merge s3-bharti-analysis
+**Status:** all four brief steps are pushed on branch s3-bharti-analysis. No PR opened.
+**Files (analysis/bharti/):** document_inventory.csv (61 rows), bharti_trend_data.csv (2,258 rows), bharti_analysis.xlsx (tabs Notes, Bharti trend, Bharti KPIs, Bharti product trend, Peer view FY26, Sources), bharti_findings_FY21_to_FY27.md (15 observations, gaps, 7 questions), scripts/build_trend_data.py and scripts/build_excel.py (run in that order; build_excel needs openpyxl). The user asked for a descriptive name instead of findings.md.
+**For S1:** copy the five data tabs into deliverable 01 next to "Bharti portfolio", and keep the Notes tab: it carries sources, rounding notes, the EoM / forbearance / show-cause quotes, and the IRDAI distribution-reform consultation paper (Sep 2026) with Bharti implications. Product NBP for FY24-FY26 and FY27 periods can replace the estimated values in "Bharti portfolio". PROJECT_MEMORY section 5 is confirmed; FY24 linked share of individual NBP is 17.9%. please_check.md "Bharti analysis (S3)" items are all resolved by the user.
+
+### 5 Nov 2026 · S3 · Bharti analysis step 3: Excel
+**Status:** analysis/bharti/bharti_analysis.xlsx pushed on s3-bharti-analysis, built by scripts/build_excel.py from bharti_trend_data.csv (now 2,251 rows incl. peers). Next: findings file.
+**Done:** tabs Notes, Bharti trend, Bharti KPIs, Bharti product trend, Peer view FY26, Sources. Peer view covers all 13 peers (persistency and conservation from each FY26 PD L-22; segment mix and growth from deliverable 01 Data tab). Yellow cells are reconstructed (FY23) or derived (FY25, FY26) segment NBP; the user approved both.
+**For S1:** the Notes tab lists sources, rounding differences and caveats; please keep it when copying tabs into deliverable 01.
+
+### 5 Nov 2026 · S3 · Bharti analysis step 2: trend data (FY21 to Q1 FY27)
+**Status:** analysis/bharti/bharti_trend_data.csv (1,689 rows) and scripts/build_trend_data.py pushed on s3-bharti-analysis. Next: peer L-22 extraction, then the Excel.
+**Done:** premium by segment (L-1-A-RA), L-4, L-22 ratios and persistency, channels (L-37, L-38), AUM (L-3), death claims (L-40), EoM against the limit (annual reports), KPI sheet, product performance and 90% lists. Segment NBP from annual-report Schedule 1 for FY21 to FY24; FY23 reconstructed from a misprinted comparative; FY25 and FY26 derived from L-22 growth and flagged.
+**For S1:** your section 5 figures hold. Linked share of individual NBP FY24 is 17.9%. Par fell from 38.2% to 18.6% of gross premium; non-par individual life rose from 44.6% to 58.0%. EoM exceeded the limit every year FY21 to FY25 (not only FY25); FY26 is within the limit. Doubts are in for-your-attention/please_check.md under "Bharti analysis (S3)".
+
+### 5 Nov 2026 · S3 · Bharti analysis step 1: inventory
+**Status:** branch s3-bharti-analysis, file analysis/bharti/document_inventory.csv (52 rows). Next: trend data.
+**Done:** Bharti PDs FY22 to FY26 and Q1 FY27 (FY24 PD now in hand), annual reports FY21 to FY26, KPI files, and FY26 PDs for all 13 peers. The file "fy2025 - L1-to-L45-consolidated-q4.pdf" is the FY26 PD. The "H2 FY27" KPI files cover Apr to Sep 2026 (H1).
+**Asks / blockers:** annual reports FY23, FY25 and FY26 are scanned and need OCR; the user is installing tesseract. Peer PDs live on the user's laptop only (Desktop/LI-PDs), so S1 cannot see them.
 ### 4 Nov 2026 · S2 · ULIP deep: quote cleanup pass
 **Status:** 51 more short-value fields now carry a quote with the number (109 in total). One wrong value found and fixed: SBI Smart Invest Builder (111L153V01) form number is 841, not 859. All 84 files pass validation.
 

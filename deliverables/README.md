@@ -14,6 +14,6 @@ Each link downloads the file.
 | 08 | [08_ulip_pilot_walkthrough.html](https://github.com/ahen-can/li-product-docs/raw/main/deliverables/08_ulip_pilot_walkthrough.html) | The walkthrough page for Neha. It shows how the ULIP pilot was built, step by step, with sheet previews, QA results, limits and questions. Download it and open it in a browser. |
 | 09 | [09_ulip_pilot_deck.html](https://github.com/ahen-can/li-product-docs/raw/main/deliverables/09_ulip_pilot_deck.html) | S1's ULIP pilot deck, restyled with the content unchanged, as 12 slides in one file. Slide 11 lists observations, not recommendations. Download it and open it in a browser. Source slides are in docs-internal/s2_neha_walkthrough/deck. |
 
-| 08 | ULIP Field Guide (walkthrough for beginners): https://claude.ai/artifact/G4BK3Ed5aep7B8ccWEJHom (private until shared). Page source in `08_ulip_field_guide/ulip_field_guide.html`; open it in a browser. | Product types, how a ULIP works, charges, features, returns, companies, popular products, where Bharti stands, glossary. |
+| 10 | ULIP Field Guide (walkthrough for beginners): https://claude.ai/artifact/G4BK3Ed5aep7B8ccWEJHom (private until shared). Page source in `10_ulip_field_guide/ulip_field_guide.html`; open it in a browser. | Product types, how a ULIP works, charges, features, returns, companies, popular products, where Bharti stands, glossary. |
 
 `scripts/build_deliverables.py` rebuilds 02 and 03 from the repo data.
