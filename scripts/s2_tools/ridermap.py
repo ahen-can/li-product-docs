@@ -34,12 +34,17 @@ for slug in slugs:
             for ruin, (rname, ben) in riders.items():
                 if any(r[0] == uin and r[2] == ruin for r in new): continue
                 for i, p in enumerate(pages, 1):
-                    if ruin in p or ruin in re.sub(r'\s', '', p):
-                        new.append([uin, nm['ulip_name'], ruin, rname, f'{dt}, page {i}', ben]); break
+                    q = re.sub(r'\s', '', p)
+                    m = re.search(re.escape(ruin[:7]) + r'V\d\d', q)   # same rider, any version
+                    if m:
+                        ver = '' if m.group(0) == ruin else f' (names {m.group(0)}; stored {ruin})'
+                        new.append([uin, nm['ulip_name'], ruin, rname, f'{dt}, page {i}{ver}', ben]); break
         for m in manual:
             if m['ulip_uin'] == uin and m['rider_uin'] in riders and not any(r[0] == uin and r[2] == m['rider_uin'] for r in new):
                 new.append([uin, nm['ulip_name'], m['rider_uin'], riders[m['rider_uin']][0], m['link_stated_in'], riders[m['rider_uin']][1]])
-        if len(new) == n0: new.append([uin, nm['ulip_name'], '', '', '', 'no rider named in the documents'])
+        if len(new) == n0:
+            note = ('riders mentioned without a UIN or not matched to a stored rider: ' + nm['riders_value_in_deep_data'][:150]) if nm['riders_status_in_deep_data'].strip().lower() == 'rider' else 'no rider named in the documents'
+            new.append([uin, nm['ulip_name'], '', '', '', note])
 rows = [[r[h] for h in H] for r in keep if ulip_slug.get(r['ulip_uin']) not in slugs] + new
 rows.sort(key=lambda r: (r[0], r[2]))
 with open(OUT, 'w', newline='') as o:

@@ -1,0 +1,170 @@
+{
+ "rider": {
+  "name": {
+   "value": "Tata AIA Life Insurance Accidental Death and Dismemberment (Long Scale) (ADDL) Linked Rider",
+   "status": "n/a",
+   "doc": "Brochure",
+   "quote": "Accidental Death and Dismemberment",
+   "note": null,
+   "page": 1,
+   "doc_path": "docs/tata-aia/riders/110A027V03/brochure.pdf"
+  },
+  "uin": {
+   "value": "110A027V03",
+   "status": "n/a",
+   "doc": "Brochure",
+   "quote": "UIN: 110A027V03",
+   "note": "Rider page publishes V03; ULIP product pages name V02 and V03 or later.",
+   "page": 1,
+   "doc_path": "docs/tata-aia/riders/110A027V03/brochure.pdf"
+  },
+  "linked_or_non_linked": {
+   "value": "linked rider, individual health insurance rider; charge cancelled from units",
+   "status": "n/a",
+   "doc": "Brochure",
+   "quote": "Linked, Individual, Health Insurance Rider",
+   "note": null,
+   "page": 2,
+   "doc_path": "docs/tata-aia/riders/110A027V03/brochure.pdf"
+  },
+  "attached_to_ulips": {
+   "value": "see results/ulip_rider_map.csv",
+   "status": "n/a",
+   "doc": null,
+   "quote": null,
+   "note": "",
+   "page": null,
+   "doc_path": null
+  }
+ },
+ "benefits": {
+  "waiver_of_premium": {
+   "value": "not covered",
+   "status": "not covered",
+   "doc": "Brochure",
+   "quote": "ADDL (Long Scale) benefit:",
+   "note": "Accidental death and dismemberment only.",
+   "page": 2,
+   "doc_path": "docs/tata-aia/riders/110A027V03/brochure.pdf"
+  },
+  "waiver_on_death_of_life_assured": {
+   "value": "not covered",
+   "status": "not covered",
+   "doc": "Brochure",
+   "quote": "ADDL (Long Scale) benefit:",
+   "note": null,
+   "page": 2,
+   "doc_path": "docs/tata-aia/riders/110A027V03/brochure.pdf"
+  },
+  "waiver_on_death_or_illness_of_proposer": {
+   "value": "not covered",
+   "status": "not covered",
+   "doc": "Brochure",
+   "quote": "ADDL (Long Scale) benefit:",
+   "note": null,
+   "page": 2,
+   "doc_path": "docs/tata-aia/riders/110A027V03/brochure.pdf"
+  },
+  "critical_illness": {
+   "value": "not covered",
+   "status": "not covered",
+   "doc": "Brochure",
+   "quote": "ADDL (Long Scale) benefit:",
+   "note": null,
+   "page": 2,
+   "doc_path": "docs/tata-aia/riders/110A027V03/brochure.pdf"
+  },
+  "accidental_death": {
+   "value": "100% of rider sum assured on loss of life by accident.",
+   "status": "covered as an option",
+   "doc": "Brochure",
+   "quote": "Loss of Life 100%",
+   "note": null,
+   "page": 2,
+   "doc_path": "docs/tata-aia/riders/110A027V03/brochure.pdf"
+  },
+  "accidental_disability": {
+   "value": "Scheduled percentages of rider sum assured for dismemberment: 100% for loss of both eyes or two limbs, 50% for one eye or one limb, 75% hearing in both ears, 50% speech, down to 5% for a joint.",
+   "status": "covered as an option",
+   "doc": "Brochure",
+   "quote": "Loss of or Loss of Use of two Limbs 100%",
+   "note": null,
+   "page": 2,
+   "doc_path": "docs/tata-aia/riders/110A027V03/brochure.pdf"
+  },
+  "term_cover": {
+   "value": "not covered",
+   "status": "not covered",
+   "doc": "Brochure",
+   "quote": "ADDL (Long Scale) benefit:",
+   "note": null,
+   "page": 2,
+   "doc_path": "docs/tata-aia/riders/110A027V03/brochure.pdf"
+  },
+  "hospital_cash": {
+   "value": "not covered",
+   "status": "not covered",
+   "doc": "Brochure",
+   "quote": "ADDL (Long Scale) benefit:",
+   "note": null,
+   "page": 2,
+   "doc_path": "docs/tata-aia/riders/110A027V03/brochure.pdf"
+  },
+  "other": {
+   "value": "not stated",
+   "status": "not stated",
+   "doc": null,
+   "quote": null,
+   "note": null,
+   "page": null,
+   "doc_path": null
+  }
+ },
+ "terms": {
+  "rider_term": {
+   "value": "Maximum: base plan term or 70 minus age at entry, whichever is earlier.",
+   "status": "n/a",
+   "doc": "Brochure",
+   "quote": "Maximum Rider",
+   "note": null,
+   "page": 2,
+   "doc_path": "docs/tata-aia/riders/110A027V03/brochure.pdf"
+  },
+  "premium_paying_rules": {
+   "value": "not stated",
+   "status": "not stated",
+   "doc": null,
+   "quote": null,
+   "note": "Not extracted. Rider charge deduction term follows the rider term.",
+   "page": null,
+   "doc_path": null
+  },
+  "entry_age": {
+   "value": "Minimum: base plan minimum or 18, whichever is higher. Maximum: base plan or 60, whichever is lower. Maximum maturity age: base plan or 70, whichever is lower.",
+   "status": "n/a",
+   "doc": "Brochure",
+   "quote": "As per base plan or 60 years",
+   "note": null,
+   "page": 2,
+   "doc_path": "docs/tata-aia/riders/110A027V03/brochure.pdf"
+  },
+  "sum_assured_limits": {
+   "value": "Minimum Rs 50,000 or the base plan minimum; maximum the sum assured chosen for the base plan.",
+   "status": "n/a",
+   "doc": "Brochure",
+   "quote": "Minimum Sum Assured",
+   "note": null,
+   "page": 2,
+   "doc_path": "docs/tata-aia/riders/110A027V03/brochure.pdf"
+  },
+  "premium_deduction": {
+   "value": "Charge taken by cancellation of units of the base policy.",
+   "status": "n/a",
+   "doc": "Brochure",
+   "quote": "cancellation of units of the base",
+   "note": null,
+   "page": 2,
+   "doc_path": "docs/tata-aia/riders/110A027V03/brochure.pdf"
+  }
+ }
+}

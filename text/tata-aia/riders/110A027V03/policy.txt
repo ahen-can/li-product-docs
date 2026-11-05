@@ -1,0 +1,326 @@
+  Tata AIA Life Insurance Accidental Death and Dismemberment (Long scale) (ADDL) Linked Rider (110A027V03)
+                                                           (Linked, Individual, Health Insurance Rider)
+
+PART B                                                                                 Table 1: Accidental Death and Accidental Dismemberment
+DEFINITIONS:-                                                                            Accidental Death and Accidental Dismemberment                Amount of Beneﬁt
+1. "Accident" refers to a sudden, unforeseen and involuntary event caused by                                                                           (as % of rider SA)
+     external, violent and visible means which occurs while the relevant                 Loss of Life                                                        100%
+     Supplementary Contract is in force and during the life me of the Insured.           Loss of Sight of one eye                                             50%
+2. "Accidental Death" means the death of the Insured which results directly,             Loss of Sight of both eyes                                          100%
+     solely and independently of any other causes from Bodily Injury AND occurs          Loss of or Loss of Use of one Limb                                   50%
+     within 90 days of the date of Accident.
+                                                                                         Loss of or Loss of Use of two Limbs                                 100%
+3. “Accidental Dismemberment” must be a result of a trauma c event caused
+     solely by external, violent, unforeseeable and visible means, occurring             Loss of Speech and Loss of Hearing                                  100%
+     independently of any other causes and within 90 days of such trauma, proved         Loss of Hearing
+     to the sa sfac on of the insurer. The permanence of the disability will only be     - both ears                                                          75%
+     established 90 days following the date of the event causing the disability          - one ear                                                            25%
+     except in the case of complete severance of the hand at or above the wrist or       Loss of Speech                                                       50%
+     foot at or above the ankle joint.”
+                                                                                         Loss of or Loss of Use of four Fingers and Thumb of
+4. "Accidental Injuries" means death or Bodily Injury of the Insured which results
+     directly, solely and independently of any other causes from an Accident AND         - right hand                                                         70%
+     which occurs within 90 days of the Accident.                                        - le hand                                                            50%
+5. "Basic Policy" refers to the base plan to which this Supplementary Contract is        Loss of or Loss of Use of four Fingers of
+     a ached.                                                                            - right hand                                                         40%
+6. "Bodily Injury" means an abnormal bodily condi on of the Insured which                - le hand                                                            30%
+     occurs while the relevant Supplementary Contract is in force and within 90          Loss of or Loss of Use of one Thumb
+     days of Accident, and caused directly and solely by Accident independent of         - both right joints                                                  30%
+     any other cause and not therefore due to illness or disease. Such Bodily Injury
+     must be evidenced by external signs such as contusion, bruise and wound             - one right joint                                                    15%
+     except in cases of drowning and internal injury.                                    - both le joints                                                     20%
+7. “Date of Commencement of Risk” is the date as men oned on the Policy                  - one le joint                                                       10%
+     Schedule.                                                                           Loss of or Loss of Use of Fingers
+8. "Loss of Fingers or Toes" means complete physical severance through or                - three right joints                                                 10%
+     above the metacarpophaleangeal or metatarsophalangeal joints.                       - two right joints                                                   7.5%
+9. "Loss of Hearing" means the total permanent and irreversible loss of hearing          - one right joint                                                     5%
+     measuring more than 80 DB.                                                          - three le joints                                                    7.5%
+10. "Loss of Limb" means loss by complete physical severance of a hand at or             - two le joints                                                       5%
+     above the wrist or of a foot above the ankle.
+                                                                                         - one le joint                                                        2%
+11. "Loss¬ of Sight" means total permanent and irreversible loss of sight in one or
+     both eyes, duly cer ﬁed by an ophthalmologist's report.                             Loss of or Loss of Use of Toes
+12. "Loss of Speech" means the total permanent and irreversible disability in            - all-one foot                                                       15%
+     ar cula ng any three of the four sounds which contribute to speech, namely          - great-both joints                                                   5%
+     the Labial sounds, the Alveololabial sounds, the Palatal sounds and the Velar       - great-one joint                                                     3%
+     sounds; or total permanent and irreversible loss of vocal cord or damage of         Shortening of leg by at least 5cms                                   7.5%
+     speech center in the brain resul ng in Aphasia.                                   Note: If the Insured is le -handed, the percentage for the various Accidental
+13. "Loss of Use" means total permanent and irreversible loss of all func onal use     Injuries listed in the above schedule of right hand and le hand will be transposed.
+     of a limb or organ.                                                               Table 2: Accidental Burns - If the Insured suﬀers Third Degree Burns due to
+14. “Policy Anniversary” refers to the same date each year as the Policy Date.         Accident, We will pay the following amount of beneﬁt if the burnt area occurs and
+15. “Maturity / Expiry Date” of this Policy is shown on the Policy Schedule.           involves:
+16. “Medical Prac oner” means only a person holding a degrees of bachelor of             Area           Damage as a Percentage of Total Body Surface         Amount of
+     medicine and bachelor of surgery (MBBS) or equivalent degrees and is                               Area                                                   Beneﬁt
+     registered and legally authorised by the Medical Council of India or the                                                                            (as % of rider SA)
+     relevant authority in the geographical area of his prac ce to render medical or     a) Head        Equal to or greater than 2% but less than 5%             50%
+     surgical services; but excluding a Physician who is the Insured himself or an
+     agent of the Insured, an insurance agent, business partner(s) or                                   Equal to or greater than 5% but less than 8%             75%
+     employer/employee of the Insured or a member of the Insured's immediate                            Equal to or greater than 8% 100%
+     family.                                                                             b) Body        Equal to or greater than 10% but less than 15%           50%
+17. “Supplementary contract” means this contract of Insurance and is a ached to                         Equal to or greater than 15% but less than 20%           75%
+     the Base plan.                                                                                     Equal to or greater than 20%                            100%
+18. “Supplementary Contract Term” un l the term of the Basic Policy or You reach       The Insured will be en tled only to the loss which pays the largest beneﬁt if more
+     age 70, whichever is earlier.                                                     than one loss under Table 1 and 2 above results from the same Accident. We will
+19. "Third Degree Burns" mean full thickness skin destruc on due to burns.             con nue to pay the beneﬁts ll 100% of the Sum Assured.
+20. “We”, “Us”, “Our” or “Company” refers to the Tata AIA Life Insurance               b. Double Indemnity
+     Company Limited.                                                                        The amount of beneﬁt provided in the Table 1 & 2 above shall be doubled if the
+21. “You” or “Your” means the Policyholder of the Basic Policy.                              Accidental Death or Accidental Dismemberment for which the beneﬁt is
+PART C                                                                                       payable occurs under any of the following circumstances:
+As per the Base Policy of Provisions Please note the Addi onal Items given below             i. While the Insured is riding as a fare paying passenger on commercially
+1. BENEFITS                                                                                       licensed public land transporta on over an established route such as a
+                                                                                                  bus, tram or train. A taxi or any form of transport chartered for private
+This is an op onal Unit deduc ng Supplementary Contract.                                          travel is excluded.
+a. In case of Accidental Death or Accidental Dismemberment or Accidental Burns               ii. While the Insured is in an elevator car (elevators in mines and on
+     of the Insured, while the Basic Policy and Supplementary Contract is in force,               construc on sites excluded) duly cer ﬁed to carry passengers; or
+     the amount payable shall be percentage of Sum Assured under this
+     Supplementary Contract according to the Tables and provisions below:                    iii. As a direct result of the burning of the following public buildings ONLY:
+                                                                                                  theatre, cinema, public auditorium, hotel, school and hospital.
+                                                                                             iv. When the Insured is on a commercial passenger airline on a regular
+                                                                                                  scheduled passenger trip over its established passenger route.
+
+
+  Tata AIA Life Insurance Accidental Death and Dismemberment (Long scale) (ADDL) Linked Rider (110A027V03) - IRDA of India Regn no. 110
+     Tata AIA Life Insurance Accidental Death and Dismemberment (Long scale) (ADDL) Linked Rider (110A027V03)
+                                                           (Linked, Individual, Health Insurance Rider)
+
+c.   Acceptance of claim under this Supplementary Contract shall not aﬀect the         h. Par cipa on by the insured person in any ﬂying ac vity, except as a bona ﬁde,
+     beneﬁts of the Basic Policy.                                                           fare-paying passenger of a recognized airline on regular routes and on a
+d. There is no surrender value or maturity value in this Supplementary Contract.            scheduled metable.
+2. CHANGE OF OCCUPATION                                                                i. Nuclear Contamina on; the radio-ac ve, explosive or hazardous nature of
+i. In the event the Insured changes his occupa on or job duty to one classiﬁed by           nuclear fuel materials or property contaminated by nuclear fuel materials or
+     us as more hazardous than that stated while applying for this Supplementary            accident arising from such nature.
+     Contract or in subsequent endorsement to this Supplementary Contract, you         j. Death or bodily injuries which result directly, solely and independently of any
+     shall immediately no fy us in wri ng.                                                  other causes from an Accident AND which occurs a er 90 days of the Accident
+ii. We shall adjust the premium accordingly and charge the revised premium                  are excluded. In the event the Insured enters into a Coma (as per deﬁni on of
+     from the immediate next Monthly Anniversary due. If such no ﬁca on is not              health regula ons) within 90 days a er the date of Accident and the death of
+     made and the Insured is injured a er having changed his occupa on to a more            the Insured occurs 90 days a er the date of Accident, such a claim shall be
+     hazardous one or while doing anything pertaining to such more hazardous                payable, provided that the claimant can prove using primary medical records
+     occupa on, we shall pay only such por on of the amount of beneﬁt provided              that the death of the Insured resulted directly and solely from accident and
+     in this Supplementary Contract as the premium paid would have purchased at             independent of any other causes and claims inves ga ons conducted by the
+     the rates and within the limits ﬁxed by us for such more hazardous occupa on.          company concur in their ﬁndings.
+iii. In case the occupa on or job duty the Insured has changed to is one classiﬁed     PART D
+     as non-insurable by us, we shall terminate the relevant Supplementary             As per the Base Policy of Provisions Please note the Addi onal Items given below
+     Accident Contract and return the unearned premium on a pro rata basis from        TERMINATION
+     the date of change. We shall not be liable for any claims arising a er such       Notwithstanding anything contained herein or in the Basic policy, this
+     change of occupa on for which we are not no ﬁed.                                  Supplementary Contract shall automa cally terminate by the occurrence of the
+3. DEDUCTION OF CHARGES                                                                earliest of the following:
+The deﬁni on of Units and the process of Deduc on of Units against the premium         a. End of Supplementary Contract Term.
+charges for this Supplementary contract shall follow the provisions as men oned in     b. On termina on of Basic Policy
+the Basic Policy. The premium / charge for this Supplementary Contract will be         c. On Complete Withdrawal/Surrender of Basic Policy
+recovered monthly by cancella on of units from the unit fund of basic Policy during
+the term of the Supplementary Contract.                                                d. If the basic policy is not revived within 3 years from the date of discon nuance
+4. DISCONTINUANCE OF PREMIUM OF BASIC POLICY                                           e. On the date of payment of 100% of the Sum Assured
+On non-payment of Regular premium for Basic Policy, the status of this                 f. On customer’s request and will be eﬀec ve from the next monthly anniversary.
+Supplementary Contract shall follow the status of the Basic Policy                          Termina on or cancella on of the Supplementary Contract shall be without
+In the event the Basic Policy is converted to Reduced Paid Up status, this                  prejudice to any claim arising prior to such termina on or cancella on unless
+Supplementary Contract shall follow the same and the Reduced Paid Up Sum                    otherwise speciﬁed.
+Assured for this Supplementary Contract = Sum Assured of this Supplementary            PART E
+Contract * (t/n)                                                                       As per the Base Policy of Provisions Please note the Addi onal Items given below
+Where t = Number of premiums paid for Basic Policy                                     SUPPLEMENTARY CONTRACT PREMIUM CHARGE
+n = Number of premium payable for Basic Policy                                         Premium charge is at rate of ` 1.40 per 1000 Sum Assured under this
+The rider charges will be deducted on the reduced paid up sum assured,                 Supplementary Contract for a Standard Life Class I and may vary as per board
+subsequent to the paid-up status.                                                      approved underwri ng guidelines of the Company.
+5. TERMS AND CONDITIONS                                                                PART F
+For the purpose of this Supplementary Contract, the clauses covering Free Look,        Following Items are re-produced below for your informa on
+Revival, Grace Period, Fraud & Non-Disclosure, Nomina on, Assignment                   1. ASSIGNMENT
+Misstatement of Age & Gender and Exclusions in the Basic Policy shall apply.           Assignment allowed as per Sec on 38 of the Insurance Act 1938 as amended from
+6. APPLICATION OF THIS SECTION                                                           me to me.
+In case of conﬂic ng provisions between the Basic and Supplementary Contract,          The simpliﬁed version of the provisions of Sec on 38 is enclosed in annexure – 1 for
+the later shall prevail.                                                               reference.
+7. EXCLUSIONS                                                                          2. NOMINATION
+No beneﬁt shall be payable for any losses caused directly or indirectly, wholly or     Nomina on allowed as per provisions of Sec on 39 of the Insurance Act 1938 as
+partly, by any one of the following occurrences:                                       amended from me to me. The simpliﬁed version of the provisions of Sec on 39 is
+a. Suicide or a empted suicide or self-inﬂicted injury, whether the life assured is    enclosed in annexure – 2 for reference
+     medically sane or insane.                                                         3. FRAUD AND MISREPRESENTATION
+b. Pre-exis ng Disease i.e. any condi on, ailment, injury or disease:                  Sec on 45 of the Insurance Act, 1938 as amended from me to me. The simpliﬁed
+     - that is/are diagnosed by a physician within 36 months prior to the              version of the provisions of Sec on 45 is enclosed in annexure – 3 for reference
+          eﬀec ve date of the policy issued by the Insurer or its revival, or          All other condi ons will be as per the base policy.
+     - for which medical advice or treatment was recommended by, or received           4. CLAIMS REQUIREMENTS
+          from, a physician within 36 months prior to the eﬀec ve date of the policy   For processing the claim request under this policy, we will require the following
+          issued by the Insurer or its revival.                                        documents:
+c. Failure to seek medical advice or treatment by a medical prac oner leading to       Type of Claim Requirement
+     occurrence of the insured event.
+                                                                                       Death due to a) Claim Forms
+d. War, terrorism, invasion, act of foreign enemy, hos li es, civil war, mar al law,
+                                                                                       Accident        - Part I: Applica on Form for Death Claim (Claimant's
+     rebellion, revolu on, insurrec on, military or usurper power, riot or civil
+                                                                                                       Statement) along with NEFT form
+     commo on. War means any war whether declared or not.
+                                                                                                       - Part II: Physician's Statement - to be ﬁlled by last a ending
+e. Commi ng an assault, a criminal oﬀence, an illegal ac vity or any breach of                         physician
+     law with criminal intent only.                                                                 b) Death Cer ﬁcate issued by a local government body like
+f. Engaging in or taking part in professional sport(s) or any hazardous pursuits,                      Municipal Corpora on
+     including but not limited to, diving or riding or any kind of race; underwater                 c) Medical Records (Admission Notes, Discharge/Death
+     ac vi es involving the use of breathing apparatus or not; mar al arts; hun ng;                    Summary, Indoor Case Papers, Test Reports etc.)1
+     mountaineering; parachu ng; bungee jumping                                                     d) Claimant's Photo ID with age proof & rela onship with the
+g. Alcohol or Solvent abuse or taking of Drugs, narco cs or psychotropic                               Insured along with Address proof of the claimant and
+     substances unless taken in accordance with the lawful direc ons and                               Cancelled cheque with name and account number printed or
+     prescrip on of a registered medical prac oner                                                     cancelled cheque with copy of Bank Passbook / Bank
+                                                                                                       Statement
+                                                                                                       If no nomina on - Proof of legal tle to the claim proceeds
+                                                                                                       (e.g. legal succession paper)
+
+
+     Tata AIA Life Insurance Accidental Death and Dismemberment (Long scale) (ADDL) Linked Rider (110A027V03) - IRDA of India Regn no. 110
+  Tata AIA Life Insurance Accidental Death and Dismemberment (Long scale) (ADDL) Linked Rider (110A027V03)
+                                                            (Linked, Individual, Health Insurance Rider)
+
+Type of Claim Requirement                                                               06. Fee to be paid for assignment or transfer can be speciﬁed by the Authority
+                                                                                             through Regula ons.
+If Death due a) In case of accidental death in addi on to the above
+to Accident     documents, we would require the following documents -                   07. On receipt of no ce with fee, the insurer should Grant a wri en
+(to be          - Postmortem report (Autopsy report) & Chemical Viscera                      acknowledgement of receipt of no ce. Such no ce shall be conclusive
+submi ed in         report - if performed;                                                   evidence against the insurer of duly receiving the no ce.
+addi on to      - All Police Papers – Panchnama, Inquest, First Informa on              08. If the insurer maintains one or more places of business, such no ces shall be
+the above)          Report (FIR) and Final Inves ga on Report.                               delivered only at the place where the policy is being serviced.
+Disability      a) Claim Forms                                                          09. The insurer may accept or decline to act upon any transfer or assignment or
+and                - Part I: Applica on Form for Disability/Dismemberment                    endorsement, if it has suﬃcient reasons to believe that it is
+Dismember          Claim (Claimant's Statement) along with NEFT form                         a. not bonaﬁde or
+ment Claim         - Part II: Conﬁden al Medical Report - to be ﬁlled by a ending            b. not in the interest of the policyholder or
+                   physician                                                                 c. not in public interest or
+                b) A ested True Copy of Indoor Case Papers of the Hospital
+                                                                                             d. is for the purpose of trading of the insurance policy.
+                c) Discharge Summary of Present and Past Hospitaliza ons
+                d) Insured’s PAN Card OR Form 60, Insured’s Address proof               10. Before refusing to act upon endorsement, the Insurer should record the
+                e) Bank Details of the Insured – Cancelled cheque (with printed              reasons in wri ng and communicate the same in wri ng to Policyholder within
+                   name and account number)/bank passbook and NEFT Form                      30 days from the date of policyholder giving a no ce of transfer or assignment.
+                f) Disability Cer ﬁcate by a ending Physician / Ins tute for            11. In case of refusal to act upon the endorsement by the Insurer, any person
+                   disabled                                                                  aggrieved by the refusal may prefer a claim to IRDAI within 30 days of receipt of
+                g) Rehabilita on Cer ﬁcate - if applicable                                   the refusal le er from the Insurer.
+                h) Employer’s wri en conﬁrma on / statement - for Disability            12. The priority of claims of persons interested in an insurance policy would
+                   claim                                                                     depend on the date on which the no ces of assignment or transfer is delivered
+                i) All related Medical Examina on Reports, e.g. Laboratory test              to the insurer; where there are more than one instruments of transfer or
+                   reports X-Ray / CT Scan / MRI Reports & Plates,                           assignment, the priority will depend on dates of delivery of such no ces. Any
+                   Ultrasonography Report Clinical / Hospital Reports                        dispute in this regard as to priority should be referred to Authority.
+                h) Clinical Photographs showing the injured areas - if available        13. Every assignment or transfer shall be deemed to be absolute assignment or
+If Death due All police reports-                                                             transfer and the assignee or transferee shall be deemed to be absolute
+to Accident First Informa on Report                                                          assignee or transferee, except
+(to be       Final Inves ga on Report                                                        a. where assignment or transfer is subject to terms and condi ons of
+submi ed in                                                                                       transfer or assignment OR
+addi on to                                                                                   b. where the transfer or assignment is made upon condi on that
+the above)                                                                                        i. the proceeds under the policy shall become payable to policyholder
+                                                                                                      or nominee(s) in the event of assignee or transferee dying before the
+ 1This is applicable if insured was in hospital at the me of death or any me prior to                 Life Assured OR
+the date of death.                                                                                ii. the Life Assured surviving the term of the policy
+Please submit copies of the following documents cer ﬁed / a ested by the issuing                  Such condi onal assignee will not be en tled to obtain a loan on policy or
+authority. (Original Seen Veriﬁed (OSV) by Branch Personnel will also be accepted)                surrender the policy. This provision will prevail notwithstanding any law or
+- All Police papers – Panchnama, Inquest, First Informa on Report and Final                       custom having force of law which is contrary to the above posi on.
+      Inves ga on Report.                                                               14. In other cases, the insurer shall, subject to terms and condi ons of assignment,
+- Medical Records (Admission Notes, Discharge/Death Summary, Indoor Case                     recognize the transferee or assignee named in the no ce as the absolute
+      Papers, Test Reports etc).                                                             transferee or assignee and such person
+- Postmortem report (Autopsy report) & Chemical Viscera report (cer ﬁed by              a. shall be subject to all liabili es and equi es to which the transferor or assignor
+      Police / Magistrate / Court will also be accepted)                                     was subject to at the date of transfer or assignment and
+Copies of the other documents to be submi ed by self-a esta on of the claimant          b. may ins tute any proceedings in rela on to the policy
+Note-                                                                                   c. obtain loan under the policy or surrender the policy without obtaining the
+In case the claim warrants any addi onal requirement, We reserve the right to call           consent of the transferor or assignor or making him a party to the proceedings
+for the same.                                                                           15. Any rights and remedies of an assignee or transferee of a life insurance policy
+No ﬁca on of claim & submission of the claim requirements does not mean                      under an assignment or transfer eﬀected before commencement of the
+admission of the claim liability by the Company.                                             Insurance Laws (Amendment) Act, 2015 shall not be aﬀected by this sec on.
+No agent is authorized to admit any liabili es on behalf of the Company, nor to alter        [Disclaimer: This is not a comprehensive list of amendments of Insurance
+this list of documents or any claims requirements called for by the Company.                 Laws (Amendment) Act, 2015 and only a simpliﬁed version prepared for
+PART G                                                                                       general informa on. Policyholders are advised to refer to Insurance Laws
+                                                                                             (Amendment) Act, 2015 for complete and accurate details.]
+As per the Base Policy Provisions
+                                                                                        ANNEXURE 2
+ANNEXURE 1
+                                                                                        B. Sec on 39 - Nomina on by policyholder
+A. Sec on 38 - Assignment and Transfer of Insurance Policies
+                                                                                        Nomina on of a life insurance Policy is as below in accordance with Sec on 39 of
+Assignment or transfer of a policy should be in accordance with Sec on 38 of the        the Insurance Act, 1938 as amended by Insurance Laws (Amendment) Act, 2015.
+Insurance Act, 1938 as amended by Insurance Laws (Amendment) Act, 2015.The              The extant provisions in this regard are as follows:
+extant provisions in this regard are as follows:
+                                                                                        01. The policyholder of a life insurance on his own life may nominate a person or
+01. This policy may be transferred/assigned, wholly or in part, with or without              persons to whom money secured by the policy shall be paid in the event of his
+      considera on.                                                                          death.
+02. An Assignment may be eﬀected in a policy by an endorsement upon the policy          02. Where the nominee is a minor, the policyholder may appoint any person to
+      itself or by a separate instrument under no ce to the Insurer.                         receive the money secured by the policy in the event of policyholder’s death
+03. The instrument of assignment should indicate the fact of transfer or                     during the minority of the nominee. The manner of appointment to be laid
+      assignment and the reasons for the assignment or transfer, antecedents of the          down by the insurer.
+      assignee and terms on which assignment is made.                                   03. Nomina on can be made at any me before the maturity of the policy.
+04. The assignment must be signed by the transferor or assignor or duly                 04. Nomina on may be incorporated in the text of the policy itself or may be
+      authorized agent and a ested by at least one witness.                                  endorsed on the policy communicated to the insurer and can be registered by
+05. The transfer of assignment shall not be opera ve as against an insurer un l a            the insurer in the records rela ng to the policy.
+      no ce in wri ng of the transfer or assignment and either the said                 05. Nomina on can be cancelled or changed at any me before policy matures, by
+      endorsement or instrument itself or copy there of cer ﬁed to be correct by             an endorsement or a further endorsement or a will as the case may be.
+      both transferor and transferee or their duly authorised agents have been
+      delivered to the insurer.
+
+
+  Tata AIA Life Insurance Accidental Death and Dismemberment (Long scale) (ADDL) Linked Rider (110A027V03) - IRDA of India Regn no. 110
+  Tata AIA Life Insurance Accidental Death and Dismemberment (Long scale) (ADDL) Linked Rider (110A027V03)
+                                                              (Linked, Individual, Health Insurance Rider)
+
+06. A no ce in wri ng of Change or Cancella on of nomina on must be delivered                 a. the date of issuance of policy or
+     to the insurer for the insurer to be liable to such nominee. Otherwise, insurer          b. the date of commencement of risk or
+     will not be liable if a bonaﬁde payment is made to the person named in the text          c. the date of revival of policy or
+     of the policy or in the registered records of the insurer.
+                                                                                              d. the date of rider to the policy
+07. Fee to be paid to the insurer for registering change or cancella on of a
+     nomina on can be speciﬁed by the Authority through Regula ons.                           whichever is later.
+08. On receipt of no ce with fee, the insurer should grant a wri en                       02. On the ground of fraud, a policy of Life Insurance may be called in ques on
+     acknowledgement to the policyholder of having registered a nomina on or                  within 3 years from
+     cancella on or change thereof.                                                       a. the date of issuance of policy or
+09. A transfer or assignment made in accordance with Sec on 38 shall                      b. the date of commencement of risk or
+     automa cally cancel the nomina on except in case of assignment to the                    c. the date of revival of policy or
+     insurer or other transferee or assignee for purpose of loan or against security          d. the date of rider to the policy
+     or its reassignment a er repayment. In such case, the nomina on will not get             whichever is later.
+     cancelled to the extent of insurer’s or transferee’s or assignee’s interest in the
+     policy. The nomina on will get revived on repayment of the loan.                         For this, the insurer should communicate in wri ng to the Life Assured or legal
+                                                                                              representa ve or nominee or assignees of insured, as applicable, men oning
+10. The right of any creditor to be paid out of the proceeds of any policy of life            the ground and materials on which such decision is based.
+     insurance shall not be aﬀected by the nomina on.
+                                                                                          03. Fraud means any of the following acts commi ed by Life Assured or by his
+11. In case of nomina on by policyholder whose life is insured, if the nominees die           agent, with the intent to deceive the insurer or to induce the insurer to issue a
+     before the policyholder, the proceeds are payable to policyholder or his heirs           life insurance policy:
+     or legal representa ves or holder of succession cer ﬁcate.
+                                                                                              a. The sugges on, as a fact of that which is not true and which the Life
+12. In case nominee(s) survive the person whose life is insured, the amount                         Assured does not believe to be true;
+     secured by the policy shall be paid to such survivor(s).
+                                                                                              b. The ac ve concealment of a fact by the Life Assured having knowledge or
+13. Where the policyholder whose life is Life Assured nominates his                                 belief of the fact;
+     a. parents or                                                                            c. Any other act ﬁ ed to deceive; and
+     b. spouse or                                                                             d. Any such act or omission as the law speciﬁcally declares to be fraudulent.
+     c. children or                                                                       04. Mere silence is not fraud unless, depending on circumstances of the case, it is
+     d. spouse and children                                                                   the duty of the Life Assured or his agent keeping silence to speak or silence is in
+     e. or any of them                                                                        itself equivalent to speak.
+     the nominees are beneﬁcially en tled to the amount payable by the insurer to         05. No Insurer shall repudiate a life insurance Policy on the ground of Fraud, if the
+     the policyholder unless it is proved that policyholder could not have conferred          Life Assured/ beneﬁciary can prove that the misstatement was true to the best
+     such beneﬁcial tle on the nominee having regard to the nature of his tle.                of his knowledge and there was no deliberate inten on to suppress the fact or
+14. If nominee(s) die a er the policyholder but before his share of the amount                that such mis-statement of or suppression of material fact are within the
+     secured under the policy is paid, the share of the expired nominee(s) shall be           knowledge of the insurer. Onus of disproving is upon the policyholder, if alive,
+     payable to the heirs or legal representa ve of the nominee or holder of                  or beneﬁciaries.
+     succession cer ﬁcate of such nominee(s).                                             06. Life insurance Policy can be called in ques on within 3 years on the ground that
+15. The provisions of sub-sec on 7 and 8 (13 and 14 above) shall apply to all life            any statement of or suppression of a fact material to expectancy of life of the
+     insurance policies maturing for payment a er the commencement of                         Life Assured was incorrectly made in the proposal or other document basis
+     Insurance Laws (Amendment) Act, 2015.                                                    which policy was issued or revived or rider issued. For this, the insurer should
+16. If policyholder dies a er maturity but the proceeds and beneﬁt of the policy              communicate in wri ng to the Life Assured or legal representa ve or nominee
+     has not been paid to him because of his death, his nominee(s) shall be en tled           or assignees of insured, as applicable, men oning the ground and materials on
+     to the proceeds and beneﬁt of the policy.                                                which decision to repudiate the policy of life insurance is based.
+17. The provisions of Sec on 39 are not applicable to any life insurance policy to        07. In case repudia on is on ground of mis-statement and not on fraud, the
+     which Sec on 6 of Married Women’s Property Act, 1874 applies or has at any               premium collected on policy ll the date of repudia on shall be paid to the Life
+       me applied except where before or a er Insurance Laws (Amendment) Act,                 Assured or legal representa ve or nominee or assignees of insured, within a
+     2015., a nomina on is made in favour of spouse or children or spouse and                 period of 90 days from the date of repudia on.
+     children whether or not on the face of the policy it is men oned that it is made     08. Fact shall not be considered material unless it has a direct bearing on the risk
+     under Sec on 39. Where nomina on is intended to be made to spouse or                     undertaken by the insurer. The onus is on insurer to show that if the insurer
+     children or spouse and children under Sec on 6 of MWP Act, it should be                  had been aware of the said fact, no life insurance policy would have been
+     speciﬁcally men oned on the policy. In such a case only, the provisions of               issued to the insured.
+     Sec on 39 will not apply.                                                            09. The insurer can call for proof of age at any me if he is en tled to do so and no
+     [Disclaimer: This is not a comprehensive list of amendments of Insurance                 policy shall be deemed to be called in ques on merely because the terms of
+     Laws (Amendment) Act, 2015 and only a simpliﬁed version prepared for                     the policy are adjusted on subsequent proof of age of life insured. So, this
+     general informa on. Policyholders are advised to refer to Insurance Laws                 Sec on will not be applicable for ques oning age or adjustment based on
+     (Amendment) Act, 2015 for complete and accurate details.]                                proof of age submi ed subsequently.
+ANNEXURE 3                                                                                    [Disclaimer: This is not a comprehensive list of amendments of Insurance
+C. Sec on 45 – Policy shall not be called in ques on on the ground of mis-                    Laws (Amendment) Act, 2015. and only a simpliﬁed version prepared for
+statement a er three years                                                                    general informa on. Policyholders are advised to refer to Insurance Laws
+                                                                                              (Amendment) Act, 2015 for complete and accurate details.]
+Provisions regarding policy not being called into ques on in terms of Sec on 45 of
+the Insurance Act, 1938, as amended by Insurance Laws (Amendment) Act, 2015.
+are as follows:
+01. No Policy of Life Insurance shall be called in ques on on any ground
+     whatsoever a er expiry of 3 yrs from
+
+
+
+
+  Tata AIA Life Insurance Accidental Death and Dismemberment (Long scale) (ADDL) Linked Rider (110A027V03) - IRDA of India Regn no. 110
+

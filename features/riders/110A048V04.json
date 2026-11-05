@@ -1,0 +1,170 @@
+{
+ "rider": {
+  "name": {
+   "value": "Tata AIA Vitality Protect Plus",
+   "status": "n/a",
+   "doc": "Brochure",
+   "quote": "Tata AIA Vitality Protect Plus",
+   "note": null,
+   "page": 2,
+   "doc_path": "docs/tata-aia/riders/110A048V04/brochure.pdf"
+  },
+  "uin": {
+   "value": "110A048V04",
+   "status": "n/a",
+   "doc": "Brochure",
+   "quote": "UIN: 110A048V04",
+   "note": "Rider page publishes V04; ULIP product pages name V03.",
+   "page": 1,
+   "doc_path": "docs/tata-aia/riders/110A048V04/brochure.pdf"
+  },
+  "linked_or_non_linked": {
+   "value": "non-linked, non-participating individual health rider; not a unit-deduction rider",
+   "status": "n/a",
+   "doc": "Brochure",
+   "quote": "A Non-Linked, Non- Participating Individual Health rider",
+   "note": "The policy text says a unit-deduction rider and this rider cannot be attached together, so the premium is separate.",
+   "page": 2,
+   "doc_path": "docs/tata-aia/riders/110A048V04/brochure.pdf"
+  },
+  "attached_to_ulips": {
+   "value": "see results/ulip_rider_map.csv",
+   "status": "n/a",
+   "doc": null,
+   "quote": null,
+   "note": "",
+   "page": null,
+   "doc_path": null
+  }
+ },
+ "benefits": {
+  "waiver_of_premium": {
+   "value": "Waiver of future premium is a payout option on the insured events (regular pay, without return of balance premium). The outstanding future premium under the base plan, riders and attached benefit options at inception is waived.",
+   "status": "covered as an option",
+   "doc": "TandC",
+   "quote": "The outstanding future Premium under the Base Plan, Rider/s and any attached Benefit",
+   "note": "Unambiguous: \"Base Plan\".",
+   "page": 1,
+   "doc_path": "docs/tata-aia/riders/110A048V04/policy.pdf"
+  },
+  "waiver_on_death_of_life_assured": {
+   "value": "The waiver pays out on the insured event of the benefit option chosen: death or terminal illness (Term Booster), accidental death, ATPD or critical illness.",
+   "status": "covered as an option",
+   "doc": "Brochure",
+   "quote": "Income till survival of partner or Waiver of Premium",
+   "note": null,
+   "page": 2,
+   "doc_path": "docs/tata-aia/riders/110A048V04/brochure.pdf"
+  },
+  "waiver_on_death_or_illness_of_proposer": {
+   "value": "not stated",
+   "status": "not stated",
+   "doc": null,
+   "quote": null,
+   "note": "The rider allows cover on the life of a partner under the same plan; payor events are not described in the text read.",
+   "page": null,
+   "doc_path": null
+  },
+  "critical_illness": {
+   "value": "CritiCare Plus: lump sum on first diagnosis of any of 40 critical illnesses including cancer and cardiac conditions. Accelerated CritiCare: the same 40 illnesses, paid as an acceleration of the Term Booster amount.",
+   "status": "covered as an option",
+   "doc": "Brochure",
+   "quote": "40 Critical Illness including Cancer and",
+   "note": null,
+   "page": 2,
+   "doc_path": "docs/tata-aia/riders/110A048V04/brochure.pdf"
+  },
+  "accidental_death": {
+   "value": "Insured amount on death by accident within 180 days; double the amount for accidents in public transport, lifts, public building fires and commercial flights.",
+   "status": "covered as an option",
+   "doc": "Brochure",
+   "quote": "Twice the amount of the above benefit will be payable",
+   "note": null,
+   "page": 2,
+   "doc_path": "docs/tata-aia/riders/110A048V04/brochure.pdf"
+  },
+  "accidental_disability": {
+   "value": "Accidental total and permanent disability option within 180 days of the accident.",
+   "status": "covered as an option",
+   "doc": "Brochure",
+   "quote": "Accidental Total & Permanent Disability",
+   "note": null,
+   "page": 2,
+   "doc_path": "docs/tata-aia/riders/110A048V04/brochure.pdf"
+  },
+  "term_cover": {
+   "value": "Term Booster: Insured Amount payable on earlier of death or diagnosis of terminal illness.",
+   "status": "covered as an option",
+   "doc": "Brochure",
+   "quote": "The Insured Amount under this option is payable on",
+   "note": null,
+   "page": 2,
+   "doc_path": "docs/tata-aia/riders/110A048V04/brochure.pdf"
+  },
+  "hospital_cash": {
+   "value": "not covered",
+   "status": "not covered",
+   "doc": "Brochure",
+   "quote": "Details of benefits under each Benefit Option is as",
+   "note": "Options are Term Booster, Accidental Death, ATPD, CritiCare Plus and Accelerated CritiCare.",
+   "page": 2,
+   "doc_path": "docs/tata-aia/riders/110A048V04/brochure.pdf"
+  },
+  "other": {
+   "value": "Vitality wellness programme; return of balance premium option; payout as lump sum with income, income until a partner dies, or waiver.",
+   "status": "covered",
+   "doc": "Brochure",
+   "quote": "Option to receive return of balance premiums on",
+   "note": null,
+   "page": 2,
+   "doc_path": "docs/tata-aia/riders/110A048V04/brochure.pdf"
+  }
+ },
+ "terms": {
+  "rider_term": {
+   "value": "Term Booster to 82 years; accidental death and ATPD to 67 years; CritiCare options 5 years. Minimum 13 to 14 months for regular and limited pay.",
+   "status": "n/a",
+   "doc": "Brochure",
+   "quote": "Term Booster 13 82",
+   "note": null,
+   "page": 9,
+   "doc_path": "docs/tata-aia/riders/110A048V04/brochure.pdf"
+  },
+  "premium_paying_rules": {
+   "value": "Regular, limited or single pay, with or without return of balance premium (not for CritiCare options).",
+   "status": "n/a",
+   "doc": "Brochure",
+   "quote": "Without Return of Balance Premium",
+   "note": null,
+   "page": 5,
+   "doc_path": "docs/tata-aia/riders/110A048V04/brochure.pdf"
+  },
+  "entry_age": {
+   "value": "18 to 65 years; maturity age 100 (Term Booster), 85 (accidental death, ATPD), 75 (CritiCare options)",
+   "status": "n/a",
+   "doc": "Brochure",
+   "quote": "Term Booster 18/65 100",
+   "note": null,
+   "page": 9,
+   "doc_path": "docs/tata-aia/riders/110A048V04/brochure.pdf"
+  },
+  "sum_assured_limits": {
+   "value": "Minimum Rs 25,000 per option; maximum subject to underwriting and not above the base plan death benefit.",
+   "status": "n/a",
+   "doc": "Brochure",
+   "quote": "Term Booster 25,000",
+   "note": null,
+   "page": 9,
+   "doc_path": "docs/tata-aia/riders/110A048V04/brochure.pdf"
+  },
+  "premium_deduction": {
+   "value": "Separate premium, not a unit-deduction rider.",
+   "status": "n/a",
+   "doc": "TandC",
+   "quote": "At no point both unit-deduction rider and this rider shall be allowed",
+   "note": null,
+   "page": 1,
+   "doc_path": "docs/tata-aia/riders/110A048V04/policy.pdf"
+  }
+ }
+}

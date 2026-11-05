@@ -1,0 +1,170 @@
+{
+ "rider": {
+  "name": {
+   "value": "Tata AIA Life Insurance Linked Comprehensive Protection Rider",
+   "status": "n/a",
+   "doc": "Brochure",
+   "quote": "Linked Comprehensive Protection Rider",
+   "note": null,
+   "page": 2,
+   "doc_path": "docs/tata-aia/riders/110A032V05/brochure.pdf"
+  },
+  "uin": {
+   "value": "110A032V05",
+   "status": "n/a",
+   "doc": "Brochure",
+   "quote": "UIN: 110A032V05",
+   "note": "Rider page publishes V05. ULIP product pages name V02 to V04. Earlier versions were not found on the site.",
+   "page": 1,
+   "doc_path": "docs/tata-aia/riders/110A032V05/brochure.pdf"
+  },
+  "linked_or_non_linked": {
+   "value": "linked rider, individual health rider; charge cancelled from units of the base policy",
+   "status": "n/a",
+   "doc": "Policy Document",
+   "quote": "Individual Health Rider",
+   "note": "Policy text says unit-deduction rider cannot be combined with Vitality Protect Plus.",
+   "page": 1,
+   "doc_path": "docs/tata-aia/riders/110A032V05/policy.pdf"
+  },
+  "attached_to_ulips": {
+   "value": "see results/ulip_rider_map.csv",
+   "status": "n/a",
+   "doc": null,
+   "quote": null,
+   "note": "",
+   "page": null,
+   "doc_path": null
+  }
+ },
+ "benefits": {
+  "waiver_of_premium": {
+   "value": "A benefit payout option (regular pay, without return of balance premium) on the insured events. On the event, all future premiums are waived for the rest of the premium payment term and the waiver sum assured equals the outstanding premiums under the base plan and riders at inception of the benefit option.",
+   "status": "covered as an option",
+   "doc": "Brochure",
+   "quote": "the sum assured shall be equal to the outstanding premium under the base plan",
+   "note": "The sum assured clause names the base plan and riders, so the waiver covers the ULIP premium. The sentence stating what is waived loses words in the text extraction (\"all future premiums that would have been payable under ... shall be waived\"). Re-read the page image to quote it in full.",
+   "page": 6,
+   "doc_path": "docs/tata-aia/riders/110A032V05/brochure.pdf"
+  },
+  "waiver_on_death_of_life_assured": {
+   "value": "The insured event for the waiver payout can be death or terminal illness (term benefit option), accidental death, ATPD or critical illness, as chosen.",
+   "status": "covered as an option",
+   "doc": "Brochure",
+   "quote": "Waiver of future premiums",
+   "note": null,
+   "page": 5,
+   "doc_path": "docs/tata-aia/riders/110A032V05/brochure.pdf"
+  },
+  "waiver_on_death_or_illness_of_proposer": {
+   "value": "The rider allows cover on a spouse or loved one as a separate life insured. Whether the waiver follows the policyholder is not stated in the text read.",
+   "status": "not stated",
+   "doc": null,
+   "quote": null,
+   "note": null,
+   "page": null,
+   "doc_path": null
+  },
+  "critical_illness": {
+   "value": "Criticare Plus: Insured Amount paid on first diagnosis of any of 40 critical illnesses (survive 30 days). Criticare: also 40 illnesses. Benefit once per life. Renewable for 5 years at maturity.",
+   "status": "covered as an option",
+   "doc": "Brochure",
+   "quote": "The Insured Amount under the Benefit Option is payable if the Life Insured survives for a period of 30 days following the first",
+   "note": "Brochure states 40 critical illnesses including cancer and cardiac conditions.",
+   "page": 3,
+   "doc_path": "docs/tata-aia/riders/110A032V05/brochure.pdf"
+  },
+  "accidental_death": {
+   "value": "Insured Amount on death by accident within 180 days. Enhanced accidental benefit: an extra amount equal to the sum assured (up to Rs 5 crore) for accidents in public transport, lifts, public building fires or commercial flights.",
+   "status": "covered as an option",
+   "doc": "Brochure",
+   "quote": "Enhanced Accidental Benefit",
+   "note": null,
+   "page": 2,
+   "doc_path": "docs/tata-aia/riders/110A032V05/brochure.pdf"
+  },
+  "accidental_disability": {
+   "value": "Accidental total and permanent disability within 180 days: the insured amount, with the same enhanced accidental benefit.",
+   "status": "covered as an option",
+   "doc": "Brochure",
+   "quote": "Accidental Total and Permanent Disability Benefit",
+   "note": null,
+   "page": 2,
+   "doc_path": "docs/tata-aia/riders/110A032V05/brochure.pdf"
+  },
+  "term_cover": {
+   "value": "Term benefit with accelerated terminal illness: Insured Amount payable on death or diagnosis of terminal illness. Minimum Rs 5,00,000.",
+   "status": "covered as an option",
+   "doc": "Brochure",
+   "quote": "The Insured Amount under this option is payable on earlier of",
+   "note": null,
+   "page": 2,
+   "doc_path": "docs/tata-aia/riders/110A032V05/brochure.pdf"
+  },
+  "hospital_cash": {
+   "value": "not covered",
+   "status": "not covered",
+   "doc": "Brochure",
+   "quote": "risk covers) including death, accidental death",
+   "note": "Five benefit options: term benefit with accelerated terminal illness, accidental death, accidental total and permanent disability, Criticare Plus and Criticare.",
+   "page": 2,
+   "doc_path": "docs/tata-aia/riders/110A032V05/brochure.pdf"
+  },
+  "other": {
+   "value": "Return of balance premium on maturity option; benefit as lump sum, income, income for a surviving partner or waiver; renewability option for 5 years for Criticare and Criticare Plus.",
+   "status": "covered as an option",
+   "doc": "Brochure",
+   "quote": "Option to receive return of balance premiums on maturity",
+   "note": null,
+   "page": 2,
+   "doc_path": "docs/tata-aia/riders/110A032V05/brochure.pdf"
+  }
+ },
+ "terms": {
+  "rider_term": {
+   "value": "Single pay: term benefit 6 months to 67 years; accidental death and ATPD 1 month to 82 years; Criticare and Criticare Plus 12 months to 5 years. See the brochure table for limited and regular pay.",
+   "status": "n/a",
+   "doc": "Brochure",
+   "quote": "Single Pay:",
+   "note": null,
+   "page": 6,
+   "doc_path": "docs/tata-aia/riders/110A032V05/brochure.pdf"
+  },
+  "premium_paying_rules": {
+   "value": "Single, limited and regular pay as available per benefit option; waiver payout only as regular pay without return of balance premium. Options can be added at inception or any policy anniversary.",
+   "status": "n/a",
+   "doc": "Brochure",
+   "quote": "Waiver of future premium as benefit payout option is available",
+   "note": null,
+   "page": 5,
+   "doc_path": "docs/tata-aia/riders/110A032V05/brochure.pdf"
+  },
+  "entry_age": {
+   "value": "18 to 65 years for all options; maximum maturity age 85 (term, accidental death, ATPD) or 75 (Criticare options)",
+   "status": "n/a",
+   "doc": "Brochure",
+   "quote": "T&TI 18 65 85 500,000",
+   "note": null,
+   "page": 6,
+   "doc_path": "docs/tata-aia/riders/110A032V05/brochure.pdf"
+  },
+  "sum_assured_limits": {
+   "value": "Minimums: term benefit Rs 5,00,000; accidental death and ATPD Rs 1,00,000; Criticare options Rs 2,00,000. Maximum subject to underwriting and not above the base plan death benefit.",
+   "status": "n/a",
+   "doc": "Brochure",
+   "quote": "Rider Sum Assured cannot exceed the Death Benefit at",
+   "note": null,
+   "page": 6,
+   "doc_path": "docs/tata-aia/riders/110A032V05/brochure.pdf"
+  },
+  "premium_deduction": {
+   "value": "not stated",
+   "status": "not stated",
+   "doc": null,
+   "quote": null,
+   "note": "The rider is labelled linked; the Waiver of Premium and ADDL riders state unit cancellation. The text read for this rider does not state it. Needs a second read.",
+   "page": null,
+   "doc_path": null
+  }
+ }
+}

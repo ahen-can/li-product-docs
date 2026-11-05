@@ -1,0 +1,170 @@
+{
+ "rider": {
+  "name": {
+   "value": "Tata AIA Vitality Health Plus",
+   "status": "n/a",
+   "doc": "Brochure",
+   "quote": "Tata AIA Vitality Health Plus",
+   "note": null,
+   "page": 2,
+   "doc_path": "docs/tata-aia/riders/110A047V03/brochure.pdf"
+  },
+  "uin": {
+   "value": "110A047V03",
+   "status": "n/a",
+   "doc": "Brochure",
+   "quote": "UIN: 110A047V03",
+   "note": "Rider page publishes V03; ULIP product pages name V02.",
+   "page": 1,
+   "doc_path": "docs/tata-aia/riders/110A047V03/brochure.pdf"
+  },
+  "linked_or_non_linked": {
+   "value": "non-linked, non-participating individual health rider; separate premium",
+   "status": "n/a",
+   "doc": "Brochure",
+   "quote": "A Non-Linked, Non- Participating Individual Health rider",
+   "note": "Named on linked ULIP product pages even though the rider itself is non-linked.",
+   "page": 2,
+   "doc_path": "docs/tata-aia/riders/110A047V03/brochure.pdf"
+  },
+  "attached_to_ulips": {
+   "value": "see results/ulip_rider_map.csv",
+   "status": "n/a",
+   "doc": null,
+   "quote": null,
+   "note": "",
+   "page": null,
+   "doc_path": null
+  }
+ },
+ "benefits": {
+  "waiver_of_premium": {
+   "value": "not covered",
+   "status": "not covered",
+   "doc": "Brochure",
+   "quote": "choose multiple risk covers from a list of 5 which include disability",
+   "note": "Five options: accidental disability, multistage critical illness, cancer, cardiac and hospital cover. No premium waiver option found in the brochure.",
+   "page": 2,
+   "doc_path": "docs/tata-aia/riders/110A047V03/brochure.pdf"
+  },
+  "waiver_on_death_of_life_assured": {
+   "value": "not covered",
+   "status": "not covered",
+   "doc": "Brochure",
+   "quote": "choose multiple risk covers from a list of 5 which include disability",
+   "note": null,
+   "page": 2,
+   "doc_path": "docs/tata-aia/riders/110A047V03/brochure.pdf"
+  },
+  "waiver_on_death_or_illness_of_proposer": {
+   "value": "not covered",
+   "status": "not covered",
+   "doc": "Brochure",
+   "quote": "choose multiple risk covers from a list of 5 which include disability",
+   "note": null,
+   "page": 2,
+   "doc_path": "docs/tata-aia/riders/110A047V03/brochure.pdf"
+  },
+  "critical_illness": {
+   "value": "Multistage CritiCare: 39 critical illnesses with minor stage claims at 25% and major at 100% of the insured amount, multiple claims. Cancer Care: early and late stage cancers. Cardiac Care: 14 minor and 8 major cardiac ailments. Lump sum, income up to 10 years, or both.",
+   "status": "covered as an option",
+   "doc": "Brochure",
+   "quote": "39 Critical Illness covered",
+   "note": null,
+   "page": 2,
+   "doc_path": "docs/tata-aia/riders/110A047V03/brochure.pdf"
+  },
+  "accidental_death": {
+   "value": "not covered",
+   "status": "not covered",
+   "doc": "Brochure",
+   "quote": "choose multiple risk covers from a list of 5 which include disability",
+   "note": null,
+   "page": 2,
+   "doc_path": "docs/tata-aia/riders/110A047V03/brochure.pdf"
+  },
+  "accidental_disability": {
+   "value": "Accidental Disability Care: total and permanent disability 100%, partial permanent disability by schedule (arm 50 to 60%, leg 40 to 60%, each eye 50%, each ear 30%), multiple claims, double benefit in listed public accidents.",
+   "status": "covered as an option",
+   "doc": "Brochure",
+   "quote": "Total and Permanent Disability 100%",
+   "note": null,
+   "page": 2,
+   "doc_path": "docs/tata-aia/riders/110A047V03/brochure.pdf"
+  },
+  "term_cover": {
+   "value": "not covered",
+   "status": "not covered",
+   "doc": "Brochure",
+   "quote": "choose multiple risk covers from a list of 5 which include disability",
+   "note": null,
+   "page": 2,
+   "doc_path": "docs/tata-aia/riders/110A047V03/brochure.pdf"
+  },
+  "hospital_cash": {
+   "value": "HospiCare: fixed amount on hospitalisation, ICU benefit and a recuperation benefit for stays of 7 days or more.",
+   "status": "covered as an option",
+   "doc": "Brochure",
+   "quote": "Pays fixed amount on",
+   "note": null,
+   "page": 2,
+   "doc_path": "docs/tata-aia/riders/110A047V03/brochure.pdf"
+  },
+  "other": {
+   "value": "Vitality wellness programme with rewards for healthy habits.",
+   "status": "covered",
+   "doc": "Brochure",
+   "quote": "Tata AIA Vitality",
+   "note": null,
+   "page": 2,
+   "doc_path": "docs/tata-aia/riders/110A047V03/brochure.pdf"
+  }
+ },
+ "terms": {
+  "rider_term": {
+   "value": "Minimum policy period 12 to 14 months depending on pay mode; maximum 60 months across all options; not beyond the base plan term.",
+   "status": "n/a",
+   "doc": "Brochure",
+   "quote": "Across all benefit options: 60 months",
+   "note": null,
+   "page": 7,
+   "doc_path": "docs/tata-aia/riders/110A047V03/brochure.pdf"
+  },
+  "premium_paying_rules": {
+   "value": "Regular, limited or single pay per option.",
+   "status": "n/a",
+   "doc": "Brochure",
+   "quote": "Regular Pay Limited Pay Single Pay",
+   "note": null,
+   "page": 7,
+   "doc_path": "docs/tata-aia/riders/110A047V03/brochure.pdf"
+  },
+  "entry_age": {
+   "value": "18 to 65 years (Cancer Care from age 5); maturity age 75",
+   "status": "n/a",
+   "doc": "Brochure",
+   "quote": "Accidental 18 65 75",
+   "note": null,
+   "page": 7,
+   "doc_path": "docs/tata-aia/riders/110A047V03/brochure.pdf"
+  },
+  "sum_assured_limits": {
+   "value": "Minimum Rs 25,000 per option; maximum subject to underwriting and not above the base plan death benefit.",
+   "status": "n/a",
+   "doc": "Brochure",
+   "quote": "Rider Sum Assured cannot exceed the Death Benefit at inception of",
+   "note": null,
+   "page": 7,
+   "doc_path": "docs/tata-aia/riders/110A047V03/brochure.pdf"
+  },
+  "premium_deduction": {
+   "value": "not stated",
+   "status": "not stated",
+   "doc": null,
+   "quote": null,
+   "note": "The text read does not say whether the premium is separate or taken from units. Non-linked rider; assumed separate. Needs a second read.",
+   "page": null,
+   "doc_path": null
+  }
+ }
+}

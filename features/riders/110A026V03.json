@@ -1,0 +1,170 @@
+{
+ "rider": {
+  "name": {
+   "value": "Tata AIA Life Insurance Waiver of Premium (Linked) Rider",
+   "status": "n/a",
+   "doc": "Waiver of Premium Linked Rider (page link)",
+   "quote": "Waiver of Premium (Linked) Rider",
+   "note": null,
+   "page": 1,
+   "doc_path": "docs/tata-aia/riders/110A026V03/brochure.pdf"
+  },
+  "uin": {
+   "value": "110A026V03",
+   "status": "n/a",
+   "doc": "Waiver of Premium Linked Rider (page link)",
+   "quote": "UIN: 110A026V03",
+   "note": "The rider page publishes V03. The ULIP product pages and i Systematic name V02 (one of V02 or V03 or later by product page). V02 documents were not found on the site.",
+   "page": 1,
+   "doc_path": "docs/tata-aia/riders/110A026V03/brochure.pdf"
+  },
+  "linked_or_non_linked": {
+   "value": "linked rider, individual health insurance rider; charge cancelled from units",
+   "status": "n/a",
+   "doc": "Waiver of Premium Linked Rider (page link)",
+   "quote": "Linked, Individual, Health Insurance Rider",
+   "note": null,
+   "page": 1,
+   "doc_path": "docs/tata-aia/riders/110A026V03/brochure.pdf"
+  },
+  "attached_to_ulips": {
+   "value": "see results/ulip_rider_map.csv",
+   "status": "n/a",
+   "doc": null,
+   "quote": null,
+   "note": "Named on the product pages of Wealth Pro, Fortune Pro, Fortune Maxima, Wealth Maxima, Smart SIP, Smart Fortune Plus, Smart Sampoorna Raksha Pro and others.",
+   "page": null,
+   "doc_path": null
+  }
+ },
+ "benefits": {
+  "waiver_of_premium": {
+   "value": "Waives the sum of all future premiums of the basic plan if the life insured becomes totally and permanently disabled (unable to work for 12 months, loss of use of two limbs or both eyes or one of each, or unable to do 3 of 6 daily tasks).",
+   "status": "covered as an option",
+   "doc": "Waiver of Premium Linked Rider (page link)",
+   "quote": "pay the premiums in the event of Total and Permanent Disability",
+   "note": "Unambiguous: \"basic plan\". Disability only. No waiver on death or critical illness in this rider (death is covered by Waiver of Premium Plus for a proposer who is not the life insured).",
+   "page": 2,
+   "doc_path": "docs/tata-aia/riders/110A026V03/brochure.pdf"
+  },
+  "waiver_on_death_of_life_assured": {
+   "value": "not covered",
+   "status": "not covered",
+   "doc": "Waiver of Premium Linked Rider (page link)",
+   "quote": "ensures your insurance benefits continue, if you are unable to",
+   "note": "The rider is a premium waiver on total and permanent disability only.",
+   "page": 2,
+   "doc_path": "docs/tata-aia/riders/110A026V03/brochure.pdf"
+  },
+  "waiver_on_death_or_illness_of_proposer": {
+   "value": "not covered. The life insured must be the premium payer. See Waiver of Premium Plus 110A025 for a different proposer.",
+   "status": "not covered",
+   "doc": "Waiver of Premium Linked Rider (page link)",
+   "quote": "ensures your insurance benefits continue, if you are unable to",
+   "note": "The rider is a premium waiver on total and permanent disability only.",
+   "page": 2,
+   "doc_path": "docs/tata-aia/riders/110A026V03/brochure.pdf"
+  },
+  "critical_illness": {
+   "value": "not covered",
+   "status": "not covered",
+   "doc": "Waiver of Premium Linked Rider (page link)",
+   "quote": "ensures your insurance benefits continue, if you are unable to",
+   "note": "The rider is a premium waiver on total and permanent disability only.",
+   "page": 2,
+   "doc_path": "docs/tata-aia/riders/110A026V03/brochure.pdf"
+  },
+  "accidental_death": {
+   "value": "not covered",
+   "status": "not covered",
+   "doc": "Waiver of Premium Linked Rider (page link)",
+   "quote": "ensures your insurance benefits continue, if you are unable to",
+   "note": "The rider is a premium waiver on total and permanent disability only.",
+   "page": 2,
+   "doc_path": "docs/tata-aia/riders/110A026V03/brochure.pdf"
+  },
+  "accidental_disability": {
+   "value": "No payout. Total and permanent disability only triggers the waiver.",
+   "status": "not covered",
+   "doc": "Waiver of Premium Linked Rider (page link)",
+   "quote": "ensures your insurance benefits continue, if you are unable to",
+   "note": "The rider is a premium waiver on total and permanent disability only.",
+   "page": 2,
+   "doc_path": "docs/tata-aia/riders/110A026V03/brochure.pdf"
+  },
+  "term_cover": {
+   "value": "not covered",
+   "status": "not covered",
+   "doc": "Waiver of Premium Linked Rider (page link)",
+   "quote": "ensures your insurance benefits continue, if you are unable to",
+   "note": "The rider is a premium waiver on total and permanent disability only.",
+   "page": 2,
+   "doc_path": "docs/tata-aia/riders/110A026V03/brochure.pdf"
+  },
+  "hospital_cash": {
+   "value": "not covered",
+   "status": "not covered",
+   "doc": "Waiver of Premium Linked Rider (page link)",
+   "quote": "ensures your insurance benefits continue, if you are unable to",
+   "note": "The rider is a premium waiver on total and permanent disability only.",
+   "page": 2,
+   "doc_path": "docs/tata-aia/riders/110A026V03/brochure.pdf"
+  },
+  "other": {
+   "value": "not stated",
+   "status": "not stated",
+   "doc": null,
+   "quote": null,
+   "note": null,
+   "page": null,
+   "doc_path": null
+  }
+ },
+ "terms": {
+  "rider_term": {
+   "value": "Minimum 5 years. Maximum: until the end of the base plan premium payment term or age 65, whichever is earlier.",
+   "status": "n/a",
+   "doc": "Waiver of Premium Linked Rider (page link)",
+   "quote": "basic plan or until the Insured",
+   "note": null,
+   "page": 2,
+   "doc_path": "docs/tata-aia/riders/110A026V03/brochure.pdf"
+  },
+  "premium_paying_rules": {
+   "value": "Rider charge is deducted for the maximum rider coverage term.",
+   "status": "n/a",
+   "doc": "Waiver of Premium Linked Rider (page link)",
+   "quote": "Same as Maximum Rider",
+   "note": null,
+   "page": 2,
+   "doc_path": "docs/tata-aia/riders/110A026V03/brochure.pdf"
+  },
+  "entry_age": {
+   "value": "Minimum: the base product minimum or 18 years, whichever is higher. Maximum: the base product maximum or 60 years, whichever is lower. Maximum maturity age: end of premium payment term or 65.",
+   "status": "n/a",
+   "doc": "Waiver of Premium Linked Rider (page link)",
+   "quote": "Maximum age at entry under Base product or 60 years whichever is lower",
+   "note": null,
+   "page": 2,
+   "doc_path": "docs/tata-aia/riders/110A026V03/brochure.pdf"
+  },
+  "sum_assured_limits": {
+   "value": "Sum of all future premiums of the basic plan to be waived (no separate minimum or maximum).",
+   "status": "n/a",
+   "doc": "Waiver of Premium Linked Rider (page link)",
+   "quote": "Sum of all the future premiums",
+   "note": null,
+   "page": 2,
+   "doc_path": "docs/tata-aia/riders/110A026V03/brochure.pdf"
+  },
+  "premium_deduction": {
+   "value": "Charge recovered monthly by cancellation of units from the unit fund of the base policy.",
+   "status": "n/a",
+   "doc": "Waiver of Premium Linked Rider (page link)",
+   "quote": "The charge for the rider will be recovered monthly by cancellation",
+   "note": null,
+   "page": 2,
+   "doc_path": "docs/tata-aia/riders/110A026V03/brochure.pdf"
+  }
+ }
+}
