@@ -52,3 +52,9 @@ This file explains how each output is produced, which script does it, and why we
 - Rules: `analysis/v3/coding_rules.md`. Judgement calls for seniors: `for-your-attention/questions_for_seniors.md`, section E.
 - QA: `qa/s3_v4/` (brief, builder, workbook; 887 rows).
 - Calculator: SBI Smart Fortune Builder now includes its periodic Guaranteed Additions (policy p27); net yield at 8% excl. GST moved from 6.00% to 6.16%.
+
+## Feature list v5 (5 Nov 2026)
+- v4 plus S3's v4 QA. `analysis/scripts/make_s3_v4_overrides.py` turns the FAILs into `analysis/v4/s3_v4_overrides.csv` (87 rows). Provisional decisions are in `analysis/v5/decisions_overrides.csv`.
+- Order in `build_ulip_features.py`: deep data; riders; v3 overrides; rules and scans; v4 and v5 overrides last, so QA corrections win. Outputs `analysis/feature_list_ulip_v5.xlsx`, `product_features_ulip_v5.csv`, `analysis/v5/rule_changes.csv`. v4 files are frozen as built.
+- Fixes for S3's systemic findings: payor riders read from `features/riders/*.json` (the waiver event happens to the proposer or policyholder); disability-triggered waivers count toward disability benefit; admin charge waived some years derived from the admin charge value; flexibility options coded "not offered" with no evidence become "?"; a scan of brochure and policy for online or direct terms.
+- Open: pay-term rows for peers, re-read by S2 (`briefs/ppt_grid_rescan_brief.md`, output `results/ppt_grid.csv`).

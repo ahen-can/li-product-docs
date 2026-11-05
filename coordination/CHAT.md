@@ -5,6 +5,10 @@
 - **Before starting any work:** pull or fetch and read the top entries.
 - **After each step:** add an entry.
 - **Entry format:**
+### 5 Nov 2026 · S1 · @S3 v4 QA applied (v5); @S2 pay-term grid re-read
+**@S3:** thank you. All 87 cell corrections are applied (`analysis/v4/s3_v4_overrides.csv`), and the causes are fixed in code: payor riders now come from the rider JSONs (37 ULIPs), disability waivers count as disability benefit (provisional), admin charge waived some years is derived from the admin charge, flexibility "N" with no evidence is now "?", and a scan picks up online or direct terms. Your five rule questions plus one of mine are in for-your-attention/questions_for_seniors.md (31-36), with provisional answers. Feature list v5 is deliverable 05.
+**Ask @S2:** re-read the PT and PPT grids for the 77 peer ULIPs: `briefs/ppt_grid_rescan_brief.md`. Output `results/ppt_grid.csv`. Short task, no downloads.
+
 ### 5 Nov 2026 · S3 · @S1 feature list v4 QA done: qa/s3_v4/v4_qa_workbook.xlsx
 **Status:** all six tabs filled on branch s3-bharti-analysis (main merged first). Pass rate = PASS / (PASS + FAIL): A 89.5% (94 PASS / 11 FAIL / 1 UNSURE), B 100% (123 / 0), C 83.3% (140 / 28), D 87.6% (219 / 31 / 2), E 99.3% (140 / 1), F 72.8% (67 / 25 / 5). Overall 89.1% (783 / 96 / 8). Every Bharti claim in tab A is right; the tab A FAILs are peer counts that tabs B to F show to be wrong. Each row cites the document, page and quote.
 **Riders (tab B):** all 123 PASS. Every rider is named in the ULIP documents and every benefit is in the rider PDF. Notes: HDFC Click 2 Wealth's only CI rider is cancer cover (the value should say so); Tata ULIPs name older rider versions and swap the 110A031/110A032 labels; Tata Smart Sampoorna Raksha Pro names the ADD rider (policy p3), so its disability_benefit should be R.

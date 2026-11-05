@@ -43,9 +43,9 @@ def flat(v, n=160):
     return t if len(t) <= n else t[:n - 1] + '…'
 
 
-# Corrections from QA rounds, rider recoding and v4 rules come through feature list v4 (product_features_ulip_v4.csv),
+# Corrections from QA rounds, rider recoding and v4 rules come through feature list v5 (product_features_ulip_v5.csv),
 # so this workbook and deliverable 05 agree. Run build_ulip_features.py first.
-PF = {(r['uin'], r['feature']): r for r in csv.DictReader(open(os.path.join(R, 'analysis/product_features_ulip_v4.csv'), encoding='utf-8'))}
+PF = {(r['uin'], r['feature']): r for r in csv.DictReader(open(os.path.join(R, 'analysis/product_features_ulip_v5.csv'), encoding='utf-8'))}
 _ns = s[s.index('NEW_SCHEMA = [') + len('NEW_SCHEMA = '):s.index('\n# New features found')]
 PATH2F = {pth: fid for _, fid, pth, _ in eval(_ns)}
 PATH2F.update({'flexibility.auto_portfolio_strategies': 'auto_strategies', 'flexibility.partial_withdrawals': 'partial_withdrawal',
@@ -57,9 +57,9 @@ PATH2F.update({'flexibility.auto_portfolio_strategies': 'auto_strategies', 'flex
                'protection_add_ons.waiver_of_premium_inbuilt': 'waiver_of_premium', 'protection_add_ons.critical_illness': 'critical_illness_inbuilt_or_option',
                'protection_add_ons.accidental_death': 'accidental_death_extra'})
 _OVR = set()
-for _f in sorted(__import__('glob').glob(os.path.join(R, 'analysis/v3/*_overrides.csv')) + __import__('glob').glob(os.path.join(R, 'analysis/v4/*_overrides.csv'))):
+for _f in sorted(__import__('glob').glob(os.path.join(R, 'analysis/v3/*_overrides.csv')) + __import__('glob').glob(os.path.join(R, 'analysis/v4/*_overrides.csv')) + __import__('glob').glob(os.path.join(R, 'analysis/v5/*_overrides.csv'))):
     _OVR |= {(r['uin'], r['feature']) for r in csv.DictReader(open(_f, encoding='utf-8'))}
-_OVR |= {(r['uin'], r['feature']) for r in csv.DictReader(open(os.path.join(R, 'analysis/v4/v4_changes.csv'), encoding='utf-8'))}
+_OVR |= {(r['uin'], r['feature']) for r in csv.DictReader(open(os.path.join(R, 'analysis/v5/rule_changes.csv'), encoding='utf-8'))}
 UNCODE = {'B': 'built-in', 'O': 'optional (at inception)', 'R': 'rider', 'N': 'not offered', '?': 'not stated in public documents'}
 
 

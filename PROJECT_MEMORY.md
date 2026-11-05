@@ -20,11 +20,12 @@ Last updated: 4 Nov 2026 by S1 (main session). Full decision trail: `docs-intern
 - **User decision (5 Nov):** do not update Neha's pages or decks (07-10) for now. Fix our side first, then refresh them together.
 - **Feature list v4 built (5 Nov), draft until S3's QA:** user chose option (b) for additions (split by % of premium vs % of fund, "guaranteed" row retired) and accepted rules 1, 3, 4, 5 as proposed. Scans of all 84 for policy loan, min-fund termination, IALM. 476 cell changes in analysis/v4/v4_changes.csv. Deliverable 05 is now 05_feature_list_ulip_v4.xlsx; 06 reads v4. Judgement calls are in for-your-attention/questions_for_seniors.md section E (questions 20-30). User rule: every such judgement call goes into that file.
 - **Calculator:** SBI Smart Fortune Builder periodic Guaranteed Additions added (6.00% -> 6.16% at 8% excl. GST). The decks still say 6.00%.
+- **S3's v4 QA (5 Nov):** 887 checks, 89% pass; every Bharti claim right; riders 100%. Systemic errors found and fixed in v5: payor riders (rule 1 matched only "payor"), additions basis misses, index funds by name, online terms, admin waived years, silence coded N. Not yet fixed: pay-term grids (S2 re-reading, briefs/ppt_grid_rescan_brief.md). v5 = deliverable 05. Provisional decisions 31-36 in for-your-attention/questions_for_seniors.md.
 - **NEXT for S1:**
-  1. S3 runs qa/s3_v4 (887 rows). Apply its FAILs as analysis/v4/s3_v4_overrides.csv, then rebuild 05 and 06.
-  2. SBI and Bajaj BIs: the user will send them later. Check the calculator then.
-  3. After v4 QA: refresh decks 07 and 09 and Neha's page 08 in one pass (waiver 60 of 84 with "via rider on 6 of 7" for Bharti, additions by basis instead of "no guaranteed additions", SBI 6.16%, hypothesis line).
-  4. Next category after ULIP, when the user says so.
+  1. When S2's results/ppt_grid.csv arrives: apply it (overrides), rebuild v5 (or v6), comparison 06.
+  2. Refresh decks 07, 09 and Neha page 08 in one pass (waiver 60 of 84, Bharti "via rider on 6 of 7"; additions by basis; SBI 6.16%; hypothesis line from the user).
+  3. Next category (recommendation: non-par savings, Bharti's largest book), when the user confirms.
+  4. SBI and Bajaj BIs when the user sends them.
 - **People:** the manual checker is Shobhit (named on the page; earlier notes said Rahul).
 - **Sessions:** S2 is on branch ccr-d0d84e00-joo2mp and is doing the peer riders per briefs/rider_discovery_brief.md, with its format approved. S3 is on branch s3-bharti-analysis. Merge both regularly; CHAT.md conflicts resolve as "theirs first, then ours".
 - **Git:** local main tracks origin/main (upstream set on 5 Nov).

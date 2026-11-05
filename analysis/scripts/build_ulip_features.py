@@ -398,16 +398,25 @@ for k in keys:
 
 # ---------- QA overrides (S3, then any later rounds) ----------
 OVR_APPLIED = []
-for _op in sorted(glob.glob(os.path.join(A, 'v3', '*_overrides.csv')) + glob.glob(os.path.join(A, 'v4', '*_overrides.csv'))):
-    for o in csv.DictReader(open(_op, encoding='utf-8')):
-        k, f = o['uin'], o['feature']
-        old = cells.get((f, k), ('', '', None, None, None))
-        code = o['code'] or (old[0] if old[0] not in ('?', '') else 'n/a')
-        val = o['value'] or (old[1] if not o['code'] or o['code'] in YES else '')
-        if o['code'] in YES and not o['value'] and old[0] not in YES:
-            val = ''
-        cells[(f, k)] = (code, val, o['doc'], int(o['page']) if o['page'] else None, o['quote'][:400])
-        OVR_APPLIED.append([products[k]['insurer'], products[k]['name'], k, f, old[0], code, (o['value'] or '')[:200], os.path.basename(_op), o['source']])
+
+
+def apply_overrides(files):
+    for _op in files:
+        for o in csv.DictReader(open(_op, encoding='utf-8')):
+            k, f = o['uin'], o['feature']
+            old = cells.get((f, k), ('', '', None, None, None))
+            if o['code'] == 'blank':
+                code, val = '', ''
+            else:
+                code = o['code'] or (old[0] if old[0] not in ('?', '') else 'n/a')
+                val = o['value'] or (old[1] if not o['code'] or o['code'] in YES else '')
+                if o['code'] in YES and not o['value'] and old[0] not in YES:
+                    val = ''
+            cells[(f, k)] = (code, val, o['doc'], int(o['page']) if o['page'] else None, o['quote'][:400])
+            OVR_APPLIED.append([products[k]['insurer'], products[k]['name'], k, f, old[0], code, (o['value'] or '')[:200], os.path.basename(_op), o['source']])
+
+
+apply_overrides(sorted(glob.glob(os.path.join(A, 'v3', '*_overrides.csv'))))
 
 # ---------- v4: coding rules (user, 5 Nov 2026; analysis/v3/coding_rules.md) and scans of all 84 ----------
 V4_LOG = []
@@ -453,12 +462,30 @@ for j, (fid, lab) in enumerate([('additions_pct_of_premium', 'Additions credited
         if code == '?': val = 'additions exist, basis not read'
         setc(fid, k, (code, val, a.get(key + '_doc') or None, int(a[key + '_page']) if a.get(key + '_page') else None, a.get(key + '_quote') or None), 'rule 2: additions by basis')
 
-# Rule 1: payor waiver only when the payer's own event triggers it
+# Rule 1: payor waiver only when the payer's own event triggers it. A rider is a payor rider when its own JSON says the
+# waiver event happens to the proposer or policyholder (S3 v4 QA: the first version matched the word "payor" only).
+PAYOR_RIDERS, DISAB_WAIVER = set(), set()
+for _f in glob.glob(os.path.join(R, 'features', 'riders', '*.json')):
+    _w = json.load(open(_f, encoding='utf-8')).get('benefits', {}).get('waiver_of_premium', {}) or {}
+    if not str(_w.get('status', '')).startswith('covered'): continue
+    _t = flat(_w.get('value')) + ' ' + str(_w.get('note') or '')
+    _u = os.path.basename(_f)[:-5]
+    if re.search(r'of the (proposer|policyholder)|proposer (who|becomes|dies)|premium payer is the proposer|payor|Life Assured under the Rider shall mean the Policyholder|if they differ: on death of the proposer', _t, re.I):
+        PAYOR_RIDERS.add(_u)
+    if re.search(r'disab', flat(_w.get('value')), re.I):
+        DISAB_WAIVER.add(_u)
 for k in DEEP:
     rb = RB.get(k, {})
     w = rb.get('waiver_of_ulip_premium_through', '')
-    if re.search(r'payor', w, re.I) and cells.get(('child_payor_benefit', k), EMPTY)[0] not in YES:
-        setc('child_payor_benefit', k, ('R', 'payor waiver via rider: ' + w, 'rider documents (results/ulip_rider_benefits.csv)', None, w), 'rule 1: payor benefit through a rider')
+    pr = sorted(_ids(w) & PAYOR_RIDERS)
+    if pr and cells.get(('child_payor_benefit', k), EMPTY)[0] not in YES:
+        setc('child_payor_benefit', k, ('R', 'payor waiver via rider ' + '; '.join(pr), 'rider documents (features/riders)', None, w), 'rule 1: payor benefit through a rider')
+# Decision 3 (provisional, S1 5 Nov): disability_benefit counts disability-triggered waivers as well as payouts
+for k in DEEP:
+    rb = RB.get(k, {})
+    dw = sorted(_ids(rb.get('waiver_of_ulip_premium_through', '')) & DISAB_WAIVER)
+    if dw and cells.get(('disability_benefit', k), EMPTY)[0] not in YES:
+        setc('disability_benefit', k, ('R', 'disability-triggered waiver via rider ' + '; '.join(dw), 'rider documents (features/riders)', None, rb.get('waiver_of_ulip_premium_through', '')), 'decision 3: disability waiver counts')
 for k in BHARTI:
     if k in RB and RB[k]['riders_stored']:
         setc('child_payor_benefit', k, ('?', 'rider waiver may be opted by the policyholder, but the rider names the life insured as the person whose event triggers it; not on death',
@@ -555,7 +582,30 @@ for k in DEEP:
     else:
         g = re.search(r'assured vesting|guarantee[d]? (vesting|maturity)|101%|minimum vesting|capital guarantee', mb, re.I)
         setc('pension_ulip_guaranteed_vesting', k, ('B' if g else '?', ('pension ULIP; ' + (g.group(0) if g else 'no vesting guarantee read in the deep data')), 'description line', None, dl[:300]), 'loose v1 row: read from description line')
+# admin_charge_waived_some_years: derived from the admin charge value (S3 v4 QA: 7 of 10 sampled blanks were B)
+for k in DEEP:
+    if cells.get(('admin_charge_waived_some_years', k), EMPTY)[0] in YES: continue
+    o = fld(deep[k], 'charges.policy_administration_charge'); t = flat(o.get('value'))
+    if re.search(r'\bnil\b|\b0(\.0+)?\s*%|no (policy )?administration charge|not (be )?(deducted|charged|applicable)', t, re.I) and re.search(r'[1-9]\d*(\.\d+)?\s*%|Rs\.?\s*\d', t):
+        setc('admin_charge_waived_some_years', k, ('B', 'derived from the admin charge: nil in some years, charged in others', o.get('doc'), o.get('page'), (o.get('quote') or t)[:400]), 'derived from policy_administration_charge')
+# Pattern 7: a flexibility option coded "not offered" with no value and no quote is silence, so "?"
+for f in ('auto_strategies', 'systematic_withdrawal', 'top_up_premium', 'settlement_option', 'premium_offset_or_holiday', 'partial_withdrawal', 'premium_redirection', 'increase_decrease_cover', 'change_ppt_or_term'):
+    for k in DEEP:
+        c = cells.get((f, k), EMPTY)
+        if c[0] == 'N' and not (c[1] or '').strip() and not (c[4] or '').strip():
+            setc(f, k, ('?', 'no mention in the documents (silence is not "not offered")', None, None, None), 'pattern 7: silence is ?')
+# Online or direct terms: scan of brochure and policy (S3 v4 QA found 5 misses in a sample)
+ONL = re.compile(r'(online|direct marketing|web aggregator|digital sale)[^.]{0,140}?(allocation charge|administration charge|admin charge|booster|discount|additional allocation|nil)', re.I)
+for k in DEEP:
+    if cells.get(('lower_charges_online', k), EMPTY)[0] in YES: continue
+    for dt, p_, t in all_pages(k, with_cis=False):
+        m = ONL.search(t)
+        if m:
+            setc('lower_charges_online', k, ('B', 'found by S1 scan, to confirm', dt, p_, t[max(0, m.start() - 80):m.end() + 80]), 'scan: online or direct terms'); break
 rows[ridx('tax_benefit_mention')]['source_note'] += '; v4: a mention of tax benefits only, not a product feature. Do not use for has/lacks claims.'
+
+# v4 QA overrides come last, so they win over the v4 rules and scans
+apply_overrides(sorted(glob.glob(os.path.join(A, 'v4', '*_overrides.csv'))) + sorted(glob.glob(os.path.join(A, 'v5', '*_overrides.csv'))))
 
 # headline charge numbers (deep)
 CH = []
@@ -617,18 +667,19 @@ def sheet(title, header, data, widths=None, note=None):
 ws = wb.create_sheet('README')
 ws.column_dimensions['A'].width = 140
 L = [
-    'ULIP feature list v4 (5 Nov 2026): 84 deep-discovery ULIPs plus 57 with brochure data only',
+    'ULIP feature list v5 (5 Nov 2026): v4 plus S3\'s v4 QA corrections. 84 deep-discovery ULIPs plus 57 with brochure data only',
     f'{nD + nB} ULIPs from {len(set(p["insurer"] for p in products.values()))} insurers. {nD} have deep-discovery data (policy document, CIS and brochure, read field by field); {nB} use the v1 brochure keyword scan.',
     'WHAT CHANGED FROM V3:',
     '1. S3\'s QA of Bharti: 63 cell corrections applied (tab "QA overrides", file analysis/v3/s3_overrides.csv).',
     '2. Riders: S2 downloaded and read the 30 riders our 84 ULIPs name. Waiver of premium, critical illness, accidental death and disability are coded R where only a rider gives them, and an earlier R that came only from a rider name is now "?" where the rider documents show no such benefit (tab "Rider recoding").',
     '3. Coding rules decided by the user on 5 Nov (analysis/v3/coding_rules.md, tab "v4 changes"): additions are split by basis, % of premium or % of fund value, and the "scheduled guaranteed additions" row is retired; payor waiver needs the payer\'s own event as the trigger; same loyalty design gets the same code; online or direct terms go to lower_charges_online; index funds and the lowest fund charges replace "index or low-cost funds".',
     '4. Scans of all 84 for S3\'s error patterns: policy loan "not applicable" on the CIS or policy, termination when the fund falls below a level, mortality as a % of IALM. Scan results say "to confirm". The loose v1 row "pension ULIP with guaranteed vesting" is now read from the IRDAI description line. "Tax benefit mention" is a mention only and is not used for has/lacks claims.',
-    '5. S3 checks v4 with qa/s3_v4/v4_qa_workbook.xlsx. Treat v4 as a draft until that QA is in.',
+    '5. S3 checked v4 (qa/s3_v4, 887 rows, 89% pass). v5 applies its 87 corrections (analysis/v4/s3_v4_overrides.csv) and fixes the causes: payor riders now come from the rider documents (37 ULIPs), disability-triggered waivers count as disability benefit (provisional), admin charge waived some years is derived from the admin charge, "not offered" with no evidence on flexibility options is now "?", and a scan finds online or direct terms. Five provisional decisions are in analysis/v5/decisions_overrides.csv and for-your-attention/questions_for_seniors.md.',
+    '6. Still open: the pay-term rows (single, limited, regular pay) need a full re-read of the PT/PPT grids; S3 found 10 of 25 sampled cells wrong. Until then treat those three rows as unreliable for peers (Bharti\'s are checked).',
     'CODES IN THE MATRIX:',
     'B built-in · O optional · R rider · N not offered · ? not stated in public documents · Y mentioned in brochure (v1, type unknown) · - not found in brochure · K keyword found, not verified · v a value.',
     'Counts for new features use deep products only (n of ' + str(nD) + ').',
-    'TABS: Features (one row each, counts, Bharti has/lacks) · Matrix · Charges · New features · v1 corrections · QA overrides · v4 changes · Rider recoding · Evidence · Products.',
+    'TABS: Features (one row each, counts, Bharti has/lacks) · Matrix · Charges · New features · v1 corrections · QA overrides · v4 changes (rules and scans, v4 and v5) · Rider recoding · Evidence · Products.',
     'Sources: features/ulip/<UIN>.json, features/riders/<UIN>.json, results/ulip_rider_benefits.csv, analysis/v4/additions_basis.csv, analysis/product_features_v1.csv. Rebuild: python3 -I analysis/scripts/additions_basis.py <repo>, then python3 -I analysis/scripts/build_ulip_features.py <repo>.',
 ]
 for i, l in enumerate(L, 1):
@@ -705,16 +756,16 @@ sheet('Evidence', ['Insurer', 'Product', 'UIN', 'Feature', 'Code', 'Value', 'Doc
 sheet('Products', ['Insurer', 'Product', 'UIN', 'Data source', 'Sub-segment (v1)', 'Deep cells: strong quote', 'Deep cells: weak quote'],
       [[products[k]['insurer'], products[k]['name'], k, products[k]['src'], products[k]['sub'], WEAK[k]['strong'] or '', WEAK[k]['weak'] or ''] for k in keys], {1: 22, 2: 45, 5: 36})
 
-out = os.path.join(A, 'feature_list_ulip_v4.xlsx')
+out = os.path.join(A, 'feature_list_ulip_v5.xlsx')
 wb.save(out)
-with open(os.path.join(A, 'product_features_ulip_v4.csv'), 'w', newline='', encoding='utf-8') as f:
+with open(os.path.join(A, 'product_features_ulip_v5.csv'), 'w', newline='', encoding='utf-8') as f:
     w = csv.writer(f); w.writerow(['uin', 'insurer', 'product', 'source', 'feature', 'code', 'value', 'doc', 'page', 'quote'])
     for r in rows:
         for k in keys:
             c = cells.get((r['id'], k), ('', '', None, None, None))
             w.writerow([k, products[k]['insurer'], products[k]['name'], products[k]['src'], r['id'], c[0], c[1], c[2] or '', c[3] or '', c[4] or ''])
 print('products', nD + nB, 'deep', nD, 'rows', len(rows), 'evidence', len(EV), 'corrections', len(corr), 'kw leads', dict(kw_count))
-with open(os.path.join(A, 'v4', 'v4_changes.csv'), 'w', newline='', encoding='utf-8') as f:
+with open(os.path.join(A, 'v5', 'rule_changes.csv'), 'w', newline='', encoding='utf-8') as f:
     w = csv.writer(f); w.writerow(['insurer', 'product', 'uin', 'feature', 'code_before', 'code_after', 'value_after', 'rule_or_scan']); w.writerows(V4_LOG)
 print('v4 changes', len(V4_LOG)); print('overrides', len(OVR_APPLIED), 'rider recodes', len(RIDER_APPLIED))
 print('unmapped new features:', [(k, n['feature']) for k, n in unmapped])
