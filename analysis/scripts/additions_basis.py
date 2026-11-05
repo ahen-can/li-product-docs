@@ -55,10 +55,16 @@ for f in sorted(glob.glob(os.path.join(R, 'features/ulip/*.json'))):
         segs_ = found[key]
         if segs_:
             txt = ' | '.join(segs_)
-            conds = {lab for rx, lab in CONDITION if lab != 'single pay' and any(re.search(rx, s, re.I) for s in segs_)}
+            # Decision 35: a condition goes on the part it applies to; "only for" on the whole row only if every part has it
+            per = []
+            for s_ in segs_:
+                labs = sorted({lab for rx, lab in CONDITION if lab != 'single pay' and re.search(rx, s_, re.I)})
+                per.append(labs)
+            conds = set(per[0]).intersection(*per[1:]) if per else set()
             if all(re.search(r'\bsingle\b|\bSP\b', s) and not re.search(r'annual|regular|limited|instalment|installment|\bAP\b', s, re.I) for s in segs_):
                 conds.add('single pay only')
             conds = sorted(conds)
+            txt = ' | '.join(s_ + (f' [only for: {", ".join(l)}]' if l and set(l) - set(conds) else '') for s_, l in zip(segs_, per))
             row[key] = 'B'; row[key + '_detail'] = txt[:600]; row[key + '_conditions'] = '; '.join(conds)
             doc, pg, q = ev[key]; row[key + '_doc'], row[key + '_page'], row[key + '_quote'] = doc, pg, (q or '')[:400]
             row[key + '_method'] = 'deep value text'

@@ -198,7 +198,7 @@ footer { margin-top: 3rem; padding-top: 1rem; border-top: 1px solid var(--rule);
     <li><span class="t">Universal product list</span><span class="big">633 products</span><span class="d">Mapped every individual life product on sale in India, from three kinds of source, each with its UIN and category.</span><a href="#s3">Section 3</a></li>
     <li><span class="t">Brochures and feature list v1</span><span class="big">516 brochures</span><span class="d">Downloaded the official brochure of every product from insurers' own sites, then listed which features exist across the market.</span><a href="#s4">Section 4</a></li>
     <li><span class="t">Who to compare</span><span class="big">10 insurers</span><span class="d">Chose the ULIP market leaders, three fast-moving challengers and Bharti, using a fixed rule.</span><a href="#s5">Section 5</a></li>
-    <li><span class="t">Policy documents and feature list v3</span><span class="big">84 ULIPs</span><span class="d">Read the full policy documents of every ULIP of those 10 insurers, field by field, to see exactly what each product offers.</span><a href="#s6">Section 6</a></li>
+    <li><span class="t">Policy documents and feature list v5</span><span class="big">84 ULIPs</span><span class="d">Read the full policy documents of every ULIP of those 10 insurers, and the 30 riders they name, field by field, to see exactly what each product offers.</span><a href="#s6">Section 6</a></li>
     <li><span class="t">Returns calculator</span><span class="big">within 0.3%</span><span class="d">Built a calculator that turns each product's charges into a net return for one standard customer, and checked it against insurer quotes.</span><a href="#s7">Section 7</a></li>
     <li><span class="t">Shortlist</span><span class="big">84 to 14 to 5</span><span class="d">Picked the products closest to Bharti's best sellers: 14 in the comparison Excel, 5 in the deck.</span><a href="#s8">Section 8</a></li>
     <li><span class="t">Deck and quality checks</span><span class="big">12 slides</span><span class="d">Put the findings into a short deck, and had the work checked by hand and by a separate session.</span><a href="#s9">Sections 9 and 10</a></li>
@@ -220,7 +220,7 @@ footer { margin-top: 3rem; padding-top: 1rem; border-top: 1px solid var(--rule);
     <li><a href="#s3"><span>03</span>Product list</a></li>
     <li><a href="#s4"><span>04</span>Brochures, v1</a></li>
     <li><a href="#s5"><span>05</span>Who to compare</a></li>
-    <li><a href="#s6"><span>06</span>Policy documents, v3</a></li>
+    <li><a href="#s6"><span>06</span>Policy documents, v5</a></li>
     <li><a href="#s7"><span>07</span>Calculator</a></li>
     <li><a href="#s8"><span>08</span>Shortlist</a></li>
     <li><a href="#s9"><span>09</span>Deck</a></li>
@@ -285,7 +285,7 @@ footer { margin-top: 3rem; padding-top: 1rem; border-top: 1px solid var(--rule);
     <li><b>Weak persistency.</b> 13th-month persistency is 64.5%, second lowest of the 14 insurers we compared.</li>
     <li><b>Expenses over the IRDAI limit.</b> Bharti breached the limit every year from FY21 to FY25, and IRDAI issued a show-cause notice for FY25. Expenses are 34% of premium, mostly operating costs rather than commission, against a proposed 15% limit.</li>
   </ul></div>
-  <p class="small"><a href="https://github.com/ahen-can/li-product-docs/blob/s3-bharti-analysis/analysis/bharti/bharti_analysis.xlsx">Open S3's Bharti trend workbook ↗</a> <span class="muted">(on S3's branch, to be merged into deliverable 01)</span></p>
+  <p class="small"><a href="https://github.com/ahen-can/li-product-docs/blob/main/analysis/bharti/bharti_analysis.xlsx">Open S3's Bharti trend workbook ↗</a></p>
 </section>
 
 <section class="step" id="s3">
@@ -346,25 +346,25 @@ footer { margin-top: 3rem; padding-top: 1rem; border-top: 1px solid var(--rule);
 </section>
 
 <section class="step" id="s6">
-  <div class="sh"><span class="n">06</span><h2>Policy documents and feature list v3</h2></div>
+  <div class="sh"><span class="n">06</span><h2>Policy documents and feature list v5</h2></div>
   <div class="prose"><p>For the 84 ULIPs, Claude read the policy document, customer information sheet and brochure, and recorded 65 fields per product, each with document, page and a quote. Each feature is recorded as one of:</p>
   <p><span class="tag t-b">built-in</span><span class="tag t-o">optional</span><span class="tag t-r">rider</span><span class="tag t-n">not offered</span><span class="tag t-q">not stated</span></p>
-  <p>This found what brochures miss: 31 features not in v1 (such as a refund of 118% of all charges, or plans that continue after death with premiums funded), full charge and mortality tables, and 353 corrections to v1.</p></div>
-  <p class="small"><b>What v3 shows about Bharti, early read:</b></p>
+  <p>This found what brochures miss: 31 features not in v1 (such as a refund of 118% of all charges, or plans that continue after death with premiums funded), full charge and mortality tables, and 353 corrections to v1.</p><p>We then read the 30 riders these ULIPs name, because features such as waiver of premium, critical illness and accident cover often come only through a rider. A separate session checked the list twice (about 1,700 checks); v5 has every correction and a few coding rules, such as splitting additions into a % of premium (amount known at the start) and a % of fund value (moves with the market).</p></div>
+  <p class="small"><b>What v5 shows about Bharti, early read:</b></p>
   <div class="boxes">
-    <div class="box"><span class="k">Bharti has, most peers don't</span><span class="s">Wealth Maximizer refunds 118% of all charges. Only 4 of 84 ULIPs refund fund management charges, and 2 are Bharti's. 3 Bharti products return charges at a multiple. 6 of the 7 allow unlimited free switches; Future Invest gives 12 a year.</span></div>
-    <div class="box"><span class="k">Peers have, Bharti doesn't</span><span class="s">Waiver of premium built in or as an option (43 of 84 have it in some form; Bharti has it only through its optional Complete Shield rider), top-ups (38; six Bharti documents are silent, one says not allowed), guaranteed additions (20), a plan that continues after death (16), and pension or child ULIPs. Bharti has 8 funds against 14 to 31 at the leaders. Online terms (14) are in Wealth Pro and Grow Wealth, so v3 undercounts Bharti there.</span></div>
+    <div class="box"><span class="k">Bharti has, most peers don't</span><span class="s">Wealth Maximizer refunds 118% of all charges. Only 3 of 84 ULIPs refund fund management charges, and one is Bharti's. 3 Bharti products return charges at a multiple. 6 of the 7 allow unlimited free switches; Future Invest gives 12 a year.</span></div>
+    <div class="box"><span class="k">Peers have, Bharti doesn't</span><span class="s">Waiver of premium built in or as an option (28 of 84; 60 have it in some form; Bharti has it only through its Complete Shield rider, at extra cost and not on death), top-ups (38; six Bharti documents are silent, one says not allowed), additions as a fixed % of premium (32; Bharti's are a % of fund, except Grow Wealth Ultra's for women and auto-pay), a plan that continues after death (16), and pension or child ULIPs. Bharti has 8 funds against 14 to 31 at the leaders. Online terms (28) are in Wealth Pro and Grow Wealth.</span></div>
   </div>
   <div class="sheetwrap">
     <div class="sheet"><table>
       <thead><tr><th></th><th>B</th><th>F</th><th>G</th><th>L</th></tr></thead>
       <tbody>
         <tr class="hdr"><td class="rn">1</td><td>Feature</td><td>Has it (of 84)</td><td>Built-in / optional / rider</td><td>Bharti</td></tr>
-        <tr><td class="rn">11</td><td>Waiver of premium</td><td class="r">43</td><td>11 / 17 / 15</td><td>none in v3 (rider offers it)</td></tr>
+        <tr><td class="rn">11</td><td>Waiver of premium</td><td class="r">60</td><td>11 / 17 / 32</td><td>rider, 6 of 7</td></tr>
         <tr><td class="rn">26</td><td>Return of mortality charges</td><td class="r">45</td><td>44 / 1 / 0</td><td>5 of 7</td></tr>
-        <tr><td class="rn">77</td><td>Scheduled guaranteed additions <span class="muted">(new in v3)</span></td><td class="r">20</td><td>20 / 0 / 0</td><td>none</td></tr>
+        <tr><td class="rn">77</td><td>Additions as a % of premium <span class="muted">(new in v4)</span></td><td class="r">32</td><td>32 / 0 / 0</td><td>Grow Wealth Ultra (women, auto-pay)</td></tr>
       </tbody></table></div>
-    <div class="sheetfoot"><span class="tab">Features</span><a href="https://github.com/ahen-can/li-product-docs/blob/8fb1ecd/deliverables/05_feature_list_ulip_v3.xlsx">Open feature list v3 ↗</a></div>
+    <div class="sheetfoot"><span class="tab">Features</span><a href="https://github.com/ahen-can/li-product-docs/blob/main/deliverables/05_feature_list_ulip_v5.xlsx">Open feature list v5 ↗</a></div>
   </div>
 </section>
 
@@ -404,10 +404,10 @@ footer { margin-top: 3rem; padding-top: 1rem; border-top: 1px solid var(--rule);
     <tbody>
       <tr><td>Allocation charge, year 1</td><td>9%</td><td>9%</td><td>6%</td><td>12%</td><td>Nil</td></tr>
       <tr><td>Charges returned</td><td>Mortality and allocation at maturity</td><td>None</td><td>Only in waiver-plus option</td><td>Mortality from yr 11; 2x allocation</td><td>Mortality at maturity</td></tr>
-      <tr><td>Waiver of premium</td><td>Rider only</td><td>Rider</td><td>Option</td><td>Not stated</td><td>Not stated</td></tr>
+      <tr><td>Waiver of premium</td><td>Rider (not on death)</td><td>Rider</td><td>Option</td><td>Rider</td><td>None</td></tr>
       <tr><td>Top-ups</td><td>Not stated</td><td>No</td><td>Yes</td><td>Yes</td><td>Yes</td></tr>
       <tr><td>Funds</td><td class="r">8</td><td class="r">14</td><td class="r">17</td><td class="r">31</td><td class="r">31</td></tr>
-      <tr class="tot"><td>Net yield at 8%</td><td class="r">6.21%</td><td class="r">6.00%</td><td class="r">6.21%</td><td class="r">not published</td><td class="r">6.72%</td></tr>
+      <tr class="tot"><td>Net yield at 8%</td><td class="r">6.21%</td><td class="r">6.16%</td><td class="r">6.21%</td><td class="r">not published</td><td class="r">6.72%</td></tr>
     </tbody></table></div>
   <p class="small muted">Net yield from our calculator, excluding GST, for the standard customer. Tata does not publish its mortality rates.</p>
   <p class="small"><a href="https://claude.ai/artifact/K47aHoxEmo3J5AUtJ8hMWp">Open the full deck ↗</a></p>
@@ -418,6 +418,7 @@ footer { margin-top: 3rem; padding-top: 1rem; border-top: 1px solid var(--rule);
   <div class="boxes">
     <div class="box"><span class="k">By hand (Shobhit)</span><span class="v">200</span><span class="s">100 products and 100 brochures. Only UIN versions, one withdrawn product and some wrong document types; no brochure for the wrong product</span></div>
     <div class="box"><span class="k">Separate session (S3)</span><span class="v">255</span><span class="s">Checks of fields, features, calculator inputs and Bharti numbers: 237 pass, 8 fail, 10 unsure</span></div>
+    <div class="box"><span class="k">Feature list checks (S3)</span><span class="v">1,711</span><span class="s">Two rounds: every Bharti cell (824 checks), then riders, new rows and a peer sample (887 checks, 89% pass). All fails fixed in v5; every Bharti claim held in the second round</span></div>
   </div>
   <div class="note warnnote"><b>QA caught one real error, now fixed.</b> We had assumed Bharti's disclosed products were 90% of FY26 new business. The 90% refers to FY27 sales so far; for FY26 they are 54%.</div>
 </section>
@@ -428,6 +429,7 @@ footer { margin-top: 3rem; padding-top: 1rem; border-top: 1px solid var(--rule);
     <li><b>ICICI</b> (12.7% of ULIP premium) is not in yet; I'll analyse its ULIPs myself against the feature list.</li>
     <li><b>Tata AIA</b> doesn't publish mortality rates, so its returns need to be added by hand.</li>
     <li><b>8 of the 13 calculated products</b> are still to be checked by hand.</li>
+    <li><b>Payment-term options</b> (single, limited, regular pay) for peers are being re-read; Bharti's are checked.</li>
     <li><b>Peers' sales by product</b> aren't public, and market shares use total premium including renewals.</li>
     <li><b>Fund performance and ratings</b> are not included yet.</li>
   </ul></div>
@@ -436,7 +438,7 @@ footer { margin-top: 3rem; padding-top: 1rem; border-top: 1px solid var(--rule);
 <section class="step" id="s12">
   <div class="sh"><span class="n">12</span><h2>Things to do</h2></div>
   <ul class="todo">
-    <li>Review feature lists v1 and v3, and make sure I understand every feature.</li>
+    <li>Review feature lists v1 and v5, and make sure I understand every feature.</li>
     <li>Go through the comparison workbook and the calculator logic.</li>
     <li>Check the remaining calculated products against SBI and Bajaj illustrations.</li>
     <li>Analyse ICICI's ULIPs myself against the feature list, and add Tata's mortality rates.</li>
