@@ -130,3 +130,10 @@ Last updated: 5 Nov 2026 (wave 1 done; walkthrough page and restyled deck for Ne
 - **Tata Smart Pension Secure (110L182V09).** Fund names are not mapped to their codes.
 - **Old quotes.** Redo the label-only quotes in the 35 files at the end of wave 1. A rough scan flags about 360 fields with numbers in the value but none in the quote, and some of those are fine ("three years").
 - **No BIs.** None of the four insurers done so far publishes BIs or product-specific fund factsheets.
+
+## S2 self-QA of the walkthrough page and deck (5 Nov)
+
+Workbook: `qa/s2/s2_qa_workbook.xlsx`, built by `scripts/s2_tools/build_qa_workbook.py` (edit ROWS, rerun). 84 claims traced to the deliverables, policy-document JSONs and S3's notes: 57 pass, 12 fail, 9 warn, 3 unverified, 3 supplied verbally by the user.
+- Fixed on the page (08): preview row numbers (Bharti portfolio, v1, v3), "All 7 free switches" is 6 of 7 (Future Invest has 12 a year), expert nomination not yet applied to the challenger scores.
+- Open on the deck (S1's content, not changed): "mostly as a rider" (waiver is mostly an option), Bharti "5 products" for loyalty or boosters (6), Grow Wealth Ultra 1.31% not in deliverable 06, "Bharti x3 checked" (06 shows 2 Bharti checks), SBI Retire Smart Plus has no assured vesting, "most policies in force" claim on slide 11 note, S3 QA counts (237/8/10 vs 233/7/9 now).
+- Still unverified: calculator steps on the page, FY25 conservation 75.4%, page reading time.
